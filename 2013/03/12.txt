@@ -68,3 +68,6 @@
 [2013-03-12 16:04:18] lukeis1, quitting. (Quit: Leaving.)
 [2013-03-12 16:12:06] rsalvador, joining. (#ios-driver)
 [2013-03-12 16:12:11] rsalvador, leaving. (#ios-driver)
+[2013-03-12 16:16:51] rsalvador, joining. (#ios-driver)
+[2013-03-12 16:18:33] rsalvador: I just updated to the latest ios-driver-beta and the ios-server is no longer starting the apps: i.e. mobile safari tests fail with this message: SessionNotCreatedException: {simulator=false, timeHack=false, variation=Regular, locale=en_GB, CFBundleName=Safari, device=iphone, language=en} not found on server.
+[2013-03-12 16:18:57] rsalvador: is there some different setup one needs to do now?
