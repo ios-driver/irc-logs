@@ -63,3 +63,4 @@
 [2013-03-12 14:36:24] dgrace: :freynaud you there?
 [2013-03-12 14:41:04] lukeis1, joining. (#ios-driver)
 [2013-03-12 14:43:18] lukeis, quitting. (Ping timeout: 252 seconds)
+[2013-03-12 15:03:57] dgrace, quitting. (Quit: dgrace)
