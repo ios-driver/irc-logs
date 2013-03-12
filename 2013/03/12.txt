@@ -46,3 +46,8 @@
 [2013-03-12 12:22:47] rsalvador1, joining. (#ios-driver)
 [2013-03-12 12:22:57] rsalvador1, leaving. (#ios-driver)
 [2013-03-12 12:36:05] dgrace, quitting. (Quit: dgrace)
+[2013-03-12 12:41:25] nicegraham_: freynaud noticed that IOSServer wasn't printing the available apps - the getSupportedApplications wasn't pointing to the app store. I've changed that and pushed to my fork.
+[2013-03-12 12:41:55] freynaud: small world
+[2013-03-12 12:42:04] freynaud: i changed it locally 20 min ago
+[2013-03-12 12:42:15] nicegraham_: :)
+[2013-03-12 12:42:20] nicegraham_: great minds more like
