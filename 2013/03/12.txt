@@ -45,3 +45,4 @@
 [2013-03-12 12:06:39] freynaud: that's the crazy "exiledSDK thing"
 [2013-03-12 12:22:47] rsalvador1, joining. (#ios-driver)
 [2013-03-12 12:22:57] rsalvador1, leaving. (#ios-driver)
+[2013-03-12 12:36:05] dgrace, quitting. (Quit: dgrace)
