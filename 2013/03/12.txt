@@ -65,3 +65,4 @@
 [2013-03-12 14:43:18] lukeis, quitting. (Ping timeout: 252 seconds)
 [2013-03-12 15:03:57] dgrace, quitting. (Quit: dgrace)
 [2013-03-12 15:39:23] nicegraham_, quitting. (Quit: nicegraham_)
+[2013-03-12 16:04:18] lukeis1, quitting. (Quit: Leaving.)
