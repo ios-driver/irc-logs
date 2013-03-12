@@ -40,3 +40,4 @@
 [2013-03-12 11:32:01] freynaud: can you email me the info.plist ?
 [2013-03-12 11:32:46] dgrace: sure, i'll fire it on now
 [2013-03-12 11:32:52] freynaud: thx
+[2013-03-12 11:55:20] lukeis: do we have the ability to specify which version of the sdk to run against?
