@@ -1,0 +1,27 @@
+[2013-03-12 10:58:19] ios-driverbot, joining. (#ios-driver)
+[2013-03-12 10:58:27] lukeis: hiya ios-driverbot ;)
+[2013-03-12 10:58:51] nicegraham_: what does this fella do?
+[2013-03-12 10:59:00] lukeis: same thing as selbot2
+[2013-03-12 10:59:04] lukeis: but also logs
+[2013-03-12 10:59:27] lukeis: and with some selenium specific features stripped out
+[2013-03-12 10:59:31] lukeis: :help
+[2013-03-12 10:59:32] nicegraham_: i don't really know what selbot2 does either :)
+[2013-03-12 10:59:37] lukeis: type that ^
+[2013-03-12 10:59:42] nicegraham_: help
+[2013-03-12 10:59:48] lukeis: with a colon
+[2013-03-12 10:59:52] nicegraham_: help:
+[2013-03-12 10:59:56] nicegraham_: :help
+[2013-03-12 10:59:56] lukeis: heh
+[2013-03-12 11:00:26] nicegraham_: cool
+[2013-03-12 11:00:32] nicegraham_: so you can get the log if you miss it.
+[2013-03-12 11:00:48] nicegraham_: me likes
+[2013-03-12 11:01:00] dgrace: help:
+[2013-03-12 11:01:40] dgrace: how can i get missed logs?
+[2013-03-12 11:02:07] dgrace: :help
+[2013-03-12 11:02:58] dgrace: :log
+[2013-03-12 11:03:06] lukeis: not there yet… will be soon
+[2013-03-12 11:03:24] nicegraham_: how often does it write?
+[2013-03-12 11:03:38] lukeis: https://github.com/ios-driver/irc-logs/blob/master/README.md
+[2013-03-12 11:04:38] nicegraham_: very nice
+[2013-03-12 11:06:52] lukeis: and the source in case you want to update the bot https://github.com/lukeis/ios-driverbot
+[2013-03-12 11:07:42] nicegraham_: thx
