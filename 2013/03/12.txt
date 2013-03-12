@@ -51,3 +51,5 @@
 [2013-03-12 12:42:04] freynaud: i changed it locally 20 min ago
 [2013-03-12 12:42:15] nicegraham_: :)
 [2013-03-12 12:42:20] nicegraham_: great minds more like
+[2013-03-12 12:49:25] rsalvador, joining. (#ios-driver)
+[2013-03-12 12:49:34] rsalvador, leaving. (#ios-driver)
