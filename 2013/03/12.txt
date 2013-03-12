@@ -35,3 +35,8 @@
 [2013-03-12 11:24:39] nicegraham_: freynaud do you have a url for that safari issue [itunes link]
 [2013-03-12 11:25:00] freynaud: ebay.co.uk or salesforce trigger it
 [2013-03-12 11:25:24] lukeis: i don't have a link to show for how salesforce does it
+[2013-03-12 11:30:05] dgrace: :freynaud I was disconnected earlier on so didn't see chat.. That plist problem occurs with the latest source from ios-driver-beta
+[2013-03-12 11:30:26] dgrace: i'm going to have a look this evening to see why
+[2013-03-12 11:32:01] freynaud: can you email me the info.plist ?
+[2013-03-12 11:32:46] dgrace: sure, i'll fire it on now
+[2013-03-12 11:32:52] freynaud: thx
