@@ -58,3 +58,5 @@
 [2013-03-12 14:07:28] lukeis2, joining. (#ios-driver)
 [2013-03-12 14:07:43] lukeis, quitting. (Read error: Operation timed out)
 [2013-03-12 14:09:12] lukeis, joining. (#ios-driver)
+[2013-03-12 14:10:40] lukeis1, quitting. (Ping timeout: 252 seconds)
+[2013-03-12 14:12:30] lukeis2, quitting. (Ping timeout: 252 seconds)
