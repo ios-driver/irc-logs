@@ -41,3 +41,5 @@
 [2013-03-12 11:32:46] dgrace: sure, i'll fire it on now
 [2013-03-12 11:32:52] freynaud: thx
 [2013-03-12 11:55:20] lukeis: do we have the ability to specify which version of the sdk to run against?
+[2013-03-12 12:06:18] freynaud: yes
+[2013-03-12 12:06:39] freynaud: that's the crazy "exiledSDK thing"
