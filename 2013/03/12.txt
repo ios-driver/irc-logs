@@ -25,3 +25,8 @@
 [2013-03-12 11:04:38] nicegraham_: very nice
 [2013-03-12 11:06:52] lukeis: and the source in case you want to update the bot https://github.com/lukeis/ios-driverbot
 [2013-03-12 11:07:42] nicegraham_: thx
+[2013-03-12 11:11:29] lukeis: looky that ;)  :log
+[2013-03-12 11:12:00] lukeis: sorry, time zone is Pacific… cause that's where i am ;)
+[2013-03-12 11:13:18] nicegraham_: cool, so we have to be careful what we write now… :P
+[2013-03-12 11:13:50] lukeis: :) you should often be careful. *anyone* can log on IRC (my client does by default when i'm on)
+[2013-03-12 11:14:27] lukeis: has helped me in the past… i'm forgetful :)
