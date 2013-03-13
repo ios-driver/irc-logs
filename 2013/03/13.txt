@@ -70,3 +70,7 @@
 [2013-03-13 09:39:09] lukeis: i think with all the hacking at trying to get real device working with safari he may have left the default like that
 [2013-03-13 09:39:29] nicegraham: yeah, I think that's probably i
 [2013-03-13 09:39:32] nicegraham: it
+[2013-03-13 09:40:12] nicegraham: I can revert that in my fork but you'd be better just doing it in master probably and fixing the issue for roman
+[2013-03-13 09:40:48] lukeis: i'm not a huge fan of the abrupt Sim incompatibility of the matcher… desired caps aren't 'required caps' :)
+[2013-03-13 09:41:19] nicegraham: you reckon it should degrage to simulator if no physical device is available?
+[2013-03-13 09:41:56] lukeis: yes
