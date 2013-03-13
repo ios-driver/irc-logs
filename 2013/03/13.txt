@@ -161,3 +161,16 @@
 [2013-03-13 15:13:17] lukeis: i had to look up how to do 2 things even ;)
 [2013-03-13 15:14:15] nicegraham: I'm creating a cheat sheet for myself
 [2013-03-13 15:14:37] nicegraham: I keep forgetting the nitty-gritty of adding upstream branches etc
+[2013-03-13 15:15:35] nicegraham: that looks good - I'll run through it tomorrow and give it to the rest of the team too
+[2013-03-13 15:16:39] nicegraham: we did the official github training but the pace was SO slow my mind wandered and I missed anything useful
+[2013-03-13 15:17:34] lukeis: i pushed your change to master
+[2013-03-13 15:17:49] lukeis: now you should rebase ;)
+[2013-03-13 15:17:57] lukeis: git pull --rebase
+[2013-03-13 15:18:32] nicegraham: I need to switch branch though right?
+[2013-03-13 15:18:39] lukeis: to master, yeah
+[2013-03-13 15:18:45] lukeis: and pull from ios-driver repo ;)
+[2013-03-13 15:19:02] nicegraham: so git pull upstream master --rebase?
+[2013-03-13 15:19:22] lukeis: do you have a remote named 'upstream'?
+[2013-03-13 15:19:35] lukeis: git pull --rebase upstream master
+[2013-03-13 15:19:46] nicegraham: realised that
+[2013-03-13 15:19:52] lukeis: :)
