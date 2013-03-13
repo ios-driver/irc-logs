@@ -186,3 +186,5 @@
 [2013-03-13 15:23:43] nicegraham: I'll avoid that one!
 [2013-03-13 15:24:06] lukeis: in my early days of git, i did that, cause i didn't know how to rebase
 [2013-03-13 15:24:52] nicegraham: I've done it myself [intentionally] when I've gotten branches in a mess... seemed like the easiest way out
+[2013-03-13 15:26:12] lukeis: in reality it's a sure fire way to lose ALL your work ;)
+[2013-03-13 15:28:13] nicegraham: I'm signing off - enjoy the rest of your day :)
