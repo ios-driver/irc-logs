@@ -16,3 +16,6 @@
 [2013-03-13 08:42:59] nicegraham: freynuad yt?
 [2013-03-13 08:52:46] dgrace, quitting. (Ping timeout: 252 seconds)
 [2013-03-13 09:08:01] lukeis: so (as roman pointed out last night) the latest in master fails to start up mobilesafari… i haven't run it down yet as to why (oh and no stacktrace gets output...)
+[2013-03-13 09:10:17] dgrace, joining. (#ios-driver)
+[2013-03-13 09:13:32] rsalvador, joining. (#ios-driver)
+[2013-03-13 09:13:47] rsalvador, leaving. (#ios-driver)
