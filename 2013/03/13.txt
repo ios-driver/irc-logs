@@ -60,3 +60,13 @@
 [2013-03-13 09:27:58] nicegraham: do you know where the webview selection is in the code [ballpark]?
 [2013-03-13 09:28:10] lukeis: yeah, gimme a sec
 [2013-03-13 09:34:47] dgrace, quitting. (Ping timeout: 256 seconds)
+[2013-03-13 09:37:47] nicegraham: just checked and IOSCapabilities is setting that to false by default
+[2013-03-13 09:37:47] nicegraham: public IOSCapabilities() {
+[2013-03-13 09:37:48] nicegraham:     setCapability(TIME_HACK, false);
+[2013-03-13 09:37:48] nicegraham:     setCapability(VARIATION, DeviceVariation.Regular);
+[2013-03-13 09:37:48] nicegraham:     setCapability(SIMULATOR, false);
+[2013-03-13 09:37:48] nicegraham:   }
+[2013-03-13 09:38:37] lukeis: yep, i saw that...
+[2013-03-13 09:39:09] lukeis: i think with all the hacking at trying to get real device working with safari he may have left the default like that
+[2013-03-13 09:39:29] nicegraham: yeah, I think that's probably i
+[2013-03-13 09:39:32] nicegraham: it
