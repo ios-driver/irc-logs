@@ -6,3 +6,5 @@
 [2013-03-13 06:07:35] dgrace, joining. (#ios-driver)
 [2013-03-13 06:19:05] dgrace, quitting. (Quit: dgrace)
 [2013-03-13 06:20:31] dgrace, joining. (#ios-driver)
+[2013-03-13 06:26:41] dgrace, quitting. (Ping timeout: 245 seconds)
+[2013-03-13 06:29:04] freynaud, joining. (#ios-driver)
