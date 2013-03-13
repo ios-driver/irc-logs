@@ -74,3 +74,5 @@
 [2013-03-13 09:40:48] lukeis: i'm not a huge fan of the abrupt Sim incompatibility of the matcher… desired caps aren't 'required caps' :)
 [2013-03-13 09:41:19] nicegraham: you reckon it should degrage to simulator if no physical device is available?
 [2013-03-13 09:41:56] lukeis: yes
+[2013-03-13 09:45:54] lukeis: do you have anything to clean up errant instruments processes?
+[2013-03-13 09:46:19] lukeis: i keep doing `ps ax | grep -i instr`  and then killing them ;)
