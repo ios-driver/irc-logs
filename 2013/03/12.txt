@@ -73,3 +73,6 @@
 [2013-03-12 16:18:57] rsalvador: is there some different setup one needs to do now?
 [2013-03-12 16:20:40] rsalvador: I also tried a clean clone of https://github.com/ios-driver/ios-driver-beta and mvn verify fails, the simulator is not launched
 [2013-03-12 17:19:14] rsalvador, leaving. (#ios-driver)
+[2013-03-12 18:12:34] rsalvador, joining. (#ios-driver)
+[2013-03-12 18:13:59] rsalvador1, joining. (#ios-driver)
+[2013-03-12 18:14:55] rsalvador1, leaving. (#ios-driver)
