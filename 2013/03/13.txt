@@ -194,3 +194,4 @@
 [2013-03-13 15:32:42] lukeis: done ;)
 [2013-03-13 15:34:25] lukeis: nicegraham: your email is set incorrectly in your commit messages… you need to do `git config user.email nicegraham@gmail.com`
 [2013-03-13 15:34:41] lukeis: i'll try to correct the ones that i merged
+[2013-03-13 15:42:42] lukeis: ok, i had to re-write those commits… hopefully you won't be in a world of hurt when you pull those! :) (just remember to always use the --rebase option)
