@@ -139,3 +139,7 @@
 [2013-03-13 14:46:32] nicegraham: :note freynaud the itunes webview issue is sorted in my fork now
 [2013-03-13 14:55:22] lukeis: i hope notes work… it didn't work on this bot for me when I tried on another channel
 [2013-03-13 14:56:17] nicegraham: dang... I'll ping him a mail in case
+[2013-03-13 15:02:40] lukeis: linking to just that commit is odd, since you don't see the method isITunesAd ;)  might want to squash those commits
+[2013-03-13 15:04:12] nicegraham: how do I do that?
+[2013-03-13 15:04:29] lukeis: git rebase -i HEAD~5
+[2013-03-13 15:04:47] lukeis: then change the "pick" to "s" next to the commits to squash
