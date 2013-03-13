@@ -76,3 +76,4 @@
 [2013-03-12 18:12:34] rsalvador, joining. (#ios-driver)
 [2013-03-12 18:13:59] rsalvador1, joining. (#ios-driver)
 [2013-03-12 18:14:55] rsalvador1, leaving. (#ios-driver)
+[2013-03-12 18:15:04] rsalvador, leaving. (#ios-driver)
