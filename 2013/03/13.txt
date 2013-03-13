@@ -76,3 +76,9 @@
 [2013-03-13 09:41:56] lukeis: yes
 [2013-03-13 09:45:54] lukeis: do you have anything to clean up errant instruments processes?
 [2013-03-13 09:46:19] lukeis: i keep doing `ps ax | grep -i instr`  and then killing them ;)
+[2013-03-13 09:56:20] nicegraham: i just use the monitor :)
+[2013-03-13 09:56:32] nicegraham: a ui version of the same
+[2013-03-13 09:56:52] nicegraham: though I leave it open with the instruments filtered
+[2013-03-13 09:57:01] nicegraham: I looked at the canRun() method
+[2013-03-13 09:57:30] nicegraham: the first thing it does is check for simulator
+[2013-03-13 09:57:40] nicegraham: and breaks if it doesn't match
