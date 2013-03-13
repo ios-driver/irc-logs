@@ -143,3 +143,10 @@
 [2013-03-13 15:04:12] nicegraham: how do I do that?
 [2013-03-13 15:04:29] lukeis: git rebase -i HEAD~5
 [2013-03-13 15:04:47] lukeis: then change the "pick" to "s" next to the commits to squash
+[2013-03-13 15:05:26] lukeis: after that's done, you'll need to force push to your repo  (git push --force)
+[2013-03-13 15:05:38] lukeis: yay for re-writing history ;)
+[2013-03-13 15:06:45] nicegraham: after changing them to s
+[2013-03-13 15:06:53] nicegraham: i :wq?
+[2013-03-13 15:06:57] lukeis: yes
+[2013-03-13 15:07:01] nicegraham: where do I put the commit message?
+[2013-03-13 15:07:06] lukeis: it'll show ya
