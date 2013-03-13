@@ -10,3 +10,4 @@
 [2013-03-13 06:29:04] freynaud, joining. (#ios-driver)
 [2013-03-13 06:40:40] freynaud, quitting. (Quit: freynaud)
 [2013-03-13 06:46:58] freynaud, joining. (#ios-driver)
+[2013-03-13 07:39:52] dgrace, joining. (#ios-driver)
