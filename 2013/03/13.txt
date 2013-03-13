@@ -125,3 +125,5 @@
 [2013-03-13 10:45:46] lukeis: i've seen that happen ;)
 [2013-03-13 11:31:06] nicegraham: I have a hacky fix for that issue... have to head home now but I'll be back later.
 [2013-03-13 12:08:17] nicegraham: Lukeis: BTW, loving irccloud! The android app is great so far.
+[2013-03-13 12:15:21] lukeis: cool :)
+[2013-03-13 12:15:48] lukeis: i stopped using it because i became *too* connected ;)
