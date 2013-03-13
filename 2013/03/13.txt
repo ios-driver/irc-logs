@@ -37,3 +37,25 @@
 [2013-03-13 09:24:10] nicegraham: seems like it
 [2013-03-13 09:24:28] nicegraham: I coudn't get it to run until I set it to true explicitly
 [2013-03-13 09:24:36] lukeis: yeah, that makes sense
+[2013-03-13 09:25:16] nicegraham: do you know about this itunes link bug francois mentioned?
+[2013-03-13 09:25:25] lukeis: yes
+[2013-03-13 09:25:26] nicegraham: I've navigated to the ebay home page, and can see the link
+[2013-03-13 09:25:30] nicegraham: but it's not crashing...
+[2013-03-13 09:25:39] lukeis: it won't 'crash'
+[2013-03-13 09:25:42] nicegraham: do I need to do something else?
+[2013-03-13 09:25:53] lukeis: it just picks the wrong UIWebView to communicate with (sometimes)
+[2013-03-13 09:26:04] nicegraham: oh, ok
+[2013-03-13 09:26:07] lukeis: the itunes banner is a separate UIWebView
+[2013-03-13 09:26:10] nicegraham: that's different to what I thought
+[2013-03-13 09:26:13] nicegraham: yeah, I saw that
+[2013-03-13 09:26:35] nicegraham: so it's mixing up contexts?
+[2013-03-13 09:26:35] lukeis: f*ing apple / mobile safari… anothing uiwebview??
+[2013-03-13 09:26:36] lukeis: ;)
+[2013-03-13 09:26:39] lukeis: yes
+[2013-03-13 09:26:46] lukeis: we pick the 'first' one we find
+[2013-03-13 09:26:58] lukeis: but we should pick the 'not itunes ad' one
+[2013-03-13 09:27:22] nicegraham: so we need to add a isItunesAd() check
+[2013-03-13 09:27:23] nicegraham: ?
+[2013-03-13 09:27:32] lukeis: or something like that
+[2013-03-13 09:27:58] nicegraham: do you know where the webview selection is in the code [ballpark]?
+[2013-03-13 09:28:10] lukeis: yeah, gimme a sec
