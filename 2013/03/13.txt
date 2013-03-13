@@ -82,3 +82,4 @@
 [2013-03-13 09:57:01] nicegraham: I looked at the canRun() method
 [2013-03-13 09:57:30] nicegraham: the first thing it does is check for simulator
 [2013-03-13 09:57:40] nicegraham: and breaks if it doesn't match
+[2013-03-13 10:20:21] lukeis: yep, i have a patch that I think i'm going to apply
