@@ -150,3 +150,14 @@
 [2013-03-13 15:06:57] lukeis: yes
 [2013-03-13 15:07:01] nicegraham: where do I put the commit message?
 [2013-03-13 15:07:06] lukeis: it'll show ya
+[2013-03-13 15:10:23] nicegraham: great - that's squashed now :)
+[2013-03-13 15:10:35] nicegraham: though I seemed to catch one of francois changes too...
+[2013-03-13 15:10:54] lukeis: hrmm, likely you did not want to do that ;)
+[2013-03-13 15:11:27] lukeis: looks ok to me: https://github.com/nicegraham/ios-driver-beta/commit/62c25829f478483b10363046ad2429b65361aa85
+[2013-03-13 15:11:27] nicegraham: nope - that was unintended
+[2013-03-13 15:12:14] nicegraham: it's certainly better and I've learned some more git, so thanks for that!
+[2013-03-13 15:12:39] lukeis: go through this exercise: https://github.com/Gazler/githug
+[2013-03-13 15:12:47] lukeis: should be a must for all git users ;)
+[2013-03-13 15:13:17] lukeis: i had to look up how to do 2 things even ;)
+[2013-03-13 15:14:15] nicegraham: I'm creating a cheat sheet for myself
+[2013-03-13 15:14:37] nicegraham: I keep forgetting the nitty-gritty of adding upstream branches etc
