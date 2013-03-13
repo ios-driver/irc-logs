@@ -96,3 +96,25 @@
 [2013-03-13 10:34:35] nicegraham: I'll take it :)
 [2013-03-13 10:35:02] nicegraham: completely unrelated - do you know how much the seconf tickets are? I can't get the page to load and I'm doing a quote to try and get approval.
 [2013-03-13 10:39:57] lukeis: hmmm ballpark $300?
+[2013-03-13 10:40:01] lukeis: maybe $350
+[2013-03-13 10:40:04] lukeis: lemme check
+[2013-03-13 10:40:08] nicegraham: it's cool
+[2013-03-13 10:40:13] nicegraham: it started working just now
+[2013-03-13 10:40:14] nicegraham: 350
+[2013-03-13 10:40:20] nicegraham: plus 75 for the workshop
+[2013-03-13 10:40:39] lukeis: found the code...
+[2013-03-13 10:40:46] lukeis: WebKitNotificationListener   line 84
+[2013-03-13 10:41:19] lukeis: at least i left a TODO ;)
+[2013-03-13 10:41:47] lukeis: that file used to be called SimulatorSession… can you imagine it being hard to find? :)
+[2013-03-13 10:42:53] nicegraham: :)
+[2013-03-13 10:42:55] nicegraham: thanks!
+[2013-03-13 10:43:11] nicegraham: I'll start looking at that bug now
+[2013-03-13 10:43:17] lukeis: well crap, i think i need to get 'real' work done..
+[2013-03-13 10:43:29] nicegraham: where do you work?
+[2013-03-13 10:43:33] lukeis: salesforce
+[2013-03-13 10:44:10] nicegraham: oh, I think a previous company used them for something or other
+[2013-03-13 10:44:16] nicegraham: the name rings a bell at least
+[2013-03-13 10:44:25] lukeis: :)
+[2013-03-13 10:44:46] lukeis: i'm not a huge fan of our product… but they pay me handsomely, so i won't complain :-D
+[2013-03-13 10:44:52] nicegraham: haha
+[2013-03-13 10:45:00] nicegraham: you're being logged!
