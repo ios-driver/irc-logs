@@ -135,3 +135,5 @@
 [2013-03-13 14:38:20] nicegraham: yeah, I did the latter but after I checked it in I had a change of heart
 [2013-03-13 14:38:24] nicegraham: I'll do that now... :)
 [2013-03-13 14:44:47] nicegraham: ok, that's here now https://github.com/nicegraham/ios-driver-beta/commit/57ae76a2bab9cdfe7b04aee57ecf23fd0ce7291d
+[2013-03-13 14:45:07] nicegraham: :help
+[2013-03-13 14:46:32] nicegraham: :note freynaud the itunes webview issue is sorted in my fork now
