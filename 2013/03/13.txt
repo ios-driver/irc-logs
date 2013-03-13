@@ -134,3 +134,4 @@
 [2013-03-13 14:38:10] lukeis: one should be able to switch to it if they want
 [2013-03-13 14:38:20] nicegraham: yeah, I did the latter but after I checked it in I had a change of heart
 [2013-03-13 14:38:24] nicegraham: I'll do that now... :)
+[2013-03-13 14:44:47] nicegraham: ok, that's here now https://github.com/nicegraham/ios-driver-beta/commit/57ae76a2bab9cdfe7b04aee57ecf23fd0ce7291d
