@@ -59,3 +59,4 @@
 [2013-03-13 09:27:32] lukeis: or something like that
 [2013-03-13 09:27:58] nicegraham: do you know where the webview selection is in the code [ballpark]?
 [2013-03-13 09:28:10] lukeis: yeah, gimme a sec
+[2013-03-13 09:34:47] dgrace, quitting. (Ping timeout: 256 seconds)
