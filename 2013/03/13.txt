@@ -129,3 +129,8 @@
 [2013-03-13 12:15:48] lukeis: i stopped using it because i became *too* connected ;)
 [2013-03-13 12:55:44] nicegraham: unpossible! *coming live and direct from dinner with my folks
 [2013-03-13 13:41:03] freynaud, quitting. (Quit: freynaud)
+[2013-03-13 14:37:42] nicegraham: lukeis: if the new webview is an ad - should I skip it entirely OR add it but not set the context?
+[2013-03-13 14:38:02] lukeis: add but not set the context i believe
+[2013-03-13 14:38:10] lukeis: one should be able to switch to it if they want
+[2013-03-13 14:38:20] nicegraham: yeah, I did the latter but after I checked it in I had a change of heart
+[2013-03-13 14:38:24] nicegraham: I'll do that now... :)
