@@ -2,3 +2,4 @@
 [2013-03-13 02:36:29] freynaud, quitting. (Quit: freynaud)
 [2013-03-13 03:45:42] dgrace, quitting. (Ping timeout: 276 seconds)
 [2013-03-13 03:57:14] dgrace, joining. (#ios-driver)
+[2013-03-13 05:39:01] dgrace, quitting. (Quit: dgrace)
