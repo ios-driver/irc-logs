@@ -88,3 +88,9 @@
 [2013-03-13 10:27:41] lukeis: and let him refactor it later :-D
 [2013-03-13 10:27:45] nicegraham: easier than permission :)
 [2013-03-13 10:29:12] lukeis: things have been refactored quite a bit… i'm having difficulty finding the part that chooses the wkrdp window
+[2013-03-13 10:30:15] nicegraham: what's wkrdp short for?
+[2013-03-13 10:30:27] lukeis: web kit remote debugging protocol
+[2013-03-13 10:30:48] lukeis: know it and love it ;)
+[2013-03-13 10:32:50] lukeis: pushed my 'fix' for falling back to sim
+[2013-03-13 10:33:04] lukeis: aka hack ;)
+[2013-03-13 10:34:35] nicegraham: I'll take it :)
