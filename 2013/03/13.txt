@@ -94,3 +94,5 @@
 [2013-03-13 10:32:50] lukeis: pushed my 'fix' for falling back to sim
 [2013-03-13 10:33:04] lukeis: aka hack ;)
 [2013-03-13 10:34:35] nicegraham: I'll take it :)
+[2013-03-13 10:35:02] nicegraham: completely unrelated - do you know how much the seconf tickets are? I can't get the page to load and I'm doing a quote to try and get approval.
+[2013-03-13 10:39:57] lukeis: hmmm ballpark $300?
