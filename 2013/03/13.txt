@@ -19,3 +19,21 @@
 [2013-03-13 09:10:17] dgrace, joining. (#ios-driver)
 [2013-03-13 09:13:32] rsalvador, joining. (#ios-driver)
 [2013-03-13 09:13:47] rsalvador, leaving. (#ios-driver)
+[2013-03-13 09:21:46] nicegraham: I
+[2013-03-13 09:21:54] nicegraham: i'm running it today fine
+[2013-03-13 09:22:07] lukeis: mobile safari?
+[2013-03-13 09:22:10] nicegraham: yep
+[2013-03-13 09:22:18] lukeis: hrm… not at all for me
+[2013-03-13 09:22:21] lukeis: on master
+[2013-03-13 09:22:27] nicegraham: I had a problem where simulator in iphone caps
+[2013-03-13 09:22:30] nicegraham: was set to false
+[2013-03-13 09:22:40] nicegraham: which meant it couldn't find a matching cap
+[2013-03-13 09:22:51] nicegraham: but switched that and I'm golden
+[2013-03-13 09:23:04] nicegraham: on master, with a couple of changes from my fork
+[2013-03-13 09:23:04] lukeis: yeah, that looks to be the case maybe?  have you run one of the tests in ios-driver?
+[2013-03-13 09:23:10] lukeis: they all don't work
+[2013-03-13 09:23:59] lukeis: ahh, default is sim == false?
+[2013-03-13 09:24:01] lukeis: hmmm
+[2013-03-13 09:24:10] nicegraham: seems like it
+[2013-03-13 09:24:28] nicegraham: I coudn't get it to run until I set it to true explicitly
+[2013-03-13 09:24:36] lukeis: yeah, that makes sense
