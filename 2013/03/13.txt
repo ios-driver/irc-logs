@@ -198,3 +198,4 @@
 [2013-03-13 16:03:58] rsalvador1, joining. (#ios-driver)
 [2013-03-13 16:04:05] lukeis, quitting. (Quit: Leaving.)
 [2013-03-13 16:04:40] rsalvador1, leaving. (#ios-driver)
+[2013-03-13 16:07:11] rsalvador, joining. (#ios-driver)
