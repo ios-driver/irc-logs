@@ -83,3 +83,8 @@
 [2013-03-13 09:57:30] nicegraham: the first thing it does is check for simulator
 [2013-03-13 09:57:40] nicegraham: and breaks if it doesn't match
 [2013-03-13 10:20:21] lukeis: yep, i have a patch that I think i'm going to apply
+[2013-03-13 10:27:06] nicegraham: cool, wasn't comfortable making changes there without running it by Francois... it seemed pretty deliberate :)
+[2013-03-13 10:27:28] lukeis: i'll ask for forgiveness ;)
+[2013-03-13 10:27:41] lukeis: and let him refactor it later :-D
+[2013-03-13 10:27:45] nicegraham: easier than permission :)
+[2013-03-13 10:29:12] lukeis: things have been refactored quite a bit… i'm having difficulty finding the part that chooses the wkrdp window
