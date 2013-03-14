@@ -89,3 +89,5 @@
 [2013-03-14 13:03:39] *lukeis goes to get some food'
 [2013-03-14 15:31:10] rsalvador1, joining. (#ios-driver)
 [2013-03-14 15:31:13] rsalvador1, leaving. (#ios-driver)
+[2013-03-14 15:45:37] rsalvador, joining. (#ios-driver)
+[2013-03-14 15:46:00] rsalvador, leaving. (#ios-driver)
