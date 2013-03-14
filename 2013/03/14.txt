@@ -10,3 +10,23 @@
 [2013-03-14 08:49:11] lukeis: nicegraham: i have a question about AppDriver :) do you have any issues sending keys to a text input element in a webview (android 4.0+) ?
 [2013-03-14 08:49:30] nicegraham: no, we didn't
 [2013-03-14 08:49:47] nicegraham: darragh was working on that... I'll get him on the line here
+[2013-03-14 08:50:11] lukeis: my version of native driver on 4.0.3 doesn't want to do it… and clicking on the input field first is the only way to make it work, but 'click/tap' doesn't bring up the keyboard :(
+[2013-03-14 08:50:20] nicegraham: actually... we didn't focus on android
+[2013-03-14 08:50:28] nicegraham: we were looking at the ios stuff
+[2013-03-14 08:50:33] lukeis: ahh
+[2013-03-14 08:50:53] lukeis: dammit android! ;)
+[2013-03-14 08:51:02] nicegraham: there was a guy who'd started contributing android changes to my fork of appdriver
+[2013-03-14 08:51:12] lukeis: toks
+[2013-03-14 08:51:13] dgrace_, joining. (#ios-driver)
+[2013-03-14 08:52:42] nicegraham: yeah, you know him?
+[2013-03-14 08:52:59] lukeis: yeah, he was an early appium adopter… i pointed him to appdriver ;)
+[2013-03-14 08:53:18] nicegraham: and is he having the same issue?
+[2013-03-14 08:53:27] lukeis: i'll need to reach out to him
+[2013-03-14 08:54:01] nicegraham: are you using appdriver for android?
+[2013-03-14 08:54:10] lukeis: no :-/
+[2013-03-14 08:54:18] lukeis: well… something very similar
+[2013-03-14 08:54:31] nicegraham: is it secret? :)
+[2013-03-14 08:54:37] lukeis: i have a fork of the native driver project… and then bastardized to all hell
+[2013-03-14 08:54:42] lukeis: not worth open sourcing
+[2013-03-14 08:54:48] lukeis: i'm trying to get us on something else
+[2013-03-14 08:55:00] lukeis: but still have to maintain this POS
