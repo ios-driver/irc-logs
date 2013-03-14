@@ -59,3 +59,13 @@
 [2013-03-14 11:42:07] lukeis: looks like we need better error handling / messaging when you try to type with a character in native events when the key is not available on the keyboard
 [2013-03-14 11:42:20] rsalvador: thanks!
 [2013-03-14 11:42:25] rsalvador, leaving. (#ios-driver)
+[2013-03-14 12:45:32] nicegraham: ^so will we be able to make calls?!
+[2013-03-14 12:46:08] lukeis: heh… this was about html pages that have <input type="tel"/>
+[2013-03-14 12:46:17] nicegraham: oh ok
+[2013-03-14 12:46:18] lukeis: i don't think you can control the phone app :)
+[2013-03-14 12:46:27] lukeis: that would be cool though
+[2013-03-14 12:46:43] nicegraham: can we automate the safari app on a device?
+[2013-03-14 12:46:59] lukeis: francois was working on it, i haven't seen it yet
+[2013-03-14 12:47:53] nicegraham: it works out of the box though? as in it doesn't need to be compiled with profile for automation?
+[2013-03-14 12:49:32] lukeis: yeah
+[2013-03-14 12:49:41] lukeis: on simulator it works just fine ;)
