@@ -54,3 +54,4 @@
 [2013-03-14 09:25:23] *lukeis needs a new laptop'
 [2013-03-14 09:25:34] lukeis, quitting. (Quit: Leaving.)
 [2013-03-14 09:25:50] dgrace_, leaving. (#ios-driver)
+[2013-03-14 09:43:40] lukeis, joining. (#ios-driver)
