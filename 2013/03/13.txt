@@ -205,3 +205,4 @@
 [2013-03-13 17:50:45] rsalvador, joining. (#ios-driver)
 [2013-03-13 17:52:29] rsalvador1, joining. (#ios-driver)
 [2013-03-13 17:55:00] rsalvador, quitting. (Ping timeout: 240 seconds)
+[2013-03-13 17:58:22] rsalvador1, quitting. (Ping timeout: 252 seconds)
