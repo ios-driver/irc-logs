@@ -69,3 +69,8 @@
 [2013-03-14 12:47:53] nicegraham: it works out of the box though? as in it doesn't need to be compiled with profile for automation?
 [2013-03-14 12:49:32] lukeis: yeah
 [2013-03-14 12:49:41] lukeis: on simulator it works just fine ;)
+[2013-03-14 12:58:46] rsalvador, joining. (#ios-driver)
+[2013-03-14 12:58:49] rsalvador, leaving. (#ios-driver)
+[2013-03-14 12:59:19] nicegraham: yeah, but that uses the sdk version right?
+[2013-03-14 12:59:39] nicegraham: when you plug in a device it doesn't get listed as an available app / cap
+[2013-03-14 12:59:55] nicegraham: so that made me wonder if we had to push something to it.
