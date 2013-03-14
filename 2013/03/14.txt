@@ -91,3 +91,4 @@
 [2013-03-14 15:31:13] rsalvador1, leaving. (#ios-driver)
 [2013-03-14 15:45:37] rsalvador, joining. (#ios-driver)
 [2013-03-14 15:46:00] rsalvador, leaving. (#ios-driver)
+[2013-03-14 15:51:51] Hammertime38, joining. (#ios-driver)
