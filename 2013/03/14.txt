@@ -55,3 +55,7 @@
 [2013-03-14 09:25:34] lukeis, quitting. (Quit: Leaving.)
 [2013-03-14 09:25:50] dgrace_, leaving. (#ios-driver)
 [2013-03-14 09:43:40] lukeis, joining. (#ios-driver)
+[2013-03-14 11:40:48] lukeis: rsalvador: just pushed a 'fix' for iphone 'tel' keypad.  but note that it will translate "1-800-FLOWERS" into "18003569377"  because the keypad that iPhone has can't type letters nor the "-"
+[2013-03-14 11:42:07] lukeis: looks like we need better error handling / messaging when you try to type with a character in native events when the key is not available on the keyboard
+[2013-03-14 11:42:20] rsalvador: thanks!
+[2013-03-14 11:42:25] rsalvador, leaving. (#ios-driver)
