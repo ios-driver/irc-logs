@@ -30,3 +30,16 @@
 [2013-03-14 08:54:42] lukeis: not worth open sourcing
 [2013-03-14 08:54:48] lukeis: i'm trying to get us on something else
 [2013-03-14 08:55:00] lukeis: but still have to maintain this POS
+[2013-03-14 08:55:15] nicegraham: the problem for us is the main revenue comes from ios
+[2013-03-14 08:55:17] lukeis: so, no secret ;)
+[2013-03-14 08:55:32] nicegraham: so android won't be high up on our priorities until that changes
+[2013-03-14 08:55:33] lukeis: we don't have revenue from the apps
+[2013-03-14 08:55:50] lukeis: they are 'nice to haves' for our customers ;)
+[2013-03-14 08:56:02] nicegraham: we do - we're about 50-50 between desktop and mobile
+[2013-03-14 08:56:03] lukeis: basically now they come to expect the apps
+[2013-03-14 08:56:31] nicegraham: and about 75% is ios
+[2013-03-14 08:56:34] lukeis: that's nice… salesforce's revenue is all from subscription to the service
+[2013-03-14 08:56:39] nicegraham: [of the mobile portion]
+[2013-03-14 08:57:43] lukeis: if françois hadn't told you, he's traveling to zurich right now for meetings… looks like he's gonna move there soon
+[2013-03-14 08:57:45] nicegraham: toks works at rackspace?
+[2013-03-14 08:57:48] lukeis: yes
