@@ -200,3 +200,5 @@
 [2013-03-13 16:04:40] rsalvador1, leaving. (#ios-driver)
 [2013-03-13 16:07:11] rsalvador, joining. (#ios-driver)
 [2013-03-13 16:13:15] rsalvador, leaving. (#ios-driver)
+[2013-03-13 17:16:00] rsalvador1, joining. (#ios-driver)
+[2013-03-13 17:16:13] rsalvador1, leaving. (#ios-driver)
