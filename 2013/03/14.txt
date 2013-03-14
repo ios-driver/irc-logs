@@ -74,3 +74,16 @@
 [2013-03-14 12:59:19] nicegraham: yeah, but that uses the sdk version right?
 [2013-03-14 12:59:39] nicegraham: when you plug in a device it doesn't get listed as an available app / cap
 [2013-03-14 12:59:55] nicegraham: so that made me wonder if we had to push something to it.
+[2013-03-14 13:00:13] nicegraham: is there anything you want me to look at?
+[2013-03-14 13:00:28] lukeis: you'd have to ask francois, he was trying it out
+[2013-03-14 13:00:36] lukeis: i haven't spent time looking at it yet
+[2013-03-14 13:00:54] nicegraham: we haven't either
+[2013-03-14 13:00:59] lukeis: i'm more interested in filling out the api, to get it as a complete replacement of iPhoneDriver
+[2013-03-14 13:01:15] lukeis: but real device support is a must in there ;)
+[2013-03-14 13:01:19] nicegraham: focus right now is getting the our CI process fully locked down and working
+[2013-03-14 13:01:25] lukeis: :)
+[2013-03-14 13:01:32] lukeis: oh at work… i'm dicking around with android ;)
+[2013-03-14 13:01:48] lukeis: *still*
+[2013-03-14 13:02:00] nicegraham: it's weird google haven't done something
+[2013-03-14 13:03:15] lukeis: they are doing 'some' things
+[2013-03-14 13:03:39] *lukeis goes to get some food'
