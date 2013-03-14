@@ -6,3 +6,7 @@
 [2013-03-14 08:14:25] rsalvador, joining. (#ios-driver)
 [2013-03-14 08:14:30] rsalvador, leaving. (#ios-driver)
 [2013-03-14 08:38:17] lukeis, joining. (#ios-driver)
+[2013-03-14 08:46:14] lukeis: hiya nicegraham
+[2013-03-14 08:49:11] lukeis: nicegraham: i have a question about AppDriver :) do you have any issues sending keys to a text input element in a webview (android 4.0+) ?
+[2013-03-14 08:49:30] nicegraham: no, we didn't
+[2013-03-14 08:49:47] nicegraham: darragh was working on that... I'll get him on the line here
