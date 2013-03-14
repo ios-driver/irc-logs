@@ -2,3 +2,6 @@
 [2013-03-14 06:55:31] dgrace_, joining. (#ios-driver)
 [2013-03-14 06:56:57] dgrace_, leaving. (#ios-driver)
 [2013-03-14 08:05:50] rsalvador, joining. (#ios-driver)
+[2013-03-14 08:13:24] rsalvador, leaving. (#ios-driver)
+[2013-03-14 08:14:25] rsalvador, joining. (#ios-driver)
+[2013-03-14 08:14:30] rsalvador, leaving. (#ios-driver)
