@@ -5,3 +5,4 @@
 [2013-03-14 08:13:24] rsalvador, leaving. (#ios-driver)
 [2013-03-14 08:14:25] rsalvador, joining. (#ios-driver)
 [2013-03-14 08:14:30] rsalvador, leaving. (#ios-driver)
+[2013-03-14 08:38:17] lukeis, joining. (#ios-driver)
