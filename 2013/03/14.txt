@@ -105,3 +105,4 @@
 [2013-03-14 17:06:53] smccarthy, quitting. (Remote host closed the connection)
 [2013-03-14 18:20:34] Hammertime38, leaving. (#ios-driver)
 [2013-03-14 20:56:26] rsalvador, joining. (#ios-driver)
+[2013-03-14 21:00:24] rsalvador, leaving. (#ios-driver)
