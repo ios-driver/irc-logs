@@ -10,3 +10,4 @@
 [2013-03-15 12:23:41] Hammertime38, joining. (#ios-driver)
 [2013-03-15 13:19:57] smccarthy, joining. (#ios-driver)
 [2013-03-15 14:19:37] lukeis1, quitting. (Quit: Leaving.)
+[2013-03-15 16:41:40] Hammertime38, quitting. ()
