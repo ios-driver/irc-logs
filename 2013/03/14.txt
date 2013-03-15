@@ -104,3 +104,4 @@
 [2013-03-14 16:59:50] Hammertime38: :note freynaud Hello, I've implemented a C# interpretation of your project, ios-driver. I'd like to discuss actually creating the C# bindings, maybe even as a GSoC project :) in any case, I'll try to keep an eye out so we can talk. Thanks
 [2013-03-14 17:06:53] smccarthy, quitting. (Remote host closed the connection)
 [2013-03-14 18:20:34] Hammertime38, leaving. (#ios-driver)
+[2013-03-14 20:56:26] rsalvador, joining. (#ios-driver)
