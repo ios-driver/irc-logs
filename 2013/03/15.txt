@@ -5,3 +5,4 @@
 [2013-03-15 09:29:58] rsalvador, leaving. (#ios-driver)
 [2013-03-15 10:31:19] lukeis, quitting. (Read error: Operation timed out)
 [2013-03-15 10:43:40] lukeis, joining. (#ios-driver)
+[2013-03-15 11:24:43] lukeis1, joining. (#ios-driver)
