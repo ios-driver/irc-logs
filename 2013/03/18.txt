@@ -5,3 +5,7 @@
 [2013-03-18 07:12:06] smccarthy, joining. (#ios-driver)
 [2013-03-18 08:16:02] freynaud, quitting. (Quit: Page closed)
 [2013-03-18 08:29:46] lukeis, joining. (#ios-driver)
+[2013-03-18 08:38:59] freynaud, joining. (#ios-driver)
+[2013-03-18 08:39:15] freynaud: lukeis: hello
+[2013-03-18 08:39:23] lukeis: hi
+[2013-03-18 08:39:43] freynaud: how are things ?
