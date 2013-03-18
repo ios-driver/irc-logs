@@ -150,3 +150,8 @@
 [2013-03-18 13:45:25] AutomatedTester: Google get a little funny about people who arent
 [2013-03-18 13:45:48] *Hammertime38 Hammertime38 is definitely 100% student'
 [2013-03-18 13:45:59] Hammertime38: that was a /me fail.
+[2013-03-18 13:51:03] lukeis: AutomatedTester / Hammertime38: I'm willing to be listed as a mentor also (if they want more than one or even accept more than one mentor in GSoC)
+[2013-03-18 13:51:26] AutomatedTester: lukeis: ok cool
+[2013-03-18 13:52:43] Hammertime38: lukeis: that would be great
+[2013-03-18 13:54:15] Hammertime38: AutomatedTester / lukeis: I also work with a team of Cal Poly students, all automated testers willing to contribute
+[2013-03-18 13:54:27] lukeis: i like what i hear ;)
