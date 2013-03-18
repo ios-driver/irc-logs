@@ -38,3 +38,9 @@
 [2013-03-18 09:03:11] slawert: so we can share what is the vision
 [2013-03-18 09:04:17] slawert: it is to keep it more or less with the same structure, adding a footer where the logs, the html (webviews), capabilities, etc.. are displayed
 [2013-03-18 09:04:37] slawert: like the console in eclipse
+[2013-03-18 09:05:04] freynaud: https://dl.dropbox.com/u/24687868/vision.pdf
+[2013-03-18 09:05:14] freynaud: his visions are blurry
+[2013-03-18 09:05:21] lukeis: most are ;)
+[2013-03-18 09:05:48] freynaud: it's basically what you have now if you checkout
+[2013-03-18 09:05:54] freynaud: except that it looks pretty
+[2013-03-18 09:06:00] freynaud: and that the CSS makes some sense
