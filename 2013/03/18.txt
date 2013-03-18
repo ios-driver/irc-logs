@@ -93,3 +93,7 @@
 [2013-03-18 09:23:40] freynaud: :logs
 [2013-03-18 09:23:58] lukeis: ah.. that is likely the issue, i have a small laptop screen ;)
 [2013-03-18 09:24:04] lukeis: aint getting any bigger
+[2013-03-18 09:25:07] lukeis: i'll test in the future on my laptop screen and desktop screen to compare ;)
+[2013-03-18 09:25:17] lukeis: optimized for mbp is probably a good way to go
+[2013-03-18 09:25:31] freynaud: agreed
+[2013-03-18 09:26:48] slawert, quitting. (Quit: Page closed)
