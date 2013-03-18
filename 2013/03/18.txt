@@ -86,3 +86,10 @@
 [2013-03-18 09:19:29] freynaud: or have an email address for him :)
 [2013-03-18 09:19:42] lukeis: we'll just have to wait for him to reappear on IRC
 [2013-03-18 09:19:55] lukeis: i'll get contact info next time for ya ;)
+[2013-03-18 09:23:08] freynaud: lukeis: ipad seems to work
+[2013-03-18 09:23:14] freynaud: the scale isn't though
+[2013-03-18 09:23:32] freynaud: make sure you have a screen big enough so that your ipad screenshot scale == 1
+[2013-03-18 09:23:33] lukeis: ok, it was horrible for me and my local changes make it 'better'
+[2013-03-18 09:23:40] freynaud: :logs
+[2013-03-18 09:23:58] lukeis: ah.. that is likely the issue, i have a small laptop screen ;)
+[2013-03-18 09:24:04] lukeis: aint getting any bigger
