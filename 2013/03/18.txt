@@ -44,3 +44,27 @@
 [2013-03-18 09:05:48] freynaud: it's basically what you have now if you checkout
 [2013-03-18 09:05:54] freynaud: except that it looks pretty
 [2013-03-18 09:06:00] freynaud: and that the CSS makes some sense
+[2013-03-18 09:11:50] lukeis: ;)
+[2013-03-18 09:11:50] slawert: :)
+[2013-03-18 09:11:50] rsalvador, joining. (#ios-driver)
+[2013-03-18 09:11:50] lukeis: ok, i'll hack away at it when I do :)  slawert - feel free to over-write my changes at any point
+[2013-03-18 09:11:50] slawert: ok
+[2013-03-18 09:11:50] freynaud: lukeis: the most challenging part I find is the mouseover part
+[2013-03-18 09:11:50] freynaud: you need to mouse over and be able to select the correct element in the tree
+[2013-03-18 09:11:50] freynaud: and that has to work in landscape, portrait
+[2013-03-18 09:11:50] freynaud: also when the window is resized
+[2013-03-18 09:11:50] lukeis: yeap… shouldn't be that bad :)
+[2013-03-18 09:11:50] lukeis: scaling throws a bit of a wrench, but you just need some maths :)
+[2013-03-18 09:11:50] freynaud: the maths part works
+[2013-03-18 09:11:50] freynaud: the CSS part with the rotation + scaling , not so much
+[2013-03-18 09:11:50] lukeis: ahh, that should be the easy part for me :-D
+[2013-03-18 09:11:50] slawert: take it :)
+[2013-03-18 09:11:50] freynaud: have you tried the record mode ?
+[2013-03-18 09:12:28] lukeis: not yet, i will soon though, last time I was looking at it on ipad… and that was a whole world of hurt ;)
+[2013-03-18 09:13:31] freynaud: i only did iphone + native
+[2013-03-18 09:13:39] lukeis: i realize ;)
+[2013-03-18 09:13:42] freynaud: I'd expect ipad + native to work
+[2013-03-18 09:13:58] lukeis: if things even showed up ;)
+[2013-03-18 09:14:06] freynaud: they don't
+[2013-03-18 09:14:07] freynaud: ?
+[2013-03-18 09:14:19] lukeis: it's um, quite a bit out of whack
