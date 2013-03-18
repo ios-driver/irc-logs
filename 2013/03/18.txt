@@ -99,3 +99,4 @@
 [2013-03-18 09:26:48] slawert, quitting. (Quit: Page closed)
 [2013-03-18 09:33:47] freynaud, quitting. (Ping timeout: 245 seconds)
 [2013-03-18 09:50:20] rsalvador, leaving. (#ios-driver)
+[2013-03-18 10:10:17] smccarthy, quitting. (Remote host closed the connection)
