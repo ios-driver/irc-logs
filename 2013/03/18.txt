@@ -131,3 +131,5 @@
 [2013-03-18 12:46:04] *lukeis assumes you are in school since you mentioned GSoC'
 [2013-03-18 12:46:15] *Hammertime38 is in school :p'
 [2013-03-18 12:47:41] Hammertime38: just read the logs, i will email him :)
+[2013-03-18 13:06:07] rsalvador, joining. (#ios-driver)
+[2013-03-18 13:06:14] rsalvador, leaving. (#ios-driver)
