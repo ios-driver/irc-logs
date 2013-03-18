@@ -68,3 +68,21 @@
 [2013-03-18 09:14:06] freynaud: they don't
 [2013-03-18 09:14:07] freynaud: ?
 [2013-03-18 09:14:19] lukeis: it's um, quite a bit out of whack
+[2013-03-18 09:15:03] lukeis: i don't see elements listed, and the menu bar is disjointed
+[2013-03-18 09:15:21] lukeis: i'll have it in a better state soon
+[2013-03-18 09:16:23] ios-driverbot, joining. (#ios-driver)
+[2013-03-18 09:16:41] lukeis: bot got an update, hopefully it fixes some of the notes issues
+[2013-03-18 09:17:09] lukeis: say something freynaud
+[2013-03-18 09:17:22] freynaud: Hi bot
+[2013-03-18 09:17:50] lukeis: yay ;) notes are mucho better now
+[2013-03-18 09:17:56] freynaud: did anyone answer this guy ? selenium already have the C binding
+[2013-03-18 09:18:01] lukeis: i did
+[2013-03-18 09:18:06] lukeis: i told him that too
+[2013-03-18 09:18:25] lukeis: he's a student, looking for google summer of code project
+[2013-03-18 09:18:27] freynaud: do you know where he works ? I'm still looking for interns :)
+[2013-03-18 09:18:39] lukeis: i don't know if he works anywhere
+[2013-03-18 09:18:57] freynaud: works as in live
+[2013-03-18 09:19:21] lukeis: nope, but I'd guess US… have no idea whereabout though
+[2013-03-18 09:19:29] freynaud: or have an email address for him :)
+[2013-03-18 09:19:42] lukeis: we'll just have to wait for him to reappear on IRC
+[2013-03-18 09:19:55] lukeis: i'll get contact info next time for ya ;)
