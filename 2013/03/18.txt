@@ -113,3 +113,14 @@
 [2013-03-18 12:17:12] Hammertime38, joining. (#ios-driver)
 [2013-03-18 12:27:30] nicegraham: hammertime38: freynaud wanted to talk to you...
 [2013-03-18 12:28:35] nicegraham: check the logs
+[2013-03-18 12:41:30] Hammertime38: ah, thanks, i will
+[2013-03-18 12:43:01] nicegraham: do you have his email address?
+[2013-03-18 12:43:20] Hammertime38: nope...i couldnt find it anywhere
+[2013-03-18 12:43:28] Hammertime38: and i've yet to see him in irc
+[2013-03-18 12:43:49] Hammertime38: now that i think of it, couldve just done a whois on his name
+[2013-03-18 12:43:57] lukeis: francois.reynaud@gmail.com
+[2013-03-18 12:44:03] Hammertime38: thank you sir :)
+[2013-03-18 12:44:13] nicegraham: I was gonna im it :)
+[2013-03-18 12:44:23] lukeis: it's public ;)
+[2013-03-18 12:44:34] nicegraham: where are you based hammertime38?
+[2013-03-18 12:44:50] Hammertime38: california
