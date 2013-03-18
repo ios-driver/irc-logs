@@ -145,3 +145,8 @@
 [2013-03-18 13:41:22] AutomatedTester: and then see if Francois wouldnt mind mentoring
 [2013-03-18 13:41:33] Hammertime38: AutomatedTester: that would be awesome :)
 [2013-03-18 13:44:20] Hammertime38: our team is becoming dependent on ios-driver; it's incredible to have shared browser/native mobile testing with little to no distinguishment between the two in the frontend project. It is definitely the future of mobile testing
+[2013-03-18 13:45:10] AutomatedTester: Hammertime38: you are definitely a student though?
+[2013-03-18 13:45:18] Hammertime38: AutomatedTester: yes
+[2013-03-18 13:45:25] AutomatedTester: Google get a little funny about people who arent
+[2013-03-18 13:45:48] *Hammertime38 Hammertime38 is definitely 100% student'
+[2013-03-18 13:45:59] Hammertime38: that was a /me fail.
