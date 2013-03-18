@@ -14,3 +14,20 @@
 [2013-03-18 08:45:05] freynaud: My colleague Roberto will start on that soon
 [2013-03-18 08:45:09] freynaud: he looked at my code.
 [2013-03-18 08:45:19] freynaud: he will restart from scratch
+[2013-03-18 08:50:08] lukeis: heh ;)
+[2013-03-18 08:50:10] slawert, joining. (#ios-driver)
+[2013-03-18 08:50:20] slawert: Hello
+[2013-03-18 08:50:26] freynaud: i committed an attempt at recording
+[2013-03-18 08:50:36] freynaud: it shows the java code, but the CSS is terrible
+[2013-03-18 08:50:53] freynaud: slawert: is the Roberto I was talking about
+[2013-03-18 08:51:01] lukeis: ah, ok
+[2013-03-18 08:51:04] freynaud: he just chose a nick to confuse people
+[2013-03-18 08:51:05] lukeis: hiya slawert
+[2013-03-18 08:51:10] slawert: hi!
+[2013-03-18 08:51:21] freynaud: his idea is to keep everything as it
+[2013-03-18 08:51:31] freynaud: but make all sections resizable / hideable
+[2013-03-18 08:51:40] freynaud: so that you can focus on what you care
+[2013-03-18 08:51:45] freynaud: rather than having it all like now
+[2013-03-18 08:51:52] lukeis: sounds good to me
+[2013-03-18 08:52:24] slawert: ok, my idea is to have the idea working in a couple of months
+[2013-03-18 08:52:59] slawert: any idea or advice is wellcome
