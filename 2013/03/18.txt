@@ -155,3 +155,5 @@
 [2013-03-18 13:52:43] Hammertime38: lukeis: that would be great
 [2013-03-18 13:54:15] Hammertime38: AutomatedTester / lukeis: I also work with a team of Cal Poly students, all automated testers willing to contribute
 [2013-03-18 13:54:27] lukeis: i like what i hear ;)
+[2013-03-18 13:59:13] lukeis, quitting. (Quit: Leaving.)
+[2013-03-18 13:59:40] lukeis, joining. (#ios-driver)
