@@ -124,3 +124,10 @@
 [2013-03-18 12:44:23] lukeis: it's public ;)
 [2013-03-18 12:44:34] nicegraham: where are you based hammertime38?
 [2013-03-18 12:44:50] Hammertime38: california
+[2013-03-18 12:45:10] lukeis: where abouts? I'm in the bay area (work in SF, live in the east bay)
+[2013-03-18 12:45:25] Hammertime38: oh, cool...San Luis Obispo, to be exact
+[2013-03-18 12:45:36] lukeis: nice, going to cal poly?
+[2013-03-18 12:46:03] Hammertime38: most of us are...i'm working on a transfer right now. they've been taking a lot out of state
+[2013-03-18 12:46:04] *lukeis assumes you are in school since you mentioned GSoC'
+[2013-03-18 12:46:15] *Hammertime38 is in school :p'
+[2013-03-18 12:47:41] Hammertime38: just read the logs, i will email him :)
