@@ -11,3 +11,6 @@
 [2013-03-18 08:39:43] freynaud: how are things ?
 [2013-03-18 08:40:26] lukeis: not too bad :) i'm waiting on roman for more results, last week the app under test was down for the most part ;)
 [2013-03-18 08:40:51] lukeis: i started looking at the inspector UI a bit
+[2013-03-18 08:45:05] freynaud: My colleague Roberto will start on that soon
+[2013-03-18 08:45:09] freynaud: he looked at my code.
+[2013-03-18 08:45:19] freynaud: he will restart from scratch
