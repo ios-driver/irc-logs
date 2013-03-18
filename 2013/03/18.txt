@@ -141,3 +141,7 @@
 [2013-03-18 13:38:29] nicegraham: hey
 [2013-03-18 13:39:22] *lukeis thinks about stalking AutomatedTester in mozwebqa again'
 [2013-03-18 13:39:32] AutomatedTester: :)
+[2013-03-18 13:40:48] AutomatedTester: Hammertime38: I might throw myself into GSoC since I have admin rights
+[2013-03-18 13:41:22] AutomatedTester: and then see if Francois wouldnt mind mentoring
+[2013-03-18 13:41:33] Hammertime38: AutomatedTester: that would be awesome :)
+[2013-03-18 13:44:20] Hammertime38: our team is becoming dependent on ios-driver; it's incredible to have shared browser/native mobile testing with little to no distinguishment between the two in the frontend project. It is definitely the future of mobile testing
