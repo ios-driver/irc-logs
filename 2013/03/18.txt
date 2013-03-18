@@ -157,3 +157,7 @@
 [2013-03-18 13:54:27] lukeis: i like what i hear ;)
 [2013-03-18 13:59:13] lukeis, quitting. (Quit: Leaving.)
 [2013-03-18 13:59:40] lukeis, joining. (#ios-driver)
+[2013-03-18 14:23:44] AutomatedTester: Hammertime38: lukeis email sent to mailing list
+[2013-03-18 14:24:02] AutomatedTester: who bets I get a "why ios-driver email" ?
+[2013-03-18 14:24:30] lukeis: heh ;)
+[2013-03-18 14:24:39] lukeis: way to just jump into the middle of things :)
