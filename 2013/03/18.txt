@@ -32,3 +32,9 @@
 [2013-03-18 08:52:24] slawert: ok, my idea is to have the idea working in a couple of months
 [2013-03-18 08:52:59] slawert: any idea or advice is wellcome
 [2013-03-18 08:59:43] lukeis: couple of months? :) I may expedite that by working on it too… but if I get a 'vision' of what you were thinking that would be good so i don't diverge too much :)
+[2013-03-18 09:00:44] lukeis: seleniumconf is 3 months away… i'll want to be able to have it very usable by then
+[2013-03-18 09:02:36] slawert: I understand
+[2013-03-18 09:02:59] slawert: i think, Francois is doing some scanning with my notebook
+[2013-03-18 09:03:11] slawert: so we can share what is the vision
+[2013-03-18 09:04:17] slawert: it is to keep it more or less with the same structure, adding a footer where the logs, the html (webviews), capabilities, etc.. are displayed
+[2013-03-18 09:04:37] slawert: like the console in eclipse
