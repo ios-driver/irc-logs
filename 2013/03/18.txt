@@ -135,3 +135,9 @@
 [2013-03-18 13:06:14] rsalvador, leaving. (#ios-driver)
 [2013-03-18 13:20:35] Hammertime38: sent him an email/project proposal. need to act fast, but will hope for the best. :)
 [2013-03-18 13:21:58] nicegraham: cool, good luck with it
+[2013-03-18 13:35:23] AutomatedTester, joining. (#ios-driver)
+[2013-03-18 13:35:32] AutomatedTester: oh hai everybody
+[2013-03-18 13:36:18] Hammertime38: hello
+[2013-03-18 13:38:29] nicegraham: hey
+[2013-03-18 13:39:22] *lukeis thinks about stalking AutomatedTester in mozwebqa again'
+[2013-03-18 13:39:32] AutomatedTester: :)
