@@ -162,3 +162,4 @@
 [2013-03-18 14:24:30] lukeis: heh ;)
 [2013-03-18 14:24:39] lukeis: way to just jump into the middle of things :)
 [2013-03-18 14:25:39] *lukeis hasn't been able to talk to the sauce guys without talking about appium/ios-driver yet… hopefully that can happen again ;)'
+[2013-03-18 15:11:00] lukeis, quitting. (Quit: Leaving.)
