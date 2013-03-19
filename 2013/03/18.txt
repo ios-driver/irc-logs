@@ -165,3 +165,4 @@
 [2013-03-18 15:11:00] lukeis, quitting. (Quit: Leaving.)
 [2013-03-18 17:24:12] Hammertime38, quitting. ()
 [2013-03-18 19:35:37] lukeis, joining. (#ios-driver)
+[2013-03-18 20:32:28] smccarthy, joining. (#ios-driver)
