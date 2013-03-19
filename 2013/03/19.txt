@@ -32,3 +32,7 @@
 [2013-03-19 08:57:23] lukeis: i'm having a weird issue, when i run the server from IntelliJ, I can't connect to it via 127.0.0.1, i can with 'localhost' but not the ip address (python looks up IP address of hostname and translates the url it uses to be just that the whole time)
 [2013-03-19 08:57:33] lukeis: works fine for me when i run it standalone
 [2013-03-19 09:04:16] lukeis: also in IDE most of my problem seems to stem from resources not found :) just push a change that 'fixes' me… but I'm not sure how it was working for you?
+[2013-03-19 09:05:14] freynaud_: it works for me
+[2013-03-19 09:05:23] freynaud_: but maven doesn't always copy the resources
+[2013-03-19 09:05:35] freynaud_: https://dl.dropbox.com/u/24687868/Screen%20Shot%202013-03-19%20at%2016.04.11.png
+[2013-03-19 09:06:19] freynaud_: when the keyboard isn't english, "Go" won't work
