@@ -99,3 +99,5 @@
 [2013-03-19 09:58:15] lukeis: but nothing in the client
 [2013-03-19 09:59:22] freynaud_: at the moment instruments only understand criteria
 [2013-03-19 09:59:31] freynaud_: because I wanted something clean. With AND  and OR working my way
+[2013-03-19 10:00:02] freynaud_: if you have A or B , it will parse the entire object tree for A, then try be only if A returns null
+[2013-03-19 10:00:08] lukeis: yep… ok, meeting, bbl
