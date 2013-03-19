@@ -31,3 +31,4 @@
 [2013-03-19 08:55:53] lukeis: and the text can become other things, like search
 [2013-03-19 08:57:23] lukeis: i'm having a weird issue, when i run the server from IntelliJ, I can't connect to it via 127.0.0.1, i can with 'localhost' but not the ip address (python looks up IP address of hostname and translates the url it uses to be just that the whole time)
 [2013-03-19 08:57:33] lukeis: works fine for me when i run it standalone
+[2013-03-19 09:04:16] lukeis: also in IDE most of my problem seems to stem from resources not found :) just push a change that 'fixes' me… but I'm not sure how it was working for you?
