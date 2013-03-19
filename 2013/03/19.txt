@@ -103,3 +103,4 @@
 [2013-03-19 10:00:08] lukeis: yep… ok, meeting, bbl
 [2013-03-19 10:36:21] rsalvador: Running all of our tests takes 5+ hours, the ios server was usually hanging after about 4 hours. Did some changes and now seems to finish everytime. I could save the changes, but they are kind of random, not sure which one really fixed the issue.
 [2013-03-19 10:37:10] rsalvador: Would also need to add some timeout parameters: maximum test timeout and command timeout. Does it make sense to add those as parameters to the IOServer?
+[2013-03-19 10:44:29] freynaud_: sure
