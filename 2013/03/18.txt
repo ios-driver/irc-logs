@@ -169,3 +169,4 @@
 [2013-03-18 21:23:59] Hammertime38, joining. (#ios-driver)
 [2013-03-18 21:24:07] Hammertime38: :log
 [2013-03-18 21:24:19] Hammertime38, leaving. (#ios-driver)
+[2013-03-18 21:25:22] smccarthy, quitting. (Remote host closed the connection)
