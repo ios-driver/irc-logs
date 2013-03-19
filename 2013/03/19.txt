@@ -18,3 +18,10 @@
 [2013-03-19 08:49:10] lukeis: i've got 'our' tests working now, and I think test cases that ensure it in ios-driver
 [2013-03-19 08:49:56] lukeis: ah, we always clear beforehand
 [2013-03-19 08:49:56] freynaud_: the issue I have is that textFiled.value() returns <enter text> by default
+[2013-03-19 08:50:44] freynaud_: if you clear, the value reset to the default one
+[2013-03-19 08:50:56] freynaud_: that is displayed in grey, 70% transparency by default
+[2013-03-19 08:51:12] freynaud_: I don't see a way to filter that out
+[2013-03-19 08:52:14] lukeis: ah, i see… hit delete a bunch of times first in the sendKeys? :)
+[2013-03-19 08:52:33] lukeis: i'm looking at mapping Keys.ENTER/RETURN to the "Go" button
+[2013-03-19 08:52:41] lukeis: unless you think that is a bad idea?
+[2013-03-19 08:54:56] freynaud_: lukeis: as long as you can target "Go"
