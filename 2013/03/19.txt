@@ -137,3 +137,13 @@
 [2013-03-19 13:31:15] freynaud: keyboard management is gonna be something ...
 [2013-03-19 14:09:09] rsalvador, joining. (#ios-driver)
 [2013-03-19 14:09:13] rsalvador, leaving. (#ios-driver)
+[2013-03-19 14:26:55] Hammertime38, joining. (#ios-driver)
+[2013-03-19 14:27:10] Hammertime38: hello
+[2013-03-19 14:27:20] Hammertime38: freynaud: did you recieve my email?
+[2013-03-19 14:27:49] freynaud: Hello, yes I did
+[2013-03-19 14:28:13] Hammertime38: I've been checking the logs...you've mentioned that the C# bindings already exist?
+[2013-03-19 14:28:45] Hammertime38: or were you referring to the basic JSON Wire protocol?
+[2013-03-19 14:29:11] lukeis: they do exist
+[2013-03-19 14:29:28] Hammertime38: grr, dev meeting. be back in 20 minutes or so
+[2013-03-19 14:29:34] freynaud: the bindings are meant to disapear
+[2013-03-19 14:29:37] freynaud: ok, ttyl
