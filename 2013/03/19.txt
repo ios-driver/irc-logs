@@ -128,3 +128,7 @@
 [2013-03-19 11:29:37] freynaud_, quitting. (Ping timeout: 245 seconds)
 [2013-03-19 12:13:33] rsalvador, leaving. (#ios-driver)
 [2013-03-19 12:39:17] freynaud, joining. (#ios-driver)
+[2013-03-19 12:40:05] rsalvador, joining. (#ios-driver)
+[2013-03-19 12:40:10] rsalvador, leaving. (#ios-driver)
+[2013-03-19 12:44:35] freynaud, quitting. (Quit: freynaud)
+[2013-03-19 12:44:59] freynaud, joining. (#ios-driver)
