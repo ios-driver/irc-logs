@@ -67,3 +67,9 @@
 [2013-03-19 09:42:23] lukeis: a forward slash :)
 [2013-03-19 09:43:18] lukeis: of course that may interfere with some firefox users default 'find on this page'
 [2013-03-19 09:44:58] lukeis: we definitely need a "help" window that shows the keyboard shortcuts
+[2013-03-19 09:48:26] freynaud_:  -- / was my first idea
+[2013-03-19 09:48:33] freynaud_: I used it.
+[2013-03-19 09:48:55] freynaud_: it opened the xpath helper. I then typed my first xpath : //UIAWindow
+[2013-03-19 09:49:10] freynaud_:  the leading // opened and closed the helper :)
+[2013-03-19 09:49:19] lukeis: hehe
+[2013-03-19 09:49:36] lukeis: escape at that point would be the closing key
