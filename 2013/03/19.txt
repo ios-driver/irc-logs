@@ -5,3 +5,5 @@
 [2013-03-19 06:10:44] freynaud, joining. (#ios-driver)
 [2013-03-19 07:53:06] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
 [2013-03-19 08:22:38] smccarthy, joining. (#ios-driver)
+[2013-03-19 08:38:52] lukeis, joining. (#ios-driver)
+[2013-03-19 08:39:31] lukeis, quitting. (Client Quit)
