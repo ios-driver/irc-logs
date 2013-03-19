@@ -166,3 +166,6 @@
 [2013-03-18 17:24:12] Hammertime38, quitting. ()
 [2013-03-18 19:35:37] lukeis, joining. (#ios-driver)
 [2013-03-18 20:32:28] smccarthy, joining. (#ios-driver)
+[2013-03-18 21:23:59] Hammertime38, joining. (#ios-driver)
+[2013-03-18 21:24:07] Hammertime38: :log
+[2013-03-18 21:24:19] Hammertime38, leaving. (#ios-driver)
