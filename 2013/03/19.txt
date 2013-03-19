@@ -25,3 +25,9 @@
 [2013-03-19 08:52:33] lukeis: i'm looking at mapping Keys.ENTER/RETURN to the "Go" button
 [2013-03-19 08:52:41] lukeis: unless you think that is a bad idea?
 [2013-03-19 08:54:56] freynaud_: lukeis: as long as you can target "Go"
+[2013-03-19 08:55:19] freynaud_: it's localized, and it also varies based on the type of form. Sometimes it's Search, sometimes Go etc
+[2013-03-19 08:55:35] freynaud_: the mapping might be a lot of maintenance :)
+[2013-03-19 08:55:38] lukeis: it's a button with Label "go" as far as i can tell
+[2013-03-19 08:55:53] lukeis: and the text can become other things, like search
+[2013-03-19 08:57:23] lukeis: i'm having a weird issue, when i run the server from IntelliJ, I can't connect to it via 127.0.0.1, i can with 'localhost' but not the ip address (python looks up IP address of hostname and translates the url it uses to be just that the whole time)
+[2013-03-19 08:57:33] lukeis: works fine for me when i run it standalone
