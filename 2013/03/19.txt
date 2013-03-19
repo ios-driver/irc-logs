@@ -1,3 +1,4 @@
 [2013-03-19 00:13:07] lukeis, quitting. (Quit: Leaving.)
 [2013-03-19 04:16:11] freynaud, joining. (#ios-driver)
 [2013-03-19 04:23:42] *nicegraham is in London'
+[2013-03-19 05:06:18] freynaud, quitting. (Ping timeout: 245 seconds)
