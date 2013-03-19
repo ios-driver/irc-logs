@@ -107,3 +107,17 @@
 [2013-03-19 10:45:08] freynaud_: first intl character on a textfield !
 [2013-03-19 10:45:24] freynaud_: after 6 months + on that project, I can now write my name
 [2013-03-19 10:46:51] rsalvador: ok, will add those
+[2013-03-19 11:10:06] lukeis: françois, who wants to write their name anyways! i have enough trouble putting in my last name in half the websites out there… they don't like hyphens
+[2013-03-19 11:10:40] freynaud_: i can now type ç using the keyboard
+[2013-03-19 11:10:58] lukeis: which project?
+[2013-03-19 11:11:27] freynaud_: ios-driver ?
+[2013-03-19 11:11:31] lukeis: ah ;)
+[2013-03-19 11:12:03] freynaud_: keyboard.typeString() only works if youdo'nt need a long touch to make alt keys appear
+[2013-03-19 11:12:21] lukeis: ah… you fixed it?
+[2013-03-19 11:13:14] freynaud_: I wish I'd fixed it.
+[2013-03-19 11:13:18] freynaud_: I worked around it
+[2013-03-19 11:13:33] lukeis: ah… no native events? :)
+[2013-03-19 11:13:40] freynaud_: native
+[2013-03-19 11:13:40] lukeis: or really worked around...
+[2013-03-19 11:14:15] freynaud_: with drag and drop with offset on the keyboard
+[2013-03-19 11:14:42] lukeis: ha
