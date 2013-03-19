@@ -132,3 +132,5 @@
 [2013-03-19 12:40:10] rsalvador, leaving. (#ios-driver)
 [2013-03-19 12:44:35] freynaud, quitting. (Quit: freynaud)
 [2013-03-19 12:44:59] freynaud, joining. (#ios-driver)
+[2013-03-19 12:50:12] freynaud, quitting. (Ping timeout: 276 seconds)
+[2013-03-19 12:51:59] freynaud, joining. (#ios-driver)
