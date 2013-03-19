@@ -134,3 +134,4 @@
 [2013-03-19 12:44:59] freynaud, joining. (#ios-driver)
 [2013-03-19 12:50:12] freynaud, quitting. (Ping timeout: 276 seconds)
 [2013-03-19 12:51:59] freynaud, joining. (#ios-driver)
+[2013-03-19 13:31:15] freynaud: keyboard management is gonna be something ...
