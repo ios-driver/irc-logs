@@ -8,3 +8,13 @@
 [2013-03-19 08:38:52] lukeis, joining. (#ios-driver)
 [2013-03-19 08:39:31] lukeis, quitting. (Client Quit)
 [2013-03-19 08:40:23] lukeis, joining. (#ios-driver)
+[2013-03-19 08:46:13] freynaud_, joining. (#ios-driver)
+[2013-03-19 08:46:17] freynaud, quitting. (Ping timeout: 245 seconds)
+[2013-03-19 08:48:22] freynaud_: lukeis: i'm working on setValue vs sendKeys
+[2013-03-19 08:48:36] lukeis: ok
+[2013-03-19 08:48:44] freynaud_: have you looked at that at all ? I have an issue with the default value
+[2013-03-19 08:48:59] freynaud_: for native=false, I use setValue(value);
+[2013-03-19 08:49:10] freynaud_: but that should append at the end, not replace
+[2013-03-19 08:49:10] lukeis: i've got 'our' tests working now, and I think test cases that ensure it in ios-driver
+[2013-03-19 08:49:56] lukeis: ah, we always clear beforehand
+[2013-03-19 08:49:56] freynaud_: the issue I have is that textFiled.value() returns <enter text> by default
