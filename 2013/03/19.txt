@@ -63,3 +63,7 @@
 [2013-03-19 09:36:45] freynaud_: it's not the part I prefer
 [2013-03-19 09:36:53] lukeis: :)
 [2013-03-19 09:37:40] freynaud_: what would you have picked for the xpath helper ?
+[2013-03-19 09:40:05] rsalvador, joining. (#ios-driver)
+[2013-03-19 09:42:23] lukeis: a forward slash :)
+[2013-03-19 09:43:18] lukeis: of course that may interfere with some firefox users default 'find on this page'
+[2013-03-19 09:44:58] lukeis: we definitely need a "help" window that shows the keyboard shortcuts
