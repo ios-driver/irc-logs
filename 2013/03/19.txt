@@ -4,3 +4,4 @@
 [2013-03-19 05:06:18] freynaud, quitting. (Ping timeout: 245 seconds)
 [2013-03-19 06:10:44] freynaud, joining. (#ios-driver)
 [2013-03-19 07:53:06] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
+[2013-03-19 08:22:38] smccarthy, joining. (#ios-driver)
