@@ -124,3 +124,5 @@
 [2013-03-19 11:21:01] freynaud_: any idea on how to find that   èéêëēėę are variations of E
 [2013-03-19 11:21:17] freynaud_: without maintaining the mapping
 [2013-03-19 11:22:15] smccarthy, quitting. (Remote host closed the connection)
+[2013-03-19 11:28:35] lukeis: nope… i'd make a map of some kind… actually i think i'd have a map accessible and the an "E" object that registers the keys it knows how to access
+[2013-03-19 11:29:37] freynaud_, quitting. (Ping timeout: 245 seconds)
