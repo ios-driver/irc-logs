@@ -52,3 +52,7 @@
 [2013-03-19 09:29:39] freynaud_: well
 [2013-03-19 09:29:48] freynaud_: instruments will disapear soon
 [2013-03-19 09:29:54] lukeis: :)
+[2013-03-19 09:30:08] lukeis: i welcome that :)
+[2013-03-19 09:31:31] freynaud_: it will allow multiple tests in parallel
+[2013-03-19 09:31:44] lukeis: that will be very cool
+[2013-03-19 09:32:08] lukeis: is there a keyboard shortcut to get your xpath validator to show up?
