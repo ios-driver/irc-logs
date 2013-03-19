@@ -163,3 +163,6 @@
 [2013-03-19 15:07:00] Hammertime38: Because with the protocol, the requests should be completely handled by the server, regardless of the client?
 [2013-03-19 15:07:40] freynaud: correct.
 [2013-03-19 15:10:27] Hammertime38: Interesting. Still reexamining my project...will get back to you in a bit
+[2013-03-19 15:33:14] Hammertime38: Wow. that....really simplified things. i guess it takes rewriting selenium to understand you dont need to rewrite selenium for out-of-the-box functionality
+[2013-03-19 15:34:09] freynaud: :)
+[2013-03-19 15:34:24] freynaud: having a clean API does help indeed
