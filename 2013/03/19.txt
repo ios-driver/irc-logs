@@ -73,3 +73,14 @@
 [2013-03-19 09:49:10] freynaud_:  the leading // opened and closed the helper :)
 [2013-03-19 09:49:19] lukeis: hehe
 [2013-03-19 09:49:36] lukeis: escape at that point would be the closing key
+[2013-03-19 09:50:13] lukeis: i may change that in a little bit
+[2013-03-19 09:50:29] lukeis: right now… back to 'real' work
+[2013-03-19 09:50:49] freynaud_: lukeis: that could be a good project for this hammer guy
+[2013-03-19 09:50:53] lukeis: i really wish 'real' and ios-driver were the same thing right now :-/
+[2013-03-19 09:51:12] freynaud_: I'm not 100% clear what is wrong with the c binding. it's already there as part of selenium
+[2013-03-19 09:51:26] lukeis: nothing's wrong
+[2013-03-19 09:51:34] freynaud_: what do you mean ' real' ?
+[2013-03-19 09:51:55] AutomatedTester, joining. (#ios-driver)
+[2013-03-19 09:51:59] lukeis: he was just looking at 0.5 and all the Criteria matching stuff you had written and seen the difference
+[2013-03-19 09:52:34] lukeis: 'real'  === work at salesforce.com where I have to deal with Android
+[2013-03-19 09:53:10] lukeis: f*ing android makes me curse more than ios ;)
