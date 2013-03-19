@@ -179,3 +179,9 @@
 [2013-03-19 15:39:36] freynaud: and I want multi real device support on all platform
 [2013-03-19 15:39:51] freynaud: + multi simulator on macos
 [2013-03-19 15:39:57] lukeis: how do you run the recorder currently freynaud? (special key or clicking something?)
+[2013-03-19 15:40:34] freynaud: we have a web interface : http://ios-driver.github.com/ios-driver/inspector.html
+[2013-03-19 15:41:15] freynaud: the screenshot is now clickable, that forwards clicks on the device / simulator and generate the code of the test
+[2013-03-19 15:42:01] freynaud: lukeis : ah, no, it's not a magic key
+[2013-03-19 15:42:25] freynaud: it's a magic parameter :   513a4d67/home?mode=record
+[2013-03-19 15:42:43] lukeis: ha ;)
+[2013-03-19 15:43:21] freynaud: Roberto is sitting next to me this week, I've heard enough complaints about my user experience choices btw.
