@@ -121,3 +121,6 @@
 [2013-03-19 11:13:40] lukeis: or really worked around...
 [2013-03-19 11:14:15] freynaud_: with drag and drop with offset on the keyboard
 [2013-03-19 11:14:42] lukeis: ha
+[2013-03-19 11:21:01] freynaud_: any idea on how to find that   èéêëēėę are variations of E
+[2013-03-19 11:21:17] freynaud_: without maintaining the mapping
+[2013-03-19 11:22:15] smccarthy, quitting. (Remote host closed the connection)
