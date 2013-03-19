@@ -46,3 +46,4 @@
 [2013-03-19 09:12:55] lukeis: oh, but you're on the native search box there...
 [2013-03-19 09:13:22] lukeis: what's the layout when you are on an input element?
 [2013-03-19 09:13:28] lukeis: i can check ;)
+[2013-03-19 09:20:32] lukeis: sorry, i think my change actually messed up the resources… i'll revert it
