@@ -56,3 +56,10 @@
 [2013-03-19 09:31:31] freynaud_: it will allow multiple tests in parallel
 [2013-03-19 09:31:44] lukeis: that will be very cool
 [2013-03-19 09:32:08] lukeis: is there a keyboard shortcut to get your xpath validator to show up?
+[2013-03-19 09:35:46] freynaud_: ESC
+[2013-03-19 09:36:04] freynaud_: and CTRL locks the selection
+[2013-03-19 09:36:06] lukeis: of course… you never took a usability class ;)
+[2013-03-19 09:36:39] freynaud_: well
+[2013-03-19 09:36:45] freynaud_: it's not the part I prefer
+[2013-03-19 09:36:53] lukeis: :)
+[2013-03-19 09:37:40] freynaud_: what would you have picked for the xpath helper ?
