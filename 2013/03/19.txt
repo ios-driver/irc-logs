@@ -47,3 +47,8 @@
 [2013-03-19 09:13:22] lukeis: what's the layout when you are on an input element?
 [2013-03-19 09:13:28] lukeis: i can check ;)
 [2013-03-19 09:20:32] lukeis: sorry, i think my change actually messed up the resources… i'll revert it
+[2013-03-19 09:29:19] lukeis: seriously my mbp must be on it's last legs… things work then they don't then they work again and I haven't changed anything other than restarting the server :-/
+[2013-03-19 09:29:31] lukeis: either that or instruments is playing tricks on me
+[2013-03-19 09:29:39] freynaud_: well
+[2013-03-19 09:29:48] freynaud_: instruments will disapear soon
+[2013-03-19 09:29:54] lukeis: :)
