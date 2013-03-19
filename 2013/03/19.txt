@@ -36,3 +36,13 @@
 [2013-03-19 09:05:23] freynaud_: but maven doesn't always copy the resources
 [2013-03-19 09:05:35] freynaud_: https://dl.dropbox.com/u/24687868/Screen%20Shot%202013-03-19%20at%2016.04.11.png
 [2013-03-19 09:06:19] freynaud_: when the keyboard isn't english, "Go" won't work
+[2013-03-19 09:10:25] lukeis: ahh, that sucks
+[2013-03-19 09:10:42] lukeis: but it's always the last UIAButton in the UIAKeyboard
+[2013-03-19 09:11:09] freynaud_: ^^
+[2013-03-19 09:11:19] freynaud_: it should be in JS I think
+[2013-03-19 09:11:25] freynaud_: extend UIAKeyboard
+[2013-03-19 09:11:53] freynaud_: the same way .hide(); should be there
+[2013-03-19 09:11:59] lukeis: yeah
+[2013-03-19 09:12:55] lukeis: oh, but you're on the native search box there...
+[2013-03-19 09:13:22] lukeis: what's the layout when you are on an input element?
+[2013-03-19 09:13:28] lukeis: i can check ;)
