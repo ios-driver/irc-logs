@@ -157,3 +157,8 @@
 [2013-03-19 15:03:30] freynaud: it should work out of the box. It works with python already
 [2013-03-19 15:03:52] lukeis: (as long as one passes in the right capabilities)
 [2013-03-19 15:03:59] freynaud: ios-driver follows the web driver protocol, so you _just_ need to create the correct capability
+[2013-03-19 15:05:14] Hammertime38: I have implemented that capability, but there are many backend adapters that I've needed to put together to do so. One sec, I'll re-examine
+[2013-03-19 15:05:43] freynaud: first thing is to ignore anything in the client module
+[2013-03-19 15:05:47] freynaud: all that is going away
+[2013-03-19 15:07:00] Hammertime38: Because with the protocol, the requests should be completely handled by the server, regardless of the client?
+[2013-03-19 15:07:40] freynaud: correct.
