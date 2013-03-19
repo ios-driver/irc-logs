@@ -148,3 +148,12 @@
 [2013-03-19 14:29:34] freynaud: the bindings are meant to disapear
 [2013-03-19 14:29:37] freynaud: ok, ttyl
 [2013-03-19 14:59:59] freynaud_, joining. (#ios-driver)
+[2013-03-19 15:01:26] Hammertime38: k, meeting over
+[2013-03-19 15:02:14] freynaud_: wb
+[2013-03-19 15:02:45] Hammertime38: So, using DotNet Selenium, say we wanted to create a new RemoteWebDriver with an ios-driver IOSCapabilities. How would we go about it from that angle?
+[2013-03-19 15:02:57] freynaud_: so what are you looking at exactly ? gsoc, internship?  or do you just have too much free time ?
+[2013-03-19 15:03:23] freynaud, quitting. (Ping timeout: 256 seconds)
+[2013-03-19 15:03:23] freynaud_, changing nick to freynaud.
+[2013-03-19 15:03:30] freynaud: it should work out of the box. It works with python already
+[2013-03-19 15:03:52] lukeis: (as long as one passes in the right capabilities)
+[2013-03-19 15:03:59] freynaud: ios-driver follows the web driver protocol, so you _just_ need to create the correct capability
