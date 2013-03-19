@@ -185,3 +185,4 @@
 [2013-03-19 15:42:25] freynaud: it's a magic parameter :   513a4d67/home?mode=record
 [2013-03-19 15:42:43] lukeis: ha ;)
 [2013-03-19 15:43:21] freynaud: Roberto is sitting next to me this week, I've heard enough complaints about my user experience choices btw.
+[2013-03-19 15:58:29] lukeis: hehe
