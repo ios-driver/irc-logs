@@ -164,3 +164,4 @@
 [2013-03-18 14:25:39] *lukeis hasn't been able to talk to the sauce guys without talking about appium/ios-driver yet… hopefully that can happen again ;)'
 [2013-03-18 15:11:00] lukeis, quitting. (Quit: Leaving.)
 [2013-03-18 17:24:12] Hammertime38, quitting. ()
+[2013-03-18 19:35:37] lukeis, joining. (#ios-driver)
