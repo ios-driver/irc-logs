@@ -147,3 +147,4 @@
 [2013-03-19 14:29:28] Hammertime38: grr, dev meeting. be back in 20 minutes or so
 [2013-03-19 14:29:34] freynaud: the bindings are meant to disapear
 [2013-03-19 14:29:37] freynaud: ok, ttyl
+[2013-03-19 14:59:59] freynaud_, joining. (#ios-driver)
