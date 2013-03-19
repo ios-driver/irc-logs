@@ -166,3 +166,16 @@
 [2013-03-19 15:33:14] Hammertime38: Wow. that....really simplified things. i guess it takes rewriting selenium to understand you dont need to rewrite selenium for out-of-the-box functionality
 [2013-03-19 15:34:09] freynaud: :)
 [2013-03-19 15:34:24] freynaud: having a clean API does help indeed
+[2013-03-19 15:35:42] Hammertime38: one class! that's all it took :) simply re-implementing the IOSCapabilities in C# as a fresh DesiredCapabilities subclass literally solves everything...I didnt realize the base JSON was set up so cleanly and generically
+[2013-03-19 15:36:01] freynaud: some keys are magic
+[2013-03-19 15:36:09] freynaud: and could use a bit more doc
+[2013-03-19 15:36:18] freynaud: but in the end you send a JSON string
+[2013-03-19 15:36:33] freynaud: so no real need to write code to make it work
+[2013-03-19 15:37:41] Hammertime38: it is beautiful, i'm continuously impressed with the selenium backend...well, now I'm not even sure if there is much of a GSoC to come of this, unless you had something else in mind
+[2013-03-19 15:38:15] freynaud: there is still a LOT that can be done
+[2013-03-19 15:38:41] freynaud: my TODO big tasks are :
+[2013-03-19 15:38:58] freynaud: make all selenium tests pass ( more lukeis todo :p )
+[2013-03-19 15:39:20] freynaud: inspector needs record in all languages ( currently just clicks in java work )
+[2013-03-19 15:39:36] freynaud: and I want multi real device support on all platform
+[2013-03-19 15:39:51] freynaud: + multi simulator on macos
+[2013-03-19 15:39:57] lukeis: how do you run the recorder currently freynaud? (special key or clicking something?)
