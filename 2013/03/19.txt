@@ -188,3 +188,5 @@
 [2013-03-19 15:58:29] lukeis: hehe
 [2013-03-19 16:02:28] lukeis, quitting. (Quit: Leaving.)
 [2013-03-19 16:09:42] freynaud, leaving. (#ios-driver)
+[2013-03-19 16:21:45] nicegraham: I'm in a hotel on wifi and they've blocked port 22
+[2013-03-19 16:21:52] nicegraham: nice work guys
