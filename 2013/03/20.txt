@@ -27,3 +27,5 @@
 [2013-03-20 12:00:52] freynaud: which makes no sense ( i.e. you cannot debug your web page on chrome if you are not in the chrome team )
 [2013-03-20 12:00:52] freynaud: signing
 [2013-03-20 12:19:18] freynaud, quitting. (Quit: freynaud)
+[2013-03-20 12:26:07] Hammertime38, joining. (#ios-driver)
+[2013-03-20 12:27:48] freynaud, joining. (#ios-driver)
