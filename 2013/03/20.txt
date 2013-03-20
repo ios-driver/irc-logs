@@ -36,3 +36,5 @@
 [2013-03-20 12:54:14] Hammertime38: sorry, cpu restarted itself for updates.
 [2013-03-20 13:07:21] freynaud, quitting. (Quit: freynaud)
 [2013-03-20 14:19:50] Hammertime38: Is the ios-driver-beta build functional? I'm getting an NPE at RemoteWebDriver.startSession()
+[2013-03-20 14:21:36] lukeis: i need to grab some of francios' latest changes to check
+[2013-03-20 14:21:45] Hammertime38: k
