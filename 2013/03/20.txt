@@ -24,3 +24,5 @@
 [2013-03-20 11:58:00] freynaud, joining. (#ios-driver)
 [2013-03-20 11:59:14] freynaud: so hybrid app from the app store don't let you inspect web views with RWKDP
 [2013-03-20 11:59:14] freynaud: something to do with sign in
+[2013-03-20 12:00:52] freynaud: which makes no sense ( i.e. you cannot debug your web page on chrome if you are not in the chrome team )
+[2013-03-20 12:00:52] freynaud: signing
