@@ -40,3 +40,7 @@
 [2013-03-20 14:21:45] Hammertime38: k
 [2013-03-20 14:27:22] rsalvador, joining. (#ios-driver)
 [2013-03-20 14:27:30] rsalvador, leaving. (#ios-driver)
+[2013-03-20 15:13:44] Hammertime38: same results from C# and Python
+[2013-03-20 15:14:10] *lukeis just grabbed the lastest and is building now'
+[2013-03-20 15:14:30] lukeis: work is bothersome ;)
+[2013-03-20 15:14:50] *Hammertime38 has plenty of time'
