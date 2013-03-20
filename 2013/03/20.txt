@@ -38,3 +38,5 @@
 [2013-03-20 14:19:50] Hammertime38: Is the ios-driver-beta build functional? I'm getting an NPE at RemoteWebDriver.startSession()
 [2013-03-20 14:21:36] lukeis: i need to grab some of francios' latest changes to check
 [2013-03-20 14:21:45] Hammertime38: k
+[2013-03-20 14:27:22] rsalvador, joining. (#ios-driver)
+[2013-03-20 14:27:30] rsalvador, leaving. (#ios-driver)
