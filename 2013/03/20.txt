@@ -32,3 +32,5 @@
 [2013-03-20 12:46:50] Hammertime38, quitting. ()
 [2013-03-20 12:48:56] Hammertime38, joining. (#ios-driver)
 [2013-03-20 12:49:22] Hammertime38, quitting. (Client Quit)
+[2013-03-20 12:54:04] Hammertime38, joining. (#ios-driver)
+[2013-03-20 12:54:14] Hammertime38: sorry, cpu restarted itself for updates.
