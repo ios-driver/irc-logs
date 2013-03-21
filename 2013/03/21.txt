@@ -302,3 +302,8 @@
 [2013-03-21 15:53:37] Hammertime38: ios-driver
 [2013-03-21 15:54:24] lukeis: ok, i don't know if i'll be able to help much here, maybe sending your app over to francois for him to try to run?
 [2013-03-21 15:54:25] Hammertime38: in other words, i can start a grid node with 0.5 with no problems
+[2013-03-21 15:55:26] Hammertime38: sure. who knows, maybe maven is tossing dependencies around or something.
+[2013-03-21 15:56:10] lukeis: ugh, my laptop is needing another reboot… just in time for me to start heading home ;)
+[2013-03-21 15:56:40] Hammertime38: lukeis: thanks for the help :) will get this straightened out.
+[2013-03-21 15:56:57] lukeis: i hope so :)
+[2013-03-21 15:57:28] lukeis, quitting. (Quit: Leaving.)
