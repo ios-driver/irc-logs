@@ -45,3 +45,5 @@
 [2013-03-21 08:15:59] lukeis: hiya freynaud
 [2013-03-21 08:28:06] rsalvador, joining. (#ios-driver)
 [2013-03-21 08:35:15] lukeis: freynaud: i just pushed a change that has a failing test (run the last one in FormHandlingTest)  and you should see a "Inspected frame has gone"  i tried to look at how to fix that but didn't know how to re-try the connection in wkrdp
+[2013-03-21 09:54:12] rsalvador, leaving. (#ios-driver)
+[2013-03-21 09:54:18] rsalvador, joining. (#ios-driver)
