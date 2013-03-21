@@ -10,3 +10,14 @@
 [2013-03-21 02:34:35] nicegraham: I had a look at that resources thing for the icon
 [2013-03-21 02:34:43] nicegraham: so I can see the url in the /status page
 [2013-03-21 02:34:55] nicegraham: but it's not listed in the capabilities/all
+[2013-03-21 02:35:04] nicegraham: also - I have an app which has an icon embedded
+[2013-03-21 02:35:22] nicegraham: if I load it on the simulator it is' displayed correctly
+[2013-03-21 02:35:40] nicegraham: but it doesn't get picked up in the /status
+[2013-03-21 02:36:12] freynaud: it doesn't load all the resources
+[2013-03-21 02:36:16] freynaud: it cherry picks
+[2013-03-21 02:36:24] nicegraham: the capabilities?
+[2013-03-21 02:36:51] freynaud: https://github.com/ios-driver/ios-driver-beta/blob/master/server/src/main/java/org/uiautomation/ios/server/application/APPIOSApplication.java#L209
+[2013-03-21 02:37:10] freynaud: the list of resources that will be made accessible is there : so atm, only the app icon
+[2013-03-21 02:37:37] freynaud: then that https://github.com/ios-driver/ios-driver-beta/blob/master/server/src/main/java/org/uiautomation/ios/server/application/ResourceCache.java does the caching
+[2013-03-21 02:38:50] nicegraham: so any idea why the icon is not being listed?
+[2013-03-21 02:39:06] nicegraham: it shows /wd/hub/resources/hash=0
