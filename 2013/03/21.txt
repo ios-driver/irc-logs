@@ -270,3 +270,12 @@
 [2013-03-21 15:07:30] nicegraham: http://dl.dropbox.com/u/564974/iosremoteproxy.png
 [2013-03-21 15:07:31] nicegraham: :)
 [2013-03-21 15:19:44] lukeis: need to get that mobile safari icon… then it's perfect ;)
+[2013-03-21 15:20:18] rsalvador, joining. (#ios-driver)
+[2013-03-21 15:21:06] nicegraham: it's finding the icon file name
+[2013-03-21 15:21:19] nicegraham:  but it's not adding to the resources for some reason
+[2013-03-21 15:21:27] nicegraham: something to step through tomorrow I guess
+[2013-03-21 15:21:40] lukeis: no, stay up all night working on it ;)
+[2013-03-21 15:21:53] nicegraham: I also need to figure out how to debug a proxy without souts everywhere
+[2013-03-21 15:22:07] nicegraham: francois gave me pointers but I couldn't figure it out
+[2013-03-21 15:22:23] nicegraham: lukeis: ok, no problem :)
+[2013-03-21 15:22:34] lukeis: atta boy
