@@ -145,3 +145,14 @@
 [2013-03-21 12:49:29] freynaud: i'll work on it
 [2013-03-21 12:49:36] freynaud: the issue will probably be :
 [2013-03-21 12:50:01] freynaud: you can only call DOM.doumentRoot once per page
+[2013-03-21 12:50:33] freynaud: if you call it twice, any WebElement that was found on the first documentRoot will be invalid
+[2013-03-21 12:50:50] freynaud: even if the 2 call refer to the same dom element
+[2013-03-21 12:51:06] freynaud: it's like each DOM.documentRoot reset all references
+[2013-03-21 12:51:16] freynaud: so you need to call it just once
+[2013-03-21 12:51:28] freynaud: and only when the page is loaded
+[2013-03-21 12:51:35] *lukeis leaves the messy bits of wkrdp to you ;)'
+[2013-03-21 12:53:04] freynaud: thx you
+[2013-03-21 12:53:32] freynaud: retrying works
+[2013-03-21 12:53:39] freynaud: but it shouldn't happen
+[2013-03-21 12:53:42] lukeis: ;)
+[2013-03-21 12:54:51] freynaud: dinner
