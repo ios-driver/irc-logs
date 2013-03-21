@@ -172,3 +172,17 @@
 [2013-03-21 13:24:32] lukeis: nope :)
 [2013-03-21 13:24:42] *lukeis really only cares about mobileSafari ;)'
 [2013-03-21 13:24:51] nicegraham: me-feiner
+[2013-03-21 13:25:11] nicegraham: that's irish for only caring about yourself :)
+[2013-03-21 13:25:13] lukeis: is that gallic for f u?
+[2013-03-21 13:25:20] lukeis: gallec? sp?
+[2013-03-21 13:25:33] lukeis: ;)
+[2013-03-21 13:25:34] nicegraham: gaelic
+[2013-03-21 13:25:37] lukeis: ahhh
+[2013-03-21 13:25:56] nicegraham: gaeilge actually
+[2013-03-21 13:26:17] *lukeis knows the language exists… that's about it'
+[2013-03-21 13:26:26] nicegraham: like most of us!
+[2013-03-21 13:26:53] nicegraham: well, what i've committed works and handles them
+[2013-03-21 13:27:00] lukeis: cool
+[2013-03-21 13:27:11] nicegraham: my only question is whether I have to unzip it first
+[2013-03-21 13:27:28] nicegraham: I'm inclined to think I do since it failed when I didn't :)
+[2013-03-21 13:27:39] nicegraham: and there's code to unzip files...
