@@ -41,3 +41,4 @@
 [2013-03-21 02:50:56] nicegraham: actually it looks like the CFBundleIcon is set
 [2013-03-21 02:50:57] nicegraham: "CFBundleIcons": {"CFBundlePrimaryIcon": { "CFBundleIconFiles": [ "Icon-72.png", "Icon-72@2x.png" ], "UIPrerenderedIcon": true }},
 [2013-03-21 02:53:00] nicegraham: ignore me, I see you're using CFBundleIconFile NOT CFBundleIconFiles
+[2013-03-21 08:01:55] lukeis, joining. (#ios-driver)
