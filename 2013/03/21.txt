@@ -280,3 +280,4 @@
 [2013-03-21 15:22:23] nicegraham: lukeis: ok, no problem :)
 [2013-03-21 15:22:34] lukeis: atta boy
 [2013-03-21 15:26:23] rsalvador, leaving. (#ios-driver)
+[2013-03-21 15:39:59] *Hammertime38 is still getting "bug.null" using the latest source'
