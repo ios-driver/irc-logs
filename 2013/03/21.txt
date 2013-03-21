@@ -193,3 +193,19 @@
 [2013-03-21 13:38:27] freynaud: we can add .zip
 [2013-03-21 13:38:45] freynaud: it will unzip, and create either a .app or .ipa as a result
 [2013-03-21 13:38:59] freynaud: and that will trigger one of the already existing rules
+[2013-03-21 13:40:05] freynaud: lukeis: yt ?
+[2013-03-21 13:41:08] lukeis: si
+[2013-03-21 13:41:33] nicegraham: freynaud: that's what I did
+[2013-03-21 13:41:38] nicegraham: :)
+[2013-03-21 13:41:40] lukeis: i see the maven dependency issue that i'll fix (if i have push access to the jni sub project)
+[2013-03-21 13:41:43] nicegraham: so we're on the same page
+[2013-03-21 13:42:08] freynaud: you don't have access ?
+[2013-03-21 13:42:12] freynaud: aren't you admin ?
+[2013-03-21 13:42:14] lukeis: i don't know :)
+[2013-03-21 13:42:22] lukeis: i'm not an owner
+[2013-03-21 13:42:32] lukeis: lemme check if you gave me access to that repo
+[2013-03-21 13:43:40] freynaud: lukeis: https://github.com/ios-driver/ios-driver-beta/blob/master/server/src/main/java/org/uiautomation/ios/context/BaseWebInspector.java#L126
+[2013-03-21 13:43:52] nicegraham: freynaud: I also looked at the icon resource
+[2013-03-21 13:44:34] nicegraham: in the absence of CFBundleIconFile I check for CFBundleIcons and then set the icon resource to be the first png available
+[2013-03-21 13:44:41] nicegraham: this works for my app
+[2013-03-21 13:44:53] nicegraham: and it finds an icon for mobile safari too
