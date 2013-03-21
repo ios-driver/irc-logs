@@ -50,3 +50,4 @@
 [2013-03-21 10:32:01] rsalvador: freynaud: hi, I am looking at the comment in https://github.com/ios-driver/ios-driver-beta/commit/7dc6e404e39057019b87b33486037d1865b92fb6#commitcomment-2852593
 [2013-03-21 10:32:46] rsalvador: I see that the folder monitor only looks for .app or .ipa files, we put a .zip with the zipped .app for the simulator.
 [2013-03-21 10:33:13] rsalvador: should the folder monitor be extended to support those zips, or should be handle simulator zips some other way?
+[2013-03-21 10:44:53] nicegraham: It should handle zips as well
