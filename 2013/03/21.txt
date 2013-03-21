@@ -21,3 +21,14 @@
 [2013-03-21 02:37:37] freynaud: then that https://github.com/ios-driver/ios-driver-beta/blob/master/server/src/main/java/org/uiautomation/ios/server/application/ResourceCache.java does the caching
 [2013-03-21 02:38:50] nicegraham: so any idea why the icon is not being listed?
 [2013-03-21 02:39:06] nicegraham: it shows /wd/hub/resources/hash=0
+[2013-03-21 02:41:42] nicegraham: http://dl.dropbox.com/u/564974/package_contents.png
+[2013-03-21 02:42:33] freynaud: it doesn't list icons
+[2013-03-21 02:42:58] freynaud: it lists the value for key = CFBundleIconFile in Info.plist
+[2013-03-21 02:43:10] nicegraham: ok
+[2013-03-21 02:43:23] nicegraham: so when the app is on a simulator
+[2013-03-21 02:43:26] nicegraham: what does it use?
+[2013-03-21 02:43:41] freynaud: if you want to make more resources from the app accessible, you need to change that in getResources of APPIOSApplication
+[2013-03-21 02:44:00] nicegraham: ok, I'll do that
+[2013-03-21 02:44:01] freynaud: same. Simulator or real device both have Info.plist and the same resources behind
+[2013-03-21 02:44:23] nicegraham: sorry - i meant the simulator shows the icon
+[2013-03-21 02:44:46] freynaud: apple knows better what to show :)
