@@ -38,3 +38,6 @@
 [2013-03-21 02:45:32] nicegraham: I just thought something was wrong
 [2013-03-21 02:45:44] nicegraham: I'll look to see if I can expose our one too
 [2013-03-21 02:45:53] nicegraham: and that might be a more complete solution
+[2013-03-21 02:50:56] nicegraham: actually it looks like the CFBundleIcon is set
+[2013-03-21 02:50:57] nicegraham: "CFBundleIcons": {"CFBundlePrimaryIcon": { "CFBundleIconFiles": [ "Icon-72.png", "Icon-72@2x.png" ], "UIPrerenderedIcon": true }},
+[2013-03-21 02:53:00] nicegraham: ignore me, I see you're using CFBundleIconFile NOT CFBundleIconFiles
