@@ -4,3 +4,4 @@
 [2013-03-21 01:14:24] freynaud, quitting. (Client Quit)
 [2013-03-21 01:15:07] freynaud, joining. (#ios-driver)
 [2013-03-21 01:19:43] freynaud, quitting. (Ping timeout: 260 seconds)
+[2013-03-21 02:04:29] freynaud, joining. (#ios-driver)
