@@ -186,3 +186,10 @@
 [2013-03-21 13:27:11] nicegraham: my only question is whether I have to unzip it first
 [2013-03-21 13:27:28] nicegraham: I'm inclined to think I do since it failed when I didn't :)
 [2013-03-21 13:27:39] nicegraham: and there's code to unzip files...
+[2013-03-21 13:37:40] freynaud: back
+[2013-03-21 13:38:04] freynaud: for the zip, I think we can add one more rule
+[2013-03-21 13:38:15] freynaud: atm we support .app and .iep
+[2013-03-21 13:38:19] freynaud: .ipa
+[2013-03-21 13:38:27] freynaud: we can add .zip
+[2013-03-21 13:38:45] freynaud: it will unzip, and create either a .app or .ipa as a result
+[2013-03-21 13:38:59] freynaud: and that will trigger one of the already existing rules
