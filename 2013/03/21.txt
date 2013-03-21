@@ -43,3 +43,4 @@
 [2013-03-21 02:53:00] nicegraham: ignore me, I see you're using CFBundleIconFile NOT CFBundleIconFiles
 [2013-03-21 08:01:55] lukeis, joining. (#ios-driver)
 [2013-03-21 08:15:59] lukeis: hiya freynaud
+[2013-03-21 08:28:06] rsalvador, joining. (#ios-driver)
