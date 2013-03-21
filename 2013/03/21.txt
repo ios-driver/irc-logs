@@ -238,3 +238,13 @@
 [2013-03-21 14:08:59] freynaud: I'll worked on it tomorrow.
 [2013-03-21 14:09:18] freynaud: i don't think I can find a generic way for all methods
 [2013-03-21 14:09:36] lukeis: sounds like the best way to go
+[2013-03-21 14:10:28] lukeis: did you see my change to UIAKeyboard.js ? (sending each char to typeKeys individually was painfully slow for us… especially with some test cases that send 1000+ chars)
+[2013-03-21 14:12:55] freynaud: lukeis: yes
+[2013-03-21 14:14:03] freynaud: it makes sense. my version was more a POC to be able to write my name :)
+[2013-03-21 14:14:08] lukeis: heh
+[2013-03-21 14:14:18] freynaud: it was optimise to write François  , that's all :)
+[2013-03-21 14:14:18] lukeis: françois can write his name! ;)
+[2013-03-21 14:14:42] freynaud: at least, now it's in JS
+[2013-03-21 14:14:49] lukeis: yep
+[2013-03-21 14:14:53] lukeis: i like that
+[2013-03-21 14:14:54] freynaud: and not in java, so maintenance isn't a problem
