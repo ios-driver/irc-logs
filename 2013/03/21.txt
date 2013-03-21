@@ -47,3 +47,6 @@
 [2013-03-21 08:35:15] lukeis: freynaud: i just pushed a change that has a failing test (run the last one in FormHandlingTest)  and you should see a "Inspected frame has gone"  i tried to look at how to fix that but didn't know how to re-try the connection in wkrdp
 [2013-03-21 09:54:12] rsalvador, leaving. (#ios-driver)
 [2013-03-21 09:54:18] rsalvador, joining. (#ios-driver)
+[2013-03-21 10:32:01] rsalvador: freynaud: hi, I am looking at the comment in https://github.com/ios-driver/ios-driver-beta/commit/7dc6e404e39057019b87b33486037d1865b92fb6#commitcomment-2852593
+[2013-03-21 10:32:46] rsalvador: I see that the folder monitor only looks for .app or .ipa files, we put a .zip with the zipped .app for the simulator.
+[2013-03-21 10:33:13] rsalvador: should the folder monitor be extended to support those zips, or should be handle simulator zips some other way?
