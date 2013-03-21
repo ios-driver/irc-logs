@@ -294,3 +294,11 @@
 [2013-03-21 15:45:38] Hammertime38: Also created a similar session from .NET...same results
 [2013-03-21 15:46:06] lukeis: ok, likely you'll need to show the gist of the output from the server
 [2013-03-21 15:46:57] Hammertime38: will do, may take a bit with this slow VNC tunnel
+[2013-03-21 15:50:40] Hammertime38: https://gist.github.com/Hammertime38/e21ed8397c96c8009ff9
+[2013-03-21 15:51:56] lukeis: hrm… any errant instruments or xcode processes running?
+[2013-03-21 15:52:17] lukeis: (and sometimes I need to reboot to clean everything out to get instruments to start running again)
+[2013-03-21 15:52:49] Hammertime38: nope. i have multiple builds within the same folder...can easily switch between each. Old builds work fine, new one does not
+[2013-03-21 15:53:32] lukeis: builds of ios-driver? or your app?
+[2013-03-21 15:53:37] Hammertime38: ios-driver
+[2013-03-21 15:54:24] lukeis: ok, i don't know if i'll be able to help much here, maybe sending your app over to francois for him to try to run?
+[2013-03-21 15:54:25] Hammertime38: in other words, i can start a grid node with 0.5 with no problems
