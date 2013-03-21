@@ -55,3 +55,9 @@
 [2013-03-21 10:45:37] lukeis: nicegraham you're so cloud ;)
 [2013-03-21 10:46:31] nicegraham: I've just landed back in rainy Dublin so pretty apt :)
 [2013-03-21 10:54:36] rsalvador: Thans, I will switch to using the folder after it supports zip files. I looked at the code but I am not sure how to add the support.
+[2013-03-21 10:55:20] lukeis: rsalvador: have you tried it? usually .app's are zipped and it may just work
+[2013-03-21 10:56:36] nicegraham: I think it will just work
+[2013-03-21 10:57:04] rsalvador: I dropped at UICatalog.zip and didn't work, should I use some other kind of format?
+[2013-03-21 10:57:06] nicegraham: I'm pretty sure it checks if it's a zip and instantiates an app
+[2013-03-21 10:57:26] nicegraham: OK, I'll check
+[2013-03-21 10:59:20] rsalvador: I generated UICatalog.zip by doing a zip -r UICatalog.zip UICatalog.app
