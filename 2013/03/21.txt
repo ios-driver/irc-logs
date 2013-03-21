@@ -290,3 +290,7 @@
 [2013-03-21 15:44:29] Hammertime38: whoops
 [2013-03-21 15:44:36] Hammertime38: put in a driver.quite() at the end ;)
 [2013-03-21 15:44:55] lukeis: that's quite a driver ;)
+[2013-03-21 15:45:36] lukeis: you're using python now?
+[2013-03-21 15:45:38] Hammertime38: Also created a similar session from .NET...same results
+[2013-03-21 15:46:06] lukeis: ok, likely you'll need to show the gist of the output from the server
+[2013-03-21 15:46:57] Hammertime38: will do, may take a bit with this slow VNC tunnel
