@@ -222,3 +222,12 @@
 [2013-03-21 13:47:51] freynaud: either we put "checkForPossibleLoad" on each action
 [2013-03-21 13:48:14] freynaud: or just catch the "frame is gone" and use that as an indication a new page loaded
 [2013-03-21 13:49:29] lukeis: i like the catch approach… and looks like it would go on getDocument https://github.com/ios-driver/ios-driver-beta/blob/master/server/src/main/java/org/uiautomation/ios/context/BaseWebInspector.java#L78
+[2013-03-21 13:50:41] freynaud: after getDocument
+[2013-03-21 13:50:47] freynaud: getDocument usually works
+[2013-03-21 13:51:04] lukeis: ok
+[2013-03-21 13:51:09] freynaud: it's the next call using document that fails
+[2013-03-21 13:51:36] freynaud: we could sneak a call in getDocument, but that will add 100ms to every single findElement
+[2013-03-21 13:53:48] lukeis: not a good option then
+[2013-03-21 13:54:41] freynaud: document.getRemoteObject().getId()
+[2013-03-21 13:54:46] freynaud: that's what throws
+[2013-03-21 13:54:52] freynaud: and that's what every call uses
