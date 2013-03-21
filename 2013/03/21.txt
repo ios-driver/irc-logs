@@ -209,3 +209,16 @@
 [2013-03-21 13:44:34] nicegraham: in the absence of CFBundleIconFile I check for CFBundleIcons and then set the icon resource to be the first png available
 [2013-03-21 13:44:41] nicegraham: this works for my app
 [2013-03-21 13:44:53] nicegraham: and it finds an icon for mobile safari too
+[2013-03-21 13:45:28] nicegraham: but when I try to get the mobilesafari resource from the server it returns a broken image
+[2013-03-21 13:45:35] nicegraham: it works fine for my app though
+[2013-03-21 13:45:53] freynaud: k
+[2013-03-21 13:46:07] lukeis: what am i looking at there freynaud? :)
+[2013-03-21 13:46:11] freynaud: i moved you from the pull team to the push team
+[2013-03-21 13:46:22] freynaud: lukeis: it's the logic for get
+[2013-03-21 13:46:39] freynaud: reset, wait for a new page event, initialize
+[2013-03-21 13:46:55] nicegraham: are you happy for me to push the icon changes to master too?
+[2013-03-21 13:47:05] freynaud: nicegraham: yes
+[2013-03-21 13:47:23] freynaud: lukeis: we may need that logic in more places than just get
+[2013-03-21 13:47:51] freynaud: either we put "checkForPossibleLoad" on each action
+[2013-03-21 13:48:14] freynaud: or just catch the "frame is gone" and use that as an indication a new page loaded
+[2013-03-21 13:49:29] lukeis: i like the catch approach… and looks like it would go on getDocument https://github.com/ios-driver/ios-driver-beta/blob/master/server/src/main/java/org/uiautomation/ios/context/BaseWebInspector.java#L78
