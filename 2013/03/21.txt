@@ -233,3 +233,8 @@
 [2013-03-21 13:54:52] freynaud: and that's what every call uses
 [2013-03-21 13:55:06] freynaud: I'll create a new getter for that, and put the retry in it
 [2013-03-21 13:58:02] freynaud: I also would like to get rid of all the JSON exception piloting everything
+[2013-03-21 14:08:49] freynaud: the document thing isn(t as easy as I hoped
+[2013-03-21 14:08:59] lukeis: :(
+[2013-03-21 14:08:59] freynaud: I'll worked on it tomorrow.
+[2013-03-21 14:09:18] freynaud: i don't think I can find a generic way for all methods
+[2013-03-21 14:09:36] lukeis: sounds like the best way to go
