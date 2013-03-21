@@ -83,3 +83,19 @@
 [2013-03-21 12:34:07] lukeis: i can bump everything up...
 [2013-03-21 12:34:46] freynaud: would make sense to have everything in the latest :)
 [2013-03-21 12:34:57] lukeis: yes...
+[2013-03-21 12:35:26] freynaud: "Inspected frame has gone" isn't notrmal
+[2013-03-21 12:35:37] lukeis: i realize that ;)
+[2013-03-21 12:36:42] lukeis: so, i'm not touching your 'local' jars you 'versioned' at 2.26
+[2013-03-21 12:36:52] lukeis: but the other two references are bumped now
+[2013-03-21 12:37:09] freynaud: local jars are just for tests
+[2013-03-21 12:37:14] lukeis: yep
+[2013-03-21 12:37:19] freynaud: they shouldn't introduce too much crazyness
+[2013-03-21 12:37:32] lukeis: i agree ;)
+[2013-03-21 12:37:48] freynaud: you only changed a test to have the issue appearing ?
+[2013-03-21 12:38:32] lukeis: no, the previous commit too :)
+[2013-03-21 12:38:53] lukeis: well, i it could have occurred before too… maybe
+[2013-03-21 12:38:58] lukeis: :)
+[2013-03-21 12:39:24] lukeis: i'm not hitting the Go button with sendKeys which causes a new page to load
+[2013-03-21 12:39:38] lukeis: calls afterwards get the error
+[2013-03-21 12:39:49] freynaud: k
+[2013-03-21 12:39:59] freynaud: i spent some time today with iTunes ads
