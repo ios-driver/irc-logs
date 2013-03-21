@@ -156,3 +156,7 @@
 [2013-03-21 12:53:39] freynaud: but it shouldn't happen
 [2013-03-21 12:53:42] lukeis: ;)
 [2013-03-21 12:54:51] freynaud: dinner
+[2013-03-21 12:55:24] freynaud: i think the root cause is that most test wait on page.title
+[2013-03-21 12:55:32] freynaud: that doesn't need the document
+[2013-03-21 12:55:58] freynaud: so title is what it should be, then the first find element actually loads the document
+[2013-03-21 12:56:07] freynaud: hiding the underlying bug you're seeing
