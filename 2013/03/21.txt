@@ -266,3 +266,4 @@
 [2013-03-21 14:24:31] freynaud: let me know if that solves the issue for you too
 [2013-03-21 14:49:49] nicegraham: freynaud: I'm looking at the iosremoteproxy
 [2013-03-21 14:49:59] nicegraham: currently I'm polling /status
+[2013-03-21 14:50:27] nicegraham: but the capabilities/all contains better info for altdevices / altsdks etc
