@@ -248,3 +248,12 @@
 [2013-03-21 14:14:49] lukeis: yep
 [2013-03-21 14:14:53] lukeis: i like that
 [2013-03-21 14:14:54] freynaud: and not in java, so maintenance isn't a problem
+[2013-03-21 14:15:17] lukeis: appium uses mechanic.js for most of it
+[2013-03-21 14:16:53] freynaud: i looked at it
+[2013-03-21 14:17:08] freynaud: I don't see the point of using css selector
+[2013-03-21 14:17:23] freynaud: it's not a dom, it's a very simple tree
+[2013-03-21 14:17:42] Hammertime38, joining. (#ios-driver)
+[2013-03-21 14:18:13] lukeis: i haven't looked at it, just know that mechanic had a lot of stuff already written to handle many cases
+[2013-03-21 14:18:42] freynaud: http://www.cozykozy.com/wtf-uiautomation-y-u-no-respect-object-equali
+[2013-03-21 14:18:54] freynaud: What this ultimately means for mechanic.js is that it's pretty broken at this point. Most of the functions related to filtering (`filter()`, `is()`, `not()`, etc.) flat out don't work.
+[2013-03-21 14:19:00] freynaud: since 4.3.3
