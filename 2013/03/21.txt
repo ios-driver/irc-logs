@@ -257,3 +257,10 @@
 [2013-03-21 14:18:42] freynaud: http://www.cozykozy.com/wtf-uiautomation-y-u-no-respect-object-equali
 [2013-03-21 14:18:54] freynaud: What this ultimately means for mechanic.js is that it's pretty broken at this point. Most of the functions related to filtering (`filter()`, `is()`, `not()`, etc.) flat out don't work.
 [2013-03-21 14:19:00] freynaud: since 4.3.3
+[2013-03-21 14:20:17] lukeis: ;)
+[2013-03-21 14:22:39] freynaud: i think mechanics is a good idea
+[2013-03-21 14:22:57] freynaud: if you use it directly in instruments
+[2013-03-21 14:23:13] freynaud: for iOS driver, I didn't write that much JS
+[2013-03-21 14:23:35] freynaud: it's easier to return exactly what I need for the selenium protocol
+[2013-03-21 14:24:21] freynaud: lukeis: https://github.com/ios-driver/ios-driver-beta/commit/33b80345ef6e08e21d5d22a59bc6988bb1cd1626
+[2013-03-21 14:24:31] freynaud: let me know if that solves the issue for you too
