@@ -269,3 +269,4 @@
 [2013-03-21 14:50:27] nicegraham: but the capabilities/all contains better info for altdevices / altsdks etc
 [2013-03-21 15:07:30] nicegraham: http://dl.dropbox.com/u/564974/iosremoteproxy.png
 [2013-03-21 15:07:31] nicegraham: :)
+[2013-03-21 15:19:44] lukeis: need to get that mobile safari icon… then it's perfect ;)
