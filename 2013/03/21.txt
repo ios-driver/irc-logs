@@ -99,3 +99,22 @@
 [2013-03-21 12:39:38] lukeis: calls afterwards get the error
 [2013-03-21 12:39:49] freynaud: k
 [2013-03-21 12:39:59] freynaud: i spent some time today with iTunes ads
+[2013-03-21 12:40:07] freynaud: and frame switch
+[2013-03-21 12:40:29] freynaud: it's not easy, because there is no test for the changes roman did
+[2013-03-21 12:40:37] freynaud: so safari works ( isn ) again
+[2013-03-21 12:40:47] freynaud: and I hope i didn't brake Roman's tests
+[2013-03-21 12:41:06] lukeis: hopefully :)
+[2013-03-21 12:41:16] lukeis: i don't know if he's been using ipad or not
+[2013-03-21 12:41:30] freynaud: still broken
+[2013-03-21 12:41:46] freynaud: how do you tell intelliJ to refresh ? I maven> reimport
+[2013-03-21 12:41:57] freynaud: but I still can't resolve illegalLocator
+[2013-03-21 12:42:21] nicegraham: and/or rebuild the project
+[2013-03-21 12:42:39] nicegraham: under the build menu
+[2013-03-21 12:42:40] lukeis: where is that referenced?
+[2013-03-21 12:42:42] freynaud: i don't see it in the jar
+[2013-03-21 12:42:46] lukeis: (illegal locator)
+[2013-03-21 12:42:48] freynaud: I see a InvalidSelectorException though
+[2013-03-21 12:42:58] freynaud: ElementFindingTest
+[2013-03-21 12:43:23] lukeis: not in my version :-/
+[2013-03-21 12:43:48] lukeis: oh wait
+[2013-03-21 12:44:25] lukeis: hmmm
