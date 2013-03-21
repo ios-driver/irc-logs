@@ -231,3 +231,5 @@
 [2013-03-21 13:54:41] freynaud: document.getRemoteObject().getId()
 [2013-03-21 13:54:46] freynaud: that's what throws
 [2013-03-21 13:54:52] freynaud: and that's what every call uses
+[2013-03-21 13:55:06] freynaud: I'll create a new getter for that, and put the retry in it
+[2013-03-21 13:58:02] freynaud: I also would like to get rid of all the JSON exception piloting everything
