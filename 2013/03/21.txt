@@ -5,3 +5,8 @@
 [2013-03-21 01:15:07] freynaud, joining. (#ios-driver)
 [2013-03-21 01:19:43] freynaud, quitting. (Ping timeout: 260 seconds)
 [2013-03-21 02:04:29] freynaud, joining. (#ios-driver)
+[2013-03-21 02:34:13] nicegraham: freynaud: yt?
+[2013-03-21 02:34:18] freynaud: yes
+[2013-03-21 02:34:35] nicegraham: I had a look at that resources thing for the icon
+[2013-03-21 02:34:43] nicegraham: so I can see the url in the /status page
+[2013-03-21 02:34:55] nicegraham: but it's not listed in the capabilities/all
