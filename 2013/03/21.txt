@@ -161,3 +161,7 @@
 [2013-03-21 12:55:58] freynaud: so title is what it should be, then the first find element actually loads the document
 [2013-03-21 12:56:07] freynaud: hiding the underlying bug you're seeing
 [2013-03-21 13:07:44] smccarthy, joining. (#ios-driver)
+[2013-03-21 13:10:24] nicegraham: freynaud: still here?
+[2013-03-21 13:14:03] nicegraham: lukeis: IllegalLocatorException?
+[2013-03-21 13:14:28] lukeis: fix will be pushed soon
+[2013-03-21 13:14:32] nicegraham: :)
