@@ -118,3 +118,30 @@
 [2013-03-21 12:43:23] lukeis: not in my version :-/
 [2013-03-21 12:43:48] lukeis: oh wait
 [2013-03-21 12:44:25] lukeis: hmmm
+[2013-03-21 12:45:09] freynaud: should be InvalidSelectorException
+[2013-03-21 12:45:10] lukeis: it should be InvalidSelector it looks like
+[2013-03-21 12:45:15] lukeis: :)
+[2013-03-21 12:45:17] freynaud: not sure why it passed before
+[2013-03-21 12:45:26] lukeis: 2.26 vs 2.31 likely
+[2013-03-21 12:45:41] freynaud: Keys.RETURN
+[2013-03-21 12:45:50] freynaud: i'm not sure we should even support that
+[2013-03-21 12:46:07] lukeis: What do you want to call the Go button?
+[2013-03-21 12:46:08] freynaud: a real user couldn't do that
+[2013-03-21 12:46:16] lukeis: yes they can
+[2013-03-21 12:46:21] lukeis: ^
+[2013-03-21 12:46:25] freynaud: ha, it's mapped to Go
+[2013-03-21 12:46:55] freynaud: it fails clean for me
+[2013-03-21 12:47:01] freynaud: java.lang.AssertionError: expected [true] but found [false]
+[2013-03-21 12:47:10] lukeis: what does it print out?
+[2013-03-21 12:47:22] lukeis: (the url)
+[2013-03-21 12:47:29] freynaud: http://localhost:22211/common/resultPage.html?x=namesomething
+[2013-03-21 12:47:44] lukeis: that's what it should do… hmmm
+[2013-03-21 12:48:03] lukeis: no clue why i get the exception
+[2013-03-21 12:48:07] *lukeis tries again'
+[2013-03-21 12:48:41] freynaud: got your exception now
+[2013-03-21 12:48:46] freynaud: some timing issues
+[2013-03-21 12:48:48] lukeis: w00t
+[2013-03-21 12:48:49] freynaud: good catch :)
+[2013-03-21 12:49:29] freynaud: i'll work on it
+[2013-03-21 12:49:36] freynaud: the issue will probably be :
+[2013-03-21 12:50:01] freynaud: you can only call DOM.doumentRoot once per page
