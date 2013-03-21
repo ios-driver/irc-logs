@@ -32,3 +32,9 @@
 [2013-03-21 02:44:01] freynaud: same. Simulator or real device both have Info.plist and the same resources behind
 [2013-03-21 02:44:23] nicegraham: sorry - i meant the simulator shows the icon
 [2013-03-21 02:44:46] freynaud: apple knows better what to show :)
+[2013-03-21 02:45:07] freynaud: I picked CFBundleIconFile because it works for eBay
+[2013-03-21 02:45:14] freynaud: I didn't do any research on ot
+[2013-03-21 02:45:27] nicegraham: ok, that's fine
+[2013-03-21 02:45:32] nicegraham: I just thought something was wrong
+[2013-03-21 02:45:44] nicegraham: I'll look to see if I can expose our one too
+[2013-03-21 02:45:53] nicegraham: and that might be a more complete solution
