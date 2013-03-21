@@ -51,3 +51,6 @@
 [2013-03-21 10:32:46] rsalvador: I see that the folder monitor only looks for .app or .ipa files, we put a .zip with the zipped .app for the simulator.
 [2013-03-21 10:33:13] rsalvador: should the folder monitor be extended to support those zips, or should be handle simulator zips some other way?
 [2013-03-21 10:44:53] nicegraham: It should handle zips as well
+[2013-03-21 10:45:23] nicegraham: I'm on my phone but will verify later
+[2013-03-21 10:45:37] lukeis: nicegraham you're so cloud ;)
+[2013-03-21 10:46:31] nicegraham: I've just landed back in rainy Dublin so pretty apt :)
