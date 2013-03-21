@@ -281,3 +281,12 @@
 [2013-03-21 15:22:34] lukeis: atta boy
 [2013-03-21 15:26:23] rsalvador, leaving. (#ios-driver)
 [2013-03-21 15:39:59] *Hammertime38 is still getting "bug.null" using the latest source'
+[2013-03-21 15:40:30] Hammertime38: the capabilities param always seems to be null when starting the session.
+[2013-03-21 15:40:34] lukeis: i see that sometimes :)
+[2013-03-21 15:40:59] lukeis: have some code to share on what you're doing?
+[2013-03-21 15:42:08] Hammertime38: sure...i simplified it to a one-liner. works perfect on the old source, bug.null on the new
+[2013-03-21 15:43:50] Hammertime38: https://gist.github.com/Hammertime38/18838911e074fbef56c1
+[2013-03-21 15:44:12] Hammertime38: easy, set up a basic capabilities object with a map.
+[2013-03-21 15:44:29] Hammertime38: whoops
+[2013-03-21 15:44:36] Hammertime38: put in a driver.quite() at the end ;)
+[2013-03-21 15:44:55] lukeis: that's quite a driver ;)
