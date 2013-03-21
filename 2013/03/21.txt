@@ -62,3 +62,4 @@
 [2013-03-21 10:57:26] nicegraham: OK, I'll check
 [2013-03-21 10:59:20] rsalvador: I generated UICatalog.zip by doing a zip -r UICatalog.zip UICatalog.app
 [2013-03-21 11:09:26] rsalvador: oh, UICatalog.zip is also here https://github.com/ios-driver/ios-driver-beta/tree/master/server/src/test/resources/sampleApps
+[2013-03-21 11:43:23] rsalvador, leaving. (#ios-driver)
