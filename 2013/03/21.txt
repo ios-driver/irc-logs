@@ -54,3 +54,4 @@
 [2013-03-21 10:45:23] nicegraham: I'm on my phone but will verify later
 [2013-03-21 10:45:37] lukeis: nicegraham you're so cloud ;)
 [2013-03-21 10:46:31] nicegraham: I've just landed back in rainy Dublin so pretty apt :)
+[2013-03-21 10:54:36] rsalvador: Thans, I will switch to using the folder after it supports zip files. I looked at the code but I am not sure how to add the support.
