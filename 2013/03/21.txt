@@ -63,3 +63,9 @@
 [2013-03-21 10:59:20] rsalvador: I generated UICatalog.zip by doing a zip -r UICatalog.zip UICatalog.app
 [2013-03-21 11:09:26] rsalvador: oh, UICatalog.zip is also here https://github.com/ios-driver/ios-driver-beta/tree/master/server/src/test/resources/sampleApps
 [2013-03-21 11:43:23] rsalvador, leaving. (#ios-driver)
+[2013-03-21 12:26:24] freynaud: lukeis:  hi
+[2013-03-21 12:28:15] nicegraham: I added support for zipped folders here: https://github.com/nicegraham/ios-driver-beta/commit/6578167b83b57190a637d1792421545403e6867e
+[2013-03-21 12:28:36] lukeis: hiya freynaud ;)
+[2013-03-21 12:28:38] nicegraham: I've assumed I need to unzip the file first since there's the unzip files class
+[2013-03-21 12:29:03] nicegraham: and it's being used in ios app class...
+[2013-03-21 12:29:08] nicegraham: is that correct?
