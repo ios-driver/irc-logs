@@ -188,3 +188,15 @@
 [2013-03-22 12:33:52] lukeis: it looks like alerts don't appear until another command is issued
 [2013-03-22 12:34:34] lukeis: no alert should appear ever for that test
 [2013-03-22 12:36:22] lukeis: (follow up to my comment 'that's not a valid test' … a test isn't a test unless it asserts something ;) )
+[2013-03-22 12:46:03] freynaud: commenting out the JS bit in java
+[2013-03-22 12:46:06] freynaud: the alert appears
+[2013-03-22 12:46:22] freynaud: the JS seems to properly overwrite the exception
+[2013-03-22 12:46:38] lukeis: doesn't work in the python test i linked ^
+[2013-03-22 12:46:45] lukeis: which should be reproducible in java
+[2013-03-22 12:47:35] freynaud: what's the error in python ?
+[2013-03-22 12:47:43] freynaud: it _just_ works in java
+[2013-03-22 12:47:49] lukeis: the text of the element is "" and the alert appears
+[2013-03-22 12:49:03] freynaud: the only thing I can think of is that executeScript takes parameters
+[2013-03-22 12:49:11] freynaud: and python might send them differently
+[2013-03-22 12:49:22] freynaud: how does executeScriptsTest do ?
+[2013-03-22 12:49:39] freynaud: is it passing all the casting and param tests N
