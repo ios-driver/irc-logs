@@ -45,3 +45,4 @@
 [2013-03-22 08:01:11] freynaud: k
 [2013-03-22 08:01:26] nicegraham: but I think the cleanest solution for safari is to add a png to the resources and use that?
 [2013-03-22 08:01:36] nicegraham: that way we can display something at least
+[2013-03-22 08:22:48] lukeis, joining. (#ios-driver)
