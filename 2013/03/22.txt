@@ -142,3 +142,6 @@
 [2013-03-22 09:55:55] lukeis: i don't know ;)
 [2013-03-22 09:56:08] nicegraham: no bother
 [2013-03-22 09:57:51] nicegraham: teardown() sounds likely :)
+[2013-03-22 10:22:53] nicegraham: nope, it still stays there! :)
+[2013-03-22 10:23:20] lukeis: there's likely some 'unregister' method
+[2013-03-22 10:24:42] nicegraham: yeah, I'll look more
