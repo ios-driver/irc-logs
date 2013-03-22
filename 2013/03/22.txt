@@ -205,3 +205,6 @@
 [2013-03-22 12:51:34] lukeis: async javascript fails them all, but most of the JS tests pass
 [2013-03-22 12:51:52] lukeis: that's executing_javascript_tests.py ;)
 [2013-03-22 12:53:18] lukeis: i haven't started trying to run the Java tests :) (reason why i'm doing python is try to make sure cross-language it has more of a chance to work…)
+[2013-03-22 12:58:55] freynaud: children finding tests all fail ?
+[2013-03-22 12:59:00] freynaud: this is strange
+[2013-03-22 12:59:09] lukeis: i haven't looked at what those are yet
