@@ -65,3 +65,9 @@
 [2013-03-22 08:38:41] nicegraham: I've tried loading the file directly from disk
 [2013-03-22 08:38:49] nicegraham: same problem
 [2013-03-22 08:39:43] dgrace_, joining. (#ios-driver)
+[2013-03-22 08:40:56] freynaud: let's just blame apple for now :)
+[2013-03-22 08:41:16] nicegraham: and leave the broken image?
+[2013-03-22 08:44:31] freynaud: yes
+[2013-03-22 08:44:37] freynaud: it works with safari
+[2013-03-22 08:44:48] freynaud: not with any other
+[2013-03-22 08:44:54] dgrace_: :freynaud. Hi Francois. Was wondering what the plan is for advanced touch actions like flicking etc?
