@@ -80,3 +80,5 @@
 [2013-03-22 08:52:38] freynaud: dgrace_: I looked at drag for the keyboard
 [2013-03-22 08:52:53] freynaud: to be able to use the alt letter, like é or ç
 [2013-03-22 08:53:22] freynaud: so far I've been pleasantly surprised. It's stable, and the API is good enough
+[2013-03-22 08:57:18] dgrace_: ah right, kind of like holding down a click and then dragging to extended char
+[2013-03-22 08:59:36] freynaud: yes
