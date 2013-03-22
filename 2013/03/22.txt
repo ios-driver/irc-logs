@@ -179,3 +179,4 @@
 [2013-03-22 11:32:04] freynaud: it's mainly a matter of getting the build we need
 [2013-03-22 11:32:47] lukeis: nice
 [2013-03-22 11:56:43] lukeis: AlertTest.java#testShouldBeAbleToOverrideTheWindowAlertMethod ? that's not in ios-driver source :-/
+[2013-03-22 12:05:40] Hammertime38, joining. (#ios-driver)
