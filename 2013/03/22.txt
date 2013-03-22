@@ -239,3 +239,9 @@
 [2013-03-22 14:02:31] lukeis: success of the project in my mind relies on cross-language binding compatability
 [2013-03-22 14:02:42] nicegraham: sure I get that
 [2013-03-22 14:04:29] nicegraham: why would the java bindings pass but the python ones not?
+[2013-03-22 14:07:09] lukeis: sometimes they pass the json object across the wire slightly differently
+[2013-03-22 14:08:06] nicegraham: it's always something :)
+[2013-03-22 14:08:27] nicegraham: so you'd rather get the python ones working?
+[2013-03-22 14:08:51] lukeis: and to the test that we were talking about earlier, the java ones don't exercise the same thing as python does
+[2013-03-22 14:09:04] lukeis: python is my focus to get 100% passing
+[2013-03-22 14:09:10] lukeis: then i'll move on to others :)
