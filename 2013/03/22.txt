@@ -180,3 +180,4 @@
 [2013-03-22 11:32:47] lukeis: nice
 [2013-03-22 11:56:43] lukeis: AlertTest.java#testShouldBeAbleToOverrideTheWindowAlertMethod ? that's not in ios-driver source :-/
 [2013-03-22 12:05:40] Hammertime38, joining. (#ios-driver)
+[2013-03-22 12:26:26] freynaud: https://github.com/ios-driver/ios-driver-beta/blob/master/ios-selenium-tests/src/test/java/org/uiautomation/ios/selenium/AlertsTest.java#L36
