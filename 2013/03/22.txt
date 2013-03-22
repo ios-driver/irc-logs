@@ -170,3 +170,11 @@
 [2013-03-22 11:28:19] freynaud: hum
 [2013-03-22 11:28:55] lukeis: otherwise all the alert tests in python pass ;)
 [2013-03-22 11:29:01] lukeis: (after adding some waits)
+[2013-03-22 11:30:05] freynaud: AlertTest.java#testShouldBeAbleToOverrideTheWindowAlertMethod
+[2013-03-22 11:30:09] freynaud: that works
+[2013-03-22 11:30:17] freynaud: it does the window.alert
+[2013-03-22 11:31:08] freynaud: alert tests passing is great
+[2013-03-22 11:31:33] freynaud: i worked with daniel and the chrome team this week
+[2013-03-22 11:31:48] freynaud: we should be able to have chrome on iOS at some point
+[2013-03-22 11:32:04] freynaud: it's mainly a matter of getting the build we need
+[2013-03-22 11:32:47] lukeis: nice
