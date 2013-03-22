@@ -82,3 +82,5 @@
 [2013-03-22 08:53:22] freynaud: so far I've been pleasantly surprised. It's stable, and the API is good enough
 [2013-03-22 08:57:18] dgrace_: ah right, kind of like holding down a click and then dragging to extended char
 [2013-03-22 08:59:36] freynaud: yes
+[2013-03-22 09:08:06] lukeis: franÇois likes to type his name apparently ;)
+[2013-03-22 09:09:54] freynaud: it's a good thing to be able to write your own name I find
