@@ -153,3 +153,15 @@
 [2013-03-22 10:34:38] nicegraham: we have jenkins pushing the builds out and then calling a testsuite to be run
 [2013-03-22 10:34:47] nicegraham: it specifies what caps it wants
 [2013-03-22 10:34:58] nicegraham: and grid does it's thing
+[2013-03-22 10:35:23] lukeis: since i'm on mobile only stuff now, i don't have to care about 'real' browsers :)
+[2013-03-22 10:35:50] lukeis: although… something may change regarding that soon… management seems to want to shift things around ;)
+[2013-03-22 10:36:08] nicegraham: but in the new world with loads of devices and simulators available....
+[2013-03-22 10:36:10] lukeis: jimevans *may* be on the same team as me soon
+[2013-03-22 10:36:14] nicegraham: something will have to manage it!
+[2013-03-22 10:36:29] nicegraham: I know the name from the lists etc - but that's about it :)
+[2013-03-22 10:36:46] lukeis: right now… we have a bunch of nodes on jenkins and the job gets tied to a node :( works… but parallelism does not
+[2013-03-22 10:37:09] nicegraham: we manage the parallelism in our own tool
+[2013-03-22 10:37:11] lukeis: jim works on (*is*) the IE driver and .NET bindings
+[2013-03-22 10:37:52] nicegraham: we basically queue tests in a DB and then a seperate app pulls them out and instantiates a testng object for each one and points it at the grid
+[2013-03-22 10:38:41] *nicegraham is heading for home'
+[2013-03-22 10:38:51] lukeis: 'night
