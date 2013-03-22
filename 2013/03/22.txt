@@ -245,3 +245,9 @@
 [2013-03-22 14:08:51] lukeis: and to the test that we were talking about earlier, the java ones don't exercise the same thing as python does
 [2013-03-22 14:09:04] lukeis: python is my focus to get 100% passing
 [2013-03-22 14:09:10] lukeis: then i'll move on to others :)
+[2013-03-22 14:11:18] nicegraham: so if I focused on java would there be wasted effort?
+[2013-03-22 14:11:37] lukeis: no
+[2013-03-22 14:12:06] nicegraham: well that's good
+[2013-03-22 14:13:45] nicegraham: so I'd need to create an iphone and ipad reference in the java desiredcaps file?
+[2013-03-22 14:14:38] lukeis: oh, to run them in java? you might as well just port them to the ios-driver project
+[2013-03-22 14:14:52] lukeis: like françois has done
