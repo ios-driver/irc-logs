@@ -165,3 +165,8 @@
 [2013-03-22 10:37:52] nicegraham: we basically queue tests in a DB and then a seperate app pulls them out and instantiates a testng object for each one and points it at the grid
 [2013-03-22 10:38:41] *nicegraham is heading for home'
 [2013-03-22 10:38:51] lukeis: 'night
+[2013-03-22 11:26:31] freynaud: lukeis: window.alert fails how ?
+[2013-03-22 11:27:22] lukeis: doing that javascript should not cause an alert window to show up on the page… but it does (clicking a link that call alert in javascript)
+[2013-03-22 11:28:19] freynaud: hum
+[2013-03-22 11:28:55] lukeis: otherwise all the alert tests in python pass ;)
+[2013-03-22 11:29:01] lukeis: (after adding some waits)
