@@ -50,3 +50,18 @@
 [2013-03-22 08:32:53] freynaud: smccarthy: Hi. I don't think we talked before. Are you using ios-driver ? looking at contributing ? :)
 [2013-03-22 08:33:41] smccarthy: freynaud: Not using it yet. But I do plan to use some driver in the next few months.
 [2013-03-22 08:33:58] freynaud: k
+[2013-03-22 08:36:29] nicegraham: freynaud: you ok with me adding a static valid image for mobile safari and caching that in the resources?
+[2013-03-22 08:37:08] freynaud: adding a png of safari in the project you mean ?
+[2013-03-22 08:37:20] nicegraham: yeah, in resources I guess
+[2013-03-22 08:37:28] nicegraham: and using that if the app == safari
+[2013-03-22 08:37:29] freynaud: i'd rather not
+[2013-03-22 08:37:36] nicegraham: me too
+[2013-03-22 08:37:44] freynaud: not sure what the legal stuff around it is
+[2013-03-22 08:37:51] nicegraham: I don't know how to fix truncated pngs though
+[2013-03-22 08:38:06] freynaud: but my guess is that redistributing apple material will create issues
+[2013-03-22 08:38:20] nicegraham: hmm, I hadn't considered that
+[2013-03-22 08:38:23] freynaud: maybe something wrong with the servlet
+[2013-03-22 08:38:30] nicegraham: no it's not
+[2013-03-22 08:38:41] nicegraham: I've tried loading the file directly from disk
+[2013-03-22 08:38:49] nicegraham: same problem
+[2013-03-22 08:39:43] dgrace_, joining. (#ios-driver)
