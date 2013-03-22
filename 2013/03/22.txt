@@ -13,3 +13,15 @@
 [2013-03-22 06:14:19] nicegraham: I also tried copying the .app to a different location and I get the same problem
 [2013-03-22 06:14:31] nicegraham: the icon appears broken on the hub
 [2013-03-22 06:14:48] nicegraham: like http://dl.dropbox.com/u/564974/iosremoteproxy.png
+[2013-03-22 06:15:52] nicegraham: any ideas?
+[2013-03-22 06:17:38] freynaud: not on the top of my head
+[2013-03-22 06:17:56] freynaud: and I'm not starting intelliJ until I'm done with this ppt presentation :)
+[2013-03-22 06:18:04] freynaud: otherwise it will never be done
+[2013-03-22 06:18:14] nicegraham: ok, that's grand
+[2013-03-22 06:18:28] nicegraham: I also wanted to talk to you about the iosremoteproxy
+[2013-03-22 06:18:37] nicegraham: and what i should be polling / presenting...
+[2013-03-22 06:18:46] nicegraham: but it can wait until youre finished
+[2013-03-22 06:18:52] freynaud: thx
+[2013-03-22 06:19:07] nicegraham: I'm going to keep trying to debug this icon thing - it's annoying me :)
+[2013-03-22 06:19:26] freynaud: displaying icons is always a great achievement
+[2013-03-22 06:19:37] nicegraham: yeah, it's all anyone cares about :)
