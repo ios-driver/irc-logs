@@ -309,3 +309,4 @@
 [2013-03-21 15:57:28] lukeis, quitting. (Quit: Leaving.)
 [2013-03-21 16:11:35] Hammertime38: freynaud: only if you have the chance/time. this is my build from the latest source: https://dl.dropbox.com/s/ze7b64qsl6sqavz/ios-server-0.6.0-latest.jar
 [2013-03-21 18:11:32] smccarthy, quitting. (Remote host closed the connection)
+[2013-03-21 18:33:27] Hammertime38, quitting. ()
