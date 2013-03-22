@@ -220,3 +220,9 @@
 [2013-03-22 13:49:25] nicegraham: yeah
 [2013-03-22 13:49:39] lukeis: inside the ios-driver project maybe
 [2013-03-22 13:49:59] nicegraham: yeah, inside the project
+[2013-03-22 13:50:12] lukeis: i've been running the selenium project's tests against ios-driver :)
+[2013-03-22 13:50:14] nicegraham: ok, so what was I meant to actually look at? :)
+[2013-03-22 13:50:17] lukeis: lost of failures ;)
+[2013-03-22 13:50:25] lukeis: lots*
+[2013-03-22 13:51:01] nicegraham: ok, how do I run them against ios-driver?
+[2013-03-22 13:53:52] lukeis: if you want to run the python tests… see my branch https://github.com/lukeis/selenium/tree/ios-driver
