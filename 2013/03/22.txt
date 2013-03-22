@@ -101,3 +101,22 @@
 [2013-03-22 09:13:15] freynaud: unmmutable
 [2013-03-22 09:14:01] lukeis: you can take it out
 [2013-03-22 09:14:40] lukeis: when running the ios-driver selenium tests, the error didn't seem apparent to me at the time (that you had changed the default to be simulator false in IOSCapabilities)
+[2013-03-22 09:15:07] nicegraham: I think there should be 3 states for that sim=true, sim=false or sim=don't care
+[2013-03-22 09:15:20] lukeis: +1
+[2013-03-22 09:15:35] nicegraham: no I had the same problem - i had to step through to find why I wasn't matching an app
+[2013-03-22 09:15:45] lukeis: not passing in the simulator cap should do it
+[2013-03-22 09:15:55] freynaud: i disagree with don't care
+[2013-03-22 09:15:55] lukeis: and not having it apart of the default IOSCapabilities
+[2013-03-22 09:16:01] freynaud: it should just be left out
+[2013-03-22 09:16:06] freynaud: and have a default
+[2013-03-22 09:16:22] nicegraham: but a default forces true of false
+[2013-03-22 09:16:34] nicegraham: you may not care whether it's a sim or not
+[2013-03-22 09:16:35] lukeis: first found, device or sim, if the capability isn't passed in
+[2013-03-22 09:16:38] freynaud: it's a boolean
+[2013-03-22 09:16:42] freynaud: there is no maybe :)
+[2013-03-22 09:16:48] lukeis: there's null ;)
+[2013-03-22 09:16:56] freynaud: elegant.
+[2013-03-22 09:17:02] lukeis: boolean's are always tri-state… True, False, null
+[2013-03-22 09:17:25] lukeis: i should say, Boolean ;)
+[2013-03-22 09:18:28] nicegraham: I'm sold
+[2013-03-22 09:18:29] nicegraham: :)
