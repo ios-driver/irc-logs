@@ -251,3 +251,20 @@
 [2013-03-22 14:13:45] nicegraham: so I'd need to create an iphone and ipad reference in the java desiredcaps file?
 [2013-03-22 14:14:38] lukeis: oh, to run them in java? you might as well just port them to the ios-driver project
 [2013-03-22 14:14:52] lukeis: like françois has done
+[2013-03-22 14:15:12] lukeis: so, just keep lifting tests from the selenium project and put them in ios-driver
+[2013-03-22 14:15:26] nicegraham: this may be a stupid question
+[2013-03-22 14:15:28] lukeis: i'd recommend one at a time ;)
+[2013-03-22 14:15:33] nicegraham: but I just copy the java files over?
+[2013-03-22 14:15:50] lukeis: nope, not quite
+[2013-03-22 14:16:03] lukeis: selenium uses jUnit… ios-driver uses TestNG :)
+[2013-03-22 14:16:09] lukeis: and a different base class
+[2013-03-22 14:16:17] nicegraham: ok
+[2013-03-22 14:16:21] lukeis: some modifications are likely required ;)
+[2013-03-22 14:16:28] nicegraham: so I just copy the content of the @test
+[2013-03-22 14:16:40] lukeis: you can also get rid of the browser specific stuff… since we know which one we are testing on ;)
+[2013-03-22 14:16:52] nicegraham: ok, that's a good start
+[2013-03-22 14:17:00] nicegraham: I'll have a bash
+[2013-03-22 14:17:03] lukeis: :)
+[2013-03-22 14:17:08] lukeis: enjoy
+[2013-03-22 14:17:17] nicegraham: you knows it
+[2013-03-22 14:17:20] nicegraham: :)
