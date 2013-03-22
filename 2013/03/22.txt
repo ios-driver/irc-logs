@@ -120,3 +120,4 @@
 [2013-03-22 09:17:25] lukeis: i should say, Boolean ;)
 [2013-03-22 09:18:28] nicegraham: I'm sold
 [2013-03-22 09:18:29] nicegraham: :)
+[2013-03-22 09:24:29] nicegraham: regarding the advanced touch events
