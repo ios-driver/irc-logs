@@ -77,3 +77,6 @@
 [2013-03-22 08:46:58] freynaud: if you find a app that allows to write unit tests for it, it shouldn't be too hard
 [2013-03-22 08:47:07] freynaud: instruments comes with a flick command
 [2013-03-22 08:47:35] dgrace_: cool, think we might need it. Will look into it.
+[2013-03-22 08:52:38] freynaud: dgrace_: I looked at drag for the keyboard
+[2013-03-22 08:52:53] freynaud: to be able to use the alt letter, like é or ç
+[2013-03-22 08:53:22] freynaud: so far I've been pleasantly surprised. It's stable, and the API is good enough
