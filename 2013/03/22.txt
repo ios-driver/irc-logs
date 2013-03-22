@@ -208,3 +208,4 @@
 [2013-03-22 12:58:55] freynaud: children finding tests all fail ?
 [2013-03-22 12:59:00] freynaud: this is strange
 [2013-03-22 12:59:09] lukeis: i haven't looked at what those are yet
+[2013-03-22 13:27:04] freynaud, quitting. (Quit: freynaud)
