@@ -84,3 +84,20 @@
 [2013-03-22 08:59:36] freynaud: yes
 [2013-03-22 09:08:06] lukeis: franÇois likes to type his name apparently ;)
 [2013-03-22 09:09:54] freynaud: it's a good thing to be able to write your own name I find
+[2013-03-22 09:10:27] freynaud: lukeis: regarding DesiredCapability
+[2013-03-22 09:10:46] freynaud: what would be the drawback if we throw when something is wrong ?
+[2013-03-22 09:10:56] freynaud: I agree it's not what selenium does
+[2013-03-22 09:11:00] freynaud: but I see that as an improvement
+[2013-03-22 09:11:33] freynaud: if we start silently replacing some specified capabilities, it becomes terrible
+[2013-03-22 09:11:37] lukeis: the exception should be clear though, right now it just dies ;)
+[2013-03-22 09:11:46] freynaud: does it ?
+[2013-03-22 09:11:56] freynaud: I should say : cannot find .. + the apability
+[2013-03-22 09:11:59] lukeis: yeah, took me a bit to find out that i had not matched it
+[2013-03-22 09:12:12] lukeis: maybe that's changed?
+[2013-03-22 09:12:35] freynaud: it took me a while ( a long while ) to find out why the simulator started when I had simulator = false
+[2013-03-22 09:12:44] lukeis: heh
+[2013-03-22 09:12:48] lukeis: sorry
+[2013-03-22 09:13:06] freynaud: esp. because the desiredCapability, which should be unstable, mutates now
+[2013-03-22 09:13:15] freynaud: unmmutable
+[2013-03-22 09:14:01] lukeis: you can take it out
+[2013-03-22 09:14:40] lukeis: when running the ios-driver selenium tests, the error didn't seem apparent to me at the time (that you had changed the default to be simulator false in IOSCapabilities)
