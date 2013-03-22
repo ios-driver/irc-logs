@@ -145,3 +145,11 @@
 [2013-03-22 10:22:53] nicegraham: nope, it still stays there! :)
 [2013-03-22 10:23:20] lukeis: there's likely some 'unregister' method
 [2013-03-22 10:24:42] nicegraham: yeah, I'll look more
+[2013-03-22 10:30:46] nicegraham: addNewEvent(new RemoteUnregisterException("Unregistering the node."));
+[2013-03-22 10:30:49] nicegraham: did the trick
+[2013-03-22 10:30:56] lukeis: :note freynaud i'm slowing going through the selenium tests, one is failing right now because it uses executeScript to override alerts: "window.alert = function(){ … }"  <- this is not working ;) I'll see what I can dig into, but I haven't looked at the executeScript handler yet and I suspect it will get murky in the wkrdp code
+[2013-03-22 10:32:54] lukeis: nice nicegraham ;)  we don't maintain a grid here a work… we basically use what comes down to jenkins node provisioning
+[2013-03-22 10:33:16] lukeis: tests run on particular nodes
+[2013-03-22 10:34:38] nicegraham: we have jenkins pushing the builds out and then calling a testsuite to be run
+[2013-03-22 10:34:47] nicegraham: it specifies what caps it wants
+[2013-03-22 10:34:58] nicegraham: and grid does it's thing
