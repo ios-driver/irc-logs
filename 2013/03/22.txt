@@ -268,3 +268,4 @@
 [2013-03-22 14:17:08] lukeis: enjoy
 [2013-03-22 14:17:17] nicegraham: you knows it
 [2013-03-22 14:17:20] nicegraham: :)
+[2013-03-22 14:23:52] smccarthy, quitting. (Remote host closed the connection)
