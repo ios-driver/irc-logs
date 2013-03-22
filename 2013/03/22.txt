@@ -121,3 +121,14 @@
 [2013-03-22 09:18:28] nicegraham: I'm sold
 [2013-03-22 09:18:29] nicegraham: :)
 [2013-03-22 09:24:29] nicegraham: regarding the advanced touch events
+[2013-03-22 09:25:14] nicegraham: once we implemented them in nativedriver we had a bit of a problem with swipe because it didn't really allow for direction
+[2013-03-22 09:25:23] nicegraham: I started this discussion
+[2013-03-22 09:25:24] nicegraham: https://groups.google.com/forum/?fromgroups=#!topic/selenium-developers/ukw3wfcasa4
+[2013-03-22 09:25:35] nicegraham: but never got as far as the patch
+[2013-03-22 09:26:07] nicegraham: Jason thought the current implementation kind of covered it
+[2013-03-22 09:26:30] nicegraham: but I personally don't really like that solution, it's not very clear or intuitive
+[2013-03-22 09:26:34] nicegraham: any thoughts?
+[2013-03-22 09:27:31] lukeis: i think it does… at least we can handle it.. the end api written with Actions class should look about the same either way
+[2013-03-22 09:28:14] lukeis: we've come a long way since that thread ;)
+[2013-03-22 09:29:34] nicegraham: we have :)
+[2013-03-22 09:29:53] nicegraham: you think his way covers it or there's another approach?
