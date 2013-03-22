@@ -211,3 +211,12 @@
 [2013-03-22 13:27:04] freynaud, quitting. (Quit: freynaud)
 [2013-03-22 13:40:26] freynaud, joining. (#ios-driver)
 [2013-03-22 13:41:19] freynaud, quitting. (Client Quit)
+[2013-03-22 13:47:50] nicegraham: lukeis: yt?
+[2013-03-22 13:48:11] lukeis: kinda ;)
+[2013-03-22 13:48:22] nicegraham: I'll be quick
+[2013-03-22 13:48:47] nicegraham: Francois said to look at the selenium-tests
+[2013-03-22 13:48:52] nicegraham: but they're all passing?
+[2013-03-22 13:49:15] lukeis: they are? :)
+[2013-03-22 13:49:25] nicegraham: yeah
+[2013-03-22 13:49:39] lukeis: inside the ios-driver project maybe
+[2013-03-22 13:49:59] nicegraham: yeah, inside the project
