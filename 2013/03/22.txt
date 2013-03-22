@@ -46,3 +46,7 @@
 [2013-03-22 08:01:26] nicegraham: but I think the cleanest solution for safari is to add a png to the resources and use that?
 [2013-03-22 08:01:36] nicegraham: that way we can display something at least
 [2013-03-22 08:22:48] lukeis, joining. (#ios-driver)
+[2013-03-22 08:31:51] smccarthy, joining. (#ios-driver)
+[2013-03-22 08:32:53] freynaud: smccarthy: Hi. I don't think we talked before. Are you using ios-driver ? looking at contributing ? :)
+[2013-03-22 08:33:41] smccarthy: freynaud: Not using it yet. But I do plan to use some driver in the next few months.
+[2013-03-22 08:33:58] freynaud: k
