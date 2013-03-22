@@ -34,3 +34,5 @@
 [2013-03-22 07:07:23] nicegraham: Error: Image corrupt or truncated: file:///Users/gabell/github/nicegraham/ios-driver-beta/applications/MobileSafari.app/icon@2x~iphone.png
 [2013-03-22 07:07:23] nicegraham: Source File: file:///Users/gabell/github/nicegraham/ios-driver-beta/applications/MobileSafari.app/icon@2x~iphone.png
 [2013-03-22 07:07:23] nicegraham: Line: 0
+[2013-03-22 07:59:46] freynaud: strange
+[2013-03-22 07:59:55] nicegraham: yeah
