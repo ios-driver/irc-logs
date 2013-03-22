@@ -25,3 +25,5 @@
 [2013-03-22 06:19:07] nicegraham: I'm going to keep trying to debug this icon thing - it's annoying me :)
 [2013-03-22 06:19:26] freynaud: displaying icons is always a great achievement
 [2013-03-22 06:19:37] nicegraham: yeah, it's all anyone cares about :)
+[2013-03-22 06:44:10] nicegraham: hmm, for some reason it's not closing the response
+[2013-03-22 06:44:46] nicegraham: nope, that's not it
