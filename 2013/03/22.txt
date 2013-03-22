@@ -200,3 +200,8 @@
 [2013-03-22 12:49:11] freynaud: and python might send them differently
 [2013-03-22 12:49:22] freynaud: how does executeScriptsTest do ?
 [2013-03-22 12:49:39] freynaud: is it passing all the casting and param tests N
+[2013-03-22 12:50:41] lukeis: this was my run from the other day https://gist.github.com/lukeis/5214480
+[2013-03-22 12:51:05] lukeis: all but 1 alerts tests are passing now ;)
+[2013-03-22 12:51:34] lukeis: async javascript fails them all, but most of the JS tests pass
+[2013-03-22 12:51:52] lukeis: that's executing_javascript_tests.py ;)
+[2013-03-22 12:53:18] lukeis: i haven't started trying to run the Java tests :) (reason why i'm doing python is try to make sure cross-language it has more of a chance to work…)
