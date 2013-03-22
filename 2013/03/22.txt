@@ -1,1 +1,15 @@
 [2013-03-22 05:12:26] nicegraham: freynaud: yt?
+[2013-03-22 06:11:11] freynaud: yes
+[2013-03-22 06:11:49] nicegraham: hey
+[2013-03-22 06:12:09] nicegraham: so I was looking at why the icon for mobilesafari doesn't work
+[2013-03-22 06:12:19] nicegraham: It finds the correct file, which exists and it can read
+[2013-03-22 06:12:44] nicegraham: and it returns it in that copy stream in the resources servlet
+[2013-03-22 06:13:16] nicegraham: I added a copy file and it works and becomes available in the new location
+[2013-03-22 06:13:25] freynaud: cool
+[2013-03-22 06:13:36] nicegraham: so I don't know why it's appearing as a broken image when it's returned by the servlet
+[2013-03-22 06:13:46] nicegraham: unless some information is being truncated or something?
+[2013-03-22 06:14:00] nicegraham: but that doesn't really make sense since it works for other apps fine...
+[2013-03-22 06:14:04] nicegraham: I'm at a bit of a loss
+[2013-03-22 06:14:19] nicegraham: I also tried copying the .app to a different location and I get the same problem
+[2013-03-22 06:14:31] nicegraham: the icon appears broken on the hub
+[2013-03-22 06:14:48] nicegraham: like http://dl.dropbox.com/u/564974/iosremoteproxy.png
