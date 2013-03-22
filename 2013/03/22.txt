@@ -231,3 +231,11 @@
 [2013-03-22 13:58:13] nicegraham: so is the same true for java?
 [2013-03-22 13:58:34] nicegraham: actually, why are there python and java tests?
 [2013-03-22 13:58:53] nicegraham: are they not just testing the same thing or is it to exercise the various bindings?
+[2013-03-22 14:00:42] lukeis: ;)
+[2013-03-22 14:00:56] lukeis: python tests exist to exercise the python bindings
+[2013-03-22 14:01:14] lukeis: there is plenty of overlap
+[2013-03-22 14:01:27] lukeis: ios-driver *needs* to work on not just java ;)
+[2013-03-22 14:02:00] lukeis: even though all my work tests will be java :)
+[2013-03-22 14:02:31] lukeis: success of the project in my mind relies on cross-language binding compatability
+[2013-03-22 14:02:42] nicegraham: sure I get that
+[2013-03-22 14:04:29] nicegraham: why would the java bindings pass but the python ones not?
