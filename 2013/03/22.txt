@@ -226,3 +226,8 @@
 [2013-03-22 13:50:25] lukeis: lots*
 [2013-03-22 13:51:01] nicegraham: ok, how do I run them against ios-driver?
 [2013-03-22 13:53:52] lukeis: if you want to run the python tests… see my branch https://github.com/lukeis/selenium/tree/ios-driver
+[2013-03-22 13:57:37] nicegraham: ok, i'm looking....
+[2013-03-22 13:57:57] lukeis: last few commits have the bits (and comments on how)
+[2013-03-22 13:58:13] nicegraham: so is the same true for java?
+[2013-03-22 13:58:34] nicegraham: actually, why are there python and java tests?
+[2013-03-22 13:58:53] nicegraham: are they not just testing the same thing or is it to exercise the various bindings?
