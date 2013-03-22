@@ -29,3 +29,4 @@
 [2013-03-22 06:44:46] nicegraham: nope, that's not it
 [2013-03-22 06:47:38] nicegraham: if I right-click and save the broken image and then open the file, it appears correctly
 [2013-03-22 06:48:19] nicegraham: so it seems like the file content is correct
+[2013-03-22 06:58:22] nicegraham: it works in safari, no broken links http://dl.dropbox.com/u/564974/safari.png
