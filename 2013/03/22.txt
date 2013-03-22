@@ -36,3 +36,12 @@
 [2013-03-22 07:07:23] nicegraham: Line: 0
 [2013-03-22 07:59:46] freynaud: strange
 [2013-03-22 07:59:55] nicegraham: yeah
+[2013-03-22 08:00:10] nicegraham: I looked at all the icon files in the contents and they're all truncated
+[2013-03-22 08:00:18] nicegraham: in mobilesafari
+[2013-03-22 08:00:32] nicegraham: if i open it in preview
+[2013-03-22 08:00:37] nicegraham: and then re-save it
+[2013-03-22 08:00:51] nicegraham: the file size changes and firefox/chrome don't complain any more
+[2013-03-22 08:01:00] nicegraham: I've added a method to detect a truncated file
+[2013-03-22 08:01:11] freynaud: k
+[2013-03-22 08:01:26] nicegraham: but I think the cleanest solution for safari is to add a png to the resources and use that?
+[2013-03-22 08:01:36] nicegraham: that way we can display something at least
