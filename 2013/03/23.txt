@@ -11,3 +11,5 @@
 [2013-03-23 10:19:24] nicegraham: to get them to run all together
 [2013-03-23 10:19:33] nicegraham: that's where I get 4 fails
 [2013-03-23 10:19:51] nicegraham: when I run each file individually in intellij everything passes
+[2013-03-23 11:14:29] nicegraham: I get one fail running from testng.xml
+[2013-03-23 11:14:45] nicegraham: testCanEnterPhoneNumberIntoTELinput
