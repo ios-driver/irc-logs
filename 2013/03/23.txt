@@ -14,3 +14,5 @@
 [2013-03-23 11:14:29] nicegraham: I get one fail running from testng.xml
 [2013-03-23 11:14:45] nicegraham: testCanEnterPhoneNumberIntoTELinput
 [2013-03-23 13:19:05] freynaud, leaving. (#ios-driver)
+[2013-03-23 13:27:19] nicegraham, leaving. (#ios-driver)
+[2013-03-23 13:28:52] nicegraham, joining. (#ios-driver)
