@@ -4,3 +4,4 @@
 [2013-03-23 03:10:03] freynaud: AutomatedTester: hi
 [2013-03-23 04:20:09] nicegraham: I'm back
 [2013-03-23 04:20:52] nicegraham: freynaud: still here?
+[2013-03-23 04:29:35] nicegraham: :note freynaud I started looking at the unit tests, they all pass if they run them in batches but 4 fail if they're run together. I also spoke to Luke about adding more in, so I've looked at the main Se project but there's loads, do you have a priority list in terms of which ones you want proted first?
