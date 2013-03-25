@@ -174,3 +174,5 @@
 [2013-03-25 10:22:20] freynaud: uiautomation will redirect to the git repo when it refreshes
 [2013-03-25 10:24:54] freynaud: http://whois.net/whois/uiautomation.org
 [2013-03-25 10:24:54] freynaud: actually, whois give you those info
+[2013-03-25 10:59:47] rsalvador, joining. (#ios-driver)
+[2013-03-25 10:59:52] rsalvador, leaving. (#ios-driver)
