@@ -78,3 +78,11 @@
 [2013-03-25 07:34:08] freynaud: if you feel like uploading, go for it
 [2013-03-25 07:34:47] nicegraham: if we have a lot of people using it, it's a good mechanism for delivery
 [2013-03-25 07:34:59] nicegraham: we use it here for all our other selenium dependenices
+[2013-03-25 07:35:06] nicegraham: I'll look into how to do it
+[2013-03-25 07:35:38] dgrace: i've uploaded the beta to our private maven repo :)
+[2013-03-25 07:37:56] freynaud: nicegraham: encoding fixed
+[2013-03-25 07:38:09] nicegraham: cool, what did you have to do?
+[2013-03-25 07:38:21] nicegraham: that means the tests all pass in maven too now?
+[2013-03-25 07:38:41] freynaud: i have seen some timing error I think
+[2013-03-25 07:38:50] freynaud: but no more functional issues
+[2013-03-25 07:39:09] freynaud: i'm running all the tests , then I'll push
