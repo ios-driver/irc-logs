@@ -111,3 +111,6 @@
 [2013-03-25 09:03:15] lukeis: i was inspired by trying to type an ümlaut ;)
 [2013-03-25 09:04:45] lukeis: and then the ß ;)
 [2013-03-25 09:04:57] lukeis: and i noticed something very very strange
+[2013-03-25 09:05:41] lukeis: 'y' on my device and 'y' on the simulator don't show the same characters and (even harder to deal with) show them in different directions from the letter...
+[2013-03-25 09:08:49] freynaud: same sdk, same device ?
+[2013-03-25 09:09:01] freynaud: ( ihpone 3.5'' vs 4'' )
