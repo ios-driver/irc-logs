@@ -5,3 +5,5 @@
 [2013-03-24 16:57:35] dgrace_, quitting. (*.net *.split)
 [2013-03-24 17:03:52] dgrace_, joining. (#ios-driver)
 [2013-03-24 17:03:52] AutomatedTester, joining. (#ios-driver)
+[2013-03-24 17:13:56] ios-driverbot, quitting. (Ping timeout: 272 seconds)
+[2013-03-24 17:14:10] ios-driverbot, joining. (#ios-driver)
