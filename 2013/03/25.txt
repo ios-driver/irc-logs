@@ -94,3 +94,7 @@
 [2013-03-25 07:44:29] nicegraham: ok,will do
 [2013-03-25 07:45:05] nicegraham: I'll probably come back to you today when I've digested that servlet and how it differs from the /capabilities/all one
 [2013-03-25 07:54:05] millenium, joining. (#ios-driver)
+[2013-03-25 07:56:42] freynaud, quitting. (Ping timeout: 245 seconds)
+[2013-03-25 07:58:30] freynaud, joining. (#ios-driver)
+[2013-03-25 07:59:18] nicegraham, leaving. (#ios-driver)
+[2013-03-25 07:59:22] nicegraham, joining. (#ios-driver)
