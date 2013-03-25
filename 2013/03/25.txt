@@ -205,3 +205,18 @@
 [2013-03-25 13:29:24] freynaud: lukeis: i'll check after dinner
 [2013-03-25 13:29:37] lukeis: ok… i may look more myself in a bit
 [2013-03-25 13:29:58] freynaud: it's in UIAKeyboard.js
+[2013-03-25 13:30:25] lukeis: i know
+[2013-03-25 13:30:36] lukeis: just haven't run it down as to why
+[2013-03-25 13:31:32] freynaud, quitting. (Quit: freynaud)
+[2013-03-25 13:31:57] nicegraham: lukeis: in intellij I can see all the commits in the history
+[2013-03-25 13:32:07] nicegraham: but on github it's foobarred
+[2013-03-25 13:32:18] lukeis: your github?
+[2013-03-25 13:32:23] nicegraham: no the main one
+[2013-03-25 13:32:32] lukeis: ios-driver-beta?
+[2013-03-25 13:32:38] nicegraham: it's showing the last commits as 3 days ago
+[2013-03-25 13:32:59] nicegraham: I'm planking it here....
+[2013-03-25 13:33:35] lukeis: oh… nicegraham did you 'git push --force' ?
+[2013-03-25 13:33:49] nicegraham: yes after I did the pull rebase
+[2013-03-25 13:34:15] nicegraham: but I did other checkins this afternoon to master
+[2013-03-25 13:34:18] nicegraham: so wha
+[2013-03-25 13:34:23] nicegraham: why has it gone back so far?
