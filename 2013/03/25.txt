@@ -278,3 +278,5 @@
 [2013-03-25 15:08:20] nicegraham: I was going to hardcode it in the server but Francois reckoned it might cause hassle with apple
 [2013-03-25 15:12:03] nicegraham: lukeis: thanks for the github help again :)
 [2013-03-25 15:12:09] lukeis: np ;)
+[2013-03-25 15:48:45] ios-driverbot, joining. (#ios-driver)
+[2013-03-25 15:49:26] lukeis, quitting. (Quit: Leaving.)
