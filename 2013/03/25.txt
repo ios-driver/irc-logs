@@ -253,3 +253,13 @@
 [2013-03-25 13:54:30] freynaud: I push everything to 2 repo btw nicegraham . You can always find the backup here https://github.com/freynaud/ios-driver-private
 [2013-03-25 13:54:36] freynaud: yes.
 [2013-03-25 13:54:53] nicegraham: ok, well at least that's ok
+[2013-03-25 13:55:06] nicegraham: when I rebased and pushed it went back in time
+[2013-03-25 13:55:13] nicegraham: lukeis fixed that
+[2013-03-25 13:55:17] freynaud: you can use TimeSpeeder
+[2013-03-25 13:55:27] freynaud: it will allow you to commit in the future
+[2013-03-25 13:55:32] freynaud: and balance the effects :)
+[2013-03-25 13:55:47] nicegraham: but I still have one commit missing that git doesn't want to let me push
+[2013-03-25 13:56:20] nicegraham: freynaud: I can't find TimeSpeeder?
+[2013-03-25 13:56:56] freynaud: https://github.com/ios-driver/ios-driver-beta/blob/master/server/src/main/java/org/uiautomation/ios/utils/hack/TimeSpeeder.java
+[2013-03-25 13:59:09] nicegraham: this is what I'm seeing now:
+[2013-03-25 13:59:09] nicegraham: https://gist.github.com/nicegraham/5240680
