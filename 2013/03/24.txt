@@ -7,3 +7,5 @@
 [2013-03-24 17:03:52] AutomatedTester, joining. (#ios-driver)
 [2013-03-24 17:13:56] ios-driverbot, quitting. (Ping timeout: 272 seconds)
 [2013-03-24 17:14:10] ios-driverbot, joining. (#ios-driver)
+[2013-03-24 17:15:03] AutomatedTester, quitting. (Ping timeout: 264 seconds)
+[2013-03-24 17:15:41] AutomatedTester_, joining. (#ios-driver)
