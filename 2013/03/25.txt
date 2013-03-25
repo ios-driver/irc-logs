@@ -86,3 +86,9 @@
 [2013-03-25 07:38:41] freynaud: i have seen some timing error I think
 [2013-03-25 07:38:50] freynaud: but no more functional issues
 [2013-03-25 07:39:09] freynaud: i'm running all the tests , then I'll push
+[2013-03-25 07:41:05] nicegraham: I'm looking at the /status response now to include everything we'd need to do better matching on the grid
+[2013-03-25 07:42:34] freynaud: make sure you add tests for each param you need
+[2013-03-25 07:43:05] nicegraham: in IOSServerConfiguration?
+[2013-03-25 07:43:41] freynaud: where you want. There is a status test class already if you want you can add to it
+[2013-03-25 07:43:58] freynaud: just make sure it fails if someone generate a /status that breaks your proxy
+[2013-03-25 07:44:29] nicegraham: ok,will do
