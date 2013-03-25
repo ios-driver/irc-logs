@@ -268,3 +268,11 @@
 [2013-03-25 14:08:32] freynaud, quitting. (Quit: freynaud)
 [2013-03-25 14:14:08] nicegraham: freynaud: when are you doing the .6 release?
 [2013-03-25 15:03:14] nicegraham: I added the alt sdks and devices displaying, I'll work on the capability matcher http://dl.dropbox.com/u/564974/proxy.png
+[2013-03-25 15:06:29] lukeis: that is awesome ;)
+[2013-03-25 15:06:49] lukeis: you grab a copy of the safari icon? :)
+[2013-03-25 15:07:04] nicegraham: it only works in safari
+[2013-03-25 15:07:18] lukeis: the icon?
+[2013-03-25 15:07:25] nicegraham: the icon pngs are truncated but safari shows them
+[2013-03-25 15:07:33] nicegraham: just the safari ones
+[2013-03-25 15:07:45] nicegraham: the ones for other apps I've tried work in all browsers
+[2013-03-25 15:08:20] nicegraham: I was going to hardcode it in the server but Francois reckoned it might cause hassle with apple
