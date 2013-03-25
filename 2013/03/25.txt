@@ -267,3 +267,4 @@
 [2013-03-25 14:05:58] smccarthy, quitting. (Ping timeout: 245 seconds)
 [2013-03-25 14:08:32] freynaud, quitting. (Quit: freynaud)
 [2013-03-25 14:14:08] nicegraham: freynaud: when are you doing the .6 release?
+[2013-03-25 15:03:14] nicegraham: I added the alt sdks and devices displaying, I'll work on the capability matcher http://dl.dropbox.com/u/564974/proxy.png
