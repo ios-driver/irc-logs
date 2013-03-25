@@ -69,3 +69,5 @@
 [2013-03-25 06:32:17] nicegraham: can you force them to use it with a flag?
 [2013-03-25 06:32:29] nicegraham: pretty sure I remember being able to do something like that in python
 [2013-03-25 06:33:51] freynaud: it's supposed to be forced already
+[2013-03-25 06:52:54] nicegraham: freynaud: added a config item to specify the remote proxy https://github.com/ios-driver/ios-driver-beta/commit/53fe41b0940d4bbb3f6da2a801b8e309b9e09aa0
+[2013-03-25 06:53:09] nicegraham: that's it from me pre- 0.6 release I think
