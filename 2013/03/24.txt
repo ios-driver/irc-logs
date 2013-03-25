@@ -19,3 +19,5 @@
 [2013-03-24 20:59:25] smccarthy, quitting. (Ping timeout: 246 seconds)
 [2013-03-24 21:57:04] smccarthy2, quitting. (Remote host closed the connection)
 [2013-03-24 22:43:39] dgrace__, joining. (#ios-driver)
+[2013-03-24 22:46:21] dgrace_, quitting. (Ping timeout: 245 seconds)
+[2013-03-24 22:47:16] dgrace__, changing nick to dgrace_.
