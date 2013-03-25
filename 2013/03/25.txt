@@ -6,3 +6,20 @@
 [2013-03-25 03:21:15] freynaud, joining. (#ios-driver)
 [2013-03-25 03:27:38] freynaud: Good morning
 [2013-03-25 03:33:54] AutomatedTester: freynaud: hey
+[2013-03-25 04:05:40] freynaud: nicegraham: yt ?
+[2013-03-25 04:06:03] nicegraham: yeah
+[2013-03-25 04:06:20] freynaud: about those failing tests
+[2013-03-25 04:06:28] nicegraham: yes
+[2013-03-25 04:06:35] freynaud: which one are failing ?
+[2013-03-25 04:06:42] freynaud: and what's the error
+[2013-03-25 04:06:53] nicegraham: if I run the testng.xml
+[2013-03-25 04:06:57] nicegraham: only one fails
+[2013-03-25 04:07:10] freynaud: failing when run via maven isn't always batch vs no batch related. could be encoding too
+[2013-03-25 04:07:12] nicegraham: testCanEnterPhoneNumberIntoTelInput
+[2013-03-25 04:07:22] freynaud: and what's the error ?
+[2013-03-25 04:07:38] nicegraham: it gets a stale element excection
+[2013-03-25 04:07:57] nicegraham: 38 is stale. No node with given id found
+[2013-03-25 04:08:12] nicegraham: FormHandlingTest: 423
+[2013-03-25 04:09:40] freynaud: and it fails only when ran with other tests or alone ?
+[2013-03-25 04:09:49] nicegraham: only when run with other tests
+[2013-03-25 04:09:54] nicegraham: it runs fine on it's own
