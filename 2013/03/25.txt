@@ -50,3 +50,11 @@
 [2013-03-25 04:14:35] nicegraham: one thing is the registration request to grid
 [2013-03-25 04:14:43] nicegraham: includes the custom proxy
 [2013-03-25 04:14:56] nicegraham: so if it's not that it will throw an exception I think
+[2013-03-25 04:15:15] nicegraham: either we shoudl document that proxy or more likely make it configurable :)
+[2013-03-25 04:15:32] nicegraham: I can look at doing that today
+[2013-03-25 04:15:45] nicegraham: but I've got a couple of meetings now, so it will be the afternoon
+[2013-03-25 04:15:50] freynaud: that would be great
+[2013-03-25 04:15:59] freynaud: afternnoon is good
+[2013-03-25 04:16:08] freynaud: i want to wait for Lukeis go anyway
+[2013-03-25 04:16:17] nicegraham: ok cool
+[2013-03-25 04:17:42] nicegraham: anyway, did you have a good weekend?
