@@ -5,3 +5,4 @@
 [2013-03-25 02:20:30] freynaud, quitting. (Quit: freynaud)
 [2013-03-25 03:21:15] freynaud, joining. (#ios-driver)
 [2013-03-25 03:27:38] freynaud: Good morning
+[2013-03-25 03:33:54] AutomatedTester: freynaud: hey
