@@ -72,3 +72,9 @@
 [2013-03-25 06:52:54] nicegraham: freynaud: added a config item to specify the remote proxy https://github.com/ios-driver/ios-driver-beta/commit/53fe41b0940d4bbb3f6da2a801b8e309b9e09aa0
 [2013-03-25 06:53:09] nicegraham: that's it from me pre- 0.6 release I think
 [2013-03-25 07:01:16] dgrace_, changing nick to dgrace.
+[2013-03-25 07:32:58] nicegraham: freynaud: is the plan to start uploading ios-driver to maven?
+[2013-03-25 07:33:46] freynaud: not for me
+[2013-03-25 07:33:57] freynaud: mainly because I've never done that, and don't have time
+[2013-03-25 07:34:08] freynaud: if you feel like uploading, go for it
+[2013-03-25 07:34:47] nicegraham: if we have a lot of people using it, it's a good mechanism for delivery
+[2013-03-25 07:34:59] nicegraham: we use it here for all our other selenium dependenices
