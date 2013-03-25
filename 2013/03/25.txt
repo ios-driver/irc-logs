@@ -276,3 +276,5 @@
 [2013-03-25 15:07:33] nicegraham: just the safari ones
 [2013-03-25 15:07:45] nicegraham: the ones for other apps I've tried work in all browsers
 [2013-03-25 15:08:20] nicegraham: I was going to hardcode it in the server but Francois reckoned it might cause hassle with apple
+[2013-03-25 15:12:03] nicegraham: lukeis: thanks for the github help again :)
+[2013-03-25 15:12:09] lukeis: np ;)
