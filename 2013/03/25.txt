@@ -23,3 +23,30 @@
 [2013-03-25 04:09:40] freynaud: and it fails only when ran with other tests or alone ?
 [2013-03-25 04:09:49] nicegraham: only when run with other tests
 [2013-03-25 04:09:54] nicegraham: it runs fine on it's own
+[2013-03-25 04:10:12] nicegraham: re: maven - at least one of the fails looked encoding related
+[2013-03-25 04:10:24] nicegraham: it was asserting strings were equal
+[2013-03-25 04:10:32] nicegraham: they looked like they were but was failing anyway
+[2013-03-25 04:11:32] freynaud: -/:;()$&@".,?!'[]{}#%^*+=_\|~<>£€•
+[2013-03-25 04:11:35] freynaud: this one ?
+[2013-03-25 04:11:38] nicegraham: yeah, that one
+[2013-03-25 04:11:48] freynaud: that I've seen too
+[2013-03-25 04:11:58] freynaud: I don't see the phone one failing
+[2013-03-25 04:12:11] freynaud: I tried running the complete FormHandling tests
+[2013-03-25 04:12:19] freynaud: they all pass
+[2013-03-25 04:12:24] nicegraham: I'm running testng again
+[2013-03-25 04:13:03] nicegraham: I made some changes to the iosremoteproxy on Friday
+[2013-03-25 04:13:14] nicegraham: but at the minute I'm polling /status
+[2013-03-25 04:13:16] freynaud: have you committed ?
+[2013-03-25 04:13:20] nicegraham: yeah
+[2013-03-25 04:13:34] nicegraham: but /status doens't hold the infor for alt devices or alt sdks
+[2013-03-25 04:13:36] freynaud: cool
+[2013-03-25 04:13:48] nicegraham: should I poll /caps/all
+[2013-03-25 04:13:53] freynaud: no
+[2013-03-25 04:13:58] freynaud: status should have everything
+[2013-03-25 04:13:59] nicegraham: or make changes to /status
+[2013-03-25 04:14:07] nicegraham: ok, so it needs to be updated
+[2013-03-25 04:14:14] freynaud: any other issue before we can release 0.6 ?
+[2013-03-25 04:14:23] nicegraham: I don't think so
+[2013-03-25 04:14:35] nicegraham: one thing is the registration request to grid
+[2013-03-25 04:14:43] nicegraham: includes the custom proxy
+[2013-03-25 04:14:56] nicegraham: so if it's not that it will throw an exception I think
