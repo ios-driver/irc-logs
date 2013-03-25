@@ -280,3 +280,4 @@
 [2013-03-25 15:12:09] lukeis: np ;)
 [2013-03-25 15:48:45] ios-driverbot, joining. (#ios-driver)
 [2013-03-25 15:49:26] lukeis, quitting. (Quit: Leaving.)
+[2013-03-25 16:00:55] dgrace, leaving. (#ios-driver)
