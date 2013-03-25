@@ -139,3 +139,21 @@
 [2013-03-25 09:43:08] rsalvador, joining. (#ios-driver)
 [2013-03-25 09:58:03] nicegraham: freynaud / lukeis: any feelings on hosting maven repos in github?
 [2013-03-25 09:58:20] nicegraham: it seems easier than trying to push them to a nexus somewhere...
+[2013-03-25 10:00:08] freynaud: nicegraham: i'm against it. If users need to add some custom stuff, they can download the jar
+[2013-03-25 10:00:10] lukeis: what items do we need that aren't in central?
+[2013-03-25 10:00:25] freynaud: if we want to put it somewhere, it should be central
+[2013-03-25 10:00:32] nicegraham: I meant for ios-driver
+[2013-03-25 10:00:40] nicegraham: not for it's dependencies
+[2013-03-25 10:00:41] lukeis: ios-driver will be going to central
+[2013-03-25 10:00:48] nicegraham: oh, you're on that?
+[2013-03-25 10:00:55] lukeis: freynaud: ? :)
+[2013-03-25 10:01:49] freynaud: lukeis: I don't really care, but if we want to deploy to a maven repo, I'd rather use central than one I need to maintain myself
+[2013-03-25 10:02:33] lukeis: yes… central is my preference… although the server jar should be all one needs
+[2013-03-25 10:02:38] nicegraham: I just read that the admin overhead is higher pushing to central
+[2013-03-25 10:02:49] lukeis: i do it for the selenium project currently
+[2013-03-25 10:03:05] nicegraham: do you want to do it for ios-driver? :)
+[2013-03-25 10:03:14] freynaud: seems like we have a volunteer. Problem solved.
+[2013-03-25 10:03:39] lukeis: i might have to go through the ticket process to be allowed to push to it (and we may need to change our group name)
+[2013-03-25 10:04:13] lukeis: freynaud: do you own 'uiautomation.org' ?
+[2013-03-25 10:04:35] lukeis: s/group name/groupId/
+[2013-03-25 10:04:53] freynaud: yes, but that can be refactored to something else if you don't like it
