@@ -180,3 +180,6 @@
 [2013-03-25 11:56:20] nicegraham: lukeis: when's the push to the public repo?
 [2013-03-25 12:36:51] freynaud, joining. (#ios-driver)
 [2013-03-25 12:41:01] dgrace, joining. (#ios-driver)
+[2013-03-25 12:47:18] Hammertime38, joining. (#ios-driver)
+[2013-03-25 12:48:53] rsalvador, joining. (#ios-driver)
+[2013-03-25 12:49:01] rsalvador, leaving. (#ios-driver)
