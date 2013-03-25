@@ -281,3 +281,5 @@
 [2013-03-25 15:48:45] ios-driverbot, joining. (#ios-driver)
 [2013-03-25 15:49:26] lukeis, quitting. (Quit: Leaving.)
 [2013-03-25 16:00:55] dgrace, leaving. (#ios-driver)
+[2013-03-25 16:36:15] rsalvador, joining. (#ios-driver)
+[2013-03-25 16:36:19] rsalvador, leaving. (#ios-driver)
