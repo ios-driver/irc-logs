@@ -11,3 +11,4 @@
 [2013-03-24 17:15:41] AutomatedTester_, joining. (#ios-driver)
 [2013-03-24 17:20:05] AutomatedTester_, changing nick to AutomatedTester.
 [2013-03-24 18:10:00] nicegraham, joining. (#ios-driver)
+[2013-03-24 18:29:37] nicegraham_, joining. (#ios-driver)
