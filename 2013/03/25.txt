@@ -114,3 +114,16 @@
 [2013-03-25 09:05:41] lukeis: 'y' on my device and 'y' on the simulator don't show the same characters and (even harder to deal with) show them in different directions from the letter...
 [2013-03-25 09:08:49] freynaud: same sdk, same device ?
 [2013-03-25 09:09:01] freynaud: ( ihpone 3.5'' vs 4'' )
+[2013-03-25 09:10:11] freynaud: and same keyboard ?
+[2013-03-25 09:10:50] lukeis: same sdk… different device it looks like… i'll double check the differences
+[2013-03-25 09:11:09] freynaud: there are some slight differences based on the keyboard
+[2013-03-25 09:11:18] freynaud: I haven't checked the keyboard yet
+[2013-03-25 09:11:32] freynaud: it might be that the simulator starts using the default on the mac
+[2013-03-25 09:12:37] lukeis: i'm going to push the changes assuming sim for now ;)  can we run mobile safari on device yet?
+[2013-03-25 09:13:00] freynaud: no
+[2013-03-25 09:13:04] lukeis: ok
+[2013-03-25 09:13:11] freynaud: the WKRDP works
+[2013-03-25 09:13:15] freynaud: but not instruments
+[2013-03-25 09:13:49] lukeis: weird thing with the special characters… I haven't figured out how to send them with python yet… character encoding issues it seems. Java does just fine talking to itself of course ;)
+[2013-03-25 09:14:46] freynaud: how do you run it ?
+[2013-03-25 09:14:55] freynaud: are you running the jar as a server for python ?
