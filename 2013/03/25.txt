@@ -98,3 +98,5 @@
 [2013-03-25 07:58:30] freynaud, joining. (#ios-driver)
 [2013-03-25 07:59:18] nicegraham, leaving. (#ios-driver)
 [2013-03-25 07:59:22] nicegraham, joining. (#ios-driver)
+[2013-03-25 08:45:14] lukeis, joining. (#ios-driver)
+[2013-03-25 08:48:37] smccarthy, joining. (#ios-driver)
