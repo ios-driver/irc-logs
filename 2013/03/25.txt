@@ -263,3 +263,4 @@
 [2013-03-25 13:56:56] freynaud: https://github.com/ios-driver/ios-driver-beta/blob/master/server/src/main/java/org/uiautomation/ios/utils/hack/TimeSpeeder.java
 [2013-03-25 13:59:09] nicegraham: this is what I'm seeing now:
 [2013-03-25 13:59:09] nicegraham: https://gist.github.com/nicegraham/5240680
+[2013-03-25 14:05:00] smccarthy2, joining. (#ios-driver)
