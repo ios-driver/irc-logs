@@ -183,3 +183,7 @@
 [2013-03-25 12:47:18] Hammertime38, joining. (#ios-driver)
 [2013-03-25 12:48:53] rsalvador, joining. (#ios-driver)
 [2013-03-25 12:49:01] rsalvador, leaving. (#ios-driver)
+[2013-03-25 13:24:34] freynaud, quitting. (Quit: freynaud)
+[2013-03-25 13:24:38] nicegraham: lukeis: yt?
+[2013-03-25 13:24:40] lukeis: nicegraham: i don't know, that's a freynaud question ;)
+[2013-03-25 13:24:44] lukeis: just got back
