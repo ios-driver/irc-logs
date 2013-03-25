@@ -1,2 +1,4 @@
 [2013-03-25 01:33:10] freynaud, joining. (#ios-driver)
 [2013-03-25 01:59:01] freynaud_, joining. (#ios-driver)
+[2013-03-25 02:02:45] freynaud, quitting. (Ping timeout: 256 seconds)
+[2013-03-25 02:02:45] freynaud_, changing nick to freynaud.
