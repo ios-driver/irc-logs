@@ -127,3 +127,10 @@
 [2013-03-25 09:13:49] lukeis: weird thing with the special characters… I haven't figured out how to send them with python yet… character encoding issues it seems. Java does just fine talking to itself of course ;)
 [2013-03-25 09:14:46] freynaud: how do you run it ?
 [2013-03-25 09:14:55] freynaud: are you running the jar as a server for python ?
+[2013-03-25 09:17:43] lukeis: yes
+[2013-03-25 09:17:53] lukeis: doing the same with java doesn't have an issue though
+[2013-03-25 09:19:01] freynaud: https://github.com/ios-driver/ios-driver-beta/commit/d5563ffd2eb949fa4ee94bc1506be007e7aad527#L0R93
+[2013-03-25 09:19:08] freynaud: java tests were failing for me
+[2013-03-25 09:19:25] freynaud: any special character was transformed to ? in Keyboard.js
+[2013-03-25 09:19:45] freynaud: from intelliJ it works, as UTF-8 is assumed there
+[2013-03-25 09:19:58] lukeis: ah :)
