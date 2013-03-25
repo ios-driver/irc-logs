@@ -100,3 +100,7 @@
 [2013-03-25 07:59:22] nicegraham, joining. (#ios-driver)
 [2013-03-25 08:45:14] lukeis, joining. (#ios-driver)
 [2013-03-25 08:48:37] smccarthy, joining. (#ios-driver)
+[2013-03-25 08:55:27] freynaud: lukeis: Hi
+[2013-03-25 08:55:38] lukeis: hello
+[2013-03-25 08:57:14] freynaud: have you had a chance to look at the python issues ?
+[2013-03-25 08:57:57] freynaud: I'm running all the tests on a new VM to make sure everything works before releasing. I fixed one encoding issue, I have a couple more errors to fix, but i haven't done any of the python tests
