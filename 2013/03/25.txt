@@ -177,3 +177,4 @@
 [2013-03-25 10:59:47] rsalvador, joining. (#ios-driver)
 [2013-03-25 10:59:52] rsalvador, leaving. (#ios-driver)
 [2013-03-25 11:48:22] freynaud, quitting. (Ping timeout: 245 seconds)
+[2013-03-25 11:56:20] nicegraham: lukeis: when's the push to the public repo?
