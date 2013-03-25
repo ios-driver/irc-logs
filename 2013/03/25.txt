@@ -231,3 +231,17 @@
 [2013-03-25 13:37:58] nicegraham: #
 [2013-03-25 13:37:58] nicegraham: nothing to commit (working directory clean)
 [2013-03-25 13:44:47] lukeis: you're "On branch upstream_master" ??
+[2013-03-25 13:45:09] lukeis: shouldn't that just say "On branch master"
+[2013-03-25 13:45:09] freynaud, joining. (#ios-driver)
+[2013-03-25 13:45:38] nicegraham: intellij created that
+[2013-03-25 13:45:38] lukeis: or are you tracking ios-driver-beta/master as the local branch upstream_master?
+[2013-03-25 13:45:46] nicegraham: yeah, I am
+[2013-03-25 13:45:50] lukeis: ok
+[2013-03-25 13:46:05] lukeis: sounds fine, if you want us to have that latest commit then you should push...
+[2013-03-25 13:46:24] lukeis: freynaud: seems to be a slight mishap with the git repo, can you check that your latest push is in master?
+[2013-03-25 13:47:18] nicegraham: I think everything is back now, apart from my latest commit which is what I was trying to push
+[2013-03-25 13:47:27] freynaud: https://gist.github.com/freynaud/5240571
+[2013-03-25 13:47:31] freynaud: was my last one
+[2013-03-25 13:47:36] freynaud: did I break anything ?
+[2013-03-25 13:49:30] freynaud: I can type FRanÇOIS, FRANÇOIS
+[2013-03-25 13:49:56] lukeis: hmm, i mighta broke something locally then.
