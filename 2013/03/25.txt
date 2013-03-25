@@ -92,3 +92,4 @@
 [2013-03-25 07:43:41] freynaud: where you want. There is a status test class already if you want you can add to it
 [2013-03-25 07:43:58] freynaud: just make sure it fails if someone generate a /status that breaks your proxy
 [2013-03-25 07:44:29] nicegraham: ok,will do
+[2013-03-25 07:45:05] nicegraham: I'll probably come back to you today when I've digested that servlet and how it differs from the /capabilities/all one
