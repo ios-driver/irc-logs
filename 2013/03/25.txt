@@ -136,3 +136,4 @@
 [2013-03-25 09:19:58] lukeis: ah :)
 [2013-03-25 09:22:21] lukeis: likely was my issue ;)
 [2013-03-25 09:30:33] dgrace, leaving. (#ios-driver)
+[2013-03-25 09:43:08] rsalvador, joining. (#ios-driver)
