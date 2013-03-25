@@ -62,3 +62,10 @@
 [2013-03-25 05:36:22] nicegraham: it was pretty good, a bit of rugby and a bit of DIY :)
 [2013-03-25 06:17:04] nicegraham: freynaud: did 2 full runs back to back and they all passed
 [2013-03-25 06:20:06] freynaud: cool
+[2013-03-25 06:31:33] freynaud: there is qn encoding issue
+[2013-03-25 06:31:40] nicegraham: qn?
+[2013-03-25 06:31:53] freynaud: the JS files copied in the ios-server.jar are not using UTF-8
+[2013-03-25 06:31:53] nicegraham: *an
+[2013-03-25 06:32:17] nicegraham: can you force them to use it with a flag?
+[2013-03-25 06:32:29] nicegraham: pretty sure I remember being able to do something like that in python
+[2013-03-25 06:33:51] freynaud: it's supposed to be forced already
