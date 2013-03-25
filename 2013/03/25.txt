@@ -157,3 +157,7 @@
 [2013-03-25 10:04:13] lukeis: freynaud: do you own 'uiautomation.org' ?
 [2013-03-25 10:04:35] lukeis: s/group name/groupId/
 [2013-03-25 10:04:53] freynaud: yes, but that can be refactored to something else if you don't like it
+[2013-03-25 10:05:32] lukeis: i don't care what it is… but you have to own the domain (and prove it) to be allowed to push to central :)
+[2013-03-25 10:06:14] freynaud: how can you prove that ?
+[2013-03-25 10:06:32] lukeis: have your name in an authors file at the domain :)
+[2013-03-25 10:06:54] lukeis: something like http://uiautomation.org/authors.txt   and it contains your info :)
