@@ -137,3 +137,5 @@
 [2013-03-25 09:22:21] lukeis: likely was my issue ;)
 [2013-03-25 09:30:33] dgrace, leaving. (#ios-driver)
 [2013-03-25 09:43:08] rsalvador, joining. (#ios-driver)
+[2013-03-25 09:58:03] nicegraham: freynaud / lukeis: any feelings on hosting maven repos in github?
+[2013-03-25 09:58:20] nicegraham: it seems easier than trying to push them to a nexus somewhere...
