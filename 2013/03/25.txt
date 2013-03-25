@@ -179,3 +179,4 @@
 [2013-03-25 11:48:22] freynaud, quitting. (Ping timeout: 245 seconds)
 [2013-03-25 11:56:20] nicegraham: lukeis: when's the push to the public repo?
 [2013-03-25 12:36:51] freynaud, joining. (#ios-driver)
+[2013-03-25 12:41:01] dgrace, joining. (#ios-driver)
