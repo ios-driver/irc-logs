@@ -161,3 +161,4 @@
 [2013-03-25 10:06:14] freynaud: how can you prove that ?
 [2013-03-25 10:06:32] lukeis: have your name in an authors file at the domain :)
 [2013-03-25 10:06:54] lukeis: something like http://uiautomation.org/authors.txt   and it contains your info :)
+[2013-03-25 10:11:44] rsalvador, leaving. (#ios-driver)
