@@ -162,3 +162,15 @@
 [2013-03-25 10:06:32] lukeis: have your name in an authors file at the domain :)
 [2013-03-25 10:06:54] lukeis: something like http://uiautomation.org/authors.txt   and it contains your info :)
 [2013-03-25 10:11:44] rsalvador, leaving. (#ios-driver)
+[2013-03-25 10:20:24] lukeis: freynaud: i reviewed your powerpoint and I liked it :) show your multi-screen recording like you did at mobiletest summit too ;) (probably when you talk about grid) if you have time...
+[2013-03-25 10:20:36] freynaud: I have 50 min
+[2013-03-25 10:20:52] freynaud: the issue seems to be that the audience won't speak english
+[2013-03-25 10:20:59] freynaud: that will be interesting
+[2013-03-25 10:21:24] lukeis: ha ;) yeah… that may be an obstacle… translator will be there? or?
+[2013-03-25 10:21:29] freynaud: yes.
+[2013-03-25 10:21:50] lukeis: that will probably slow you down a bit
+[2013-03-25 10:21:52] freynaud: not sure how well my french accent > english > russian will be though
+[2013-03-25 10:22:16] lukeis: maybe ask if they have a french > russion translator? :)
+[2013-03-25 10:22:20] freynaud: uiautomation will redirect to the git repo when it refreshes
+[2013-03-25 10:24:54] freynaud: http://whois.net/whois/uiautomation.org
+[2013-03-25 10:24:54] freynaud: actually, whois give you those info
