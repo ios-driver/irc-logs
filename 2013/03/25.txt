@@ -245,3 +245,11 @@
 [2013-03-25 13:47:36] freynaud: did I break anything ?
 [2013-03-25 13:49:30] freynaud: I can type FRanÇOIS, FRANÇOIS
 [2013-03-25 13:49:56] lukeis: hmm, i mighta broke something locally then.
+[2013-03-25 13:50:41] freynaud: i have 76 tests skipped
+[2013-03-25 13:50:54] freynaud: when i run the server tests on a new VM
+[2013-03-25 13:51:06] freynaud: i have start() throwing a NPE somewhere
+[2013-03-25 13:52:39] freynaud: what was wrong with the repo ?
+[2013-03-25 13:53:58] nicegraham: was you last commit 5 hours ago?
+[2013-03-25 13:54:30] freynaud: I push everything to 2 repo btw nicegraham . You can always find the backup here https://github.com/freynaud/ios-driver-private
+[2013-03-25 13:54:36] freynaud: yes.
+[2013-03-25 13:54:53] nicegraham: ok, well at least that's ok
