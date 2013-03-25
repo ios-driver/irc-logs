@@ -187,3 +187,21 @@
 [2013-03-25 13:24:38] nicegraham: lukeis: yt?
 [2013-03-25 13:24:40] lukeis: nicegraham: i don't know, that's a freynaud question ;)
 [2013-03-25 13:24:44] lukeis: just got back
+[2013-03-25 13:25:01] lukeis: and francois just left :-/
+[2013-03-25 13:25:29] nicegraham: no, it's git
+[2013-03-25 13:25:55] lukeis: ?
+[2013-03-25 13:26:06] nicegraham: I've done something odd /bad
+[2013-03-25 13:26:12] lukeis: uh oh ;)
+[2013-03-25 13:26:12] nicegraham: i pulled latest with rebase
+[2013-03-25 13:26:19] nicegraham: and then I pushed it
+[2013-03-25 13:26:27] nicegraham: and loads of commits seem to be gone?
+[2013-03-25 13:26:34] freynaud, joining. (#ios-driver)
+[2013-03-25 13:26:51] lukeis: doubt they're 'gone' … maybe not hooked up to master anymore
+[2013-03-25 13:27:02] lukeis: git reflog should show them
+[2013-03-25 13:28:06] nicegraham: I can see my latest commits anyway
+[2013-03-25 13:28:34] freynaud: log
+[2013-03-25 13:28:38] lukeis: freynaud: have you tried to do you name in capitals? FRANÇOIS? cause my test to try says it can't find the element  "expected":"more, letters"
+[2013-03-25 13:28:41] lukeis: :log
+[2013-03-25 13:29:24] freynaud: lukeis: i'll check after dinner
+[2013-03-25 13:29:37] lukeis: ok… i may look more myself in a bit
+[2013-03-25 13:29:58] freynaud: it's in UIAKeyboard.js
