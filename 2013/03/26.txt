@@ -1,3 +1,5 @@
 [2013-03-26 00:06:38] freynaud, quitting. (Quit: freynaud)
 [2013-03-26 00:59:59] freynaud, joining. (#ios-driver)
 [2013-03-26 01:23:06] dgrace, joining. (#ios-driver)
+[2013-03-26 02:46:45] dgrace: freynaud: Hey François. I'm looking at implementing the touch actions stuff. Want to run it by you.
+[2013-03-26 02:47:13] dgrace: I am implementing HasTouchScreen in RemoteIOSDriver
