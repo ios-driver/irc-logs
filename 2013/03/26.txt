@@ -101,3 +101,21 @@
 [2013-03-26 10:49:41] lukeis: yes
 [2013-03-26 10:49:46] lukeis: for now we can extend it
 [2013-03-26 10:49:57] lukeis: later we can include it in the selenium project
+[2013-03-26 10:50:19] nicegraham: we can extend it inside ios-driver?
+[2013-03-26 10:50:30] lukeis: sure, why not?
+[2013-03-26 10:50:36] lukeis: IOSCapabilities ;)
+[2013-03-26 10:50:36] nicegraham: I don't know
+[2013-03-26 10:50:37] nicegraham: :)
+[2013-03-26 10:51:16] nicegraham: it can implement Actions?
+[2013-03-26 10:51:40] lukeis: really first you should extend TouchAction
+[2013-03-26 10:51:47] lukeis: err FlickAction.java
+[2013-03-26 10:52:52] lukeis: and then extend TouchActions ;)
+[2013-03-26 10:53:31] lukeis: IOSFlickAction.java and IOSTouchActions.java  sound appropriate
+[2013-03-26 10:53:35] lukeis: follow?
+[2013-03-26 10:53:45] nicegraham: yeah
+[2013-03-26 10:53:50] nicegraham: I understand that bit
+[2013-03-26 10:53:55] lukeis: cool ;)
+[2013-03-26 10:53:58] nicegraham: but when it comes to writing a test...
+[2013-03-26 10:54:12] lukeis: that'll be 'fun' :)
+[2013-03-26 10:54:18] nicegraham: we will have to specifically reference those classes?
+[2013-03-26 10:54:36] lukeis: you should
