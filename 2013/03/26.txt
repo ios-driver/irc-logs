@@ -26,3 +26,7 @@
 [2013-03-26 09:13:31] lukeis: i've seen those sometimes
 [2013-03-26 09:13:35] lukeis: ;)
 [2013-03-26 09:13:41] *lukeis lays no blame'
+[2013-03-26 09:15:18] freynaud: https://github.com/SeleniumHQ/selenium/blob/master/java/client/src/org/openqa/selenium/SessionNotCreatedException.java
+[2013-03-26 09:15:37] freynaud: for some reason, you cannot pass the throwable on this one
+[2013-03-26 09:15:52] lukeis: 'we' can fix that ;)
+[2013-03-26 09:16:03] freynaud: true
