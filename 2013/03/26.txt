@@ -190,3 +190,29 @@
 [2013-03-26 14:08:48] freynaud: uiautomation.org
 [2013-03-26 14:08:58] freynaud: redirects to github now
 [2013-03-26 14:09:03] lukeis: nice
+[2013-03-26 14:10:03] lukeis: i'll look at a maven deploy in the near future… i will likely need to log a ticket with sonatype
+[2013-03-26 14:10:24] freynaud: i've never looked into it
+[2013-03-26 14:10:30] freynaud: is it hard ?
+[2013-03-26 14:10:32] nicegraham: Will I add some info on connecting to grid and using the remote proxy i added?
+[2013-03-26 14:10:33] lukeis: it's painful
+[2013-03-26 14:10:38] lukeis: not hard ;)
+[2013-03-26 14:10:41] lukeis: just painful
+[2013-03-26 14:10:56] lukeis: nicegraham: that would be nice ;)
+[2013-03-26 14:11:06] freynaud: nicegraham: would be great
+[2013-03-26 14:11:13] nicegraham: will I create an new "grid" tab?
+[2013-03-26 14:11:23] nicegraham: I'll create that in the beta barnch?
+[2013-03-26 14:11:26] nicegraham: branch
+[2013-03-26 14:11:34] lukeis: gh-pages is where you do it
+[2013-03-26 14:11:36] freynaud: nicegraham: new scale tab I'd say
+[2013-03-26 14:11:55] freynaud: it's an orphan branch, make sure you don't merge the project in the doc :)
+[2013-03-26 14:12:07] lukeis: heh ;)
+[2013-03-26 14:12:19] freynaud: the easiest I found was to clone the project twice, once for the code, once for the doc
+[2013-03-26 14:12:30] freynaud: and never switch the doc one to another branch :)
+[2013-03-26 14:12:45] nicegraham: I don't know if I can be trusted :)
+[2013-03-26 14:12:52] lukeis: you can't ;)
+[2013-03-26 14:12:58] freynaud: too late, you have write access?
+[2013-03-26 14:13:15] lukeis: we can always recover… don't worry :)
+[2013-03-26 14:13:18] lukeis: beauty of git
+[2013-03-26 14:13:31] freynaud: if you have pictures of yourself btw
+[2013-03-26 14:13:51] freynaud: for a "the team" slide
+[2013-03-26 14:14:34] freynaud: your github pictures are missleading
