@@ -358,3 +358,14 @@
 [2013-03-26 14:59:51] freynaud: I also need to write a mail to the selenium list
 [2013-03-26 15:00:00] lukeis: yes, you do
 [2013-03-26 15:00:01] freynaud: what are the big feature you want to highlight ?
+[2013-03-26 15:00:20] freynaud: no more 1 sec, real device, inspector recording
+[2013-03-26 15:00:24] lukeis: mobile safari kicks ass? ;)
+[2013-03-26 15:01:00] lukeis: a reminder that you can automate safari on ios and that it does alert handling? :)
+[2013-03-26 15:01:15] freynaud: ok, mobile safari
+[2013-03-26 15:01:16] freynaud: 
+[2013-03-26 15:01:17] freynaud: 
+[2013-03-26 15:01:18] freynaud: 
+[2013-03-26 15:01:45] freynaud: you can reply about the dirty details that make it different from iPhone driver
+[2013-03-26 15:01:46] nicegraham: hybrid seems a lot more stable too
+[2013-03-26 15:01:54] freynaud: that will have more weigth
+[2013-03-26 15:02:03] freynaud: ah, true, hybrid on real device :)
