@@ -216,3 +216,21 @@
 [2013-03-26 14:13:31] freynaud: if you have pictures of yourself btw
 [2013-03-26 14:13:51] freynaud: for a "the team" slide
 [2013-03-26 14:14:34] freynaud: your github pictures are missleading
+[2013-03-26 14:15:07] nicegraham: can I clarify on the docs - I just clone git@github.com:ios-driver/ios-driver-beta.git into a seperate location
+[2013-03-26 14:15:58] lukeis: freynaud: my google plus one is ok :) https://lh3.googleusercontent.com/-Az5UxaPjqpQ/ThspUUBKVGI/AAAAAAAAA7g/gEPKKnWP4oA/s187/download.crdownload
+[2013-03-26 14:16:18] nicegraham: and make changes into the gh-pages branch
+[2013-03-26 14:16:21] nicegraham: and then push?
+[2013-03-26 14:16:39] lukeis: nicegraham: git clone <ios driver url>  ios-driver-pages
+[2013-03-26 14:16:53] lukeis: then cd ios-driver-pages;  git checkout gh-pages
+[2013-03-26 14:17:09] lukeis: then change / push ;)
+[2013-03-26 14:17:18] nicegraham: cheers - I don't want any repeat mistakes
+[2013-03-26 14:17:19] nicegraham: :)
+[2013-03-26 14:17:37] lukeis: when you push, explicitly say the branch though… so git push origin gh-pages
+[2013-03-26 14:17:56] lukeis: (you can set it as the default if you want)
+[2013-03-26 14:17:58] freynaud: git checkout gh-pages works ?
+[2013-03-26 14:18:19] freynaud: it always try to merge silently and I end up with everything
+[2013-03-26 14:18:35] lukeis: has worked for me
+[2013-03-26 14:18:54] freynaud: works for me too now
+[2013-03-26 14:19:04] freynaud: i wonder why I did those 2 repo then
+[2013-03-26 14:19:23] lukeis: you had some wonky things going on when i first started looking at the repo ;)
+[2013-03-26 14:19:39] lukeis: i think they've 'settled' down :)
