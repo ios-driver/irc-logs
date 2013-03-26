@@ -158,3 +158,11 @@
 [2013-03-26 11:59:37] lukeis: not sure what that means :) the libimobile-java submodule is public already isn't it?
 [2013-03-26 11:59:55] freynaud: i made it public yesterday
 [2013-03-26 11:59:59] lukeis: ah ;)
+[2013-03-26 12:00:13] freynaud: it use to point to the writable repo
+[2013-03-26 12:00:32] freynaud: which means git clone would work for you and me, but not for a user without push access
+[2013-03-26 12:00:44] lukeis: correct
+[2013-03-26 12:00:52] lukeis: same with any of the repo's ;)
+[2013-03-26 12:01:00] freynaud: now it _should_ work for everybody, but if you want to change it, you need to update.gitsubodule to the writable repo
+[2013-03-26 12:01:09] lukeis: yeah
+[2013-03-26 12:01:33] freynaud: ( i bought a git book, but I yet have to read it )
+[2013-03-26 12:01:41] lukeis: heh
