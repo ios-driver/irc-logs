@@ -7,3 +7,4 @@
 [2013-03-26 04:10:35] freynaud: I4d like to release 0.6 asap, and introducing new features at the last minute isn't a great idea
 [2013-03-26 04:15:10] dgrace: of course, wouldn't commit anything at this stage. i'll work away on it here, probably won't be ready for a while anyway
 [2013-03-26 04:17:19] dgrace: question i have though, when trying to get the keyboard, getKeyboard() in RemoteIOSDriver as part of TouchActions builder I get an exception org.openqa.selenium.NoSuchElementException: cannot find keyboard
+[2013-03-26 05:51:17] millenium, quitting. (Read error: Connection reset by peer)
