@@ -175,3 +175,6 @@
 [2013-03-26 13:12:24] smccarthy, quitting. (Ping timeout: 272 seconds)
 [2013-03-26 13:32:05] smccarthy2, quitting. (Ping timeout: 248 seconds)
 [2013-03-26 13:41:03] freynaud, quitting. (Quit: freynaud)
+[2013-03-26 13:46:27] freynaud, joining. (#ios-driver)
+[2013-03-26 13:46:33] freynaud, quitting. (Remote host closed the connection)
+[2013-03-26 13:47:13] freynaud, joining. (#ios-driver)
