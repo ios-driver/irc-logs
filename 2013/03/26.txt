@@ -30,3 +30,4 @@
 [2013-03-26 09:15:37] freynaud: for some reason, you cannot pass the throwable on this one
 [2013-03-26 09:15:52] lukeis: 'we' can fix that ;)
 [2013-03-26 09:16:03] freynaud: true
+[2013-03-26 09:30:47] freynaud, quitting. (Quit: freynaud)
