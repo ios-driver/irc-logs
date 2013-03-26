@@ -83,3 +83,21 @@
 [2013-03-26 10:44:22] lukeis: https://github.com/SeleniumHQ/selenium/blob/master/java/client/src/org/openqa/selenium/TouchScreen.java#L105
 [2013-03-26 10:44:48] nicegraham: hmm, the docs are wrong so...
 [2013-03-26 10:44:50] lukeis: called by https://github.com/SeleniumHQ/selenium/blob/master/java/client/src/org/openqa/selenium/interactions/touch/FlickAction.java#L51
+[2013-03-26 10:45:02] nicegraham: element - {string} ID of the element where the flick starts.
+[2013-03-26 10:45:05] *lukeis only trusts the source… i know who writes the docs'
+[2013-03-26 10:45:11] nicegraham: lol
+[2013-03-26 10:45:37] nicegraham: ok so we have a start point
+[2013-03-26 10:45:51] nicegraham: and an endpoint by way of the offset x,y
+[2013-03-26 10:46:22] nicegraham: should that not be a coordinate for consistency?
+[2013-03-26 10:46:23] lukeis: sí
+[2013-03-26 10:46:38] lukeis: we can have the Actions api be a coordinate
+[2013-03-26 10:46:41] lukeis: wire as x/y
+[2013-03-26 10:47:27] lukeis: offset may be easier and is computable from a coordinate
+[2013-03-26 10:48:02] lukeis: offsetX = end.x - start.x ;)
+[2013-03-26 10:48:44] lukeis: or is it the other way around… start - end .. meh
+[2013-03-26 10:49:01] nicegraham: ok, I see where you're going
+[2013-03-26 10:49:19] lukeis: wire as is can satisfy our needs
+[2013-03-26 10:49:34] nicegraham: but we need to add something to the actions api
+[2013-03-26 10:49:41] lukeis: yes
+[2013-03-26 10:49:46] lukeis: for now we can extend it
+[2013-03-26 10:49:57] lukeis: later we can include it in the selenium project
