@@ -55,3 +55,20 @@
 [2013-03-26 10:34:49] nicegraham: both up/down
 [2013-03-26 10:34:53] nicegraham: and left/right
 [2013-03-26 10:35:00] lukeis: flick doesn't work?
+[2013-03-26 10:35:17] nicegraham: but how to assign direction?
+[2013-03-26 10:35:25] nicegraham: there's only the offset xy
+[2013-03-26 10:35:54] lukeis: we can pass more parameters, x,y,toX, toY
+[2013-03-26 10:36:01] nicegraham: so really we need to define [start point, end point, speed]
+[2013-03-26 10:36:21] lukeis: yeah, we can certainly overload the payload
+[2013-03-26 10:36:40] lukeis: which means extending the Actions API
+[2013-03-26 10:36:50] nicegraham: but from a usability perspective I think we should be allowing a "direction"
+[2013-03-26 10:37:07] lukeis: you can do that in the Actions API
+[2013-03-26 10:37:21] lukeis: translate 'up' to x/y
+[2013-03-26 10:37:56] nicegraham: the x y would be relative though right?
+[2013-03-26 10:38:15] nicegraham: I imagine if you say up - you'd take it from the center of the element to a point above that
+[2013-03-26 10:38:24] lukeis: if it's not specified (or you don't need to) then assume center of screen
+[2013-03-26 10:38:59] lukeis: if you have an element, then the programmer can get the x/y
+[2013-03-26 10:39:26] nicegraham: yeah, I'm happy doing that and so are my team
+[2013-03-26 10:39:34] nicegraham: I was thinking for the lowest common denominator
+[2013-03-26 10:39:38] nicegraham: :)
+[2013-03-26 10:39:47] lukeis: Actions.flick(Point start, Point end, Int duration);   and Actions.flick(String direction, int duration)
