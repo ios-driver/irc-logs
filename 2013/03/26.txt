@@ -72,3 +72,14 @@
 [2013-03-26 10:39:34] nicegraham: I was thinking for the lowest common denominator
 [2013-03-26 10:39:38] nicegraham: :)
 [2013-03-26 10:39:47] lukeis: Actions.flick(Point start, Point end, Int duration);   and Actions.flick(String direction, int duration)
+[2013-03-26 10:40:04] *lukeis needs to look what is available'
+[2013-03-26 10:40:37] nicegraham: it currently takes element, x offset, y offset, speed
+[2013-03-26 10:40:55] nicegraham: https://code.google.com/p/selenium/wiki/JsonWireProtocol#session/:sessionId/touch/flick
+[2013-03-26 10:42:06] lukeis: it takes a "Location Provider" not an element
+[2013-03-26 10:42:54] lukeis: flick(Coordinates where, int xOffset, int yOffset, int speed);
+[2013-03-26 10:43:20] lukeis: i see that as everything we need
+[2013-03-26 10:43:42] lukeis: maybe a nice convenience method to allow one to say "up/down/left/right"
+[2013-03-26 10:44:13] nicegraham: it does? where can you see that?
+[2013-03-26 10:44:22] lukeis: https://github.com/SeleniumHQ/selenium/blob/master/java/client/src/org/openqa/selenium/TouchScreen.java#L105
+[2013-03-26 10:44:48] nicegraham: hmm, the docs are wrong so...
+[2013-03-26 10:44:50] lukeis: called by https://github.com/SeleniumHQ/selenium/blob/master/java/client/src/org/openqa/selenium/interactions/touch/FlickAction.java#L51
