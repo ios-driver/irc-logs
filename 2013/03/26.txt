@@ -153,3 +153,8 @@
 [2013-03-26 11:51:51] freynaud: lukeis: I updated the submodule to point to the read only version
 [2013-03-26 11:52:13] freynaud: people should be able to use everything as is directly from their fork
 [2013-03-26 11:52:25] freynaud: does it make sense to you ?
+[2013-03-26 11:58:49] freynaud: we also need to update http://ios-driver.github.com/ios-driver-beta/index.html for the release
+[2013-03-26 11:59:11] freynaud: if you've done any change that requires documentation, now is the time to document it
+[2013-03-26 11:59:37] lukeis: not sure what that means :) the libimobile-java submodule is public already isn't it?
+[2013-03-26 11:59:55] freynaud: i made it public yesterday
+[2013-03-26 11:59:59] lukeis: ah ;)
