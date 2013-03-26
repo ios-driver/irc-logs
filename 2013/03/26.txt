@@ -32,3 +32,26 @@
 [2013-03-26 09:16:03] freynaud: true
 [2013-03-26 09:30:47] freynaud, quitting. (Quit: freynaud)
 [2013-03-26 10:23:38] lukeis: :note freynaud  SessionNotCreatedException 'fixed' in master
+[2013-03-26 10:31:08] nicegraham: lukeis: yt?
+[2013-03-26 10:31:16] lukeis: yes
+[2013-03-26 10:31:23] nicegraham: awesome :)
+[2013-03-26 10:31:39] nicegraham: you never elaborated on your thoughts for advanced touch actions
+[2013-03-26 10:31:58] lukeis: i suppose i didn't ;)
+[2013-03-26 10:32:00] nicegraham: dgrace: was looking at implementing them today
+[2013-03-26 10:32:13] nicegraham: so we kinda need you to spill the beans :)
+[2013-03-26 10:32:14] lukeis: cool :)
+[2013-03-26 10:32:35] lukeis: not sure what's to spill? :)  TODO: implement it.
+[2013-03-26 10:32:37] lukeis: ;)
+[2013-03-26 10:32:55] nicegraham: the ios-driver part is actually straightforward
+[2013-03-26 10:32:59] *lukeis says the guy who knows the wire protocol pretty well..'
+[2013-03-26 10:33:03] nicegraham: it's how to expose those calls via wire
+[2013-03-26 10:33:13] lukeis: Actions API
+[2013-03-26 10:33:48] lukeis: they should all be mapped in the wire
+[2013-03-26 10:34:08] lukeis: are we adding new things not defined in the wire?
+[2013-03-26 10:34:16] lukeis: I know of some things we will need to
+[2013-03-26 10:34:26] lukeis: but we should start with the ones that exist in the wire first
+[2013-03-26 10:34:28] nicegraham: i don't think wire currently meets the need
+[2013-03-26 10:34:43] nicegraham: our problem is we need "swipe"
+[2013-03-26 10:34:49] nicegraham: both up/down
+[2013-03-26 10:34:53] nicegraham: and left/right
+[2013-03-26 10:35:00] lukeis: flick doesn't work?
