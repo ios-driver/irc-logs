@@ -13,3 +13,16 @@
 [2013-03-26 08:37:27] rsalvador, leaving. (#ios-driver)
 [2013-03-26 08:53:42] smccarthy, joining. (#ios-driver)
 [2013-03-26 09:07:53] lukeis, joining. (#ios-driver)
+[2013-03-26 09:11:17] lukeis: freynaud: just pushed my current workings on, my next things to tackle i'll consider them for the next release
+[2013-03-26 09:11:59] freynaud: cool
+[2013-03-26 09:12:00] lukeis: look at all those special keys one can now type ;)
+[2013-03-26 09:12:11] freynaud: ^^
+[2013-03-26 09:12:28] freynaud: i've troubleshoot my 76 failed this morning
+[2013-03-26 09:12:43] freynaud: some NPE bubbling up with no valid messages
+[2013-03-26 09:12:54] lukeis: yay, love those...
+[2013-03-26 09:13:03] freynaud: bug.null
+[2013-03-26 09:13:14] freynaud: great design, great design
+[2013-03-26 09:13:31] freynaud: it's not completely my fault btw
+[2013-03-26 09:13:31] lukeis: i've seen those sometimes
+[2013-03-26 09:13:35] lukeis: ;)
+[2013-03-26 09:13:41] *lukeis lays no blame'
