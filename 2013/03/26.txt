@@ -275,3 +275,22 @@
 [2013-03-26 14:29:27] freynaud: i'll go back and see Simon in April
 [2013-03-26 14:29:45] freynaud: I'll mention that. the JSON wire protocol should be followed for instruments
 [2013-03-26 14:29:56] freynaud: at least its spirit for adv user interaction
+[2013-03-26 14:30:21] freynaud: but to be fair, for our immediate problem, this should be part of the default keyvoard
+[2013-03-26 14:30:22] nicegraham: freynaud: in order to get the proxy jar will I explain to cd into the root grid dir and run maven package?
+[2013-03-26 14:30:27] freynaud: apple should maintain that
+[2013-03-26 14:30:57] nicegraham: does he have an "in" to apple to get them to follow it?
+[2013-03-26 14:31:01] freynaud: it's not packaged by default ?
+[2013-03-26 14:31:25] nicegraham: It is
+[2013-03-26 14:31:28] freynaud: Facebook as some former apple I think, it will be easier for him than for me
+[2013-03-26 14:31:51] nicegraham: but they'd still need to take it from the target dir right?
+[2013-03-26 14:31:56] freynaud: nicegraham: people shouldn't have to repackage anything
+[2013-03-26 14:32:01] Hammertime38, joining. (#ios-driver)
+[2013-03-26 14:32:17] nicegraham: so do we provide the jars?
+[2013-03-26 14:32:45] freynaud: nicegraham: if you make server depend on grid, grid will be part of the deliverable
+[2013-03-26 14:33:47] freynaud: i'll upload the built jar on amazon s3
+[2013-03-26 14:34:00] nicegraham: ok, I don't think I've been doing it like you want... I run mvn package
+[2013-03-26 14:34:14] nicegraham: and take the ios-driver-proxy.jar from the target dir
+[2013-03-26 14:34:27] nicegraham: then I run grid specifying that proxy
+[2013-03-26 14:34:30] freynaud: nicegraham: hum. Actually that's better
+[2013-03-26 14:34:40] freynaud: the server includes selenium already
+[2013-03-26 14:34:58] freynaud: your proxy shouldn't include it, or there will be some version mismatch
