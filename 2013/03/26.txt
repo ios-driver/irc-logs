@@ -326,3 +326,12 @@
 [2013-03-26 14:49:21] lukeis: was happening to me with salesforce's tests (that just use instruments)
 [2013-03-26 14:49:41] freynaud: hopefully we will get rid of that soon
 [2013-03-26 14:49:55] lukeis: i hope so too
+[2013-03-26 14:50:36] lukeis: this is what I get… all the time (and getting it now): org.openqa.selenium.SessionNotCreatedException: error starting instrument for session 0a14bde4-0f06-48e3-bdfc-e7af84e8b961, Instruments crashed.
+[2013-03-26 14:50:54] lukeis: fucking instruments
+[2013-03-26 14:50:59] lukeis: reboot and it's fixed.
+[2013-03-26 14:51:03] freynaud: do you have a single instruments in the monitor ?
+[2013-03-26 14:51:11] freynaud: activity monitor
+[2013-03-26 14:51:22] freynaud: if you have some left over, it brakes
+[2013-03-26 14:51:42] lukeis: this time, yes i do… sometimes i don't and it still crashes
+[2013-03-26 14:54:47] freynaud: ok, i leave the tests running
+[2013-03-26 14:55:01] lukeis: after killing the process, my error is: org.openqa.selenium.SessionNotCreatedException: execution failed. Exit code =1 , command was : [killall, iPhone Simulator]
