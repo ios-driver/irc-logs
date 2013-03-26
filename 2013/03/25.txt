@@ -283,3 +283,4 @@
 [2013-03-25 16:00:55] dgrace, leaving. (#ios-driver)
 [2013-03-25 16:36:15] rsalvador, joining. (#ios-driver)
 [2013-03-25 16:36:19] rsalvador, leaving. (#ios-driver)
+[2013-03-25 17:01:33] smccarthy2, quitting. (Remote host closed the connection)
