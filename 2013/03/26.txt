@@ -3,3 +3,5 @@
 [2013-03-26 01:23:06] dgrace, joining. (#ios-driver)
 [2013-03-26 02:46:45] dgrace: freynaud: Hey François. I'm looking at implementing the touch actions stuff. Want to run it by you.
 [2013-03-26 02:47:13] dgrace: I am implementing HasTouchScreen in RemoteIOSDriver
+[2013-03-26 04:10:10] freynaud: dgrace: can you implement that in a branch ?
+[2013-03-26 04:10:35] freynaud: I4d like to release 0.6 asap, and introducing new features at the last minute isn't a great idea
