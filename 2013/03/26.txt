@@ -9,3 +9,5 @@
 [2013-03-26 04:17:19] dgrace: question i have though, when trying to get the keyboard, getKeyboard() in RemoteIOSDriver as part of TouchActions builder I get an exception org.openqa.selenium.NoSuchElementException: cannot find keyboard
 [2013-03-26 05:51:17] millenium, quitting. (Read error: Connection reset by peer)
 [2013-03-26 06:19:26] millenium, joining. (#ios-driver)
+[2013-03-26 08:37:14] rsalvador, joining. (#ios-driver)
+[2013-03-26 08:37:27] rsalvador, leaving. (#ios-driver)
