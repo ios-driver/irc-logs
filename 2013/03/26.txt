@@ -300,3 +300,12 @@
 [2013-03-26 14:35:37] nicegraham: but the references are in sync
 [2013-03-26 14:39:04] nicegraham: freynaud: will I just put the instructions as they are for the .6 release - if you want it can be moved to a seperate project later?
 [2013-03-26 14:39:27] freynaud: ok
+[2013-03-26 14:41:10] freynaud: lukeis: https://gist.github.com/freynaud/5249565
+[2013-03-26 14:42:40] lukeis: i'll take a look ;)
+[2013-03-26 14:42:52] nicegraham: freynaud: the first fail is the one I was seeing the other day
+[2013-03-26 14:43:02] nicegraham: but it ran fine on it's own
+[2013-03-26 14:43:19] freynaud: it's some timing
+[2013-03-26 14:43:30] freynaud: sometime it passes, sometimes it doesn't
+[2013-03-26 14:43:33] lukeis: might mean a previous test didn't clean up after itself in some way
+[2013-03-26 14:43:36] freynaud: doesn't is often in a slow VM
+[2013-03-26 14:43:49] *lukeis has a slow laptop ;)'
