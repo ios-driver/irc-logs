@@ -143,3 +143,10 @@
 [2013-03-26 11:24:50] freynaud: we would have seen it with a CI
 [2013-03-26 11:25:50] lukeis: i don't have one i can give publicly
 [2013-03-26 11:31:51] nicegraham: ditto - we could monitor github and run internally and send result mails?
+[2013-03-26 11:35:16] freynaud: lukeis: might be a problem with update to 2.31
+[2013-03-26 11:36:13] nicegraham: even cloudbees doesn't seem to provide mac slaves
+[2013-03-26 11:36:18] nicegraham: you have to bring your own
+[2013-03-26 11:36:19] lukeis: which test(s) are failing?
+[2013-03-26 11:36:34] freynaud: newSessionTest.wrongSDK
+[2013-03-26 11:36:40] freynaud: it throws a
+[2013-03-26 11:37:05] freynaud: sSessionNotreated, but then the java client does an extra getCapabilities call,not sure why
