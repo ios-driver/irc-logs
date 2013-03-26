@@ -258,3 +258,20 @@
 [2013-03-26 14:23:31] lukeis: make simon squirm ;)
 [2013-03-26 14:23:42] freynaud: have trigger the boss's berserk mode ? no thx
 [2013-03-26 14:24:54] freynaud: I had to increase the memory from the default
+[2013-03-26 14:25:05] freynaud: I changed the way plist are parsed
+[2013-03-26 14:25:21] freynaud: it's not optimised for memory :)
+[2013-03-26 14:26:11] freynaud: nicegraham: are you back in the UK soon ?
+[2013-03-26 14:26:47] freynaud: 17-19 April will be real device days
+[2013-03-26 14:27:52] freynaud: lukeis: AUXILIARY_KEYS geez.
+[2013-03-26 14:27:59] lukeis: :-D
+[2013-03-26 14:28:03] nicegraham: yeah, next month I think
+[2013-03-26 14:28:17] nicegraham: actually - I'm there next friday too but that's for rugby and drinking :)
+[2013-03-26 14:28:28] lukeis: freynaud: i spent some time optimizing the speed of that too
+[2013-03-26 14:28:35] freynaud: dragWithOption isn't great
+[2013-03-26 14:28:48] freynaud: it needs to be longTouch, then fast drag
+[2013-03-26 14:28:52] lukeis: yep
+[2013-03-26 14:28:56] freynaud: it only has 1 speed :(
+[2013-03-26 14:28:58] lukeis: but longTouch at the end releases
+[2013-03-26 14:29:27] freynaud: i'll go back and see Simon in April
+[2013-03-26 14:29:45] freynaud: I'll mention that. the JSON wire protocol should be followed for instruments
+[2013-03-26 14:29:56] freynaud: at least its spirit for adv user interaction
