@@ -369,3 +369,4 @@
 [2013-03-26 15:01:46] nicegraham: hybrid seems a lot more stable too
 [2013-03-26 15:01:54] freynaud: that will have more weigth
 [2013-03-26 15:02:03] freynaud: ah, true, hybrid on real device :)
+[2013-03-26 15:12:54] freynaud, leaving. (#ios-driver)
