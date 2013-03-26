@@ -178,3 +178,15 @@
 [2013-03-26 13:46:27] freynaud, joining. (#ios-driver)
 [2013-03-26 13:46:33] freynaud, quitting. (Remote host closed the connection)
 [2013-03-26 13:47:13] freynaud, joining. (#ios-driver)
+[2013-03-26 14:06:53] freynaud: running the full suite after my latest changes
+[2013-03-26 14:07:03] freynaud: if they pass, 0.6
+[2013-03-26 14:07:06] freynaud: any objection ?
+[2013-03-26 14:07:20] lukeis: none :)
+[2013-03-26 14:07:47] freynaud: the doc won't be updated tonight though
+[2013-03-26 14:08:00] lukeis: that's fine, doc's can be updated after the release
+[2013-03-26 14:08:04] freynaud: if anyone want to contribute to the doc, more that welcome
+[2013-03-26 14:08:17] lukeis: i will be ;)
+[2013-03-26 14:08:26] lukeis: also adding tidbits on how to get it to work with python ;)
+[2013-03-26 14:08:48] freynaud: uiautomation.org
+[2013-03-26 14:08:58] freynaud: redirects to github now
+[2013-03-26 14:09:03] lukeis: nice
