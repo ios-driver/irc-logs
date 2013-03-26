@@ -166,3 +166,4 @@
 [2013-03-26 12:01:09] lukeis: yeah
 [2013-03-26 12:01:33] freynaud: ( i bought a git book, but I yet have to read it )
 [2013-03-26 12:01:41] lukeis: heh
+[2013-03-26 12:06:22] freynaud: have you used the real device feature for native apps ?
