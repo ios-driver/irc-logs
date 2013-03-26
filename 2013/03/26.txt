@@ -119,3 +119,18 @@
 [2013-03-26 10:54:12] lukeis: that'll be 'fun' :)
 [2013-03-26 10:54:18] nicegraham: we will have to specifically reference those classes?
 [2013-03-26 10:54:36] lukeis: you should
+[2013-03-26 10:55:07] nicegraham: cool, sounds like a plan
+[2013-03-26 10:55:12] nicegraham: :)
+[2013-03-26 10:56:49] lukeis: one thing that's 'new' that I can see is a interactions.device package… that has (at least) ShakeAction.java ;)
+[2013-03-26 10:57:16] nicegraham: are pinch, rotate etc catered for?
+[2013-03-26 10:57:26] lukeis: rotate is already working ;)
+[2013-03-26 10:57:34] nicegraham: the screen
+[2013-03-26 10:57:40] nicegraham: but rotating an element?
+[2013-03-26 10:57:50] nicegraham: a 2 finger action...
+[2013-03-26 10:57:53] lukeis: ah
+[2013-03-26 10:57:58] *lukeis looks'
+[2013-03-26 10:58:21] lukeis: doesn't look like it
+[2013-03-26 10:58:31] lukeis: we'll need to add them
+[2013-03-26 10:58:42] nicegraham: *we'll*... :)
+[2013-03-26 10:59:20] nicegraham: :log
+[2013-03-26 10:59:28] *nicegraham has a call with new relic to look at their ios monitoring... :)'
