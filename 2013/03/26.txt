@@ -335,3 +335,26 @@
 [2013-03-26 14:51:42] lukeis: this time, yes i do… sometimes i don't and it still crashes
 [2013-03-26 14:54:47] freynaud: ok, i leave the tests running
 [2013-03-26 14:55:01] lukeis: after killing the process, my error is: org.openqa.selenium.SessionNotCreatedException: execution failed. Exit code =1 , command was : [killall, iPhone Simulator]
+[2013-03-26 14:55:19] freynaud: tomorrow, if I don't have any email telling me otherwise, i tag 0.6
+[2013-03-26 14:55:33] lukeis: yay ;)
+[2013-03-26 14:55:55] freynaud: I'll push to ios-driver
+[2013-03-26 14:56:04] freynaud: and we should start working there, rather than beta
+[2013-03-26 14:56:08] lukeis: as of right now, these tests are flaky… no blocking issue… damn you timing
+[2013-03-26 14:56:12] lukeis: yes
+[2013-03-26 14:56:19] lukeis: and in a dev branch?
+[2013-03-26 14:56:36] freynaud: i don't mind
+[2013-03-26 14:56:42] lukeis: i.e. master == released, dev == where we work
+[2013-03-26 14:56:48] freynaud: ok
+[2013-03-26 14:57:05] freynaud: what's the point ?
+[2013-03-26 14:57:17] freynaud: if we tag, why keep master clean ?
+[2013-03-26 14:57:27] lukeis: doesn't matter too much :)
+[2013-03-26 14:57:55] lukeis: nicer if we have many other people checking out the code and expect it to build stable ;)
+[2013-03-26 14:58:35] freynaud: the build will be stable
+[2013-03-26 14:58:43] freynaud: as we currently have no CI proving otherwise
+[2013-03-26 14:58:45] lukeis: :)
+[2013-03-26 14:59:01] freynaud: ok, so master == last tag
+[2013-03-26 14:59:10] freynaud: and dev is our playground
+[2013-03-26 14:59:46] lukeis: i don't mind working in master if you feel that is better for us and just tagging (like the selenium project does)
+[2013-03-26 14:59:51] freynaud: I also need to write a mail to the selenium list
+[2013-03-26 15:00:00] lukeis: yes, you do
+[2013-03-26 15:00:01] freynaud: what are the big feature you want to highlight ?
