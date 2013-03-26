@@ -234,3 +234,27 @@
 [2013-03-26 14:19:04] freynaud: i wonder why I did those 2 repo then
 [2013-03-26 14:19:23] lukeis: you had some wonky things going on when i first started looking at the repo ;)
 [2013-03-26 14:19:39] lukeis: i think they've 'settled' down :)
+[2013-03-26 14:20:38] freynaud: a CI would be good :)
+[2013-03-26 14:20:49] lukeis: yes, yes it would :)
+[2013-03-26 14:20:50] freynaud: I have a spare mac mini at home
+[2013-03-26 14:21:01] nicegraham: what about setting up a mac that's permanently connected in someones home?
+[2013-03-26 14:21:11] freynaud: I'll need to reimage it though, it runs ESX atm
+[2013-03-26 14:21:11] nicegraham: ^that
+[2013-03-26 14:21:12] lukeis: if we get merged into the selenium project we can use that (and sauce) ;)
+[2013-03-26 14:21:28] freynaud: lukeis: not sure I want to merge
+[2013-03-26 14:21:32] lukeis: ok
+[2013-03-26 14:21:40] freynaud: I like how opera or phantom do it
+[2013-03-26 14:21:53] freynaud: if I can choose, that would be my model
+[2013-03-26 14:21:53] lukeis: i want to delete iPhoneDriver though at some point
+[2013-03-26 14:22:02] lukeis: that's fine by me
+[2013-03-26 14:22:19] nicegraham: but the jars could be included for ios-driver right?
+[2013-03-26 14:22:27] nicegraham: without it being inside se
+[2013-03-26 14:22:40] lukeis: yes
+[2013-03-26 14:22:40] freynaud: lukeis: having iOS part of the tree = crazy fun
+[2013-03-26 14:23:00] freynaud: crazy fun for libimobile -> hum
+[2013-03-26 14:23:03] lukeis: yeah, this way we can release ios-driver jar and check it into third_party
+[2013-03-26 14:23:15] lukeis: you don't need to do crazy fun
+[2013-03-26 14:23:24] lukeis: you could just have a rake task that calls maven ;)
+[2013-03-26 14:23:31] lukeis: make simon squirm ;)
+[2013-03-26 14:23:42] freynaud: have trigger the boss's berserk mode ? no thx
+[2013-03-26 14:24:54] freynaud: I had to increase the memory from the default
