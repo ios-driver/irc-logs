@@ -150,3 +150,6 @@
 [2013-03-26 11:36:34] freynaud: newSessionTest.wrongSDK
 [2013-03-26 11:36:40] freynaud: it throws a
 [2013-03-26 11:37:05] freynaud: sSessionNotreated, but then the java client does an extra getCapabilities call,not sure why
+[2013-03-26 11:51:51] freynaud: lukeis: I updated the submodule to point to the read only version
+[2013-03-26 11:52:13] freynaud: people should be able to use everything as is directly from their fork
+[2013-03-26 11:52:25] freynaud: does it make sense to you ?
