@@ -171,3 +171,4 @@
 [2013-03-26 12:54:42] freynaud, quitting. (Ping timeout: 252 seconds)
 [2013-03-26 12:54:42] freynaud_, changing nick to freynaud.
 [2013-03-26 12:59:12] lukeis: i have not yet :)
+[2013-03-26 13:08:32] smccarthy2, joining. (#ios-driver)
