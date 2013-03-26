@@ -309,3 +309,20 @@
 [2013-03-26 14:43:33] lukeis: might mean a previous test didn't clean up after itself in some way
 [2013-03-26 14:43:36] freynaud: doesn't is often in a slow VM
 [2013-03-26 14:43:49] *lukeis has a slow laptop ;)'
+[2013-03-26 14:45:18] lukeis: not sure how that one gets a stale element… unless the .get is async? I thought it waited for page load
+[2013-03-26 14:45:40] freynaud: lukeis: get is trial and error
+[2013-03-26 14:45:50] lukeis: have more there? (like which line number)
+[2013-03-26 14:46:25] freynaud: for instance, sometimes loading http://ebay.com generate 2 pageLoadEvents
+[2013-03-26 14:46:31] lukeis: maybe that's what's happening here… previous page is the same  as the one expected
+[2013-03-26 14:47:02] freynaud: if you findBy in between, the elements will throw stale after the 2nd event
+[2013-03-26 14:47:47] freynaud: Failed to start Instruments daemon for 'iOS' on 'iPod touch (v6.1)' (The service is invalid.)
+[2013-03-26 14:47:52] freynaud: have you seen that ?
+[2013-03-26 14:48:07] freynaud: i didn't have that message before, it's there today
+[2013-03-26 14:48:08] lukeis: i can't start instruments half the time ;)
+[2013-03-26 14:48:19] freynaud: lukeis: hu ?
+[2013-03-26 14:48:32] freynaud: sounds like a pretty big bug
+[2013-03-26 14:48:49] lukeis: every other day i have to reboot my computer because the sim won't launch properly
+[2013-03-26 14:48:56] lukeis: this happens with just using instruments
+[2013-03-26 14:49:21] lukeis: was happening to me with salesforce's tests (that just use instruments)
+[2013-03-26 14:49:41] freynaud: hopefully we will get rid of that soon
+[2013-03-26 14:49:55] lukeis: i hope so too
