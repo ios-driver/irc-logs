@@ -31,3 +31,4 @@
 [2013-03-26 09:15:52] lukeis: 'we' can fix that ;)
 [2013-03-26 09:16:03] freynaud: true
 [2013-03-26 09:30:47] freynaud, quitting. (Quit: freynaud)
+[2013-03-26 10:23:38] lukeis: :note freynaud  SessionNotCreatedException 'fixed' in master
