@@ -11,3 +11,4 @@
 [2013-03-26 06:19:26] millenium, joining. (#ios-driver)
 [2013-03-26 08:37:14] rsalvador, joining. (#ios-driver)
 [2013-03-26 08:37:27] rsalvador, leaving. (#ios-driver)
+[2013-03-26 08:53:42] smccarthy, joining. (#ios-driver)
