@@ -141,3 +141,4 @@
 [2013-03-26 11:24:28] freynaud: any idea where we can get a mac os CI ?
 [2013-03-26 11:24:43] freynaud: the NPE failed an existing test, a change broke it
 [2013-03-26 11:24:50] freynaud: we would have seen it with a CI
+[2013-03-26 11:25:50] lukeis: i don't have one i can give publicly
