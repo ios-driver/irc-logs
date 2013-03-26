@@ -167,3 +167,6 @@
 [2013-03-26 12:01:33] freynaud: ( i bought a git book, but I yet have to read it )
 [2013-03-26 12:01:41] lukeis: heh
 [2013-03-26 12:06:22] freynaud: have you used the real device feature for native apps ?
+[2013-03-26 12:50:33] freynaud_, joining. (#ios-driver)
+[2013-03-26 12:54:42] freynaud, quitting. (Ping timeout: 252 seconds)
+[2013-03-26 12:54:42] freynaud_, changing nick to freynaud.
