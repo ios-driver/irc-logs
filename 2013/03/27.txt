@@ -48,3 +48,8 @@
 [2013-03-27 04:42:14] freynaud: and pushed.
 [2013-03-27 04:42:39] nicegraham: Ia actually think 2px looks better :)
 [2013-03-27 04:43:54] nicegraham: I see the download link has been updated to .6 too
+[2013-03-27 04:47:14] freynaud: yes. It's all in properties.js
+[2013-03-27 04:47:32] freynaud: so that we can add tabs without having this copy paste crazyness
+[2013-03-27 04:47:53] freynaud: i also updated the footer to remove my name
+[2013-03-27 04:48:45] nicegraham: ah, it points to the project members now
+[2013-03-27 04:49:29] nicegraham: is there anything left to do / do you need me to do anything/
