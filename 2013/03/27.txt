@@ -281,3 +281,4 @@
 [2013-03-27 16:04:42] lukeis, quitting. (Quit: Leaving.)
 [2013-03-27 16:28:23] nicegraham, joining. (#ios-driver)
 [2013-03-27 16:44:15] dgrace, joining. (#ios-driver)
+[2013-03-27 16:52:58] mach6, quitting. (Ping timeout: 245 seconds)
