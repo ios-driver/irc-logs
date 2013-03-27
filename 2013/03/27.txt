@@ -1,0 +1,2 @@
+[2013-03-27 00:26:23] smccarthy, joining. (#ios-driver)
+[2013-03-27 00:26:37] smccarthy, quitting. (Remote host closed the connection)
