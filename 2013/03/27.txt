@@ -8,3 +8,8 @@
 [2013-03-27 03:15:43] nicegraham: all set for the release?
 [2013-03-27 03:16:19] millenium, quitting. (Quit: ~ Trillian - www.trillian.im ~)
 [2013-03-27 03:17:59] millenium, joining. (#ios-driver)
+[2013-03-27 03:26:20] nicegraham: freynaud: custom capabilityMatcher... After I create the matcher class, is that something I specify in the proxy or is it specified in the registration request like the proxy?
+[2013-03-27 03:26:37] freynaud: you specify it on the hub
+[2013-03-27 03:26:41] freynaud: not on the proxy
+[2013-03-27 03:27:09] nicegraham: so does that mean it gets used for all matching?
+[2013-03-27 03:27:40] freynaud: correct
