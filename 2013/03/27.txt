@@ -248,3 +248,4 @@
 [2013-03-27 12:23:29] smccarthy, joining. (#ios-driver)
 [2013-03-27 12:26:57] smccarthy2, quitting. (Ping timeout: 258 seconds)
 [2013-03-27 12:35:56] Hammertime38, joining. (#ios-driver)
+[2013-03-27 12:44:28] lukeis: :note freynaud  jari's run using ruby against ios-driver http://files.jaribakken.com/ios-driver/2013-03-27/
