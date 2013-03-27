@@ -110,3 +110,25 @@
 [2013-03-27 08:38:22] *lukeis excites easily ;)'
 [2013-03-27 08:38:25] freynaud: https://gist.github.com/freynaud/f0cbb7a236294d4e0e0a
 [2013-03-27 08:38:35] freynaud: anything you want to add ?
+[2013-03-27 08:40:12] lukeis: I'll likely reply to the email with stuff about mobile safari being BADASS and any iPhoneDriver users should switch immediately ;)
+[2013-03-27 08:40:42] lukeis: probably propose for the iPhoneDriver code base to be removed ;)
+[2013-03-27 08:41:25] freynaud: lukeis: cool. Are you confident all the python tests will pass ?
+[2013-03-27 08:41:44] freynaud: I tried executeScript at the week end, my Hello world works
+[2013-03-27 08:41:51] freynaud: but I didn't plug in the whole suite
+[2013-03-27 08:41:51] lukeis: oh, the python tests don't all pass… but they certainly don't for iphone driver either ;)
+[2013-03-27 08:42:04] freynaud: lukeis: k.
+[2013-03-27 08:42:24] lukeis: there's some things iphonedriver can do that ios-driver can't yet… but there's a lot more that ios-driver can do that iphonedriver can't! ;)
+[2013-03-27 08:42:31] freynaud: for 0.7, we should target that then. That and getting rid of instruments would be good.
+[2013-03-27 08:42:40] lukeis: k
+[2013-03-27 08:42:41] freynaud: what are those things ?
+[2013-03-27 08:42:54] lukeis: there's a couple of api end point things
+[2013-03-27 08:43:00] lukeis: and cookie handling
+[2013-03-27 08:43:12] freynaud: cookie doesn't work ?
+[2013-03-27 08:43:20] freynaud: i think i implemented add and remote
+[2013-03-27 08:43:20] lukeis: tests are failing
+[2013-03-27 08:43:31] freynaud: ok, i implemented wrong then
+[2013-03-27 08:43:31] lukeis: i haven't looked into it
+[2013-03-27 08:44:07] lukeis: jason carr told me that appium is about to have it fixed and we should take a look at what they do
+[2013-03-27 08:44:33] freynaud: lukeis: WKRDP has a cookie management API
+[2013-03-27 08:44:49] lukeis: yes, but there seems to be some issues, that they've worked out
+[2013-03-27 08:44:57] freynaud: I would use that. The only thing I saw that was annoying was that the domain need to be fully qualify
