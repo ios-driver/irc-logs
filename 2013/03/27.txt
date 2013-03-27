@@ -196,3 +196,10 @@
 [2013-03-27 09:49:04] freynaud: rather than master ?
 [2013-03-27 09:49:20] lukeis: updated ;)
 [2013-03-27 09:49:31] lukeis: cause you deleted master and only had gh-pages for a little while
+[2013-03-27 09:51:01] *lukeis waits for freynaud to send email before I start tweeting'
+[2013-03-27 09:51:34] freynaud: I haven't written a single tweet yet ^^
+[2013-03-27 09:51:41] lukeis: ;)
+[2013-03-27 09:51:44] freynaud: still resisting !
+[2013-03-27 09:54:17] GitHub, joining. (#ios-driver)
+[2013-03-27 09:54:17] GitHub: [ios-driver] freynaud tagged 0.6.0 at d9bd580: http://git.io/c6s9Nw
+[2013-03-27 09:54:17] GitHub, leaving. (#ios-driver)
