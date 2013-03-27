@@ -252,3 +252,5 @@
 [2013-03-27 13:04:54] dgrace, quitting. (Ping timeout: 256 seconds)
 [2013-03-27 13:05:59] nicegraham, quitting. (Ping timeout: 252 seconds)
 [2013-03-27 14:24:41] Hammertime38: wont be using windows to build anything again, ever...after hours of debugging, cleaning, and reproducing, i found that git simply wasnt accepting the ssh key on my PC, making the submodule incomplete and corrupting the build (yet somehow still building!). Resolved by pulling/building from my mac. Feel like an idiot :)
+[2013-03-27 14:25:14] lukeis: who uses windows? ;)
+[2013-03-27 14:25:26] Hammertime38: now it works wonderfully, would be happy to share future results running tests from C#
