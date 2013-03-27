@@ -87,3 +87,8 @@
 [2013-03-27 07:36:46] millenium, quitting. (Read error: Connection reset by peer)
 [2013-03-27 08:08:58] millenium, joining. (#ios-driver)
 [2013-03-27 08:18:02] millenium, quitting. (Quit: ~ Trillian - www.trillian.im ~)
+[2013-03-27 08:27:38] lukeis, joining. (#ios-driver)
+[2013-03-27 08:28:02] lukeis: mornin'  / afternoon :)
+[2013-03-27 08:28:22] nicegraham: heydo
+[2013-03-27 08:28:40] nicegraham: you were at it late last night :)
+[2013-03-27 08:28:59] lukeis: i was in bed by 10:30… wouldn't call that late ;)
