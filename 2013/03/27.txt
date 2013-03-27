@@ -25,3 +25,6 @@
 [2013-03-27 04:17:38] freynaud: extracting menu, footer etc in a separate file
 [2013-03-27 04:17:56] freynaud: I'll refactor the scale tab when I'm done
 [2013-03-27 04:18:10] nicegraham: oh yea, I noticed that! :)
+[2013-03-27 04:25:43] freynaud: it's mainly working now, except for some padding I broke
+[2013-03-27 04:26:34] freynaud: if you want to have a look, feel free
+[2013-03-27 04:26:42] freynaud: the space between the tabs is gone :)
