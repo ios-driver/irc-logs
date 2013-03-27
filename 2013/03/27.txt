@@ -84,3 +84,4 @@
 [2013-03-27 06:48:49] freynaud: working in https://github.com/ios-driver/ios-driver-beta/tree/release to prepare the release
 [2013-03-27 06:50:55] nicegraham: ok
 [2013-03-27 07:28:01] freynaud: :log
+[2013-03-27 07:36:46] millenium, quitting. (Read error: Connection reset by peer)
