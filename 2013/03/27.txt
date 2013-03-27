@@ -4,3 +4,7 @@
 [2013-03-27 02:31:12] freynaud, quitting. (Quit: freynaud)
 [2013-03-27 03:14:30] freynaud, joining. (#ios-driver)
 [2013-03-27 03:14:58] freynaud: morning
+[2013-03-27 03:15:39] nicegraham: morning
+[2013-03-27 03:15:43] nicegraham: all set for the release?
+[2013-03-27 03:16:19] millenium, quitting. (Quit: ~ Trillian - www.trillian.im ~)
+[2013-03-27 03:17:59] millenium, joining. (#ios-driver)
