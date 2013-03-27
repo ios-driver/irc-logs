@@ -264,3 +264,13 @@
 [2013-03-27 14:53:14] rsalvador, leaving. (#ios-driver)
 [2013-03-27 14:54:18] lukeis: so far so good, i think… ;) the issue i logged is a barrier for current ruby users
 [2013-03-27 14:54:24] lukeis: for mobile safari
+[2013-03-27 14:57:09] nicegraham: I didn't notice, I'll have a look… ruby is for hipsters, get a real language! :)
+[2013-03-27 14:57:40] lukeis: we had a github bot working for all of two minutes, and now is gone
+[2013-03-27 14:57:46] lukeis: aka not working
+[2013-03-27 14:58:01] nicegraham: I got that :)
+[2013-03-27 14:58:07] nicegraham: I read the issue
+[2013-03-27 14:58:14] nicegraham: so what's it responding with now?
+[2013-03-27 14:58:28] mach6, joining. (#ios-driver)
+[2013-03-27 14:58:29] nicegraham: that can be 6.1 I guess :)
+[2013-03-27 14:59:06] lukeis: it responds with a lot of info… just not the key things selenium webdriver expects ;)
+[2013-03-27 14:59:48] nicegraham: of course
