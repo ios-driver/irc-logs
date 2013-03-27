@@ -177,3 +177,22 @@
 [2013-03-27 09:43:12] freynaud: do you need a specific build for maven ? signed ?
 [2013-03-27 09:44:24] lukeis: i do the signing (have to use my own key to upload)
 [2013-03-27 09:44:41] lukeis: i still need to log a ticket though, maven upload will not likely happen till next week
+[2013-03-27 09:47:02] GitHub, joining. (#ios-driver)
+[2013-03-27 09:47:02] GitHub: [ios-driver] freynaud created master (+926 new commits): http://git.io/aYvtzA
+[2013-03-27 09:47:02] GitHub: ios-driver/master f06b5b4 Francois Reynaud: initial commit
+[2013-03-27 09:47:02] GitHub: ios-driver/master c2524a1 Francois Reynaud: extracting test glue.
+[2013-03-27 09:47:02] GitHub: ios-driver/master f5c3632 Francois Reynaud: adding a failing test for findElement on arrays
+[2013-03-27 09:47:02] GitHub, leaving. (#ios-driver)
+[2013-03-27 09:47:14] lukeis: w000t
+[2013-03-27 09:47:21] lukeis: we're public now!!!
+[2013-03-27 09:47:25] lukeis: ;)
+[2013-03-27 09:48:42] freynaud: https://github.com/ios-driver/ios-driver/
+[2013-03-27 09:48:42] GitHub, joining. (#ios-driver)
+[2013-03-27 09:48:42] GitHub: [ios-driver] lukeis pushed 1 new commit to master: http://git.io/mjC-_A
+[2013-03-27 09:48:42] GitHub: ios-driver/master ec085d5 Luke Inman-Semerau: updating docs link
+[2013-03-27 09:48:42] GitHub, leaving. (#ios-driver)
+[2013-03-27 09:48:56] smccarthy, joining. (#ios-driver)
+[2013-03-27 09:49:00] freynaud: any idea why it shows gh-pages by default
+[2013-03-27 09:49:04] freynaud: rather than master ?
+[2013-03-27 09:49:20] lukeis: updated ;)
+[2013-03-27 09:49:31] lukeis: cause you deleted master and only had gh-pages for a little while
