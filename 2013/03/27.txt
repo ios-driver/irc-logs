@@ -17,3 +17,11 @@
 [2013-03-27 03:51:07] freynaud: and that you won't look for browsername for ios stuff
 [2013-03-27 03:52:00] nicegraham: ok
 [2013-03-27 03:52:17] nicegraham: I'll get something together and maybe you can review it - you're the grid expert :)
+[2013-03-27 04:16:06] freynaud: i'm refactoring the doc a bit
+[2013-03-27 04:16:12] freynaud: ot avoid all those copy paste
+[2013-03-27 04:16:29] nicegraham: ok
+[2013-03-27 04:16:44] nicegraham: on the safari page?
+[2013-03-27 04:17:27] freynaud: all
+[2013-03-27 04:17:38] freynaud: extracting menu, footer etc in a separate file
+[2013-03-27 04:17:56] freynaud: I'll refactor the scale tab when I'm done
+[2013-03-27 04:18:10] nicegraham: oh yea, I noticed that! :)
