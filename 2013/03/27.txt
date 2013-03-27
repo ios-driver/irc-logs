@@ -212,3 +212,5 @@
 [2013-03-27 10:03:52] GitHub, leaving. (#ios-driver)
 [2013-03-27 10:04:28] freynaud:  https://github.com/ios-driver/ios-driver/tree/dev  is ready for the new cycle
 [2013-03-27 10:04:30] *lukeis updates my remotes'
+[2013-03-27 10:06:21] nicegraham: so what's on the list for .7?
+[2013-03-27 10:06:55] *lukeis will keep working on mobileSafari :)'
