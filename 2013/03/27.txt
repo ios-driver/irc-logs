@@ -232,3 +232,7 @@
 [2013-03-27 10:23:05] lukeis: internal 'chatter' (basically facebook clone) posted too
 [2013-03-27 10:23:14] freynaud: if it's on twitter, it must be true :)
 [2013-03-27 10:23:21] lukeis: indeed
+[2013-03-27 10:25:30] nicegraham: so we're working on the dev channel of the public repo now?
+[2013-03-27 10:25:39] freynaud: yes
+[2013-03-27 10:25:42] lukeis: sí señor
+[2013-03-27 10:26:26] freynaud: everything on the public repo, except for the doc. If it's a doc about a 0.7 feature, leave it on the beta. Just document what's already release.
