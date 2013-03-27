@@ -70,3 +70,11 @@
 [2013-03-27 05:02:14] freynaud: there are some params here too
 [2013-03-27 05:02:31] freynaud: if you put -folder in setup, move that section too
 [2013-03-27 05:04:08] nicegraham: maybe I should create a section to document all the command line parameters in one place
+[2013-03-27 05:30:29] freynaud: have you started ?
+[2013-03-27 05:30:42] freynaud: I want to document one of them
+[2013-03-27 05:30:50] nicegraham:  yeah, it's on the way
+[2013-03-27 05:31:11] nicegraham: I'll push it in 2 mins and you can edit it?
+[2013-03-27 05:32:44] nicegraham: it's there now
+[2013-03-27 05:32:52] nicegraham: command line parameters section on the setup page
+[2013-03-27 05:34:35] nicegraham: hang on, it hasn't checked in
+[2013-03-27 05:34:51] freynaud: ok
