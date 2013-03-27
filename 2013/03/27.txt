@@ -79,3 +79,4 @@
 [2013-03-27 05:34:35] nicegraham: hang on, it hasn't checked in
 [2013-03-27 05:34:51] freynaud: ok
 [2013-03-27 05:36:05] nicegraham: it's there now
+[2013-03-27 06:07:41] nicegraham: freynaud: I've added nav links to the setup page too, I wanted to be able to link to the command line params sections from elsewhere
