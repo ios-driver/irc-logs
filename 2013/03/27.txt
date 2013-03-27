@@ -214,3 +214,10 @@
 [2013-03-27 10:04:30] *lukeis updates my remotes'
 [2013-03-27 10:06:21] nicegraham: so what's on the list for .7?
 [2013-03-27 10:06:55] *lukeis will keep working on mobileSafari :)'
+[2013-03-27 10:12:02] freynaud: nicegraham: bug fix, mobile safari, remove instruments's client, maybe fixing some signing issues. Work with the chrome team to have chrome.app
+[2013-03-27 10:12:24] nicegraham: how long is the cycle?
+[2013-03-27 10:12:37] lukeis: when it's 'ready'? :)
+[2013-03-27 10:12:59] nicegraham: wimp :)
+[2013-03-27 10:14:09] freynaud: you can always release 6.1 if you fix a blocking bug
+[2013-03-27 10:14:31] freynaud: but considering there is still a lot of doc missing from 6.0, don't rush 7 :)
+[2013-03-27 10:14:53] freynaud: the priority should be to explain what we did first, before doing more
