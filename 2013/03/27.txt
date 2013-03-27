@@ -274,3 +274,6 @@
 [2013-03-27 14:58:29] nicegraham: that can be 6.1 I guess :)
 [2013-03-27 14:59:06] lukeis: it responds with a lot of info… just not the key things selenium webdriver expects ;)
 [2013-03-27 14:59:48] nicegraham: of course
+[2013-03-27 15:00:10] nicegraham: I'll look in the morning if you haven't already
+[2013-03-27 15:02:03] nicegraham: lukeis: chat the marra pal :)
+[2013-03-27 15:02:13] nicegraham, leaving. (#ios-driver)
