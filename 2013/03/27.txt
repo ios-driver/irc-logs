@@ -86,3 +86,4 @@
 [2013-03-27 07:28:01] freynaud: :log
 [2013-03-27 07:36:46] millenium, quitting. (Read error: Connection reset by peer)
 [2013-03-27 08:08:58] millenium, joining. (#ios-driver)
+[2013-03-27 08:18:02] millenium, quitting. (Quit: ~ Trillian - www.trillian.im ~)
