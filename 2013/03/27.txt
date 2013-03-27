@@ -243,3 +243,6 @@
 [2013-03-27 11:12:08] freynaud, quitting. (Ping timeout: 245 seconds)
 [2013-03-27 11:13:49] dgrace: Well done guys, great work!
 [2013-03-27 11:42:27] nicegraham: lukeis: you need to update the title here :)
+[2013-03-27 12:21:29] smccarthy2, joining. (#ios-driver)
+[2013-03-27 12:21:36] smccarthy, quitting. (Read error: Connection reset by peer)
+[2013-03-27 12:23:29] smccarthy, joining. (#ios-driver)
