@@ -256,3 +256,7 @@
 [2013-03-27 14:25:26] Hammertime38: now it works wonderfully, would be happy to share future results running tests from C#
 [2013-03-27 14:32:00] nicegraham, joining. (#ios-driver)
 [2013-03-27 14:35:40] nicegraham: irc cloud is down, I'm back in colloquy
+[2013-03-27 14:45:35] lukeis: awww welcome back to earth ;)
+[2013-03-27 14:45:54] lukeis: but i like adium better than colloquy nowadays
+[2013-03-27 14:47:02] nicegraham: earth - it's over-rated!
+[2013-03-27 14:47:12] nicegraham: how was 0.6 gone down?
