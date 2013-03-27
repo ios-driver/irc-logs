@@ -53,3 +53,11 @@
 [2013-03-27 04:47:53] freynaud: i also updated the footer to remove my name
 [2013-03-27 04:48:45] nicegraham: ah, it points to the project members now
 [2013-03-27 04:49:29] nicegraham: is there anything left to do / do you need me to do anything/
+[2013-03-27 04:56:09] freynaud: some doc on real device
+[2013-03-27 04:56:15] freynaud: make sure the tests are passing
+[2013-03-27 04:56:26] freynaud: and check that tge tests are running using the JAR
+[2013-03-27 04:56:49] freynaud: sometimes they pass with maven, but the JAR brakes some serialization / deserialization
+[2013-03-27 04:57:06] freynaud: some doc on -folder too is it's not done
+[2013-03-27 04:57:12] freynaud: it's a pretty handy feature
+[2013-03-27 04:57:15] nicegraham: It's not... I can do that
+[2013-03-27 04:58:07] nicegraham: I'll add it to the setup page under Launching ios-driver unless you want it somewhere else
