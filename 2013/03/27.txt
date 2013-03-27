@@ -61,3 +61,12 @@
 [2013-03-27 04:57:12] freynaud: it's a pretty handy feature
 [2013-03-27 04:57:15] nicegraham: It's not... I can do that
 [2013-03-27 04:58:07] nicegraham: I'll add it to the setup page under Launching ios-driver unless you want it somewhere else
+[2013-03-27 05:00:30] freynaud: http://ios-driver.github.com/ios-driver-beta/scale.html
+[2013-03-27 05:00:37] freynaud: what a lovely icon :)
+[2013-03-27 05:01:17] nicegraham: I know! :) as long as the user opens grid in Safari they'll see the same thing
+[2013-03-27 05:01:26] nicegraham: otherwise it's a broken image
+[2013-03-27 05:01:35] nicegraham: BUT their own apps will work fine
+[2013-03-27 05:02:06] freynaud: http://ios-driver.github.com/ios-driver-beta/native.html#params
+[2013-03-27 05:02:14] freynaud: there are some params here too
+[2013-03-27 05:02:31] freynaud: if you put -folder in setup, move that section too
+[2013-03-27 05:04:08] nicegraham: maybe I should create a section to document all the command line parameters in one place
