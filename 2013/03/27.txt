@@ -142,3 +142,20 @@
 [2013-03-27 08:49:40] freynaud: lukeis: interesting
 [2013-03-27 08:49:52] freynaud: it shouldn't happen I think
 [2013-03-27 08:49:52] lukeis: python can alert.accept/dismiss it though
+[2013-03-27 08:50:01] lukeis: just can't get text
+[2013-03-27 08:50:54] freynaud: there is a bug, but the alert is not supposed to appear in the first place
+[2013-03-27 08:50:55] freynaud: https://github.com/ios-driver/ios-driver-beta/blob/master/server/src/main/java/org/uiautomation/ios/utils/SimulatorSettings.java#L49
+[2013-03-27 08:51:13] freynaud: that is supposed to white list location services for the bundleId
+[2013-03-27 08:51:21] freynaud: at least it does for a native app
+[2013-03-27 08:51:24] AutomatedTester: sure I havent written yet
+[2013-03-27 08:51:27] freynaud: maybe safari is different
+[2013-03-27 08:51:31] lukeis: plist isn't modified for mobile safari
+[2013-03-27 08:51:42] lukeis: or is it?
+[2013-03-27 08:51:43] AutomatedTester: freynaud: you can write it for me so it fits what you want :)
+[2013-03-27 08:52:06] freynaud: lukeis: it's not the app plist. It's a system plist in general
+[2013-03-27 08:52:22] freynaud: AutomatedTester: will do. Is there a template or something ?
+[2013-03-27 08:52:35] AutomatedTester: freynaud: no template
+[2013-03-27 08:53:01] AutomatedTester: freynaud: just a summary of what the person will be doing during their GSoC Term
+[2013-03-27 08:53:29] freynaud: ok
+[2013-03-27 08:53:30] AutomatedTester: kinda like a summary for a talk
+[2013-03-27 08:53:35] AutomatedTester: high level
