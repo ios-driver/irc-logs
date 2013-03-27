@@ -14,3 +14,6 @@
 [2013-03-27 03:27:09] nicegraham: so does that mean it gets used for all matching?
 [2013-03-27 03:27:40] freynaud: correct
 [2013-03-27 03:49:03] nicegraham: freynaud:  the only differences we need over DefaultCapabilityMatcher are that the node will potentially have multiple sdks and devices and we need to allow for that matching. Right?
+[2013-03-27 03:51:07] freynaud: and that you won't look for browsername for ios stuff
+[2013-03-27 03:52:00] nicegraham: ok
+[2013-03-27 03:52:17] nicegraham: I'll get something together and maybe you can review it - you're the grid expert :)
