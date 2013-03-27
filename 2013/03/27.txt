@@ -162,3 +162,5 @@
 [2013-03-27 09:18:03] lukeis: freynaud: regarding https://gist.github.com/freynaud/f0cbb7a236294d4e0e0a  you should also link the google group mailing list
 [2013-03-27 09:18:11] lukeis: and even this irc channel
 [2013-03-27 09:18:36] lukeis: and send the mail to -developers / -users / webdriver ;)
+[2013-03-27 09:32:58] freynaud: lukeis: gist updated. Isn't there a way to have a nicer url to google groups ?
+[2013-03-27 09:33:35] lukeis: groups.google.com/group/ios-driver
