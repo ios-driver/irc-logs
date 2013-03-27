@@ -159,3 +159,6 @@
 [2013-03-27 08:53:29] freynaud: ok
 [2013-03-27 08:53:30] AutomatedTester: kinda like a summary for a talk
 [2013-03-27 08:53:35] AutomatedTester: high level
+[2013-03-27 09:18:03] lukeis: freynaud: regarding https://gist.github.com/freynaud/f0cbb7a236294d4e0e0a  you should also link the google group mailing list
+[2013-03-27 09:18:11] lukeis: and even this irc channel
+[2013-03-27 09:18:36] lukeis: and send the mail to -developers / -users / webdriver ;)
