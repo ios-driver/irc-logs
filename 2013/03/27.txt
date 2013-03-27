@@ -92,3 +92,16 @@
 [2013-03-27 08:28:22] nicegraham: heydo
 [2013-03-27 08:28:40] nicegraham: you were at it late last night :)
 [2013-03-27 08:28:59] lukeis: i was in bed by 10:30… wouldn't call that late ;)
+[2013-03-27 08:30:06] nicegraham: no, neither would I! Your last mail wasn't that long before I got up so it seemed late
+[2013-03-27 08:30:31] lukeis: if i'm on when you get up, then that's late ;)
+[2013-03-27 08:31:37] AutomatedTester: lukeis: you're still up for mentor right?
+[2013-03-27 08:31:47] AutomatedTester: gsoc
+[2013-03-27 08:31:55] lukeis: freynaud: if you see, i implemented what we talked about before… passing in simulator in desired capabilities is more like a required capability
+[2013-03-27 08:31:57] lukeis: AutomatedTester: yes
+[2013-03-27 08:32:06] AutomatedTester: freynaud: ^ sorted ;)
+[2013-03-27 08:32:56] lukeis: :log
+[2013-03-27 08:33:21] lukeis: nicegraham: thanks for adding that stuff :)
+[2013-03-27 08:34:17] freynaud: lukeis: i'm running the last tests
+[2013-03-27 08:34:28] lukeis: w00t
+[2013-03-27 08:34:36] freynaud: if they pass, I'll use the 0.6.0 tag as the release point
+[2013-03-27 08:34:49] nicegraham: lukeis: np
