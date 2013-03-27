@@ -278,3 +278,4 @@
 [2013-03-27 15:02:03] nicegraham: lukeis: chat the marra pal :)
 [2013-03-27 15:02:13] nicegraham, leaving. (#ios-driver)
 [2013-03-27 15:20:48] Hammertime38: when using sendKeys from python/c#, only the first character makes it through. does this have anything to do with the command handler itself? or am i missing something on the client
+[2013-03-27 16:04:42] lukeis, quitting. (Quit: Leaving.)
