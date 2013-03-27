@@ -105,3 +105,8 @@
 [2013-03-27 08:34:28] lukeis: w00t
 [2013-03-27 08:34:36] freynaud: if they pass, I'll use the 0.6.0 tag as the release point
 [2013-03-27 08:34:49] nicegraham: lukeis: np
+[2013-03-27 08:37:29] lukeis: i think the last change i did will ease adoption and get us quite a few users
+[2013-03-27 08:37:44] *lukeis looking forward to 0.6!!! ;)'
+[2013-03-27 08:38:22] *lukeis excites easily ;)'
+[2013-03-27 08:38:25] freynaud: https://gist.github.com/freynaud/f0cbb7a236294d4e0e0a
+[2013-03-27 08:38:35] freynaud: anything you want to add ?
