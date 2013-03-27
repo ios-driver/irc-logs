@@ -28,3 +28,18 @@
 [2013-03-27 04:25:43] freynaud: it's mainly working now, except for some padding I broke
 [2013-03-27 04:26:34] freynaud: if you want to have a look, feel free
 [2013-03-27 04:26:42] freynaud: the space between the tabs is gone :)
+[2013-03-27 04:35:57] nicegraham: there's a problem on the bug page
+[2013-03-27 04:36:15] nicegraham: it's printing <<<<<<< HEAD at the top
+[2013-03-27 04:36:45] nicegraham: why did the bot just type that?
+[2013-03-27 04:37:22] freynaud: not sure :)
+[2013-03-27 04:37:25] freynaud: should be fixed now
+[2013-03-27 04:37:53] freynaud: but I still have the tabs stuck one to the other
+[2013-03-27 04:38:01] freynaud: it was nicer with the small black gap before
+[2013-03-27 04:38:07] nicegraham: yeah, it was :)
+[2013-03-27 04:38:31] freynaud: unfortunatly, the guy working on the CSS is surfing somewhere
+[2013-03-27 04:38:45] freynaud: i haven't change the CSS
+[2013-03-27 04:38:58] freynaud: i only create the menu from JS rather than   having it static
+[2013-03-27 04:39:04] freynaud: the changes are in properties.js
+[2013-03-27 04:39:17] freynaud: if you want to change something on all pages, you should do it there
+[2013-03-27 04:39:55] nicegraham: add margin-right: 1px; to #menu li
+[2013-03-27 04:40:01] nicegraham: seems to work when I edit it live
