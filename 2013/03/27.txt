@@ -43,3 +43,8 @@
 [2013-03-27 04:39:17] freynaud: if you want to change something on all pages, you should do it there
 [2013-03-27 04:39:55] nicegraham: add margin-right: 1px; to #menu li
 [2013-03-27 04:40:01] nicegraham: seems to work when I edit it live
+[2013-03-27 04:40:17] nicegraham: line 34 stylesheet.css
+[2013-03-27 04:42:11] freynaud: works for me too
+[2013-03-27 04:42:14] freynaud: and pushed.
+[2013-03-27 04:42:39] nicegraham: Ia actually think 2px looks better :)
+[2013-03-27 04:43:54] nicegraham: I see the download link has been updated to .6 too
