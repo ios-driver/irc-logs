@@ -255,3 +255,4 @@
 [2013-03-27 14:25:14] lukeis: who uses windows? ;)
 [2013-03-27 14:25:26] Hammertime38: now it works wonderfully, would be happy to share future results running tests from C#
 [2013-03-27 14:32:00] nicegraham, joining. (#ios-driver)
+[2013-03-27 14:35:40] nicegraham: irc cloud is down, I'm back in colloquy
