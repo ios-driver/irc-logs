@@ -1,3 +1,4 @@
 [2013-03-27 00:26:23] smccarthy, joining. (#ios-driver)
 [2013-03-27 00:26:37] smccarthy, quitting. (Remote host closed the connection)
 [2013-03-27 01:29:33] freynaud, joining. (#ios-driver)
+[2013-03-27 02:31:12] freynaud, quitting. (Quit: freynaud)
