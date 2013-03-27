@@ -165,3 +165,15 @@
 [2013-03-27 09:32:58] freynaud: lukeis: gist updated. Isn't there a way to have a nicer url to google groups ?
 [2013-03-27 09:33:35] lukeis: groups.google.com/group/ios-driver
 [2013-03-27 09:35:50] freynaud: nicer
+[2013-03-27 09:40:40] lukeis: freynaud: you should edit the description up near the top https://github.com/ios-driver/ios-driver  to link to the docs
+[2013-03-27 09:41:03] *lukeis doesn't have the rights to :)'
+[2013-03-27 09:41:25] lukeis: also we should configure the github commit bot to alert us in chanel
+[2013-03-27 09:41:55] freynaud: done
+[2013-03-27 09:42:00] freynaud: checking for the rights
+[2013-03-27 09:42:28] freynaud: can you edit now ?
+[2013-03-27 09:42:44] lukeis: yes :)
+[2013-03-27 09:42:59] freynaud: the jar is uploaded on amazon too
+[2013-03-27 09:43:00] *lukeis goes to add the irc bot'
+[2013-03-27 09:43:12] freynaud: do you need a specific build for maven ? signed ?
+[2013-03-27 09:44:24] lukeis: i do the signing (have to use my own key to upload)
+[2013-03-27 09:44:41] lukeis: i still need to log a ticket though, maven upload will not likely happen till next week
