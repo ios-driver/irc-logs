@@ -132,3 +132,13 @@
 [2013-03-27 08:44:33] freynaud: lukeis: WKRDP has a cookie management API
 [2013-03-27 08:44:49] lukeis: yes, but there seems to be some issues, that they've worked out
 [2013-03-27 08:44:57] freynaud: I would use that. The only thing I saw that was annoying was that the domain need to be fully qualify
+[2013-03-27 08:45:08] freynaud: we chat about it already I think
+[2013-03-27 08:46:03] lukeis: hmm, well i'll try to look into it in the near future… also i'm going to modify the test_iphone target to run the selenium java tests against ios-driver
+[2013-03-27 08:46:45] freynaud: AutomatedTester: can we see the gsoc submission ?
+[2013-03-27 08:48:49] lukeis: freynaud: i also noticed, if you go to a url in mobile safari (like google maps) that requests location services, if you switch to alert (in java especially ~ automatically gets the text) getting the text throws an exception
+[2013-03-27 08:48:56] lukeis: a WebDriverException
+[2013-03-27 08:49:29] lukeis: message = ""  ;)
+[2013-03-27 08:49:32] lukeis: so not helpful
+[2013-03-27 08:49:40] freynaud: lukeis: interesting
+[2013-03-27 08:49:52] freynaud: it shouldn't happen I think
+[2013-03-27 08:49:52] lukeis: python can alert.accept/dismiss it though
