@@ -82,3 +82,4 @@
 [2013-03-27 06:07:41] nicegraham: freynaud: I've added nav links to the setup page too, I wanted to be able to link to the command line params sections from elsewhere
 [2013-03-27 06:15:08] *nicegraham is getting a sandwich'
 [2013-03-27 06:48:49] freynaud: working in https://github.com/ios-driver/ios-driver-beta/tree/release to prepare the release
+[2013-03-27 06:50:55] nicegraham: ok
