@@ -203,3 +203,6 @@
 [2013-03-27 09:54:17] GitHub, joining. (#ios-driver)
 [2013-03-27 09:54:17] GitHub: [ios-driver] freynaud tagged 0.6.0 at d9bd580: http://git.io/c6s9Nw
 [2013-03-27 09:54:17] GitHub, leaving. (#ios-driver)
+[2013-03-27 09:58:29] freynaud: lukeis: email sent.
+[2013-03-27 09:58:33] lukeis: YAY
+[2013-03-27 09:58:45] nicegraham: nice :)
