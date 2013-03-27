@@ -13,3 +13,4 @@
 [2013-03-27 03:26:41] freynaud: not on the proxy
 [2013-03-27 03:27:09] nicegraham: so does that mean it gets used for all matching?
 [2013-03-27 03:27:40] freynaud: correct
+[2013-03-27 03:49:03] nicegraham: freynaud:  the only differences we need over DefaultCapabilityMatcher are that the node will potentially have multiple sdks and devices and we need to allow for that matching. Right?
