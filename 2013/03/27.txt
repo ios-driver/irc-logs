@@ -206,3 +206,9 @@
 [2013-03-27 09:58:29] freynaud: lukeis: email sent.
 [2013-03-27 09:58:33] lukeis: YAY
 [2013-03-27 09:58:45] nicegraham: nice :)
+[2013-03-27 10:03:51] GitHub, joining. (#ios-driver)
+[2013-03-27 10:03:52] GitHub: [ios-driver] freynaud created dev (+1 new commit): http://git.io/z46cQA
+[2013-03-27 10:03:52] GitHub: ios-driver/dev 4aee44a Francois Reynaud: bumping version for new dev cycle.
+[2013-03-27 10:03:52] GitHub, leaving. (#ios-driver)
+[2013-03-27 10:04:28] freynaud:  https://github.com/ios-driver/ios-driver/tree/dev  is ready for the new cycle
+[2013-03-27 10:04:30] *lukeis updates my remotes'
