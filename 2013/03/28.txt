@@ -1,3 +1,4 @@
 [2013-03-28 00:00:53] mach6, quitting. (Ping timeout: 245 seconds)
 [2013-03-28 04:05:08] nicegraham: :log
 [2013-03-28 06:10:22] millenium, joining. (#ios-driver)
+[2013-03-28 08:22:03] lukeis, joining. (#ios-driver)
