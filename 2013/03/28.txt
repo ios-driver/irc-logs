@@ -76,3 +76,4 @@
 [2013-03-28 10:33:54] ios-driver-git: ios-driver/master 8345583 Luke Inman-Semerau: adding note about contributing and we use the 'dev' branch
 [2013-03-28 10:33:54] ios-driver-git: ios-driver/master 1d6d286 Luke Inman-Semerau: fixing readme formatting
 [2013-03-28 10:33:54] ios-driver-git, leaving. (#ios-driver)
+[2013-03-28 11:26:53] dgrace, quitting. (Ping timeout: 258 seconds)
