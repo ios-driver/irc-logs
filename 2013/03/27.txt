@@ -288,3 +288,4 @@
 [2013-03-27 18:58:41] smccarthy, quitting. (Remote host closed the connection)
 [2013-03-27 20:23:56] lukeis, joining. (#ios-driver)
 [2013-03-27 20:53:30] mach6, joining. (#ios-driver)
+[2013-03-27 23:24:39] lukeis, quitting. (Quit: Leaving.)
