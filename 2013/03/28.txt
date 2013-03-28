@@ -81,3 +81,4 @@
 [2013-03-28 13:27:17] dgrace, joining. (#ios-driver)
 [2013-03-28 13:56:18] mach6, quitting. (Ping timeout: 245 seconds)
 [2013-03-28 16:03:27] lukeis, quitting. (Quit: Leaving.)
+[2013-03-28 16:13:54] nicegraham: :log
