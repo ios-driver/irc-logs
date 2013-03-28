@@ -70,3 +70,9 @@
 [2013-03-28 09:03:16] lukeis: see ya next week
 [2013-03-28 09:03:40] *nicegraham I'll be online over the weekend I'd say - in between renovations in the house. I'm so middle aged.'
 [2013-03-28 09:04:09] lukeis: heh, i'm not likely to be online ;) kids, house stuff… i'm very middle aged
+[2013-03-28 10:33:54] ios-driver-git, joining. (#ios-driver)
+[2013-03-28 10:33:54] ios-driver-git: [ios-driver] none pushed 3 new commits to master: http://git.io/HSoVUw
+[2013-03-28 10:33:54] ios-driver-git: ios-driver/master ec085d5 Luke Inman-Semerau: updating docs link
+[2013-03-28 10:33:54] ios-driver-git: ios-driver/master 8345583 Luke Inman-Semerau: adding note about contributing and we use the 'dev' branch
+[2013-03-28 10:33:54] ios-driver-git: ios-driver/master 1d6d286 Luke Inman-Semerau: fixing readme formatting
+[2013-03-28 10:33:54] ios-driver-git, leaving. (#ios-driver)
