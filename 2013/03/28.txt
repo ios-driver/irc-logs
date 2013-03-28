@@ -78,3 +78,4 @@
 [2013-03-28 10:33:54] ios-driver-git, leaving. (#ios-driver)
 [2013-03-28 11:26:53] dgrace, quitting. (Ping timeout: 258 seconds)
 [2013-03-28 11:32:21] mach6, joining. (#ios-driver)
+[2013-03-28 13:27:17] dgrace, joining. (#ios-driver)
