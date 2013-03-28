@@ -29,3 +29,11 @@
 [2013-03-28 08:34:35] nicegraham: ok, cool
 [2013-03-28 08:34:58] nicegraham: I can add a version item if it's not already there
 [2013-03-28 08:35:00] *lukeis didn't know if we exposed app.version somewhere'
+[2013-03-28 08:35:07] nicegraham: it's in the meta data
+[2013-03-28 08:35:15] nicegraham: CFBUndleVersion or something
+[2013-03-28 08:35:29] lukeis: cool
+[2013-03-28 08:35:54] lukeis: i think this is point release worthy
+[2013-03-28 08:36:01] nicegraham: so return that as 'version'
+[2013-03-28 08:36:14] nicegraham: sure, esp if it makes ruby work :)
+[2013-03-28 08:36:21] lukeis: 'browserVersion' : '6.1'
+[2013-03-28 08:36:50] lukeis: 'browserVersion': CFBundleVersion (or whatever) :)
