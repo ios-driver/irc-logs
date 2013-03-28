@@ -1,1 +1,2 @@
 [2013-03-28 00:00:53] mach6, quitting. (Ping timeout: 245 seconds)
+[2013-03-28 04:05:08] nicegraham: :log
