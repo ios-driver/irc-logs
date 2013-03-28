@@ -283,3 +283,4 @@
 [2013-03-27 16:44:15] dgrace, joining. (#ios-driver)
 [2013-03-27 16:52:58] mach6, quitting. (Ping timeout: 245 seconds)
 [2013-03-27 16:56:03] mach6, joining. (#ios-driver)
+[2013-03-27 17:07:09] Hammertime38, quitting. ()
