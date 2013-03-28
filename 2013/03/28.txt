@@ -43,3 +43,9 @@
 [2013-03-28 08:42:39] lukeis: that's fine by me
 [2013-03-28 08:43:06] nicegraham: ok, excellent :)
 [2013-03-28 08:44:58] nicegraham: https://gist.github.com/nicegraham/5264220 happy?
+[2013-03-28 08:46:09] lukeis: i'm hoping you just stripped out the quotes or are viewing it in a different way ;)
+[2013-03-28 08:46:34] lukeis: but, yes
+[2013-03-28 08:46:35] nicegraham: hmmm
+[2013-03-28 08:46:59] nicegraham: I just copied the value from the response variable and then jsonlint'd it
+[2013-03-28 08:47:18] nicegraham: but I haven't changed anything that would affect whether it's quoted or not...
+[2013-03-28 08:48:16] nicegraham: that's pushed to dev too
