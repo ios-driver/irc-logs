@@ -59,3 +59,4 @@
 [2013-03-28 08:53:44] lukeis: i'd be making shit up too… "Make ios-driver better" is the general plan ;)
 [2013-03-28 08:54:15] AutomatedTester: fine, I'll do that
 [2013-03-28 08:54:23] nicegraham: are they graded against the outline?
+[2013-03-28 08:58:36] smccarthy, joining. (#ios-driver)
