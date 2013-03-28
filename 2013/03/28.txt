@@ -12,3 +12,20 @@
 [2013-03-28 08:29:08] lukeis: yes
 [2013-03-28 08:29:37] nicegraham: that's easy to update [now I know where to do it] :)
 [2013-03-28 08:29:59] nicegraham: so iOS and 6.0 for example?
+[2013-03-28 08:30:11] lukeis: yes, 6.1 ;)
+[2013-03-28 08:30:34] lukeis: keep just 'platform' though
+[2013-03-28 08:30:47] lukeis: because the language bindings are up to the spec in this regards ;)
+[2013-03-28 08:32:17] nicegraham: for name?
+[2013-03-28 08:32:30] lukeis: so, if i'm not ridiculously clear… we should have 'platform' 'platformName' 'platformVersion'
+[2013-03-28 08:32:33] nicegraham: or do you mean platform = " iOS 6.1
+[2013-03-28 08:32:45] lukeis: we can leave platform = 'iOS'
+[2013-03-28 08:32:46] nicegraham: ah, ok
+[2013-03-28 08:33:11] lukeis: also we should provide 'browserVersion' which in this case is the same as platformVersion
+[2013-03-28 08:33:42] lukeis: but if we can get the app version someone for other apps, that might be nice
+[2013-03-28 08:34:06] nicegraham: i used browserName for Safari
+[2013-03-28 08:34:17] nicegraham: and I thought for any other apps we'd just return the name there?
+[2013-03-28 08:34:17] lukeis: yep, and that was good ;)
+[2013-03-28 08:34:31] lukeis: which is what you're doing… i like it
+[2013-03-28 08:34:35] nicegraham: ok, cool
+[2013-03-28 08:34:58] nicegraham: I can add a version item if it's not already there
+[2013-03-28 08:35:00] *lukeis didn't know if we exposed app.version somewhere'
