@@ -37,3 +37,9 @@
 [2013-03-28 08:36:14] nicegraham: sure, esp if it makes ruby work :)
 [2013-03-28 08:36:21] lukeis: 'browserVersion' : '6.1'
 [2013-03-28 08:36:50] lukeis: 'browserVersion': CFBundleVersion (or whatever) :)
+[2013-03-28 08:40:16] nicegraham: so for version...
+[2013-03-28 08:40:19] nicegraham: CFBundleVersion=8536.25
+[2013-03-28 08:40:25] nicegraham: in Safari
+[2013-03-28 08:42:39] lukeis: that's fine by me
+[2013-03-28 08:43:06] nicegraham: ok, excellent :)
+[2013-03-28 08:44:58] nicegraham: https://gist.github.com/nicegraham/5264220 happy?
