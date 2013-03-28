@@ -2,3 +2,13 @@
 [2013-03-28 04:05:08] nicegraham: :log
 [2013-03-28 06:10:22] millenium, joining. (#ios-driver)
 [2013-03-28 08:22:03] lukeis, joining. (#ios-driver)
+[2013-03-28 08:25:54] lukeis1, joining. (#ios-driver)
+[2013-03-28 08:26:35] lukeis1, quitting. (Client Quit)
+[2013-03-28 08:26:44] lukeis, quitting. (Ping timeout: 260 seconds)
+[2013-03-28 08:26:55] lukeis, joining. (#ios-driver)
+[2013-03-28 08:28:16] lukeis: i wonder what happened to the github irc bot? very strange that it's not working
+[2013-03-28 08:29:04] nicegraham: is it a different one to the normal bot?
+[2013-03-28 08:29:06] lukeis: nicegraham: thanks for doing that change… i think we also need platformVersion  (and according the webdriver spec we need platfromName)
+[2013-03-28 08:29:08] lukeis: yes
+[2013-03-28 08:29:37] nicegraham: that's easy to update [now I know where to do it] :)
+[2013-03-28 08:29:59] nicegraham: so iOS and 6.0 for example?
