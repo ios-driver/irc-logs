@@ -82,3 +82,4 @@
 [2013-03-28 13:56:18] mach6, quitting. (Ping timeout: 245 seconds)
 [2013-03-28 16:03:27] lukeis, quitting. (Quit: Leaving.)
 [2013-03-28 16:13:54] nicegraham: :log
+[2013-03-28 16:37:20] smccarthy, quitting. (Remote host closed the connection)
