@@ -1,2 +1,6 @@
 [2013-03-29 03:38:52] smccarthy, quitting. (Remote host closed the connection)
 [2013-03-29 08:40:41] lukeis, joining. (#ios-driver)
+[2013-03-29 13:48:31] ios-driver-git, joining. (#ios-driver)
+[2013-03-29 13:48:31] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/qkyTzA
+[2013-03-29 13:48:31] ios-driver-git: ios-driver/dev 8569970 rsalvador: Accept dates in the MM/DD/YYYY format.
+[2013-03-29 13:48:31] ios-driver-git, leaving. (#ios-driver)
