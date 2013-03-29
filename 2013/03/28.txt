@@ -83,3 +83,4 @@
 [2013-03-28 16:03:27] lukeis, quitting. (Quit: Leaving.)
 [2013-03-28 16:13:54] nicegraham: :log
 [2013-03-28 16:37:20] smccarthy, quitting. (Remote host closed the connection)
+[2013-03-28 18:56:47] smccarthy, joining. (#ios-driver)
