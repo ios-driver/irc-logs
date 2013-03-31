@@ -1,2 +1,4 @@
 [2013-03-30 18:57:16] smccarthy, joining. (#ios-driver)
 [2013-03-30 21:26:31] smccarthy, quitting. (Remote host closed the connection)
+[2013-03-30 21:39:12] nicegraham, quitting. (Remote host closed the connection)
+[2013-03-30 21:39:12] dgrace, quitting. (Remote host closed the connection)
