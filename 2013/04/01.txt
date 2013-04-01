@@ -1,2 +1,3 @@
 [2013-04-01 02:30:53] nicegraham: good morning dgrace
 [2013-04-01 04:08:36] millenium, quitting. (Read error: Connection reset by peer)
+[2013-04-01 08:25:23] lukeis, joining. (#ios-driver)
