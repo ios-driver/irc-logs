@@ -7,3 +7,11 @@
 [2013-04-01 10:47:59] nicegraham: cycles and bandwidth... management speak :)
 [2013-04-01 10:48:13] lukeis: yep
 [2013-04-01 10:48:19] *lukeis is far from a manager though'
+[2013-04-01 10:51:02] nicegraham: lukeis: dgrace made good progress with the touch actions last week
+[2013-04-01 10:51:22] lukeis: cool
+[2013-04-01 10:51:24] nicegraham: I think he'll have them done in the next day or so... at least ready for your eagle eye
+[2013-04-01 10:51:48] nicegraham: I found some docs that appium have created for their implementation
+[2013-04-01 10:51:58] nicegraham: they've added some new wire calls I think
+[2013-04-01 10:52:13] nicegraham: they've also done something interesting with the offsets/coords
+[2013-04-01 10:52:15] lukeis: i'm a bit perplexed that appium went with a weird javascript executor approach that maps/replacing commands
+[2013-04-01 10:52:40] nicegraham: if you specify less than 1 it takes that as a percentage location inside the object
