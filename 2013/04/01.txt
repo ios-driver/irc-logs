@@ -19,3 +19,4 @@
 [2013-04-01 13:00:44] lukeis1, quitting. (Client Quit)
 [2013-04-01 13:03:12] lukeis, quitting. (Ping timeout: 276 seconds)
 [2013-04-01 13:06:02] smccarthy, joining. (#ios-driver)
+[2013-04-01 13:35:17] lukeis, joining. (#ios-driver)
