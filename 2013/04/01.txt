@@ -1,3 +1,9 @@
 [2013-04-01 02:30:53] nicegraham: good morning dgrace
 [2013-04-01 04:08:36] millenium, quitting. (Read error: Connection reset by peer)
 [2013-04-01 08:25:23] lukeis, joining. (#ios-driver)
+[2013-04-01 10:47:04] nicegraham: lukeis: no 0.6.1?
+[2013-04-01 10:47:28] lukeis: didn't find the appropriate spare cycles to do it yet ;)
+[2013-04-01 10:47:57] lukeis: releasing certainly takes more time than one things with open source ;)
+[2013-04-01 10:47:59] nicegraham: cycles and bandwidth... management speak :)
+[2013-04-01 10:48:13] lukeis: yep
+[2013-04-01 10:48:19] *lukeis is far from a manager though'
