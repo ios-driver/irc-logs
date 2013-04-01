@@ -16,3 +16,5 @@
 [2013-04-01 10:52:15] lukeis: i'm a bit perplexed that appium went with a weird javascript executor approach that maps/replacing commands
 [2013-04-01 10:52:40] nicegraham: if you specify less than 1 it takes that as a percentage location inside the object
 [2013-04-01 12:59:51] lukeis1, joining. (#ios-driver)
+[2013-04-01 13:00:44] lukeis1, quitting. (Client Quit)
+[2013-04-01 13:03:12] lukeis, quitting. (Ping timeout: 276 seconds)
