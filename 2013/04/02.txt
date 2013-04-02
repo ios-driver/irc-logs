@@ -18,3 +18,23 @@
 [2013-04-02 09:44:11] lukeis: masking further errors ;)
 [2013-04-02 09:44:46] samitbadle, joining. (#ios-driver)
 [2013-04-02 09:44:59] lukeis: i munged up my master branch when trying to merge, didn't spend the time to get it worked out to do 0.6.1
+[2013-04-02 09:45:01] samitbadle: Hi
+[2013-04-02 09:45:03] freynaud: you're being pessimistic :)
+[2013-04-02 09:45:07] freynaud: samitbadle: hey
+[2013-04-02 09:45:08] lukeis: hi samitbadle
+[2013-04-02 09:45:24] samitbadle: Back in Amsterdam!
+[2013-04-02 09:45:34] freynaud: :) back in London.
+[2013-04-02 09:45:39] freynaud: where  were you ?
+[2013-04-02 09:46:15] samitbadle: London
+[2013-04-02 09:46:40] freynaud: k
+[2013-04-02 09:47:04] freynaud: lukeis: how did you brake your master ? was there a lot of commits over the we ?
+[2013-04-02 09:47:28] lukeis: i didn't break it for anyone else other than me ;)
+[2013-04-02 09:47:38] lukeis: just need to fix my branch
+[2013-04-02 09:47:48] freynaud: ok
+[2013-04-02 09:47:55] lukeis: turns out i don't want to have the commits that bump the version to 0.7 ;)
+[2013-04-02 09:48:44] freynaud: are you saying we should keep dev to 0.6.1 snapshot after 0.6 release next time ?
+[2013-04-02 09:49:05] lukeis: yeah, probably
+[2013-04-02 09:49:10] freynaud: noted.
+[2013-04-02 09:49:42] lukeis: i've been working on selendroid the last couple of days
+[2013-04-02 09:49:55] freynaud: how is it ?
+[2013-04-02 09:49:59] lukeis: should get dominik to join irc ;)
