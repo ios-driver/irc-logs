@@ -44,3 +44,21 @@
 [2013-04-02 09:54:33] freynaud: k
 [2013-04-02 09:54:41] freynaud: i'll work with him this month
 [2013-04-02 09:54:53] freynaud: at the moment the server is inside the simulator or device
+[2013-04-02 09:55:07] freynaud: so you need to manually start a simulator
+[2013-04-02 09:55:30] freynaud: and if you want 2 simulators on a machine, you need to manually start 2, incrementing the port etc
+[2013-04-02 09:55:51] freynaud: it doesn't work well with grid, the server should take care of that.
+[2013-04-02 09:56:15] lukeis: yeah, there could be a separate 'server' that handles that
+[2013-04-02 09:56:45] lukeis: as a gate-way to the apk server that needs to be installed on the device
+[2013-04-02 09:57:13] freynaud: that's what  i want to do with him when he's in london in 2 weeks
+[2013-04-02 09:57:19] lukeis: not really easy to get around the fact of needing to embed a running server on device/emulator
+[2013-04-02 09:57:36] freynaud: no need
+[2013-04-02 09:57:47] freynaud: all drivers work like that
+[2013-04-02 09:58:03] freynaud: server that wraps, and start something that does most of the work
+[2013-04-02 09:58:20] freynaud: firefox driver has that too. Start firefox with the ext. Then the extension does all
+[2013-04-02 09:58:28] lukeis: yes
+[2013-04-02 09:58:39] freynaud: all commands except start and stop are just fwed
+[2013-04-02 09:58:45] lukeis: yep
+[2013-04-02 09:58:59] lukeis: kind of what I thought too ;)
+[2013-04-02 09:59:25] lukeis: heh, just saw ddary join and then quit #selenium ;)
+[2013-04-02 09:59:52] freynaud: just sent him a mail asking him to join irc
+[2013-04-02 09:59:57] freynaud: might be why :)
