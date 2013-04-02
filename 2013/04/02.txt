@@ -141,3 +141,5 @@
 [2013-04-02 11:39:12] nicegraham_: no idea
 [2013-04-02 11:39:21] nicegraham_: me too
 [2013-04-02 11:39:50] nicegraham_: have a look and see if that's in line with what you were talking about
+[2013-04-02 11:49:05] AutomatedTester: freynaud: sure I can give access
+[2013-04-02 11:49:29] AutomatedTester: freynaud: as I said last week it needed to be done by Friday so hopefully they will accept the changes
