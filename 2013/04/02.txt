@@ -123,3 +123,7 @@
 [2013-04-02 11:00:14] freynaud: major drama upstair, ttyl
 [2013-04-02 11:08:55] nicegraham_, quitting. (Quit: nicegraham_)
 [2013-04-02 11:10:27] nicegraham_, joining. (#ios-driver)
+[2013-04-02 11:21:50] samitbadle: See you guys
+[2013-04-02 11:22:49] nicegraham_: lukeis: I'm getting the same error trying to push to dev branch in the main repo now...
+[2013-04-02 11:23:25] nicegraham_: https://gist.github.com/nicegraham/5294778
+[2013-04-02 11:24:47] lukeis: hmm
