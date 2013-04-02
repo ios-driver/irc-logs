@@ -108,3 +108,15 @@
 [2013-04-02 10:46:23] freynaud: i don't have access
 [2013-04-02 10:46:46] lukeis: AutomatedTester: can you give françois access ^^
 [2013-04-02 10:54:18] freynaud: lukeis: https://gist.github.com/freynaud/5294512
+[2013-04-02 10:55:14] lukeis: ahh, you might need to './go firefox' first…. pain in the ass crazyfun build system
+[2013-04-02 10:56:03] freynaud: lukeis: even go release fails ..
+[2013-04-02 10:56:21] freynaud: UnreachableBrowserException cannot be resolved to a type
+[2013-04-02 10:56:34] lukeis: that seems odd
+[2013-04-02 10:56:45] lukeis: lemme update that branch
+[2013-04-02 10:57:51] freynaud: intelliJ doesn't complain....
+[2013-04-02 10:57:55] freynaud: just crazyfun
+[2013-04-02 10:59:16] lukeis: just force pushed an update to that branch (git pull --rebase)
+[2013-04-02 10:59:22] lukeis: err, still pushing
+[2013-04-02 10:59:34] freynaud: trying a go clean release
+[2013-04-02 10:59:43] lukeis: i will when the push finishes ;)
+[2013-04-02 10:59:59] lukeis: or i'll just open a new tab ;)
