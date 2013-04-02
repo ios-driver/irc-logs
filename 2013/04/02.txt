@@ -152,3 +152,4 @@
 [2013-04-02 12:48:43] nicegraham_, leaving. (#ios-driver)
 [2013-04-02 12:51:33] freynaud, quitting. (Quit: freynaud)
 [2013-04-02 13:10:59] dgrace__, leaving. (#ios-driver)
+[2013-04-02 14:01:28] lukeis, joining. (#ios-driver)
