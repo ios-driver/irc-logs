@@ -10,3 +10,11 @@
 [2013-04-02 08:39:08] smccarthy, joining. (#ios-driver)
 [2013-04-02 08:53:21] lukeis, joining. (#ios-driver)
 [2013-04-02 09:34:36] nicegraham_, joining. (#ios-driver)
+[2013-04-02 09:42:32] freynaud: lukeis: hi
+[2013-04-02 09:42:37] lukeis: hi
+[2013-04-02 09:43:31] freynaud: i looked at jarib errors
+[2013-04-02 09:43:46] freynaud: most seems to be linked to capabilities not returning stuff like JS = true
+[2013-04-02 09:44:01] lukeis: yep
+[2013-04-02 09:44:11] lukeis: masking further errors ;)
+[2013-04-02 09:44:46] samitbadle, joining. (#ios-driver)
+[2013-04-02 09:44:59] lukeis: i munged up my master branch when trying to merge, didn't spend the time to get it worked out to do 0.6.1
