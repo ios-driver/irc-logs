@@ -62,3 +62,17 @@
 [2013-04-02 09:59:25] lukeis: heh, just saw ddary join and then quit #selenium ;)
 [2013-04-02 09:59:52] freynaud: just sent him a mail asking him to join irc
 [2013-04-02 09:59:57] freynaud: might be why :)
+[2013-04-02 10:15:56] nicegraham_: lukeis: yt?
+[2013-04-02 10:16:17] lukeis: yes
+[2013-04-02 10:16:27] nicegraham_: good morning! :)
+[2013-04-02 10:16:55] nicegraham_: dgrace got some of the swipe stuff done today
+[2013-04-02 10:17:04] lukeis: sweet
+[2013-04-02 10:17:07] nicegraham_: it's checked into my brnach
+[2013-04-02 10:17:12] nicegraham_: I've tried to squash it
+[2013-04-02 10:17:23] nicegraham_: but it's not working the way I expect
+[2013-04-02 10:17:30] freynaud: how so ?
+[2013-04-02 10:17:46] nicegraham_: I think he did a rebase from master
+[2013-04-02 10:17:59] nicegraham_: and it seems like there's 2 references to the same commits
+[2013-04-02 10:18:08] nicegraham_: so basically it's messy
+[2013-04-02 10:18:46] nicegraham_: I wanted to pull all the touch action stuff into a single commit for you to review
+[2013-04-02 10:19:12] nicegraham_: https://github.com/nicegraham/ios-driver/commits/master
