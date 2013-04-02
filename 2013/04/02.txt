@@ -76,3 +76,4 @@
 [2013-04-02 10:18:08] nicegraham_: so basically it's messy
 [2013-04-02 10:18:46] nicegraham_: I wanted to pull all the touch action stuff into a single commit for you to review
 [2013-04-02 10:19:12] nicegraham_: https://github.com/nicegraham/ios-driver/commits/master
+[2013-04-02 10:20:14] nicegraham_: pretty much all the commits today are copies of ones from last week…
