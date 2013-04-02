@@ -5,3 +5,4 @@
 [2013-04-02 04:24:55] freynaud: yes
 [2013-04-02 04:53:01] millenium, joining. (#ios-driver)
 [2013-04-02 05:27:56] nicegraham_, joining. (#ios-driver)
+[2013-04-02 07:36:06] millenium, quitting. (Read error: Connection reset by peer)
