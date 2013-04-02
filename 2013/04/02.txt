@@ -148,3 +148,5 @@
 [2013-04-02 12:27:54] dgrace__, joining. (#ios-driver)
 [2013-04-02 12:28:13] lukeis: googling "ios-driver" gets you to that repo instead of the latest
 [2013-04-02 12:28:19] dgrace__: :log
+[2013-04-02 12:46:17] lukeis, quitting. (Quit: Leaving.)
+[2013-04-02 12:48:43] nicegraham_, leaving. (#ios-driver)
