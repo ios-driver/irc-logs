@@ -85,3 +85,16 @@
 [2013-04-02 10:29:32] nicegraham_: then I couldn't push to it either
 [2013-04-02 10:29:39] nicegraham_: kept getting a ref error
 [2013-04-02 10:29:47] nicegraham_: which I couldn't figure out
+[2013-04-02 10:30:20] nicegraham_: I want to push his changes to dev in the main branch
+[2013-04-02 10:30:36] nicegraham_: and then refork from master
+[2013-04-02 10:30:48] nicegraham_: and delete my current fork
+[2013-04-02 10:30:52] nicegraham_: it's in a mess
+[2013-04-02 10:30:55] lukeis: you should have a dev branch in your fork / local copy
+[2013-04-02 10:31:22] nicegraham_: I did
+[2013-04-02 10:31:39] nicegraham_: but then one of the articles I read told me to delete it as part of fixing the issue
+[2013-04-02 10:31:44] nicegraham_: and then it wouldn't let me recreate it...
+[2013-04-02 10:32:30] nicegraham_: I never had this much trouble in svn :)
+[2013-04-02 10:33:43] freynaud: i had plenty of repo corruption with svn
+[2013-04-02 10:33:52] freynaud: i've never lost anything with git so far
+[2013-04-02 10:34:11] nicegraham_: I haven't lost anything, it's true
+[2013-04-02 10:34:15] lukeis: reflog is your friend ;)
