@@ -107,3 +107,4 @@
 [2013-04-02 10:44:27] lukeis: https://docs.google.com/spreadsheet/ccc?key=0Aopu0ajDrd1OdFU0WFBEQ3dPR1lzZ283RzFfSndkN3c#gid=0
 [2013-04-02 10:46:23] freynaud: i don't have access
 [2013-04-02 10:46:46] lukeis: AutomatedTester: can you give françois access ^^
+[2013-04-02 10:54:18] freynaud: lukeis: https://gist.github.com/freynaud/5294512
