@@ -38,3 +38,9 @@
 [2013-04-02 09:49:42] lukeis: i've been working on selendroid the last couple of days
 [2013-04-02 09:49:55] freynaud: how is it ?
 [2013-04-02 09:49:59] lukeis: should get dominik to join irc ;)
+[2013-04-02 09:50:52] lukeis: not bad thus far… i hit a decent blocker, that I think i just figured out and fixed, that I had an element who's viewId was the same as the 'generated' element id's… and so was getting the wrong one out of the cache
+[2013-04-02 09:50:59] lukeis: using UUID now ;)
+[2013-04-02 09:51:44] lukeis: the generated id's were a counter starting at 1 and incrementing :)
+[2013-04-02 09:54:33] freynaud: k
+[2013-04-02 09:54:41] freynaud: i'll work with him this month
+[2013-04-02 09:54:53] freynaud: at the moment the server is inside the simulator or device
