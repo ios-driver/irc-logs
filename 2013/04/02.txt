@@ -105,3 +105,5 @@
 [2013-04-02 10:43:27] freynaud: has he ? he didn't have anything last week
 [2013-04-02 10:43:59] lukeis: he sent out a speadsheet with a minor summary
 [2013-04-02 10:44:27] lukeis: https://docs.google.com/spreadsheet/ccc?key=0Aopu0ajDrd1OdFU0WFBEQ3dPR1lzZ283RzFfSndkN3c#gid=0
+[2013-04-02 10:46:23] freynaud: i don't have access
+[2013-04-02 10:46:46] lukeis: AutomatedTester: can you give françois access ^^
