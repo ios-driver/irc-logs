@@ -297,3 +297,4 @@
 [2013-04-03 16:27:25] lukeis: hehe
 [2013-04-03 16:27:27] jlipps: pretty cool indeed
 [2013-04-03 16:28:05] lukeis: open source build tools ftw!
+[2013-04-03 16:30:31] Hammertime38, quitting. ()
