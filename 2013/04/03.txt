@@ -227,3 +227,14 @@
 [2013-04-03 12:14:50] ios-driver-git: ios-driver/gh-pages f508d34 nicegraham: adding chmod info-plist details
 [2013-04-03 12:14:50] ios-driver-git, leaving. (#ios-driver)
 [2013-04-03 12:14:59] nicegraham: it's on http://ios-driver.github.com/ios-driver/setup.html and safari pages now
+[2013-04-03 12:16:20] lukeis: doesn't look quite right ;)
+[2013-04-03 12:16:32] nicegraham: the width?
+[2013-04-03 12:16:46] lukeis: yeah, it wraps
+[2013-04-03 12:18:11] lukeis: yeah, just changing it from a <code> to a <pre class="prettyprint"> works much better :)
+[2013-04-03 12:18:56] nicegraham: yep :)
+[2013-04-03 12:19:11] nicegraham: the bot should be doing it's thing in 3...2...1
+[2013-04-03 12:19:30] ios-driver-git, joining. (#ios-driver)
+[2013-04-03 12:19:30] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to gh-pages: http://git.io/YthzcQ
+[2013-04-03 12:19:30] ios-driver-git: ios-driver/gh-pages e94d931 nicegraham: fixing wrapping
+[2013-04-03 12:19:30] ios-driver-git, leaving. (#ios-driver)
+[2013-04-03 12:19:54] santiycr: seems like I also need other permissions set
