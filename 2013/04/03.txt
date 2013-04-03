@@ -265,3 +265,4 @@
 [2013-04-03 13:39:52] lukeis: AUXILIARY_KEYS … i really liked watching that test pass… took forever, but was fun
 [2013-04-03 13:48:19] smccarthy, quitting. (Remote host closed the connection)
 [2013-04-03 13:48:54] smccarthy, joining. (#ios-driver)
+[2013-04-03 13:57:48] Hammertime38, joining. (#ios-driver)
