@@ -157,3 +157,9 @@
 [2013-04-03 10:17:02] lukeis: :)
 [2013-04-03 10:17:22] lukeis: that was only 4 months ago?
 [2013-04-03 10:17:36] lukeis: time flies ;)
+[2013-04-03 10:22:37] freynaud: -rw-r--r-- is my /etc/authorization
+[2013-04-03 10:22:57] lukeis: that's fine, it's about the contents of it ;)
+[2013-04-03 10:23:01] nicegraham: same
+[2013-04-03 10:23:13] nicegraham: -rw-r--r--  1 root  wheel  384710 20 Mar 10:13 /etc/authorization
+[2013-04-03 10:24:24] freynaud: lukeis: i'm trying to see if i can change that on travis
+[2013-04-03 10:24:44] lukeis: ah, not without sudoers or root
