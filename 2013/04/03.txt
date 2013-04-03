@@ -113,3 +113,20 @@
 [2013-04-03 10:04:12] lukeis: i had found that already ;) I just can't do anything with it :)
 [2013-04-03 10:04:28] lukeis: oh, success!!!
 [2013-04-03 10:04:30] nicegraham: it's passing now though ;)
+[2013-04-03 10:05:04] lukeis: not doing many tests?
+[2013-04-03 10:05:30] nicegraham: will it allow the simulator tests to run?
+[2013-04-03 10:07:08] freynaud: i commented out the tests
+[2013-04-03 10:07:25] freynaud: to see if it goes to a osx box etv
+[2013-04-03 10:07:54] nicegraham: it's free for open source projects?
+[2013-04-03 10:08:11] lukeis: yes
+[2013-04-03 10:08:23] nicegraham: nicely
+[2013-04-03 10:08:34] freynaud: I'm more concerned about the /etc/authorization file that has to be modified
+[2013-04-03 10:08:35] lukeis: OSX seems to be a beta pilot, that francois is on ;)
+[2013-04-03 10:08:39] freynaud: i think that will be the issue
+[2013-04-03 10:08:57] freynaud: but I talk to travis, they should be able to do that. We just have to file a bug
+[2013-04-03 10:08:58] nicegraham: oh yeah :)
+[2013-04-03 10:09:21] lukeis: do we have docs to do that? or do we do that automatically?
+[2013-04-03 10:09:24] *lukeis forgets'
+[2013-04-03 10:09:37] nicegraham: it's not automatic
+[2013-04-03 10:09:49] nicegraham: that stops the allow access dialog right?
+[2013-04-03 10:09:54] lukeis: i remember doing it on appium… back in the python days ;)
