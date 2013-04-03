@@ -21,3 +21,4 @@
 [2013-04-03 04:54:37] freynaud: inspector is JS + CSS, anyone should be able to do that
 [2013-04-03 04:56:24] AutomatedTester: I'll put hard
 [2013-04-03 04:59:11] freynaud: thx
+[2013-04-03 05:07:34] AutomatedTester: freynaud: spreadsheet has been updated
