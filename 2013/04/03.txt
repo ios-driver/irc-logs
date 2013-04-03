@@ -251,3 +251,7 @@
 [2013-04-03 12:22:36] nicegraham: you can the reasoning there at least
 [2013-04-03 12:23:19] nicegraham: you just need to create the directory it's expecting
 [2013-04-03 12:23:29] nicegraham: and make sure ios-driver can write to it
+[2013-04-03 12:26:42] nicegraham: santycr: looking at your screenshot you should be able to run your app with the latest sdk anyway :)
+[2013-04-03 12:27:02] nicegraham: and you're 8 hours behind me :)
+[2013-04-03 12:27:52] *nicegraham has to do some tidying apparently'
+[2013-04-03 12:27:56] nicegraham: laters all
