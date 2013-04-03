@@ -186,3 +186,11 @@
 [2013-04-03 11:33:22] *lukeis <3 selbot2'
 [2013-04-03 11:33:30] santiycr: ios-driver tries to start safari
 [2013-04-03 11:33:52] santiycr: I'm using 0.6.0
+[2013-04-03 11:41:56] smccarthy2, joining. (#ios-driver)
+[2013-04-03 11:41:56] smccarthy, quitting. (Ping timeout: 245 seconds)
+[2013-04-03 11:42:02] nicegraham: santiycr: are you actually passing CFBundleName?
+[2013-04-03 11:43:37] santiycr: nicegraham:  yup
+[2013-04-03 11:44:22] nicegraham: and you've given TestApp location to ios-driver on launch?
+[2013-04-03 11:44:23] santiycr: I can't confirm it's trying to start safari, but it does fail complaining about being unable to write to the MobileSafari plist
+[2013-04-03 11:44:32] santiycr: yup
+[2013-04-03 11:44:47] nicegraham: and can see it in TestApp in the capabilites on the server in a browser?
