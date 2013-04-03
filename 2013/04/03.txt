@@ -34,3 +34,4 @@
 [2013-04-03 07:02:51] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to travis: http://git.io/oL6mzg
 [2013-04-03 07:02:51] ios-driver-git: ios-driver/travis d90a772 Francois Reynaud: travis settings.
 [2013-04-03 07:02:51] ios-driver-git, leaving. (#ios-driver)
+[2013-04-03 07:49:06] nicegraham: freynaud: hi
