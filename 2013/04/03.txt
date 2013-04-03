@@ -267,3 +267,5 @@
 [2013-04-03 13:48:54] smccarthy, joining. (#ios-driver)
 [2013-04-03 13:57:48] Hammertime38, joining. (#ios-driver)
 [2013-04-03 14:04:37] smccarthy2, joining. (#ios-driver)
+[2013-04-03 14:08:03] smccarthy, quitting. (Ping timeout: 245 seconds)
+[2013-04-03 14:09:34] smccarthy2, quitting. (Remote host closed the connection)
