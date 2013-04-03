@@ -90,3 +90,11 @@
 [2013-04-03 09:44:42] lukeis: freynaud: think you can close ios-driver/ios-driver#9 ? or did you still want to look into it?
 [2013-04-03 09:44:57] freynaud: but I hope it will work
 [2013-04-03 09:44:59] lukeis: #9
+[2013-04-03 09:45:16] lukeis: cool, just checking i made the bot default to the right place ;)
+[2013-04-03 09:46:01] freynaud: closed
+[2013-04-03 09:46:14] freynaud: it will now say : language XYZ isn't supported
+[2013-04-03 09:48:34] freynaud: and there is a test for it :)
+[2013-04-03 09:48:42] freynaud: lukeis: have you used travis ?
+[2013-04-03 09:49:01] lukeis: nope
+[2013-04-03 09:49:41] lukeis: can you give me access to configure the job?
+[2013-04-03 09:49:52] lukeis: i can tinker ;)
