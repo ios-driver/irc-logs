@@ -205,3 +205,6 @@
 [2013-04-03 11:48:32] santiycr: sorry guys, I'll need to investigate more
 [2013-04-03 11:48:50] nicegraham: that's ok - it's probably just the plist isn't editable on the VM
 [2013-04-03 11:49:12] nicegraham: ios-driver may be bombing out when that fails - I can't remember :)
+[2013-04-03 12:02:55] santiycr: hm, ok
+[2013-04-03 12:03:03] santiycr: I'll get that damn plist taken care of first
+[2013-04-03 12:03:14] santiycr: then I'll focus on getting native support in
