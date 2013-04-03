@@ -60,3 +60,4 @@
 [2013-04-03 08:52:17] smccarthy, joining. (#ios-driver)
 [2013-04-03 09:01:20] lukeis, joining. (#ios-driver)
 [2013-04-03 09:07:14] lukeis: thanks for the, um, spam? freynaud ;)
+[2013-04-03 09:12:31] nicegraham: ddary: if I'm running it in intellij I don't need to do the -cp bit surely?
