@@ -11,3 +11,7 @@
 [2013-04-03 03:46:59] freynaud: I have a meeting just now
 [2013-04-03 03:47:04] freynaud: I'll do it after it
 [2013-04-03 04:13:52] freynaud, quitting. (Quit: Page closed)
+[2013-04-03 04:45:38] freynaud, joining. (#ios-driver)
+[2013-04-03 04:45:46] freynaud: AutomatedTester: https://gist.github.com/freynaud/c2e11e9d5ae160bf9114
+[2013-04-03 04:47:24] AutomatedTester: freynaud: skill level
+[2013-04-03 04:47:26] AutomatedTester: hard?
