@@ -58,3 +58,4 @@
 [2013-04-03 08:23:32] ddary: nicegraham: the full command is something like this: java -Dfile.encoding=UTF-8 -cp "selendroid-grid-plugin-1.0.jar:selenium-server-standalone-2.29.0.jar" org.openqa.grid.selenium.GridLauncher -capabilityMatcher org.openqa.selendroid.grid.SelendroidCapabilityMatcher -role hub host 127.0.0.1 -port 4444 -throwOnCapabilityNotPresent false
 [2013-04-03 08:26:13] dgrace_, leaving. (#ios-driver)
 [2013-04-03 08:52:17] smccarthy, joining. (#ios-driver)
+[2013-04-03 09:01:20] lukeis, joining. (#ios-driver)
