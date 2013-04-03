@@ -80,3 +80,5 @@
 [2013-04-03 09:23:19] nicegraham: along with the fact that all comments are by him now... :)
 [2013-04-03 09:23:25] lukeis: yeah
 [2013-04-03 09:23:49] nicegraham: they should offer a mechanism to move them properly
+[2013-04-03 09:34:09] freynaud: lukeis: what spam ?
+[2013-04-03 09:34:27] lukeis: when you moved the issues, i got an email for every comment
