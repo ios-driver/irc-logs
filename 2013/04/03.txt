@@ -109,3 +109,7 @@
 [2013-04-03 09:52:29] freynaud: tomorrow I will delete freynaud/ios-driver
 [2013-04-03 09:52:32] freynaud: and make it a fork
 [2013-04-03 09:52:44] freynaud: I wanted to let one day to people who created the issues
+[2013-04-03 10:03:31] freynaud: https://travis-ci.org/ios-driver/ios-driver
+[2013-04-03 10:04:12] lukeis: i had found that already ;) I just can't do anything with it :)
+[2013-04-03 10:04:28] lukeis: oh, success!!!
+[2013-04-03 10:04:30] nicegraham: it's passing now though ;)
