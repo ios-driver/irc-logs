@@ -261,3 +261,5 @@
 [2013-04-03 12:35:43] santiycr: to avoid timezone issues
 [2013-04-03 12:50:08] smccarthy2, quitting. (Ping timeout: 245 seconds)
 [2013-04-03 12:51:39] smccarthy, joining. (#ios-driver)
+[2013-04-03 13:39:04] lukeis: santiycr: did you see that string i linked you (was that yesterday?) :)
+[2013-04-03 13:39:52] lukeis: AUXILIARY_KEYS … i really liked watching that test pass… took forever, but was fun
