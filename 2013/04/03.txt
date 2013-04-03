@@ -68,3 +68,15 @@
 [2013-04-03 09:18:58] nicegraham: ah, so there's CI now..
 [2013-04-03 09:19:21] lukeis: heh, yeah, i got some emails there too ;)
 [2013-04-03 09:19:47] nicegraham: it's in beta by the looks of it :)
+[2013-04-03 09:20:29] lukeis: i woke up this morning to 50+ new emails in my inbox all from ios-driver / travis ;)
+[2013-04-03 09:21:40] lukeis: nicegraham: so ios-driver 0.6 doesn't work on real devices for apps? I thought it did/would
+[2013-04-03 09:22:09] nicegraham: 0.6 does for native apps anyway... though I haven't tested that claim myself
+[2013-04-03 09:22:38] nicegraham: if you're referring to my comment in that issue... I made that before 0.6
+[2013-04-03 09:22:52] nicegraham: francois ported them all today to the new project
+[2013-04-03 09:22:52] lukeis: ahh :-D
+[2013-04-03 09:22:57] nicegraham: so it's out of whack...
+[2013-04-03 09:23:05] lukeis: yeah, context is lost a bit
+[2013-04-03 09:23:13] lukeis: timestamps and who said what
+[2013-04-03 09:23:19] nicegraham: along with the fact that all comments are by him now... :)
+[2013-04-03 09:23:25] lukeis: yeah
+[2013-04-03 09:23:49] nicegraham: they should offer a mechanism to move them properly
