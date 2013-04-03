@@ -98,3 +98,14 @@
 [2013-04-03 09:49:01] lukeis: nope
 [2013-04-03 09:49:41] lukeis: can you give me access to configure the job?
 [2013-04-03 09:49:52] lukeis: i can tinker ;)
+[2013-04-03 09:51:11] freynaud: i do'nt think so
+[2013-04-03 09:51:17] ios-driver-git, joining. (#ios-driver)
+[2013-04-03 09:51:17] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to travis: http://git.io/_KnClg
+[2013-04-03 09:51:17] ios-driver-git: ios-driver/travis aa748ab Francois Reynaud: using readonly submodule
+[2013-04-03 09:51:17] ios-driver-git, leaving. (#ios-driver)
+[2013-04-03 09:51:19] freynaud: they added me in the beta program
+[2013-04-03 09:51:26] freynaud: i think you need to ask too
+[2013-04-03 09:51:32] freynaud: or I need to git you my password
+[2013-04-03 09:52:29] freynaud: tomorrow I will delete freynaud/ios-driver
+[2013-04-03 09:52:32] freynaud: and make it a fork
+[2013-04-03 09:52:44] freynaud: I wanted to let one day to people who created the issues
