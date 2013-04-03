@@ -165,3 +165,4 @@
 [2013-04-03 10:24:44] lukeis: ah, not without sudoers or root
 [2013-04-03 10:28:28] *lukeis likes that this channel is gather more lurkers ;)'
 [2013-04-03 10:28:40] lukeis: gathering*
+[2013-04-03 10:37:22] nicegraham: I got grid running in my ide with my capability matcher, for posterity: https://gist.github.com/nicegraham/5303393
