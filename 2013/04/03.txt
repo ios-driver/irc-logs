@@ -163,3 +163,5 @@
 [2013-04-03 10:23:13] nicegraham: -rw-r--r--  1 root  wheel  384710 20 Mar 10:13 /etc/authorization
 [2013-04-03 10:24:24] freynaud: lukeis: i'm trying to see if i can change that on travis
 [2013-04-03 10:24:44] lukeis: ah, not without sudoers or root
+[2013-04-03 10:28:28] *lukeis likes that this channel is gather more lurkers ;)'
+[2013-04-03 10:28:40] lukeis: gathering*
