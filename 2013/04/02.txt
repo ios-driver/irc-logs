@@ -158,3 +158,4 @@
 [2013-04-02 17:07:41] smccarthy, quitting. (Remote host closed the connection)
 [2013-04-02 18:18:20] nicegraham, joining. (#ios-driver)
 [2013-04-02 19:38:11] xretsim1, joining. (#ios-driver)
+[2013-04-02 19:43:40] xretsim1, quitting. (Quit: xretsim1)
