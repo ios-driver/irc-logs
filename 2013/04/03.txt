@@ -8,3 +8,5 @@
 [2013-04-03 03:44:37] AutomatedTester: freynaud: had an email from GSoC saying we can update our proposals
 [2013-04-03 03:44:47] AutomatedTester: have you made your relevant changes
 [2013-04-03 03:44:58] AutomatedTester: if not can you do it right now
+[2013-04-03 03:46:59] freynaud: I have a meeting just now
+[2013-04-03 03:47:04] freynaud: I'll do it after it
