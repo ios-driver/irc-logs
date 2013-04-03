@@ -167,3 +167,5 @@
 [2013-04-03 10:28:40] lukeis: gathering*
 [2013-04-03 10:37:22] nicegraham: I got grid running in my ide with my capability matcher, for posterity: https://gist.github.com/nicegraham/5303393
 [2013-04-03 10:43:23] freynaud, quitting. (Ping timeout: 245 seconds)
+[2013-04-03 10:51:32] ddary, quitting. (Quit: ddary)
+[2013-04-03 10:54:13] mgaradi, quitting. (Ping timeout: 245 seconds)
