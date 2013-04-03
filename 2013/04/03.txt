@@ -194,3 +194,14 @@
 [2013-04-03 11:44:23] santiycr: I can't confirm it's trying to start safari, but it does fail complaining about being unable to write to the MobileSafari plist
 [2013-04-03 11:44:32] santiycr: yup
 [2013-04-03 11:44:47] nicegraham: and can see it in TestApp in the capabilites on the server in a browser?
+[2013-04-03 11:45:05] nicegraham: you need to chmod the plist to allow ios-driver to update the plist
+[2013-04-03 11:45:41] nicegraham: ok, it's not actually starting it in the simulator?
+[2013-04-03 11:46:07] nicegraham: the first thing to fix is the plist problem - that may be the cause
+[2013-04-03 11:46:26] nicegraham: it tells you in the console what file to update rights?
+[2013-04-03 11:46:45] santiycr: hm, let me confirm that
+[2013-04-03 11:47:35] nicegraham: lukeis: really need to get that plist documented :)
+[2013-04-03 11:48:21] santiycr: hm, now I can't repro the problem locally
+[2013-04-03 11:48:24] santiycr: only in our vm
+[2013-04-03 11:48:32] santiycr: sorry guys, I'll need to investigate more
+[2013-04-03 11:48:50] nicegraham: that's ok - it's probably just the plist isn't editable on the VM
+[2013-04-03 11:49:12] nicegraham: ios-driver may be bombing out when that fails - I can't remember :)
