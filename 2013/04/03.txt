@@ -47,3 +47,5 @@
 [2013-04-03 08:08:40] nicegraham: you gave me some pointers on debugging it before but I need more guidance
 [2013-04-03 08:08:46] nicegraham: I have the selenium codebase downloaded
 [2013-04-03 08:09:14] nicegraham: so how do I start the grid in the ide specifying my matcher?
+[2013-04-03 08:10:32] freynaud: GridLauncher
+[2013-04-03 08:11:03] freynaud: pass the pram -role hub -capabilityMatcher com.yourcompany.YourMatcher
