@@ -269,3 +269,11 @@
 [2013-04-03 14:04:37] smccarthy2, joining. (#ios-driver)
 [2013-04-03 14:08:03] smccarthy, quitting. (Ping timeout: 245 seconds)
 [2013-04-03 14:09:34] smccarthy2, quitting. (Remote host closed the connection)
+[2013-04-03 15:36:42] santiycr: lukeis:  yeah, awesome test
+[2013-04-03 15:36:53] santiycr: wonder if it passes on appium too
+[2013-04-03 15:36:56] santiycr: prob not
+[2013-04-03 15:37:38] lukeis: does appium in webview use the native keyboard? I didn't think it did… so it'll likely pass
+[2013-04-03 15:38:04] santiycr: not really sure
+[2013-04-03 15:38:16] santiycr: it didn't right when I implemented hybrid support
+[2013-04-03 15:38:19] santiycr: as I used the atoms
+[2013-04-03 15:38:24] santiycr: but they may have added it in
