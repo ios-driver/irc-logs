@@ -36,3 +36,7 @@
 [2013-04-03 07:02:51] ios-driver-git, leaving. (#ios-driver)
 [2013-04-03 07:49:06] nicegraham: freynaud: hi
 [2013-04-03 07:59:30] dgrace_, joining. (#ios-driver)
+[2013-04-03 08:01:16] freynaud: nicegraham: hi
+[2013-04-03 08:01:34] dgrace_: :log
+[2013-04-03 08:02:27] dgrace_: freynaud: he's away from his desk, i'll give him a shout :)
+[2013-04-03 08:02:41] freynaud: k
