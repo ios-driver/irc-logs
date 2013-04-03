@@ -169,3 +169,20 @@
 [2013-04-03 10:43:23] freynaud, quitting. (Ping timeout: 245 seconds)
 [2013-04-03 10:51:32] ddary, quitting. (Quit: ddary)
 [2013-04-03 10:54:13] mgaradi, quitting. (Ping timeout: 245 seconds)
+[2013-04-03 11:31:28] santiycr, joining. (#ios-driver)
+[2013-04-03 11:31:38] santiycr: ohai
+[2013-04-03 11:31:51] lukeis: hi santiycr
+[2013-04-03 11:32:04] santiycr: how are you guys doing?
+[2013-04-03 11:32:30] santiycr: I have some io-sdriver questions :)
+[2013-04-03 11:32:35] lukeis: pretty well i think… i'm personally knee deep in android ;)
+[2013-04-03 11:32:42] santiycr: and ios-driver questions too
+[2013-04-03 11:32:49] lukeis: fire away or better yet… :ask
+[2013-04-03 11:32:49] santiycr: oh fun
+[2013-04-03 11:32:53] lukeis: :-D
+[2013-04-03 11:33:04] santiycr: lol
+[2013-04-03 11:33:07] santiycr: ios-driverbot:  back off
+[2013-04-03 11:33:20] santiycr: so, if I pass the following set of caps:
+[2013-04-03 11:33:22] santiycr: {u'language': u'en', u'simulator': True, u'locale': u'en_US', 'webdriver.remote.quietExceptions': True, u'variation': u'Regular', u'browserName': u'', u'CFBundleName': u'TestApp', u'device': u'iphone', u'timeHack': False}
+[2013-04-03 11:33:22] *lukeis <3 selbot2'
+[2013-04-03 11:33:30] santiycr: ios-driver tries to start safari
+[2013-04-03 11:33:52] santiycr: I'm using 0.6.0
