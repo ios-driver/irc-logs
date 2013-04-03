@@ -130,3 +130,23 @@
 [2013-04-03 10:09:37] nicegraham: it's not automatic
 [2013-04-03 10:09:49] nicegraham: that stops the allow access dialog right?
 [2013-04-03 10:09:54] lukeis: i remember doing it on appium… back in the python days ;)
+[2013-04-03 10:10:01] lukeis: yes
+[2013-04-03 10:10:04] nicegraham: oh appium... :)
+[2013-04-03 10:10:25] mgaradi, joining. (#ios-driver)
+[2013-04-03 10:10:41] lukeis: i might be using it for android automation… if they figure out webviews ;)
+[2013-04-03 10:10:51] freynaud:  the /etc files require sudo
+[2013-04-03 10:10:54] lukeis: but i am certainly using selendroid for now too
+[2013-04-03 10:10:56] lukeis: yes
+[2013-04-03 10:10:57] nicegraham: and they'll allow the chmod of the mobilesafari app?
+[2013-04-03 10:11:21] lukeis: we need that back in the docs btw… it seems to have disappeared
+[2013-04-03 10:11:31] lukeis: chmod of plist in mobile safari
+[2013-04-03 10:11:39] nicegraham: it outputs it in the console though I think...
+[2013-04-03 10:11:59] lukeis: it's not painfully obvious
+[2013-04-03 10:12:14] lukeis: docs can do it too
+[2013-04-03 10:12:35] lukeis: the output recommends something that isn't actually what one needs to do thought
+[2013-04-03 10:12:37] nicegraham: yeah, for sure
+[2013-04-03 10:12:57] nicegraham: also the authorization change too should be documented
+[2013-04-03 10:13:20] nicegraham: I googled when i [quickly] got sick of clicking yes
+[2013-04-03 10:13:31] freynaud: i'll try to copy safari first
+[2013-04-03 10:13:44] freynaud: it may work
+[2013-04-03 10:14:24] lukeis: my instructions on the old appium project: "To avoid a security dialog that can appear when launching your iOS app, you need to modify your /etc/authorization file. You can do this by settings the element following <allow-root> under <key>system.privilege.taskport</key> to <true/>"
