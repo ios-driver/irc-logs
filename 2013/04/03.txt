@@ -290,3 +290,10 @@
 [2013-04-03 16:00:22] jlipps, joining. (#ios-driver)
 [2013-04-03 16:24:22] lukeis: hi guys
 [2013-04-03 16:24:58] *lukeis notes how many saucers are now in here'
+[2013-04-03 16:26:13] jlipps: saucebomb
+[2013-04-03 16:26:17] lukeis: admc / jlipps / santiycr:  this is pretty cool https://travis-ci.org/ios-driver/ios-driver/   françois is on their pilot program for travis builds on osx… he just got it 'working' today
+[2013-04-03 16:27:05] admc: Using worker: saucelabs-mac.worker.travis-ci.org:travis-mac_osx-15
+[2013-04-03 16:27:16] lukeis: ;)
+[2013-04-03 16:27:25] lukeis: hehe
+[2013-04-03 16:27:27] jlipps: pretty cool indeed
+[2013-04-03 16:28:05] lukeis: open source build tools ftw!
