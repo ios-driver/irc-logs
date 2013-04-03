@@ -22,3 +22,5 @@
 [2013-04-03 04:56:24] AutomatedTester: I'll put hard
 [2013-04-03 04:59:11] freynaud: thx
 [2013-04-03 05:07:34] AutomatedTester: freynaud: spreadsheet has been updated
+[2013-04-03 05:31:45] freynaud: very cool
+[2013-04-03 05:33:16] AutomatedTester: freynaud: I had an email from them overnight asking us to make it better and I think I have done all they asked
