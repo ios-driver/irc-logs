@@ -220,3 +220,10 @@
 [2013-04-03 12:08:19] nicegraham: I'm getting that bloody reference again
 [2013-04-03 12:08:30] nicegraham: because it's a new branch I guess
 [2013-04-03 12:08:43] nicegraham: what do you do to switch to the gh-pages branch?
+[2013-04-03 12:10:11] lukeis: git checkout gh-pages ?
+[2013-04-03 12:10:57] nicegraham: you don't need origin/gh-pages?
+[2013-04-03 12:14:49] ios-driver-git, joining. (#ios-driver)
+[2013-04-03 12:14:49] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to gh-pages: http://git.io/N7y0pQ
+[2013-04-03 12:14:50] ios-driver-git: ios-driver/gh-pages f508d34 nicegraham: adding chmod info-plist details
+[2013-04-03 12:14:50] ios-driver-git, leaving. (#ios-driver)
+[2013-04-03 12:14:59] nicegraham: it's on http://ios-driver.github.com/ios-driver/setup.html and safari pages now
