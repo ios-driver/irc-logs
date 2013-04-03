@@ -150,3 +150,10 @@
 [2013-04-03 10:13:31] freynaud: i'll try to copy safari first
 [2013-04-03 10:13:44] freynaud: it may work
 [2013-04-03 10:14:24] lukeis: my instructions on the old appium project: "To avoid a security dialog that can appear when launching your iOS app, you need to modify your /etc/authorization file. You can do this by settings the element following <allow-root> under <key>system.privilege.taskport</key> to <true/>"
+[2013-04-03 10:15:19] nicegraham: it could probably be more step-by-step :)
+[2013-04-03 10:15:33] *nicegraham can't remember how to do that ^'
+[2013-04-03 10:16:16] lukeis: we had a python script to do it too… appium ported that to javascript / grunt
+[2013-04-03 10:16:59] lukeis: https://github.com/hugs/appium-old/blob/master/authorize.py
+[2013-04-03 10:17:02] lukeis: :)
+[2013-04-03 10:17:22] lukeis: that was only 4 months ago?
+[2013-04-03 10:17:36] lukeis: time flies ;)
