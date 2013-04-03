@@ -3,3 +3,8 @@
 [2013-04-03 01:23:25] freynaud, quitting. (Quit: freynaud)
 [2013-04-03 01:25:03] freynaud, joining. (#ios-driver)
 [2013-04-03 01:37:11] freynaud, quitting. (Quit: freynaud)
+[2013-04-03 03:41:16] freynaud, joining. (#ios-driver)
+[2013-04-03 03:41:43] freynaud: Good morning
+[2013-04-03 03:44:37] AutomatedTester: freynaud: had an email from GSoC saying we can update our proposals
+[2013-04-03 03:44:47] AutomatedTester: have you made your relevant changes
+[2013-04-03 03:44:58] AutomatedTester: if not can you do it right now
