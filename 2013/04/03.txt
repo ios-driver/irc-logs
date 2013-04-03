@@ -238,3 +238,16 @@
 [2013-04-03 12:19:30] ios-driver-git: ios-driver/gh-pages e94d931 nicegraham: fixing wrapping
 [2013-04-03 12:19:30] ios-driver-git, leaving. (#ios-driver)
 [2013-04-03 12:19:54] santiycr: seems like I also need other permissions set
+[2013-04-03 12:20:09] nicegraham: the exiled sdks?
+[2013-04-03 12:20:16] santiycr: yup
+[2013-04-03 12:20:18] santiycr: https://www.evernote.com/shard/s35/sh/5e3276c8-e83c-4f93-b482-6f1c397f0289/adcead11dbe51cbb792cf0c8577c9844/deep/0/Screenshot%204/3/13%2012:20%20PM.jpg
+[2013-04-03 12:20:25] nicegraham: you can ignore that
+[2013-04-03 12:20:42] nicegraham: unless you want to use and older sdk
+[2013-04-03 12:21:01] santiycr: hm, you never know
+[2013-04-03 12:22:04] lukeis: i get that 'warning' all the time… and nothing bad happens to me
+[2013-04-03 12:22:08] samitbadle, quitting. (Ping timeout: 245 seconds)
+[2013-04-03 12:22:12] nicegraham: there's details on both in the FAQ in the project
+[2013-04-03 12:22:12] nicegraham: https://gist.github.com/nicegraham/5304406
+[2013-04-03 12:22:36] nicegraham: you can the reasoning there at least
+[2013-04-03 12:23:19] nicegraham: you just need to create the directory it's expecting
+[2013-04-03 12:23:29] nicegraham: and make sure ios-driver can write to it
