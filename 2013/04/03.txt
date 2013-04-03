@@ -255,3 +255,7 @@
 [2013-04-03 12:27:02] nicegraham: and you're 8 hours behind me :)
 [2013-04-03 12:27:52] *nicegraham has to do some tidying apparently'
 [2013-04-03 12:27:56] nicegraham: laters all
+[2013-04-03 12:35:24] santiycr: nicegraham:  heh
+[2013-04-03 12:35:25] santiycr: tks
+[2013-04-03 12:35:40] santiycr: our vms are set to GMT
+[2013-04-03 12:35:43] santiycr: to avoid timezone issues
