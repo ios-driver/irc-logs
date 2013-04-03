@@ -15,3 +15,7 @@
 [2013-04-03 04:45:46] freynaud: AutomatedTester: https://gist.github.com/freynaud/c2e11e9d5ae160bf9114
 [2013-04-03 04:47:24] AutomatedTester: freynaud: skill level
 [2013-04-03 04:47:26] AutomatedTester: hard?
+[2013-04-03 04:54:11] freynaud: AutomatedTester: depends.
+[2013-04-03 04:54:17] freynaud: inspector is easy
+[2013-04-03 04:54:21] freynaud: the rest is harder
+[2013-04-03 04:54:37] freynaud: inspector is JS + CSS, anyone should be able to do that
