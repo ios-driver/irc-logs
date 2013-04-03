@@ -208,3 +208,15 @@
 [2013-04-03 12:02:55] santiycr: hm, ok
 [2013-04-03 12:03:03] santiycr: I'll get that damn plist taken care of first
 [2013-04-03 12:03:14] santiycr: then I'll focus on getting native support in
+[2013-04-03 12:06:57] nicegraham: chmod 666 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Applications/MobileSafari.app/Info.plist
+[2013-04-03 12:07:05] nicegraham: should do it
+[2013-04-03 12:07:17] nicegraham: replace 6.1 with whichever sdk you have
+[2013-04-03 12:07:29] lukeis: just replace it with a * ;)
+[2013-04-03 12:07:39] nicegraham: oh yeah?!
+[2013-04-03 12:07:44] lukeis: and need 'sudo' at the front
+[2013-04-03 12:07:49] nicegraham: everyday's a school day :)
+[2013-04-03 12:07:56] lukeis: :-D
+[2013-04-03 12:07:58] nicegraham: cool, good to know... I'm adding it to the wiki
+[2013-04-03 12:08:19] nicegraham: I'm getting that bloody reference again
+[2013-04-03 12:08:30] nicegraham: because it's a new branch I guess
+[2013-04-03 12:08:43] nicegraham: what do you do to switch to the gh-pages branch?
