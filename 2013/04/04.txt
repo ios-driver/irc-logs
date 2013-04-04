@@ -81,3 +81,5 @@
 [2013-04-04 11:23:36] nicegraham_: just want you to validate it before we go too far down a rabbit hole
 [2013-04-04 11:24:00] lukeis: OMGZ it suxorz!
 [2013-04-04 11:24:06] *lukeis hasn't looked yet still'
+[2013-04-04 11:29:13] lukeis: nicegraham_: i'm code reviewing now… if you couldn't tell ;)
+[2013-04-04 11:29:31] nicegraham_: I could - thx
