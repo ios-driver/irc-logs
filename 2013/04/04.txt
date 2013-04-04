@@ -85,3 +85,15 @@
 [2013-04-04 11:29:31] nicegraham_: I could - thx
 [2013-04-04 11:33:29] nicegraham_: lukies: scrollhandler is removed in a subsequent commit
 [2013-04-04 11:33:39] lukeis: ok
+[2013-04-04 11:35:03] lukeis: nicegraham_: looks pretty good… only big problem is I see no tests ;)
+[2013-04-04 11:35:37] nicegraham_: yeah, I have a task on our dev teams current sprint to create us a sample app with all the controls we need
+[2013-04-04 11:35:53] lukeis: cool
+[2013-04-04 11:36:04] nicegraham_: we'll use that to fully exercise the commands
+[2013-04-04 11:36:09] nicegraham_: and unit test against
+[2013-04-04 11:36:20] nicegraham_: it will also help us develop faster to be honest
+[2013-04-04 11:37:37] nicegraham_: he's done some more work in the last couple of days - it would be cool to have a Skype call maybe to discuss some of the finer points?
+[2013-04-04 11:37:54] nicegraham_: would you be available some time next week?
+[2013-04-04 11:38:19] lukeis: i think so
+[2013-04-04 11:38:42] lukeis: early morning my time (so late in the work day for you) will work for me
+[2013-04-04 11:38:49] nicegraham_: sounds good
+[2013-04-04 11:39:25] nicegraham_: any day better than others?
