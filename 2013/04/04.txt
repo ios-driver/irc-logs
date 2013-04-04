@@ -20,3 +20,22 @@
 [2013-04-04 10:58:06] nicegraham_: I've been in meetings pretty constantly the last 2 days so no proper work done either
 [2013-04-04 10:59:15] lukeis: boo
 [2013-04-04 10:59:40] lukeis: just had my weeks work pushed to selendroid ;)
+[2013-04-04 11:00:01] nicegraham_: cool
+[2013-04-04 11:00:06] lukeis: dominikdary/selendroid#16
+[2013-04-04 11:00:10] nicegraham_: that's what you're using obviously
+[2013-04-04 11:00:31] lukeis: i liked my title for that PR ;)
+[2013-04-04 11:00:31] nicegraham_: ha, nice work bot
+[2013-04-04 11:00:55] nicegraham_: tis good
+[2013-04-04 11:01:10] nicegraham_: what are the main differences between selendroid and appium?
+[2013-04-04 11:01:23] lukeis: older version of android support + webviews
+[2013-04-04 11:01:32] lukeis: two musts for me ;)
+[2013-04-04 11:01:37] jlipps: nicegraham: selendroid uses instruments, appium uses uiautomator
+[2013-04-04 11:01:43] jlipps: different feature sets, different device support
+[2013-04-04 11:01:44] nicegraham_: no web views on appium?
+[2013-04-04 11:01:46] lukeis: and that ^
+[2013-04-04 11:01:53] jlipps: though selendroid integration is on the roadmap for appium
+[2013-04-04 11:02:47] lukeis: selendroid follows a nice principle of appium… doesn't require you to 'modify' your app
+[2013-04-04 11:03:14] lukeis: just makes you sign your app with your debug cert ;)
+[2013-04-04 11:03:28] nicegraham_: that's better alright
+[2013-04-04 11:03:54] nicegraham_: having to compile in libraries causes friction
+[2013-04-04 11:04:34] lukeis: you also have to know what package/class name the app uses for the main activity (android term)
