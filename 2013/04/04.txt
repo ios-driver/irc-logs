@@ -116,3 +116,17 @@
 [2013-04-04 12:43:48] freynaud, quitting. (Client Quit)
 [2013-04-04 12:44:27] freynaud, joining. (#ios-driver)
 [2013-04-04 12:44:30] freynaud: Hi
+[2013-04-04 12:45:04] freynaud: lukeis: not staying, i started the day a  3:30 this am, i'm tired
+[2013-04-04 12:45:11] lukeis: ok ;)
+[2013-04-04 12:45:32] lukeis: at some point in the near future i want a brain dump on all things you know about trying to get mobileSafari running on device
+[2013-04-04 12:46:03] lukeis: i want to spend some effort there personally
+[2013-04-04 12:46:29] freynaud: the wkrdp works
+[2013-04-04 12:46:37] freynaud: instruments doesn't
+[2013-04-04 12:47:20] lukeis: that's what i understood at a high level… more indepth of what has been tried is what i will want
+[2013-04-04 12:47:23] lukeis: maybe tomorrow ;)
+[2013-04-04 12:47:46] freynaud: tomorrow i work on chrome
+[2013-04-04 12:47:56] lukeis: ok
+[2013-04-04 12:48:04] freynaud: 17-19 i should work with libimobile
+[2013-04-04 12:48:23] freynaud: that's the best hope for mobilesafari
+[2013-04-04 12:48:46] freynaud: using a custom instruments might remove some of the current restrictions
+[2013-04-04 12:49:36] freynaud, quitting. (Quit: freynaud)
