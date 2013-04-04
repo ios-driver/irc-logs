@@ -72,3 +72,12 @@
 [2013-04-04 11:16:37] *lukeis doesn't do time well'
 [2013-04-04 11:16:48] nicegraham_: the little hand
 [2013-04-04 11:18:03] ddary, leaving. (#ios-driver)
+[2013-04-04 11:21:27] nicegraham_: lukeis: have you had any chance to look at the advanced action stuff darragh committed?
+[2013-04-04 11:21:41] lukeis: nope
+[2013-04-04 11:22:07] lukeis: i am only a droid
+[2013-04-04 11:22:26] nicegraham_: you're not the droid we're looking for…
+[2013-04-04 11:22:40] *lukeis moving along'
+[2013-04-04 11:22:49] nicegraham_: :)
+[2013-04-04 11:23:36] nicegraham_: just want you to validate it before we go too far down a rabbit hole
+[2013-04-04 11:24:00] lukeis: OMGZ it suxorz!
+[2013-04-04 11:24:06] *lukeis hasn't looked yet still'
