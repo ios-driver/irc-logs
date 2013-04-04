@@ -39,3 +39,20 @@
 [2013-04-04 11:03:28] nicegraham_: that's better alright
 [2013-04-04 11:03:54] nicegraham_: having to compile in libraries causes friction
 [2013-04-04 11:04:34] lukeis: you also have to know what package/class name the app uses for the main activity (android term)
+[2013-04-04 11:05:49] nicegraham_: right now iOS is our focus but android will come down the line too - probably towards the end of the year
+[2013-04-04 11:06:42] jlipps: another benefit of uiautomator is that you can automate the entire device, any app, any activity
+[2013-04-04 11:06:56] jlipps: in the context of your test, not just the app you've signed for instruments
+[2013-04-04 11:07:07] jlipps: so it's kind of apples and oranges
+[2013-04-04 11:07:41] nicegraham_: ok, so you could run tests across multiple apps if you needed
+[2013-04-04 11:07:43] lukeis: yes, uiautomator is very cool in that regard… just the lacking of webview support is a major oversight in it
+[2013-04-04 11:07:49] jlipps: yeah
+[2013-04-04 11:08:03] jlipps: webview support is a huge bummer. though i'm not done exploring on that front :-)
+[2013-04-04 11:08:19] lukeis: jlipps: have you talked to simon stewart about what FB has done with their wrapper for UIAutomator?
+[2013-04-04 11:08:29] nicegraham_: it's technically more difficult with uiautomator?
+[2013-04-04 11:08:42] jlipps: nicegraham:  it's not there at all in uiautomator
+[2013-04-04 11:08:49] jlipps: but neither is it in iOS's uiautomation
+[2013-04-04 11:08:54] jlipps: and Life Found A Way
+[2013-04-04 11:08:58] lukeis: ;)
+[2013-04-04 11:09:14] lukeis: light-bulbs at mobiletestsummit found the way ;)
+[2013-04-04 11:09:32] jlipps: lukeis i haven't talked to simon, no. i'm quite interested though!
+[2013-04-04 11:09:55] nicegraham_: fb seem to have all the cool toys! when are we getting multi simulators?! :)
