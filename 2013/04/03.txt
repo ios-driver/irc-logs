@@ -304,3 +304,5 @@
 [2013-04-03 19:18:00] admc, quitting. (Quit: Leaving.)
 [2013-04-03 19:19:00] nicegraham, quitting. (Ping timeout: 260 seconds)
 [2013-04-03 19:19:17] nicegraham, joining. (#ios-driver)
+[2013-04-03 19:51:57] smccarthy, joining. (#ios-driver)
+[2013-04-03 19:54:54] freynaud, quitting. (Quit: freynaud)
