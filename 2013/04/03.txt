@@ -311,3 +311,5 @@
 [2013-04-03 23:07:27] admc, joining. (#ios-driver)
 [2013-04-03 23:21:53] ddary, joining. (#ios-driver)
 [2013-04-03 23:23:52] millenium, joining. (#ios-driver)
+[2013-04-03 23:27:25] santiycr, joining. (#ios-driver)
+[2013-04-03 23:28:03] santiycr, quitting. (Client Quit)
