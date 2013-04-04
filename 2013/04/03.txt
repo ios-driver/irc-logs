@@ -301,3 +301,6 @@
 [2013-04-03 16:43:14] lukeis, quitting. (Ping timeout: 252 seconds)
 [2013-04-03 18:23:02] freynaud, joining. (#ios-driver)
 [2013-04-03 18:51:31] jlipps, quitting. (Quit: Leaving.)
+[2013-04-03 19:18:00] admc, quitting. (Quit: Leaving.)
+[2013-04-03 19:19:00] nicegraham, quitting. (Ping timeout: 260 seconds)
+[2013-04-03 19:19:17] nicegraham, joining. (#ios-driver)
