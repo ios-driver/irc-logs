@@ -83,3 +83,5 @@
 [2013-04-04 11:24:06] *lukeis hasn't looked yet still'
 [2013-04-04 11:29:13] lukeis: nicegraham_: i'm code reviewing now… if you couldn't tell ;)
 [2013-04-04 11:29:31] nicegraham_: I could - thx
+[2013-04-04 11:33:29] nicegraham_: lukies: scrollhandler is removed in a subsequent commit
+[2013-04-04 11:33:39] lukeis: ok
