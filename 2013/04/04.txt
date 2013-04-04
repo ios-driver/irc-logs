@@ -62,3 +62,13 @@
 [2013-04-04 11:12:13] nicegraham_: yeah, they certainly are - it's a great thing if they open source the results
 [2013-04-04 11:12:48] lukeis: they will it looks like, just they aren't doing it prematurely… they're waiting for it to be 'stable' before doing so
 [2013-04-04 11:12:51] nicegraham_: I can't wait to run 20 simulators on a powerful mac and give a demo…
+[2013-04-04 11:15:28] jlipps: what timezone is simon in? london still?
+[2013-04-04 11:15:41] lukeis: often, i believe
+[2013-04-04 11:15:58] lukeis: he'll be −1 hour next week (in germany)
+[2013-04-04 11:16:11] nicegraham_: +1 hour
+[2013-04-04 11:16:14] lukeis: he's talking at droidconf
+[2013-04-04 11:16:17] lukeis: eh
+[2013-04-04 11:16:26] nicegraham_: they're ahead of us :)
+[2013-04-04 11:16:37] *lukeis doesn't do time well'
+[2013-04-04 11:16:48] nicegraham_: the little hand
+[2013-04-04 11:18:03] ddary, leaving. (#ios-driver)
