@@ -109,3 +109,5 @@
 [2013-04-04 12:17:05] nicegraham_: yeah, that's fine too...
 [2013-04-04 12:17:20] nicegraham_: shockingly I'm nicegraham on there too :)
 [2013-04-04 12:18:00] admc, quitting. (Quit: Leaving.)
+[2013-04-04 12:20:10] nicegraham_, leaving. (#ios-driver)
+[2013-04-04 12:22:33] smccarthy, quitting. (Remote host closed the connection)
