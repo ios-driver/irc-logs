@@ -11,3 +11,12 @@
 [2013-04-04 10:09:38] ddary, joining. (#ios-driver)
 [2013-04-04 10:43:17] admc, joining. (#ios-driver)
 [2013-04-04 10:54:46] nicegraham_, joining. (#ios-driver)
+[2013-04-04 10:55:13] nicegraham_: g'day all
+[2013-04-04 10:55:20] lukeis: hiya
+[2013-04-04 10:55:58] nicegraham_: hey there
+[2013-04-04 10:56:04] lukeis: i wish i had two of me… one to work on ios the other to work on android
+[2013-04-04 10:56:10] *lukeis currently only working on android'
+[2013-04-04 10:56:43] nicegraham_: :(
+[2013-04-04 10:58:06] nicegraham_: I've been in meetings pretty constantly the last 2 days so no proper work done either
+[2013-04-04 10:59:15] lukeis: boo
+[2013-04-04 10:59:40] lukeis: just had my weeks work pushed to selendroid ;)
