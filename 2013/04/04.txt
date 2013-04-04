@@ -6,3 +6,4 @@
 [2013-04-04 08:50:20] freynaud, leaving. (#ios-driver)
 [2013-04-04 08:50:54] jlipps, joining. (#ios-driver)
 [2013-04-04 08:51:46] millenium, quitting. (Read error: Connection reset by peer)
+[2013-04-04 09:24:55] lukeis, joining. (#ios-driver)
