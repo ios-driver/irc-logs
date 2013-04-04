@@ -307,3 +307,4 @@
 [2013-04-03 19:51:57] smccarthy, joining. (#ios-driver)
 [2013-04-03 19:54:54] freynaud, quitting. (Quit: freynaud)
 [2013-04-03 20:34:20] santiycr, quitting. (Quit: Leaving.)
+[2013-04-03 22:03:37] smccarthy, quitting. (Remote host closed the connection)
