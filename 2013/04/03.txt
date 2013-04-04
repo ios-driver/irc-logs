@@ -299,3 +299,4 @@
 [2013-04-03 16:28:05] lukeis: open source build tools ftw!
 [2013-04-03 16:30:31] Hammertime38, quitting. ()
 [2013-04-03 16:43:14] lukeis, quitting. (Ping timeout: 252 seconds)
+[2013-04-03 18:23:02] freynaud, joining. (#ios-driver)
