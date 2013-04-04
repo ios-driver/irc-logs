@@ -56,3 +56,9 @@
 [2013-04-04 11:09:14] lukeis: light-bulbs at mobiletestsummit found the way ;)
 [2013-04-04 11:09:32] jlipps: lukeis i haven't talked to simon, no. i'm quite interested though!
 [2013-04-04 11:09:55] nicegraham_: fb seem to have all the cool toys! when are we getting multi simulators?! :)
+[2013-04-04 11:10:18] lukeis: you should! I wish i was in the same time zone and could get his ear more consistently… i'd get more info about it from him ;)
+[2013-04-04 11:10:54] lukeis: FB seems to be investing engineering effort into the test automation problem
+[2013-04-04 11:11:01] lukeis: it's a good thing ;)
+[2013-04-04 11:12:13] nicegraham_: yeah, they certainly are - it's a great thing if they open source the results
+[2013-04-04 11:12:48] lukeis: they will it looks like, just they aren't doing it prematurely… they're waiting for it to be 'stable' before doing so
+[2013-04-04 11:12:51] nicegraham_: I can't wait to run 20 simulators on a powerful mac and give a demo…
