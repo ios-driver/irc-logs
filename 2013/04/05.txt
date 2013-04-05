@@ -58,3 +58,4 @@
 [2013-04-05 12:10:02] freynaud, leaving. (#ios-driver)
 [2013-04-05 12:12:58] santiycr, quitting. (Quit: Leaving.)
 [2013-04-05 12:29:06] lukeis, joining. (#ios-driver)
+[2013-04-05 12:48:41] Hammertime38, joining. (#ios-driver)
