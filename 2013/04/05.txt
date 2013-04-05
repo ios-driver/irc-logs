@@ -64,3 +64,5 @@
 [2013-04-05 13:50:44] admc, joining. (#ios-driver)
 [2013-04-05 13:51:56] freynaud, quitting. (Quit: freynaud)
 [2013-04-05 15:10:41] lukeis, quitting. (Quit: Leaving.)
+[2013-04-05 15:40:45] Hammertime38, quitting. (Remote host closed the connection)
+[2013-04-05 15:42:07] Hammertime38, joining. (#ios-driver)
