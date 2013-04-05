@@ -15,3 +15,13 @@
 [2013-04-05 08:40:12] lukeis, joining. (#ios-driver)
 [2013-04-05 09:05:44] smccarthy, joining. (#ios-driver)
 [2013-04-05 10:18:16] danielwh, joining. (#ios-driver)
+[2013-04-05 10:45:40] dgrace, joining. (#ios-driver)
+[2013-04-05 10:47:20] dgrace: :lukeis hey Luke, you there?
+[2013-04-05 10:47:38] lukeis: hi, yes
+[2013-04-05 10:48:01] dgrace: thanks for reviewing that stuff for me yesterday!
+[2013-04-05 10:48:16] dgrace: i'm looking at some other stuff today and wanted your opinion if thats cool?
+[2013-04-05 10:48:26] lukeis: no worries… sure
+[2013-04-05 10:49:00] dgrace: i am implementing some of the touch stuff from uiatarget
+[2013-04-05 10:49:22] dgrace: they don't match very well with the existing touchscreen stuff in the json wire protocol
+[2013-04-05 10:49:48] dgrace: so i have implemented some of that stuff today as part of the iosaugmenter
+[2013-04-05 10:49:54] dgrace: reckon that is ok?
