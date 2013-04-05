@@ -144,3 +144,5 @@
 [2013-04-04 18:10:18] lukeis, quitting. (Quit: Leaving.)
 [2013-04-04 18:19:21] jlipps, joining. (#ios-driver)
 [2013-04-04 18:33:46] smccarthy, joining. (#ios-driver)
+[2013-04-04 18:46:33] jlipps1, joining. (#ios-driver)
+[2013-04-04 18:48:21] jlipps, quitting. (Ping timeout: 245 seconds)
