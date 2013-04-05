@@ -54,3 +54,4 @@
 [2013-04-05 11:37:01] danielwh, quitting. (Quit: Leaving)
 [2013-04-05 11:42:25] dgrace, leaving. (#ios-driver)
 [2013-04-05 12:01:06] lukeis, quitting. (Quit: Leaving.)
+[2013-04-05 12:07:49] freynaud, joining. (#ios-driver)
