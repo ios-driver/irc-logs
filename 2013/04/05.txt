@@ -9,3 +9,5 @@
 [2013-04-05 06:31:45] ddary, leaving. (#ios-driver)
 [2013-04-05 07:28:54] dgrace, joining. (#ios-driver)
 [2013-04-05 07:58:30] freynaud, joining. (#ios-driver)
+[2013-04-05 08:17:08] freynaud, quitting. (Ping timeout: 245 seconds)
+[2013-04-05 08:18:52] dgrace, leaving. (#ios-driver)
