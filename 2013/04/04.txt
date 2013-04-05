@@ -136,3 +136,7 @@
 [2013-04-04 14:41:25] smccarthy, joining. (#ios-driver)
 [2013-04-04 15:29:39] admc, joining. (#ios-driver)
 [2013-04-04 17:29:53] smccarthy, quitting. (Remote host closed the connection)
+[2013-04-04 17:32:37] santiycr1, joining. (#ios-driver)
+[2013-04-04 17:32:38] santiycr, quitting. (Read error: Connection reset by peer)
+[2013-04-04 17:34:05] admc, quitting. (Quit: Leaving.)
+[2013-04-04 17:34:22] admc, joining. (#ios-driver)
