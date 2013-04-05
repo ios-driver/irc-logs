@@ -33,3 +33,10 @@
 [2013-04-05 10:53:17] dgrace: the drag and pinching stuff dont match up with existing json well
 [2013-04-05 10:53:29] lukeis: yeah, we may need to extend it
 [2013-04-05 10:54:54] lukeis: endpoint becomes something like:  /session/:sessionId/-ios-driver-pinch-close
+[2013-04-05 10:55:37] lukeis: danielwh / AutomatedTester: is that the correct interpretation of the extending spec? ^
+[2013-04-05 10:56:19] lukeis: might want to have it just be -ios-pinch-close
+[2013-04-05 10:57:17] dgrace: is there much involved in getting the wire protocol extended?
+[2013-04-05 10:57:31] lukeis: nope, it's 'vendor' specific
+[2013-04-05 10:58:04] lukeis: so, we can do that, but we may want to have a discussion about it with the exact endpoints with our appium friends (jlipps)
+[2013-04-05 10:58:41] dgrace: cool
+[2013-04-05 10:59:19] dgrace: for the time being (our qa dept crying out for this).. i'll add it to the augumenter..
