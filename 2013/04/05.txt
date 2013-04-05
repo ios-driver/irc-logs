@@ -40,3 +40,14 @@
 [2013-04-05 10:58:04] lukeis: so, we can do that, but we may want to have a discussion about it with the exact endpoints with our appium friends (jlipps)
 [2013-04-05 10:58:41] dgrace: cool
 [2013-04-05 10:59:19] dgrace: for the time being (our qa dept crying out for this).. i'll add it to the augumenter..
+[2013-04-05 11:00:03] jlipps: yeah let's add that to the discussion we'll have about endpoints
+[2013-04-05 11:00:13] lukeis: yep :)
+[2013-04-05 11:00:37] lukeis: dgrace: what's the name of the class you're using that implements those on the client side?
+[2013-04-05 11:01:14] lukeis: dgrace: keep in mind we should have something for not just java… python / ruby / c#  (or at least documented on how they can 'work-around' by calling the endpoint directly)
+[2013-04-05 11:01:18] santiycr, joining. (#ios-driver)
+[2013-04-05 11:02:12] dgrace: i created an 'IOSTouchScreen' interface in the augumenter with the IOSCapability - IOS_TOUCH_SCREEN
+[2013-04-05 11:02:27] lukeis: ok :) that should work for now
+[2013-04-05 11:02:52] dgrace: and it's implemented in RemoteIOSDriver
+[2013-04-05 11:03:05] dgrace: kinda copied the other ones :)
+[2013-04-05 11:03:22] lukeis: yeah, that's fine :) it's just Java specific
+[2013-04-05 11:04:47] dgrace: nice one. I'll continue how i am going so. Will keep in mind the other bindings and will probably be back for advice :)
