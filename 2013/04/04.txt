@@ -142,3 +142,4 @@
 [2013-04-04 17:34:22] admc, joining. (#ios-driver)
 [2013-04-04 17:47:33] jlipps, quitting. (Quit: Leaving.)
 [2013-04-04 18:10:18] lukeis, quitting. (Quit: Leaving.)
+[2013-04-04 18:19:21] jlipps, joining. (#ios-driver)
