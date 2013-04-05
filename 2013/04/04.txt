@@ -152,3 +152,4 @@
 [2013-04-04 20:18:30] ddary, joining. (#ios-driver)
 [2013-04-04 20:18:35] ddary, quitting. (Client Quit)
 [2013-04-04 20:19:44] ddary, joining. (#ios-driver)
+[2013-04-04 21:42:31] smccarthy, quitting. (Remote host closed the connection)
