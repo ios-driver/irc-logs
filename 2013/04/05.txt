@@ -60,3 +60,6 @@
 [2013-04-05 12:29:06] lukeis, joining. (#ios-driver)
 [2013-04-05 12:48:41] Hammertime38, joining. (#ios-driver)
 [2013-04-05 13:26:57] freynaud, joining. (#ios-driver)
+[2013-04-05 13:50:40] santiycr, joining. (#ios-driver)
+[2013-04-05 13:50:44] admc, joining. (#ios-driver)
+[2013-04-05 13:51:56] freynaud, quitting. (Quit: freynaud)
