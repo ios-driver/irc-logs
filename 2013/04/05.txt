@@ -4,3 +4,4 @@
 [2013-04-05 02:20:06] millenium, quitting. (Read error: Connection reset by peer)
 [2013-04-05 02:44:00] freynaud, quitting. (Ping timeout: 264 seconds)
 [2013-04-05 03:35:45] ddary, quitting. (Quit: ddary)
+[2013-04-05 05:55:09] ddary, joining. (#ios-driver)
