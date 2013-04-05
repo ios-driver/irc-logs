@@ -51,3 +51,4 @@
 [2013-04-05 11:03:05] dgrace: kinda copied the other ones :)
 [2013-04-05 11:03:22] lukeis: yeah, that's fine :) it's just Java specific
 [2013-04-05 11:04:47] dgrace: nice one. I'll continue how i am going so. Will keep in mind the other bindings and will probably be back for advice :)
+[2013-04-05 11:37:01] danielwh, quitting. (Quit: Leaving)
