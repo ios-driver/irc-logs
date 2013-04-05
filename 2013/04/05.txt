@@ -13,3 +13,4 @@
 [2013-04-05 08:18:52] dgrace, leaving. (#ios-driver)
 [2013-04-05 08:25:28] jlipps, joining. (#ios-driver)
 [2013-04-05 08:40:12] lukeis, joining. (#ios-driver)
+[2013-04-05 09:05:44] smccarthy, joining. (#ios-driver)
