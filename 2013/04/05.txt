@@ -74,3 +74,5 @@
 [2013-04-05 18:57:35] admc, joining. (#ios-driver)
 [2013-04-05 18:57:35] AutomatedTester, joining. (#ios-driver)
 [2013-04-05 19:09:24] smccarthy, joining. (#ios-driver)
+[2013-04-05 20:58:48] smccarthy, quitting. (Remote host closed the connection)
+[2013-04-05 20:59:35] admc, quitting. (Quit: Leaving.)
