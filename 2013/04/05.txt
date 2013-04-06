@@ -73,3 +73,4 @@
 [2013-04-05 18:06:19] Hammertime38, quitting. (Remote host closed the connection)
 [2013-04-05 18:57:35] admc, joining. (#ios-driver)
 [2013-04-05 18:57:35] AutomatedTester, joining. (#ios-driver)
+[2013-04-05 19:09:24] smccarthy, joining. (#ios-driver)
