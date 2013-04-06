@@ -77,3 +77,4 @@
 [2013-04-05 20:58:48] smccarthy, quitting. (Remote host closed the connection)
 [2013-04-05 20:59:35] admc, quitting. (Quit: Leaving.)
 [2013-04-05 21:06:53] santiycr, quitting. (Quit: Leaving.)
+[2013-04-05 21:11:36] millenium, joining. (#ios-driver)
