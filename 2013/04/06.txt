@@ -26,3 +26,4 @@
 [2013-04-06 19:16:26] admc, quitting. (Client Quit)
 [2013-04-06 21:23:02] jlipps, joining. (#ios-driver)
 [2013-04-06 21:37:48] jlipps, quitting. (Quit: Leaving.)
+[2013-04-06 23:36:17] ddary, joining. (#ios-driver)
