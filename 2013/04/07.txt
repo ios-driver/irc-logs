@@ -12,3 +12,4 @@
 [2013-04-07 14:52:59] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to gh-pages: http://git.io/By-WCg
 [2013-04-07 14:52:59] ios-driver-git: ios-driver/gh-pages 6e989b4 nicegraham: updating link to todo list
 [2013-04-07 14:52:59] ios-driver-git, leaving. (#ios-driver)
+[2013-04-07 15:09:17] admc, joining. (#ios-driver)
