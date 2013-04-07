@@ -1,1 +1,4 @@
 [2013-04-07 10:42:09] admc, joining. (#ios-driver)
+[2013-04-07 10:46:24] ddary, joining. (#ios-driver)
+[2013-04-07 10:47:46] ddary, quitting. (Client Quit)
+[2013-04-07 10:48:30] nicegraham: :note freynaud Is this correct, you need to archive before you can use an application? https://github.com/ios-driver/ios-driver/issues/3#issuecomment-16019546
