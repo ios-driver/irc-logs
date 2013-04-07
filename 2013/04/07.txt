@@ -8,3 +8,7 @@
 [2013-04-07 14:36:57] ios-driver-git: ios-driver/gh-pages 8cd4b4c nicegraham: adding faq page
 [2013-04-07 14:36:57] ios-driver-git: ios-driver/gh-pages e5663ec nicegraham: adding info on real devices and a faq page which needs more work
 [2013-04-07 14:36:57] ios-driver-git, leaving. (#ios-driver)
+[2013-04-07 14:52:59] ios-driver-git, joining. (#ios-driver)
+[2013-04-07 14:52:59] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to gh-pages: http://git.io/By-WCg
+[2013-04-07 14:52:59] ios-driver-git: ios-driver/gh-pages 6e989b4 nicegraham: updating link to todo list
+[2013-04-07 14:52:59] ios-driver-git, leaving. (#ios-driver)
