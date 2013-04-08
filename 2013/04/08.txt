@@ -27,3 +27,4 @@
 [2013-04-08 01:29:10] ios-driver-git: ios-driver/gh-pages 39cf6e7 nicegraham: adding more faq info
 [2013-04-08 01:29:10] ios-driver-git: ios-driver/gh-pages 534403e nicegraham: adding another faq [exiledskds]
 [2013-04-08 01:29:10] ios-driver-git, leaving. (#ios-driver)
+[2013-04-08 01:59:50] admc, quitting. (Quit: Leaving.)
