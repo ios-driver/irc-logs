@@ -58,3 +58,8 @@
 [2013-04-08 08:38:47] nicegraham: freynaud: sorry, I was away
 [2013-04-08 08:38:58] nicegraham: yeah, it has the same resolution as the ipad 2
 [2013-04-08 08:39:38] nicegraham: is that the criteria, resolution?
+[2013-04-08 08:45:09] nicegraham: I had a chat with the mobile test team here
+[2013-04-08 08:45:44] nicegraham: and they would test the ipad mini seperately because there have been os releases for it which have not been available for other ipads
+[2013-04-08 08:45:58] nicegraham: of course that could be managed from a iosVersion perspective
+[2013-04-08 08:46:49] nicegraham: it just seems a bit inconclusive if we're not specifying which model of a device is available
+[2013-04-08 08:49:25] lukeis, joining. (#ios-driver)
