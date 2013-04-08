@@ -75,3 +75,4 @@
 [2013-04-08 09:19:03] millenium, quitting. (Quit: ~ Trillian - www.trillian.im ~)
 [2013-04-08 10:00:24] lukeis, quitting. (Quit: Leaving.)
 [2013-04-08 10:04:50] santiycr, joining. (#ios-driver)
+[2013-04-08 10:13:02] lukeis, joining. (#ios-driver)
