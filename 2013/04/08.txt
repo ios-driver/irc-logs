@@ -38,3 +38,5 @@
 [2013-04-08 05:53:56] freynaud: no
 [2013-04-08 05:54:36] freynaud: but I don't have an iPad mini, so I can't check
 [2013-04-08 05:54:48] freynaud: I'll need to buy some devices
+[2013-04-08 05:55:06] freynaud: but I'm redoing the inspector first this week, while I'm off in France
+[2013-04-08 05:56:14] nicegraham__: do you want to point me in the direction of what info you need to parse and I can provide it / implement the ipad mini portion?
