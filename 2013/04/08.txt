@@ -1,2 +1,4 @@
 [2013-04-08 00:16:40] nicegraham: good morning all
 [2013-04-08 00:38:58] freynaud: Good morning
+[2013-04-08 00:42:42] nicegraham: freynaud: I added some guidance on real devices based on that github issue
+[2013-04-08 00:43:08] nicegraham: I want to confirm that you need to archive before you can test against the app?
