@@ -45,3 +45,9 @@
 [2013-04-08 06:48:15] nicegraham: I think the device should take precedence here, what do you think?
 [2013-04-08 06:57:31] nicegraham: it also means there are capabilities like deviceAlt, sdkAlt which the application may support but the device clearly doesn't - should those still be present when it's a physical device?
 [2013-04-08 07:09:09] nicegraham: the version returned is iPad2,5 which is iPad Mini Wifi only, should I add a reference to the DeviceVariation for it?
+[2013-04-08 07:55:20] ios-driver-git, joining. (#ios-driver)
+[2013-04-08 07:55:20] ios-driver-git: [ios-driver] nicegraham pushed 3 new commits to dev: http://git.io/mMvyRg
+[2013-04-08 07:55:20] ios-driver-git: ios-driver/dev 289ca51 nicegraham: updating html renderer to provide better output for physical devices
+[2013-04-08 07:55:20] ios-driver-git: ios-driver/dev 8e4fd29 nicegraham: switching the merge order when the device is physical
+[2013-04-08 07:55:20] ios-driver-git: ios-driver/dev b2315cb nicegraham: updating to include ipad mini as variation  [iPad2,5]
+[2013-04-08 07:55:20] ios-driver-git, leaving. (#ios-driver)
