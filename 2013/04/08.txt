@@ -92,3 +92,6 @@
 [2013-04-08 14:40:19] Hammertime38: The GetAttribute method returns a string in C#. GetAttribute("rect") uses the protocol to construct a json object, but it must be dynamic because C# converts it to a dictionary.  So the method result is always "System.Collections.Generic.Dictionary`2[System.String,System.Object]"
 [2013-04-08 14:43:44] smccarthy, quitting. (Remote host closed the connection)
 [2013-04-08 15:19:14] lukeis: Hammertime38: by the way, in case you didn't see. The Selenium project got rejected for it's application for GSoC
+[2013-04-08 15:21:07] santiycr1, joining. (#ios-driver)
+[2013-04-08 15:21:30] Hammertime38: yup :\ better luck next year. Still have a lot to work on over the summer nonetheless
+[2013-04-08 15:24:05] santiycr, quitting. (Ping timeout: 248 seconds)
