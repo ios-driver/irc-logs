@@ -13,3 +13,12 @@
 [2013-04-08 00:50:11] nicegraham: so if I have the app deployed on a device and have the application file in the ~/applications folder it will work without archiving?
 [2013-04-08 00:54:42] freynaud: yes
 [2013-04-08 00:54:57] freynaud: if it doesn't, it's probably because it's not built properly
+[2013-04-08 00:55:17] nicegraham: ok, but in the absence of that archiving the deployed application achieves the same thing@
+[2013-04-08 00:55:18] freynaud: it needs to use the provisioning profile installed on the device, and the correct entitilments
+[2013-04-08 00:55:19] nicegraham: ?
+[2013-04-08 00:55:24] freynaud: yes
+[2013-04-08 00:55:41] freynaud: i think the documentation will say : if you're not sure, use archive
+[2013-04-08 00:55:55] freynaud: if you understand the types of builds et, you can skip that
+[2013-04-08 00:55:58] nicegraham: right, the docs as they stand tell the person to archive
+[2013-04-08 00:56:08] nicegraham: which will get them up and running
+[2013-04-08 00:56:21] nicegraham: it could probably use more details on the other options
