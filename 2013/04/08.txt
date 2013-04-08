@@ -63,3 +63,10 @@
 [2013-04-08 08:45:58] nicegraham: of course that could be managed from a iosVersion perspective
 [2013-04-08 08:46:49] nicegraham: it just seems a bit inconclusive if we're not specifying which model of a device is available
 [2013-04-08 08:49:25] lukeis, joining. (#ios-driver)
+[2013-04-08 08:51:06] lukeis: nice to see :)  i am liking selendroid a little more right now… if only for the point i don't need to bundle the testing server code/jar with my app
+[2013-04-08 08:51:22] nicegraham: yeah, that's nice alright
+[2013-04-08 08:51:30] nicegraham: just wanted to to give toks some props
+[2013-04-08 08:51:31] nicegraham: :)
+[2013-04-08 08:52:10] lukeis: yeah, and here I directed toks to appdriver initially ;)
+[2013-04-08 08:52:54] nicegraham: I know
+[2013-04-08 08:53:14] nicegraham: your boy came good :)
