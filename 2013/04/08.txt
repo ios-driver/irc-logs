@@ -55,3 +55,6 @@
 [2013-04-08 08:20:56] freynaud: nicegraham: is there a difference for that ?
 [2013-04-08 08:21:04] freynaud: the simulator doesn't even offer it
 [2013-04-08 08:21:12] freynaud: it's the same resolution as the regular ipad
+[2013-04-08 08:38:47] nicegraham: freynaud: sorry, I was away
+[2013-04-08 08:38:58] nicegraham: yeah, it has the same resolution as the ipad 2
+[2013-04-08 08:39:38] nicegraham: is that the criteria, resolution?
