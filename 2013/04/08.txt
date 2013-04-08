@@ -32,3 +32,9 @@
 [2013-04-08 05:46:07] ios-driver-git: [ios-driver] freynaud created inspector (+1 new commit): http://git.io/1qcGkw
 [2013-04-08 05:46:07] ios-driver-git: ios-driver/inspector f59fcaa Francois Reynaud: adding some mocks for the new inspector
 [2013-04-08 05:46:07] ios-driver-git, leaving. (#ios-driver)
+[2013-04-08 05:50:49] nicegraham__, joining. (#ios-driver)
+[2013-04-08 05:51:54] nicegraham, quitting. (Ping timeout: 264 seconds)
+[2013-04-08 05:52:11] nicegraham__: freynaud: I have a ipad mini connected but on /status it lists the device as iphone - is that expected?
+[2013-04-08 05:53:56] freynaud: no
+[2013-04-08 05:54:36] freynaud: but I don't have an iPad mini, so I can't check
+[2013-04-08 05:54:48] freynaud: I'll need to buy some devices
