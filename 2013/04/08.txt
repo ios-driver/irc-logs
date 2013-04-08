@@ -10,3 +10,6 @@
 [2013-04-08 00:47:53] freynaud: if you have it installed, you need to copy it from the ddeviced
 [2013-04-08 00:48:28] nicegraham: I built/ran it using the profile option in xcode which deployed it to the device
 [2013-04-08 00:48:37] freynaud: and copy = archive > backup the archive
+[2013-04-08 00:50:11] nicegraham: so if I have the app deployed on a device and have the application file in the ~/applications folder it will work without archiving?
+[2013-04-08 00:54:42] freynaud: yes
+[2013-04-08 00:54:57] freynaud: if it doesn't, it's probably because it's not built properly
