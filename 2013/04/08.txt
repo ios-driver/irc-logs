@@ -41,3 +41,5 @@
 [2013-04-08 05:55:06] freynaud: but I'm redoing the inspector first this week, while I'm off in France
 [2013-04-08 05:56:14] nicegraham__: do you want to point me in the direction of what info you need to parse and I can provide it / implement the ipad mini portion?
 [2013-04-08 06:02:21] nicegraham__, changing nick to nicegraham.
+[2013-04-08 06:47:46] nicegraham: freynaud: looking at the code the problem is when the device capabilities are merged with the app capabilities, the app caps are being given precedence and so although the device lists ipad InternationalMountains lists iphone and that's what status is returning
+[2013-04-08 06:48:15] nicegraham: I think the device should take precedence here, what do you think?
