@@ -16,3 +16,4 @@
 [2013-04-07 15:15:32] admc, quitting. (Quit: Leaving.)
 [2013-04-07 20:41:27] admc, joining. (#ios-driver)
 [2013-04-07 23:16:05] freynaud, joining. (#ios-driver)
+[2013-04-07 23:57:11] millenium, joining. (#ios-driver)
