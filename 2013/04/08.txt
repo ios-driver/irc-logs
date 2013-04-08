@@ -44,3 +44,4 @@
 [2013-04-08 06:47:46] nicegraham: freynaud: looking at the code the problem is when the device capabilities are merged with the app capabilities, the app caps are being given precedence and so although the device lists ipad InternationalMountains lists iphone and that's what status is returning
 [2013-04-08 06:48:15] nicegraham: I think the device should take precedence here, what do you think?
 [2013-04-08 06:57:31] nicegraham: it also means there are capabilities like deviceAlt, sdkAlt which the application may support but the device clearly doesn't - should those still be present when it's a physical device?
+[2013-04-08 07:09:09] nicegraham: the version returned is iPad2,5 which is iPad Mini Wifi only, should I add a reference to the DeviceVariation for it?
