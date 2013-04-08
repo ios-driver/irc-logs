@@ -14,3 +14,4 @@
 [2013-04-07 14:52:59] ios-driver-git, leaving. (#ios-driver)
 [2013-04-07 15:09:17] admc, joining. (#ios-driver)
 [2013-04-07 15:15:32] admc, quitting. (Quit: Leaving.)
+[2013-04-07 20:41:27] admc, joining. (#ios-driver)
