@@ -2,3 +2,11 @@
 [2013-04-08 00:38:58] freynaud: Good morning
 [2013-04-08 00:42:42] nicegraham: freynaud: I added some guidance on real devices based on that github issue
 [2013-04-08 00:43:08] nicegraham: I want to confirm that you need to archive before you can test against the app?
+[2013-04-08 00:45:02] freynaud: you don't
+[2013-04-08 00:45:45] nicegraham: hmm
+[2013-04-08 00:46:06] nicegraham: ok, any idea why it didn't work prior to me archiving?#
+[2013-04-08 00:47:28] freynaud: you need the .iap from somewhere
+[2013-04-08 00:47:42] freynaud: if you build it correctly, you can use that
+[2013-04-08 00:47:53] freynaud: if you have it installed, you need to copy it from the ddeviced
+[2013-04-08 00:48:28] nicegraham: I built/ran it using the profile option in xcode which deployed it to the device
+[2013-04-08 00:48:37] freynaud: and copy = archive > backup the archive
