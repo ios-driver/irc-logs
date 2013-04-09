@@ -97,3 +97,8 @@
 [2013-04-08 15:24:05] santiycr, quitting. (Ping timeout: 248 seconds)
 [2013-04-08 16:01:35] lukeis, quitting. (Quit: Leaving.)
 [2013-04-08 17:10:39] Hammertime38, quitting. (Remote host closed the connection)
+[2013-04-08 18:02:48] Mohan, joining. (#ios-driver)
+[2013-04-08 18:03:06] Mohan: Hi folks
+[2013-04-08 18:03:11] Mohan, changing nick to Guest19376.
+[2013-04-08 18:04:13] Guest19376: I have a question about starting an ios driver with an app on the real device
+[2013-04-08 18:04:33] Guest19376: where can we find the app build path to specify for a real device?
