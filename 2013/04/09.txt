@@ -46,3 +46,4 @@
 [2013-04-09 14:41:45] ios-driver-git, joining. (#ios-driver)
 [2013-04-09 14:41:45] ios-driver-git: [ios-driver] LegNeato opened pull request #11: Fix server start up errors with some locales (master...master)  http://git.io/BkGBCQ
 [2013-04-09 14:41:45] ios-driver-git, leaving. (#ios-driver)
+[2013-04-09 15:03:04] Hammertime38, quitting. (Remote host closed the connection)
