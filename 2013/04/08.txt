@@ -125,3 +125,9 @@
 [2013-04-08 20:54:53] jlipps, quitting. (Ping timeout: 240 seconds)
 [2013-04-08 22:46:00] ddary, joining. (#ios-driver)
 [2013-04-08 22:59:02] ddary, leaving. (#ios-driver)
+[2013-04-08 23:52:24] nicegraham: :help
+[2013-04-08 23:52:41] lukeis: there's no helping you nicegraham ;)
+[2013-04-08 23:52:55] nicegraham: :docs
+[2013-04-08 23:53:05] nicegraham: haha, I didn't spot you there
+[2013-04-08 23:53:08] nicegraham: this is a late one!
+[2013-04-08 23:54:00] lukeis: yeah, this is what happens when the wife has an evening out… even after she gets back, i can't put down the computer and she's now asleep ;)
