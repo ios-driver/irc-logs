@@ -16,3 +16,4 @@
 [2013-04-09 08:24:13] lukeis: hiya nicegraham… eating some breakfast, i'll be ready to chat in a couple min
 [2013-04-09 08:24:40] nicegraham: cool, we're ready to go whenever :)
 [2013-04-09 08:39:24] lukeis: http://lists.w3.org/Archives/Public/public-browser-tools-testing/
+[2013-04-09 08:46:54] smccarthy, joining. (#ios-driver)
