@@ -42,3 +42,4 @@
 [2013-04-09 14:18:06] Hammertime38, joining. (#ios-driver)
 [2013-04-09 14:28:38] santiycr, joining. (#ios-driver)
 [2013-04-09 14:31:09] Hammertime38: :log
+[2013-04-09 14:39:37] ddary, quitting. (Quit: ddary)
