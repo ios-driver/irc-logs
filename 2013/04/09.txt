@@ -19,3 +19,4 @@
 [2013-04-09 08:46:54] smccarthy, joining. (#ios-driver)
 [2013-04-09 08:50:11] lukeis: http://host:port/session/somekey/moz/extension
 [2013-04-09 08:51:12] lukeis:  /session/:sessionId/element/:id/ios/scroll
+[2013-04-09 08:56:01] lukeis, quitting. (Quit: Leaving.)
