@@ -34,3 +34,4 @@
 [2013-04-09 12:02:07] admc, quitting. (Quit: Leaving.)
 [2013-04-09 12:02:33] ddary, joining. (#ios-driver)
 [2013-04-09 13:11:09] mach6, joining. (#ios-driver)
+[2013-04-09 13:20:36] smccarthy, quitting. (Ping timeout: 256 seconds)
