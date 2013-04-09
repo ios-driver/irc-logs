@@ -3,3 +3,4 @@
 [2013-04-09 00:27:01] admc, joining. (#ios-driver)
 [2013-04-09 01:08:26] santiycr, joining. (#ios-driver)
 [2013-04-09 01:19:25] ddary, joining. (#ios-driver)
+[2013-04-09 01:27:18] santiycr, quitting. (Quit: Leaving.)
