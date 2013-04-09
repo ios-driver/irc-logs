@@ -102,3 +102,4 @@
 [2013-04-08 18:03:11] Mohan, changing nick to Guest19376.
 [2013-04-08 18:04:13] Guest19376: I have a question about starting an ios driver with an app on the real device
 [2013-04-08 18:04:33] Guest19376: where can we find the app build path to specify for a real device?
+[2013-04-08 18:31:43] Guest19376, quitting. (Ping timeout: 245 seconds)
