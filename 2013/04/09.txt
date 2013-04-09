@@ -43,3 +43,6 @@
 [2013-04-09 14:28:38] santiycr, joining. (#ios-driver)
 [2013-04-09 14:31:09] Hammertime38: :log
 [2013-04-09 14:39:37] ddary, quitting. (Quit: ddary)
+[2013-04-09 14:41:45] ios-driver-git, joining. (#ios-driver)
+[2013-04-09 14:41:45] ios-driver-git: [ios-driver] LegNeato opened pull request #11: Fix server start up errors with some locales (master...master)  http://git.io/BkGBCQ
+[2013-04-09 14:41:45] ios-driver-git, leaving. (#ios-driver)
