@@ -7,3 +7,5 @@
 [2013-04-09 01:31:59] ddary, quitting. (Quit: ddary)
 [2013-04-09 02:20:34] dgrace, joining. (#ios-driver)
 [2013-04-09 03:03:02] admc, quitting. (Quit: Leaving.)
+[2013-04-09 03:40:49] ddary, joining. (#ios-driver)
+[2013-04-09 03:44:36] ddary, quitting. (Read error: Connection reset by peer)
