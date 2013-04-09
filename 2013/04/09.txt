@@ -48,3 +48,4 @@
 [2013-04-09 14:41:45] ios-driver-git, leaving. (#ios-driver)
 [2013-04-09 15:03:04] Hammertime38, quitting. (Remote host closed the connection)
 [2013-04-09 15:06:18] mach6, quitting. (Ping timeout: 245 seconds)
+[2013-04-09 15:10:31] Hammertime38, joining. (#ios-driver)
