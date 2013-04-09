@@ -55,3 +55,6 @@
 [2013-04-09 16:08:57] mohan_: trying on a real device for testing
 [2013-04-09 16:09:01] mohan_: 0:18:054 WARNING DefaultCommandListener.stderr  Instruments Trace Error : Failed to start trace.
 [2013-04-09 16:09:17] mohan_: just wanted to know what's causing this
+[2013-04-09 16:23:30] smccarthy, quitting. (Remote host closed the connection)
+[2013-04-09 16:24:09] smccarthy, joining. (#ios-driver)
+[2013-04-09 16:24:09] smccarthy, quitting. (Remote host closed the connection)
