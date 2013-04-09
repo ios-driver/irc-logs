@@ -24,3 +24,5 @@
 [2013-04-09 09:15:58] ddary, joining. (#ios-driver)
 [2013-04-09 09:20:33] ddary, quitting. (Client Quit)
 [2013-04-09 09:39:18] smccarthy, quitting. (Ping timeout: 245 seconds)
+[2013-04-09 10:02:36] lukeis1, joining. (#ios-driver)
+[2013-04-09 10:03:20] lukeis, quitting. (Ping timeout: 245 seconds)
