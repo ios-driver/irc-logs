@@ -11,3 +11,4 @@
 [2013-04-09 03:44:36] ddary, quitting. (Read error: Connection reset by peer)
 [2013-04-09 03:46:14] ddary, joining. (#ios-driver)
 [2013-04-09 03:46:53] ddary, quitting. (Client Quit)
+[2013-04-09 08:07:15] jlipps, joining. (#ios-driver)
