@@ -105,3 +105,5 @@
 [2013-04-08 18:31:43] Guest19376, quitting. (Ping timeout: 245 seconds)
 [2013-04-08 19:09:57] admc, quitting. (Quit: Leaving.)
 [2013-04-08 19:30:18] lukeis, joining. (#ios-driver)
+[2013-04-08 19:59:13] jlipps, quitting. (Quit: Leaving.)
+[2013-04-08 19:59:30] santiycr1, quitting. (Quit: Leaving.)
