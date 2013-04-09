@@ -59,3 +59,4 @@
 [2013-04-09 16:24:09] smccarthy, joining. (#ios-driver)
 [2013-04-09 16:24:09] smccarthy, quitting. (Remote host closed the connection)
 [2013-04-09 16:25:08] smccarthy, joining. (#ios-driver)
+[2013-04-09 16:36:48] jlipps, quitting. (Quit: Leaving.)
