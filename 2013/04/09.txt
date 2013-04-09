@@ -39,3 +39,4 @@
 [2013-04-09 13:58:37] ddary, leaving. (#ios-driver)
 [2013-04-09 13:59:58] admc, joining. (#ios-driver)
 [2013-04-09 14:10:54] ddary, joining. (#ios-driver)
+[2013-04-09 14:18:06] Hammertime38, joining. (#ios-driver)
