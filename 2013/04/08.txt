@@ -104,3 +104,4 @@
 [2013-04-08 18:04:33] Guest19376: where can we find the app build path to specify for a real device?
 [2013-04-08 18:31:43] Guest19376, quitting. (Ping timeout: 245 seconds)
 [2013-04-08 19:09:57] admc, quitting. (Quit: Leaving.)
+[2013-04-08 19:30:18] lukeis, joining. (#ios-driver)
