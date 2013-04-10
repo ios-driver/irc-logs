@@ -69,3 +69,4 @@
 [2013-04-09 20:21:02] lukeis: heya santiycr, was forwarded the email about ipad, not sure I understand what the problem is. have time to chat? (or let me know if tomorrow is better?)
 [2013-04-09 20:25:17] lukeis: santiycr: 'browserName': 'iPad'  is a convenience mapping of capabilities, the "real" ones it wants are 'CFBundleName': 'Safari'   and 'device' : 'ipad'    if we use those capabilities instead will it work?
 [2013-04-09 21:08:17] santiycr, quitting. (Quit: Leaving.)
+[2013-04-09 22:38:50] lukeis, quitting. (Quit: Leaving.)
