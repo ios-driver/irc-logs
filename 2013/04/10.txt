@@ -77,3 +77,7 @@
 [2013-04-10 15:30:22] Hammertime38, quitting. (Remote host closed the connection)
 [2013-04-10 15:42:02] Hammertime38, joining. (#ios-driver)
 [2013-04-10 16:00:30] lukeis, quitting. (Quit: Leaving.)
+[2013-04-10 16:06:57] Hammertime38: still getting that pesky "Instruments Trace Error : Failed to start trace."  After archiving/trying to connect to the device, the app is deleted from the device and the error is thrown
+[2013-04-10 16:06:58] santiycr, quitting. (Quit: Leaving.)
+[2013-04-10 16:07:36] Hammertime38: running it manually on the command line works after a fresh profile build using the actual build directory
+[2013-04-10 16:09:48] santiycr, joining. (#ios-driver)
