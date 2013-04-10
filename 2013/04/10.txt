@@ -2,3 +2,4 @@
 [2013-04-10 01:14:11] ios-driver-git: [ios-driver] nicegraham deleted revert_pull_request at e33e7a1: http://git.io/S4QR9A
 [2013-04-10 01:14:11] ios-driver-git, leaving. (#ios-driver)
 [2013-04-10 03:05:25] admc, quitting. (Quit: Leaving.)
+[2013-04-10 06:46:57] ddary, joining. (#ios-driver)
