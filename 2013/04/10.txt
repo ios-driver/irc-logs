@@ -62,3 +62,14 @@
 [2013-04-10 14:49:16] Hammertime38, joining. (#ios-driver)
 [2013-04-10 14:50:28] santiycr, quitting. (Quit: Leaving.)
 [2013-04-10 15:04:39] Hammertime38, quitting. (Remote host closed the connection)
+[2013-04-10 15:05:22] lukeis, joining. (#ios-driver)
+[2013-04-10 15:05:52] santiycr, joining. (#ios-driver)
+[2013-04-10 15:06:21] lukeis: hey santiycr
+[2013-04-10 15:07:57] santiycr: hey lukeis
+[2013-04-10 15:07:59] santiycr: skype?
+[2013-04-10 15:08:05] santiycr: hangout?
+[2013-04-10 15:08:28] lukeis: uh, hangout… i don't like skype ;)
+[2013-04-10 15:09:27] santiycr: sounds good
+[2013-04-10 15:09:35] *lukeis creating one now'
+[2013-04-10 15:09:40] santiycr: cool
+[2013-04-10 15:09:42] santiycr: opening chrome
