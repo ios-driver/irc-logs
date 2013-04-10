@@ -14,3 +14,5 @@
 [2013-04-10 10:00:02] mach6, joining. (#ios-driver)
 [2013-04-10 10:04:47] jlipps, joining. (#ios-driver)
 [2013-04-10 10:15:00] lukeis, joining. (#ios-driver)
+[2013-04-10 10:16:29] lukeis: heh, nicegraham
+[2013-04-10 10:16:43] *lukeis just read your reply to the webdriver thread'
