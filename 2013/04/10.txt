@@ -35,3 +35,11 @@
 [2013-04-10 11:47:27] nicegraham: hmm, will have to sort that out
 [2013-04-10 11:47:50] nicegraham: I'll get back to tests when I finish the capability matcher
 [2013-04-10 11:48:14] lukeis: key differences are we implement "native" key presses and touch/click instead of synthetic via javascript (we also support that)
+[2013-04-10 11:51:21] Hammertime38, joining. (#ios-driver)
+[2013-04-10 11:52:32] lukeis: nicegraham: appium supports hybrid ;)
+[2013-04-10 11:52:41] nicegraham: oh well
+[2013-04-10 11:53:02] nicegraham: but it doesn't on android then?
+[2013-04-10 11:53:30] lukeis: try not to make assumptions about it… best to just be honest and say I don't know what appium supports (let the appium crowd chime in)
+[2013-04-10 11:53:52] jlipps, joining. (#ios-driver)
+[2013-04-10 11:54:17] nicegraham: yeah fair enough, I honestly didn't think it did
+[2013-04-10 11:54:36] lukeis: WebView support in android with UIAutomator  is still under investigation I believe ;)   (the man who just entered knows more likely)
