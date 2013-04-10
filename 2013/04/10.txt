@@ -73,3 +73,4 @@
 [2013-04-10 15:09:35] *lukeis creating one now'
 [2013-04-10 15:09:40] santiycr: cool
 [2013-04-10 15:09:42] santiycr: opening chrome
+[2013-04-10 15:11:52] Hammertime38, joining. (#ios-driver)
