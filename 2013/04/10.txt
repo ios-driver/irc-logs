@@ -11,3 +11,5 @@
 [2013-04-10 09:18:14] millenium, quitting. (Read error: Connection reset by peer)
 [2013-04-10 09:29:16] lukeis, joining. (#ios-driver)
 [2013-04-10 09:59:19] lukeis, quitting. (Quit: Leaving.)
+[2013-04-10 10:00:02] mach6, joining. (#ios-driver)
+[2013-04-10 10:04:47] jlipps, joining. (#ios-driver)
