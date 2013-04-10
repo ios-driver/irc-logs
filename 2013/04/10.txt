@@ -43,3 +43,7 @@
 [2013-04-10 11:53:52] jlipps, joining. (#ios-driver)
 [2013-04-10 11:54:17] nicegraham: yeah fair enough, I honestly didn't think it did
 [2013-04-10 11:54:36] lukeis: WebView support in android with UIAutomator  is still under investigation I believe ;)   (the man who just entered knows more likely)
+[2013-04-10 11:55:04] nicegraham: that's what I had in my head
+[2013-04-10 11:55:13] smccarthy, quitting. (Remote host closed the connection)
+[2013-04-10 11:56:25] smccarthy, joining. (#ios-driver)
+[2013-04-10 11:59:37] admc, joining. (#ios-driver)
