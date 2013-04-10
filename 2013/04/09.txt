@@ -70,3 +70,4 @@
 [2013-04-09 20:25:17] lukeis: santiycr: 'browserName': 'iPad'  is a convenience mapping of capabilities, the "real" ones it wants are 'CFBundleName': 'Safari'   and 'device' : 'ipad'    if we use those capabilities instead will it work?
 [2013-04-09 21:08:17] santiycr, quitting. (Quit: Leaving.)
 [2013-04-09 22:38:50] lukeis, quitting. (Quit: Leaving.)
+[2013-04-09 23:23:27] millenium, joining. (#ios-driver)
