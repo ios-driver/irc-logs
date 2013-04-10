@@ -80,3 +80,14 @@
 [2013-04-09 23:34:04] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/V-EUQA
 [2013-04-09 23:34:04] ios-driver-git: ios-driver/dev 19f2301 nicegraham: Merge branch 'master' of github.com:ios-driver/ios-driver into dev
 [2013-04-09 23:34:04] ios-driver-git, leaving. (#ios-driver)
+[2013-04-09 23:46:41] ios-driver-git, joining. (#ios-driver)
+[2013-04-09 23:46:41] ios-driver-git: [ios-driver] nicegraham created revert_pull_request (+1 new commit): http://git.io/ey784A
+[2013-04-09 23:46:41] ios-driver-git: ios-driver/revert_pull_request e33e7a1 nicegraham: Revert "Merge pull request #11 from LegNeato/master"...
+[2013-04-09 23:46:41] ios-driver-git, leaving. (#ios-driver)
+[2013-04-09 23:48:16] ios-driver-git, joining. (#ios-driver)
+[2013-04-09 23:48:17] ios-driver-git: [ios-driver] nicegraham opened pull request #13: Revert "Merge pull request #11 from LegNeato/master" (master...revert_pull_request)  http://git.io/jgiRFQ
+[2013-04-09 23:48:17] ios-driver-git, leaving. (#ios-driver)
+[2013-04-09 23:48:41] ios-driver-git, joining. (#ios-driver)
+[2013-04-09 23:48:42] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to master: http://git.io/PVvJkA
+[2013-04-09 23:48:42] ios-driver-git: ios-driver/master 14ed80e Graham Abell: Merge pull request #13 from ios-driver/revert_pull_request...
+[2013-04-09 23:48:42] ios-driver-git, leaving. (#ios-driver)
