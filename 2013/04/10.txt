@@ -81,3 +81,4 @@
 [2013-04-10 16:06:58] santiycr, quitting. (Quit: Leaving.)
 [2013-04-10 16:07:36] Hammertime38: running it manually on the command line works after a fresh profile build using the actual build directory
 [2013-04-10 16:09:48] santiycr, joining. (#ios-driver)
+[2013-04-10 16:19:33] smccarthy, quitting. (Ping timeout: 240 seconds)
