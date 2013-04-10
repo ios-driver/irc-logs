@@ -7,3 +7,5 @@
 [2013-04-10 06:54:24] ddary, joining. (#ios-driver)
 [2013-04-10 06:55:34] ddary, leaving. (#ios-driver)
 [2013-04-10 08:22:44] lukeis, joining. (#ios-driver)
+[2013-04-10 09:15:32] lukeis, quitting. (Quit: Leaving.)
+[2013-04-10 09:18:14] millenium, quitting. (Read error: Connection reset by peer)
