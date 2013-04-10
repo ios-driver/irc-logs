@@ -74,3 +74,4 @@
 [2013-04-10 15:09:40] santiycr: cool
 [2013-04-10 15:09:42] santiycr: opening chrome
 [2013-04-10 15:11:52] Hammertime38, joining. (#ios-driver)
+[2013-04-10 15:30:22] Hammertime38, quitting. (Remote host closed the connection)
