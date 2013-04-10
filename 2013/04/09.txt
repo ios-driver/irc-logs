@@ -62,3 +62,4 @@
 [2013-04-09 16:36:48] jlipps, quitting. (Quit: Leaving.)
 [2013-04-09 16:47:34] smccarthy, quitting. (Remote host closed the connection)
 [2013-04-09 18:22:13] admc, quitting. (Quit: Leaving.)
+[2013-04-09 18:26:23] Hammertime38: I've been trying to debug this as well, I also had to add to the DeviceVariation enum to support both of my devices...not sure if it just hasn't been fully implemented or something
