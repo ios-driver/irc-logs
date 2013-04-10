@@ -64,3 +64,4 @@
 [2013-04-09 18:22:13] admc, quitting. (Quit: Leaving.)
 [2013-04-09 18:26:23] Hammertime38: I've been trying to debug this as well, I also had to add to the DeviceVariation enum to support both of my devices...not sure if it just hasn't been fully implemented or something
 [2013-04-09 18:40:40] Hammertime38, quitting. (Remote host closed the connection)
+[2013-04-09 19:04:38] mohan_, quitting. (Ping timeout: 245 seconds)
