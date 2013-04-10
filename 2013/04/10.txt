@@ -5,3 +5,4 @@
 [2013-04-10 06:46:57] ddary, joining. (#ios-driver)
 [2013-04-10 06:50:10] ddary, leaving. (#ios-driver)
 [2013-04-10 06:54:24] ddary, joining. (#ios-driver)
+[2013-04-10 06:55:34] ddary, leaving. (#ios-driver)
