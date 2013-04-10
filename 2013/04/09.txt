@@ -91,3 +91,4 @@
 [2013-04-09 23:48:42] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to master: http://git.io/PVvJkA
 [2013-04-09 23:48:42] ios-driver-git: ios-driver/master 14ed80e Graham Abell: Merge pull request #13 from ios-driver/revert_pull_request...
 [2013-04-09 23:48:42] ios-driver-git, leaving. (#ios-driver)
+[2013-04-09 23:57:57] admc, joining. (#ios-driver)
