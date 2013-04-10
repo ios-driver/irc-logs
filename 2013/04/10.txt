@@ -23,3 +23,15 @@
 [2013-04-10 11:44:32] nicegraham: hey lukies
 [2013-04-10 11:44:35] nicegraham: lukeis
 [2013-04-10 11:44:53] lukeis: one more time and i may appear ;)
+[2013-04-10 11:45:09] nicegraham: I'm rubbing a lamp furiously here...
+[2013-04-10 11:45:35] *lukeis tries very hard to not picture that'
+[2013-04-10 11:45:40] nicegraham: haha
+[2013-04-10 11:45:46] nicegraham: yeah, I though that
+[2013-04-10 11:46:03] nicegraham: I see they replied
+[2013-04-10 11:46:21] nicegraham: the primary difference is the lack of webview in appium right?
+[2013-04-10 11:46:37] nicegraham: and we can test safari?
+[2013-04-10 11:46:55] lukeis: appium supports safari now
+[2013-04-10 11:47:07] lukeis: they even are passing more core selenium tests against it than we are now
+[2013-04-10 11:47:27] nicegraham: hmm, will have to sort that out
+[2013-04-10 11:47:50] nicegraham: I'll get back to tests when I finish the capability matcher
+[2013-04-10 11:48:14] lukeis: key differences are we implement "native" key presses and touch/click instead of synthetic via javascript (we also support that)
