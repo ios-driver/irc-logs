@@ -71,3 +71,12 @@
 [2013-04-09 21:08:17] santiycr, quitting. (Quit: Leaving.)
 [2013-04-09 22:38:50] lukeis, quitting. (Quit: Leaving.)
 [2013-04-09 23:23:27] millenium, joining. (#ios-driver)
+[2013-04-09 23:32:04] ios-driver-git, joining. (#ios-driver)
+[2013-04-09 23:32:04] ios-driver-git: [ios-driver] nicegraham pushed 2 new commits to master: http://git.io/8HG_7A
+[2013-04-09 23:32:04] ios-driver-git: ios-driver/master dea97e6 Christian Legnitto: Fix error with es-ES and other locales
+[2013-04-09 23:32:04] ios-driver-git: ios-driver/master 0cffe8d Graham Abell: Merge pull request #11 from LegNeato/master...
+[2013-04-09 23:32:04] ios-driver-git, leaving. (#ios-driver)
+[2013-04-09 23:34:04] ios-driver-git, joining. (#ios-driver)
+[2013-04-09 23:34:04] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/V-EUQA
+[2013-04-09 23:34:04] ios-driver-git: ios-driver/dev 19f2301 nicegraham: Merge branch 'master' of github.com:ios-driver/ios-driver into dev
+[2013-04-09 23:34:04] ios-driver-git, leaving. (#ios-driver)
