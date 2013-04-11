@@ -31,3 +31,5 @@
 [2013-04-11 13:40:27] admc, joining. (#ios-driver)
 [2013-04-11 14:01:44] santiycr, joining. (#ios-driver)
 [2013-04-11 14:29:34] Hammertime38, joining. (#ios-driver)
+[2013-04-11 14:36:42] Hammertime38: hello
+[2013-04-11 14:37:20] Hammertime38: nicegraham: i saw on one of your recent commits, you added the iPad mini to the DeviceVariations enum...should this be done for the other platforms as well?
