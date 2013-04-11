@@ -15,3 +15,4 @@
 [2013-04-11 08:50:58] smccarthy, joining. (#ios-driver)
 [2013-04-11 09:05:30] ddary, leaving. (#ios-driver)
 [2013-04-11 10:19:14] santiycr, joining. (#ios-driver)
+[2013-04-11 10:29:51] admc, joining. (#ios-driver)
