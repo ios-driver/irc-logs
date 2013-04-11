@@ -6,3 +6,5 @@
 [2013-04-11 04:03:37] ios-driver-git: ios-driver/dev 5e0f187 Darragh Grace: adding copyright and license info for ios-driver committers
 [2013-04-11 04:03:37] ios-driver-git: ios-driver/dev 6f44f07 Darragh Grace: add UIACollectionCell. Expose more methods for UIATableViews, UIACollectionViews
 [2013-04-11 04:03:37] ios-driver-git, leaving. (#ios-driver)
+[2013-04-11 07:06:33] nicegraham, quitting. (Ping timeout: 240 seconds)
+[2013-04-11 07:07:21] nicegraham, joining. (#ios-driver)
