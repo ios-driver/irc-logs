@@ -88,3 +88,4 @@
 [2013-04-10 19:28:15] jlipps, quitting. (Client Quit)
 [2013-04-10 19:33:38] santiycr, quitting. (Quit: Leaving.)
 [2013-04-10 20:29:54] admc, quitting. (Quit: Leaving.)
+[2013-04-10 23:31:23] ddary, joining. (#ios-driver)
