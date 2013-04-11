@@ -12,3 +12,4 @@
 [2013-04-11 07:12:01] nicegraham, joining. (#ios-driver)
 [2013-04-11 08:32:37] ddary, joining. (#ios-driver)
 [2013-04-11 08:43:38] lukeis, joining. (#ios-driver)
+[2013-04-11 08:50:58] smccarthy, joining. (#ios-driver)
