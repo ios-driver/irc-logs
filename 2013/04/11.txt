@@ -30,3 +30,4 @@
 [2013-04-11 13:39:37] santiycr1, quitting. (Quit: Leaving.)
 [2013-04-11 13:40:27] admc, joining. (#ios-driver)
 [2013-04-11 14:01:44] santiycr, joining. (#ios-driver)
+[2013-04-11 14:29:34] Hammertime38, joining. (#ios-driver)
