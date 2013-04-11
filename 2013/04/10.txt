@@ -83,3 +83,4 @@
 [2013-04-10 16:09:48] santiycr, joining. (#ios-driver)
 [2013-04-10 16:19:33] smccarthy, quitting. (Ping timeout: 240 seconds)
 [2013-04-10 17:11:08] Hammertime38, quitting. (Remote host closed the connection)
+[2013-04-10 18:39:10] jlipps, quitting. (Quit: Leaving.)
