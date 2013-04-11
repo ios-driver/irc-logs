@@ -38,3 +38,4 @@
 [2013-04-11 14:55:59] ios-driver-git: ios-driver/dev e55cbfe Luke Inman-Semerau: adding "--force-ipad" command line arg. this is to support integration in saucelabs where they have a proxy that is over-writing capabailities (they know this is bad and are going to change it... in the meantime, there's this as a work-around for them to get ios-driver in their server working with iPad)
 [2013-04-11 14:55:59] ios-driver-git, leaving. (#ios-driver)
 [2013-04-11 14:57:06] lukeis: :note freynaud let me know your thoughts / feelings about my last push to 'dev' branch… we (salesforce) needed iPad support in sauce labs… this was the immediate work-around
+[2013-04-11 15:04:42] lukeis: santiycr: let me know if you have issues with that :)
