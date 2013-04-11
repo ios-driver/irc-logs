@@ -26,3 +26,5 @@
 [2013-04-11 13:10:17] ddary_, changing nick to ddary.
 [2013-04-11 13:16:47] admc, joining. (#ios-driver)
 [2013-04-11 13:21:49] ddary, quitting. (Quit: ddary)
+[2013-04-11 13:38:52] admc, quitting. (Quit: Leaving.)
+[2013-04-11 13:39:37] santiycr1, quitting. (Quit: Leaving.)
