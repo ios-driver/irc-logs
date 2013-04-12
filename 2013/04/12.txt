@@ -108,3 +108,4 @@
 [2013-04-12 13:09:19] admc, joining. (#ios-driver)
 [2013-04-12 13:10:20] santiycr, joining. (#ios-driver)
 [2013-04-12 14:13:23] santiycr, quitting. (Quit: Leaving.)
+[2013-04-12 15:26:24] Hammertime38: the more I work with ios-driver, the more I realize there are far more problems with Instruments than there are with this framework :)
