@@ -33,3 +33,19 @@
 [2013-04-12 07:24:38] nicegraham: we're using dev branch
 [2013-04-12 07:24:47] nicegraham: so make pull requests against that if you can
 [2013-04-12 07:25:00] nicegraham: that's also the most up to date codebase
+[2013-04-12 07:25:05] Kakarott1337, joining. (#ios-driver)
+[2013-04-12 07:25:31] dawagner: I have commit rights to ios-driver - should I commit there?
+[2013-04-12 07:25:55] nicegraham: to the dev branch
+[2013-04-12 07:26:06] nicegraham: the master branch is the released version 0.6.0
+[2013-04-12 07:26:13] nicegraham: and it's stable
+[2013-04-12 07:26:21] dawagner: Awesome, will do :)
+[2013-04-12 07:26:22] dawagner: Thanks!
+[2013-04-12 07:26:36] nicegraham: np :)
+[2013-04-12 07:27:03] Kakarott1337, quitting. (Client Quit)
+[2013-04-12 07:27:18] dawagner: la la learning git as I go along...
+[2013-04-12 07:28:25] nicegraham: yeah, me too
+[2013-04-12 07:28:45] nicegraham: when it breaks, get in touch with lukeis
+[2013-04-12 07:28:55] dawagner: Will do!
+[2013-04-12 07:28:57] nicegraham: he's pulled my bacon out of the fire a few times now :)
+[2013-04-12 07:29:40] dawagner: He is a great guy :) [and not even around to get embarrassed by my praise!]
+[2013-04-12 07:29:57] nicegraham: yep, he's been very patient and forgiving :)
