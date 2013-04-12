@@ -72,3 +72,7 @@
 [2013-04-12 07:44:25] dawagner: I'm guessing if you send just a full sha1, it will link
 [2013-04-12 07:44:29] dawagner: 14ed80ef23dcddaea43111a52af83abbb960cabf
 [2013-04-12 07:44:42] dawagner: Bleugh pesky ios-driverbot!
+[2013-04-12 07:47:09] dawagner: I don't see any license checked in, is there one somewhere that I'm obviously missing?
+[2013-04-12 07:48:19] nicegraham: it was in the intellij settings I'm pretty sure, but they got git ignored in one of the commits pre-0.6.0 release
+[2013-04-12 07:48:39] nicegraham: I have it stored in my java template in my local intellij settings
+[2013-04-12 07:49:05] dawagner: Aah yes, file headers have an apache 2 notice :)
