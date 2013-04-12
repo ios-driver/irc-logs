@@ -56,3 +56,9 @@
 [2013-04-11 19:06:34] santiycr, quitting. (Quit: Leaving.)
 [2013-04-11 21:10:22] smccarthy, joining. (#ios-driver)
 [2013-04-11 21:25:52] ddary, joining. (#ios-driver)
+[2013-04-11 21:49:39] ios-driver-git, joining. (#ios-driver)
+[2013-04-11 21:49:39] ios-driver-git: [ios-driver] lukeis pushed 3 new commits to dev: http://git.io/MaeaEQ
+[2013-04-11 21:49:39] ios-driver-git: ios-driver/dev 77ff666 John Hammerlund: Add UIAPicker and UIAPickerWheel to UIAModels (needed for type criteria)
+[2013-04-11 21:49:39] ios-driver-git: ios-driver/dev 3481b8e John Hammerlund: Add UIAPicker and UIAPickerWheel to UIAModels (needed for type criteria)
+[2013-04-11 21:49:39] ios-driver-git: ios-driver/dev f7cc606 Luke Inman-Semerau: Merge pull request #14 from Hammertime38/dev...
+[2013-04-11 21:49:39] ios-driver-git, leaving. (#ios-driver)
