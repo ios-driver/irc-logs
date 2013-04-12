@@ -6,3 +6,4 @@
 [2013-04-12 03:23:15] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/kPJYQQ
 [2013-04-12 03:23:15] ios-driver-git: ios-driver/dev e33ddfc nicegraham: adding the applications folder to the ignore list
 [2013-04-12 03:23:15] ios-driver-git, leaving. (#ios-driver)
+[2013-04-12 06:42:21] dawagner, joining. (#ios-driver)
