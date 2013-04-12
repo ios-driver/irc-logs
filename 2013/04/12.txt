@@ -112,3 +112,4 @@
 [2013-04-12 15:31:45] santiycr, joining. (#ios-driver)
 [2013-04-12 16:41:16] smccarthy, quitting. (Remote host closed the connection)
 [2013-04-12 16:42:22] santiycr, quitting. (Quit: Leaving.)
+[2013-04-12 16:47:05] santiycr, joining. (#ios-driver)
