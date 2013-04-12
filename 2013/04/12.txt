@@ -49,3 +49,5 @@
 [2013-04-12 07:28:57] nicegraham: he's pulled my bacon out of the fire a few times now :)
 [2013-04-12 07:29:40] dawagner: He is a great guy :) [and not even around to get embarrassed by my praise!]
 [2013-04-12 07:29:57] nicegraham: yep, he's been very patient and forgiving :)
+[2013-04-12 07:31:28] dawagner: Bleugh I want to speed up these tests
+[2013-04-12 07:32:14] dawagner: May have to learn some TestNG? I'm sure there's a way to start the file server and maybe the simulator before the suite, rather than the class
