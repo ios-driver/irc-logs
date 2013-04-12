@@ -65,3 +65,10 @@
 [2013-04-12 07:39:28] nicegraham: 14ed80ef23
 [2013-04-12 07:39:42] nicegraham: https://github.com/ios-driver/ios-driver/commit/14ed80ef23dcddaea43111a52af83abbb960cabf
 [2013-04-12 07:39:57] nicegraham: I don't know - there's some way to link to git commits
+[2013-04-12 07:40:06] nicegraham: :help
+[2013-04-12 07:40:31] nicegraham: <14ed80ef23>
+[2013-04-12 07:40:54] nicegraham: <14ed80ef23dcddaea43111a52af83abbb960cabf>
+[2013-04-12 07:41:01] nicegraham: ugh, I give up
+[2013-04-12 07:44:25] dawagner: I'm guessing if you send just a full sha1, it will link
+[2013-04-12 07:44:29] dawagner: 14ed80ef23dcddaea43111a52af83abbb960cabf
+[2013-04-12 07:44:42] dawagner: Bleugh pesky ios-driverbot!
