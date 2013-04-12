@@ -92,3 +92,6 @@
 [2013-04-12 08:59:35] lukeis: ah, that's right
 [2013-04-12 10:29:51] admc, joining. (#ios-driver)
 [2013-04-12 11:14:23] nicegraham: lukeis: any ideas? https://github.com/ios-driver/ios-driver/issues/15#issuecomment-16306654
+[2013-04-12 11:16:39] lukeis: nope :)  the guy needs to provide his app to us to troubleshoot for him ;)
+[2013-04-12 11:17:12] lukeis: or maybe offer to do a meeting with him where he screenshares and we troubleshoot with him
+[2013-04-12 11:17:32] lukeis: i don't have much time to do that myself ;)
