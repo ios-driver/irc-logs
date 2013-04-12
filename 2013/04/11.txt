@@ -63,3 +63,5 @@
 [2013-04-11 21:49:39] ios-driver-git: ios-driver/dev f7cc606 Luke Inman-Semerau: Merge pull request #14 from Hammertime38/dev...
 [2013-04-11 21:49:39] ios-driver-git, leaving. (#ios-driver)
 [2013-04-11 21:52:41] smccarthy, quitting. (Remote host closed the connection)
+[2013-04-11 23:25:25] nicegraham: :note hammertime38 I don't know, I need to talk to freynaud. From a sim perspective it doesn't differentiate between ipad mini or ipad 2 I guess due to resolution. From a physical device perspective I think you would want be able to target devices, if that's the agreed approach then we should add all platforms and then perhaps map each one to a "sim" version
+[2013-04-11 23:25:25] nicegraham: - that's my current position anyway.
