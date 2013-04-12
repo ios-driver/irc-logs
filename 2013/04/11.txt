@@ -43,3 +43,6 @@
 [2013-04-11 17:27:19] santiycr, quitting. (Quit: Leaving.)
 [2013-04-11 17:30:38] xretsim1, joining. (#ios-driver)
 [2013-04-11 17:43:05] santiycr, joining. (#ios-driver)
+[2013-04-11 18:03:05] xretsim1_, joining. (#ios-driver)
+[2013-04-11 18:04:37] xretsim1, quitting. (Ping timeout: 252 seconds)
+[2013-04-11 18:04:37] xretsim1_, changing nick to xretsim1.
