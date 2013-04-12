@@ -96,3 +96,7 @@
 [2013-04-12 11:17:12] lukeis: or maybe offer to do a meeting with him where he screenshares and we troubleshoot with him
 [2013-04-12 11:17:32] lukeis: i don't have much time to do that myself ;)
 [2013-04-12 11:24:47] admc, quitting. (Quit: Leaving.)
+[2013-04-12 11:25:48] nicegraham: cool, I've pointed him in the right direction. If he's stuck I'll try and do a screen share with him. It's bloody frustrating debugging this stuff remotely. :)
+[2013-04-12 11:29:21] nicegraham: lukeis: I'm off to the boozer, have a good weekend! :)
+[2013-04-12 11:29:41] lukeis: have fun!
+[2013-04-12 11:29:50] nicegraham: always ;)
