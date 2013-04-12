@@ -51,3 +51,17 @@
 [2013-04-12 07:29:57] nicegraham: yep, he's been very patient and forgiving :)
 [2013-04-12 07:31:28] dawagner: Bleugh I want to speed up these tests
 [2013-04-12 07:32:14] dawagner: May have to learn some TestNG? I'm sure there's a way to start the file server and maybe the simulator before the suite, rather than the class
+[2013-04-12 07:35:51] nicegraham: yeah, I think there is
+[2013-04-12 07:36:08] nicegraham: there's all sorts of @before options
+[2013-04-12 07:37:07] dawagner: What does ios-driverbot do for us?
+[2013-04-12 07:37:09] dawagner: !help
+[2013-04-12 07:37:10] dawagner: :help
+[2013-04-12 07:37:36] dawagner: aha
+[2013-04-12 07:37:42] dawagner: What are the odds
+[2013-04-12 07:37:43] dawagner: 59635818
+[2013-04-12 07:37:53] dawagner: Too abbreviated, I guess :)
+[2013-04-12 07:38:26] nicegraham: it does all sorts - it's a clone of the sel bot I believe
+[2013-04-12 07:38:46] nicegraham: we also have a git bot that drops by occasionally :)
+[2013-04-12 07:39:28] nicegraham: 14ed80ef23
+[2013-04-12 07:39:42] nicegraham: https://github.com/ios-driver/ios-driver/commit/14ed80ef23dcddaea43111a52af83abbb960cabf
+[2013-04-12 07:39:57] nicegraham: I don't know - there's some way to link to git commits
