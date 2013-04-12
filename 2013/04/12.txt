@@ -82,3 +82,11 @@
 [2013-04-12 08:19:54] dawagner: Is there a way to interact with the filesystem of the ios device?
 [2013-04-12 08:20:12] dawagner: (Or simulator)
 [2013-04-12 08:42:58] dawagner, quitting. (Quit: Leaving)
+[2013-04-12 08:55:29] lukeis, joining. (#ios-driver)
+[2013-04-12 08:58:21] nicegraham: lukeis: the questions, oh the questions :)
+[2013-04-12 08:58:36] lukeis: you're doing well nicegraham ;)
+[2013-04-12 08:59:12] lukeis: should tell him to just join IRC
+[2013-04-12 08:59:20] lukeis: :seen freynaud
+[2013-04-12 08:59:24] nicegraham: yeah, I will
+[2013-04-12 08:59:30] nicegraham: he's in france
+[2013-04-12 08:59:35] lukeis: ah, that's right
