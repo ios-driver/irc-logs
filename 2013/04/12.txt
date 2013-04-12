@@ -7,3 +7,4 @@
 [2013-04-12 03:23:15] ios-driver-git: ios-driver/dev e33ddfc nicegraham: adding the applications folder to the ignore list
 [2013-04-12 03:23:15] ios-driver-git, leaving. (#ios-driver)
 [2013-04-12 06:42:21] dawagner, joining. (#ios-driver)
+[2013-04-12 06:59:26] dawagner: If I launch the head ios-server with the -beta flag, I get a segfault? Has anyone else seen this?
