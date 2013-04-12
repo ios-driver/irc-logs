@@ -11,3 +11,10 @@
 [2013-04-12 07:07:34] nicegraham: dawagner: no, haven't seen that
 [2013-04-12 07:07:47] nicegraham: what option parameters are you using?
 [2013-04-12 07:08:44] nicegraham: have you got a device connected when you launch the server?
+[2013-04-12 07:15:16] dawagner: This was just from a fresh git checkout
+[2013-04-12 07:15:30] dawagner: `java -jar ios-server-0.6.0.jar -port 4444 -host localhost` works fine
+[2013-04-12 07:15:38] dawagner: `java -jar ios-server-0.6.0.jar -port 4444 -host localhost -beta` segfaults
+[2013-04-12 07:15:52] dawagner: (I found this out by trying to run the tests in intellij from a fresh checkout)
+[2013-04-12 07:16:31] dawagner: No device, just a simulator
+[2013-04-12 07:19:16] dawagner: And separate question: What's the full set of tests I should run before committing?
+[2013-04-12 07:19:43] nicegraham: there's a testng file....
