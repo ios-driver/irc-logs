@@ -62,3 +62,4 @@
 [2013-04-11 21:49:39] ios-driver-git: ios-driver/dev 3481b8e John Hammerlund: Add UIAPicker and UIAPickerWheel to UIAModels (needed for type criteria)
 [2013-04-11 21:49:39] ios-driver-git: ios-driver/dev f7cc606 Luke Inman-Semerau: Merge pull request #14 from Hammertime38/dev...
 [2013-04-11 21:49:39] ios-driver-git, leaving. (#ios-driver)
+[2013-04-11 21:52:41] smccarthy, quitting. (Remote host closed the connection)
