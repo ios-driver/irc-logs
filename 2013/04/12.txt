@@ -76,3 +76,5 @@
 [2013-04-12 07:48:19] nicegraham: it was in the intellij settings I'm pretty sure, but they got git ignored in one of the commits pre-0.6.0 release
 [2013-04-12 07:48:39] nicegraham: I have it stored in my java template in my local intellij settings
 [2013-04-12 07:49:05] dawagner: Aah yes, file headers have an apache 2 notice :)
+[2013-04-12 07:50:42] nicegraham: sorry, I misunderstood what you meant
+[2013-04-12 07:53:35] jlipps, joining. (#ios-driver)
