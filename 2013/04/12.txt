@@ -102,3 +102,6 @@
 [2013-04-12 11:29:50] nicegraham: always ;)
 [2013-04-12 12:00:12] santiycr, joining. (#ios-driver)
 [2013-04-12 12:18:39] Hammertime38, joining. (#ios-driver)
+[2013-04-12 12:42:02] santiycr, quitting. (Quit: Leaving.)
+[2013-04-12 12:42:24] santiycr, joining. (#ios-driver)
+[2013-04-12 12:43:46] santiycr, quitting. (Client Quit)
