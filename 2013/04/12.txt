@@ -18,3 +18,18 @@
 [2013-04-12 07:16:31] dawagner: No device, just a simulator
 [2013-04-12 07:19:16] dawagner: And separate question: What's the full set of tests I should run before committing?
 [2013-04-12 07:19:43] nicegraham: there's a testng file....
+[2013-04-12 07:20:16] nicegraham: testng.xml in ios-selenium-tests/src/test/resources
+[2013-04-12 07:20:28] nicegraham: and in server/src/test/resources
+[2013-04-12 07:21:08] dawagner: How does one run those? :)
+[2013-04-12 07:21:19] dawagner: (Sorry, never used testng before, and not a maven person :))
+[2013-04-12 07:22:30] nicegraham: right click in intellij
+[2013-04-12 07:22:56] nicegraham: and run '/path/filename'
+[2013-04-12 07:23:15] dawagner: Awesome, thanks :)
+[2013-04-12 07:23:34] nicegraham: no problem, your seg fault I've never seen I'm afraid
+[2013-04-12 07:23:54] dawagner: Oh well, I can do some debugging there, but live without -beta for now :)
+[2013-04-12 07:24:03] nicegraham: but I haven't been doing much with -beta / physical devices
+[2013-04-12 07:24:13] nicegraham: freynaud is your man for that
+[2013-04-12 07:24:27] dawagner: Any github conventions I should know about? Commit to main repo? Commit to fork and merge?
+[2013-04-12 07:24:38] nicegraham: we're using dev branch
+[2013-04-12 07:24:47] nicegraham: so make pull requests against that if you can
+[2013-04-12 07:25:00] nicegraham: that's also the most up to date codebase
