@@ -41,3 +41,4 @@
 [2013-04-11 15:04:42] lukeis: santiycr: let me know if you have issues with that :)
 [2013-04-11 15:52:24] lukeis, quitting. (Ping timeout: 260 seconds)
 [2013-04-11 17:27:19] santiycr, quitting. (Quit: Leaving.)
+[2013-04-11 17:30:38] xretsim1, joining. (#ios-driver)
