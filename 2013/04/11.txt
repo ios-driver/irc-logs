@@ -49,3 +49,4 @@
 [2013-04-11 18:13:29] ios-driver-git, joining. (#ios-driver)
 [2013-04-11 18:13:29] ios-driver-git: [ios-driver] Hammertime38 opened pull request #14: Add UIAPicker and UIAPickerWheel to UIAModels (needed for type criteria) (dev...dev)  http://git.io/uQwVxQ
 [2013-04-11 18:13:30] ios-driver-git, leaving. (#ios-driver)
+[2013-04-11 18:18:49] xretsim1, quitting. (Quit: xretsim1)
