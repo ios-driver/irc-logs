@@ -91,3 +91,4 @@
 [2013-04-12 08:59:30] nicegraham: he's in france
 [2013-04-12 08:59:35] lukeis: ah, that's right
 [2013-04-12 10:29:51] admc, joining. (#ios-driver)
+[2013-04-12 11:14:23] nicegraham: lukeis: any ideas? https://github.com/ios-driver/ios-driver/issues/15#issuecomment-16306654
