@@ -122,3 +122,4 @@
 [2013-04-12 21:14:27] Morph4me, joining. (#ios-driver)
 [2013-04-12 21:21:35] admc, joining. (#ios-driver)
 [2013-04-12 21:31:03] Morph4me, quitting. (Quit: Leaving)
+[2013-04-12 22:00:47] lukeis, quitting. (Ping timeout: 252 seconds)
