@@ -7,3 +7,6 @@
 [2013-04-13 10:42:26] ddary, leaving. (#ios-driver)
 [2013-04-13 13:26:04] admc, joining. (#ios-driver)
 [2013-04-13 15:46:51] admc, quitting. (Quit: Leaving.)
+[2013-04-13 15:50:25] admc, joining. (#ios-driver)
+[2013-04-13 15:50:34] admc, quitting. (Client Quit)
+[2013-04-13 15:52:40] admc, joining. (#ios-driver)
