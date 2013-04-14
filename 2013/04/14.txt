@@ -29,3 +29,4 @@
 [2013-04-14 10:57:42] admc, quitting. (Ping timeout: 264 seconds)
 [2013-04-14 11:24:08] admc, joining. (#ios-driver)
 [2013-04-14 11:28:19] admc, quitting. (Ping timeout: 245 seconds)
+[2013-04-14 11:54:54] admc, joining. (#ios-driver)
