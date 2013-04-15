@@ -14,3 +14,5 @@
 [2013-04-15 04:11:29] nicegraham: have you seen the issues raised?
 [2013-04-15 04:14:53] nicegraham: https://github.com/freynaud/ios-driver/issues/36
 [2013-04-15 04:15:00] nicegraham: https://github.com/ios-driver/ios-driver/issues/15
+[2013-04-15 04:15:16] nicegraham: both seem like Java/Instruments problems more so that ios-driver
+[2013-04-15 04:15:31] nicegraham: any ideas on how to debug them?
