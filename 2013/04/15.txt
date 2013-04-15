@@ -34,3 +34,4 @@
 [2013-04-15 06:16:28] nicegraham: oh, I understand
 [2013-04-15 06:17:23] nicegraham: I got my travel approved for Boston today so evertyhting is booked
 [2013-04-15 06:17:28] freynaud: you start instruments with a script. The first thing the script does is  to send a request to say :I'm here, I'm application XYZ. If the app isn't compiled with the proper rights, the script is never executed, the server times out waiting for the I'm there message, and you get the 'instruments crashed" message
+[2013-04-15 06:23:08] nicegraham: can we catch that and give a better message?
