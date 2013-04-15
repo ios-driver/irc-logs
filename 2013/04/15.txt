@@ -7,3 +7,4 @@
 [2013-04-15 03:08:46] ddary, quitting. (Quit: ddary)
 [2013-04-15 03:21:18] freynaud, joining. (#ios-driver)
 [2013-04-15 03:32:55] dawagner, joining. (#ios-driver)
+[2013-04-15 03:50:57] nicegraham: freynaud: hi
