@@ -27,3 +27,4 @@
 [2013-04-15 05:53:41] nicegraham: the plan is still to remove instruments, correct?
 [2013-04-15 05:54:46] nicegraham: what is the process for the first part? Launch instruments and then if you open a profiled application on a device or in the sim it will register it in instruments?
 [2013-04-15 05:54:54] nicegraham: or do you have to launch it via xcode?
+[2013-04-15 06:09:37] ddary, joining. (#ios-driver)
