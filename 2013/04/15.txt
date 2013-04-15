@@ -9,3 +9,8 @@
 [2013-04-15 03:32:55] dawagner, joining. (#ios-driver)
 [2013-04-15 03:50:57] nicegraham: freynaud: hi
 [2013-04-15 03:57:42] freynaud: nicegraham: Hi
+[2013-04-15 04:10:34] nicegraham: sorry, got doorstopped by someone there
+[2013-04-15 04:10:56] nicegraham: hope France was good!
+[2013-04-15 04:11:29] nicegraham: have you seen the issues raised?
+[2013-04-15 04:14:53] nicegraham: https://github.com/freynaud/ios-driver/issues/36
+[2013-04-15 04:15:00] nicegraham: https://github.com/ios-driver/ios-driver/issues/15
