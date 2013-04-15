@@ -95,3 +95,5 @@
 [2013-04-15 15:21:54] admc, joining. (#ios-driver)
 [2013-04-15 15:23:26] dawagner, joining. (#ios-driver)
 [2013-04-15 15:33:38] dawagner, quitting. (Quit: Leaving)
+[2013-04-15 16:01:54] lukeis, quitting. (Quit: Leaving.)
+[2013-04-15 16:02:20] smccarthy2, joining. (#ios-driver)
