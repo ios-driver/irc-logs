@@ -89,3 +89,5 @@
 [2013-04-15 13:43:13] Hammertime38, quitting. (Remote host closed the connection)
 [2013-04-15 13:49:01] admc, quitting. (Quit: Leaving.)
 [2013-04-15 14:13:40] Hammertime38, joining. (#ios-driver)
+[2013-04-15 14:15:03] smccarthy, joining. (#ios-driver)
+[2013-04-15 14:15:56] Hammertime38, quitting. (Read error: Operation timed out)
