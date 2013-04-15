@@ -94,3 +94,4 @@
 [2013-04-15 14:34:21] Hammertime38, joining. (#ios-driver)
 [2013-04-15 15:21:54] admc, joining. (#ios-driver)
 [2013-04-15 15:23:26] dawagner, joining. (#ios-driver)
+[2013-04-15 15:33:38] dawagner, quitting. (Quit: Leaving)
