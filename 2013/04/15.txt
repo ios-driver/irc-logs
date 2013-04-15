@@ -78,3 +78,4 @@
 [2013-04-15 10:54:37] admc, joining. (#ios-driver)
 [2013-04-15 11:11:46] nicegraham: busy in here this evening/morning :)
 [2013-04-15 11:19:09] dawagner, quitting. (Quit: Leaving)
+[2013-04-15 11:25:17] lukeis, quitting. (Quit: Leaving.)
