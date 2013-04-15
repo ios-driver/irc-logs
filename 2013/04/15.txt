@@ -28,3 +28,9 @@
 [2013-04-15 05:54:46] nicegraham: what is the process for the first part? Launch instruments and then if you open a profiled application on a device or in the sim it will register it in instruments?
 [2013-04-15 05:54:54] nicegraham: or do you have to launch it via xcode?
 [2013-04-15 06:09:37] ddary, joining. (#ios-driver)
+[2013-04-15 06:15:46] freynaud: nicegraham: not remove instruments
+[2013-04-15 06:16:09] nicegraham: sorry?
+[2013-04-15 06:16:09] freynaud: remove instruments client, which as far as i can see, is the part doing not so much, but creating all the issues
+[2013-04-15 06:16:28] nicegraham: oh, I understand
+[2013-04-15 06:17:23] nicegraham: I got my travel approved for Boston today so evertyhting is booked
+[2013-04-15 06:17:28] freynaud: you start instruments with a script. The first thing the script does is  to send a request to say :I'm here, I'm application XYZ. If the app isn't compiled with the proper rights, the script is never executed, the server times out waiting for the I'm there message, and you get the 'instruments crashed" message
