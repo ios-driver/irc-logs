@@ -17,3 +17,4 @@
 [2013-04-15 04:15:16] nicegraham: both seem like Java/Instruments problems more so that ios-driver
 [2013-04-15 04:15:31] nicegraham: any ideas on how to debug them?
 [2013-04-15 04:44:15] ddary, joining. (#ios-driver)
+[2013-04-15 05:09:32] ddary, leaving. (#ios-driver)
