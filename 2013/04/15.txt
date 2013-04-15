@@ -48,3 +48,8 @@
 [2013-04-15 09:31:13] smccarthy2, joining. (#ios-driver)
 [2013-04-15 09:34:13] smccarthy, quitting. (Ping timeout: 240 seconds)
 [2013-04-15 10:08:35] nicegraham: hey lukeis, morning!
+[2013-04-15 10:13:00] lukeis: hi nicegraham, evening!
+[2013-04-15 10:13:25] nicegraham: :) It's a nice on too - spring has arrived!
+[2013-04-15 10:14:40] lukeis: yay ;) or boo in my case, spring arrived about 2 weeks ago here and has caused me many sneezes and sniffling
+[2013-04-15 10:14:59] lukeis: you should close #15
+[2013-04-15 10:15:00] lukeis: ;)
