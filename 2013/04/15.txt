@@ -44,3 +44,4 @@
 [2013-04-15 07:33:09] ddary, joining. (#ios-driver)
 [2013-04-15 08:03:37] ddary, leaving. (#ios-driver)
 [2013-04-15 08:54:10] smccarthy, joining. (#ios-driver)
+[2013-04-15 08:57:42] lukeis, joining. (#ios-driver)
