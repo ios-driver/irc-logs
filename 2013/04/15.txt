@@ -91,3 +91,4 @@
 [2013-04-15 14:13:40] Hammertime38, joining. (#ios-driver)
 [2013-04-15 14:15:03] smccarthy, joining. (#ios-driver)
 [2013-04-15 14:15:56] Hammertime38, quitting. (Read error: Operation timed out)
+[2013-04-15 14:34:21] Hammertime38, joining. (#ios-driver)
