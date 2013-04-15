@@ -77,3 +77,4 @@
 [2013-04-15 10:44:38] freynaud, quitting. (Ping timeout: 245 seconds)
 [2013-04-15 10:54:37] admc, joining. (#ios-driver)
 [2013-04-15 11:11:46] nicegraham: busy in here this evening/morning :)
+[2013-04-15 11:19:09] dawagner, quitting. (Quit: Leaving)
