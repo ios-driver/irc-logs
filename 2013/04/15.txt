@@ -22,3 +22,8 @@
 [2013-04-15 05:45:25] freynaud: and make sure that they actually launched something that is signed with the right profile etc
 [2013-04-15 05:45:55] freynaud: there is also a bug in instruments, you can only launch instruments against a real device that had the same version as the latest one on xcode
 [2013-04-15 05:46:17] freynaud: ie no instruments 6.1 if the real device is 5
+[2013-04-15 05:53:18] nicegraham: freynaud: that's good to know
+[2013-04-15 05:53:26] nicegraham: I didn't know it coudln't handle a mismatch
+[2013-04-15 05:53:41] nicegraham: the plan is still to remove instruments, correct?
+[2013-04-15 05:54:46] nicegraham: what is the process for the first part? Launch instruments and then if you open a profiled application on a device or in the sim it will register it in instruments?
+[2013-04-15 05:54:54] nicegraham: or do you have to launch it via xcode?
