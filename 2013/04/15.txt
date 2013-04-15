@@ -75,3 +75,4 @@
 [2013-04-15 10:21:19] lukeis: heh ;)
 [2013-04-15 10:40:56] jlipps, joining. (#ios-driver)
 [2013-04-15 10:44:38] freynaud, quitting. (Ping timeout: 245 seconds)
+[2013-04-15 10:54:37] admc, joining. (#ios-driver)
