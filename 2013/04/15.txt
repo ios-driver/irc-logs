@@ -80,3 +80,4 @@
 [2013-04-15 11:19:09] dawagner, quitting. (Quit: Leaving)
 [2013-04-15 11:25:17] lukeis, quitting. (Quit: Leaving.)
 [2013-04-15 11:31:15] lukeis, joining. (#ios-driver)
+[2013-04-15 11:45:27] admc, quitting. (Quit: Leaving.)
