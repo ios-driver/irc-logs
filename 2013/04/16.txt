@@ -25,3 +25,4 @@
 [2013-04-16 10:41:16] admc, joining. (#ios-driver)
 [2013-04-16 10:57:54] smccarthy, joining. (#ios-driver)
 [2013-04-16 11:10:16] ddary, leaving. (#ios-driver)
+[2013-04-16 11:32:10] dawagner, quitting. (Quit: Leaving)
