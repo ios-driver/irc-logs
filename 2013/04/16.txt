@@ -19,3 +19,4 @@
 [2013-04-16 07:35:03] freynaud: working on it
 [2013-04-16 07:58:55] jlipps, joining. (#ios-driver)
 [2013-04-16 08:54:20] lukeis, joining. (#ios-driver)
+[2013-04-16 09:53:35] freynaud: great. I use jquery to avoid having to do cross browser crap, and the library doesn't work in FF...
