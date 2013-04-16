@@ -39,3 +39,8 @@
 [2013-04-16 15:56:14] ios-driver-git: ios-driver/dev 19a544f rsalvador: Switch to the current WebView when Webkit restarts.
 [2013-04-16 15:56:14] ios-driver-git, leaving. (#ios-driver)
 [2013-04-16 15:59:23] smccarthy, joining. (#ios-driver)
+[2013-04-16 16:03:28] ios-driver-git, joining. (#ios-driver)
+[2013-04-16 16:03:29] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/Bh6l3Q
+[2013-04-16 16:03:29] ios-driver-git: ios-driver/dev a7d11e1 rsalvador: Wait to send the signalSimSentPages() until message is fully processed.
+[2013-04-16 16:03:29] ios-driver-git, leaving. (#ios-driver)
+[2013-04-16 16:04:52] lukeis, quitting. (Quit: Leaving.)
