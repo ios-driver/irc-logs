@@ -99,3 +99,5 @@
 [2013-04-15 16:02:20] smccarthy2, joining. (#ios-driver)
 [2013-04-15 16:05:18] smccarthy, quitting. (Ping timeout: 258 seconds)
 [2013-04-15 17:10:19] Hammertime38, quitting. (Remote host closed the connection)
+[2013-04-15 17:16:10] smccarthy2, quitting. (Remote host closed the connection)
+[2013-04-15 17:19:17] jlipps, quitting. (Quit: Leaving.)
