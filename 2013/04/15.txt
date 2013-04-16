@@ -109,3 +109,4 @@
 [2013-04-15 22:24:32] admc, joining. (#ios-driver)
 [2013-04-15 22:56:48] lukeis, joining. (#ios-driver)
 [2013-04-15 22:57:07] lukeis, quitting. (Client Quit)
+[2013-04-15 23:37:37] ddary, joining. (#ios-driver)
