@@ -103,3 +103,4 @@
 [2013-04-15 17:19:17] jlipps, quitting. (Quit: Leaving.)
 [2013-04-15 18:17:19] admc, quitting. (Quit: Leaving.)
 [2013-04-15 19:31:11] smccarthy, joining. (#ios-driver)
+[2013-04-15 21:09:25] smccarthy, quitting. (Remote host closed the connection)
