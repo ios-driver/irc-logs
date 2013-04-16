@@ -17,3 +17,4 @@
 [2013-04-16 07:33:13] ios-driver-git, leaving. (#ios-driver)
 [2013-04-16 07:34:40] nicegraham: freynaud: new inspector? :)
 [2013-04-16 07:35:03] freynaud: working on it
+[2013-04-16 07:58:55] jlipps, joining. (#ios-driver)
