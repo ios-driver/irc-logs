@@ -21,3 +21,4 @@
 [2013-04-16 08:54:20] lukeis, joining. (#ios-driver)
 [2013-04-16 09:53:35] freynaud: great. I use jquery to avoid having to do cross browser crap, and the library doesn't work in FF...
 [2013-04-16 09:55:27] lukeis: welcome to the world of UI development ;)
+[2013-04-16 10:27:08] freynaud, quitting. (Ping timeout: 245 seconds)
