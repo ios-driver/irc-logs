@@ -5,3 +5,5 @@
 [2013-04-16 03:42:23] ddary, joining. (#ios-driver)
 [2013-04-16 03:45:13] ddary, quitting. (Client Quit)
 [2013-04-16 03:45:36] ddary, joining. (#ios-driver)
+[2013-04-16 05:45:10] freynaud, quitting. (Quit: Page closed)
+[2013-04-16 05:45:42] freynaud, joining. (#ios-driver)
