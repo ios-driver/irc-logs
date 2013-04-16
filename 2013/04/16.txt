@@ -2,3 +2,4 @@
 [2013-04-16 02:42:01] dawagner, joining. (#ios-driver)
 [2013-04-16 03:03:32] freynaud, joining. (#ios-driver)
 [2013-04-16 03:37:33] ddary, quitting. (Quit: ddary)
+[2013-04-16 03:42:23] ddary, joining. (#ios-driver)
