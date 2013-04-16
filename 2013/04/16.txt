@@ -33,3 +33,4 @@
 [2013-04-16 14:29:59] smccarthy2, quitting. (Remote host closed the connection)
 [2013-04-16 14:39:54] Hammertime38, quitting. (Remote host closed the connection)
 [2013-04-16 14:57:38] Hammertime38, joining. (#ios-driver)
+[2013-04-16 15:54:00] admc, joining. (#ios-driver)
