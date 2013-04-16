@@ -9,3 +9,10 @@
 [2013-04-16 05:45:42] freynaud, joining. (#ios-driver)
 [2013-04-16 05:52:59] ddary, leaving. (#ios-driver)
 [2013-04-16 05:53:24] ddary, joining. (#ios-driver)
+[2013-04-16 07:33:13] ios-driver-git, joining. (#ios-driver)
+[2013-04-16 07:33:13] ios-driver-git: [ios-driver] freynaud pushed 7 new commits to inspector: http://git.io/HHqfZg
+[2013-04-16 07:33:13] ios-driver-git: ios-driver/inspector 2540526 Francois Reynaud: working without framwork
+[2013-04-16 07:33:13] ios-driver-git: ios-driver/inspector 3698ea9 Francois Reynaud: 3 columns resize
+[2013-04-16 07:33:13] ios-driver-git: ios-driver/inspector 92aa81a Francois Reynaud: 3 columns resize-ish
+[2013-04-16 07:33:13] ios-driver-git, leaving. (#ios-driver)
+[2013-04-16 07:34:40] nicegraham: freynaud: new inspector? :)
