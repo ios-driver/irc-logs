@@ -107,3 +107,5 @@
 [2013-04-15 22:20:54] admc, joining. (#ios-driver)
 [2013-04-15 22:22:31] admc, quitting. (Client Quit)
 [2013-04-15 22:24:32] admc, joining. (#ios-driver)
+[2013-04-15 22:56:48] lukeis, joining. (#ios-driver)
+[2013-04-15 22:57:07] lukeis, quitting. (Client Quit)
