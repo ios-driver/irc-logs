@@ -16,3 +16,4 @@
 [2013-04-16 07:33:13] ios-driver-git: ios-driver/inspector 92aa81a Francois Reynaud: 3 columns resize-ish
 [2013-04-16 07:33:13] ios-driver-git, leaving. (#ios-driver)
 [2013-04-16 07:34:40] nicegraham: freynaud: new inspector? :)
+[2013-04-16 07:35:03] freynaud: working on it
