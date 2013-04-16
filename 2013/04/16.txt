@@ -34,3 +34,8 @@
 [2013-04-16 14:39:54] Hammertime38, quitting. (Remote host closed the connection)
 [2013-04-16 14:57:38] Hammertime38, joining. (#ios-driver)
 [2013-04-16 15:54:00] admc, joining. (#ios-driver)
+[2013-04-16 15:56:13] ios-driver-git, joining. (#ios-driver)
+[2013-04-16 15:56:14] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/6hwLsg
+[2013-04-16 15:56:14] ios-driver-git: ios-driver/dev 19a544f rsalvador: Switch to the current WebView when Webkit restarts.
+[2013-04-16 15:56:14] ios-driver-git, leaving. (#ios-driver)
+[2013-04-16 15:59:23] smccarthy, joining. (#ios-driver)
