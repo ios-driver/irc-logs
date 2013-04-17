@@ -5,3 +5,4 @@
 [2013-04-17 02:13:44] admc, quitting. (Quit: Leaving.)
 [2013-04-17 02:28:55] freynaud, joining. (#ios-driver)
 [2013-04-17 03:33:23] System123, leaving. ("Leaving...")
+[2013-04-17 04:25:52] ddary, joining. (#ios-driver)
