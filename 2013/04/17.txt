@@ -26,3 +26,4 @@
 [2013-04-17 12:06:46] Hammertime38, joining. (#ios-driver)
 [2013-04-17 12:09:25] admc1, quitting. (Ping timeout: 248 seconds)
 [2013-04-17 12:10:32] admc2, quitting. (Ping timeout: 255 seconds)
+[2013-04-17 12:16:55] admc, joining. (#ios-driver)
