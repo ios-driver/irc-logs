@@ -7,3 +7,4 @@
 [2013-04-17 03:33:23] System123, leaving. ("Leaving...")
 [2013-04-17 04:25:52] ddary, joining. (#ios-driver)
 [2013-04-17 05:47:52] dawagner, joining. (#ios-driver)
+[2013-04-17 06:00:43] ddary, leaving. (#ios-driver)
