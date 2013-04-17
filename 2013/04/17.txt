@@ -35,3 +35,4 @@
 [2013-04-17 12:41:44] ios-driver-git: ios-driver/dev 2b56e9d nicegraham@gmail.com: fix for https://github.com/ios-driver/ios-driver/issues/18
 [2013-04-17 12:41:44] ios-driver-git, leaving. (#ios-driver)
 [2013-04-17 13:44:41] jlipps, joining. (#ios-driver)
+[2013-04-17 15:14:48] smccarthy2, joining. (#ios-driver)
