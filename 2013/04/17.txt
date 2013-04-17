@@ -30,3 +30,7 @@
 [2013-04-17 12:27:22] ddary, leaving. (#ios-driver)
 [2013-04-17 12:31:53] admc, quitting. (Quit: Leaving.)
 [2013-04-17 12:35:16] dawagner, quitting. (Quit: Leaving)
+[2013-04-17 12:41:44] ios-driver-git, joining. (#ios-driver)
+[2013-04-17 12:41:44] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/o6knKg
+[2013-04-17 12:41:44] ios-driver-git: ios-driver/dev 2b56e9d nicegraham@gmail.com: fix for https://github.com/ios-driver/ios-driver/issues/18
+[2013-04-17 12:41:44] ios-driver-git, leaving. (#ios-driver)
