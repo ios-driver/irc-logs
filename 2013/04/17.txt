@@ -21,3 +21,7 @@
 [2013-04-17 11:46:17] admc, joining. (#ios-driver)
 [2013-04-17 11:48:05] ddary, joining. (#ios-driver)
 [2013-04-17 12:04:46] admc1, joining. (#ios-driver)
+[2013-04-17 12:06:12] admc2, joining. (#ios-driver)
+[2013-04-17 12:06:22] admc, quitting. (Ping timeout: 246 seconds)
+[2013-04-17 12:06:46] Hammertime38, joining. (#ios-driver)
+[2013-04-17 12:09:25] admc1, quitting. (Ping timeout: 248 seconds)
