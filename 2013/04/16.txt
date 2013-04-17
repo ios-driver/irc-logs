@@ -49,3 +49,4 @@
 [2013-04-16 18:22:57] admc, quitting. (Quit: Leaving.)
 [2013-04-16 19:25:14] lukeis, joining. (#ios-driver)
 [2013-04-16 21:11:28] smccarthy, quitting. (Remote host closed the connection)
+[2013-04-16 22:09:34] admc, joining. (#ios-driver)
