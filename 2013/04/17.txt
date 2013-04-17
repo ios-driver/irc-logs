@@ -3,3 +3,4 @@
 [2013-04-17 01:07:03] botton, leaving. (#ios-driver)
 [2013-04-17 01:12:24] ddary, leaving. (#ios-driver)
 [2013-04-17 02:13:44] admc, quitting. (Quit: Leaving.)
+[2013-04-17 02:28:55] freynaud, joining. (#ios-driver)
