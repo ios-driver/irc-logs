@@ -53,3 +53,6 @@
 [2013-04-16 22:19:43] lukeis, quitting. (Quit: Leaving.)
 [2013-04-16 22:26:25] smccarthy, joining. (#ios-driver)
 [2013-04-16 22:45:05] smccarthy, quitting. (Remote host closed the connection)
+[2013-04-16 23:27:08] ddary, joining. (#ios-driver)
+[2013-04-16 23:28:45] ddary, quitting. (Client Quit)
+[2013-04-16 23:29:06] ddary, joining. (#ios-driver)
