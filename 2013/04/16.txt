@@ -44,3 +44,4 @@
 [2013-04-16 16:03:29] ios-driver-git: ios-driver/dev a7d11e1 rsalvador: Wait to send the signalSimSentPages() until message is fully processed.
 [2013-04-16 16:03:29] ios-driver-git, leaving. (#ios-driver)
 [2013-04-16 16:04:52] lukeis, quitting. (Quit: Leaving.)
+[2013-04-16 17:47:43] jlipps, quitting. (Quit: Leaving.)
