@@ -20,3 +20,4 @@
 [2013-04-17 11:25:03] lukeis: hopefully my issue comes across well ;)  freynaud/ios-driver#39
 [2013-04-17 11:46:17] admc, joining. (#ios-driver)
 [2013-04-17 11:48:05] ddary, joining. (#ios-driver)
+[2013-04-17 12:04:46] admc1, joining. (#ios-driver)
