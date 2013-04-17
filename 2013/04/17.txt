@@ -1,3 +1,4 @@
 [2013-04-17 00:24:20] System123, joining. (#ios-driver)
 [2013-04-17 01:07:03] botton, joining. (#ios-driver)
 [2013-04-17 01:07:03] botton, leaving. (#ios-driver)
+[2013-04-17 01:12:24] ddary, leaving. (#ios-driver)
