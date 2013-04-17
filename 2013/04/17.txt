@@ -10,3 +10,5 @@
 [2013-04-17 06:00:43] ddary, leaving. (#ios-driver)
 [2013-04-17 07:53:48] freynaud, quitting. (Ping timeout: 245 seconds)
 [2013-04-17 08:25:45] lukeis, joining. (#ios-driver)
+[2013-04-17 09:03:41] admc, joining. (#ios-driver)
+[2013-04-17 09:03:58] admc, quitting. (Client Quit)
