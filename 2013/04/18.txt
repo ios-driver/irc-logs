@@ -22,3 +22,4 @@
 [2013-04-18 05:06:20] dawagner, quitting. (Client Quit)
 [2013-04-18 05:22:34] freynaud, quitting. (Quit: Page closed)
 [2013-04-18 05:23:00] freynaud, joining. (#ios-driver)
+[2013-04-18 05:34:08] dawagner, joining. (#ios-driver)
