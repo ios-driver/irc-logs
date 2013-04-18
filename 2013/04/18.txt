@@ -9,3 +9,7 @@
 [2013-04-18 02:46:25] nicegraham: and do you need a hand with them?
 [2013-04-18 02:48:41] dawagner, joining. (#ios-driver)
 [2013-04-18 02:49:56] freynaud: nicegraham: very unclear atm
+[2013-04-18 02:50:16] freynaud: next week, I work with libimobile
+[2013-04-18 02:50:31] freynaud: depending on the result, I'll decide what's next
+[2013-04-18 02:50:38] nicegraham: ok
+[2013-04-18 02:50:41] nicegraham: did you see https://gist.github.com/Hammertime38/8d2a4e9e6877734a8fe6
