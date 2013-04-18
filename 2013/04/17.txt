@@ -46,3 +46,5 @@
 [2013-04-17 17:16:52] Hammertime38: for now, i'll be off :)
 [2013-04-17 17:16:56] Hammertime38, quitting. (Remote host closed the connection)
 [2013-04-17 18:11:19] admc, quitting. (Quit: Leaving.)
+[2013-04-17 18:47:17] inspiron, joining. (#ios-driver)
+[2013-04-17 18:47:30] inspiron: hi
