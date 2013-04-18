@@ -41,3 +41,4 @@
 [2013-04-18 12:49:08] ios-driver-git: ios-driver/dev 1c121e4 Darragh Grace: Merge branch 'dev' of github.com:nicegraham/ios-driver into dev
 [2013-04-18 12:49:08] ios-driver-git: ios-driver/dev 3a33b85 Darragh Grace: Add Native handler for touchAndHold(duration)
 [2013-04-18 12:49:08] ios-driver-git, leaving. (#ios-driver)
+[2013-04-18 13:23:29] dawagner, joining. (#ios-driver)
