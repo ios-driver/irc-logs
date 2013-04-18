@@ -51,3 +51,4 @@
 [2013-04-17 19:15:18] inspiron, leaving. (#ios-driver)
 [2013-04-17 19:56:40] jlipps, quitting. (Quit: Leaving.)
 [2013-04-17 21:02:49] ios-driverbot_, joining. (#ios-driver)
+[2013-04-17 21:05:19] ios-driverbot, quitting. (Ping timeout: 264 seconds)
