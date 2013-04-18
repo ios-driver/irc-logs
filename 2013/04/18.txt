@@ -13,3 +13,5 @@
 [2013-04-18 02:50:31] freynaud: depending on the result, I'll decide what's next
 [2013-04-18 02:50:38] nicegraham: ok
 [2013-04-18 02:50:41] nicegraham: did you see https://gist.github.com/Hammertime38/8d2a4e9e6877734a8fe6
+[2013-04-18 02:57:03] freynaud: no
+[2013-04-18 02:57:39] nicegraham: hammertime38 posted it in here last night
