@@ -25,3 +25,5 @@
 [2013-04-18 05:34:08] dawagner, joining. (#ios-driver)
 [2013-04-18 06:53:47] freynaud, quitting. (Quit: Page closed)
 [2013-04-18 08:03:42] ddary, leaving. (#ios-driver)
+[2013-04-18 08:25:39] lukeis, joining. (#ios-driver)
+[2013-04-18 08:28:39] jlipps, joining. (#ios-driver)
