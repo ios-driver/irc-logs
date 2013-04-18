@@ -49,3 +49,4 @@
 [2013-04-17 18:47:17] inspiron, joining. (#ios-driver)
 [2013-04-17 18:47:30] inspiron: hi
 [2013-04-17 19:15:18] inspiron, leaving. (#ios-driver)
+[2013-04-17 19:56:40] jlipps, quitting. (Quit: Leaving.)
