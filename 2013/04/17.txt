@@ -42,3 +42,6 @@
 [2013-04-17 16:26:08] smccarthy2, quitting. (Remote host closed the connection)
 [2013-04-17 17:14:57] Hammertime38: Been looking into the instruments errors thrown when working with real devices (perhaps too much) and have arrived at this for now:
 [2013-04-17 17:14:59] Hammertime38: https://gist.github.com/Hammertime38/8d2a4e9e6877734a8fe6
+[2013-04-17 17:16:03] Hammertime38: only happens for specific apps (including our company's, of course), and I haven't found any correlation between apps that successfully install and ones that don't
+[2013-04-17 17:16:52] Hammertime38: for now, i'll be off :)
+[2013-04-17 17:16:56] Hammertime38, quitting. (Remote host closed the connection)
