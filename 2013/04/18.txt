@@ -18,3 +18,5 @@
 [2013-04-18 03:05:38] dawagner, quitting. (Quit: Leaving)
 [2013-04-18 03:21:36] dawagner, joining. (#ios-driver)
 [2013-04-18 03:31:46] dawagner, quitting. (Quit: This computer has gone to sleep)
+[2013-04-18 05:06:20] dawagner, joining. (#ios-driver)
+[2013-04-18 05:06:20] dawagner, quitting. (Client Quit)
