@@ -28,3 +28,4 @@
 [2013-04-18 08:25:39] lukeis, joining. (#ios-driver)
 [2013-04-18 08:28:39] jlipps, joining. (#ios-driver)
 [2013-04-18 08:48:30] smccarthy, joining. (#ios-driver)
+[2013-04-18 09:15:00] dawagner, quitting. (Quit: Leaving)
