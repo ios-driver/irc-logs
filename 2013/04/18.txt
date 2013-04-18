@@ -31,3 +31,4 @@
 [2013-04-18 09:15:00] dawagner, quitting. (Quit: Leaving)
 [2013-04-18 09:33:35] admc, joining. (#ios-driver)
 [2013-04-18 10:25:10] dawagner, joining. (#ios-driver)
+[2013-04-18 10:41:19] dawagner, quitting. (Quit: This computer has gone to sleep)
