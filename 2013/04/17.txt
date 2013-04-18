@@ -40,3 +40,5 @@
 [2013-04-17 15:31:58] admc, joining. (#ios-driver)
 [2013-04-17 16:02:20] lukeis, quitting. (Quit: Leaving.)
 [2013-04-17 16:26:08] smccarthy2, quitting. (Remote host closed the connection)
+[2013-04-17 17:14:57] Hammertime38: Been looking into the instruments errors thrown when working with real devices (perhaps too much) and have arrived at this for now:
+[2013-04-17 17:14:59] Hammertime38: https://gist.github.com/Hammertime38/8d2a4e9e6877734a8fe6
