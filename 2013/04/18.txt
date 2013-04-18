@@ -2,3 +2,4 @@
 [2013-04-18 00:10:52] admc, joining. (#ios-driver)
 [2013-04-18 01:28:55] admc, quitting. (Quit: Leaving.)
 [2013-04-18 02:11:23] ddary, joining. (#ios-driver)
+[2013-04-18 02:28:25] freynaud, joining. (#ios-driver)
