@@ -53,3 +53,4 @@
 [2013-04-19 09:40:44] lukeis: nope… desktop
 [2013-04-19 09:41:01] nicegraham: easier to debug at least...
 [2013-04-19 09:41:08] lukeis: not really ;)
+[2013-04-19 09:59:23] freynaud, quitting. (Quit: freynaud)
