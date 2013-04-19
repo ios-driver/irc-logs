@@ -21,3 +21,8 @@
 [2013-04-19 01:45:25] freynaud: there should be swipe tests in there
 [2013-04-19 01:46:52] nicegraham: ok, I'll look more
 [2013-04-19 01:47:00] nicegraham: I've found a drag and drop page at least
+[2013-04-19 03:20:16] nicegraham: freynaud: I've located a bunch of touch tests in the Selenium project under interactions.touch
+[2013-04-19 03:20:46] nicegraham: should I create a corresponding area in ios-driver or just port the test classes to the root directory?
+[2013-04-19 03:22:11] freynaud: port the tests would be better
+[2013-04-19 03:22:25] freynaud: ideally, mid term, we should switch to plain selenium tests
+[2013-04-19 03:22:51] freynaud_, joining. (#ios-driver)
