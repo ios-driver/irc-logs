@@ -60,3 +60,4 @@
 [2013-04-19 10:34:00] freynaud, quitting. (Client Quit)
 [2013-04-19 11:39:21] ddary, joining. (#ios-driver)
 [2013-04-19 11:52:07] Hammertime38, joining. (#ios-driver)
+[2013-04-19 12:13:06] Hammertime38, quitting. (Remote host closed the connection)
