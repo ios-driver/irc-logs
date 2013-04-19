@@ -58,3 +58,4 @@
 [2013-04-19 10:31:34] freynaud, quitting. (Client Quit)
 [2013-04-19 10:33:42] freynaud, joining. (#ios-driver)
 [2013-04-19 10:34:00] freynaud, quitting. (Client Quit)
+[2013-04-19 11:39:21] ddary, joining. (#ios-driver)
