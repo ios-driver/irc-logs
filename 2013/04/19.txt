@@ -34,3 +34,4 @@
 [2013-04-19 03:28:18] freynaud: sure
 [2013-04-19 03:28:34] freynaud: whatever convention is in the selenium project
 [2013-04-19 03:29:27] nicegraham: ok, cool - will do
+[2013-04-19 04:04:14] smccarthy, quitting. (Remote host closed the connection)
