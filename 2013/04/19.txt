@@ -42,3 +42,4 @@
 [2013-04-19 08:33:05] freynaud, joining. (#ios-driver)
 [2013-04-19 08:41:54] jlipps, joining. (#ios-driver)
 [2013-04-19 08:49:56] smccarthy, joining. (#ios-driver)
+[2013-04-19 08:50:52] lukeis, joining. (#ios-driver)
