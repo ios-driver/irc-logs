@@ -53,3 +53,5 @@
 [2013-04-18 16:35:17] lukeis, quitting. (Quit: Leaving.)
 [2013-04-18 17:55:06] jlipps, quitting. (Quit: Leaving.)
 [2013-04-18 18:26:25] smccarthy, joining. (#ios-driver)
+[2013-04-18 18:32:27] admc, quitting. (Quit: Leaving.)
+[2013-04-18 18:34:25] Hammertime38, quitting. (Remote host closed the connection)
