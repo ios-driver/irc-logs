@@ -45,3 +45,6 @@
 [2013-04-19 08:50:52] lukeis, joining. (#ios-driver)
 [2013-04-19 09:14:07] freynaud, quitting. (Quit: freynaud)
 [2013-04-19 09:27:06] freynaud, joining. (#ios-driver)
+[2013-04-19 09:39:16] nicegraham: lukeis: turns out it's not as simple as I assumed... I need to implement the same calls in the WebDriverLikeCommands.
+[2013-04-19 09:39:27] lukeis: ;)
+[2013-04-19 09:39:55] nicegraham: yep, welcome to my evening :)
