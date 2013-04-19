@@ -3,3 +3,17 @@
 [2013-04-19 01:17:24] admc, joining. (#ios-driver)
 [2013-04-19 01:27:50] admc, quitting. (Quit: Leaving.)
 [2013-04-19 01:39:46] nicegraham: freynaud: how do I add pages to the test resources so I can unit test the touch actions?
+[2013-04-19 01:40:39] freynaud: what do you mean?
+[2013-04-19 01:41:17] nicegraham: I want to create a page with a control which supports swipes, drag and drop etc
+[2013-04-19 01:41:34] nicegraham: looking at the code it's using a compiled appserver?
+[2013-04-19 01:41:50] freynaud: you can find an example on apple example site.
+[2013-04-19 01:42:29] nicegraham: yeah, I have some sample html
+[2013-04-19 01:42:47] nicegraham: but where do I add that in our project so I can test against it?
+[2013-04-19 01:43:09] freynaud: test resource
+[2013-04-19 01:43:32] nicegraham: ok, the current tests are using base.jar it looks like?
+[2013-04-19 01:43:38] freynaud: https://github.com/ios-driver/ios-driver/tree/master/server/src/test/resources/sampleApps
+[2013-04-19 01:43:43] nicegraham: so ignore that and add my own?
+[2013-04-19 01:44:06] nicegraham: this would be a webpage
+[2013-04-19 01:44:17] nicegraham: I'll add an application in next week
+[2013-04-19 01:44:26] nicegraham: I want to unit test on both safari and a native app
+[2013-04-19 01:45:01] freynaud: no sure
