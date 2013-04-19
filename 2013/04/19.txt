@@ -44,3 +44,4 @@
 [2013-04-19 08:49:56] smccarthy, joining. (#ios-driver)
 [2013-04-19 08:50:52] lukeis, joining. (#ios-driver)
 [2013-04-19 09:14:07] freynaud, quitting. (Quit: freynaud)
+[2013-04-19 09:27:06] freynaud, joining. (#ios-driver)
