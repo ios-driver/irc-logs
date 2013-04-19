@@ -69,3 +69,4 @@
 [2013-04-19 13:15:44] ddary, leaving. (#ios-driver)
 [2013-04-19 14:24:52] jlipps, quitting. (Quit: Leaving.)
 [2013-04-19 14:25:29] jlipps, joining. (#ios-driver)
+[2013-04-19 15:18:09] lukeis, quitting. (Quit: Leaving.)
