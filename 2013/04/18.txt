@@ -56,3 +56,6 @@
 [2013-04-18 18:32:27] admc, quitting. (Quit: Leaving.)
 [2013-04-18 18:34:25] Hammertime38, quitting. (Remote host closed the connection)
 [2013-04-18 19:24:12] admc, joining. (#ios-driver)
+[2013-04-18 19:57:10] jlipps, joining. (#ios-driver)
+[2013-04-18 19:57:16] jlipps1, joining. (#ios-driver)
+[2013-04-18 19:58:04] jlipps1, leaving. (#ios-driver)
