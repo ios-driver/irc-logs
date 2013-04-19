@@ -26,3 +26,11 @@
 [2013-04-19 03:22:11] freynaud: port the tests would be better
 [2013-04-19 03:22:25] freynaud: ideally, mid term, we should switch to plain selenium tests
 [2013-04-19 03:22:51] freynaud_, joining. (#ios-driver)
+[2013-04-19 03:27:21] freynaud, quitting. (Ping timeout: 276 seconds)
+[2013-04-19 03:27:22] freynaud_, changing nick to freynaud.
+[2013-04-19 03:27:22] nicegraham: I will port them either way
+[2013-04-19 03:27:30] nicegraham: I meant from a structure persepctive
+[2013-04-19 03:28:06] nicegraham: should I create a uiautomation.ios.selenium.interactions.touch package?
+[2013-04-19 03:28:18] freynaud: sure
+[2013-04-19 03:28:34] freynaud: whatever convention is in the selenium project
+[2013-04-19 03:29:27] nicegraham: ok, cool - will do
