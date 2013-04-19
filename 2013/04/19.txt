@@ -17,3 +17,7 @@
 [2013-04-19 01:44:17] nicegraham: I'll add an application in next week
 [2013-04-19 01:44:26] nicegraham: I want to unit test on both safari and a native app
 [2013-04-19 01:45:01] freynaud: no sure
+[2013-04-19 01:45:17] freynaud: never done it, I  used the selenium tests as is
+[2013-04-19 01:45:25] freynaud: there should be swipe tests in there
+[2013-04-19 01:46:52] nicegraham: ok, I'll look more
+[2013-04-19 01:47:00] nicegraham: I've found a drag and drop page at least
