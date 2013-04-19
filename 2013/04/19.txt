@@ -64,3 +64,4 @@
 [2013-04-19 12:18:38] jlipps, quitting. (Quit: Leaving.)
 [2013-04-19 12:25:09] jlipps, joining. (#ios-driver)
 [2013-04-19 12:43:31] Hammertime38, joining. (#ios-driver)
+[2013-04-19 12:48:06] Hammertime38, quitting. (Ping timeout: 264 seconds)
