@@ -48,3 +48,8 @@
 [2013-04-19 09:39:16] nicegraham: lukeis: turns out it's not as simple as I assumed... I need to implement the same calls in the WebDriverLikeCommands.
 [2013-04-19 09:39:27] lukeis: ;)
 [2013-04-19 09:39:55] nicegraham: yep, welcome to my evening :)
+[2013-04-19 09:40:23] lukeis: my morning is trying to figure out why safari is acting funny with cookies
+[2013-04-19 09:40:34] nicegraham: on ios?
+[2013-04-19 09:40:44] lukeis: nope… desktop
+[2013-04-19 09:41:01] nicegraham: easier to debug at least...
+[2013-04-19 09:41:08] lukeis: not really ;)
