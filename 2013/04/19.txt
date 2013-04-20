@@ -76,3 +76,4 @@
 [2013-04-19 16:10:54] admc, quitting. (Client Quit)
 [2013-04-19 16:54:49] smccarthy, quitting. (Remote host closed the connection)
 [2013-04-19 17:13:50] Hammertime38, quitting. (Remote host closed the connection)
+[2013-04-19 17:18:45] jlipps, quitting. (Quit: Leaving.)
