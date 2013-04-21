@@ -17,3 +17,5 @@
 [2013-04-21 03:16:22] nicegraham: but that wouldn't include the offset
 [2013-04-21 03:25:33] nicegraham: freynaud: the only offset calc I can see in RemoteWebNativeBackedElement is within the nativeClick method - is there another offset calc somewhere else?
 [2013-04-21 08:52:22] freynaud, quitting. (Quit: freynaud)
+[2013-04-21 12:51:49] freynaud, joining. (#ios-driver)
+[2013-04-21 12:51:58] freynaud, quitting. (Client Quit)
