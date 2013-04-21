@@ -5,3 +5,5 @@
 [2013-04-21 02:41:40] nicegraham: this is where I'm trying to get the screensize
 [2013-04-21 02:41:40] nicegraham: https://github.com/nicegraham/ios-driver/blob/fc59dcaebe4b2c2016af187fdb25d6dbbeb25294/server/src/main/java/org/uiautomation/ios/server/command/web/ScrollHandler.java
 [2013-04-21 02:49:24] nicegraham: 
+[2013-04-21 03:08:54] nicegraham: freynaud: another thing I seems to be encountering
+[2013-04-21 03:09:36] nicegraham: is that the location for an element doesn't include the top of the safari app
