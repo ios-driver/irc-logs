@@ -11,3 +11,7 @@
 [2013-04-21 03:13:15] freynaud: not sure i understand
 [2013-04-21 03:13:34] freynaud: but the location of an element for web and for instruments are different
 [2013-04-21 03:13:48] freynaud: that's the offset calculation you can find in native bcecked web element
+[2013-04-21 03:15:38] nicegraham: ok, I'll look at that
+[2013-04-21 03:16:11] nicegraham: we added a getLocation to the RemoteWebElement
+[2013-04-21 03:16:14] nicegraham: which uses the atom
+[2013-04-21 03:16:22] nicegraham: but that wouldn't include the offset
