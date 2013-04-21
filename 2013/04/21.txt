@@ -1,2 +1,6 @@
 [2013-04-21 02:34:58] freynaud, joining. (#ios-driver)
 [2013-04-21 02:39:57] freynaud: nicegraham: hi
+[2013-04-21 02:40:04] nicegraham: hey
+[2013-04-21 02:40:07] nicegraham: good morning
+[2013-04-21 02:41:40] nicegraham: this is where I'm trying to get the screensize
+[2013-04-21 02:41:40] nicegraham: https://github.com/nicegraham/ios-driver/blob/fc59dcaebe4b2c2016af187fdb25d6dbbeb25294/server/src/main/java/org/uiautomation/ios/server/command/web/ScrollHandler.java
