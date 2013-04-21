@@ -15,3 +15,4 @@
 [2013-04-21 03:16:11] nicegraham: we added a getLocation to the RemoteWebElement
 [2013-04-21 03:16:14] nicegraham: which uses the atom
 [2013-04-21 03:16:22] nicegraham: but that wouldn't include the offset
+[2013-04-21 03:25:33] nicegraham: freynaud: the only offset calc I can see in RemoteWebNativeBackedElement is within the nativeClick method - is there another offset calc somewhere else?
