@@ -7,3 +7,7 @@
 [2013-04-21 02:49:24] nicegraham: 
 [2013-04-21 03:08:54] nicegraham: freynaud: another thing I seems to be encountering
 [2013-04-21 03:09:36] nicegraham: is that the location for an element doesn't include the top of the safari app
+[2013-04-21 03:10:30] nicegraham: https://dl.dropboxusercontent.com/u/564974/safari%202.png
+[2013-04-21 03:13:15] freynaud: not sure i understand
+[2013-04-21 03:13:34] freynaud: but the location of an element for web and for instruments are different
+[2013-04-21 03:13:48] freynaud: that's the offset calculation you can find in native bcecked web element
