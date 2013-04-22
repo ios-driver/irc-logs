@@ -59,3 +59,21 @@
 [2013-04-22 07:44:33] nicegraham: https://groups.google.com/forum/?fromgroups=#!topic/ios-driver/a0sDcTCfqt8
 [2013-04-22 07:44:45] nicegraham: 2 people with the same[ish] problem there
 [2013-04-22 07:47:20] nicegraham: https://github.com/ios-driver/ios-driver/issues/7#issuecomment-16704970
+[2013-04-22 08:25:57] nicegraham: freynaud: is there a way to get the native element representing a web element if you have the webelement id?
+[2013-04-22 08:26:07] nicegraham: or convert a webelement into a native element?
+[2013-04-22 08:26:28] freynaud: nicegraham: no
+[2013-04-22 08:26:44] nicegraham: would it be possible to do that?
+[2013-04-22 08:26:45] freynaud: nicegraham: I tried having the element by location, and it somehow worked
+[2013-04-22 08:27:05] nicegraham: what do you mean?
+[2013-04-22 08:27:08] freynaud: but if you look at a page with a frame, the frame isn't inspectable using instruments
+[2013-04-22 08:27:24] freynaud: so you're bound to coordinate based if you want something correct in all situation
+[2013-04-22 08:27:35] nicegraham: :(
+[2013-04-22 08:28:05] freynaud: if you don't have a frame, you can find the position of the html element on the screen, then find what native element is there
+[2013-04-22 08:28:31] nicegraham: but that won't allow for offset due to browser right?
+[2013-04-22 08:28:33] freynaud: but even that is flaky. You have invisible images around from time to time
+[2013-04-22 08:28:47] freynaud: browser offset should be taken care of
+[2013-04-22 08:28:53] freynaud: in the nativeBacked element
+[2013-04-22 08:29:22] nicegraham: RemoteWebNativeBackedElement?
+[2013-04-22 08:29:23] freynaud: if scolls to have the webelement visible, then calculate the offset of the url bar etc, and get you the native x,y
+[2013-04-22 08:29:54] nicegraham: I can only see offset calculations in the getNativeElementClickOnIt method
+[2013-04-22 08:29:57] freynaud: if you touch that code, make sure you run ALL web tests :)
