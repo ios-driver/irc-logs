@@ -25,3 +25,13 @@
 [2013-04-22 07:09:41] nicegraham: but "supportedLanguages": [],
 [2013-04-22 07:10:06] nicegraham: then that causes a problem when you try to specify the app
 [2013-04-22 07:10:14] nicegraham: since it defaults to en
+[2013-04-22 07:37:27] freynaud: if the app has no content
+[2013-04-22 07:37:36] freynaud: what's the issue with defaulting to en ?
+[2013-04-22 07:37:50] freynaud: it should only change the keyboard layout then
+[2013-04-22 07:37:59] nicegraham: the capabilities looks for en by default
+[2013-04-22 07:38:10] nicegraham: but the supportednaguages is empty
+[2013-04-22 07:38:18] nicegraham: so it doesn't match anything
+[2013-04-22 07:38:26] nicegraham: and throws an error in the console
+[2013-04-22 07:38:38] freynaud: what if you don't specify the language ?
+[2013-04-22 07:38:50] nicegraham: haven't tried
+[2013-04-22 07:39:09] nicegraham: but we default the language inside the capabilities for iphone and ipad
