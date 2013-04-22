@@ -117,3 +117,12 @@
 [2013-04-22 09:45:55] nicegraham: ok :)
 [2013-04-22 09:46:58] lukeis, quitting. (Quit: Leaving.)
 [2013-04-22 09:59:13] freynaud, quitting. (Ping timeout: 245 seconds)
+[2013-04-22 10:22:49] lukeis, joining. (#ios-driver)
+[2013-04-22 10:23:11] nicegraham: lukeis: scroll is working on web now :)
+[2013-04-22 10:23:16] nicegraham: but the unit tests fail
+[2013-04-22 10:23:19] lukeis: :)
+[2013-04-22 10:23:38] nicegraham: they are looking for the element position - which doesn't change
+[2013-04-22 10:23:50] lukeis: in the atom?
+[2013-04-22 10:24:08] nicegraham: I assume that's because it's returning the position in the webview as against the screen?
+[2013-04-22 10:24:23] nicegraham: in the unit test
+[2013-04-22 10:24:24] lukeis: we likely need to wrap the getPosition call to offset location by it
