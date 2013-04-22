@@ -113,3 +113,6 @@
 [2013-04-22 09:03:35] lukeis: the ocean is a great swamp cooler ;)
 [2013-04-22 09:03:55] lukeis: why san francisco has such cold summers
 [2013-04-22 09:44:11] nicegraham: lukeis: if i have an x and a y calculated in JS, can I return those as an object which I can cast to a point directly or would I need to instantiate the point using them?
+[2013-04-22 09:45:23] lukeis: i dunno :)  i'd have to look at the javascript return conversion code
+[2013-04-22 09:45:55] nicegraham: ok :)
+[2013-04-22 09:46:58] lukeis, quitting. (Quit: Leaving.)
