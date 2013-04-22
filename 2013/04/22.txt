@@ -139,3 +139,4 @@
 [2013-04-22 13:47:46] dawagner, joining. (#ios-driver)
 [2013-04-22 13:47:49] dawagner, quitting. (Client Quit)
 [2013-04-22 13:57:38] Hammertime38, quitting. (Remote host closed the connection)
+[2013-04-22 14:02:37] Hammertime38, joining. (#ios-driver)
