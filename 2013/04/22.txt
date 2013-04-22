@@ -93,3 +93,4 @@
 [2013-04-22 08:40:03] nicegraham: we've implemented them for native and they work
 [2013-04-22 08:40:11] nicegraham: but I'm trying to get the same stuff going for web
 [2013-04-22 08:40:35] nicegraham: I need to know the x,y to start the action from if I'm given a weblement
+[2013-04-22 08:47:51] lukeis, joining. (#ios-driver)
