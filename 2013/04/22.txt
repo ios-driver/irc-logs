@@ -87,3 +87,6 @@
 [2013-04-22 08:32:10] nicegraham: then I could use the screen position part elsewhere
 [2013-04-22 08:33:36] freynaud: sure
 [2013-04-22 08:33:39] freynaud: where do you need it ?
+[2013-04-22 08:38:02] smccarthy, joining. (#ios-driver)
+[2013-04-22 08:39:39] nicegraham: for native touch on weblements
+[2013-04-22 08:39:48] nicegraham: flick, scroll, tap, doubletap etc
