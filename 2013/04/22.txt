@@ -35,3 +35,26 @@
 [2013-04-22 07:38:38] freynaud: what if you don't specify the language ?
 [2013-04-22 07:38:50] nicegraham: haven't tried
 [2013-04-22 07:39:09] nicegraham: but we default the language inside the capabilities for iphone and ipad
+[2013-04-22 07:40:04] freynaud: https://github.com/ios-driver/ios-driver/blob/master/server/src/test/java/org/uiautomation/ios/e2e/config/NewSessionTest.java#L74
+[2013-04-22 07:40:15] freynaud: i don't get how it is different from that test
+[2013-04-22 07:41:09] nicegraham: the sample code we give is
+[2013-04-22 07:41:17] nicegraham: DesiredCapabilities cap = IOSCapabilities.iphone("InternationalMountains", "1.1");
+[2013-04-22 07:41:17] nicegraham:     // start the application
+[2013-04-22 07:41:17] nicegraham:     RemoteWebDriver driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), cap);
+[2013-04-22 07:41:29] nicegraham: that sets the language to en
+[2013-04-22 07:41:36] freynaud: correct
+[2013-04-22 07:41:42] freynaud: so does the test I pasted
+[2013-04-22 07:41:47] nicegraham: that's what people are trying and that's failing for them
+[2013-04-22 07:41:55] freynaud: ha, people :)
+[2013-04-22 07:42:22] nicegraham: I don't the test does that, it seems to be getting hte actual caps from the driver
+[2013-04-22 07:42:23] nicegraham: IOSCapabilities actual = driver.getCapabilities();
+[2013-04-22 07:43:10] freynaud: the test starts the app
+[2013-04-22 07:43:29] freynaud: then calls getCap to see if it can successfuly interact with it
+[2013-04-22 07:43:39] nicegraham: ok, see that now in base()
+[2013-04-22 07:43:52] nicegraham: I need to look at it closer so
+[2013-04-22 07:44:01] freynaud: what issue is that ?
+[2013-04-22 07:44:05] freynaud: is there a bug filed ?
+[2013-04-22 07:44:05] nicegraham: I don't know :)
+[2013-04-22 07:44:15] freynaud: or a thread ?
+[2013-04-22 07:44:33] nicegraham: https://groups.google.com/forum/?fromgroups=#!topic/ios-driver/a0sDcTCfqt8
+[2013-04-22 07:44:45] nicegraham: 2 people with the same[ish] problem there
