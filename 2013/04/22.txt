@@ -23,3 +23,5 @@
 [2013-04-22 07:09:16] nicegraham: it's the same as athat
 [2013-04-22 07:09:22] nicegraham: it gets added as a capability
 [2013-04-22 07:09:41] nicegraham: but "supportedLanguages": [],
+[2013-04-22 07:10:06] nicegraham: then that causes a problem when you try to specify the app
+[2013-04-22 07:10:14] nicegraham: since it defaults to en
