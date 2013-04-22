@@ -116,3 +116,4 @@
 [2013-04-22 09:45:23] lukeis: i dunno :)  i'd have to look at the javascript return conversion code
 [2013-04-22 09:45:55] nicegraham: ok :)
 [2013-04-22 09:46:58] lukeis, quitting. (Quit: Leaving.)
+[2013-04-22 09:59:13] freynaud, quitting. (Ping timeout: 245 seconds)
