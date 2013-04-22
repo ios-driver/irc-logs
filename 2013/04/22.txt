@@ -136,3 +136,5 @@
 [2013-04-22 13:21:31] dawagner, quitting. (Quit: This computer has gone to sleep)
 [2013-04-22 13:36:44] smccarthy2, joining. (#ios-driver)
 [2013-04-22 13:40:32] smccarthy, quitting. (Ping timeout: 255 seconds)
+[2013-04-22 13:47:46] dawagner, joining. (#ios-driver)
+[2013-04-22 13:47:49] dawagner, quitting. (Client Quit)
