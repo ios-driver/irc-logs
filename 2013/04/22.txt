@@ -77,3 +77,13 @@
 [2013-04-22 08:29:23] freynaud: if scolls to have the webelement visible, then calculate the offset of the url bar etc, and get you the native x,y
 [2013-04-22 08:29:54] nicegraham: I can only see offset calculations in the getNativeElementClickOnIt method
 [2013-04-22 08:29:57] freynaud: if you touch that code, make sure you run ALL web tests :)
+[2013-04-22 08:31:08] freynaud: nicegraham: everything uses that method
+[2013-04-22 08:31:21] nicegraham: the getNativeElementClickOnIt?
+[2013-04-22 08:31:24] freynaud: to enter text, you need to tap first, to make the keyboard appear
+[2013-04-22 08:31:31] nicegraham: ok
+[2013-04-22 08:31:33] dawagner, quitting. (Quit: Leaving)
+[2013-04-22 08:31:53] nicegraham: so maybe it could be split into a get screen positon method
+[2013-04-22 08:32:00] nicegraham: and a seperate click?
+[2013-04-22 08:32:10] nicegraham: then I could use the screen position part elsewhere
+[2013-04-22 08:33:36] freynaud: sure
+[2013-04-22 08:33:39] freynaud: where do you need it ?
