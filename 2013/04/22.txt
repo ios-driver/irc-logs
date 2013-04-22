@@ -58,3 +58,4 @@
 [2013-04-22 07:44:15] freynaud: or a thread ?
 [2013-04-22 07:44:33] nicegraham: https://groups.google.com/forum/?fromgroups=#!topic/ios-driver/a0sDcTCfqt8
 [2013-04-22 07:44:45] nicegraham: 2 people with the same[ish] problem there
+[2013-04-22 07:47:20] nicegraham: https://github.com/ios-driver/ios-driver/issues/7#issuecomment-16704970
