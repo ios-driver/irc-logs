@@ -5,3 +5,4 @@
 [2013-04-22 06:36:52] nicegraham: the dev team here created a sample app to allow testing of the native touch events
 [2013-04-22 06:37:15] nicegraham: it doesn't have a .strings file in the en.lproj folder apart from InfoPlist.strings
 [2013-04-22 06:37:37] nicegraham: it seems like having a file like that is not a requirement for an app?
+[2013-04-22 06:47:51] dawagner, joining. (#ios-driver)
