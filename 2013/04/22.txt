@@ -1,0 +1,1 @@
+[2013-04-22 04:09:15] nicegraham: note: freynaud do apps *need* to have the strings file we're expecting or can an app be valid without them [and therefore we shouldn't ignore apps which don't have one]? https://groups.google.com/d/msg/ios-driver/a0sDcTCfqt8/2ZXkfKox2PUJ
