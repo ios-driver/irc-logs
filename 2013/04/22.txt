@@ -126,3 +126,8 @@
 [2013-04-22 10:24:08] nicegraham: I assume that's because it's returning the position in the webview as against the screen?
 [2013-04-22 10:24:23] nicegraham: in the unit test
 [2013-04-22 10:24:24] lukeis: we likely need to wrap the getPosition call to offset location by it
+[2013-04-22 10:25:22] nicegraham: in the unit test int x = link.getLocation().x;
+[2013-04-22 10:25:38] nicegraham: get location uses the Se atom
+[2013-04-22 10:26:13] nicegraham: maybe it doesn't actually
+[2013-04-22 10:26:18] nicegraham: will need to step into it
+[2013-04-22 10:26:31] nicegraham: the x and y returned dont change based on screen position though
