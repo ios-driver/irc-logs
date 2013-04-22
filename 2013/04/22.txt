@@ -94,3 +94,12 @@
 [2013-04-22 08:40:11] nicegraham: but I'm trying to get the same stuff going for web
 [2013-04-22 08:40:35] nicegraham: I need to know the x,y to start the action from if I'm given a weblement
 [2013-04-22 08:47:51] lukeis, joining. (#ios-driver)
+[2013-04-22 08:55:15] nicegraham: good morning lukeis
+[2013-04-22 08:55:26] lukeis: hiya
+[2013-04-22 08:55:48] nicegraham: good weekend?
+[2013-04-22 08:56:08] lukeis: yeah, pretty good… kept busy with the kids
+[2013-04-22 08:56:47] nicegraham: cool, I cut my grass - which means improving weather :)
+[2013-04-22 08:57:12] lukeis: ahh, nice!  yesterday was in the 80s… so nice and warm
+[2013-04-22 08:57:34] nicegraham: woh! that's hot
+[2013-04-22 08:57:56] nicegraham: we hit maybe 60 over the weekend and were delighted!
+[2013-04-22 08:59:35] lukeis: heh, in the summer we are often in the 100s (38C + )
