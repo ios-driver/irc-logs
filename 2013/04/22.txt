@@ -90,3 +90,6 @@
 [2013-04-22 08:38:02] smccarthy, joining. (#ios-driver)
 [2013-04-22 08:39:39] nicegraham: for native touch on weblements
 [2013-04-22 08:39:48] nicegraham: flick, scroll, tap, doubletap etc
+[2013-04-22 08:40:03] nicegraham: we've implemented them for native and they work
+[2013-04-22 08:40:11] nicegraham: but I'm trying to get the same stuff going for web
+[2013-04-22 08:40:35] nicegraham: I need to know the x,y to start the action from if I'm given a weblement
