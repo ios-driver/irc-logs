@@ -20,3 +20,4 @@
 [2013-04-21 12:51:49] freynaud, joining. (#ios-driver)
 [2013-04-21 12:51:58] freynaud, quitting. (Client Quit)
 [2013-04-21 20:18:42] jlipps, joining. (#ios-driver)
+[2013-04-21 20:20:25] jlipps, quitting. (Client Quit)
