@@ -1,3 +1,7 @@
 [2013-04-22 04:09:15] nicegraham: note: freynaud do apps *need* to have the strings file we're expecting or can an app be valid without them [and therefore we shouldn't ignore apps which don't have one]? https://groups.google.com/d/msg/ios-driver/a0sDcTCfqt8/2ZXkfKox2PUJ
 [2013-04-22 04:10:32] nicegraham: help:
 [2013-04-22 05:21:16] freynaud, joining. (#ios-driver)
+[2013-04-22 06:36:30] nicegraham: hey freynaud
+[2013-04-22 06:36:52] nicegraham: the dev team here created a sample app to allow testing of the native touch events
+[2013-04-22 06:37:15] nicegraham: it doesn't have a .strings file in the en.lproj folder apart from InfoPlist.strings
+[2013-04-22 06:37:37] nicegraham: it seems like having a file like that is not a requirement for an app?
