@@ -15,3 +15,11 @@
 [2013-04-22 07:04:18] nicegraham: I think a change could be to to look for *.strings in a lang folder?
 [2013-04-22 07:04:31] nicegraham: so InfoPlist.strings would count in that case...
 [2013-04-22 07:04:54] nicegraham: is there a reason you discounted that previously?
+[2013-04-22 07:08:07] freynaud: there should be a test for empty
+[2013-04-22 07:08:10] freynaud: let me check
+[2013-04-22 07:08:44] freynaud: yes
+[2013-04-22 07:08:48] freynaud: how is it different from
+[2013-04-22 07:08:49] freynaud: https://github.com/ios-driver/ios-driver/tree/master/server/src/test/resources/sampleApps/testNoContent.app
+[2013-04-22 07:09:16] nicegraham: it's the same as athat
+[2013-04-22 07:09:22] nicegraham: it gets added as a capability
+[2013-04-22 07:09:41] nicegraham: but "supportedLanguages": [],
