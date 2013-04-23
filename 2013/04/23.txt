@@ -56,3 +56,4 @@
 [2013-04-23 15:01:38] admc, joining. (#ios-driver)
 [2013-04-23 15:02:05] admc, quitting. (Client Quit)
 [2013-04-23 15:09:02] Hammertime38, quitting. (Remote host closed the connection)
+[2013-04-23 15:11:16] Hammertime38, joining. (#ios-driver)
