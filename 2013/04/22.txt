@@ -142,3 +142,4 @@
 [2013-04-22 14:02:37] Hammertime38, joining. (#ios-driver)
 [2013-04-22 14:53:16] dawagner, joining. (#ios-driver)
 [2013-04-22 16:02:26] lukeis, quitting. (Quit: Leaving.)
+[2013-04-22 17:02:06] Hammertime38, quitting. (Remote host closed the connection)
