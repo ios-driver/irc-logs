@@ -38,3 +38,17 @@
 [2013-04-23 14:01:12] santiycr, joining. (#ios-driver)
 [2013-04-23 14:16:21] santiycr, quitting. (Quit: Leaving.)
 [2013-04-23 14:16:52] Hammertime38, joining. (#ios-driver)
+[2013-04-23 14:36:05] nicegraham: lukeis: catch many of the talks today?
+[2013-04-23 14:36:23] lukeis: yeah, a few of the ones i cared about
+[2013-04-23 14:36:32] nicegraham: any highlights?
+[2013-04-23 14:37:14] lukeis: hmm, i don't think anything stands out for me, all was re-affirming what I knew about (for the most part)
+[2013-04-23 14:37:26] nicegraham: yeah
+[2013-04-23 14:37:28] lukeis: but it is all there for you to have a re-listen to if you'd like :)
+[2013-04-23 14:37:43] nicegraham: eurostar was very like that last year
+[2013-04-23 14:37:52] nicegraham: I watched a lot of them
+[2013-04-23 14:38:05] nicegraham: quite like the mozilla one
+[2013-04-23 14:38:15] nicegraham: simons was pretty decent too
+[2013-04-23 14:38:26] lukeis: yeah, i like listening to simon ;)
+[2013-04-23 14:38:34] nicegraham: I thought I'd like the expedia one
+[2013-04-23 14:38:42] nicegraham: but I lost interest and skipped back
+[2013-04-23 14:39:50] nicegraham: oh, the angular js lightning talk was good too
