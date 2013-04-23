@@ -1,1 +1,7 @@
 [2013-04-23 02:32:40] freynaud, joining. (#ios-driver)
+[2013-04-23 06:06:15] ios-driver-git, joining. (#ios-driver)
+[2013-04-23 06:06:15] ios-driver-git: [ios-driver] nicegraham pushed 10 new commits to dev: http://git.io/CWtfbw
+[2013-04-23 06:06:15] ios-driver-git: ios-driver/dev a2c4e3f nicegraham: adding touch tests for web [they don't work yet]
+[2013-04-23 06:06:15] ios-driver-git: ios-driver/dev 2edf80c nicegraham: Merge branch 'dev' of github.com:nicegraham/ios-driver into dev
+[2013-04-23 06:06:15] ios-driver-git: ios-driver/dev f0c8424 nicegraham: Merge branch 'dev' of github.com:ios-driver/ios-driver into dev
+[2013-04-23 06:06:15] ios-driver-git, leaving. (#ios-driver)
