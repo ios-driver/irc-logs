@@ -13,3 +13,4 @@
 [2013-04-23 08:44:48] freynaud_, joining. (#ios-driver)
 [2013-04-23 08:45:28] freynaud, quitting. (Ping timeout: 245 seconds)
 [2013-04-23 08:48:58] admc, joining. (#ios-driver)
+[2013-04-23 09:12:17] dgrace, quitting. (Quit: Connection closed for inactivity)
