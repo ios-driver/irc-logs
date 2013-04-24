@@ -63,3 +63,5 @@
 [2013-04-24 11:01:42] nicegraham: nope :)
 [2013-04-24 11:01:52] nicegraham: I assume they're going to share it at that talk?!
 [2013-04-24 11:02:50] admc, joining. (#ios-driver)
+[2013-04-24 11:07:37] santiycr, joining. (#ios-driver)
+[2013-04-24 11:09:34] smccarthy2, quitting. (Remote host closed the connection)
