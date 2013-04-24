@@ -88,3 +88,4 @@
 [2013-04-24 13:46:25] santiycr, quitting. (Quit: Leaving.)
 [2013-04-24 14:51:06] santiycr, joining. (#ios-driver)
 [2013-04-24 14:59:42] santiycr, quitting. (Quit: Leaving.)
+[2013-04-24 16:03:06] lukeis, quitting. (Quit: Leaving.)
