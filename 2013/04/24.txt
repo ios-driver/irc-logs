@@ -67,3 +67,4 @@
 [2013-04-24 11:09:34] smccarthy2, quitting. (Remote host closed the connection)
 [2013-04-24 11:11:03] nicegraham: can't believe there's only 192 people watching the streaming videos... that seems way too low.
 [2013-04-24 11:14:59] santiycr, quitting. (Ping timeout: 252 seconds)
+[2013-04-24 11:15:38] santiycr, joining. (#ios-driver)
