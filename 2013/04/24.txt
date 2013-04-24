@@ -37,3 +37,19 @@
 [2013-04-24 10:31:53] santiycr, joining. (#ios-driver)
 [2013-04-24 10:36:51] lukeis, joining. (#ios-driver)
 [2013-04-24 10:54:59] nicegraham: lukeis: hey
+[2013-04-24 10:55:06] lukeis: hey
+[2013-04-24 10:55:13] nicegraham: so my failing unit tests...
+[2013-04-24 10:55:26] nicegraham: is there ay reason we'd want to get the location using the normal atom?
+[2013-04-24 10:55:38] nicegraham: as against getting the screen location?
+[2013-04-24 10:55:40] santiycr, quitting. (Quit: Leaving.)
+[2013-04-24 10:56:14] lukeis: i thought there was already code around getting location on screen? (in the click code)
+[2013-04-24 10:56:24] *lukeis just remembering things'
+[2013-04-24 10:56:28] nicegraham: yeah
+[2013-04-24 10:56:39] nicegraham: its in the native backed element class
+[2013-04-24 10:57:00] nicegraham: that's not available for a normal webelement
+[2013-04-24 10:57:11] nicegraham: I need to see if I can access that code
+[2013-04-24 10:57:17] lukeis: there's JS that francois wrote that figures it out
+[2013-04-24 10:58:02] nicegraham: but actually I had another problem with that, when I try to cast the result of driver.findElement() to a ios-driver RemoteWeblement it throws an exception
+[2013-04-24 10:58:07] nicegraham: any ideas on that?
+[2013-04-24 10:58:30] nicegraham: that position code works - that's what I'm using behind the scenes to know where to send the native command
+[2013-04-24 10:58:41] nicegraham: I've split it out of the nativeClick method
