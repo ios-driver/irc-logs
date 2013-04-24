@@ -80,3 +80,8 @@
 [2013-04-24 13:14:12] admc, joining. (#ios-driver)
 [2013-04-24 13:26:24] santiycr, quitting. (Quit: Leaving.)
 [2013-04-24 13:32:02] santiycr, joining. (#ios-driver)
+[2013-04-24 13:35:32] ios-driver-git, joining. (#ios-driver)
+[2013-04-24 13:35:32] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to gh-pages: http://git.io/QWkYSw
+[2013-04-24 13:35:32] ios-driver-git: ios-driver/gh-pages a8c1e4e Graham Abell: adding sudo to the commands
+[2013-04-24 13:35:32] ios-driver-git, leaving. (#ios-driver)
+[2013-04-24 13:36:16] admc, quitting. (Quit: Leaving.)
