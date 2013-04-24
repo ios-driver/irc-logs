@@ -53,3 +53,13 @@
 [2013-04-24 10:58:07] nicegraham: any ideas on that?
 [2013-04-24 10:58:30] nicegraham: that position code works - that's what I'm using behind the scenes to know where to send the native command
 [2013-04-24 10:58:41] nicegraham: I've split it out of the nativeClick method
+[2013-04-24 11:00:03] nicegraham: https://github.com/ios-driver/ios-driver/blob/dev/server/src/main/java/org/uiautomation/ios/wkrdp/model/RemoteWebNativeBackedElement.java#L91
+[2013-04-24 11:00:40] nicegraham: have you looked at espresso for android? it came up in the breaking the matrix talk and there's a lightning talk about it too
+[2013-04-24 11:00:52] lukeis: i can't find a url for it
+[2013-04-24 11:01:01] lukeis: googling espresso isn't helpful ;)
+[2013-04-24 11:01:10] nicegraham: i found a video on it.
+[2013-04-24 11:01:28] nicegraham: http://www.youtube.com/watch?v=qtKx1WxK7cw&feature=autoshare
+[2013-04-24 11:01:29] lukeis: any project url?
+[2013-04-24 11:01:42] nicegraham: nope :)
+[2013-04-24 11:01:52] nicegraham: I assume they're going to share it at that talk?!
+[2013-04-24 11:02:50] admc, joining. (#ios-driver)
