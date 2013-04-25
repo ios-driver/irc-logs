@@ -20,3 +20,22 @@
 [2013-04-25 02:08:24] freynaud: it will be updated here
 [2013-04-25 02:08:44] nicegraham: it's nothing to do with instruments?
 [2013-04-25 02:08:55] nicegraham: I thought there was a timeout there for responses?
+[2013-04-25 02:10:13] freynaud: it's not a timeout
+[2013-04-25 02:10:25] nicegraham: ok
+[2013-04-25 02:10:33] freynaud: if the response is large, it comes back in a different type of message
+[2013-04-25 02:10:53] freynaud: the java code is only looking for a single type of message, the short one
+[2013-04-25 02:11:08] freynaud: that is never returned for long messages, so it times out
+[2013-04-25 02:11:14] nicegraham: right, I understand
+[2013-04-25 02:11:16] freynaud: but it's not really a timeout.
+[2013-04-25 02:11:34] freynaud: anyway, it's in my todo
+[2013-04-25 02:11:47] freynaud: not just now, as today is real device day :)
+[2013-04-25 02:11:52] nicegraham: :)
+[2013-04-25 02:12:00] nicegraham: nice to be getting feedback anyway
+[2013-04-25 02:12:12] nicegraham: any closer to safari on real devices?
+[2013-04-25 02:13:02] freynaud: yesterday I would have said that there is a 50/50 chance to have it working
+[2013-04-25 02:13:19] freynaud: today I'm 90% confident
+[2013-04-25 02:13:24] freynaud: we're getting closer
+[2013-04-25 02:13:31] nicegraham: Awesome!
+[2013-04-25 02:13:41] nicegraham: that's really good news
+[2013-04-25 02:13:55] freynaud: agreed
+[2013-04-25 02:14:53] nicegraham: are you clearer on the roadmap to seconf?
