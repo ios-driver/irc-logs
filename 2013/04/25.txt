@@ -85,3 +85,4 @@
 [2013-04-25 08:06:34] lukeis, joining. (#ios-driver)
 [2013-04-25 08:29:14] admc, joining. (#ios-driver)
 [2013-04-25 08:33:48] admc, quitting. (Ping timeout: 264 seconds)
+[2013-04-25 08:43:23] munch, quitting. (Ping timeout: 245 seconds)
