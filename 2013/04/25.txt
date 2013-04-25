@@ -13,3 +13,6 @@
 [2013-04-25 01:48:07] nicegraham: have you already though about how to do this or is that JS the way to go?
 [2013-04-25 01:48:27] freynaud: we'll have to do JS i'm afraid
 [2013-04-25 01:48:39] freynaud: and that means updating the protocol to handle bigger messages
+[2013-04-25 01:57:29] nicegraham: ok
+[2013-04-25 01:57:41] nicegraham: do you want to update the protocol :)
+[2013-04-25 01:57:42] nicegraham: ?
