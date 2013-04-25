@@ -75,3 +75,4 @@
 [2013-04-25 06:47:09] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/XtLBNQ
 [2013-04-25 06:47:09] ios-driver-git, leaving. (#ios-driver)
 [2013-04-25 07:04:39] admc, joining. (#ios-driver)
+[2013-04-25 07:09:02] admc, quitting. (Ping timeout: 255 seconds)
