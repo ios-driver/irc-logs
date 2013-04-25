@@ -74,3 +74,4 @@
 [2013-04-25 06:47:09] ios-driver-git: ios-driver/dev 215dde3 Graham Abell: registering capabilities as part of the hub registration
 [2013-04-25 06:47:09] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/XtLBNQ
 [2013-04-25 06:47:09] ios-driver-git, leaving. (#ios-driver)
+[2013-04-25 07:04:39] admc, joining. (#ios-driver)
