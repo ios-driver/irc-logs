@@ -45,3 +45,5 @@
 [2013-04-25 02:18:05] freynaud: if we can support multiple real devices on linux or windows, that will go in the conference presentation.
 [2013-04-25 02:18:10] freynaud: but it's not there yet
 [2013-04-25 02:19:40] admc, joining. (#ios-driver)
+[2013-04-25 02:23:54] nicegraham: I can bring devices if you need them
+[2013-04-25 02:24:30] admc, quitting. (Ping timeout: 256 seconds)
