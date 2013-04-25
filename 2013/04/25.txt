@@ -108,3 +108,4 @@
 [2013-04-25 12:53:45] admc, joining. (#ios-driver)
 [2013-04-25 13:34:23] dawagner, joining. (#ios-driver)
 [2013-04-25 14:09:28] Hammertime38, joining. (#ios-driver)
+[2013-04-25 14:13:37] AutomatedTester_, joining. (#ios-driver)
