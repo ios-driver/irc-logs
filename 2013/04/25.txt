@@ -53,3 +53,5 @@
 [2013-04-25 02:32:40] nicegraham: at gtac they had a device camera so people could demo things on mobiles - not sure if you saw any of it the last 2 days
 [2013-04-25 02:32:51] nicegraham: it seemed very well organised
 [2013-04-25 02:33:05] nicegraham: stenographers and sign language people working away during all the talks
+[2013-04-25 02:50:23] admc, joining. (#ios-driver)
+[2013-04-25 02:54:33] admc, quitting. (Ping timeout: 240 seconds)
