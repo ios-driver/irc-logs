@@ -106,3 +106,4 @@
 [2013-04-25 11:20:41] nicegraham: it would probably help him implement that fix having a call in to exercise it  :)
 [2013-04-25 12:24:06] admc, quitting. (Quit: Leaving.)
 [2013-04-25 12:53:45] admc, joining. (#ios-driver)
+[2013-04-25 13:34:23] dawagner, joining. (#ios-driver)
