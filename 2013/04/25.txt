@@ -49,3 +49,7 @@
 [2013-04-25 02:24:30] admc, quitting. (Ping timeout: 256 seconds)
 [2013-04-25 02:26:43] freynaud: i'll see how much setup is needed
 [2013-04-25 02:27:08] freynaud: a video might be easier. You can't really see the devices from far away
+[2013-04-25 02:31:59] nicegraham: yeah, that's true
+[2013-04-25 02:32:40] nicegraham: at gtac they had a device camera so people could demo things on mobiles - not sure if you saw any of it the last 2 days
+[2013-04-25 02:32:51] nicegraham: it seemed very well organised
+[2013-04-25 02:33:05] nicegraham: stenographers and sign language people working away during all the talks
