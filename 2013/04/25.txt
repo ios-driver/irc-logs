@@ -3,3 +3,4 @@
 [2013-04-25 00:58:45] admc, quitting. (Ping timeout: 258 seconds)
 [2013-04-25 01:25:26] admc, joining. (#ios-driver)
 [2013-04-25 01:26:05] freynaud, joining. (#ios-driver)
+[2013-04-25 01:30:12] admc, quitting. (Ping timeout: 264 seconds)
