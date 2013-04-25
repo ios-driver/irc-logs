@@ -39,3 +39,9 @@
 [2013-04-25 02:13:41] nicegraham: that's really good news
 [2013-04-25 02:13:55] freynaud: agreed
 [2013-04-25 02:14:53] nicegraham: are you clearer on the roadmap to seconf?
+[2013-04-25 02:17:01] freynaud: didn't think about it yet
+[2013-04-25 02:17:12] freynaud: i'll book my flight this week
+[2013-04-25 02:17:33] freynaud: it will depend a lot on this week's work
+[2013-04-25 02:18:05] freynaud: if we can support multiple real devices on linux or windows, that will go in the conference presentation.
+[2013-04-25 02:18:10] freynaud: but it's not there yet
+[2013-04-25 02:19:40] admc, joining. (#ios-driver)
