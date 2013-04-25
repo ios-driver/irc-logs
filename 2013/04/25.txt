@@ -111,3 +111,4 @@
 [2013-04-25 14:13:37] AutomatedTester_, joining. (#ios-driver)
 [2013-04-25 14:15:32] AutomatedTester, quitting. (*.net *.split)
 [2013-04-25 14:15:32] AutomatedTester_, changing nick to AutomatedTester.
+[2013-04-25 14:22:09] santiycr, quitting. (Quit: Leaving.)
