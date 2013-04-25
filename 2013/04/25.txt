@@ -4,3 +4,12 @@
 [2013-04-25 01:25:26] admc, joining. (#ios-driver)
 [2013-04-25 01:26:05] freynaud, joining. (#ios-driver)
 [2013-04-25 01:30:12] admc, quitting. (Ping timeout: 264 seconds)
+[2013-04-25 01:46:53] nicegraham: hey freynaud
+[2013-04-25 01:47:02] nicegraham: was chatting to nirvdrum last night
+[2013-04-25 01:47:10] nicegraham: and he's trying to take full canvas screenshots
+[2013-04-25 01:47:32] nicegraham: that's not working at the minute and when I looked at the code we're just doing a device screenshot in the handler.
+[2013-04-25 01:47:46] nicegraham: he gave me js to do it he reckons - but it's monstrously long
+[2013-04-25 01:47:52] nicegraham: https://gist.github.com/nirvdrum/5455977
+[2013-04-25 01:48:07] nicegraham: have you already though about how to do this or is that JS the way to go?
+[2013-04-25 01:48:27] freynaud: we'll have to do JS i'm afraid
+[2013-04-25 01:48:39] freynaud: and that means updating the protocol to handle bigger messages
