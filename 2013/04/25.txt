@@ -58,3 +58,4 @@
 [2013-04-25 03:33:46] freynaud: no
 [2013-04-25 03:34:05] freynaud: I'm in workshop all days this week
 [2013-04-25 03:44:50] admc, joining. (#ios-driver)
+[2013-04-25 03:49:24] admc, quitting. (Ping timeout: 264 seconds)
