@@ -76,3 +76,4 @@
 [2013-04-25 06:47:09] ios-driver-git, leaving. (#ios-driver)
 [2013-04-25 07:04:39] admc, joining. (#ios-driver)
 [2013-04-25 07:09:02] admc, quitting. (Ping timeout: 255 seconds)
+[2013-04-25 07:37:43] dawagner, quitting. (Quit: This computer has gone to sleep)
