@@ -16,3 +16,7 @@
 [2013-04-25 01:57:29] nicegraham: ok
 [2013-04-25 01:57:41] nicegraham: do you want to update the protocol :)
 [2013-04-25 01:57:42] nicegraham: ?
+[2013-04-25 02:08:19] freynaud: it's in libimobile device
+[2013-04-25 02:08:24] freynaud: it will be updated here
+[2013-04-25 02:08:44] nicegraham: it's nothing to do with instruments?
+[2013-04-25 02:08:55] nicegraham: I thought there was a timeout there for responses?
