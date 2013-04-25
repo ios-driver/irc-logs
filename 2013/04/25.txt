@@ -101,3 +101,6 @@
 [2013-04-25 11:19:18] lukeis: is the size a problem?  francois mentioned to me this morning something about an 8k limit (also on the issue i think he mentioned it)
 [2013-04-25 11:19:43] nicegraham: yeah, that's a problem
 [2013-04-25 11:19:47] nicegraham: but he's working on that part
+[2013-04-25 11:20:02] nicegraham: basically libimobile handles large messages differently
+[2013-04-25 11:20:12] nicegraham: and libimobile currently ignores those
+[2013-04-25 11:20:41] nicegraham: it would probably help him implement that fix having a call in to exercise it  :)
