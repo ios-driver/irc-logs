@@ -69,3 +69,4 @@
 [2013-04-25 05:58:27] dawagner, joining. (#ios-driver)
 [2013-04-25 06:23:48] munch, joining. (#ios-driver)
 [2013-04-25 06:34:22] admc, joining. (#ios-driver)
+[2013-04-25 06:38:56] admc, quitting. (Ping timeout: 260 seconds)
