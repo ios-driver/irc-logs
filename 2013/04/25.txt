@@ -94,3 +94,10 @@
 [2013-04-25 09:44:58] admc, quitting. (Ping timeout: 272 seconds)
 [2013-04-25 09:45:38] admc, joining. (#ios-driver)
 [2013-04-25 10:44:45] santiycr, joining. (#ios-driver)
+[2013-04-25 11:17:25] nicegraham: lukeis: got a minute?
+[2013-04-25 11:17:45] lukeis: on the phone, but should be able to talk a bit :)
+[2013-04-25 11:18:09] nicegraham: cool, I had a look at the js kevin created for the screenshot.
+[2013-04-25 11:18:33] nicegraham: i can add the handler no problem - but I assume the js should be minified or something? it's bloody huge...
+[2013-04-25 11:19:18] lukeis: is the size a problem?  francois mentioned to me this morning something about an 8k limit (also on the issue i think he mentioned it)
+[2013-04-25 11:19:43] nicegraham: yeah, that's a problem
+[2013-04-25 11:19:47] nicegraham: but he's working on that part
