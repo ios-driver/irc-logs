@@ -155,3 +155,6 @@
 [2013-04-26 09:42:00] nirvdrum: Bah.  make install must have deleted them.
 [2013-04-26 09:44:29] santiycr, quitting. (Quit: Leaving.)
 [2013-04-26 09:48:23] nirvdrum: This just keeps getting better.  First a permissions error for a file I already owned.  I fixed that.  Now "Malformed Mac-o file"
+[2013-04-26 10:03:08] smccarthy2, joining. (#ios-driver)
+[2013-04-26 10:04:04] lukeis, quitting. (Read error: Connection reset by peer)
+[2013-04-26 10:04:21] lukeis, joining. (#ios-driver)
