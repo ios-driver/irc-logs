@@ -358,3 +358,15 @@
 [2013-04-26 13:28:52] nirvdrum: lukeis: Eh? You lost me on that one.
 [2013-04-26 13:29:33] Hammertime38: the irc channel is in the repo description now
 [2013-04-26 13:29:46] lukeis: look at the top
+[2013-04-26 13:30:26] santiycr, joining. (#ios-driver)
+[2013-04-26 13:30:35] nirvdrum: Heh.  You guys sure like to buck the trend.
+[2013-04-26 13:30:55] lukeis: :) which trend are you referring to?
+[2013-04-26 13:31:44] lukeis: feel free to update the README, i agree it is sparse ;)
+[2013-04-26 13:32:02] nirvdrum: Not using master for primary dev.  Not listing contact info in the README.  Using the description to list contact info rather than a blurb about the project.  Not having the IRC info anywhere on the web site I can find.
+[2013-04-26 13:32:29] nirvdrum: And when you search for the project, Francois's copy of the site still comes up on top.  But there's no pointer to the correct site.
+[2013-04-26 13:32:45] nirvdrum: This project is like the Internet's best kept secret :-P
+[2013-04-26 13:32:45] lukeis: i've asked him a few times to delete that repo
+[2013-04-26 13:32:51] lukeis: heh
+[2013-04-26 13:33:50] Hammertime38: is he still ironing out libimobile? he always seems to log off right before i log on :p
+[2013-04-26 13:34:04] lukeis: he is in europe ;)
+[2013-04-26 13:34:18] lukeis: and yes, he is still working on it apparently
