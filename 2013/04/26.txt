@@ -53,3 +53,7 @@
 [2013-04-26 03:42:49] freynaud: if they don't, it's not something with location. The formHandling tests are already validating the click after it's been zoomed logic normally
 [2013-04-26 03:44:25] nicegraham: the native touch tests validate that the touch has done what it's meant to based on the location of the element pre and post action
 [2013-04-26 03:44:50] nicegraham: that returned Point isn't changing pre and post even though the action itself is working
+[2013-04-26 03:48:17] nicegraham: actually the findPosition Point doesn't change either
+[2013-04-26 03:48:34] nicegraham: the only point which does change and is used by all the native actions is
+[2013-04-26 03:48:35] nicegraham: https://github.com/ios-driver/ios-driver/blob/dev/server/src/main/java/org/uiautomation/ios/wkrdp/model/RemoteWebNativeBackedElement.java#L91
+[2013-04-26 03:48:55] nicegraham: which is where I split out the code from the native click into it's own method
