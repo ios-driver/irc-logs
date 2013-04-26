@@ -199,3 +199,14 @@
 [2013-04-26 10:33:09] freynaud: what version of ios do you use ? and did you install the app from xcode for instruments ?
 [2013-04-26 10:38:33] iostester: ios is 6.0
 [2013-04-26 10:39:09] freynaud: and you deployed the app from xcode with option + I to have the correct entitelment ?
+[2013-04-26 10:40:19] iostester: I didn't install it from xcode as the app was there already on the phone
+[2013-04-26 10:40:26] iostester: I archived it
+[2013-04-26 10:40:44] iostester: and let the test install it while making a call to the remote driver
+[2013-04-26 10:42:49] iostester: I didn't get this part you asked: xcode with option + I to have the correct entitelment
+[2013-04-26 10:43:14] nirvdrum: ags_: Is there a branch I can get your change from?
+[2013-04-26 10:43:18] freynaud: http://developer.apple.com/library/ios/#documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/UsingtheAutomationInstrument/UsingtheAutomationInstrument.html
+[2013-04-26 10:43:32] freynaud: the Node section, for your protection ...
+[2013-04-26 10:43:48] freynaud: you need to sign the app in a specific way for it to be accessible with instrumetns
+[2013-04-26 10:44:18] freynaud: that's what you do in xcode with option I, Product, profile menu
+[2013-04-26 10:44:36] ags_: @nirvdrum: dev
+[2013-04-26 10:44:54] freynaud: nirvdrum: as te title of the chat says :)
