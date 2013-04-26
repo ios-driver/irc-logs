@@ -134,3 +134,6 @@
 [2013-04-25 17:07:07] ioshacker: org.openqa.selenium.SessionNotCreatedException: error starting instrument for session cde384bb-6f5c-434f-92b2-686ae0cfa0c5, Instruments crashed.
 [2013-04-25 17:07:14] ioshacker: Test throws these errors:
 [2013-04-25 17:07:35] ioshacker: if you have tested on a real device...can you share how you are initializing the capabilities?
+[2013-04-25 17:12:02] lukeis: ioshacker: i haven't been using it too often myself, nicegraham has been able to help people, you can try reading some of the closed issues where people figured it out like #3
+[2013-04-25 17:12:28] lukeis: i've gotta run though! i'll be back tomorrow
+[2013-04-25 17:12:33] lukeis, quitting. (Quit: Leaving.)
