@@ -197,3 +197,5 @@
 [2013-04-26 10:31:45] iostester: I had posted an issue with real devices: https://github.com/ios-driver/ios-driver/issues/26
 [2013-04-26 10:32:10] iostester: your help will be much appreciated :)
 [2013-04-26 10:33:09] freynaud: what version of ios do you use ? and did you install the app from xcode for instruments ?
+[2013-04-26 10:38:33] iostester: ios is 6.0
+[2013-04-26 10:39:09] freynaud: and you deployed the app from xcode with option + I to have the correct entitelment ?
