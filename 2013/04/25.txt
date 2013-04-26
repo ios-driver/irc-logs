@@ -137,3 +137,5 @@
 [2013-04-25 17:12:02] lukeis: ioshacker: i haven't been using it too often myself, nicegraham has been able to help people, you can try reading some of the closed issues where people figured it out like #3
 [2013-04-25 17:12:28] lukeis: i've gotta run though! i'll be back tomorrow
 [2013-04-25 17:12:33] lukeis, quitting. (Quit: Leaving.)
+[2013-04-25 17:21:58] santiycr, quitting. (Quit: Leaving.)
+[2013-04-25 17:22:08] ioshacker, quitting. (Ping timeout: 245 seconds)
