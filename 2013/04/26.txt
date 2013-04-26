@@ -341,3 +341,20 @@
 [2013-04-26 13:24:37] lukeis: github bug then?
 [2013-04-26 13:24:40] nirvdrum: Because they similarly weren't updating.
 [2013-04-26 13:24:54] lukeis: cause i've been able to do this kind of PR to other projects
+[2013-04-26 13:25:10] nirvdrum: Perhaps.  But if master isn't being used for active dev, you may as well make "dev" the default branch.
+[2013-04-26 13:25:19] lukeis: yes
+[2013-04-26 13:25:31] nirvdrum: Otherwise everyone submitting pull requests is going to have to know to make that change.
+[2013-04-26 13:25:42] lukeis: done
+[2013-04-26 13:25:59] nirvdrum: Thanks.
+[2013-04-26 13:26:17] lukeis: muhahahha, françois gave me powah
+[2013-04-26 13:26:21] nirvdrum: FYI, it also confused me when I cloned for the first time a few days ago.  There's no mention of "dev" being the active branch.
+[2013-04-26 13:26:31] lukeis: in the README there is
+[2013-04-26 13:26:47] Hammertime38: It also says in the irc notes :)
+[2013-04-26 13:27:04] lukeis: heh /topic ;)
+[2013-04-26 13:27:07] nirvdrum: There's zero mention of the IRC channel in the repo.
+[2013-04-26 13:27:21] nirvdrum: I only came across this today because lukeis mentioned the channel when we were chatting in #selenium.
+[2013-04-26 13:27:53] lukeis: note added to the desc of the repo
+[2013-04-26 13:27:58] nirvdrum: But, yes, I guess I overlooked the note about the 'dev' branch being the active one in the README.
+[2013-04-26 13:28:52] nirvdrum: lukeis: Eh? You lost me on that one.
+[2013-04-26 13:29:33] Hammertime38: the irc channel is in the repo description now
+[2013-04-26 13:29:46] lukeis: look at the top
