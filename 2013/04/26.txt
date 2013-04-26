@@ -389,3 +389,4 @@
 [2013-04-26 14:47:49] ios-driver-git: [ios-driver] LegNeato opened pull request #31: Make sendKeys and setValue send the whole string, not just characters (dev...dev)  http://git.io/vb9H-Q
 [2013-04-26 14:47:49] ios-driver-git, leaving. (#ios-driver)
 [2013-04-26 14:50:08] nirvdrum: Cool.  I got rotation working.  It was just a deficiency in the Ruby bindings.
+[2013-04-26 15:07:07] admc, quitting. (Quit: Leaving.)
