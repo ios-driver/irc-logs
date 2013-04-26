@@ -372,3 +372,4 @@
 [2013-04-26 13:34:18] lukeis: and yes, he is still working on it apparently
 [2013-04-26 13:35:14] Hammertime38: ah. i've just set aside real device testing for other focuses, maybe i'll borrow an ipad mini from the office later since that's what everyone seems to be using
 [2013-04-26 13:35:55] admc, quitting. (Quit: Leaving.)
+[2013-04-26 14:13:57] nirvdrum: How is device orientation handled in WebDriver?  Or screen dimensions for that matter?  Different capabilities?
