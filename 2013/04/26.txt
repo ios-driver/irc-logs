@@ -160,3 +160,7 @@
 [2013-04-26 10:04:21] lukeis, joining. (#ios-driver)
 [2013-04-26 10:06:13] smccarthy, quitting. (Ping timeout: 240 seconds)
 [2013-04-26 10:09:42] ags_, joining. (#ios-driver)
+[2013-04-26 10:10:52] ags_: I fixed a NPE originating in SimulatorProtocolImpl read method
+[2013-04-26 10:11:01] nirvdrum: freynaud: I'm pretty close now.  But you link in some static libs from macports.  Is there any reason to not use the dynamic ones that macos ships with?
+[2013-04-26 10:14:27] freynaud: nirvdrum: args_ message is not clear, what he means is " I solved the long message problem"
+[2013-04-26 10:14:45] freynaud: it will move to dynamic soon
