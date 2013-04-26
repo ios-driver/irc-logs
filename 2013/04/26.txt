@@ -9,3 +9,21 @@
 [2013-04-26 02:53:00] admc, quitting. (Ping timeout: 264 seconds)
 [2013-04-26 03:09:10] nicegraham: freynaud: yt?
 [2013-04-26 03:09:56] freynaud: nicegraham: yes
+[2013-04-26 03:10:09] nicegraham: cool, I have been looking at that screenshot function
+[2013-04-26 03:10:22] freynaud: me too
+[2013-04-26 03:10:24] nicegraham: when I send the js it returns
+[2013-04-26 03:10:28] nicegraham: oh :)
+[2013-04-26 03:10:28] freynaud: doesn't work
+[2013-04-26 03:10:42] freynaud: it works, but it doesn't produce a good screenshot
+[2013-04-26 03:10:48] freynaud: i tried on ebay, amazon
+[2013-04-26 03:10:51] nicegraham: well you're further along that me
+[2013-04-26 03:11:03] freynaud: lots of images are missing, so the screenshot doesn't look anything like the real page
+[2013-04-26 03:11:13] nicegraham: the cast part is failing for me on the response
+[2013-04-26 03:11:28] nicegraham: that's a pity
+[2013-04-26 03:13:44] freynaud: i didn't use ios-driver
+[2013-04-26 03:14:00] freynaud: i ran the script agaisnt a real device using safari console
+[2013-04-26 03:14:04] nicegraham: oh right
+[2013-04-26 03:14:12] nicegraham: I created the handler
+[2013-04-26 03:14:29] nicegraham: and that part and was trying to run it through a test
+[2013-04-26 03:14:44] freynaud: less layer, easier :)
+[2013-04-26 03:14:57] nicegraham: :)
