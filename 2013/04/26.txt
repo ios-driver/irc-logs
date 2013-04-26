@@ -112,3 +112,7 @@
 [2013-04-26 09:03:01] lukeis: i have never built it
 [2013-04-26 09:04:10] ddary, quitting. (Quit: ddary)
 [2013-04-26 09:04:25] nicegraham: me neither - never even looked at it :)
+[2013-04-26 09:05:49] dawagner: Is there somewhere obvious to look for all of the selectors ios-driver supports?
+[2013-04-26 09:06:19] dawagner: Aah found it :)
+[2013-04-26 09:09:20] nirvdrum: You guys are making me work way too hard for this.  Where's my instant gratification?
+[2013-04-26 09:09:33] lukeis: heh ;)
