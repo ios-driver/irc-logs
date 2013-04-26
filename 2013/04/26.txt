@@ -99,3 +99,16 @@
 [2013-04-26 08:59:44] nicegraham: the current iphonedriver maintains it's own webview
 [2013-04-26 08:59:56] nicegraham: and can execute js against it...
 [2013-04-26 08:59:59] nicegraham: right?
+[2013-04-26 09:01:16] nirvdrum: I haven't tried it.
+[2013-04-26 09:01:32] nirvdrum: I was told ios-driver is where it's at.
+[2013-04-26 09:01:37] nirvdrum: So, this is where I started.
+[2013-04-26 09:01:38] lukeis: current iphone driver takes a screenshot of the entire canvas
+[2013-04-26 09:02:08] lukeis: but it doesn't handle alerts or proxies or or or…
+[2013-04-26 09:02:09] lukeis: :)
+[2013-04-26 09:02:09] nirvdrum: Well, I can take a look at what that one does.  Does it work in the simulator?
+[2013-04-26 09:02:17] lukeis: yes
+[2013-04-26 09:02:44] lukeis: the code is obj-c and can be done because it is an app… doesn't apply directly for ios-driver
+[2013-04-26 09:02:51] nirvdrum: Heh.  From the looks of it, Francois is the only one that builds the JNI lib.  Everything is hard-coded to his directory.
+[2013-04-26 09:03:01] lukeis: i have never built it
+[2013-04-26 09:04:10] ddary, quitting. (Quit: ddary)
+[2013-04-26 09:04:25] nicegraham: me neither - never even looked at it :)
