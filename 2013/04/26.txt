@@ -316,3 +316,5 @@
 [2013-04-26 12:39:36] ios-driver-git, joining. (#ios-driver)
 [2013-04-26 12:39:36] ios-driver-git: [ios-driver] nirvdrum opened pull request #30: Disable mobile safari fraud protection (master...disable_mobile_safari_fraud_protection)  http://git.io/TQ3VzQ
 [2013-04-26 12:39:36] ios-driver-git, leaving. (#ios-driver)
+[2013-04-26 12:41:03] nirvdrum: Okay.  I have no clue how to issue a pull request.  GitHub keeps going against master, so my pull request has everything that's happened on dev.
+[2013-04-26 12:41:42] nirvdrum: The project probably should mark "dev" as the default branch, FYI.
