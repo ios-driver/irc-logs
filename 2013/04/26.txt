@@ -152,3 +152,5 @@
 [2013-04-26 09:27:05] nirvdrum: Well that came from web developers continually overstating the cost of supporting IE.
 [2013-04-26 09:31:16] nirvdrum: freynaud: I'm pretty close now.  But I don't don't seem to have the usbmux object files.  Are they really needed or can I just link the lib?
 [2013-04-26 09:33:53] freynaud: you must.
+[2013-04-26 09:42:00] nirvdrum: Bah.  make install must have deleted them.
+[2013-04-26 09:44:29] santiycr, quitting. (Quit: Leaving.)
