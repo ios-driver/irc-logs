@@ -169,3 +169,8 @@
 [2013-04-26 10:18:04] lukeis, quitting. (Read error: Connection reset by peer)
 [2013-04-26 10:19:45] lukeis1, quitting. (Client Quit)
 [2013-04-26 10:19:58] nirvdrum: freynaud, ags_: Sorry, I didn't follow.  ags_ fixed the message response size problem?
+[2013-04-26 10:20:01] lukeis, joining. (#ios-driver)
+[2013-04-26 10:22:57] freynaud: nirvdrum: yes.
+[2013-04-26 10:24:27] nirvdrum: That was fast :-)
+[2013-04-26 10:24:48] freynaud: the rest of the team is in the pub already
+[2013-04-26 10:25:00] freynaud: the one left in the office are very motvated to finish
