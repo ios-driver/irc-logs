@@ -323,3 +323,9 @@
 [2013-04-26 13:05:42] Hammertime38, joining. (#ios-driver)
 [2013-04-26 13:05:56] smccarthy2, quitting. (Remote host closed the connection)
 [2013-04-26 13:06:33] smccarthy, joining. (#ios-driver)
+[2013-04-26 13:15:43] smccarthy2, joining. (#ios-driver)
+[2013-04-26 13:18:01] ios-driver-git, joining. (#ios-driver)
+[2013-04-26 13:18:01] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to dev: http://git.io/ERMwSw
+[2013-04-26 13:18:01] ios-driver-git: ios-driver/dev 9277b50 Kevin Menard: Disable Mobile Safari fraud protection by default....
+[2013-04-26 13:18:01] ios-driver-git, leaving. (#ios-driver)
+[2013-04-26 13:18:51] smccarthy, quitting. (Ping timeout: 252 seconds)
