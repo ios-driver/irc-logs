@@ -390,3 +390,4 @@
 [2013-04-26 14:47:49] ios-driver-git, leaving. (#ios-driver)
 [2013-04-26 14:50:08] nirvdrum: Cool.  I got rotation working.  It was just a deficiency in the Ruby bindings.
 [2013-04-26 15:07:07] admc, quitting. (Quit: Leaving.)
+[2013-04-26 15:34:34] santiycr, quitting. (Quit: Leaving.)
