@@ -59,3 +59,4 @@
 [2013-04-26 03:48:55] nicegraham: which is where I split out the code from the native click into it's own method
 [2013-04-26 04:03:14] admc, quitting. (Quit: Leaving.)
 [2013-04-26 04:55:37] admc, joining. (#ios-driver)
+[2013-04-26 06:17:34] nicegraham: :note lukeis native drag http://youtu.be/DbK_fLKMZd8
