@@ -158,3 +158,5 @@
 [2013-04-26 10:03:08] smccarthy2, joining. (#ios-driver)
 [2013-04-26 10:04:04] lukeis, quitting. (Read error: Connection reset by peer)
 [2013-04-26 10:04:21] lukeis, joining. (#ios-driver)
+[2013-04-26 10:06:13] smccarthy, quitting. (Ping timeout: 240 seconds)
+[2013-04-26 10:09:42] ags_, joining. (#ios-driver)
