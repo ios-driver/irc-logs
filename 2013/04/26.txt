@@ -39,3 +39,4 @@
 [2013-04-26 03:20:26] freynaud: but this is not a must have
 [2013-04-26 03:20:44] freynaud: ideally at some point apple will implements the functions it has skip in the WKRDP
 [2013-04-26 03:20:51] freynaud: one of them is takeScreenshot
+[2013-04-26 03:27:33] nicegraham: ok, fair point
