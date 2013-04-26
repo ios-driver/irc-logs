@@ -150,3 +150,5 @@
 [2013-04-26 09:25:13] lukeis: heh, i can now see where your jQuery tweet stems from :)
 [2013-04-26 09:26:48] dawagner, quitting. (Quit: Leaving)
 [2013-04-26 09:27:05] nirvdrum: Well that came from web developers continually overstating the cost of supporting IE.
+[2013-04-26 09:31:16] nirvdrum: freynaud: I'm pretty close now.  But I don't don't seem to have the usbmux object files.  Are they really needed or can I just link the lib?
+[2013-04-26 09:33:53] freynaud: you must.
