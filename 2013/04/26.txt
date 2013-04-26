@@ -233,3 +233,10 @@
 [2013-04-26 10:51:11] ios-driver-git: ios-driver/dev 112ff50 nicegraham: Revert "Merge pull request #11 from LegNeato/master"...
 [2013-04-26 10:51:11] ios-driver-git: ios-driver/dev 571125a Andrzej Grzesik: Fixed stream reading
 [2013-04-26 10:51:11] ios-driver-git, leaving. (#ios-driver)
+[2013-04-26 11:03:40] iostester: I dont have an option to build the app myself as I dont have a developer profile
+[2013-04-26 11:03:51] iostester: but my build engineer can get that to me in a way I want
+[2013-04-26 11:04:11] iostester: so should I tell him to go to product-->profile and click automation to create a build for me?
+[2013-04-26 11:04:20] nicegraham: yeah
+[2013-04-26 11:04:37] iostester: great..thanks..let me try that
+[2013-04-26 11:04:47] nicegraham: follow the instructions here
+[2013-04-26 11:04:48] nicegraham: http://ios-driver.github.io/ios-driver/setup.html#testapp
