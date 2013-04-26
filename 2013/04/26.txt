@@ -380,3 +380,5 @@
 [2013-04-26 14:30:16] nirvdrum: All I did was start it up.
 [2013-04-26 14:31:40] nirvdrum: The only one I can't seem to create is the ipad mini.
 [2013-04-26 14:33:50] admc, joining. (#ios-driver)
+[2013-04-26 14:37:26] lukeis: ipad mini is supposedly the same as ipad2
+[2013-04-26 14:37:35] lukeis: i've never created a sim for mini
