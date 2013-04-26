@@ -265,3 +265,12 @@
 [2013-04-26 11:14:24] nirvdrum: Thanks.  I'll start reading from there.
 [2013-04-26 11:16:21] nirvdrum: Wow.  You guys have a lot of code her.
 [2013-04-26 11:16:25] nirvdrum: *here
+[2013-04-26 11:25:41] freynaud: nirvdrum: yes, there is a lot of stuff to do. It can be explained in 5 min, but there is soem glue code :)
+[2013-04-26 11:27:42] nirvdrum: ags_: That fix is working great.  Thank you very much.
+[2013-04-26 11:28:29] nirvdrum: freynaud: Well, I'll be looking at it all weekend.  But if you want to run through it with me sometime, I'd appreciate that.
+[2013-04-26 11:28:34] nirvdrum: I know you want to get to the pub though :-)
+[2013-04-26 11:28:43] nirvdrum: By the way, are you going to SeleniumConf?
+[2013-04-26 11:28:54] lukeis: he's should be, he's talking :)
+[2013-04-26 11:29:17] nirvdrum: Do you just sit back and wait for me to ask dumb question? :-P
+[2013-04-26 11:29:26] lukeis: heh ;)
+[2013-04-26 11:29:42] lukeis: you asked *right* when i started paying attention to irc again
