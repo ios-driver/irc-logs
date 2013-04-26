@@ -377,3 +377,6 @@
 [2013-04-26 14:28:17] lukeis: nirvdrum: there's a way to set orientation in the drivers, but i have no idea in ruby :)
 [2013-04-26 14:29:43] nirvdrum: Those retina variations are quite large on my non-retina screen.
 [2013-04-26 14:29:58] lukeis: you can scale them :)
+[2013-04-26 14:30:16] nirvdrum: All I did was start it up.
+[2013-04-26 14:31:40] nirvdrum: The only one I can't seem to create is the ipad mini.
+[2013-04-26 14:33:50] admc, joining. (#ios-driver)
