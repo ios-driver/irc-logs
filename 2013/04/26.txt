@@ -304,3 +304,9 @@
 [2013-04-26 12:04:17] nirvdrum: But I'd imagine the plist solution won't work on real devices.
 [2013-04-26 12:04:32] lukeis: for an app you own it will
 [2013-04-26 12:04:44] lukeis: safari… well, so far it's a no-go on real devices
+[2013-04-26 12:05:03] ags_, quitting. (Ping timeout: 245 seconds)
+[2013-04-26 12:05:26] lukeis: you could always pre-configure your sim or device with the setting and then run ios-driver (settings should stick)
+[2013-04-26 12:05:50] nirvdrum: True.
+[2013-04-26 12:05:51] nirvdrum: Okay.
+[2013-04-26 12:06:32] nirvdrum: Are there any other cases where settings are handled like this?  I see there's the SimulatorSettings class, but that seems to just blow everything away at startup.
+[2013-04-26 12:06:55] lukeis: i'm not sure
