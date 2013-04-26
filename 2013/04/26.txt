@@ -374,3 +374,6 @@
 [2013-04-26 13:35:55] admc, quitting. (Quit: Leaving.)
 [2013-04-26 14:13:57] nirvdrum: How is device orientation handled in WebDriver?  Or screen dimensions for that matter?  Different capabilities?
 [2013-04-26 14:24:20] nirvdrum: Okay.  I think I'm all set on device capabilities.  Working through the ruby bindings at the moment.
+[2013-04-26 14:28:17] lukeis: nirvdrum: there's a way to set orientation in the drivers, but i have no idea in ruby :)
+[2013-04-26 14:29:43] nirvdrum: Those retina variations are quite large on my non-retina screen.
+[2013-04-26 14:29:58] lukeis: you can scale them :)
