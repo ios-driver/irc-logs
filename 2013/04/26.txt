@@ -320,3 +320,6 @@
 [2013-04-26 12:41:42] nirvdrum: The project probably should mark "dev" as the default branch, FYI.
 [2013-04-26 13:03:27] Hammertime38, quitting. (Remote host closed the connection)
 [2013-04-26 13:03:41] admc, joining. (#ios-driver)
+[2013-04-26 13:05:42] Hammertime38, joining. (#ios-driver)
+[2013-04-26 13:05:56] smccarthy2, quitting. (Remote host closed the connection)
+[2013-04-26 13:06:33] smccarthy, joining. (#ios-driver)
