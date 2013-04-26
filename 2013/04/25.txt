@@ -154,3 +154,4 @@
 [2013-04-25 18:59:28] iostester: https://github.com/ios-driver/ios-driver/issues/26
 [2013-04-25 18:59:54] iostester: if anyone could please take a look and suggest what needs to be done to fix the issue, it would be greatly appreciated
 [2013-04-25 19:10:28] iostester, quitting. (Ping timeout: 245 seconds)
+[2013-04-25 21:40:03] ddary, joining. (#ios-driver)
