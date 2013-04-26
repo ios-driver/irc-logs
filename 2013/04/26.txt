@@ -384,3 +384,7 @@
 [2013-04-26 14:37:35] lukeis: i've never created a sim for mini
 [2013-04-26 14:41:08] nirvdrum: I'm working with this list http://ios-driver.github.io/ios-driver/native.html#capabilities
 [2013-04-26 14:41:30] nirvdrum: I see there's an 'iPad25' capability in the source, but can't seem to create it.
+[2013-04-26 14:46:14] Hammertime38: with regards to the DeviceVariation enum, why is there only iPad25 and not any other models? i had to add my other devices manually to the enum for functionality, but i have an odd suspicion that shouldn't be the case
+[2013-04-26 14:47:49] ios-driver-git, joining. (#ios-driver)
+[2013-04-26 14:47:49] ios-driver-git: [ios-driver] LegNeato opened pull request #31: Make sendKeys and setValue send the whole string, not just characters (dev...dev)  http://git.io/vb9H-Q
+[2013-04-26 14:47:49] ios-driver-git, leaving. (#ios-driver)
