@@ -289,3 +289,18 @@
 [2013-04-26 11:34:54] lukeis: sounds like you can launch it though?
 [2013-04-26 11:35:07] freynaud: yes, launch works
 [2013-04-26 11:35:46] nirvdrum: What the hell?  So you can actually get a handle to the "Ignore this Warning" button if mobile safari thinks it's a phishing attempt, but clicking it doesn't do anything.
+[2013-04-26 12:00:28] iostester, quitting. (Ping timeout: 245 seconds)
+[2013-04-26 12:00:51] lukeis: nirvdrum: #29  if you hit the 'home' button you are killing the instrumentation process
+[2013-04-26 12:01:09] lukeis: essentially killing half of ios-driver
+[2013-04-26 12:01:40] nirvdrum: Ugh.
+[2013-04-26 12:01:41] nirvdrum: Okay.
+[2013-04-26 12:02:09] lukeis: you can only inspect on the application that is running
+[2013-04-26 12:03:06] nirvdrum: I was hoping to navigate to the Settings app.
+[2013-04-26 12:03:15] lukeis: no can do...
+[2013-04-26 12:03:21] lukeis: you're sandboxed to the app
+[2013-04-26 12:03:42] lukeis: android UIAutomator can get to the settings app (on android)
+[2013-04-26 12:03:48] nirvdrum: Any thoughts on how to disable fraud warnings then?  I could try to mess with the plists at startup I guess.
+[2013-04-26 12:04:02] lukeis: that would be your best option
+[2013-04-26 12:04:17] nirvdrum: But I'd imagine the plist solution won't work on real devices.
+[2013-04-26 12:04:32] lukeis: for an app you own it will
+[2013-04-26 12:04:44] lukeis: safari… well, so far it's a no-go on real devices
