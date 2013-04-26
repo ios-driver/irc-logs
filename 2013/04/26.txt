@@ -76,3 +76,26 @@
 [2013-04-26 08:53:29] chriskak, joining. (#ios-driver)
 [2013-04-26 08:53:32] nirvdrum, joining. (#ios-driver)
 [2013-04-26 08:54:25] chriskak, leaving. (#ios-driver)
+[2013-04-26 08:55:14] nirvdrum: nicegraham: There's a bigger problem with the screenshot code.  Mobile Safari imposes a size limit on a canvas.
+[2013-04-26 08:55:24] nirvdrum: So, for sufficiently large pages it just won't work anyway.
+[2013-04-26 08:55:34] nicegraham: perfect :)
+[2013-04-26 08:56:00] nicegraham: Francois reckons we should wait for apple to add it to the wkdp
+[2013-04-26 08:56:04] nirvdrum: You could segment and built up multiple canvases in the page, but that's not going to be pretty.
+[2013-04-26 08:56:50] nirvdrum: Well, I'm looking to add this stuff in for Mogotest sooner rather than later :-P
+[2013-04-26 08:56:51] santiycr, joining. (#ios-driver)
+[2013-04-26 08:57:03] nirvdrum: Not that there's a whole lot I can do if Apple has restrictions in place.
+[2013-04-26 08:57:20] nirvdrum: So, I may have to settle for screenshot, scroll, screenshot.
+[2013-04-26 08:57:28] nicegraham: slow.....
+[2013-04-26 08:57:33] lukeis: document and explain to your clients why they'll get what they get? ;)
+[2013-04-26 08:57:42] lukeis: guess that doesn't always work...
+[2013-04-26 08:57:49] nirvdrum: Alternatively, if I wrote my own app I could render the UIWebKitView to an off-screen buffer that I save to an image.  But Francois said I wouldn't be able to execute JS in that case.
+[2013-04-26 08:57:58] nirvdrum: Which means I'd need a different way to serialize the DOM.
+[2013-04-26 08:58:21] lukeis: my wife and I often say to our 3yr old "you get what you get and you don't throw a fit"
+[2013-04-26 08:58:32] nicegraham: i had a scan and there's a few apps which will screenshot a whole page
+[2013-04-26 08:58:38] nirvdrum: lukeis: Yeah, but I'm  being paid to solve the problem :-/
+[2013-04-26 08:58:41] nicegraham: but they seem to load the page inside their own webview
+[2013-04-26 08:59:04] nirvdrum: nicegraham: Right.  That seems doable.  But I also need to be able to execute JS to serialize the DOM.  Francois said that's not doable.
+[2013-04-26 08:59:10] nirvdrum: He could be lying though.
+[2013-04-26 08:59:44] nicegraham: the current iphonedriver maintains it's own webview
+[2013-04-26 08:59:56] nicegraham: and can execute js against it...
+[2013-04-26 08:59:59] nicegraham: right?
