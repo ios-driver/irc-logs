@@ -42,3 +42,8 @@
 [2013-04-26 03:27:33] nicegraham: ok, fair point
 [2013-04-26 03:34:35] nicegraham: freynaud: another thing is the element.getLocation() repsonse
 [2013-04-26 03:34:53] nicegraham: doesn't seem to change regardless of screen position or zoom
+[2013-04-26 03:35:15] nicegraham: I was think of repointing this command to the findPosition() you created
+[2013-04-26 03:35:28] nicegraham: is there any reason not to?
+[2013-04-26 03:36:58] freynaud: as long as the tests still pass :)
+[2013-04-26 03:37:21] freynaud: Ihaven't read the location description. I don't know how it considers the zoom
+[2013-04-26 03:37:23] nicegraham: ok, I'll make the change and run the tests - I hope that will mean all the native touch web tests will pass now
