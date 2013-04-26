@@ -189,3 +189,11 @@
 [2013-04-26 10:29:39] freynaud: ags fixed the bug in the smulator protocol
 [2013-04-26 10:29:42] nirvdrum: I'd like to try to handle that issue with fraud protection being enabled by default, too.
 [2013-04-26 10:29:46] freynaud: so that you can test your code
+[2013-04-26 10:30:04] nirvdrum: Okay.  I thought you said the bug was in libimobiledevice.
+[2013-04-26 10:30:15] nirvdrum: Sorry, I'm pretty new to all the pieces here.
+[2013-04-26 10:30:43] iostester, joining. (#ios-driver)
+[2013-04-26 10:30:57] nirvdrum: So, libimobiledevice isn't used in the simulator at all?
+[2013-04-26 10:31:05] iostester: Hi freynaud
+[2013-04-26 10:31:45] iostester: I had posted an issue with real devices: https://github.com/ios-driver/ios-driver/issues/26
+[2013-04-26 10:32:10] iostester: your help will be much appreciated :)
+[2013-04-26 10:33:09] freynaud: what version of ios do you use ? and did you install the app from xcode for instruments ?
