@@ -72,3 +72,4 @@
 [2013-04-26 08:26:45] freynaud, quitting. (Quit: Page closed)
 [2013-04-26 08:39:14] smccarthy, joining. (#ios-driver)
 [2013-04-26 08:39:23] freynaud, joining. (#ios-driver)
+[2013-04-26 08:46:43] ags_, quitting. (Ping timeout: 245 seconds)
