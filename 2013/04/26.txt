@@ -287,3 +287,5 @@
 [2013-04-26 11:34:26] freynaud: so alert, multi windows and real keyboard won't work
 [2013-04-26 11:34:41] freynaud: lukeis: yes, I'm annoyed too
 [2013-04-26 11:34:54] lukeis: sounds like you can launch it though?
+[2013-04-26 11:35:07] freynaud: yes, launch works
+[2013-04-26 11:35:46] nirvdrum: What the hell?  So you can actually get a handle to the "Ignore this Warning" button if mobile safari thinks it's a phishing attempt, but clicking it doesn't do anything.
