@@ -127,3 +127,10 @@
 [2013-04-25 17:03:49] ioshacker: Hi lukeis..I am trying to test an ios app on real device
 [2013-04-25 17:04:17] lukeis: ok :)
 [2013-04-25 17:04:35] ioshacker: I am getting an error
+[2013-04-25 17:05:40] ioshacker: 14:20:235 WARNING DefaultCommandListener.stderr  objc[43721]: Object 0x7f9b29801c70 of class NSUserDefaults autoreleased with no pool in place - just leaking - break on objc_autoreleaseNoPool() to debug java.io.IOException: Bad file descriptor 	at java.io.FileInputStream.readBytes(Native Method)
+[2013-04-25 17:05:48] ioshacker: have you come across this before?
+[2013-04-25 17:06:26] ioshacker: it starts the app
+[2013-04-25 17:06:50] ioshacker: after the app pops up...the test waits for a minute..throws these exceptions and goes out
+[2013-04-25 17:07:07] ioshacker: org.openqa.selenium.SessionNotCreatedException: error starting instrument for session cde384bb-6f5c-434f-92b2-686ae0cfa0c5, Instruments crashed.
+[2013-04-25 17:07:14] ioshacker: Test throws these errors:
+[2013-04-25 17:07:35] ioshacker: if you have tested on a real device...can you share how you are initializing the capabilities?
