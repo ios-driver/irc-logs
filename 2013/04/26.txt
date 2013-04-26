@@ -27,3 +27,10 @@
 [2013-04-26 03:14:29] nicegraham: and that part and was trying to run it through a test
 [2013-04-26 03:14:44] freynaud: less layer, easier :)
 [2013-04-26 03:14:57] nicegraham: :)
+[2013-04-26 03:15:21] nicegraham: there's no point in me continuing though if the script itself doesn't work
+[2013-04-26 03:15:33] nicegraham: do you know how it's managed in the other browsers?
+[2013-04-26 03:18:09] admc, joining. (#ios-driver)
+[2013-04-26 03:19:31] freynaud: firefox is easy
+[2013-04-26 03:19:40] freynaud: the other browsers are using hacks we can't use
+[2013-04-26 03:19:45] freynaud: it's not a big priority for me
+[2013-04-26 03:19:55] freynaud: webdriver is a user interaction framework
