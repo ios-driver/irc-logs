@@ -69,3 +69,4 @@
 [2013-04-26 07:30:29] ddary, joining. (#ios-driver)
 [2013-04-26 07:44:19] ags_, joining. (#ios-driver)
 [2013-04-26 08:08:02] lukeis, joining. (#ios-driver)
+[2013-04-26 08:26:45] freynaud, quitting. (Quit: Page closed)
