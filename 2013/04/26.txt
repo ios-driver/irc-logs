@@ -255,3 +255,11 @@
 [2013-04-26 11:07:47] nirvdrum: I guess I naively assumed the native lib was for manipulating the process.
 [2013-04-26 11:09:54] nicegraham: laters all
 [2013-04-26 11:09:56] *nicegraham is heading to iron man 3'
+[2013-04-26 11:10:03] nirvdrum: Later nicegraham.
+[2013-04-26 11:11:22] freynaud: nirvdrum: i'm working on removing as many pieces as possible
+[2013-04-26 11:11:31] freynaud: but simulator remains very linked to the apple tools
+[2013-04-26 11:11:41] freynaud: so you need xcode & co for that to work
+[2013-04-26 11:11:50] freynaud: real devices will have less dependencies
+[2013-04-26 11:12:04] nirvdrum: Where in the code is the simulator started?
+[2013-04-26 11:12:56] freynaud: https://github.com/ios-driver/ios-driver/blob/master/server/src/main/java/org/uiautomation/ios/server/instruments/InstrumentsManager.java#L223
+[2013-04-26 11:14:24] nirvdrum: Thanks.  I'll start reading from there.
