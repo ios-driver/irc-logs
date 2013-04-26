@@ -40,3 +40,5 @@
 [2013-04-26 03:20:44] freynaud: ideally at some point apple will implements the functions it has skip in the WKRDP
 [2013-04-26 03:20:51] freynaud: one of them is takeScreenshot
 [2013-04-26 03:27:33] nicegraham: ok, fair point
+[2013-04-26 03:34:35] nicegraham: freynaud: another thing is the element.getLocation() repsonse
+[2013-04-26 03:34:53] nicegraham: doesn't seem to change regardless of screen position or zoom
