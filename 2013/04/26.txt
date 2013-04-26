@@ -263,3 +263,5 @@
 [2013-04-26 11:12:04] nirvdrum: Where in the code is the simulator started?
 [2013-04-26 11:12:56] freynaud: https://github.com/ios-driver/ios-driver/blob/master/server/src/main/java/org/uiautomation/ios/server/instruments/InstrumentsManager.java#L223
 [2013-04-26 11:14:24] nirvdrum: Thanks.  I'll start reading from there.
+[2013-04-26 11:16:21] nirvdrum: Wow.  You guys have a lot of code her.
+[2013-04-26 11:16:25] nirvdrum: *here
