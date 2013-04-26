@@ -174,3 +174,18 @@
 [2013-04-26 10:24:27] nirvdrum: That was fast :-)
 [2013-04-26 10:24:48] freynaud: the rest of the team is in the pub already
 [2013-04-26 10:25:00] freynaud: the one left in the office are very motvated to finish
+[2013-04-26 10:25:07] nirvdrum: Heh.
+[2013-04-26 10:25:17] nirvdrum: If you could push a new jnilib, that would be very helpful.
+[2013-04-26 10:25:24] nirvdrum: I'm having a hell of a time compiling it.
+[2013-04-26 10:25:52] nirvdrum: Now I'm at "Undefined symbols for architecture x86_64" when linking the headers.
+[2013-04-26 10:27:01] nirvdrum: https://gist.github.com/nirvdrum/5468875
+[2013-04-26 10:27:24] freynaud: why are you using it btw ?
+[2013-04-26 10:27:31] freynaud: you want real devices ?
+[2013-04-26 10:28:15] nirvdrum: Why am I using what?
+[2013-04-26 10:28:36] freynaud: if you don't start with -beta , the libimobiledevice stuff is completly ignored
+[2013-04-26 10:28:56] freynaud: if you only try simulators, you don't need all the C code
+[2013-04-26 10:29:06] nirvdrum: Heh.  Okay.  I just wanted to try to fix that bug.
+[2013-04-26 10:29:21] nirvdrum: It looks like it's been fixed already.  But I figured it'd be good to learn how to build everything.
+[2013-04-26 10:29:39] freynaud: ags fixed the bug in the smulator protocol
+[2013-04-26 10:29:42] nirvdrum: I'd like to try to handle that issue with fraud protection being enabled by default, too.
+[2013-04-26 10:29:46] freynaud: so that you can test your code
