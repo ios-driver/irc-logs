@@ -240,3 +240,18 @@
 [2013-04-26 11:04:37] iostester: great..thanks..let me try that
 [2013-04-26 11:04:47] nicegraham: follow the instructions here
 [2013-04-26 11:04:48] nicegraham: http://ios-driver.github.io/ios-driver/setup.html#testapp
+[2013-04-26 11:05:18] iostester: I recall that now nicegraham..thanks :)
+[2013-04-26 11:05:22] iostester: let me try that
+[2013-04-26 11:05:28] nicegraham: no problem - have fun
+[2013-04-26 11:05:52] nirvdrum: Ooh.  The test suite is nifty.
+[2013-04-26 11:06:06] nicegraham: watching it run? :)
+[2013-04-26 11:06:11] nirvdrum: Yeah.
+[2013-04-26 11:06:15] nirvdrum: A lot of flipping going on.
+[2013-04-26 11:06:19] nicegraham: yeah, it's cool
+[2013-04-26 11:06:33] nicegraham: just leave that running on your machine - look very busy
+[2013-04-26 11:06:38] nirvdrum: Heh.
+[2013-04-26 11:07:19] nirvdrum: So, what's the architecture here?  Java just kicks off the simulator and then starts talking to it over a socket?
+[2013-04-26 11:07:42] nicegraham: it talks to instruments
+[2013-04-26 11:07:47] nirvdrum: I guess I naively assumed the native lib was for manipulating the process.
+[2013-04-26 11:09:54] nicegraham: laters all
+[2013-04-26 11:09:56] *nicegraham is heading to iron man 3'
