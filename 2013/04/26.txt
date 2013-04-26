@@ -144,3 +144,6 @@
 [2013-04-26 09:18:07] lukeis: file suppressed click to show
 [2013-04-26 09:18:51] nirvdrum: I should have given the raw link: https://gist.github.com/nirvdrum/ac07f194f37244577a65/raw/6ff56ee5e4c5e1e3a1fdbec1ea322adb655a137c/dom_serialize.js
 [2013-04-26 09:19:25] lukeis: hello jquery
+[2013-04-26 09:20:18] nirvdrum: The joy of not being able to guarantee your customers have anything in particular running.
+[2013-04-26 09:20:30] nirvdrum: I need to do a custom 2.0 build and drop out the crap I'm not using, which is a lot.
+[2013-04-26 09:21:09] nirvdrum: I really only rely on the dimensions stuff.  And even that I've found more bugs than I can count with.
