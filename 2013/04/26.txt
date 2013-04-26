@@ -274,3 +274,16 @@
 [2013-04-26 11:29:17] nirvdrum: Do you just sit back and wait for me to ask dumb question? :-P
 [2013-04-26 11:29:26] lukeis: heh ;)
 [2013-04-26 11:29:42] lukeis: you asked *right* when i started paying attention to irc again
+[2013-04-26 11:31:23] freynaud: nirvdrum: i _want_ to go to the pub, but I _need_ this instruments client working
+[2013-04-26 11:31:56] ios-driver-git, joining. (#ios-driver)
+[2013-04-26 11:31:56] ios-driver-git: [ios-driver] ags313 pushed 1 new commit to dev: https://github.com/ios-driver/ios-driver/commit/3565997ec2e606f5ec2449f4a3c24d16232d74fc
+[2013-04-26 11:31:56] ios-driver-git: ios-driver/dev 3565997 Andrzej Grzesik: updated submodule
+[2013-04-26 11:31:56] ios-driver-git, leaving. (#ios-driver)
+[2013-04-26 11:31:58] nirvdrum: Oh.  What are you working on?
+[2013-04-26 11:32:11] lukeis: shh, don't bug the man ;)
+[2013-04-26 11:32:39] lukeis: one thing, mobile safari on real devices (hopefully he's still working on that)
+[2013-04-26 11:34:07] freynaud: lukeis: no, no luck here. Instruments won't work on safari
+[2013-04-26 11:34:17] lukeis: booooo
+[2013-04-26 11:34:26] freynaud: so alert, multi windows and real keyboard won't work
+[2013-04-26 11:34:41] freynaud: lukeis: yes, I'm annoyed too
+[2013-04-26 11:34:54] lukeis: sounds like you can launch it though?
