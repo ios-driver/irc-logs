@@ -310,3 +310,4 @@
 [2013-04-26 12:05:51] nirvdrum: Okay.
 [2013-04-26 12:06:32] nirvdrum: Are there any other cases where settings are handled like this?  I see there's the SimulatorSettings class, but that seems to just blow everything away at startup.
 [2013-04-26 12:06:55] lukeis: i'm not sure
+[2013-04-26 12:13:38] freynaud, quitting. (Quit: Page closed)
