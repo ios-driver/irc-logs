@@ -156,3 +156,4 @@
 [2013-04-25 19:10:28] iostester, quitting. (Ping timeout: 245 seconds)
 [2013-04-25 21:40:03] ddary, joining. (#ios-driver)
 [2013-04-25 21:58:32] smccarthy, quitting. (Remote host closed the connection)
+[2013-04-25 22:40:02] admc, joining. (#ios-driver)
