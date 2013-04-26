@@ -116,3 +116,18 @@
 [2013-04-26 09:06:19] dawagner: Aah found it :)
 [2013-04-26 09:09:20] nirvdrum: You guys are making me work way too hard for this.  Where's my instant gratification?
 [2013-04-26 09:09:33] lukeis: heh ;)
+[2013-04-26 09:12:20] freynaud: nirvdrum: I tried large scripts on the Apple WKRDP client
+[2013-04-26 09:12:24] freynaud: it crashes too
+[2013-04-26 09:12:33] freynaud: safari segfaults.
+[2013-04-26 09:12:48] lukeis: awesome ;)
+[2013-04-26 09:12:50] freynaud: so I can't really check how it is supposed to work in the first place
+[2013-04-26 09:13:02] nirvdrum: It works okay if I run it in the console manually.
+[2013-04-26 09:13:10] nirvdrum: But the response was 300K or so.
+[2013-04-26 09:13:24] nirvdrum: I'm still trying to build the JNI lib right now.  A lot of extra libs need to be installed.
+[2013-04-26 09:13:24] freynaud: can you send me a gist of what you run ?
+[2013-04-26 09:13:40] freynaud: nirvdrum: and it will change.
+[2013-04-26 09:13:44] nirvdrum: And give away all of Mogotest's secrets ?!?!?!
+[2013-04-26 09:13:55] nirvdrum: Give me a couple.  I'll gist it up.
+[2013-04-26 09:13:59] lukeis: heh
+[2013-04-26 09:14:26] *lukeis plans to steal mogotest's secrets and start my own small business… and then profit??!?!'
+[2013-04-26 09:14:57] nirvdrum: If you find a way to make it profitable, please let me know
