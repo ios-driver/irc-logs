@@ -224,3 +224,12 @@
 [2013-04-26 10:49:13] nirvdrum: Well, I think I'm slowly beginning to wrap my head around all this.
 [2013-04-26 10:49:42] nirvdrum: How does Java drive the simulator if not with native libs?
 [2013-04-26 10:49:55] iostester: In product-->profile, I see an option called automation
+[2013-04-26 10:50:05] iostester: is that the option with which I should build the app?
+[2013-04-26 10:50:11] freynaud: if you're there, it's god already
+[2013-04-26 10:50:24] freynaud: you have the app installed in the correct more
+[2013-04-26 10:50:27] freynaud: mode
+[2013-04-26 10:51:11] ios-driver-git, joining. (#ios-driver)
+[2013-04-26 10:51:11] ios-driver-git: [ios-driver] ags313 pushed 2 new commits to dev: http://git.io/7b-EUw
+[2013-04-26 10:51:11] ios-driver-git: ios-driver/dev 112ff50 nicegraham: Revert "Merge pull request #11 from LegNeato/master"...
+[2013-04-26 10:51:11] ios-driver-git: ios-driver/dev 571125a Andrzej Grzesik: Fixed stream reading
+[2013-04-26 10:51:11] ios-driver-git, leaving. (#ios-driver)
