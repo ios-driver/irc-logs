@@ -131,3 +131,16 @@
 [2013-04-26 09:13:59] lukeis: heh
 [2013-04-26 09:14:26] *lukeis plans to steal mogotest's secrets and start my own small business… and then profit??!?!'
 [2013-04-26 09:14:57] nirvdrum: If you find a way to make it profitable, please let me know
+[2013-04-26 09:15:02] lukeis: heh ;)
+[2013-04-26 09:15:18] lukeis: maybe that's why i work for The Man
+[2013-04-26 09:15:30] nirvdrum: freynaud: I'd still like to be able to build this anyway.  It'd be good to not have to rely on you for everything :-)
+[2013-04-26 09:16:22] freynaud: agreed
+[2013-04-26 09:16:51] nirvdrum: https://gist.github.com/nirvdrum/d36a94a557ccc9715013
+[2013-04-26 09:17:03] nirvdrum: That's lukeis's favorite as it includes a full copy of jQuery 1.9
+[2013-04-26 09:17:04] nirvdrum: freynaud: ^
+[2013-04-26 09:17:40] freynaud: I see an empty gist
+[2013-04-26 09:17:51] nirvdrum: It's big.
+[2013-04-26 09:17:53] nirvdrum: Let me try again.
+[2013-04-26 09:18:07] lukeis: file suppressed click to show
+[2013-04-26 09:18:51] nirvdrum: I should have given the raw link: https://gist.github.com/nirvdrum/ac07f194f37244577a65/raw/6ff56ee5e4c5e1e3a1fdbec1ea322adb655a137c/dom_serialize.js
+[2013-04-26 09:19:25] lukeis: hello jquery
