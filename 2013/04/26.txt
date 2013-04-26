@@ -73,3 +73,6 @@
 [2013-04-26 08:39:14] smccarthy, joining. (#ios-driver)
 [2013-04-26 08:39:23] freynaud, joining. (#ios-driver)
 [2013-04-26 08:46:43] ags_, quitting. (Ping timeout: 245 seconds)
+[2013-04-26 08:53:29] chriskak, joining. (#ios-driver)
+[2013-04-26 08:53:32] nirvdrum, joining. (#ios-driver)
+[2013-04-26 08:54:25] chriskak, leaving. (#ios-driver)
