@@ -329,3 +329,15 @@
 [2013-04-26 13:18:01] ios-driver-git: ios-driver/dev 9277b50 Kevin Menard: Disable Mobile Safari fraud protection by default....
 [2013-04-26 13:18:01] ios-driver-git, leaving. (#ios-driver)
 [2013-04-26 13:18:51] smccarthy, quitting. (Ping timeout: 252 seconds)
+[2013-04-26 13:21:18] nirvdrum: lukeis: Thanks.  I think you can close #22 out, too, if you'd like.
+[2013-04-26 13:21:36] nirvdrum: tsk, tsk, tsk.
+[2013-04-26 13:21:46] lukeis: i blame jari ;)
+[2013-04-26 13:23:41] lukeis: and i'll blame the PR not pointing to 'dev' as a pebkac issue ;)
+[2013-04-26 13:24:00] nirvdrum: I changed it to "dev" three times.
+[2013-04-26 13:24:13] lukeis: you probably needed to create a new PR
+[2013-04-26 13:24:17] nirvdrum: I did.
+[2013-04-26 13:24:23] lukeis: i only saw one
+[2013-04-26 13:24:30] nirvdrum: I didn't submit the others.
+[2013-04-26 13:24:37] lukeis: github bug then?
+[2013-04-26 13:24:40] nirvdrum: Because they similarly weren't updating.
+[2013-04-26 13:24:54] lukeis: cause i've been able to do this kind of PR to other projects
