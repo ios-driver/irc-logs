@@ -121,3 +121,9 @@
 [2013-04-25 15:24:46] santiycr, joining. (#ios-driver)
 [2013-04-25 15:34:48] santiycr, quitting. (Quit: Leaving.)
 [2013-04-25 16:55:12] santiycr, joining. (#ios-driver)
+[2013-04-25 17:02:14] ioshacker, joining. (#ios-driver)
+[2013-04-25 17:03:00] ioshacker: Hi
+[2013-04-25 17:03:23] lukeis: hello
+[2013-04-25 17:03:49] ioshacker: Hi lukeis..I am trying to test an ios app on real device
+[2013-04-25 17:04:17] lukeis: ok :)
+[2013-04-25 17:04:35] ioshacker: I am getting an error
