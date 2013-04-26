@@ -313,3 +313,6 @@
 [2013-04-26 12:13:38] freynaud, quitting. (Quit: Page closed)
 [2013-04-26 12:24:42] Hammertime38, joining. (#ios-driver)
 [2013-04-26 12:26:17] nirvdrum: lukeis: Okay.  I actually managed to get that working.  Do you think disabling fraud protection by default is a sensible thing to do?  Or should it be opt-in via some capability?
+[2013-04-26 12:39:36] ios-driver-git, joining. (#ios-driver)
+[2013-04-26 12:39:36] ios-driver-git: [ios-driver] nirvdrum opened pull request #30: Disable mobile safari fraud protection (master...disable_mobile_safari_fraud_protection)  http://git.io/TQ3VzQ
+[2013-04-26 12:39:36] ios-driver-git, leaving. (#ios-driver)
