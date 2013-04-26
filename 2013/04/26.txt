@@ -57,3 +57,4 @@
 [2013-04-26 03:48:34] nicegraham: the only point which does change and is used by all the native actions is
 [2013-04-26 03:48:35] nicegraham: https://github.com/ios-driver/ios-driver/blob/dev/server/src/main/java/org/uiautomation/ios/wkrdp/model/RemoteWebNativeBackedElement.java#L91
 [2013-04-26 03:48:55] nicegraham: which is where I split out the code from the native click into it's own method
+[2013-04-26 04:03:14] admc, quitting. (Quit: Leaving.)
