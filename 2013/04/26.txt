@@ -47,3 +47,9 @@
 [2013-04-26 03:36:58] freynaud: as long as the tests still pass :)
 [2013-04-26 03:37:21] freynaud: Ihaven't read the location description. I don't know how it considers the zoom
 [2013-04-26 03:37:23] nicegraham: ok, I'll make the change and run the tests - I hope that will mean all the native touch web tests will pass now
+[2013-04-26 03:41:43] freynaud: hum
+[2013-04-26 03:41:53] freynaud: native tap/ click you mean ?
+[2013-04-26 03:42:10] freynaud: those should already handle the zoom
+[2013-04-26 03:42:49] freynaud: if they don't, it's not something with location. The formHandling tests are already validating the click after it's been zoomed logic normally
+[2013-04-26 03:44:25] nicegraham: the native touch tests validate that the touch has done what it's meant to based on the location of the element pre and post action
+[2013-04-26 03:44:50] nicegraham: that returned Point isn't changing pre and post even though the action itself is working
