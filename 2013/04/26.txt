@@ -164,3 +164,8 @@
 [2013-04-26 10:11:01] nirvdrum: freynaud: I'm pretty close now.  But you link in some static libs from macports.  Is there any reason to not use the dynamic ones that macos ships with?
 [2013-04-26 10:14:27] freynaud: nirvdrum: args_ message is not clear, what he means is " I solved the long message problem"
 [2013-04-26 10:14:45] freynaud: it will move to dynamic soon
+[2013-04-26 10:15:58] nirvdrum: freynaud: Okay.  Homebrew won't install some packages that come bundled with MacOS, like libiconv and zlib.  I can switch to macports if needed, but wanted to see if there was a way around that.
+[2013-04-26 10:18:04] lukeis1, joining. (#ios-driver)
+[2013-04-26 10:18:04] lukeis, quitting. (Read error: Connection reset by peer)
+[2013-04-26 10:19:45] lukeis1, quitting. (Client Quit)
+[2013-04-26 10:19:58] nirvdrum: freynaud, ags_: Sorry, I didn't follow.  ags_ fixed the message response size problem?
