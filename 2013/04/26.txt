@@ -396,3 +396,4 @@
 [2013-04-26 16:32:41] santiycr, quitting. (Quit: Leaving.)
 [2013-04-26 16:32:45] Hammertime38, quitting. (Remote host closed the connection)
 [2013-04-26 16:51:16] smccarthy2, quitting. (Remote host closed the connection)
+[2013-04-26 18:13:53] nirvdrum, quitting. (Ping timeout: 245 seconds)
