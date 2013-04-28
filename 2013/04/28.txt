@@ -227,3 +227,7 @@
 [2013-04-28 14:04:16] nirvdrum: We use our own custom servlet for the console view.
 [2013-04-28 14:04:51] nicegraham: We have a custom one too which spits out all the json
 [2013-04-28 14:04:51] nirvdrum: Which I think is potentially a better solution than having a remote proxy implement and HTML renderer interface.3
+[2013-04-28 14:05:29] nirvdrum: Ours breaks the grid up by browser because we rarely care what's happening on a per-host basis.
+[2013-04-28 14:08:29] nicegraham: We poll the grid to see what capabilities are available
+[2013-04-28 14:09:11] nirvdrum: We have a couple other servlets to do API queries as well.
+[2013-04-28 14:09:18] nirvdrum: Mostly for accounting stuff.
