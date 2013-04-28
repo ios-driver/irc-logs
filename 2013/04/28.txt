@@ -22,3 +22,22 @@
 [2013-04-28 09:09:05] nirvdrum: Having said that, I've yet to work out why the behavior is different in the face of self-signed certs.
 [2013-04-28 09:09:32] nicegraham: I'm surprised by that, it's just running the same app
 [2013-04-28 09:09:59] nirvdrum: Maybe Francois knows.  I swear he mentioned to me that self-signed certs work a few months back.
+[2013-04-28 09:10:27] nirvdrum: All in all, I'm very impressed though.
+[2013-04-28 09:10:30] admc, quitting. (Ping timeout: 252 seconds)
+[2013-04-28 09:10:51] nirvdrum: I updated the ruby bindings to handle rotation.  That worked wonderfully well.
+[2013-04-28 09:11:10] nirvdrum: I haven't figured out how to create an ipad mini through capabilities though.
+[2013-04-28 09:11:20] nicegraham: sim?
+[2013-04-28 09:11:24] nirvdrum: Yes.
+[2013-04-28 09:11:27] nicegraham: you can't
+[2013-04-28 09:11:31] nirvdrum: Oh.
+[2013-04-28 09:11:39] nirvdrum: Okay.  I thought I saw one in the test suite.
+[2013-04-28 09:11:39] nicegraham: it has the same resolution as the ipad2
+[2013-04-28 09:11:53] nicegraham: so the simulator doens't diiferentiate
+[2013-04-28 09:11:59] nicegraham: i added the enum for it
+[2013-04-28 09:12:15] nicegraham: because I was using a real device and wanted to be able to target it specifically
+[2013-04-28 09:12:20] nirvdrum: I saw an iPad25, but I couldn't get anything to start when passing that as a capability.
+[2013-04-28 09:13:00] nicegraham: hmm, I'm pretty sure it worked for me when I was using a real device
+[2013-04-28 09:13:28] nirvdrum: It's probably a String -> Enum conversion thing.  I'm using the ruby bindings.
+[2013-04-28 09:14:26] nirvdrum: BTW, since I don't have commit rights, mind deleting these lines? https://github.com/ios-driver/ios-driver/blob/9277b50fd502aae201f2c6ca9caa36df86fd8085/server/src/main/java/org/uiautomation/ios/utils/SimulatorSettings.java#L259-L260
+[2013-04-28 09:14:32] nirvdrum: I can do up another pull request if you prefer.
+[2013-04-28 09:14:43] nirvdrum: It's just some debug crap I left in there accidentally.
