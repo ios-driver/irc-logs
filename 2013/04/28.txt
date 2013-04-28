@@ -76,3 +76,14 @@
 [2013-04-28 11:26:22] admc, quitting. (Quit: Leaving.)
 [2013-04-28 11:43:26] nirvdrum: nicegraham: Still around?
 [2013-04-28 11:44:52] nicegraham: yeah, kinda :)
+[2013-04-28 11:45:03] nicegraham: what's up?
+[2013-04-28 11:45:29] nicegraham: nirvdrum ^
+[2013-04-28 11:45:32] nirvdrum: I'm still having difficulty registering with my hub.  I've tried both with and without the ios-driver proxy on the classpath.
+[2013-04-28 11:45:39] nicegraham: really?
+[2013-04-28 11:45:48] nicegraham: works fine for me...
+[2013-04-28 11:45:49] nirvdrum: Basically the node reports as having "IOS Simulator", but no browser configs.
+[2013-04-28 11:46:09] nicegraham: so no capabilities?
+[2013-04-28 11:46:31] nirvdrum: Right.  Although the issue I had earlier in the week it wouldn't even show the simulator.
+[2013-04-28 11:48:07] nicegraham: if you breakpoint it before it sends the registration message, is it including the caps?
+[2013-04-28 11:48:53] nirvdrum: Let me try that.  I just wanted to verify I wasn't missing some undocumented switch or something.
+[2013-04-28 11:49:21] nicegraham: no, as long as you include the -hub which you are obviously it should work
