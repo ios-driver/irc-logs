@@ -4,3 +4,4 @@
 [2013-04-28 08:25:51] admc, joining. (#ios-driver)
 [2013-04-28 08:34:51] admc, quitting. (Ping timeout: 258 seconds)
 [2013-04-28 08:50:43] nicegraham: evening nirvdrum how are you getting on?
+[2013-04-28 09:01:33] admc, joining. (#ios-driver)
