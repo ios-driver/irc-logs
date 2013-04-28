@@ -41,3 +41,11 @@
 [2013-04-28 09:14:26] nirvdrum: BTW, since I don't have commit rights, mind deleting these lines? https://github.com/ios-driver/ios-driver/blob/9277b50fd502aae201f2c6ca9caa36df86fd8085/server/src/main/java/org/uiautomation/ios/utils/SimulatorSettings.java#L259-L260
 [2013-04-28 09:14:32] nirvdrum: I can do up another pull request if you prefer.
 [2013-04-28 09:14:43] nirvdrum: It's just some debug crap I left in there accidentally.
+[2013-04-28 09:16:41] nicegraham: np, that's done
+[2013-04-28 09:16:49] ios-driver-git, joining. (#ios-driver)
+[2013-04-28 09:16:49] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/IdUXbg
+[2013-04-28 09:16:49] ios-driver-git: ios-driver/dev eb9d100 Graham Abell: removing debug
+[2013-04-28 09:16:49] ios-driver-git, leaving. (#ios-driver)
+[2013-04-28 09:16:53] nirvdrum: Thanks.
+[2013-04-28 09:18:44] nirvdrum: I wanted to go through and clean out a bunch the IDEA template crud.  But it seemed like a lot for a PR.
+[2013-04-28 09:19:25] nicegraham: which stuff?
