@@ -175,3 +175,4 @@
 [2013-04-28 12:38:04] nirvdrum: Sometimes the process just seems onerous for a one line change though :-P
 [2013-04-28 12:38:09] nicegraham: yeah I know
 [2013-04-28 12:41:15] nirvdrum: Do you know what the target Java level is?
+[2013-04-28 12:45:26] nicegraham: 1.6
