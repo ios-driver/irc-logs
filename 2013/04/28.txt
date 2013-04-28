@@ -186,3 +186,4 @@
 [2013-04-28 12:52:06] ios-driver-git: ios-driver/dev 67a176b Graham Abell: Merge pull request #33 from mogotest/fix-32-application-name-is-blank...
 [2013-04-28 12:52:06] ios-driver-git, leaving. (#ios-driver)
 [2013-04-28 13:12:12] smccarthy, joining. (#ios-driver)
+[2013-04-28 13:39:30] nirvdrum: nicegraham: Bah.  It looks like it's not using the correct proxy.  I should have caught that earlier.  I'm looking into it now.
