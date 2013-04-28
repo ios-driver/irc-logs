@@ -102,3 +102,11 @@
 [2013-04-28 11:57:44] nirvdrum: All the keys: browserName, simulator, CFBundleName, locale, variation, timeHack, device, language.
 [2013-04-28 11:58:46] nirvdrum: And only IOSCapabilities.iphone is being called, even though IOSCapabilities.ipad would also match on the simulator.
 [2013-04-28 12:00:01] nicegraham: https://gist.github.com/nicegraham/5478004
+[2013-04-28 12:00:51] nicegraham: which has a problem because it's not setting the name for some reason...
+[2013-04-28 12:00:56] nirvdrum: That seems to be registering the same thing twice.
+[2013-04-28 12:01:33] nicegraham: yeah, it's because there's 2 mobile safaris
+[2013-04-28 12:01:44] nicegraham: one for each sdk version
+[2013-04-28 12:01:54] nirvdrum: Ahh.
+[2013-04-28 12:02:14] nirvdrum: So, as you can, there's no iPad entry there.
+[2013-04-28 12:03:50] nirvdrum: But, beyond that, since the browser name changes, none of the code here works: http://ios-driver.github.io/ios-driver/safari.html
+[2013-04-28 12:04:38] nirvdrum: It strikes me the choice of using the simulator or not should be handled just via that capability.
