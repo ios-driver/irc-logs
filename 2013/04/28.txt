@@ -195,3 +195,22 @@
 [2013-04-28 13:54:11] nicegraham: We use the custom proxy and it works for us
 [2013-04-28 13:54:37] nirvdrum: I'm still going to try to make things work without the custom proxy because I doubt I'll be the first to run into this.
 [2013-04-28 13:55:00] nirvdrum: And I forgot how annoying it is to debug custom proxies, since they run in-process with the grid :-/
+[2013-04-28 13:55:03] nicegraham: No probably not
+[2013-04-28 13:55:27] nirvdrum: The only thing that doesn't seem to be working is the renderer can't find the image resource.
+[2013-04-28 13:55:36] nicegraham: Yeah, it took a while to figure out how to run them in my ide so I Could debug
+[2013-04-28 13:55:47] nicegraham: Safari doesn't work
+[2013-04-28 13:55:55] nicegraham: The png is truncated
+[2013-04-28 13:55:59] nicegraham: In the app
+[2013-04-28 13:56:01] nirvdrum: Ahh.
+[2013-04-28 13:56:10] nirvdrum: You have a nice looking screenshot in the docs, so I thought it would :-P
+[2013-04-28 13:56:17] nicegraham: But actually it works in safari
+[2013-04-28 13:56:34] nicegraham: Which is where I screenshotted it
+[2013-04-28 13:56:48] nicegraham: :-)
+[2013-04-28 13:56:53] nirvdrum: Heh.
+[2013-04-28 13:57:24] nicegraham: Safari forgives whatever nonsense Apple have done with the png
+[2013-04-28 13:57:42] nirvdrum: Of course they do.
+[2013-04-28 13:58:02] nirvdrum: God do I loathe that company.
+[2013-04-28 13:58:20] nicegraham: I was going to hard code an image into the project for safari
+[2013-04-28 13:58:58] nicegraham: But francois was concerned about Apple getting narked
+[2013-04-28 13:59:44] nirvdrum: I dunno if these are licensed properly: https://github.com/paulirish/browser-logos
+[2013-04-28 13:59:50] nirvdrum: But maybe using that one would be fine.
