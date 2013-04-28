@@ -93,3 +93,12 @@
 [2013-04-28 11:53:43] nicegraham: it doesn't have Safari there?
 [2013-04-28 11:54:03] nirvdrum: Actually, now that I'm stepping through, the "IOS Simulator" for the browser name is hard-coded.
 [2013-04-28 11:54:15] nicegraham: yeah I know
+[2013-04-28 11:55:12] nirvdrum: Okay.  That's expected then?
+[2013-04-28 11:55:12] nicegraham: but all the other capabilities should be under that
+[2013-04-28 11:55:23] nicegraham: let me run it here
+[2013-04-28 11:55:45] nirvdrum: The Ruby bindings at the very least are looking for safari, AFAICT.
+[2013-04-28 11:56:54] nicegraham: CFBundleExecutable should be Safari
+[2013-04-28 11:57:19] nirvdrum: I don't have that as a cap here.
+[2013-04-28 11:57:44] nirvdrum: All the keys: browserName, simulator, CFBundleName, locale, variation, timeHack, device, language.
+[2013-04-28 11:58:46] nirvdrum: And only IOSCapabilities.iphone is being called, even though IOSCapabilities.ipad would also match on the simulator.
+[2013-04-28 12:00:01] nicegraham: https://gist.github.com/nicegraham/5478004
