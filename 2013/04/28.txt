@@ -110,3 +110,20 @@
 [2013-04-28 12:02:14] nirvdrum: So, as you can, there's no iPad entry there.
 [2013-04-28 12:03:50] nirvdrum: But, beyond that, since the browser name changes, none of the code here works: http://ios-driver.github.io/ios-driver/safari.html
 [2013-04-28 12:04:38] nirvdrum: It strikes me the choice of using the simulator or not should be handled just via that capability.
+[2013-04-28 12:05:30] nicegraham: yeah, I don't have an issue with that
+[2013-04-28 12:05:45] nirvdrum: irb(main):022:0> Selenium::WebDriver::Remote::Capabilities.iphone
+[2013-04-28 12:05:45] nirvdrum: => #<Selenium::WebDriver::Remote::Capabilities:0x759c28e5 @capabilities={:browser_name=>"iPhone", :version=>"", :platform=>:mac, :javascript_enabled=>true, :css_selectors_enabled=>false, :takes_screenshot=>false, :native_events=>false, :rotatable=>false, :firefox_profile=>nil, :proxy=>nil}>
+[2013-04-28 12:05:56] nirvdrum: That's what the Ruby ones are looking for.
+[2013-04-28 12:06:25] nicegraham: so how do you specify the app to use?
+[2013-04-28 12:06:34] nirvdrum: I don't think looking for a browser name of "iphone" is appropriate either.
+[2013-04-28 12:06:49] nirvdrum: But the bindings were written for the older iphone_driver as I understand it.
+[2013-04-28 12:06:58] nicegraham: ok
+[2013-04-28 12:07:15] nirvdrum: I've never used the WebDriver bindings for a native app.  But you can tweak those capabilities.  Those are just the default set.
+[2013-04-28 12:07:39] nirvdrum: I think the platform should be 'iPhone', not 'mac'
+[2013-04-28 12:07:49] nicegraham: I think so too
+[2013-04-28 12:07:54] nirvdrum: irb(main):023:0> Selenium::WebDriver::Remote::Capabilities.ipad
+[2013-04-28 12:07:55] nirvdrum: => #<Selenium::WebDriver::Remote::Capabilities:0x1e1127f1 @capabilities={:browser_name=>"iPad", :version=>"", :platform=>:mac, :javascript_enabled=>true, :css_selectors_enabled=>false, :takes_screenshot=>false, :native_events=>false, :rotatable=>false, :firefox_profile=>nil, :proxy=>nil}>
+[2013-04-28 12:08:00] nirvdrum: And that's the ipad one.
+[2013-04-28 12:08:22] nirvdrum: I'd have to check the other bindings though.  The Ruby ones generally mimic the Java ones.
+[2013-04-28 12:09:42] nirvdrum: So, if you want, I can work on a registration request that at least works for me.  And we can reconcile the differences afterwards.
+[2013-04-28 12:09:56] nicegraham: yeah, I'm happy with that
