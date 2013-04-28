@@ -174,3 +174,4 @@
 [2013-04-28 12:37:47] nirvdrum: Yeah.  At this stage I wanted to get more familiar with the code and am happy to do PRs so I don't totally break things.
 [2013-04-28 12:38:04] nirvdrum: Sometimes the process just seems onerous for a one line change though :-P
 [2013-04-28 12:38:09] nicegraham: yeah I know
+[2013-04-28 12:41:15] nirvdrum: Do you know what the target Java level is?
