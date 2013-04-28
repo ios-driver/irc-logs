@@ -49,3 +49,5 @@
 [2013-04-28 09:16:53] nirvdrum: Thanks.
 [2013-04-28 09:18:44] nirvdrum: I wanted to go through and clean out a bunch the IDEA template crud.  But it seemed like a lot for a PR.
 [2013-04-28 09:19:25] nicegraham: which stuff?
+[2013-04-28 09:21:28] nirvdrum: A lot of the exception handlers have comments about changing the IDEA file templates.
+[2013-04-28 09:21:52] nirvdrum: I think I was searching the code for the word "template" or something like that and found a ton of them.
