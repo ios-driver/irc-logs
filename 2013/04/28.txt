@@ -163,3 +163,14 @@
 [2013-04-28 12:23:17] nicegraham: anyway, it was a waste of a good product for pure greed
 [2013-04-28 12:23:38] nirvdrum: That's a shame.
 [2013-04-28 12:24:01] nicegraham: yeah, lots of smart people worked there
+[2013-04-28 12:35:32] nirvdrum: nicegraham: The reason the bundle name is blank is this line: https://github.com/ios-driver/ios-driver/blob/dev/server/src/main/java/org/uiautomation/ios/server/application/APPIOSApplication.java#L430
+[2013-04-28 12:35:40] nirvdrum: name isn't null, but it's an empty string.
+[2013-04-28 12:35:50] nirvdrum: displayName is "Safari"
+[2013-04-28 12:36:08] nicegraham: :)
+[2013-04-28 12:36:14] nicegraham: makes sense
+[2013-04-28 12:36:26] nirvdrum: I can start opening up PRs for this stuff.
+[2013-04-28 12:37:04] nicegraham: ok, I'm sure Francois will give you write access
+[2013-04-28 12:37:34] nicegraham: it's his baby really...
+[2013-04-28 12:37:47] nirvdrum: Yeah.  At this stage I wanted to get more familiar with the code and am happy to do PRs so I don't totally break things.
+[2013-04-28 12:38:04] nirvdrum: Sometimes the process just seems onerous for a one line change though :-P
+[2013-04-28 12:38:09] nicegraham: yeah I know
