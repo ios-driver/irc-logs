@@ -176,3 +176,12 @@
 [2013-04-28 12:38:09] nicegraham: yeah I know
 [2013-04-28 12:41:15] nirvdrum: Do you know what the target Java level is?
 [2013-04-28 12:45:26] nicegraham: 1.6
+[2013-04-28 12:50:45] ios-driver-git, joining. (#ios-driver)
+[2013-04-28 12:50:45] ios-driver-git: [ios-driver] nirvdrum opened pull request #33: Ensure the CFBundleName is both non-null and non-blank before preferring... (dev...fix-32-application-name-is-blank)  http://git.io/4EXynQ
+[2013-04-28 12:50:45] ios-driver-git, leaving. (#ios-driver)
+[2013-04-28 12:51:09] nirvdrum: There didn't appear to be a test for that and I didn't address that situation.
+[2013-04-28 12:52:05] ios-driver-git, joining. (#ios-driver)
+[2013-04-28 12:52:06] ios-driver-git: [ios-driver] nicegraham pushed 2 new commits to dev: http://git.io/eeCDfA
+[2013-04-28 12:52:06] ios-driver-git: ios-driver/dev 3cfddac Kevin Menard: Ensure the CFBundleName is both non-null and non-blank before preferring it over the CFBundleDisplayName value....
+[2013-04-28 12:52:06] ios-driver-git: ios-driver/dev 67a176b Graham Abell: Merge pull request #33 from mogotest/fix-32-application-name-is-blank...
+[2013-04-28 12:52:06] ios-driver-git, leaving. (#ios-driver)
