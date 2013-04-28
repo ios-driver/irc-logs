@@ -87,3 +87,9 @@
 [2013-04-28 11:48:07] nicegraham: if you breakpoint it before it sends the registration message, is it including the caps?
 [2013-04-28 11:48:53] nirvdrum: Let me try that.  I just wanted to verify I wasn't missing some undocumented switch or something.
 [2013-04-28 11:49:21] nicegraham: no, as long as you include the -hub which you are obviously it should work
+[2013-04-28 11:50:25] nicegraham: https://github.com/ios-driver/ios-driver/blob/dev/server/src/main/java/org/uiautomation/ios/server/grid/RegistrationRequest.java#L60
+[2013-04-28 11:50:41] nicegraham: it should have the applications added by then
+[2013-04-28 11:52:55] nirvdrum: I see one capabilitiy.  "browserName" -> "IOS Simulator", "simulator" -> "true", "device" -> "iphone"
+[2013-04-28 11:53:43] nicegraham: it doesn't have Safari there?
+[2013-04-28 11:54:03] nirvdrum: Actually, now that I'm stepping through, the "IOS Simulator" for the browser name is hard-coded.
+[2013-04-28 11:54:15] nicegraham: yeah I know
