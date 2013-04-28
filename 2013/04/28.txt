@@ -231,3 +231,7 @@
 [2013-04-28 14:08:29] nicegraham: We poll the grid to see what capabilities are available
 [2013-04-28 14:09:11] nirvdrum: We have a couple other servlets to do API queries as well.
 [2013-04-28 14:09:18] nirvdrum: Mostly for accounting stuff.
+[2013-04-28 14:11:41] nicegraham: We queue tests in a db, so we only want to start tests which can be run otherwise they block a slot on the runner machines
+[2013-04-28 14:13:17] nirvdrum: Yeah, roughly the same thing here.  Things break very quickly if a client times out while sitting in the request queue.
+[2013-04-28 14:13:29] nirvdrum: I was able to handle that with grid 1.  I can't find a good fix with grid 2.
+[2013-04-28 14:14:45] nicegraham: We only start the test when it can be run which helps with timeouts
