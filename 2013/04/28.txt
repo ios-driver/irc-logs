@@ -127,3 +127,15 @@
 [2013-04-28 12:08:22] nirvdrum: I'd have to check the other bindings though.  The Ruby ones generally mimic the Java ones.
 [2013-04-28 12:09:42] nirvdrum: So, if you want, I can work on a registration request that at least works for me.  And we can reconcile the differences afterwards.
 [2013-04-28 12:09:56] nicegraham: yeah, I'm happy with that
+[2013-04-28 12:10:14] nicegraham: or if you just tell me what you want in it I can do it
+[2013-04-28 12:10:25] nicegraham: but I won't get to it until the morning
+[2013-04-28 12:10:41] nirvdrum: I need to see how lenient the grid is.  I'm not sure if I need to register both iphone and ipad + all variants.
+[2013-04-28 12:10:58] nicegraham: that's why there's a device_alt
+[2013-04-28 12:11:15] nicegraham: and why i'm going to create a custom matcher
+[2013-04-28 12:11:54] nirvdrum: Debugging-wise, I could see there being value in having each registered.  Then when a test slot is in use, I can tell exactly what type of test is being run.
+[2013-04-28 12:12:01] nirvdrum: But that may not be 100% necessary.
+[2013-04-28 12:12:26] nicegraham: the renderer could take care of showing it
+[2013-04-28 12:13:18] nirvdrum: The other part to that is if I make a request for a bad variation, I don't want the node to silently ignore that and test with something else, as is the WebDriver custom.
+[2013-04-28 12:13:47] nirvdrum: Anyway, I think I'm 5 hours behind you, so I can play with this the rest of the day.  At least come tomorrow I'll have a better understanding.
+[2013-04-28 12:14:18] nicegraham: yeah, I'm on gmt
+[2013-04-28 12:14:46] nirvdrum: Do you work at ebay as well?
