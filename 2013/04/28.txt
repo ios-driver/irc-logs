@@ -214,3 +214,16 @@
 [2013-04-28 13:58:58] nicegraham: But francois was concerned about Apple getting narked
 [2013-04-28 13:59:44] nirvdrum: I dunno if these are licensed properly: https://github.com/paulirish/browser-logos
 [2013-04-28 13:59:50] nirvdrum: But maybe using that one would be fine.
+[2013-04-28 14:01:11] nicegraham: He's not that concerned about it but it looks better with it in there
+[2013-04-28 14:01:21] nicegraham: I might ask him again
+[2013-04-28 14:01:31] nicegraham: Our just view grid in safari :-)
+[2013-04-28 14:01:42] nirvdrum: Maybe it won't matter.  My plan was to nuke that console servlet anyway, including the renderer interface.
+[2013-04-28 14:02:31] nicegraham: And replace it with?
+[2013-04-28 14:02:55] nirvdrum: That beta console that's been there for quite some time.
+[2013-04-28 14:03:31] nicegraham: Oh right, I've found that I've top be very slow some times
+[2013-04-28 14:03:34] nirvdrum: The interface is weird because it's virtually useless outside the context of that one servlet.
+[2013-04-28 14:03:48] nicegraham: Have you noticed that at all?
+[2013-04-28 14:04:01] nirvdrum: Not slow.  But it's a lot bigger vertically.
+[2013-04-28 14:04:16] nirvdrum: We use our own custom servlet for the console view.
+[2013-04-28 14:04:51] nicegraham: We have a custom one too which spits out all the json
+[2013-04-28 14:04:51] nirvdrum: Which I think is potentially a better solution than having a remote proxy implement and HTML renderer interface.3
