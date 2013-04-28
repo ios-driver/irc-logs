@@ -187,3 +187,11 @@
 [2013-04-28 12:52:06] ios-driver-git, leaving. (#ios-driver)
 [2013-04-28 13:12:12] smccarthy, joining. (#ios-driver)
 [2013-04-28 13:39:30] nirvdrum: nicegraham: Bah.  It looks like it's not using the correct proxy.  I should have caught that earlier.  I'm looking into it now.
+[2013-04-28 13:52:25] nicegraham: As in the custom proxy in the project?
+[2013-04-28 13:53:08] nirvdrum: I misunderstood the change you made the other day.  So I wasn't passing the "-proxy" option.  That likely explains the differences in what we were seeing.
+[2013-04-28 13:53:16] nirvdrum: E.g., the lack of a"device_Alt"
+[2013-04-28 13:53:49] nicegraham: Yeah, that's probably right
+[2013-04-28 13:54:06] nirvdrum: So, now I have the custom proxy working, but still not quite doing what I want.  It still misses the variations.
+[2013-04-28 13:54:11] nicegraham: We use the custom proxy and it works for us
+[2013-04-28 13:54:37] nirvdrum: I'm still going to try to make things work without the custom proxy because I doubt I'll be the first to run into this.
+[2013-04-28 13:55:00] nirvdrum: And I forgot how annoying it is to debug custom proxies, since they run in-process with the grid :-/
