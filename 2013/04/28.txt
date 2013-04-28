@@ -51,3 +51,9 @@
 [2013-04-28 09:19:25] nicegraham: which stuff?
 [2013-04-28 09:21:28] nirvdrum: A lot of the exception handlers have comments about changing the IDEA file templates.
 [2013-04-28 09:21:52] nirvdrum: I think I was searching the code for the word "template" or something like that and found a ton of them.
+[2013-04-28 09:27:41] nicegraham: oh, yeah - I know what you mean
+[2013-04-28 09:27:41] nicegraham: any auto implemented methods have the same
+[2013-04-28 09:27:41] nicegraham: any auto implemented methods have the same thing
+[2013-04-28 09:28:32] nirvdrum: I have experience cleaning up after Francois on Selenium Grid ;-)
+[2013-04-28 09:29:13] nicegraham: i was hoping to catch your workshop at seconf actually
+[2013-04-28 09:29:39] nicegraham: but the workshop tickets had sold out when I got the approval through
