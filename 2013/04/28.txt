@@ -5,3 +5,20 @@
 [2013-04-28 08:34:51] admc, quitting. (Ping timeout: 258 seconds)
 [2013-04-28 08:50:43] nicegraham: evening nirvdrum how are you getting on?
 [2013-04-28 09:01:33] admc, joining. (#ios-driver)
+[2013-04-28 09:05:09] nirvdrum: nicegraham: So far, pretty well.  I got my first pull request merged already :-)
+[2013-04-28 09:05:15] nirvdrum: I'm trying to figure out what happens with self-signed SSL certs now.
+[2013-04-28 09:05:24] nicegraham: I saw that, good work :)
+[2013-04-28 09:05:50] nirvdrum: When I visit a site with a self-signed cert through ios-driver, I'm not prompted to accept the cert, but the page doesn't load either.
+[2013-04-28 09:06:03] nirvdrum: If I start up safari without ios-driver, I'm at least prompted to accept the cert.
+[2013-04-28 09:06:13] nicegraham: that's odd
+[2013-04-28 09:06:27] nicegraham: can't think why that would happen
+[2013-04-28 09:06:38] nicegraham: is there a setting to accept all certs?
+[2013-04-28 09:07:12] nirvdrum: Not that I've found.  The best I've come across is a utility to modify the trusted cert store.
+[2013-04-28 09:07:33] nirvdrum: Which would work with the cybervillains CA, if ios-driver handled proxies correctly :-P
+[2013-04-28 09:07:51] nicegraham: nothing but complaints this evening :)
+[2013-04-28 09:08:06] nirvdrum: Not with ios-driver.  More with Apple making things harder than they should.
+[2013-04-28 09:08:16] nicegraham: :)
+[2013-04-28 09:08:24] nirvdrum: Note, I don't know that it can.  Apparently the simulator doesn't implement proxy stuff at all, it needs to be done on the underlying host.
+[2013-04-28 09:09:05] nirvdrum: Having said that, I've yet to work out why the behavior is different in the face of self-signed certs.
+[2013-04-28 09:09:32] nicegraham: I'm surprised by that, it's just running the same app
+[2013-04-28 09:09:59] nirvdrum: Maybe Francois knows.  I swear he mentioned to me that self-signed certs work a few months back.
