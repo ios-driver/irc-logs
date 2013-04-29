@@ -45,3 +45,5 @@
 [2013-04-29 08:26:08] nirvdrum: nicegraham: This is more what I had in mind for grid registration: https://github.com/mogotest/ios-driver/commit/d51dc9ec1323cf95e2f7a3c0ab692cb904f3903d
 [2013-04-29 08:30:29] nicegraham: nirvdrum: looks good to me
 [2013-04-29 08:31:33] ddary, quitting. (Quit: ddary)
+[2013-04-29 08:40:26] smccarthy, joining. (#ios-driver)
+[2013-04-29 08:40:54] lukeis, joining. (#ios-driver)
