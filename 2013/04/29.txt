@@ -131,3 +131,5 @@
 [2013-04-29 10:48:39] iostester: they are saying they don't see the menu of options (that I see) for building our app with UIAutomation
 [2013-04-29 10:48:44] iostester: any reason why this happens?
 [2013-04-29 10:50:46] lukeis, joining. (#ios-driver)
+[2013-04-29 11:20:29] iostester, quitting. (Quit: Page closed)
+[2013-04-29 11:20:57] iostester, joining. (#ios-driver)
