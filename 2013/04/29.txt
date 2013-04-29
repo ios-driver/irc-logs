@@ -4,3 +4,4 @@
 [2013-04-29 05:46:53] nirvdrum: AutomatedTester: Do you know how the capabilities for mobile devices evolved? They seem really out of whack.
 [2013-04-29 05:47:26] AutomatedTester: nirvdrum: nope sorry
 [2013-04-29 05:48:14] nirvdrum: No problem.  Thanks.
+[2013-04-29 05:56:15] AutomatedTester: nirvdrum: Luke might have some insight into it
