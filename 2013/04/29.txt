@@ -28,3 +28,5 @@
 [2013-04-29 07:02:07] freynaud: i see the same behaviour. Https don't load at all with WKRDP
 [2013-04-29 07:02:38] dawagner, joining. (#ios-driver)
 [2013-04-29 07:04:10] ddary, joining. (#ios-driver)
+[2013-04-29 07:09:16] freynaud: nirvdrum: there should be a way to bypass that
+[2013-04-29 07:09:41] freynaud: but it means fixing other bugs. I played around, and I have a lot of casting issues.
