@@ -25,3 +25,6 @@
 [2013-04-29 06:41:44] nicegraham: that's me... all round nice guy :)
 [2013-04-29 06:42:09] freynaud: ok, so push is done. Checking for https
 [2013-04-29 06:44:38] nirvdrum: Thanks.
+[2013-04-29 07:02:07] freynaud: i see the same behaviour. Https don't load at all with WKRDP
+[2013-04-29 07:02:38] dawagner, joining. (#ios-driver)
+[2013-04-29 07:04:10] ddary, joining. (#ios-driver)
