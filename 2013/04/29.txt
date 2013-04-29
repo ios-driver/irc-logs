@@ -53,3 +53,11 @@
 [2013-04-29 09:04:04] ios-driver-git, leaving. (#ios-driver)
 [2013-04-29 09:04:08] nirvdrum: There he is.
 [2013-04-29 09:04:28] nirvdrum: lukeis: AutomatedTester said you might know how the WD capabilities for iOS stuff evolved.  True or false?
+[2013-04-29 09:07:02] lukeis: somewhat :)
+[2013-04-29 09:07:25] lukeis: are you talking about platform or something else?
+[2013-04-29 09:07:31] lukeis: browserName?
+[2013-04-29 09:07:55] *lukeis had a hand in that'
+[2013-04-29 09:07:55] nirvdrum: Both.
+[2013-04-29 09:08:22] nirvdrum: I'm confused as to why the client bindings look for a browserName of "iPhone" or "iPad" and a platform of "MAC"
+[2013-04-29 09:09:26] lukeis: welp… really it came down to ease of integrating with grid2 at the time (without knowing grid2 code at all, nor willing to mess with it)
+[2013-04-29 09:09:48] lukeis: changing the browser name was the only way to easily get the hub to pic the right device
