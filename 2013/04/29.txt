@@ -47,3 +47,9 @@
 [2013-04-29 08:31:33] ddary, quitting. (Quit: ddary)
 [2013-04-29 08:40:26] smccarthy, joining. (#ios-driver)
 [2013-04-29 08:40:54] lukeis, joining. (#ios-driver)
+[2013-04-29 09:04:04] ios-driver-git, joining. (#ios-driver)
+[2013-04-29 09:04:04] ios-driver-git: [ios-driver] nirvdrum pushed 1 new commit to dev: http://git.io/jgivJw
+[2013-04-29 09:04:04] ios-driver-git: ios-driver/dev d51dc9e Kevin Menard: Updated registration to grid with default proxy to use capabilities that the WebDriver bindings are looking for.
+[2013-04-29 09:04:04] ios-driver-git, leaving. (#ios-driver)
+[2013-04-29 09:04:08] nirvdrum: There he is.
+[2013-04-29 09:04:28] nirvdrum: lukeis: AutomatedTester said you might know how the WD capabilities for iOS stuff evolved.  True or false?
