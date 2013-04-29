@@ -125,3 +125,8 @@
 [2013-04-29 10:31:46] jlipps, joining. (#ios-driver)
 [2013-04-29 10:38:21] freynaud, quitting. (Quit: freynaud)
 [2013-04-29 10:43:47] iostester, joining. (#ios-driver)
+[2013-04-29 10:45:58] iostester: Hi nicegraham
+[2013-04-29 10:46:52] iostester: with the last discussion that we had for testing real devices, you had mentioned that for real devices we need an app that works with UIAutomation
+[2013-04-29 10:48:09] iostester: to make it more clear with the build team that gets me the build, I told them to do the following on Xcode: select a device for build in xcode and click on product-->profile and select UIAutomation
+[2013-04-29 10:48:39] iostester: they are saying they don't see the menu of options (that I see) for building our app with UIAutomation
+[2013-04-29 10:48:44] iostester: any reason why this happens?
