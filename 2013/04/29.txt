@@ -108,3 +108,8 @@
 [2013-04-29 09:31:08] smccarthy2, joining. (#ios-driver)
 [2013-04-29 09:34:56] smccarthy, quitting. (Ping timeout: 260 seconds)
 [2013-04-29 09:41:02] nirvdrum: Is there any way for me to prevent Instruments from constantly asking for a password?  I'm fine compromising security to make it happen.
+[2013-04-29 09:50:36] lukeis: nirvdrum: http://ios-driver.github.io/ios-driver/faq.html    look at Developer Tools Access needs to take control
+[2013-04-29 09:51:07] nirvdrum: Ahh, thanks.  I did the chmod commands, but missed that.
+[2013-04-29 09:51:11] nirvdrum: Sorry for the noise.
+[2013-04-29 09:52:25] lukeis: no worries ;)
+[2013-04-29 09:52:33] nirvdrum: freynaud: If you need me to test out the HTTPS stuff, I'm happy to do that.
