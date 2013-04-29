@@ -30,3 +30,8 @@
 [2013-04-29 07:04:10] ddary, joining. (#ios-driver)
 [2013-04-29 07:09:16] freynaud: nirvdrum: there should be a way to bypass that
 [2013-04-29 07:09:41] freynaud: but it means fixing other bugs. I played around, and I have a lot of casting issues.
+[2013-04-29 07:12:47] nirvdrum: If there's something I can do to help, just let me know.
+[2013-04-29 07:13:10] freynaud: webkit doesn't allow it
+[2013-04-29 07:13:35] freynaud: so what we can do is consider safari as a native app to enter the url natively with the keyboard
+[2013-04-29 07:13:47] freynaud: that should make the "are you sure popup" appear
+[2013-04-29 07:13:54] freynaud: and that can be dealt with
