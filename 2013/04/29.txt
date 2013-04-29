@@ -122,3 +122,4 @@
 [2013-04-29 10:12:24] ios-driver-git, leaving. (#ios-driver)
 [2013-04-29 10:27:11] smccarthy2, quitting. (Remote host closed the connection)
 [2013-04-29 10:27:46] smccarthy, joining. (#ios-driver)
+[2013-04-29 10:31:46] jlipps, joining. (#ios-driver)
