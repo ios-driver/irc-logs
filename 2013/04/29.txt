@@ -130,3 +130,4 @@
 [2013-04-29 10:48:09] iostester: to make it more clear with the build team that gets me the build, I told them to do the following on Xcode: select a device for build in xcode and click on product-->profile and select UIAutomation
 [2013-04-29 10:48:39] iostester: they are saying they don't see the menu of options (that I see) for building our app with UIAutomation
 [2013-04-29 10:48:44] iostester: any reason why this happens?
+[2013-04-29 10:50:46] lukeis, joining. (#ios-driver)
