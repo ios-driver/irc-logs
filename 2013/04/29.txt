@@ -6,3 +6,4 @@
 [2013-04-29 05:48:14] nirvdrum: No problem.  Thanks.
 [2013-04-29 05:56:15] AutomatedTester: nirvdrum: Luke might have some insight into it
 [2013-04-29 06:24:24] freynaud, joining. (#ios-driver)
+[2013-04-29 06:34:14] freynaud: nirvdrum: Hi
