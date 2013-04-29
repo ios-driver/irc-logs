@@ -37,3 +37,5 @@
 [2013-04-29 07:13:54] freynaud: and that can be dealt with
 [2013-04-29 07:15:14] nirvdrum: Okay.  I found a way to modify the trusted CA store, so I could add the cybervillains cert.  But then you'd need to run with BrowserMob Proxy.
 [2013-04-29 07:33:20] freynaud: it works, minus timing issues
+[2013-04-29 07:37:07] nirvdrum: Awesome.
+[2013-04-29 07:37:12] nirvdrum: Timing issues in what sense?
