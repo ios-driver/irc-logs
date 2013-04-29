@@ -238,3 +238,4 @@
 [2013-04-28 14:39:15] nirvdrum: We strive for that.  But since we can have 100s of clients all requesting a browser at roughly the same time, short of a global lock, we're going to end up with contention.
 [2013-04-28 14:44:35] nirvdrum: Okay.  Dinner time for me.  Thanks for all the help.
 [2013-04-28 14:50:33] nirvdrum, quitting. (Ping timeout: 245 seconds)
+[2013-04-28 18:10:23] nirvdrum, joining. (#ios-driver)
