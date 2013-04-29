@@ -19,3 +19,9 @@
 [2013-04-29 06:39:06] nirvdrum: What's weird is when I access a page in the simulator through ios-driver, the page just comes up blank.  When I access outside ios-driver, I get the prompt to accept the cert.
 [2013-04-29 06:39:19] nirvdrum: What do you mean by push access?  I'll need to be able to submit a login form.
 [2013-04-29 06:39:51] freynaud: you asked how many pull request you need before getting access
+[2013-04-29 06:40:45] nirvdrum: Oh.  Well, I asked that on your phone, which you just told me you don't read.
+[2013-04-29 06:41:05] nirvdrum: Yeah, push access would be great, if you don't mind.  Otherwise, I'm happy to keep bugging people here.
+[2013-04-29 06:41:17] nirvdrum: nicegraham was nice enough to help out yesterday.
+[2013-04-29 06:41:44] nicegraham: that's me... all round nice guy :)
+[2013-04-29 06:42:09] freynaud: ok, so push is done. Checking for https
+[2013-04-29 06:44:38] nirvdrum: Thanks.
