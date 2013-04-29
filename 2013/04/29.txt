@@ -120,3 +120,5 @@
 [2013-04-29 10:12:24] ios-driver-git: ios-driver/dev 0e73a2a Kevin Menard: No need to re-box Longs as Longs.
 [2013-04-29 10:12:24] ios-driver-git: ios-driver/dev 78d77a9 Kevin Menard: Use Collections#addAll instead of manual iteration.
 [2013-04-29 10:12:24] ios-driver-git, leaving. (#ios-driver)
+[2013-04-29 10:27:11] smccarthy2, quitting. (Remote host closed the connection)
+[2013-04-29 10:27:46] smccarthy, joining. (#ios-driver)
