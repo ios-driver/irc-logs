@@ -42,3 +42,4 @@
 [2013-04-29 08:02:11] freynaud: it doesn't wait for the page to load properly, as it's stuck on the https popup
 [2013-04-29 08:02:23] freynaud: i think it's just logoc errors in the code
 [2013-04-29 08:08:27] nirvdrum: I thought someone said the driver support proxies, too.  Is that correct?  It looks like with the simulator you need to set the proxy in the host OS.
+[2013-04-29 08:26:08] nirvdrum: nicegraham: This is more what I had in mind for grid registration: https://github.com/mogotest/ios-driver/commit/d51dc9ec1323cf95e2f7a3c0ab692cb904f3903d
