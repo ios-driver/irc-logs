@@ -113,3 +113,5 @@
 [2013-04-29 09:51:11] nirvdrum: Sorry for the noise.
 [2013-04-29 09:52:25] lukeis: no worries ;)
 [2013-04-29 09:52:33] nirvdrum: freynaud: If you need me to test out the HTTPS stuff, I'm happy to do that.
+[2013-04-29 09:56:08] lukeis: nirvdrum: next time freynaud is actually here, remind him to delete https://github.com/freynaud/ios-driver
+[2013-04-29 09:59:27] lukeis, quitting. (Quit: Leaving.)
