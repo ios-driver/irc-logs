@@ -134,3 +134,4 @@
 [2013-04-29 11:20:29] iostester, quitting. (Quit: Page closed)
 [2013-04-29 11:20:57] iostester, joining. (#ios-driver)
 [2013-04-29 11:30:36] smccarthy, quitting. (Remote host closed the connection)
+[2013-04-29 12:00:12] Hammertime38, joining. (#ios-driver)
