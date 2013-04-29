@@ -115,3 +115,8 @@
 [2013-04-29 09:52:33] nirvdrum: freynaud: If you need me to test out the HTTPS stuff, I'm happy to do that.
 [2013-04-29 09:56:08] lukeis: nirvdrum: next time freynaud is actually here, remind him to delete https://github.com/freynaud/ios-driver
 [2013-04-29 09:59:27] lukeis, quitting. (Quit: Leaving.)
+[2013-04-29 10:12:23] ios-driver-git, joining. (#ios-driver)
+[2013-04-29 10:12:24] ios-driver-git: [ios-driver] nirvdrum pushed 2 new commits to dev: http://git.io/sI_dzA
+[2013-04-29 10:12:24] ios-driver-git: ios-driver/dev 0e73a2a Kevin Menard: No need to re-box Longs as Longs.
+[2013-04-29 10:12:24] ios-driver-git: ios-driver/dev 78d77a9 Kevin Menard: Use Collections#addAll instead of manual iteration.
+[2013-04-29 10:12:24] ios-driver-git, leaving. (#ios-driver)
