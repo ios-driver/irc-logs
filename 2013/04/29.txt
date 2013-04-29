@@ -102,3 +102,5 @@
 [2013-04-29 09:19:17] lukeis: :-D
 [2013-04-29 09:19:22] nirvdrum: Yeah.  I guess platform is tricky.
 [2013-04-29 09:19:28] nirvdrum: iOS probably is more correct.
+[2013-04-29 09:20:17] lukeis: line 118 is where it gets iPhone / iPad
+[2013-04-29 09:24:38] nirvdrum: I gotta get you boys into shape.
