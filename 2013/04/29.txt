@@ -107,3 +107,4 @@
 [2013-04-29 09:31:06] santiycr, joining. (#ios-driver)
 [2013-04-29 09:31:08] smccarthy2, joining. (#ios-driver)
 [2013-04-29 09:34:56] smccarthy, quitting. (Ping timeout: 260 seconds)
+[2013-04-29 09:41:02] nirvdrum: Is there any way for me to prevent Instruments from constantly asking for a password?  I'm fine compromising security to make it happen.
