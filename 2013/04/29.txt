@@ -61,3 +61,27 @@
 [2013-04-29 09:08:22] nirvdrum: I'm confused as to why the client bindings look for a browserName of "iPhone" or "iPad" and a platform of "MAC"
 [2013-04-29 09:09:26] lukeis: welp… really it came down to ease of integrating with grid2 at the time (without knowing grid2 code at all, nor willing to mess with it)
 [2013-04-29 09:09:48] lukeis: changing the browser name was the only way to easily get the hub to pic the right device
+[2013-04-29 09:10:28] nirvdrum: It should match on any capability.
+[2013-04-29 09:10:28] lukeis: and to have it distinguished (between iphone / ipad) on the grid console page
+[2013-04-29 09:10:43] lukeis: *should* is the operative term
+[2013-04-29 09:10:53] lukeis: this was back in 2.0.0 release days ;)
+[2013-04-29 09:10:57] nirvdrum: Ahh.
+[2013-04-29 09:11:23] lukeis: call it slop / laziness for never trying to clean that up
+[2013-04-29 09:11:41] nirvdrum: I didn't know if it had to do with the old iphone driver or something.
+[2013-04-29 09:11:55] nirvdrum: Fixing it now might be too hard, but I'd like to at least look in to it.
+[2013-04-29 09:11:56] lukeis: it did with the iphonedriver
+[2013-04-29 09:12:15] lukeis: well, iphonedriver doesn't care what caps it gets ;)
+[2013-04-29 09:12:26] lukeis: it was more to do with ease of getting into a grid
+[2013-04-29 09:12:29] nirvdrum: The browser name has to match.
+[2013-04-29 09:12:39] nirvdrum: Otherwise grid won't schedule it.
+[2013-04-29 09:12:43] lukeis: you can send whatever to iphonedriver :)
+[2013-04-29 09:12:50] lukeis: yep
+[2013-04-29 09:13:08] nirvdrum: Sure.  But the grid won't send it over unless there's a custom capability matcher or the registered capabilities match.
+[2013-04-29 09:13:15] lukeis: yes
+[2013-04-29 09:13:26] lukeis: i've since looked / somewhat understand that code ;)
+[2013-04-29 09:13:29] nirvdrum: Heh.
+[2013-04-29 09:13:48] lukeis: that bit of code is a bit overly engineered imho ;)
+[2013-04-29 09:14:01] nirvdrum: I guess the point is I can synchronize an update between ios-driver and all the Selenium client bindings, but that'll probably break iphonedriver in the process.
+[2013-04-29 09:14:26] lukeis: won't break iphonedriver, will break people's implementation of a grid
+[2013-04-29 09:14:28] nirvdrum: All the bad stuff you can blame freynaud for.  I only take credit for the good stuff.
+[2013-04-29 09:14:36] lukeis: heh :)
