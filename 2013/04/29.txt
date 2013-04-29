@@ -36,3 +36,4 @@
 [2013-04-29 07:13:47] freynaud: that should make the "are you sure popup" appear
 [2013-04-29 07:13:54] freynaud: and that can be dealt with
 [2013-04-29 07:15:14] nirvdrum: Okay.  I found a way to modify the trusted CA store, so I could add the cybervillains cert.  But then you'd need to run with BrowserMob Proxy.
+[2013-04-29 07:33:20] freynaud: it works, minus timing issues
