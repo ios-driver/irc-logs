@@ -85,3 +85,20 @@
 [2013-04-29 09:14:26] lukeis: won't break iphonedriver, will break people's implementation of a grid
 [2013-04-29 09:14:28] nirvdrum: All the bad stuff you can blame freynaud for.  I only take credit for the good stuff.
 [2013-04-29 09:14:36] lukeis: heh :)
+[2013-04-29 09:15:20] nirvdrum: Well, let me ask more directly.  When adding iphonedriver to a grid, what does it advertise its capabilities as?  Or does that need to be handled completely in the node config on a per-user basis anyway?
+[2013-04-29 09:16:13] lukeis: it registers itself as {'browserName': 'iphone' /
+[2013-04-29 09:16:16] lukeis: 'ipad'
+[2013-04-29 09:16:17] lukeis: and
+[2013-04-29 09:16:23] lukeis: platform: 'MAC'
+[2013-04-29 09:16:36] nirvdrum: Yeah, so that's the part that would break if I update the client bindings.
+[2013-04-29 09:16:50] nirvdrum: I try hard to not break grids on people.
+[2013-04-29 09:16:50] lukeis: yep, could easily update the iphonedriver code
+[2013-04-29 09:17:08] nirvdrum: Oh?
+[2013-04-29 09:17:20] nirvdrum: Okay.  I thought it was a Google project and deprecated, so no new updates.
+[2013-04-29 09:17:22] lukeis: one sec… link coming
+[2013-04-29 09:18:10] nirvdrum: I'm thinking the browserName should basically be the app name (e.g., "Safari") and the platform should be the device.
+[2013-04-29 09:18:42] lukeis: https://code.google.com/p/selenium/source/browse/iphone/src/objc/HTTPServerController.m#120
+[2013-04-29 09:19:10] nirvdrum: Nice TODO :-P
+[2013-04-29 09:19:17] lukeis: :-D
+[2013-04-29 09:19:22] nirvdrum: Yeah.  I guess platform is tricky.
+[2013-04-29 09:19:28] nirvdrum: iOS probably is more correct.
