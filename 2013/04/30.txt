@@ -363,3 +363,8 @@
 [2013-04-30 13:24:20] nicegraham: if the container is a scrollview we could return that size?
 [2013-04-30 13:24:41] freynaud: if you use chrome for instance, entering text in an input field zooms and make the scrollview bigger :)
 [2013-04-30 13:24:45] nirvdrum: You could always return the device dimensions.  But, I don't think that's terribly useful.
+[2013-04-30 13:25:21] freynaud: I would return the device dimension for driver.size
+[2013-04-30 13:25:42] freynaud: if you want something specific to your app, driver.findElement(theOne).size();
+[2013-04-30 13:26:04] freynaud: guessing what element represents the app won't be possible
+[2013-04-30 13:27:29] nicegraham: ok so the native handler can return the screen size
+[2013-04-30 13:27:40] nicegraham: but the web one would still return the canvas size I assume?
