@@ -110,3 +110,9 @@
 [2013-04-30 11:19:09] freynaud: we need a property that finds https related alert and dismiss them. Keep the others
 [2013-04-30 11:19:26] nirvdrum: I don't care a ton.  But if someone really wants that "Details" button, I don't know how they can click it.
 [2013-04-30 11:20:00] santiycr, joining. (#ios-driver)
+[2013-04-30 11:20:11] freynaud: they cannot using the web driver protocol
+[2013-04-30 11:20:27] freynaud: but they can use the augmenter to get a iOS driver
+[2013-04-30 11:20:38] freynaud: then the alert they get is a normal native element
+[2013-04-30 11:20:50] freynaud: they can browser that using alert.findElement()
+[2013-04-30 11:20:58] freynaud: and get all the individual pieces
+[2013-04-30 11:21:15] freynaud: as explained in the doc http://ios-driver.github.io/ios-driver/native.html#advAlert
