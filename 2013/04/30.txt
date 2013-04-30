@@ -33,3 +33,4 @@
 [2013-04-30 09:07:15] nirvdrum: Well, I can port this into ios-server.  We should know what the orientation is in there and return the corrected image.
 [2013-04-30 09:07:31] nirvdrum: I just wanted to verify this wasn't intentional.
 [2013-04-30 09:24:04] admc, joining. (#ios-driver)
+[2013-04-30 09:44:34] lukeis, quitting. (Quit: Leaving.)
