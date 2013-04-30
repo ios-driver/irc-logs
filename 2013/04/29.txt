@@ -149,3 +149,4 @@
 [2013-04-29 18:13:48] admc, quitting. (Quit: Leaving.)
 [2013-04-29 18:51:58] santiycr, quitting. (Quit: Leaving.)
 [2013-04-29 19:51:22] jlipps, quitting. (Quit: Leaving.)
+[2013-04-29 20:46:58] nirvdrum, quitting. (Ping timeout: 272 seconds)
