@@ -296,3 +296,16 @@
 [2013-04-30 12:59:47] nirvdrum: Yeah.
 [2013-04-30 12:59:52] nicegraham: :)
 [2013-04-30 12:59:56] nicegraham: congrats sir
+[2013-04-30 13:00:25] nirvdrum: I was going to fix that by checking payload.isNull("element")
+[2013-04-30 13:00:56] nicegraham: ok
+[2013-04-30 13:01:10] nirvdrum: That seems more correct to me.  But I don't have a strong preference.
+[2013-04-30 13:01:11] nicegraham: it's just those 2 places I think if you want to update them
+[2013-04-30 13:01:15] nirvdrum: Okay.
+[2013-04-30 13:01:28] nicegraham: the other touch events expect an element is passed
+[2013-04-30 13:01:30] nirvdrum: Heh.  I need to pass in a negative Y direction.  God I hate Apple.
+[2013-04-30 13:01:41] nicegraham: tap, longtap, doubletap
+[2013-04-30 13:01:56] nicegraham: i'd like to wrap them in something more intuitive
+[2013-04-30 13:02:01] nicegraham: scroll(down)
+[2013-04-30 13:02:04] nicegraham: or whatever
+[2013-04-30 13:02:45] nicegraham: I'm pretty sure darragh has that for the native elements
+[2013-04-30 13:04:51] nirvdrum: nicegraham: Can you get the screen size through WD?  I was getting an error, but maybe I messed something up.
