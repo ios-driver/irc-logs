@@ -253,3 +253,11 @@
 [2013-04-30 12:39:21] nirvdrum: I could try loading up the Java bindings here.  I'm using JRuby so it's doable.
 [2013-04-30 12:39:24] nicegraham: http://www.youtube.com/watch?v=DbK_fLKMZd8
 [2013-04-30 12:39:31] santiycr, quitting. (Quit: Leaving.)
+[2013-04-30 12:40:42] nirvdrum: Oh.  I'm getting a failure in the server.
+[2013-04-30 12:40:57] nirvdrum: NumberFormatException for "null"
+[2013-04-30 12:41:14] nicegraham: in the scroll handler mayber
+[2013-04-30 12:41:35] nirvdrum: Yeap.
+[2013-04-30 12:41:53] admc, joining. (#ios-driver)
+[2013-04-30 12:41:59] admc, quitting. (Client Quit)
+[2013-04-30 12:42:09] nicegraham: ok, so something's not getting in there that it's expecting...
+[2013-04-30 12:42:11] nicegraham: https://github.com/nicegraham/ios-driver/blob/dev/server/src/main/java/org/uiautomation/ios/server/command/web/ScrollHandler.java#L33
