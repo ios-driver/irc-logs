@@ -245,3 +245,11 @@
 [2013-04-30 12:31:31] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/RJFX3A
 [2013-04-30 12:31:31] ios-driver-git: ios-driver/dev 8f22dcc Graham Abell: removing println
 [2013-04-30 12:31:31] ios-driver-git, leaving. (#ios-driver)
+[2013-04-30 12:36:21] nirvdrum: Was that it?
+[2013-04-30 12:36:50] nicegraham: yep
+[2013-04-30 12:38:12] nirvdrum: Cool.
+[2013-04-30 12:38:22] nirvdrum: Okay.  Back to trying to figure out why I can't scroll.
+[2013-04-30 12:38:50] nicegraham: yeah, just ran it there and it scrolls...
+[2013-04-30 12:39:21] nirvdrum: I could try loading up the Java bindings here.  I'm using JRuby so it's doable.
+[2013-04-30 12:39:24] nicegraham: http://www.youtube.com/watch?v=DbK_fLKMZd8
+[2013-04-30 12:39:31] santiycr, quitting. (Quit: Leaving.)
