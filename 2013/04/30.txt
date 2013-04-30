@@ -52,3 +52,17 @@
 [2013-04-30 10:47:59] dawagner, quitting. (Client Quit)
 [2013-04-30 10:47:59] freynaud: more than what the web driver API currently support
 [2013-04-30 10:48:00] nirvdrum: Right.  The problem is when you go into landscape the screenshots still come out in portrait.
+[2013-04-30 10:50:46] lukeis: freynaud: it. must. die.   https://github.com/freynaud/ios-driver  ;)
+[2013-04-30 10:51:30] lukeis: either delete it or replace the contents of the repo with a single README that just has a link to the new repo
+[2013-04-30 10:51:56] lukeis: the problem stems from this -  :google ios-driver
+[2013-04-30 10:52:06] lukeis: first hit in google ;)
+[2013-04-30 10:52:12] freynaud: can you try again ?
+[2013-04-30 10:52:24] lukeis: it's gone! :-D
+[2013-04-30 10:52:25] lukeis: thanks
+[2013-04-30 10:52:43] lukeis: google will take a couple of days to remove the reference
+[2013-04-30 10:52:44] freynaud: i'll cleanup some bits and make it a fork of the correct one
+[2013-04-30 10:53:41] nirvdrum: irb(main):063:0> ap driver.manage.window.size
+[2013-04-30 10:53:41] nirvdrum: Selenium::WebDriver::Error::WebDriverError: empty body: "application/json" (200)
+[2013-04-30 10:53:56] nirvdrum: That's going to make scrolling to the next page hard :-P
+[2013-04-30 10:54:09] nirvdrum: I guess I can get the size from JS.
+[2013-04-30 10:54:38] freynaud: or implement the missing command ?
