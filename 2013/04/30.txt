@@ -44,3 +44,11 @@
 [2013-04-30 10:16:33] admc1, quitting. (Quit: Leaving.)
 [2013-04-30 10:44:39] freynaud: nirvdrum: Hi
 [2013-04-30 10:44:39] dawagner, joining. (#ios-driver)
+[2013-04-30 10:45:04] freynaud: nirvdrum: Did you find the 270° thing ?
+[2013-04-30 10:46:47] nirvdrum: freynaud: I haven't looked into whether you can change the orientation in the iOS API.  But I know I can rotate it Java afterwards.
+[2013-04-30 10:47:19] freynaud: it's web driver API + ios-driver API
+[2013-04-30 10:47:31] freynaud: web driver has portrait + landscape
+[2013-04-30 10:47:48] freynaud: ios has portrait, facedown, landscape left and right
+[2013-04-30 10:47:59] dawagner, quitting. (Client Quit)
+[2013-04-30 10:47:59] freynaud: more than what the web driver API currently support
+[2013-04-30 10:48:00] nirvdrum: Right.  The problem is when you go into landscape the screenshots still come out in portrait.
