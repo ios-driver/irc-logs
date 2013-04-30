@@ -423,3 +423,24 @@
 [2013-04-30 13:58:44] smccarthy2, joining. (#ios-driver)
 [2013-04-30 13:59:02] nirvdrum: I said I'd get the viewport that way.
 [2013-04-30 13:59:18] nirvdrum: Unless I misunderstood, AutomatedTester said the return value should be the canvas size.
+[2013-04-30 14:00:03] AutomatedTester: canvas as in size of <body> once fully rendered
+[2013-04-30 14:00:07] AutomatedTester: not <canvas>
+[2013-04-30 14:00:24] nirvdrum: Right.  So in my case here, it'd be a little over 12,000 for the height.
+[2013-04-30 14:00:27] *AutomatedTester mutters about names being the same thing '
+[2013-04-30 14:00:46] AutomatedTester: Chrome vs Chrome... canvas vs canvas
+[2013-04-30 14:00:55] *AutomatedTester shakes his fist and walks off'
+[2013-04-30 14:01:09] nirvdrum: window vs frame, too.
+[2013-04-30 14:01:36] smccarthy, quitting. (Ping timeout: 276 seconds)
+[2013-04-30 14:01:39] AutomatedTester: document vs frame...
+[2013-04-30 14:01:41] nicegraham: is there an atom for me to use?
+[2013-04-30 14:01:52] AutomatedTester: for getting the window size?
+[2013-04-30 14:02:05] lukeis: I love seeing my window in a canvas in Chrome ;)
+[2013-04-30 14:02:19] *AutomatedTester punches lukeis square in the balls'
+[2013-04-30 14:02:29] nirvdrum: nicegraham: Did your change just break scrolling?  Or am I going crazy?  It looks like the ScrollHandler tries to get the dimensions and that's raising now.
+[2013-04-30 14:02:32] AutomatedTester: not so clever now...
+[2013-04-30 14:02:35] AutomatedTester: <3
+[2013-04-30 14:02:37] lukeis: heh ;)
+[2013-04-30 14:02:38] nirvdrum: Heh.
+[2013-04-30 14:02:45] nicegraham: argh
+[2013-04-30 14:02:56] nicegraham: it shouldn't have
+[2013-04-30 14:04:26] nicegraham: apparently it has
