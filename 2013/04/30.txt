@@ -8,3 +8,13 @@
 [2013-04-30 06:10:12] nirvdrum, joining. (#ios-driver)
 [2013-04-30 07:48:10] jlipps, joining. (#ios-driver)
 [2013-04-30 08:49:18] lukeis, joining. (#ios-driver)
+[2013-04-30 08:55:44] smccarthy, joining. (#ios-driver)
+[2013-04-30 08:58:12] nirvdrum: Does anyone know off-hand why the screenshot of a device in landscape is rotated by 270 degrees?  Is that just how they come out of iOS?  Or are we rotating intentionally?
+[2013-04-30 08:58:38] *lukeis has no idea'
+[2013-04-30 08:58:54] lukeis: i wouldn't think we were rotating them
+[2013-04-30 08:59:00] nicegraham: I have noticed it alright
+[2013-04-30 08:59:17] nicegraham: everything seems to come out in portrait
+[2013-04-30 08:59:30] nirvdrum: I ended up rotating back on the client-side for now.  But that doesn't seem great.
+[2013-04-30 08:59:34] nicegraham: I think the 270 degrees is based on which way you entered landscape more
+[2013-04-30 08:59:45] nicegraham: mode
+[2013-04-30 08:59:57] nirvdrum: Ahh, right.  The Ruby bindings only rotate in one direction (left, I think).
