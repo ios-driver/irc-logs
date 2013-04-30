@@ -116,3 +116,13 @@
 [2013-04-30 11:20:50] freynaud: they can browser that using alert.findElement()
 [2013-04-30 11:20:58] freynaud: and get all the individual pieces
 [2013-04-30 11:21:15] freynaud: as explained in the doc http://ios-driver.github.io/ios-driver/native.html#advAlert
+[2013-04-30 11:30:18] nirvdrum: freynaud: I couldn't execute findElement at all because there was an alert present.
+[2013-04-30 11:31:22] freynaud: which is the expected behavior
+[2013-04-30 11:32:05] lukeis: there is an auto-dismiss api on the wire, maybe that should get implemented :)
+[2013-04-30 11:32:28] freynaud: yes. It will be easy
+[2013-04-30 11:32:42] freynaud: nirvdrum: you cannot execute driver.find if there is an alert
+[2013-04-30 11:32:53] freynaud: however you can execute alert.find
+[2013-04-30 11:33:18] freynaud: when there is an alert, you can still interact with anything that is in the alert tree. Nothing more.
+[2013-04-30 11:33:30] nirvdrum: The example docs you just sent me shows: driver.findElement(By.className("UIAAlert"));
+[2013-04-30 11:33:53] nirvdrum: Maybe I just messed up then.
+[2013-04-30 11:34:45] nirvdrum: Okay.  So with SSL handled, I guess my remaining issue is figuring out how to get a full canvas screenshot.  Or, scroll, crop, and stitch.
