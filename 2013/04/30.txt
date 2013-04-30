@@ -227,3 +227,7 @@
 [2013-04-30 12:19:07] nicegraham: https://github.com/ios-driver/ios-driver/blob/dev/ios-selenium-tests/src/test/java/org/uiautomation/ios/selenium/interactions/touch/TouchScrollTest.java#L82
 [2013-04-30 12:19:17] nicegraham: that works...
 [2013-04-30 12:19:38] nicegraham: is there an action builder in ruby?
+[2013-04-30 12:20:04] nirvdrum: I'm working with the TouchActionBuilder.
+[2013-04-30 12:21:35] nirvdrum: There is an ActionBuilder, but I don't see scroll in there.  It looks like it's only part of the TouchActionBuilder.
+[2013-04-30 12:23:26] nicegraham: how come I'm seeing loads of "received x bytes"
+[2013-04-30 12:23:27] nicegraham: ?
