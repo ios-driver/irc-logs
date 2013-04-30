@@ -156,3 +156,25 @@
 [2013-04-30 11:59:26] nirvdrum: I think I reported something about 30 min. into using it and lukeis told me to patch it.
 [2013-04-30 11:59:31] lukeis: i thought early adopters were supposed to be power users? :)
 [2013-04-30 11:59:56] lukeis: that's what I do ;)
+[2013-04-30 12:00:08] nirvdrum: I've got a couple fixes in.
+[2013-04-30 12:00:14] freynaud: lukeis: that's the idea. However, I think having a  shiny documentation fired back.
+[2013-04-30 12:00:32] freynaud: a README wouldn't attract the same users.
+[2013-04-30 12:00:34] lukeis: if i was working full time on ios-driver right now, i woulda fixed it myself… but alas… i'm full time on android right now
+[2013-04-30 12:00:38] freynaud: I'll complain to my manager :)
+[2013-04-30 12:00:41] lukeis: heh ;)
+[2013-04-30 12:01:04] nirvdrum: You guys get paid to work on this?
+[2013-04-30 12:01:15] lukeis: you don't? ;)
+[2013-04-30 12:01:34] nirvdrum: Yeah, coming out of my massive R & D budget right now.
+[2013-04-30 12:01:41] lukeis: nirvdrum: françois keeps telling me they're hiring :-D
+[2013-04-30 12:01:56] freynaud: I'm 100% R&D
+[2013-04-30 12:02:06] freynaud: and lukeis is correct. We're hiring.
+[2013-04-30 12:02:15] lukeis: same here… all r&d
+[2013-04-30 12:02:22] nirvdrum: lukeis: I couldn't even get them to shell out for a Mogotest license.  I worry about their ability to afford a salary.
+[2013-04-30 12:02:34] freynaud: London, Berlin and Zurich
+[2013-04-30 12:03:00] freynaud: nirvdrum:  the issue wasn't the price :)
+[2013-04-30 12:03:13] nirvdrum: I would love to live in all three.
+[2013-04-30 12:03:41] nirvdrum: I'm not sure my wife would be all that thrilled with moving a newborn though.
+[2013-04-30 12:03:53] lukeis: yeah, that's a tough sell ;)
+[2013-04-30 12:04:01] freynaud: what a great timing
+[2013-04-30 12:04:24] freynaud: I'm renting a place in London, walking distance of the pub for you, of the nursery for the little one :)
+[2013-04-30 12:04:47] nirvdrum: I still need to come up with a name.
