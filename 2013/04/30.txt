@@ -383,3 +383,21 @@
 [2013-04-30 13:43:39] nirvdrum: I'm thoroughly confused here.
 [2013-04-30 13:44:03] nirvdrum: What is getWindowSize?
 [2013-04-30 13:44:39] nicegraham: where's that?
+[2013-04-30 13:45:14] nirvdrum: Nevermind.  A ruby binding thing.
+[2013-04-30 13:45:36] nirvdrum: Okay, so that corresponds to session/:session_id/window/:window_handle/size
+[2013-04-30 13:45:46] nicegraham: ok, so driver.manage().window().getSize();
+[2013-04-30 13:45:51] nirvdrum: Right.
+[2013-04-30 13:45:54] nicegraham: corresponds to that same endpoint
+[2013-04-30 13:46:04] nicegraham: but it doesn't pass the session id...
+[2013-04-30 13:46:09] nirvdrum: I'm not seeing a mapping for that screensize endpoint.
+[2013-04-30 13:46:23] nicegraham: it's something for native only
+[2013-04-30 13:46:28] nicegraham: not sure how to access it
+[2013-04-30 13:46:30] nirvdrum: Ahh.
+[2013-04-30 13:46:41] nicegraham: but i've mapped the normal one to the same handler class
+[2013-04-30 13:46:49] nicegraham: but no session id
+[2013-04-30 13:47:13] nirvdrum: All I need to do is scroll one page of content at a time :-(
+[2013-04-30 13:47:29] nicegraham: all you say, like it's easy :)
+[2013-04-30 13:47:43] nicegraham: I don't get why the session isn't being passed
+[2013-04-30 13:47:48] nicegraham: the spec says it should
+[2013-04-30 13:48:36] nirvdrum: I mean, really all I want is a screenshot of the entire page.  I'm trying to kludge this together.
+[2013-04-30 13:49:57] santiycr, joining. (#ios-driver)
