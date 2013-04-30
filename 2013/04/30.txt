@@ -461,3 +461,8 @@
 [2013-04-30 14:17:05] AutomatedTester: btw... https://twitter.com/AutomatedTester/status/329343306226077697 is for you guys :)
 [2013-04-30 14:17:14] AutomatedTester: definitely going now
 [2013-04-30 14:19:00] nicegraham: :)
+[2013-04-30 14:25:07] nirvdrum: Okay.  So scrolling just doesn't work the way I thought.
+[2013-04-30 14:25:10] nirvdrum: No biggie.
+[2013-04-30 14:25:22] nirvdrum: As far as I can tell, the most I can scroll is half a page at a time.
+[2013-04-30 14:25:50] nirvdrum: That is going to be considerably more annoying.
+[2013-04-30 14:27:59] nicegraham: yeah, if there's no element it takes the center of the screen as the start point
