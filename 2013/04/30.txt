@@ -30,3 +30,5 @@
 [2013-04-30 09:02:21] lukeis: and in fact there's more ;)
 [2013-04-30 09:02:32] lukeis: someone will likely want to test all the orientations
 [2013-04-30 09:02:49] lukeis: the spec needs some updating ;)
+[2013-04-30 09:07:15] nirvdrum: Well, I can port this into ios-server.  We should know what the orientation is in there and return the corrected image.
+[2013-04-30 09:07:31] nirvdrum: I just wanted to verify this wasn't intentional.
