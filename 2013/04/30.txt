@@ -466,3 +466,5 @@
 [2013-04-30 14:25:22] nirvdrum: As far as I can tell, the most I can scroll is half a page at a time.
 [2013-04-30 14:25:50] nirvdrum: That is going to be considerably more annoying.
 [2013-04-30 14:27:59] nicegraham: yeah, if there's no element it takes the center of the screen as the start point
+[2013-04-30 14:31:48] nicegraham: nirvdrum: I've added the handler but it's throwing an error on the js
+[2013-04-30 14:31:49] nirvdrum: Increasingly I'm thinking dropping mobile Safari for a native app like iphonedriver does might make more sense.
