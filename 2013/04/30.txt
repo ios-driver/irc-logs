@@ -471,3 +471,7 @@
 [2013-04-30 14:39:16] Hammertime38, quitting. (Remote host closed the connection)
 [2013-04-30 14:39:56] *nicegraham is heading to bed'
 [2013-04-30 14:39:58] nicegraham: night all
+[2013-04-30 14:40:14] nirvdrum: Later nicegraham.  Thanks for the help.
+[2013-04-30 14:40:52] nicegraham: no problem, I'll try and sort that page size thing in the morning. I can commit what I have right now but the js isn't working
+[2013-04-30 14:44:10] nirvdrum: No worries.
+[2013-04-30 14:44:21] nirvdrum: I'm in no rush on that.  It just seemed like an omission.
