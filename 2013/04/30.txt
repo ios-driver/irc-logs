@@ -455,3 +455,9 @@
 [2013-04-30 14:12:13] nirvdrum: Later AutomatedTester.
 [2013-04-30 14:14:02] nicegraham: there's also a GET_INTERACTABLE_SIZE
 [2013-04-30 14:14:47] lukeis: view port size sounds about right
+[2013-04-30 14:15:42] nirvdrum: Wouldn't viewport be the currently viewable portion of the canvas?
+[2013-04-30 14:16:19] nicegraham: interactable size seems to do that
+[2013-04-30 14:16:44] nicegraham: it's used in native backed driver to figure out where to click
+[2013-04-30 14:17:05] AutomatedTester: btw... https://twitter.com/AutomatedTester/status/329343306226077697 is for you guys :)
+[2013-04-30 14:17:14] AutomatedTester: definitely going now
+[2013-04-30 14:19:00] nicegraham: :)
