@@ -80,3 +80,17 @@
 [2013-04-30 11:03:00] nirvdrum: Okay. Well, we can handle that in the server.
 [2013-04-30 11:03:23] nirvdrum: I did it last night in my client code.  I can just port it over.
 [2013-04-30 11:03:45] nirvdrum: I don't know if you you'll need to be running in a virtual framebuffer though to use the 2D graphics stuff in the JVM.
+[2013-04-30 11:06:00] freynaud: what atoms has the implementation for get() ?
+[2013-04-30 11:06:26] nirvdrum: Je ne sais pas!
+[2013-04-30 11:07:12] freynaud: it might be an easier way around the https not supported by the WK protocol
+[2013-04-30 11:07:33] lukeis: why do you need an atom?
+[2013-04-30 11:07:43] lukeis: "window.location = arguments[0]"
+[2013-04-30 11:08:09] freynaud: that will set the url of the currently selected frame
+[2013-04-30 11:08:12] lukeis: if you really want an atom, i suppose you could get the window https://github.com/SeleniumHQ/selenium/blob/master/javascript/atoms/window.js
+[2013-04-30 11:08:23] lukeis: window.top.location
+[2013-04-30 11:08:24] lukeis: ;)
+[2013-04-30 11:08:30] lukeis: that will work in any context then
+[2013-04-30 11:08:46] freynaud: t's not in there, that's where I was looking
+[2013-04-30 11:09:22] lukeis: you can't get access to window.top?
+[2013-04-30 11:09:46] lukeis: "window.top.location = arguments[0]"
+[2013-04-30 11:09:53] lukeis: that should work
