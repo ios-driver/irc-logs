@@ -129,3 +129,6 @@
 [2013-04-30 11:36:39] freynaud: driver.findElement(By.className("UIAAlert"));
 [2013-04-30 11:36:43] freynaud: shouldn't throw
 [2013-04-30 11:36:50] freynaud: it it does, it's a bug.
+[2013-04-30 11:45:34] nirvdrum: It's not working for me.
+[2013-04-30 11:45:47] nirvdrum: I'm getting an UnhandledAlertException.
+[2013-04-30 11:49:07] freynaud: bug.
