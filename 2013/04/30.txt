@@ -18,3 +18,15 @@
 [2013-04-30 08:59:34] nicegraham: I think the 270 degrees is based on which way you entered landscape more
 [2013-04-30 08:59:45] nicegraham: mode
 [2013-04-30 08:59:57] nirvdrum: Ahh, right.  The Ruby bindings only rotate in one direction (left, I think).
+[2013-04-30 09:00:44] nicegraham: I haven't looked yet
+[2013-04-30 09:01:09] nicegraham: but I was hoping we could rotate the image in the server based on the orientation
+[2013-04-30 09:01:12] lukeis: i think all the bindings only rotate one way?
+[2013-04-30 09:01:23] nicegraham: I'm not sure tbh
+[2013-04-30 09:01:26] nirvdrum: On the plus side, I have almost everything working on the mogotest side.  I forgot I needed to take pixel density into account, but that was easy to handle.  I guess the big outstanding issues are self-signed certs, which freynaud was handling, and actually getting the entire canvas in a screenshot.
+[2013-04-30 09:01:27] lukeis: orientation = Landscape
+[2013-04-30 09:02:02] nicegraham: but from the sim/device perspective landscape can be 2 ways
+[2013-04-30 09:02:08] lukeis: yep
+[2013-04-30 09:02:21] nicegraham: so that would impact on how much rotation is needed on the image...
+[2013-04-30 09:02:21] lukeis: and in fact there's more ;)
+[2013-04-30 09:02:32] lukeis: someone will likely want to test all the orientations
+[2013-04-30 09:02:49] lukeis: the spec needs some updating ;)
