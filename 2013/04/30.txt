@@ -379,3 +379,7 @@
 [2013-04-30 13:38:30] nicegraham: actually there is a screensize handler
 [2013-04-30 13:38:55] nicegraham: GET_SCREENRECT("GET", "/session/:sessionId/screensize", Dimension.class)
 [2013-04-30 13:38:56] AutomatedTester: if the browser does crazy things like auto zoom, that shouldnt affect window.inner(Height|Width)
+[2013-04-30 13:40:46] santiycr, quitting. (Quit: Leaving.)
+[2013-04-30 13:43:39] nirvdrum: I'm thoroughly confused here.
+[2013-04-30 13:44:03] nirvdrum: What is getWindowSize?
+[2013-04-30 13:44:39] nicegraham: where's that?
