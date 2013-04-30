@@ -5,3 +5,4 @@
 [2013-04-30 04:08:44] freynaud: nicegraham: do you need anything ?
 [2013-04-30 04:29:21] ddary, joining. (#ios-driver)
 [2013-04-30 05:47:42] ddary, quitting. (Quit: ddary)
+[2013-04-30 06:10:12] nirvdrum, joining. (#ios-driver)
