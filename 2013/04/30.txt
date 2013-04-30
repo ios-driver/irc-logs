@@ -309,3 +309,23 @@
 [2013-04-30 13:02:04] nicegraham: or whatever
 [2013-04-30 13:02:45] nicegraham: I'm pretty sure darragh has that for the native elements
 [2013-04-30 13:04:51] nirvdrum: nicegraham: Can you get the screen size through WD?  I was getting an error, but maybe I messed something up.
+[2013-04-30 13:06:20] nicegraham: you should be able to if you can convert the driver to a RemoteIOSDriver, freynaud?
+[2013-04-30 13:06:32] nirvdrum: Bah.
+[2013-04-30 13:06:41] nirvdrum: Still using the Ruby bindings :-)
+[2013-04-30 13:06:55] nirvdrum: We should just implement the WD call then.
+[2013-04-30 13:06:56] nicegraham: so you can't augment it?
+[2013-04-30 13:07:13] lukeis: that's a java thing ;)
+[2013-04-30 13:07:19] freynaud: it's using the vendor extension thingy from the protocol
+[2013-04-30 13:07:26] freynaud: you can use the normal augmenter
+[2013-04-30 13:07:36] nirvdrum: Someone would have to write the RemoteIOSDriver class for Ruby, at the very least.
+[2013-04-30 13:07:43] lukeis: yep
+[2013-04-30 13:07:53] lukeis: i think we have a volunteer ;)
+[2013-04-30 13:08:16] nicegraham: or create a new endpoint and just call that method...
+[2013-04-30 13:08:26] nirvdrum: I don't want to augment shit.  The normal WD protocol has a way to get the dimensions.
+[2013-04-30 13:08:43] lukeis: sounds like the better way to go then ;)
+[2013-04-30 13:08:57] nirvdrum: I don't know how Jim hasn't strangled you yet :-P
+[2013-04-30 13:09:03] nicegraham: wow, touchy about augmenting
+[2013-04-30 13:09:07] nicegraham: :)
+[2013-04-30 13:09:23] lukeis: nirvdrum: i get shit done ;) and let him get his stuff done :)
+[2013-04-30 13:09:24] nirvdrum: Heh.
+[2013-04-30 13:09:46] nirvdrum: nicegraham: I'm just saying I don't think this needs to be done as an augmenter.
