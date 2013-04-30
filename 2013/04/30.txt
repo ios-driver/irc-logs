@@ -132,3 +132,13 @@
 [2013-04-30 11:45:34] nirvdrum: It's not working for me.
 [2013-04-30 11:45:47] nirvdrum: I'm getting an UnhandledAlertException.
 [2013-04-30 11:49:07] freynaud: bug.
+[2013-04-30 11:53:12] nirvdrum: Well, accepting the alert works for now.
+[2013-04-30 11:53:31] freynaud: the Cache.js logic is wrong I think
+[2013-04-30 11:53:48] freynaud: the way alert is detected has changed, and that file hasn't
+[2013-04-30 11:54:02] nirvdrum: Aren't you glad you convinced me to use this library?  How much work have I created for you? :-P
+[2013-04-30 11:54:10] freynaud: I zm
+[2013-04-30 11:54:27] freynaud: your bug report are way above the ones I usually have
+[2013-04-30 11:54:35] freynaud: I actually understand what you want :)
+[2013-04-30 11:54:40] nirvdrum: Heh.
+[2013-04-30 11:54:46] freynaud: it doesn't work.
+[2013-04-30 11:54:57] freynaud: is the template currently used by the ios-driver users.
