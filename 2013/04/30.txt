@@ -40,3 +40,4 @@
 [2013-04-30 09:51:41] admc, quitting. (Ping timeout: 245 seconds)
 [2013-04-30 09:54:06] AutomatedTester, quitting. (Ping timeout: 264 seconds)
 [2013-04-30 09:55:00] lukeis, joining. (#ios-driver)
+[2013-04-30 10:01:44] AutomatedTester, joining. (#ios-driver)
