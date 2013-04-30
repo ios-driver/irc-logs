@@ -126,3 +126,6 @@
 [2013-04-30 11:33:30] nirvdrum: The example docs you just sent me shows: driver.findElement(By.className("UIAAlert"));
 [2013-04-30 11:33:53] nirvdrum: Maybe I just messed up then.
 [2013-04-30 11:34:45] nirvdrum: Okay.  So with SSL handled, I guess my remaining issue is figuring out how to get a full canvas screenshot.  Or, scroll, crop, and stitch.
+[2013-04-30 11:36:39] freynaud: driver.findElement(By.className("UIAAlert"));
+[2013-04-30 11:36:43] freynaud: shouldn't throw
+[2013-04-30 11:36:50] freynaud: it it does, it's a bug.
