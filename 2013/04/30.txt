@@ -66,3 +66,11 @@
 [2013-04-30 10:53:56] nirvdrum: That's going to make scrolling to the next page hard :-P
 [2013-04-30 10:54:09] nirvdrum: I guess I can get the size from JS.
 [2013-04-30 10:54:38] freynaud: or implement the missing command ?
+[2013-04-30 10:55:06] nirvdrum: Also an option.  Although the semantics are different for native apps vs Safari, I'd imagine.
+[2013-04-30 10:55:16] nirvdrum: Or we could just always return the device dimensions.
+[2013-04-30 10:55:37] freynaud: nirvdrum: no.
+[2013-04-30 10:55:44] freynaud: window != page
+[2013-04-30 10:56:16] nirvdrum: The browser notion of a window is without the browser chrome.
+[2013-04-30 10:56:23] freynaud: the ads, this site also has a iPhone app, like eBay has, are some kind of layer which are actually a window
+[2013-04-30 10:56:24] admc, joining. (#ios-driver)
+[2013-04-30 10:56:37] admc, quitting. (Client Quit)
