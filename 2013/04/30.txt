@@ -273,3 +273,17 @@
 [2013-04-30 12:48:05] lukeis: "null" does not seem like the right thing
 [2013-04-30 12:49:40] nirvdrum: Actually, I take that back.  It's not the literal String "null".  It's a null value, since this is JSON.
 [2013-04-30 12:49:57] nicegraham: so we should just accept it in the handler?
+[2013-04-30 12:50:01] freynaud, quitting. (Quit: freynaud)
+[2013-04-30 12:50:31] lukeis: nirvdrum: is it  { 'elementId': null }  or not present?
+[2013-04-30 12:50:37] nirvdrum: The former.
+[2013-04-30 12:51:01] nirvdrum: payload.optString("element") seems to convert it to the value "null" (i.e., a literal String).
+[2013-04-30 12:51:13] lukeis: hmm, that doesn't feel quite right… but we should probably just handle it nicegraham
+[2013-04-30 12:51:38] nirvdrum: I can handle it here easily enough.  But I don't know how many places are similarly affected.
+[2013-04-30 12:52:06] nicegraham: in terms of touch events?
+[2013-04-30 12:52:26] nirvdrum: http://www.json.org/javadoc/org/json/JSONObject.html#optString%28java.lang.String%29
+[2013-04-30 12:52:26] nicegraham: it's anywhere we may expect an element to be passed
+[2013-04-30 12:52:30] nirvdrum: In terms of places making that call.
+[2013-04-30 12:52:30] nicegraham: but that's not too many places
+[2013-04-30 12:52:47] nicegraham: oh, I think we just add a check for that too
+[2013-04-30 12:53:43] freynaud, joining. (#ios-driver)
+[2013-04-30 12:54:16] nirvdrum: I don't know why they would convert that way.  It's a null in JSON.
