@@ -154,3 +154,4 @@
 [2013-04-29 22:38:33] admc, quitting. (Quit: Leaving.)
 [2013-04-29 22:39:59] admc, joining. (#ios-driver)
 [2013-04-29 22:44:00] ddary, joining. (#ios-driver)
+[2013-04-29 23:21:44] ddary, quitting. (Quit: ddary)
