@@ -34,3 +34,6 @@
 [2013-04-30 09:07:31] nirvdrum: I just wanted to verify this wasn't intentional.
 [2013-04-30 09:24:04] admc, joining. (#ios-driver)
 [2013-04-30 09:44:34] lukeis, quitting. (Quit: Leaving.)
+[2013-04-30 09:47:18] admc, quitting. (Read error: Connection reset by peer)
+[2013-04-30 09:47:25] admc, joining. (#ios-driver)
+[2013-04-30 09:48:17] admc1, joining. (#ios-driver)
