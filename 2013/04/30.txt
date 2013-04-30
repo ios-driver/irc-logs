@@ -370,3 +370,12 @@
 [2013-04-30 13:27:40] nicegraham: but the web one would still return the canvas size I assume?
 [2013-04-30 13:30:41] freynaud: yes
 [2013-04-30 13:31:26] freynaud, leaving. (#ios-driver)
+[2013-04-30 13:35:51] nicegraham: nirvdrum: will that do for you?
+[2013-04-30 13:36:09] freynaud, joining. (#ios-driver)
+[2013-04-30 13:36:19] nirvdrum: nicegraham: I think so.
+[2013-04-30 13:36:31] freynaud, quitting. (Client Quit)
+[2013-04-30 13:37:02] nirvdrum: I still need to get the viewport size so I can scroll by the right amount.  But that can be done with JS.
+[2013-04-30 13:37:32] admc, joining. (#ios-driver)
+[2013-04-30 13:38:30] nicegraham: actually there is a screensize handler
+[2013-04-30 13:38:55] nicegraham: GET_SCREENRECT("GET", "/session/:sessionId/screensize", Dimension.class)
+[2013-04-30 13:38:56] AutomatedTester: if the browser does crazy things like auto zoom, that shouldnt affect window.inner(Height|Width)
