@@ -407,3 +407,19 @@
 [2013-04-30 13:53:49] ios-driver-git: ios-driver/dev 7d19b76 Graham Abell: adding window size for native apps
 [2013-04-30 13:53:49] ios-driver-git, leaving. (#ios-driver)
 [2013-04-30 13:54:57] nicegraham: nirvdrum ^ can you check?
+[2013-04-30 13:55:03] nirvdrum: Sure.
+[2013-04-30 13:55:20] nirvdrum: And now I need to look at something with scrolling.  It always seems to scroll by the same amount, no matter what I set the Y value to.
+[2013-04-30 13:55:50] nicegraham: :(
+[2013-04-30 13:56:16] ios-driver-git, joining. (#ios-driver)
+[2013-04-30 13:56:16] ios-driver-git: [ios-driver] nirvdrum pushed 2 new commits to dev: http://git.io/Awv2cg
+[2013-04-30 13:56:16] ios-driver-git: ios-driver/dev e6407e8 Kevin Menard: Check for JSON null values directly rather than relying an undefined conversion to the string "null".
+[2013-04-30 13:56:16] ios-driver-git: ios-driver/dev 0599f85 Kevin Menard: Merge branch 'dev' of github.com:ios-driver/ios-driver into dev
+[2013-04-30 13:56:16] ios-driver-git, leaving. (#ios-driver)
+[2013-04-30 13:57:07] nirvdrum: nicegraham: I got the size now, but it appears to just be the device resolution, not the canvas size.
+[2013-04-30 13:57:31] nicegraham: ok, I only added the native one
+[2013-04-30 13:57:45] nicegraham: i thought you said you'd get the canvas via js?
+[2013-04-30 13:57:55] smccarthy2, joining. (#ios-driver)
+[2013-04-30 13:58:07] smccarthy2, quitting. (Remote host closed the connection)
+[2013-04-30 13:58:44] smccarthy2, joining. (#ios-driver)
+[2013-04-30 13:59:02] nirvdrum: I said I'd get the viewport that way.
+[2013-04-30 13:59:18] nirvdrum: Unless I misunderstood, AutomatedTester said the return value should be the canvas size.
