@@ -401,3 +401,9 @@
 [2013-04-30 13:47:48] nicegraham: the spec says it should
 [2013-04-30 13:48:36] nirvdrum: I mean, really all I want is a screenshot of the entire page.  I'm trying to kludge this together.
 [2013-04-30 13:49:57] santiycr, joining. (#ios-driver)
+[2013-04-30 13:53:43] nicegraham: this is working for me now Dimension dim = driver.manage().window().getSize();
+[2013-04-30 13:53:49] ios-driver-git, joining. (#ios-driver)
+[2013-04-30 13:53:49] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/lh49Gw
+[2013-04-30 13:53:49] ios-driver-git: ios-driver/dev 7d19b76 Graham Abell: adding window size for native apps
+[2013-04-30 13:53:49] ios-driver-git, leaving. (#ios-driver)
+[2013-04-30 13:54:57] nicegraham: nirvdrum ^ can you check?
