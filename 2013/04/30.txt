@@ -261,3 +261,15 @@
 [2013-04-30 12:41:59] admc, quitting. (Client Quit)
 [2013-04-30 12:42:09] nicegraham: ok, so something's not getting in there that it's expecting...
 [2013-04-30 12:42:11] nicegraham: https://github.com/nicegraham/ios-driver/blob/dev/server/src/main/java/org/uiautomation/ios/server/command/web/ScrollHandler.java#L33
+[2013-04-30 12:45:19] nirvdrum: Okay.  It looks like the optional elementId is being sent over as "null" but the ScrollHandler expects the ID to be "" if it's empty.
+[2013-04-30 12:45:27] nirvdrum: I don't know who's wrong there.
+[2013-04-30 12:45:40] nicegraham: well in testing Java it's empty
+[2013-04-30 12:45:55] nicegraham: but maybe the other bindings do something different
+[2013-04-30 12:46:07] nirvdrum: I don't know what the wire protocol stipulates.
+[2013-04-30 12:46:19] nirvdrum: If it's just the Ruby bindings being broken, I can fix that.
+[2013-04-30 12:46:29] nicegraham: lukeis: any input?
+[2013-04-30 12:47:35] lukeis: the wire is asking for an element for that one… seems ios driver doesn't care about it?
+[2013-04-30 12:47:51] lukeis: elementID should just not be passed in the POST if not used
+[2013-04-30 12:48:05] lukeis: "null" does not seem like the right thing
+[2013-04-30 12:49:40] nirvdrum: Actually, I take that back.  It's not the literal String "null".  It's a null value, since this is JSON.
+[2013-04-30 12:49:57] nicegraham: so we should just accept it in the handler?
