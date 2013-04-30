@@ -475,3 +475,5 @@
 [2013-04-30 14:40:52] nicegraham: no problem, I'll try and sort that page size thing in the morning. I can commit what I have right now but the js isn't working
 [2013-04-30 14:44:10] nirvdrum: No worries.
 [2013-04-30 14:44:21] nirvdrum: I'm in no rush on that.  It just seemed like an omission.
+[2013-04-30 15:01:19] smccarthy, joining. (#ios-driver)
+[2013-04-30 15:04:35] Hammertime38, joining. (#ios-driver)
