@@ -212,3 +212,18 @@
 [2013-04-30 12:14:15] AutomatedTester: a M&M Character
 [2013-04-30 12:14:28] AutomatedTester: the green one maybe...
 [2013-04-30 12:14:33] AutomatedTester: for jealousy
+[2013-04-30 12:17:15] lukeis: i got plenty of character for just having my first name ;) two most common childhood teasings: any star wars reference, and things that rhyme with luke, like duke or puke
+[2013-04-30 12:17:16] nirvdrum: lukeis: Does ios-driver support the touch actions stuff or were you just messing with me?
+[2013-04-30 12:17:24] lukeis: it does
+[2013-04-30 12:17:32] lukeis: nicegraham: added some of it :)
+[2013-04-30 12:17:49] lukeis: but i certainly do like messing with people ;)
+[2013-04-30 12:17:50] nirvdrum: irb(main):121:0* driver.touch.scroll(0, 300).perform
+[2013-04-30 12:17:50] nirvdrum: Selenium::WebDriver::Error::WebDriverError: empty body: "application/json" (200)
+[2013-04-30 12:18:06] nirvdrum: Having never used this API before, I could just be screwing up the call.
+[2013-04-30 12:18:08] nicegraham: on a native app or web?
+[2013-04-30 12:18:13] nirvdrum: web
+[2013-04-30 12:18:31] lukeis: scroll is a touch event?
+[2013-04-30 12:19:00] nirvdrum: I tried "down", too.
+[2013-04-30 12:19:07] nicegraham: https://github.com/ios-driver/ios-driver/blob/dev/ios-selenium-tests/src/test/java/org/uiautomation/ios/selenium/interactions/touch/TouchScrollTest.java#L82
+[2013-04-30 12:19:17] nicegraham: that works...
+[2013-04-30 12:19:38] nicegraham: is there an action builder in ruby?
