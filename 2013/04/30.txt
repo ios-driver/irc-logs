@@ -342,3 +342,13 @@
 [2013-04-30 13:14:07] nirvdrum: Eh?  Wouldn't it be the one in the spec you just posted?
 [2013-04-30 13:14:39] nicegraham: so that is for the screensize... just wanted to make sure its not for the canvas size or whatever
 [2013-04-30 13:14:57] Hammertime38, joining. (#ios-driver)
+[2013-04-30 13:15:33] nirvdrum: I'm really not sure.  I think it's whatever the underlying JS "window" handle reports.
+[2013-04-30 13:15:43] nirvdrum: AutomatedTester: Do you know?
+[2013-04-30 13:16:06] AutomatedTester: ?
+[2013-04-30 13:16:39] nirvdrum: What does https://code.google.com/p/selenium/wiki/JsonWireProtocol#POST_/session/:sessionId/window/:windowHandle/size return?
+[2013-04-30 13:16:59] nirvdrum: Is it the size of the viewport?  Or the size of the application window/frame?
+[2013-04-30 13:17:15] AutomatedTester: canvas size iirc
+[2013-04-30 13:17:31] AutomatedTester: window.innerHeight/innerWidth
+[2013-04-30 13:18:16] AutomatedTester: yea, its the browser content
+[2013-04-30 13:18:52] santiycr, joining. (#ios-driver)
+[2013-04-30 13:19:58] nirvdrum: Okay.  I guess that's tricky for native apps.
