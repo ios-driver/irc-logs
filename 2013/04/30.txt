@@ -94,3 +94,6 @@
 [2013-04-30 11:09:22] lukeis: you can't get access to window.top?
 [2013-04-30 11:09:46] lukeis: "window.top.location = arguments[0]"
 [2013-04-30 11:09:53] lukeis: that should work
+[2013-04-30 11:10:39] freynaud: nirvdrum: setting the URL from JS works, even with an HTTPS, wrong certificate url.
+[2013-04-30 11:12:25] nirvdrum: Indeed.  Interesting.
+[2013-04-30 11:14:51] freynaud: so just the alert remains
