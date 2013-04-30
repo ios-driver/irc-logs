@@ -231,3 +231,11 @@
 [2013-04-30 12:21:35] nirvdrum: There is an ActionBuilder, but I don't see scroll in there.  It looks like it's only part of the TouchActionBuilder.
 [2013-04-30 12:23:26] nicegraham: how come I'm seeing loads of "received x bytes"
 [2013-04-30 12:23:27] nicegraham: ?
+[2013-04-30 12:26:06] nirvdrum: I think thats leftover from ags_'s work.
+[2013-04-30 12:28:02] nicegraham: what's that?
+[2013-04-30 12:28:51] nirvdrum: When he was fixing the truncated responses over 8KB.
+[2013-04-30 12:29:05] nicegraham: oh
+[2013-04-30 12:29:08] nirvdrum: I'm guessing.  But his diff had a lot of commented out printlns.  I think he missed one.
+[2013-04-30 12:29:14] nicegraham: so it's libimobile?
+[2013-04-30 12:29:33] nirvdrum: No.  It was the SimulatorImpl.
+[2013-04-30 12:29:44] nirvdrum: That's not the exact class name.  But it's in ios-server.
