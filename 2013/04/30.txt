@@ -74,3 +74,9 @@
 [2013-04-30 10:56:23] freynaud: the ads, this site also has a iPhone app, like eBay has, are some kind of layer which are actually a window
 [2013-04-30 10:56:24] admc, joining. (#ios-driver)
 [2013-04-30 10:56:37] admc, quitting. (Client Quit)
+[2013-04-30 11:02:10] freynaud: nirvdrum: it is in portrait, but shows the proper content right ?
+[2013-04-30 11:02:32] nirvdrum: The content is correct, but it's rotated 270 degrees.
+[2013-04-30 11:02:49] freynaud: that's instruments being instruments :)
+[2013-04-30 11:03:00] nirvdrum: Okay. Well, we can handle that in the server.
+[2013-04-30 11:03:23] nirvdrum: I did it last night in my client code.  I can just port it over.
+[2013-04-30 11:03:45] nirvdrum: I don't know if you you'll need to be running in a virtual framebuffer though to use the 2D graphics stuff in the JVM.
