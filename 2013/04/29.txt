@@ -151,3 +151,5 @@
 [2013-04-29 19:51:22] jlipps, quitting. (Quit: Leaving.)
 [2013-04-29 20:46:58] nirvdrum, quitting. (Ping timeout: 272 seconds)
 [2013-04-29 22:09:26] admc, joining. (#ios-driver)
+[2013-04-29 22:38:33] admc, quitting. (Quit: Leaving.)
+[2013-04-29 22:39:59] admc, joining. (#ios-driver)
