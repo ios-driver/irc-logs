@@ -287,3 +287,12 @@
 [2013-04-30 12:52:47] nicegraham: oh, I think we just add a check for that too
 [2013-04-30 12:53:43] freynaud, joining. (#ios-driver)
 [2013-04-30 12:54:16] nirvdrum: I don't know why they would convert that way.  It's a null in JSON.
+[2013-04-30 12:58:33] nirvdrum: Woo hoo.
+[2013-04-30 12:59:43] nicegraham: you scrolled?
+[2013-04-30 12:59:46] ios-driver-git, joining. (#ios-driver)
+[2013-04-30 12:59:46] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/w_y-LA
+[2013-04-30 12:59:46] ios-driver-git: ios-driver/dev 3b7533f Graham Abell: accounting for element id being "null"
+[2013-04-30 12:59:46] ios-driver-git, leaving. (#ios-driver)
+[2013-04-30 12:59:47] nirvdrum: Yeah.
+[2013-04-30 12:59:52] nicegraham: :)
+[2013-04-30 12:59:56] nicegraham: congrats sir
