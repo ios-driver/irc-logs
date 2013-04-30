@@ -97,3 +97,16 @@
 [2013-04-30 11:10:39] freynaud: nirvdrum: setting the URL from JS works, even with an HTTPS, wrong certificate url.
 [2013-04-30 11:12:25] nirvdrum: Indeed.  Interesting.
 [2013-04-30 11:14:51] freynaud: so just the alert remains
+[2013-04-30 11:15:04] freynaud: I can't find the translations in safari's files directly though
+[2013-04-30 11:16:11] nirvdrum: Wow.  That actually worked.
+[2013-04-30 11:16:24] freynaud: such confidence :)
+[2013-04-30 11:16:28] nirvdrum: I didn't realize it was an alert.  I was trying to find the button by name.
+[2013-04-30 11:16:45] freynaud: so that's the ugly workaround
+[2013-04-30 11:16:53] nirvdrum: Heh.  Working on Selenium for the past few years has given me a healthy distrust of things doing what I'd like :-)
+[2013-04-30 11:17:53] freynaud: the way instruments works is it has a handler for alert. At the moment, I keep all alerts, because an alert should be expected as part of the test, it shouldn't be a surprise
+[2013-04-30 11:18:14] freynaud: https://github.com/ios-driver/ios-driver/blob/dev/server/src/main/resources/instruments-js/UIAutomation.js#L163
+[2013-04-30 11:18:43] freynaud: return false instead, and the alert will be automatically dismissed
+[2013-04-30 11:19:09] nirvdrum: Well the alert has 3 buttons, but I think WD API only allows accept and dismiss.
+[2013-04-30 11:19:09] freynaud: we need a property that finds https related alert and dismiss them. Keep the others
+[2013-04-30 11:19:26] nirvdrum: I don't care a ton.  But if someone really wants that "Details" button, I don't know how they can click it.
+[2013-04-30 11:20:00] santiycr, joining. (#ios-driver)
