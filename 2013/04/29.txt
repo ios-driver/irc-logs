@@ -144,3 +144,4 @@
 [2013-04-29 16:05:01] lukeis, quitting. (Quit: Leaving.)
 [2013-04-29 17:00:25] Hammertime38, quitting. (Remote host closed the connection)
 [2013-04-29 17:34:38] smccarthy, quitting. (Read error: Connection reset by peer)
+[2013-04-29 17:35:30] smccarthy, joining. (#ios-driver)
