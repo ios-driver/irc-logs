@@ -42,3 +42,5 @@
 [2013-04-30 09:55:00] lukeis, joining. (#ios-driver)
 [2013-04-30 10:01:44] AutomatedTester, joining. (#ios-driver)
 [2013-04-30 10:16:33] admc1, quitting. (Quit: Leaving.)
+[2013-04-30 10:44:39] freynaud: nirvdrum: Hi
+[2013-04-30 10:44:39] dawagner, joining. (#ios-driver)
