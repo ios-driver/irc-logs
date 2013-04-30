@@ -352,3 +352,14 @@
 [2013-04-30 13:18:16] AutomatedTester: yea, its the browser content
 [2013-04-30 13:18:52] santiycr, joining. (#ios-driver)
 [2013-04-30 13:19:58] nirvdrum: Okay.  I guess that's tricky for native apps.
+[2013-04-30 13:20:25] santiycr, quitting. (Client Quit)
+[2013-04-30 13:20:29] AutomatedTester: I dont think its defined in the spec
+[2013-04-30 13:20:41] nicegraham: yeah, it will depend on the controls used
+[2013-04-30 13:21:57] freynaud: for native apps, anything but the visible area makes no sense
+[2013-04-30 13:22:19] freynaud: the container elements have some random-ish size
+[2013-04-30 13:23:01] santiycr, joining. (#ios-driver)
+[2013-04-30 13:23:32] nicegraham: freynaud; you're happy that the native handler would return the screen size then?
+[2013-04-30 13:23:57] freynaud: yes. What else could we return ?
+[2013-04-30 13:24:20] nicegraham: if the container is a scrollview we could return that size?
+[2013-04-30 13:24:41] freynaud: if you use chrome for instance, entering text in an input field zooms and make the scrollview bigger :)
+[2013-04-30 13:24:45] nirvdrum: You could always return the device dimensions.  But, I don't think that's terribly useful.
