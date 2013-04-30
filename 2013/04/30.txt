@@ -142,3 +142,17 @@
 [2013-04-30 11:54:40] nirvdrum: Heh.
 [2013-04-30 11:54:46] freynaud: it doesn't work.
 [2013-04-30 11:54:57] freynaud: is the template currently used by the ios-driver users.
+[2013-04-30 11:56:37] freynaud: for instance .. .https://github.com/freynaud/ios-driver/issues/41
+[2013-04-30 11:56:56] admc, joining. (#ios-driver)
+[2013-04-30 11:57:17] freynaud: ah, delete repo :)
+[2013-04-30 11:57:45] nirvdrum: Heh.
+[2013-04-30 11:57:52] nirvdrum: Well, I do usually assume I've screwed up first.
+[2013-04-30 11:58:02] nirvdrum: Do you want me to file an issue for this alert thing?
+[2013-04-30 11:58:06] freynaud: this user says he followed the doc.
+[2013-04-30 11:58:45] freynaud: step 2, he does java -jar selenium-server-standalone-2.32.0.jar -port 4444
+[2013-04-30 11:59:01] nirvdrum: Hehe.
+[2013-04-30 11:59:01] lukeis: heh ;)
+[2013-04-30 11:59:08] admc, quitting. (Client Quit)
+[2013-04-30 11:59:26] nirvdrum: I think I reported something about 30 min. into using it and lukeis told me to patch it.
+[2013-04-30 11:59:31] lukeis: i thought early adopters were supposed to be power users? :)
+[2013-04-30 11:59:56] lukeis: that's what I do ;)
