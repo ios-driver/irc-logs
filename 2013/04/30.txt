@@ -329,3 +329,16 @@
 [2013-04-30 13:09:23] lukeis: nirvdrum: i get shit done ;) and let him get his stuff done :)
 [2013-04-30 13:09:24] nirvdrum: Heh.
 [2013-04-30 13:09:46] nirvdrum: nicegraham: I'm just saying I don't think this needs to be done as an augmenter.
+[2013-04-30 13:10:01] nirvdrum: If it works there, great.  But we should make it work in the normal API too then, I think.
+[2013-04-30 13:10:19] *lukeis agrees'
+[2013-04-30 13:10:59] nicegraham: so there's this https://code.google.com/p/selenium/wiki/JsonWireProtocol#POST_/session/:sessionId/window/:windowHandle/size
+[2013-04-30 13:11:18] nirvdrum: Which brings me back to the original question: does this work in the normal API and I'm just screwing up?
+[2013-04-30 13:11:22] nicegraham: but should that return the screen size
+[2013-04-30 13:11:37] nicegraham: probably not
+[2013-04-30 13:12:00] nicegraham: I only use it for the native events to make sure they happen on screen
+[2013-04-30 13:12:08] nicegraham: I didn't expose it anywhere else
+[2013-04-30 13:12:54] nirvdrum: Gotcha.
+[2013-04-30 13:13:36] nicegraham: I can expose it elsewhere, but on which url?
+[2013-04-30 13:14:07] nirvdrum: Eh?  Wouldn't it be the one in the spec you just posted?
+[2013-04-30 13:14:39] nicegraham: so that is for the screensize... just wanted to make sure its not for the canvas size or whatever
+[2013-04-30 13:14:57] Hammertime38, joining. (#ios-driver)
