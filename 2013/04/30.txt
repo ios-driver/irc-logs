@@ -239,3 +239,9 @@
 [2013-04-30 12:29:14] nicegraham: so it's libimobile?
 [2013-04-30 12:29:33] nirvdrum: No.  It was the SimulatorImpl.
 [2013-04-30 12:29:44] nirvdrum: That's not the exact class name.  But it's in ios-server.
+[2013-04-30 12:30:13] nicegraham: SimulatorProtocolImpl?
+[2013-04-30 12:30:44] nirvdrum: Perhaps?  git log -p should surface it.  There haven't been that many changes since.
+[2013-04-30 12:31:31] ios-driver-git, joining. (#ios-driver)
+[2013-04-30 12:31:31] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/RJFX3A
+[2013-04-30 12:31:31] ios-driver-git: ios-driver/dev 8f22dcc Graham Abell: removing println
+[2013-04-30 12:31:31] ios-driver-git, leaving. (#ios-driver)
