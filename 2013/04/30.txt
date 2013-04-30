@@ -444,3 +444,14 @@
 [2013-04-30 14:02:45] nicegraham: argh
 [2013-04-30 14:02:56] nicegraham: it shouldn't have
 [2013-04-30 14:04:26] nicegraham: apparently it has
+[2013-04-30 14:11:04] ios-driver-git, joining. (#ios-driver)
+[2013-04-30 14:11:05] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/6RNfNg
+[2013-04-30 14:11:05] ios-driver-git: ios-driver/dev df3d1a9 Graham Abell: fixing get size error
+[2013-04-30 14:11:05] ios-driver-git, leaving. (#ios-driver)
+[2013-04-30 14:11:17] nicegraham: lukeis: there's a GET_VIEW_PORT_SIZE atom
+[2013-04-30 14:11:18] AutomatedTester: night guys
+[2013-04-30 14:11:20] nicegraham: should I use that?
+[2013-04-30 14:11:24] nicegraham: night!
+[2013-04-30 14:12:13] nirvdrum: Later AutomatedTester.
+[2013-04-30 14:14:02] nicegraham: there's also a GET_INTERACTABLE_SIZE
+[2013-04-30 14:14:47] lukeis: view port size sounds about right
