@@ -368,3 +368,5 @@
 [2013-04-30 13:26:04] freynaud: guessing what element represents the app won't be possible
 [2013-04-30 13:27:29] nicegraham: ok so the native handler can return the screen size
 [2013-04-30 13:27:40] nicegraham: but the web one would still return the canvas size I assume?
+[2013-04-30 13:30:41] freynaud: yes
+[2013-04-30 13:31:26] freynaud, leaving. (#ios-driver)
