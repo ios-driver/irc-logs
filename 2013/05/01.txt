@@ -74,3 +74,4 @@
 [2013-05-01 10:13:01] santiycr, joining. (#ios-driver)
 [2013-05-01 10:14:15] santiycr, quitting. (Client Quit)
 [2013-05-01 10:16:47] psp250, quitting. (Ping timeout: 256 seconds)
+[2013-05-01 10:42:49] santiycr, joining. (#ios-driver)
