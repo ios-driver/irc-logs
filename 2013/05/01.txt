@@ -110,3 +110,4 @@
 [2013-05-01 16:04:16] smccarthy, quitting. (Ping timeout: 272 seconds)
 [2013-05-01 16:04:23] lukeis, quitting. (Quit: Leaving.)
 [2013-05-01 16:04:49] smccarthy2, quitting. (Remote host closed the connection)
+[2013-05-01 16:46:28] Hammertime38, quitting. (Remote host closed the connection)
