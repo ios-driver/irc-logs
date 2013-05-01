@@ -50,3 +50,11 @@
 [2013-05-01 08:11:29] nirvdrum: It returns almost immediately.
 [2013-05-01 08:11:50] nirvdrum: It just hits the end of the script and returns.  My guess is there's an implicit "return null;"
 [2013-05-01 08:12:04] nirvdrum: That's the case with other browsers anyway.
+[2013-05-01 08:25:32] freynaud: nirvdrum: it's based on where the image come from
+[2013-05-01 08:25:37] freynaud: same server : it works
+[2013-05-01 08:25:41] freynaud: different domain :: doesn't
+[2013-05-01 08:25:50] nirvdrum: Ahh.
+[2013-05-01 08:26:16] nirvdrum: freynaud: So, you said with a native app using UIWebView that I can't execute JS?
+[2013-05-01 08:26:42] freynaud: nirvdrum: you can
+[2013-05-01 08:27:02] nirvdrum: Okay.  I might have to go that route, even if it's slower.
+[2013-05-01 08:27:46] nirvdrum: Scrolling and taking a screenshot is going to be really annoying because I can only scroll half a page at a time.  So stitching the images together is almost certainly going to be error prone.
