@@ -87,3 +87,4 @@
 [2013-05-01 11:22:48] nicegraham: it wasn't as bad as setting up a company dev team - that was a joke
 [2013-05-01 11:26:18] nicegraham: also... has anyone used kaazing?
 [2013-05-01 11:44:41] Hammertime38, joining. (#ios-driver)
+[2013-05-01 11:51:01] admc, quitting. (Quit: Leaving.)
