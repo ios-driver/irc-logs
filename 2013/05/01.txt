@@ -70,3 +70,4 @@
 [2013-05-01 08:56:09] psp250: ^^
 [2013-05-01 09:23:39] ios-driverbot, joining. (#ios-driver)
 [2013-05-01 09:57:51] lukeis, quitting. (Quit: Leaving.)
+[2013-05-01 10:04:37] freynaud, quitting. (Ping timeout: 245 seconds)
