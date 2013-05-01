@@ -90,3 +90,4 @@
 [2013-05-01 11:51:01] admc, quitting. (Quit: Leaving.)
 [2013-05-01 12:15:39] smccarthy2, quitting. (Remote host closed the connection)
 [2013-05-01 12:16:14] smccarthy, joining. (#ios-driver)
+[2013-05-01 12:47:10] santiycr1, quitting. (Quit: Leaving.)
