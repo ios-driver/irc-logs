@@ -41,3 +41,12 @@
 [2013-05-01 06:00:14] psp250, joining. (#ios-driver)
 [2013-05-01 08:08:26] nirvdrum, joining. (#ios-driver)
 [2013-05-01 08:09:35] lukeis, joining. (#ios-driver)
+[2013-05-01 08:10:12] nirvdrum: nicegraham: FYI, I tried that screenshot JS snippet again and execute_script definitely exits before the return statement in the callback.  That would be the case where execute_async_script would be good.
+[2013-05-01 08:10:26] nirvdrum: But, as freynaud noted, it doesn't seem to capture images so I can't use it anyway.
+[2013-05-01 08:10:31] nirvdrum: I just wanted to fill you in on that.
+[2013-05-01 08:10:36] nicegraham: ok, thanks
+[2013-05-01 08:10:54] nicegraham: maybe it has a max time it will wait for or something
+[2013-05-01 08:11:02] nicegraham: the code looks like it should wait I think
+[2013-05-01 08:11:29] nirvdrum: It returns almost immediately.
+[2013-05-01 08:11:50] nirvdrum: It just hits the end of the script and returns.  My guess is there's an implicit "return null;"
+[2013-05-01 08:12:04] nirvdrum: That's the case with other browsers anyway.
