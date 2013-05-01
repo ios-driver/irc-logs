@@ -32,3 +32,7 @@
 [2013-05-01 04:13:37] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/17w5uA
 [2013-05-01 04:13:37] ios-driver-git, leaving. (#ios-driver)
 [2013-05-01 04:13:37] ios-driver-git: ios-driver/dev f733a97 Graham Abell: adding pagesize handler
+[2013-05-01 04:17:47] ios-driver-git, joining. (#ios-driver)
+[2013-05-01 04:17:47] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/zcC0fQ
+[2013-05-01 04:17:47] ios-driver-git: ios-driver/dev ac6b2be Graham Abell: fixing libimobile reference
+[2013-05-01 04:17:47] ios-driver-git, leaving. (#ios-driver)
