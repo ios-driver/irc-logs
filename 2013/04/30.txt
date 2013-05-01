@@ -485,3 +485,4 @@
 [2013-04-30 16:03:04] lukeis, quitting. (Quit: Leaving.)
 [2013-04-30 16:52:23] jlipps, quitting. (Quit: Leaving.)
 [2013-04-30 17:03:26] smccarthy, quitting. (Remote host closed the connection)
+[2013-04-30 17:14:28] nirvdrum, quitting. (Remote host closed the connection)
