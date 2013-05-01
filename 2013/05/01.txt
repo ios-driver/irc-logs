@@ -13,3 +13,9 @@
 [2013-05-01 03:14:43] freynaud: push from libimibile-java
 [2013-05-01 03:14:58] nicegraham: but I didn't make any changes in there
 [2013-05-01 03:15:16] nicegraham: but when I cloned the repo intellij tries to pull it in
+[2013-05-01 03:20:58] nicegraham: if I just reset that commit number to the previous one, is that ok?
+[2013-05-01 03:22:52] freynaud: sure
+[2013-05-01 03:22:56] freynaud: when you push
+[2013-05-01 03:23:06] freynaud: click on the commit id on github
+[2013-05-01 03:23:12] freynaud: to double check the link is good
+[2013-05-01 03:23:33] freynaud: at the moment it's not fr instance :)
