@@ -106,3 +106,7 @@
 [2013-05-01 14:17:33] smccarthy, joining. (#ios-driver)
 [2013-05-01 14:46:54] santiycr, joining. (#ios-driver)
 [2013-05-01 15:53:03] Hammertime38: nicegraham: i'm getting a build error from GetPageSizeHandler.java. Is this expected?
+[2013-05-01 16:00:45] smccarthy2, joining. (#ios-driver)
+[2013-05-01 16:04:16] smccarthy, quitting. (Ping timeout: 272 seconds)
+[2013-05-01 16:04:23] lukeis, quitting. (Quit: Leaving.)
+[2013-05-01 16:04:49] smccarthy2, quitting. (Remote host closed the connection)
