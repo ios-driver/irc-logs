@@ -61,3 +61,8 @@
 [2013-05-01 08:42:51] nicegraham: you could make a new scroll
 [2013-05-01 08:43:06] nicegraham: which has a start and end point so you could do the full screen
 [2013-05-01 08:43:36] smccarthy, joining. (#ios-driver)
+[2013-05-01 08:47:41] nirvdrum: It feels like I'm fighting Safari too much for that.
+[2013-05-01 08:48:05] nirvdrum: And I'm sure Instruments will find a way to prevent it from working.
+[2013-05-01 08:48:16] nicegraham: so cynical :)
+[2013-05-01 08:48:59] nirvdrum: 'tis a survival mechanism.
+[2013-05-01 08:49:15] admc, joining. (#ios-driver)
