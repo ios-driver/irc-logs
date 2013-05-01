@@ -19,3 +19,5 @@
 [2013-05-01 03:23:06] freynaud: click on the commit id on github
 [2013-05-01 03:23:12] freynaud: to double check the link is good
 [2013-05-01 03:23:33] freynaud: at the moment it's not fr instance :)
+[2013-05-01 03:25:39] nicegraham: yeah, sorry about that
+[2013-05-01 03:25:50] nicegraham: trying to figure out where to change it back....
