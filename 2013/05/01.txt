@@ -85,3 +85,4 @@
 [2013-05-01 11:21:44] lukeis: yeah, that's no fun ;)
 [2013-05-01 11:22:25] nicegraham: not in the least! done now though :)
 [2013-05-01 11:22:48] nicegraham: it wasn't as bad as setting up a company dev team - that was a joke
+[2013-05-01 11:26:18] nicegraham: also... has anyone used kaazing?
