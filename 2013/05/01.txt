@@ -101,3 +101,6 @@
 [2013-05-01 14:03:23] Hammertime38, quitting. (Remote host closed the connection)
 [2013-05-01 14:08:23] admc, joining. (#ios-driver)
 [2013-05-01 14:11:58] Hammertime38, joining. (#ios-driver)
+[2013-05-01 14:16:57] smccarthy2, quitting. (Remote host closed the connection)
+[2013-05-01 14:17:16] santiycr, quitting. (Quit: Leaving.)
+[2013-05-01 14:17:33] smccarthy, joining. (#ios-driver)
