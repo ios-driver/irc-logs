@@ -12,3 +12,4 @@
 [2013-05-01 03:14:36] freynaud: it points to a commit that you haven't pushed I think
 [2013-05-01 03:14:43] freynaud: push from libimibile-java
 [2013-05-01 03:14:58] nicegraham: but I didn't make any changes in there
+[2013-05-01 03:15:16] nicegraham: but when I cloned the repo intellij tries to pull it in
