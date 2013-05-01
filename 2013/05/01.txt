@@ -92,3 +92,4 @@
 [2013-05-01 12:16:14] smccarthy, joining. (#ios-driver)
 [2013-05-01 12:47:10] santiycr1, quitting. (Quit: Leaving.)
 [2013-05-01 12:51:13] Hammertime38, quitting. (Remote host closed the connection)
+[2013-05-01 13:21:40] Hammertime38, joining. (#ios-driver)
