@@ -78,3 +78,4 @@
 [2013-05-01 10:52:10] santiycr1, joining. (#ios-driver)
 [2013-05-01 10:52:39] santiycr, quitting. (*.net *.split)
 [2013-05-01 10:59:20] smccarthy2, joining. (#ios-driver)
+[2013-05-01 11:02:45] smccarthy, quitting. (Ping timeout: 252 seconds)
