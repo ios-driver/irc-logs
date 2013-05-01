@@ -80,3 +80,8 @@
 [2013-05-01 10:59:20] smccarthy2, joining. (#ios-driver)
 [2013-05-01 11:02:45] smccarthy, quitting. (Ping timeout: 252 seconds)
 [2013-05-01 11:07:45] lukeis, joining. (#ios-driver)
+[2013-05-01 11:20:57] nicegraham: I set up testflight today, seems pretty good
+[2013-05-01 11:21:17] nicegraham: the usual apple provisioning nonsense is a serious minefield though
+[2013-05-01 11:21:44] lukeis: yeah, that's no fun ;)
+[2013-05-01 11:22:25] nicegraham: not in the least! done now though :)
+[2013-05-01 11:22:48] nicegraham: it wasn't as bad as setting up a company dev team - that was a joke
