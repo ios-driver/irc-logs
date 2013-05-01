@@ -96,3 +96,4 @@
 [2013-05-01 13:26:07] smccarthy2, joining. (#ios-driver)
 [2013-05-01 13:26:34] Hammertime38, quitting. (Ping timeout: 272 seconds)
 [2013-05-01 13:29:44] smccarthy, quitting. (Ping timeout: 272 seconds)
+[2013-05-01 13:47:16] santiycr, joining. (#ios-driver)
