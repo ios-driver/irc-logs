@@ -58,3 +58,6 @@
 [2013-05-01 08:26:42] freynaud: nirvdrum: you can
 [2013-05-01 08:27:02] nirvdrum: Okay.  I might have to go that route, even if it's slower.
 [2013-05-01 08:27:46] nirvdrum: Scrolling and taking a screenshot is going to be really annoying because I can only scroll half a page at a time.  So stitching the images together is almost certainly going to be error prone.
+[2013-05-01 08:42:51] nicegraham: you could make a new scroll
+[2013-05-01 08:43:06] nicegraham: which has a start and end point so you could do the full screen
+[2013-05-01 08:43:36] smccarthy, joining. (#ios-driver)
