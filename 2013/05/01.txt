@@ -36,3 +36,5 @@
 [2013-05-01 04:17:47] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/zcC0fQ
 [2013-05-01 04:17:47] ios-driver-git: ios-driver/dev ac6b2be Graham Abell: fixing libimobile reference
 [2013-05-01 04:17:47] ios-driver-git, leaving. (#ios-driver)
+[2013-05-01 04:31:54] AutomatedTester, quitting. (Ping timeout: 264 seconds)
+[2013-05-01 04:32:00] AutomatedTester, joining. (#ios-driver)
