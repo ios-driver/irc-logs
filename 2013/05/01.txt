@@ -21,3 +21,10 @@
 [2013-05-01 03:23:33] freynaud: at the moment it's not fr instance :)
 [2013-05-01 03:25:39] nicegraham: yeah, sorry about that
 [2013-05-01 03:25:50] nicegraham: trying to figure out where to change it back....
+[2013-05-01 03:31:19] freynaud: or push your commits :)
+[2013-05-01 03:31:57] nicegraham: I don't want to push anything to libimobile because I didn't change anything on purpose
+[2013-05-01 03:32:10] freynaud: fair point
+[2013-05-01 03:32:12] nicegraham: I can't figure this out at all
+[2013-05-01 03:32:19] freynaud: well, at the moment I cannot checkout the project :)
+[2013-05-01 03:32:24] freynaud: which is annoying
+[2013-05-01 03:32:33] nicegraham: I can't see where the commit is pointed to.
