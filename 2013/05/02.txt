@@ -102,3 +102,6 @@
 [2013-05-02 07:54:34] nirvdrum: Yeah.  It's been a while since I've actively used an iOS device.  I thought for some reason there was a way to make them fullscreen since the device is so small.
 [2013-05-02 07:58:56] freynaud_: Configuration.FORCE_IPAD
 [2013-05-02 07:59:04] freynaud_: why do we have that ?
+[2013-05-02 08:04:02] nirvdrum: Time for git blame!
+[2013-05-02 08:04:26] freynaud_: i'm not asking who :) but why
+[2013-05-02 08:04:58] freynaud_: if you request an iphone, why would you have a 2nd configuration flag wiping that request
