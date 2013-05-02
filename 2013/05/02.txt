@@ -143,3 +143,8 @@
 [2013-05-02 11:53:50] smccarthy2, quitting. (Remote host closed the connection)
 [2013-05-02 11:55:23] smccarthy, joining. (#ios-driver)
 [2013-05-02 11:59:54] admc, quitting. (Quit: Leaving.)
+[2013-05-02 12:33:49] ios-driver-git, joining. (#ios-driver)
+[2013-05-02 12:33:49] ios-driver-git: [ios-driver] nicegraham pushed 2 new commits to dev: http://git.io/mkNBEw
+[2013-05-02 12:33:49] ios-driver-git: ios-driver/dev 7895419 Darragh Grace: adding pinch open/close gestures and unit tests
+[2013-05-02 12:33:49] ios-driver-git: ios-driver/dev d3e9976 Graham Abell: Merge branch 'dev' of github.com:nicegraham/ios-driver into dev
+[2013-05-02 12:33:49] ios-driver-git, leaving. (#ios-driver)
