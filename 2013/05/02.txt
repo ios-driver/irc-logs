@@ -119,3 +119,9 @@
 [2013-05-02 08:36:50] admc, quitting. (Quit: Leaving.)
 [2013-05-02 08:37:18] admc, joining. (#ios-driver)
 [2013-05-02 08:37:20] lukeis, joining. (#ios-driver)
+[2013-05-02 08:40:11] lukeis: yeah, force ipad, i did very reluctantly… looks like we should be able to remove it soon though
+[2013-05-02 08:40:59] admc1, joining. (#ios-driver)
+[2013-05-02 08:41:02] lukeis: sauce was using a proxy that was re-writting the desired capabilities object
+[2013-05-02 08:41:22] lukeis: i think that is gone now? (i'll have to confirm)
+[2013-05-02 08:41:31] lukeis: and i think that commit will be able to be reverted
+[2013-05-02 08:44:33] admc, quitting. (Ping timeout: 276 seconds)
