@@ -11,3 +11,4 @@
 [2013-05-02 05:41:06] ios-driver-git: ios-driver/dev 12751f2 Darragh Grace: adding scrolling unit tests
 [2013-05-02 05:41:06] ios-driver-git: ios-driver/dev f85c8d7 Graham Abell: adding note about sleep
 [2013-05-02 05:41:06] ios-driver-git, leaving. (#ios-driver)
+[2013-05-02 05:57:31] nirvdrum, joining. (#ios-driver)
