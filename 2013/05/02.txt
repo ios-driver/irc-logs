@@ -32,3 +32,6 @@
 [2013-05-02 06:31:40] nirvdrum: All the non-ios drivers capture the entire canvas.  It's not solely about interaction :-)
 [2013-05-02 06:32:09] nirvdrum: But even if that were the case, I still need more than just the visible screen.
 [2013-05-02 06:34:33] freynaud: all the non ios work doesn't make apple comply :)
+[2013-05-02 06:37:57] nirvdrum: Oh, I'm amply aware.
+[2013-05-02 06:39:46] freynaud: there is a webkit remote protocol call called takeScreenshot
+[2013-05-02 06:39:57] freynaud: when they find the time ...
