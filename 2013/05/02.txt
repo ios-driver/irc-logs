@@ -23,3 +23,12 @@
 [2013-05-02 06:29:31] nirvdrum: It's the same rendering engine though, no?
 [2013-05-02 06:29:46] freynaud: i think it's webkit in both cases
 [2013-05-02 06:29:53] freynaud: the JS might be a bit different
+[2013-05-02 06:30:07] nirvdrum: It's not ideal.  But I need to ship something soon to see if anyone will even pay for it.  Otherwise I'm just wasting my time :-P
+[2013-05-02 06:30:12] freynaud: but in that case, you can start chrome on linux, it's supposed to be webkit too :)
+[2013-05-02 06:30:19] nirvdrum: And Apple seems quite intent on making this very hard with Safari.
+[2013-05-02 06:30:47] nirvdrum: I only need JS to serialize the DOM.  If the rendering engine is the same, the DOM should be the same.
+[2013-05-02 06:30:58] freynaud: webdriver is about user interactions. A user cannot see what's not on the screen, so screenshot of the visible screen seens ok to me
+[2013-05-02 06:31:07] nirvdrum: If the rendering engine is a different version of WebKit, then that will be problematic.
+[2013-05-02 06:31:40] nirvdrum: All the non-ios drivers capture the entire canvas.  It's not solely about interaction :-)
+[2013-05-02 06:32:09] nirvdrum: But even if that were the case, I still need more than just the visible screen.
+[2013-05-02 06:34:33] freynaud: all the non ios work doesn't make apple comply :)
