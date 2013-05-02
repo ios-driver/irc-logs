@@ -4,3 +4,4 @@
 [2013-05-02 01:17:05] ios-driver-git: ios-driver/dev cbdebf9 heliojr: Added support for UIAPicker and UIAPickerWheel elements - Client changes
 [2013-05-02 01:17:05] ios-driver-git: ios-driver/dev 1fd3454 Graham Abell: Merge branch 'dev' of github.com:nicegraham/ios-driver into dev
 [2013-05-02 01:17:05] ios-driver-git, leaving. (#ios-driver)
+[2013-05-02 05:38:15] freynaud, joining. (#ios-driver)
