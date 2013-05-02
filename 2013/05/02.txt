@@ -110,3 +110,7 @@
 [2013-05-02 08:10:34] nicegraham: https://github.com/ios-driver/ios-driver/commit/e55cbfef2db30cc76d3846d727cec4a597b6a532
 [2013-05-02 08:16:25] freynaud_: so we introduce bad code so that saucelab doesn't have to fix their stuff. Love it.
 [2013-05-02 08:18:02] nicegraham: no comment:)
+[2013-05-02 08:20:06] nirvdrum: They have appium now, right?
+[2013-05-02 08:20:25] nirvdrum: So, I guess you could delete it.
+[2013-05-02 08:23:48] nicegraham: luke is using ios-driver on their grid I believe
+[2013-05-02 08:23:54] nicegraham: and had to add that to make it work
