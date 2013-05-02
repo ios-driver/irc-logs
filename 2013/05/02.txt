@@ -114,3 +114,4 @@
 [2013-05-02 08:20:25] nirvdrum: So, I guess you could delete it.
 [2013-05-02 08:23:48] nicegraham: luke is using ios-driver on their grid I believe
 [2013-05-02 08:23:54] nicegraham: and had to add that to make it work
+[2013-05-02 08:25:27] nirvdrum: Oh.
