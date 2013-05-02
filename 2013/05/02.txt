@@ -95,3 +95,8 @@
 [2013-05-02 07:43:06] nirvdrum: Odd.  I'm just running with the "Regular" iPhone.
 [2013-05-02 07:46:57] nicegraham: ah, I was using ipad
 [2013-05-02 07:47:06] nicegraham: I can see it on iphone
+[2013-05-02 07:50:05] nirvdrum: Heh.  Oh boy.
+[2013-05-02 07:50:36] nirvdrum: So, I can get rid of the address bar in iPhone by scrolling, but not the status bar.  On iPad, there is no status bar, but I can't get rid of the address bar either.
+[2013-05-02 07:52:57] nicegraham: that makes sense [kinda]
+[2013-05-02 07:53:16] nicegraham: they don't have the status bar because they get rid of the address bar
+[2013-05-02 07:54:34] nirvdrum: Yeah.  It's been a while since I've actively used an iOS device.  I thought for some reason there was a way to make them fullscreen since the device is so small.
