@@ -107,3 +107,4 @@
 [2013-05-02 08:04:58] freynaud_: if you request an iphone, why would you have a 2nd configuration flag wiping that request
 [2013-05-02 08:06:36] nicegraham: lukeis added it
 [2013-05-02 08:06:41] nicegraham: i think for saucelabs
+[2013-05-02 08:10:34] nicegraham: https://github.com/ios-driver/ios-driver/commit/e55cbfef2db30cc76d3846d727cec4a597b6a532
