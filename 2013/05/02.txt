@@ -157,3 +157,4 @@
 [2013-05-02 13:14:35] admc, joining. (#ios-driver)
 [2013-05-02 13:35:27] smccarthy2, quitting. (Remote host closed the connection)
 [2013-05-02 13:37:02] smccarthy, joining. (#ios-driver)
+[2013-05-02 13:57:55] admc, quitting. (Quit: Leaving.)
