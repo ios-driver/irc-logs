@@ -12,3 +12,7 @@
 [2013-05-02 05:41:06] ios-driver-git: ios-driver/dev f85c8d7 Graham Abell: adding note about sleep
 [2013-05-02 05:41:06] ios-driver-git, leaving. (#ios-driver)
 [2013-05-02 05:57:31] nirvdrum, joining. (#ios-driver)
+[2013-05-02 06:20:43] freynaud: nirvdrum: good morning
+[2013-05-02 06:20:55] nirvdrum: Hey freynaud.
+[2013-05-02 06:21:11] nirvdrum: How's it going?
+[2013-05-02 06:21:50] freynaud: working in java, aka parsing xmlk ..
