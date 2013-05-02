@@ -108,3 +108,5 @@
 [2013-05-02 08:06:36] nicegraham: lukeis added it
 [2013-05-02 08:06:41] nicegraham: i think for saucelabs
 [2013-05-02 08:10:34] nicegraham: https://github.com/ios-driver/ios-driver/commit/e55cbfef2db30cc76d3846d727cec4a597b6a532
+[2013-05-02 08:16:25] freynaud_: so we introduce bad code so that saucelab doesn't have to fix their stuff. Love it.
+[2013-05-02 08:18:02] nicegraham: no comment:)
