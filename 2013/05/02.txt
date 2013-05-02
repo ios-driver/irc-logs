@@ -174,3 +174,4 @@
 [2013-05-02 15:36:21] nirvdrum: Right now they always come out as portrait, even if run in landscape.
 [2013-05-02 15:36:29] lukeis: ahh
 [2013-05-02 15:36:45] nirvdrum: I need the orientation so I know which way to rotate.
+[2013-05-02 15:46:25] lukeis, quitting. (Quit: Leaving.)
