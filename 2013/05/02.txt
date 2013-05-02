@@ -136,3 +136,4 @@
 [2013-05-02 10:11:50] lukeis: so we don't need the force ipad anymore?  /me will revert it shortly then
 [2013-05-02 10:15:52] freynaud_, quitting. (Ping timeout: 245 seconds)
 [2013-05-02 10:45:19] santiycr: lukeis:  yup :)
+[2013-05-02 10:58:48] smccarthy2, joining. (#ios-driver)
