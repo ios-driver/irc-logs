@@ -164,3 +164,5 @@
 [2013-05-02 15:13:07] ios-driver-git: ios-driver/dev 0fea1eb Luke Inman-Semerau: reverting force ipad commit, no longer necessary
 [2013-05-02 15:13:07] ios-driver-git, leaving. (#ios-driver)
 [2013-05-02 15:27:27] nirvdrum: I'm coming up a little short here.  How can I get the device orientation in the TakeScreenshotNHandler class?
+[2013-05-02 15:31:11] lukeis: there's an api to get the orientation on the driver
+[2013-05-02 15:32:32] nirvdrum: So something like: getDriver().getSession(getRequest().getSession()).getNativeDriver().getNativeOrientation() ?
