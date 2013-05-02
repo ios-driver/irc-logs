@@ -137,3 +137,4 @@
 [2013-05-02 10:15:52] freynaud_, quitting. (Ping timeout: 245 seconds)
 [2013-05-02 10:45:19] santiycr: lukeis:  yup :)
 [2013-05-02 10:58:48] smccarthy2, joining. (#ios-driver)
+[2013-05-02 11:00:53] smccarthy, quitting. (Ping timeout: 240 seconds)
