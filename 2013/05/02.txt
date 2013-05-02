@@ -125,3 +125,8 @@
 [2013-05-02 08:41:22] lukeis: i think that is gone now? (i'll have to confirm)
 [2013-05-02 08:41:31] lukeis: and i think that commit will be able to be reverted
 [2013-05-02 08:44:33] admc, quitting. (Ping timeout: 276 seconds)
+[2013-05-02 08:50:04] smccarthy, joining. (#ios-driver)
+[2013-05-02 08:52:49] smccarthy, quitting. (Client Quit)
+[2013-05-02 08:53:05] smccarthy, joining. (#ios-driver)
+[2013-05-02 08:53:55] smccarthy, quitting. (Client Quit)
+[2013-05-02 08:54:40] smccarthy, joining. (#ios-driver)
