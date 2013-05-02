@@ -183,3 +183,5 @@
 [2013-05-02 16:02:24] smccarthy2, quitting. (Remote host closed the connection)
 [2013-05-02 16:02:59] smccarthy2, joining. (#ios-driver)
 [2013-05-02 16:04:20] smccarthy, quitting. (Ping timeout: 256 seconds)
+[2013-05-02 16:33:06] smccarthy2, quitting. (Remote host closed the connection)
+[2013-05-02 16:33:29] smccarthy, joining. (#ios-driver)
