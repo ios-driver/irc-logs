@@ -179,3 +179,7 @@
 [2013-05-02 15:59:51] ios-driver-git: [ios-driver] nirvdrum pushed 1 new commit to dev: http://git.io/P2-k4w
 [2013-05-02 15:59:51] ios-driver-git: ios-driver/dev 1555d6f Kevin Menard: Correct the orientation for screenshots as they come back from Instruments as always being in portrait.
 [2013-05-02 15:59:51] ios-driver-git, leaving. (#ios-driver)
+[2013-05-02 16:01:26] smccarthy2, joining. (#ios-driver)
+[2013-05-02 16:02:24] smccarthy2, quitting. (Remote host closed the connection)
+[2013-05-02 16:02:59] smccarthy2, joining. (#ios-driver)
+[2013-05-02 16:04:20] smccarthy, quitting. (Ping timeout: 256 seconds)
