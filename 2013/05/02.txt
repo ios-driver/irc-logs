@@ -84,3 +84,6 @@
 [2013-05-02 07:19:06] nicegraham: yeah
 [2013-05-02 07:20:52] freynaud_, joining. (#ios-driver)
 [2013-05-02 07:21:42] freynaud, quitting. (Ping timeout: 245 seconds)
+[2013-05-02 07:32:10] nirvdrum: nicegraham: It looks like scroll by JavaScript might give me the control I'm looking for.
+[2013-05-02 07:32:23] nicegraham: cool :)
+[2013-05-02 07:34:15] nirvdrum: Is there any way to hide the control bar at the bottom?
