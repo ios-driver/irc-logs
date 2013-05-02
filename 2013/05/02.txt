@@ -35,3 +35,7 @@
 [2013-05-02 06:37:57] nirvdrum: Oh, I'm amply aware.
 [2013-05-02 06:39:46] freynaud: there is a webkit remote protocol call called takeScreenshot
 [2013-05-02 06:39:57] freynaud: when they find the time ...
+[2013-05-02 06:41:00] nirvdrum: I'd be happy to fix it for Safari, but I don't even know where to begin.  At least on the desktop I have a lot of control.  But on iOS I have to play in their sandbox.
+[2013-05-02 06:44:06] nirvdrum: AutomatedTester: 2 weeks paternity leave is too much.  8 weeks is insane.
+[2013-05-02 06:44:37] *AutomatedTester will remind nirvdrum of this when his boy is around'
+[2013-05-02 06:44:52] nirvdrum: I'll be back to work the next day.
