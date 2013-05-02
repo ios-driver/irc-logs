@@ -159,3 +159,7 @@
 [2013-05-02 13:37:02] smccarthy, joining. (#ios-driver)
 [2013-05-02 13:57:55] admc, quitting. (Quit: Leaving.)
 [2013-05-02 14:30:27] Hammertime38, joining. (#ios-driver)
+[2013-05-02 15:13:07] ios-driver-git, joining. (#ios-driver)
+[2013-05-02 15:13:07] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to dev: http://git.io/JUgs0g
+[2013-05-02 15:13:07] ios-driver-git: ios-driver/dev 0fea1eb Luke Inman-Semerau: reverting force ipad commit, no longer necessary
+[2013-05-02 15:13:07] ios-driver-git, leaving. (#ios-driver)
