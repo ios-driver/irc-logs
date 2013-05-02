@@ -120,3 +120,7 @@
 [2013-05-01 21:01:30] nirvdrum, joining. (#ios-driver)
 [2013-05-01 21:06:46] nirvdrum, quitting. (Ping timeout: 256 seconds)
 [2013-05-01 21:44:10] smccarthy, quitting. (Remote host closed the connection)
+[2013-05-01 23:18:11] ios-driver-git, joining. (#ios-driver)
+[2013-05-01 23:18:11] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/T2vPpg
+[2013-05-01 23:18:11] ios-driver-git: ios-driver/dev dffa855 Graham Abell: adding missing changes for getpagehandler - the js still isnt' working for the call though
+[2013-05-01 23:18:11] ios-driver-git, leaving. (#ios-driver)
