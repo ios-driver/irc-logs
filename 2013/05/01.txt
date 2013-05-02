@@ -119,3 +119,4 @@
 [2013-05-01 19:53:18] santiycr1, quitting. (Quit: Leaving.)
 [2013-05-01 21:01:30] nirvdrum, joining. (#ios-driver)
 [2013-05-01 21:06:46] nirvdrum, quitting. (Ping timeout: 256 seconds)
+[2013-05-01 21:44:10] smccarthy, quitting. (Remote host closed the connection)
