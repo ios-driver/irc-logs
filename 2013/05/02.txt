@@ -148,3 +148,7 @@
 [2013-05-02 12:33:49] ios-driver-git: ios-driver/dev 7895419 Darragh Grace: adding pinch open/close gestures and unit tests
 [2013-05-02 12:33:49] ios-driver-git: ios-driver/dev d3e9976 Graham Abell: Merge branch 'dev' of github.com:nicegraham/ios-driver into dev
 [2013-05-02 12:33:49] ios-driver-git, leaving. (#ios-driver)
+[2013-05-02 12:54:24] ios-driver-git, joining. (#ios-driver)
+[2013-05-02 12:54:24] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/UfdEOw
+[2013-05-02 12:54:24] ios-driver-git: ios-driver/dev 0c347f7 Graham Abell: fixing get page size
+[2013-05-02 12:54:24] ios-driver-git, leaving. (#ios-driver)
