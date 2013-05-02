@@ -16,3 +16,10 @@
 [2013-05-02 06:20:55] nirvdrum: Hey freynaud.
 [2013-05-02 06:21:11] nirvdrum: How's it going?
 [2013-05-02 06:21:50] freynaud: working in java, aka parsing xmlk ..
+[2013-05-02 06:25:25] nirvdrum: Heh.
+[2013-05-02 06:26:53] nirvdrum: I need to figure out this screenshot stuff soon.
+[2013-05-02 06:27:03] nirvdrum: I think I'm going to try the app from iphonedriver in ios-driver.
+[2013-05-02 06:28:09] freynaud: that won't be safari
+[2013-05-02 06:29:31] nirvdrum: It's the same rendering engine though, no?
+[2013-05-02 06:29:46] freynaud: i think it's webkit in both cases
+[2013-05-02 06:29:53] freynaud: the JS might be a bit different
