@@ -87,3 +87,8 @@
 [2013-05-02 07:32:10] nirvdrum: nicegraham: It looks like scroll by JavaScript might give me the control I'm looking for.
 [2013-05-02 07:32:23] nicegraham: cool :)
 [2013-05-02 07:34:15] nirvdrum: Is there any way to hide the control bar at the bottom?
+[2013-05-02 07:35:10] nicegraham: in iphonedriver?
+[2013-05-02 07:35:31] nirvdrum: ios-driver.
+[2013-05-02 07:36:05] nicegraham: i don't get a controller bar at the bottom in safari
+[2013-05-02 07:37:20] nirvdrum: Hmm . . . I have one with back & forward buttons.  A bookmark button.  And so on.
+[2013-05-02 07:39:52] nicegraham: no, I have the standard control at the top but nothing at the bottom.
