@@ -92,3 +92,4 @@
 [2013-05-02 07:36:05] nicegraham: i don't get a controller bar at the bottom in safari
 [2013-05-02 07:37:20] nirvdrum: Hmm . . . I have one with back & forward buttons.  A bookmark button.  And so on.
 [2013-05-02 07:39:52] nicegraham: no, I have the standard control at the top but nothing at the bottom.
+[2013-05-02 07:43:06] nirvdrum: Odd.  I'm just running with the "Regular" iPhone.
