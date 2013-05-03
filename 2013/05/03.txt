@@ -51,3 +51,6 @@
 [2013-05-03 11:09:22] nirvdrum: If you rotate the device to landscape your screenshots will come back oriented the same way.
 [2013-05-03 11:17:48] smccarthy2, quitting. (Remote host closed the connection)
 [2013-05-03 11:19:11] smccarthy, joining. (#ios-driver)
+[2013-05-03 11:38:03] nicegraham: nirvdrum: checked the 4 and they look good
+[2013-05-03 11:38:05] Hammertime38, joining. (#ios-driver)
+[2013-05-03 11:39:43] nirvdrum: Cool.
