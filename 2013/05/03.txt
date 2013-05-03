@@ -60,3 +60,21 @@
 [2013-05-03 12:53:48] nicegraham: we saw a couple of failures last night for the same error message
 [2013-05-03 12:54:26] nirvdrum: I've been seeing them as well.
 [2013-05-03 12:54:45] nicegraham: oh good :)
+[2013-05-03 12:55:08] nirvdrum: When I saw them, the page hadn't finished loading in the simulator yet.  Sometimes it just seems to get stuck loading a page.
+[2013-05-03 12:55:08] nicegraham: we think it might be when a node drops off and reconnects
+[2013-05-03 12:55:16] nirvdrum: And then everything falls apart from there.
+[2013-05-03 12:55:45] nirvdrum: Could be.  I haven't really investigated it yet.
+[2013-05-03 12:55:53] nirvdrum: But I'm going to need to get that working if I'm going to launch this.
+[2013-05-03 12:55:58] nicegraham: we're basing that on the logs
+[2013-05-03 12:56:14] nicegraham: we don't have a repoducible case yet
+[2013-05-03 12:56:27] nirvdrum: Nor do I.  It happens with some frequency though.
+[2013-05-03 12:57:18] nicegraham: keep me posted if you have any ideas...
+[2013-05-03 12:58:15] nirvdrum: Will do.  I've been focusing mostly on screenshot stuff lately.
+[2013-05-03 12:58:22] nicegraham: I just saw there was talk in the selenium forum on no location headers
+[2013-05-03 12:58:30] nicegraham: really?! :P
+[2013-05-03 12:58:49] nirvdrum: Oh, all sorts of fun yesterday.
+[2013-05-03 12:59:17] nirvdrum: CSS pixel density.  Viewport scaling. Cropping.  Stitching.
+[2013-05-03 12:59:31] nicegraham: so do you have it working now?
+[2013-05-03 12:59:33] nirvdrum: And it took me way too long to figure out iOS Simulator is terribly misleading.
+[2013-05-03 12:59:50] nicegraham: how so/
+[2013-05-03 12:59:56] nirvdrum: That "Regular" iPhone has the iPhone 4/4S border, but it's actually a 3GS.
