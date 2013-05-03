@@ -15,3 +15,8 @@
 [2013-05-03 04:59:29] freynaud: i think luke wants to do safari
 [2013-05-03 04:59:38] freynaud: so that doesn't impact me that much
 [2013-05-03 04:59:52] freynaud: the part that did work last week does clarify it
+[2013-05-03 05:00:06] nicegraham: I assume that's to tee it up as the iphonedriver replacement
+[2013-05-03 05:00:09] freynaud: less intruments  dependencies for the real device prt
+[2013-05-03 05:00:31] nicegraham: so not all disappointment
+[2013-05-03 05:00:53] freynaud: no :)
+[2013-05-03 05:01:02] freynaud: and there was beer so :)
