@@ -124,3 +124,16 @@
 [2013-05-03 13:12:34] nirvdrum: But I needed to be sure I could even accomplish what I wanted to with ios-driver first.  It's been a hectic couple weeks.
 [2013-05-03 13:13:42] nicegraham: those racks are cool :0
 [2013-05-03 13:14:57] santiycr, joining. (#ios-driver)
+[2013-05-03 13:15:09] nirvdrum: And you can only run 3 at a time on that?  Jesus.
+[2013-05-03 13:15:13] nicegraham: yeah
+[2013-05-03 13:15:20] nicegraham: it's not great
+[2013-05-03 13:15:50] nicegraham: I'll look at it again next week
+[2013-05-03 13:16:20] nicegraham: maybe things in ios-driver have helped that and we can get away with more
+[2013-05-03 13:16:26] nirvdrum: I'm pretty happy with the progress made here thus far though.
+[2013-05-03 13:16:31] nirvdrum: I hope I haven't been too annoying.
+[2013-05-03 13:16:44] nicegraham: not at all, good to have comrades!
+[2013-05-03 13:17:02] nirvdrum: I try to offset complaining with bug fixes ;-)
+[2013-05-03 13:17:07] nicegraham: I'm sure I drove/drive lukeis made
+[2013-05-03 13:17:13] nicegraham: ^mad
+[2013-05-03 13:17:17] nicegraham: fair deal
+[2013-05-03 13:19:01] admc1, joining. (#ios-driver)
