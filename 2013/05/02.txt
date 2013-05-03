@@ -195,3 +195,4 @@
 [2013-05-02 17:41:56] Hammertime38, joining. (#ios-driver)
 [2013-05-02 18:08:10] nirvdrum, quitting. (Ping timeout: 256 seconds)
 [2013-05-02 18:10:28] nirvdrum, joining. (#ios-driver)
+[2013-05-02 18:28:52] santiycr1, joining. (#ios-driver)
