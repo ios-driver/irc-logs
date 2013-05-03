@@ -199,3 +199,4 @@
 [2013-05-02 18:30:06] Hammertime38, quitting. (Remote host closed the connection)
 [2013-05-02 18:32:55] santiycr, quitting. (Ping timeout: 264 seconds)
 [2013-05-02 18:54:46] admc1, quitting. (Quit: Leaving.)
+[2013-05-02 19:43:14] santiycr1, quitting. (Quit: Leaving.)
