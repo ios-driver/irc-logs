@@ -145,3 +145,4 @@
 [2013-05-03 14:08:46] Hammertime38, quitting. (Remote host closed the connection)
 [2013-05-03 14:09:00] Hammertime38, joining. (#ios-driver)
 [2013-05-03 14:42:50] ags, quitting. (Quit: Page closed)
+[2013-05-03 14:52:12] nirvdrum: Damn.  I'm hitting that issue pretty consistently now, using the DefaultRemoteProxy.
