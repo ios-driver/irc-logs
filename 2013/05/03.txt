@@ -1,3 +1,9 @@
 [2013-05-03 01:36:01] freynaud, joining. (#ios-driver)
 [2013-05-03 02:03:47] admc1, joining. (#ios-driver)
 [2013-05-03 04:11:49] admc1, quitting. (Quit: Leaving.)
+[2013-05-03 04:41:19] nicegraham: freynaud: how did the research on safari on physical devices go? last we spoke you were 90% sure it could be done...
+[2013-05-03 04:43:55] freynaud: nicegraham: it's not doable now
+[2013-05-03 04:44:10] freynaud: we can launch it, and use the wk protocol from there
+[2013-05-03 04:44:13] freynaud: maybe
+[2013-05-03 04:44:19] freynaud: but not have instruments working
+[2013-05-03 04:44:46] nicegraham: so we could control it once launched but not have native events?
