@@ -138,3 +138,4 @@
 [2013-05-03 13:17:17] nicegraham: fair deal
 [2013-05-03 13:19:01] admc1, joining. (#ios-driver)
 [2013-05-03 13:27:31] santiycr, quitting. (Quit: Leaving.)
+[2013-05-03 13:40:10] santiycr, joining. (#ios-driver)
