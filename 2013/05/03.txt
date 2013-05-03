@@ -37,3 +37,15 @@
 [2013-05-03 10:45:31] smccarthy, quitting. (Ping timeout: 256 seconds)
 [2013-05-03 10:57:44] nicegraham: just came across this... https://github.com/facebook/xctool
 [2013-05-03 11:04:50] nirvdrum: nicegraham: See my note earlier about screenshot orientation?
+[2013-05-03 11:05:02] nicegraham: yep
+[2013-05-03 11:05:32] nicegraham: if you manually rotate the simulator while running a test does it pick up the orientation?
+[2013-05-03 11:05:46] nicegraham: or is it only when ios-driver does the rotation?
+[2013-05-03 11:05:49] nirvdrum: I only tested the WD orientations.  If you use the others, it'd be good to know.
+[2013-05-03 11:06:10] nirvdrum: Instruments always does the screenshot in portrait from what I can tell.
+[2013-05-03 11:06:14] nirvdrum: I have no clue why.
+[2013-05-03 11:06:32] nicegraham: i think it orientates it to the home button
+[2013-05-03 11:07:31] nirvdrum: Maybe it's only through WD that it's an issue then?  Prior to this change, if I rotated to landscape, the screenshots would come back as landscape, but they'd always be rotated into portrait.
+[2013-05-03 11:07:41] nirvdrum: So they were correct, just rotated wrong.
+[2013-05-03 11:08:32] nicegraham: ok, and what happens now?
+[2013-05-03 11:08:48] nirvdrum: They should be rotated properly.
+[2013-05-03 11:09:22] nirvdrum: If you rotate the device to landscape your screenshots will come back oriented the same way.
