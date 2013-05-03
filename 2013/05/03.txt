@@ -26,3 +26,7 @@
 [2013-05-03 08:55:07] admc1, joining. (#ios-driver)
 [2013-05-03 09:04:55] lukeis, joining. (#ios-driver)
 [2013-05-03 09:13:01] smccarthy, joining. (#ios-driver)
+[2013-05-03 09:21:37] nirvdrum: lukeis: If you get some time and could try out the screenshot rotation code, that'd be helpful.  Landscape screenshots should come out in the correct orientation now.
+[2013-05-03 09:22:04] lukeis: cool, yeah, i'll take a look
+[2013-05-03 09:22:34] nirvdrum: I wrote it to handle all orientations, but I really only could test the two that WebDriver uses.
+[2013-05-03 09:22:45] nirvdrum: portrait & landscape left.
