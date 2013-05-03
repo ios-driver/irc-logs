@@ -147,3 +147,5 @@
 [2013-05-03 14:42:50] ags, quitting. (Quit: Page closed)
 [2013-05-03 14:52:12] nirvdrum: Damn.  I'm hitting that issue pretty consistently now, using the DefaultRemoteProxy.
 [2013-05-03 15:00:27] nirvdrum: Every third test seems to fail.
+[2013-05-03 15:13:36] admc3, joining. (#ios-driver)
+[2013-05-03 15:14:34] admc1, quitting. (Read error: Connection reset by peer)
