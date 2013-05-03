@@ -78,3 +78,26 @@
 [2013-05-03 12:59:33] nirvdrum: And it took me way too long to figure out iOS Simulator is terribly misleading.
 [2013-05-03 12:59:50] nicegraham: how so/
 [2013-05-03 12:59:56] nirvdrum: That "Regular" iPhone has the iPhone 4/4S border, but it's actually a 3GS.
+[2013-05-03 13:00:36] nicegraham: in terms of... resolutuion?
+[2013-05-03 13:00:53] nirvdrum: Yeah.  All the 4 & 4S are retina.
+[2013-05-03 13:01:07] nicegraham: i know what you mean
+[2013-05-03 13:01:19] nirvdrum: But the image on the screen is clearly the 4 / 4S body with the 3GS resolution.
+[2013-05-03 13:01:31] nicegraham: they mask it like a iphone4
+[2013-05-03 13:01:39] nirvdrum: Right.  Which is misleading :-/
+[2013-05-03 13:01:54] nicegraham: yeah, but it looks nicer than a 3g[s]
+[2013-05-03 13:02:01] nicegraham: and that's what matters
+[2013-05-03 13:02:05] nirvdrum: Heh.
+[2013-05-03 13:02:24] nirvdrum: So, I have screenshot and DOM analysis working in all the iPhone variations right now.
+[2013-05-03 13:02:31] nirvdrum: I need to go through iPad and figure out the crop points.
+[2013-05-03 13:03:10] nicegraham: that's in pure js? or will be built into ios-driver?
+[2013-05-03 13:03:16] nirvdrum: But, man the device pixel ratios are annoying.  And that viewport scaling stuff resulted in 3 Scotches just so I could get it done.
+[2013-05-03 13:03:17] nicegraham: ^screenshots
+[2013-05-03 13:03:37] nirvdrum: I could move it into ios-server.  But it's JS scrolling + Ruby stitching.
+[2013-05-03 13:04:10] nirvdrum: There's a weird timing issue, too.  The address bar will only disappear if the simulator has been loaded for ~ 5s and you've scrolled once.
+[2013-05-03 13:04:16] nicegraham: how long does it take for a screenshot?
+[2013-05-03 13:04:20] Hammertime38, quitting. (Remote host closed the connection)
+[2013-05-03 13:04:30] nirvdrum: So, if you scroll then start taking screenshots, you'll see the address bar.  But it may disappear at some point.
+[2013-05-03 13:04:41] nicegraham: heh
+[2013-05-03 13:04:44] nicegraham: fun times
+[2013-05-03 13:04:45] nirvdrum: So I put a 5s sleep in there, which most people probably won't like.
+[2013-05-03 13:04:59] nirvdrum: And if the page is small enough to fit on the screen, you can't get the address bar to go away at all.
