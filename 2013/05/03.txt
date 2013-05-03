@@ -101,3 +101,12 @@
 [2013-05-03 13:04:44] nicegraham: fun times
 [2013-05-03 13:04:45] nirvdrum: So I put a 5s sleep in there, which most people probably won't like.
 [2013-05-03 13:04:59] nirvdrum: And if the page is small enough to fit on the screen, you can't get the address bar to go away at all.
+[2013-05-03 13:05:10] nirvdrum: Screenshots are actually pretty fast.
+[2013-05-03 13:05:37] nirvdrum: I have to stitch 12 together for my test page.  I mean it's not lightning fast, but it's acceptable.
+[2013-05-03 13:05:50] nicegraham: like 15s?
+[2013-05-03 13:06:55] nirvdrum: I'll have to time it.
+[2013-05-03 13:07:15] nirvdrum: It's probably closer to 5s.  Plus the 5s sleep.
+[2013-05-03 13:07:24] nicegraham: that's not bad
+[2013-05-03 13:08:41] nirvdrum: It's all async for me anyway.  I'd like to turn results around as fast as I can and I'd like to free up the simulator for other tests as fast as I can, but an extra 10s isn't going to make or break this.
+[2013-05-03 13:09:33] nicegraham: when facebook hook us up we'll be laughing
+[2013-05-03 13:09:50] nicegraham: no more 1-1 sim-machine
