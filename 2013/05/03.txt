@@ -110,3 +110,17 @@
 [2013-05-03 13:08:41] nirvdrum: It's all async for me anyway.  I'd like to turn results around as fast as I can and I'd like to free up the simulator for other tests as fast as I can, but an extra 10s isn't going to make or break this.
 [2013-05-03 13:09:33] nicegraham: when facebook hook us up we'll be laughing
 [2013-05-03 13:09:50] nicegraham: no more 1-1 sim-machine
+[2013-05-03 13:10:20] nirvdrum: I'm looking at running virtualized instances.
+[2013-05-03 13:10:20] ags, joining. (#ios-driver)
+[2013-05-03 13:10:29] nicegraham: that's what we do
+[2013-05-03 13:10:37] nicegraham: but it's seriously limiting
+[2013-05-03 13:10:49] nicegraham: we can run 3 vms on a pretty decent spec imac
+[2013-05-03 13:10:58] nicegraham: any more that that and it gets really flaky
+[2013-05-03 13:11:06] nicegraham: speaking to francois he's found the same
+[2013-05-03 13:11:47] nicegraham: he reckons we'll be able to run 10-15 simulators on their own on the same machine
+[2013-05-03 13:12:09] nirvdrum: Interesting.  I was looking at running maybe 3 - 4 on an i7 mac mini with 16 GB RAM and an SSD.
+[2013-05-03 13:12:14] nirvdrum: I'm trying out macstadium.com for this.
+[2013-05-03 13:12:34] nicegraham: the imac we have is i7 with 20gb ram
+[2013-05-03 13:12:34] nirvdrum: But I needed to be sure I could even accomplish what I wanted to with ios-driver first.  It's been a hectic couple weeks.
+[2013-05-03 13:13:42] nicegraham: those racks are cool :0
+[2013-05-03 13:14:57] santiycr, joining. (#ios-driver)
