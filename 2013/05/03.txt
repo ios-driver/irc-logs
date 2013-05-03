@@ -9,3 +9,9 @@
 [2013-05-03 04:44:46] nicegraham: so we could control it once launched but not have native events?
 [2013-05-03 04:50:45] freynaud: yes
 [2013-05-03 04:51:13] freynaud: no native event, no screenshot ( maybe with airplay mirroring ? ) , no window switching
+[2013-05-03 04:57:32] freynaud, quitting. (Ping timeout: 245 seconds)
+[2013-05-03 04:58:38] freynaud, joining. (#ios-driver)
+[2013-05-03 04:59:09] nicegraham: freynaud: does that clarify what you'll be showcasing at seconf?
+[2013-05-03 04:59:29] freynaud: i think luke wants to do safari
+[2013-05-03 04:59:38] freynaud: so that doesn't impact me that much
+[2013-05-03 04:59:52] freynaud: the part that did work last week does clarify it
