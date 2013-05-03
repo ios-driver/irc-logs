@@ -56,3 +56,7 @@
 [2013-05-03 11:39:43] nirvdrum: Cool.
 [2013-05-03 12:29:05] admc1, quitting. (Quit: Leaving.)
 [2013-05-03 12:46:25] santiycr, quitting. (Quit: Leaving.)
+[2013-05-03 12:53:32] nicegraham: nirvdrum: any ideas on https://github.com/ios-driver/ios-driver/issues/35
+[2013-05-03 12:53:48] nicegraham: we saw a couple of failures last night for the same error message
+[2013-05-03 12:54:26] nirvdrum: I've been seeing them as well.
+[2013-05-03 12:54:45] nicegraham: oh good :)
