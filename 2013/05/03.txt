@@ -31,3 +31,4 @@
 [2013-05-03 09:22:34] nirvdrum: I wrote it to handle all orientations, but I really only could test the two that WebDriver uses.
 [2013-05-03 09:22:45] nirvdrum: portrait & landscape left.
 [2013-05-03 09:31:35] lukeis: the orientation api may need some updates ;)
+[2013-05-03 10:06:52] lukeis, quitting. (Quit: Leaving.)
