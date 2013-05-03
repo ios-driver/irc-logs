@@ -149,3 +149,4 @@
 [2013-05-03 15:00:27] nirvdrum: Every third test seems to fail.
 [2013-05-03 15:13:36] admc3, joining. (#ios-driver)
 [2013-05-03 15:14:34] admc1, quitting. (Read error: Connection reset by peer)
+[2013-05-03 15:28:30] santiycr, quitting. (Quit: Leaving.)
