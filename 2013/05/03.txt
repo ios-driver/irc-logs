@@ -7,3 +7,5 @@
 [2013-05-03 04:44:13] freynaud: maybe
 [2013-05-03 04:44:19] freynaud: but not have instruments working
 [2013-05-03 04:44:46] nicegraham: so we could control it once launched but not have native events?
+[2013-05-03 04:50:45] freynaud: yes
+[2013-05-03 04:51:13] freynaud: no native event, no screenshot ( maybe with airplay mirroring ? ) , no window switching
