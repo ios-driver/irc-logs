@@ -11,3 +11,4 @@
 [2013-05-04 01:02:29] freynaud, quitting. (Client Quit)
 [2013-05-04 02:29:21] admc1, joining. (#ios-driver)
 [2013-05-04 02:39:45] admc1, quitting. (Quit: Leaving.)
+[2013-05-04 07:22:50] nirvdrum, joining. (#ios-driver)
