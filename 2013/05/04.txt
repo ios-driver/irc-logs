@@ -13,3 +13,4 @@
 [2013-05-04 02:39:45] admc1, quitting. (Quit: Leaving.)
 [2013-05-04 07:22:50] nirvdrum, joining. (#ios-driver)
 [2013-05-04 11:00:50] nirvdrum, quitting. (Remote host closed the connection)
+[2013-05-04 11:09:06] smccarthy, joining. (#ios-driver)
