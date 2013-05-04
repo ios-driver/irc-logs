@@ -9,3 +9,4 @@
 [2013-05-04 01:02:22] freynaud, quitting. (Read error: Connection reset by peer)
 [2013-05-04 01:02:23] freynaud_, changing nick to freynaud.
 [2013-05-04 01:02:29] freynaud, quitting. (Client Quit)
+[2013-05-04 02:29:21] admc1, joining. (#ios-driver)
