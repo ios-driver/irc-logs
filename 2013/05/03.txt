@@ -160,3 +160,4 @@
 [2013-05-03 18:17:24] admc3, quitting. (Quit: Leaving.)
 [2013-05-03 18:55:41] smccarthy, joining. (#ios-driver)
 [2013-05-03 19:40:03] MaxAxiom, joining. (#ios-driver)
+[2013-05-03 21:37:26] smccarthy, quitting. (Remote host closed the connection)
