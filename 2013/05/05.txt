@@ -10,3 +10,6 @@
 [2013-05-05 03:33:17] admc1, joining. (#ios-driver)
 [2013-05-05 03:34:46] admc1, quitting. (*.net *.split)
 [2013-05-05 03:35:37] AutomatedTester, quitting. (*.net *.split)
+[2013-05-05 03:41:34] admc1, joining. (#ios-driver)
+[2013-05-05 03:41:34] AutomatedTester, joining. (#ios-driver)
+[2013-05-05 03:42:19] admc1, quitting. (Ping timeout: 264 seconds)
