@@ -1,3 +1,4 @@
 [2013-05-05 00:05:56] admc1, joining. (#ios-driver)
 [2013-05-05 01:24:34] admc1, quitting. (Quit: Leaving.)
 [2013-05-05 01:54:56] admc1, joining. (#ios-driver)
+[2013-05-05 02:04:43] admc1, quitting. (Ping timeout: 264 seconds)
