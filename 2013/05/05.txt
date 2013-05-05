@@ -7,3 +7,5 @@
 [2013-05-05 03:21:47] ios-driverbot, quitting. (Ping timeout: 255 seconds)
 [2013-05-05 03:22:04] ios-driverbot_, joining. (#ios-driver)
 [2013-05-05 03:26:21] ios-driverbot, quitting. (Ping timeout: 255 seconds)
+[2013-05-05 03:33:17] admc1, joining. (#ios-driver)
+[2013-05-05 03:34:46] admc1, quitting. (*.net *.split)
