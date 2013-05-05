@@ -32,3 +32,7 @@
 [2013-05-05 09:15:53] smccarthy, joining. (#ios-driver)
 [2013-05-05 09:40:03] admc1, joining. (#ios-driver)
 [2013-05-05 09:44:35] admc1, quitting. (Ping timeout: 260 seconds)
+[2013-05-05 10:10:02] freynaud_, joining. (#ios-driver)
+[2013-05-05 10:10:27] admc1, joining. (#ios-driver)
+[2013-05-05 10:11:17] freynaud, quitting. (Read error: Operation timed out)
+[2013-05-05 10:11:18] freynaud_, changing nick to freynaud.
