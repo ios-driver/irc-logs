@@ -93,3 +93,5 @@
 [2013-05-06 10:51:55] freynaud: lukeis: your checkbox should be selected after a click fails on iPad ( passes on iPhone ) for me
 [2013-05-06 10:53:48] lukeis: ok :)
 [2013-05-06 10:54:02] lukeis: i'll have to double check with roman
+[2013-05-06 10:55:36] nirvdrum: freynaud: Which ones exactly are failing for you?
+[2013-05-06 10:55:39] nirvdrum: I see a few.
