@@ -25,3 +25,4 @@
 [2013-05-06 07:13:22] ios-driver-git, leaving. (#ios-driver)
 [2013-05-06 07:18:58] nirvdrum: I got everything working for Mogotest.  That screenshot code is a bitch though.
 [2013-05-06 07:23:08] freynaud: cool :)
+[2013-05-06 07:28:16] freynaud: did you commit your code ?
