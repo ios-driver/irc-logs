@@ -45,3 +45,4 @@
 [2013-05-05 16:18:21] AutomatedTester, quitting. (Ping timeout: 246 seconds)
 [2013-05-05 16:21:37] AutomatedTester, joining. (#ios-driver)
 [2013-05-05 16:46:21] admc1, joining. (#ios-driver)
+[2013-05-05 17:34:59] smccarthy, joining. (#ios-driver)
