@@ -142,3 +142,4 @@
 [2013-05-06 13:07:45] ios-driver-git: ios-driver/dev 8bf6cb7 Francois Reynaud: fixing more test. Test logic error, alert needs to be dismiss for the following test to start.
 [2013-05-06 13:07:45] ios-driver-git, leaving. (#ios-driver)
 [2013-05-06 13:11:55] freynaud: lukeis: bot is sick ?
+[2013-05-06 13:19:19] freynaud: 5 issues closed. Good day.
