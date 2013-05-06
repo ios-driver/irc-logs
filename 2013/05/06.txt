@@ -36,3 +36,6 @@
 [2013-05-06 08:03:16] freynaud: the next action should scrollIfNeeded
 [2013-05-06 08:03:24] freynaud: so you can leave it where it is
 [2013-05-06 08:04:55] nirvdrum: I don't scroll if I don't have to.
+[2013-05-06 08:05:33] freynaud: ios-driver's scrolling is approximate anyway
+[2013-05-06 08:05:47] freynaud: you'll sometimes see unnecessary scrolls from instruments
+[2013-05-06 08:06:07] freynaud: trying to scroll to invisible elements with negative coordinate
