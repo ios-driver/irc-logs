@@ -40,3 +40,4 @@
 [2013-05-06 08:05:47] freynaud: you'll sometimes see unnecessary scrolls from instruments
 [2013-05-06 08:06:07] freynaud: trying to scroll to invisible elements with negative coordinate
 [2013-05-06 08:11:56] nirvdrum: I found the viewport size changes sometimes, so you end up being off by a pixel or two.
+[2013-05-06 08:22:02] smccarthy, joining. (#ios-driver)
