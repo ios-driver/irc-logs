@@ -177,3 +177,4 @@
 [2013-05-06 15:15:23] santiycr, quitting. (Quit: Leaving.)
 [2013-05-06 15:20:14] admc1, quitting. (Quit: Leaving.)
 [2013-05-06 15:33:22] Hammertime38, joining. (#ios-driver)
+[2013-05-06 15:40:56] santiycr, joining. (#ios-driver)
