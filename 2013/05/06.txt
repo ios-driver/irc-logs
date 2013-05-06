@@ -59,3 +59,7 @@
 [2013-05-06 09:43:40] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/wMwgbg
 [2013-05-06 09:43:41] ios-driver-git: ios-driver/dev 94fc2fa Francois Reynaud: findElement now properly throws if there is an alert, and xpath do not fail anymore if there is an alert and the xpath matches an element inside that alert.
 [2013-05-06 09:43:41] ios-driver-git, leaving. (#ios-driver)
+[2013-05-06 09:52:47] ios-driver-git, joining. (#ios-driver)
+[2013-05-06 09:52:47] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/0xatTg
+[2013-05-06 09:52:47] ios-driver-git: ios-driver/dev 701c413 Francois Reynaud: fixing #39
+[2013-05-06 09:52:47] ios-driver-git, leaving. (#ios-driver)
