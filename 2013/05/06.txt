@@ -70,3 +70,12 @@
 [2013-05-06 10:04:51] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/djeNXg
 [2013-05-06 10:04:51] ios-driver-git: ios-driver/dev c4f3bd7 Francois Reynaud: updating submodule.
 [2013-05-06 10:04:51] ios-driver-git, leaving. (#ios-driver)
+[2013-05-06 10:06:12] freynaud: nirvdrum: do you still have the timeout for long JS N
+[2013-05-06 10:06:27] nirvdrum: No.  That's been working fine.
+[2013-05-06 10:06:56] freynaud: so #23 is fixed ?
+[2013-05-06 10:07:08] freynaud: Timing out with large JS execution
+[2013-05-06 10:07:53] nirvdrum: I think #23 and #25.
+[2013-05-06 10:08:15] freynaud: ok. reopen if you have more JS issues
+[2013-05-06 10:08:38] nirvdrum: Will do.
+[2013-05-06 10:08:44] nirvdrum: Sorry, I thought those were already closed.
+[2013-05-06 10:08:54] freynaud: now they are
