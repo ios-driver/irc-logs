@@ -52,3 +52,4 @@
 [2013-05-06 08:43:39] freynaud: k
 [2013-05-06 08:46:17] freynaud: great, it's in the path logic
 [2013-05-06 08:50:58] lukeis, joining. (#ios-driver)
+[2013-05-06 08:56:52] smccarthy2, joining. (#ios-driver)
