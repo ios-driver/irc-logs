@@ -30,3 +30,4 @@
 [2013-05-06 07:39:07] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/vs6ZBw
 [2013-05-06 07:39:07] ios-driver-git: ios-driver/dev 4b8918f Francois Reynaud: tests should run on iphone by default.
 [2013-05-06 07:39:07] ios-driver-git, leaving. (#ios-driver)
+[2013-05-06 07:45:32] coreygriggs, joining. (#ios-driver)
