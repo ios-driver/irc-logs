@@ -116,3 +116,9 @@
 [2013-05-06 11:54:26] nirvdrum: nicegraham: As it turns out, my issue with every 3rd test was I was requesting a browser and then my client timed out.  The request stayed in the grid queue, then was handled, but there was no client.  So the simulator was started and then orphaned.  And all hell broke loose from there.
 [2013-05-06 11:54:28] lukeis: i have not tried the others ;)
 [2013-05-06 11:54:39] nirvdrum: Apparently the orphan check didn't work.
+[2013-05-06 11:55:02] nirvdrum: And I swear I had code in grid to handle this.  But every time I add it, someone else comes up with a lame reason to remove t.
+[2013-05-06 11:55:25] nirvdrum: That little ping pong is getting pretty tiresome though.
+[2013-05-06 11:56:11] nicegraham: @nirvdrum I tested the other orientations
+[2013-05-06 11:56:31] nirvdrum: Ahh.  It was nicegram, not lukeis.  The latter is useless.
+[2013-05-06 11:58:57] lukeis: ;)
+[2013-05-06 11:59:14] lukeis: thanks nirvdrum… i try
