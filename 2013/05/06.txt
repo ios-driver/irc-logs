@@ -125,3 +125,4 @@
 [2013-05-06 12:00:12] nirvdrum: Heh.
 [2013-05-06 12:17:39] Hammertime38, quitting. (Remote host closed the connection)
 [2013-05-06 12:18:33] Hammertime38, joining. (#ios-driver)
+[2013-05-06 12:25:28] admc1, joining. (#ios-driver)
