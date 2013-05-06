@@ -88,3 +88,5 @@
 [2013-05-06 10:34:12] nirvdrum: I'll fix whatever I broke.
 [2013-05-06 10:34:36] nirvdrum: To be fair, there wasn't a test class for the screenshot handler that I could find.
 [2013-05-06 10:34:45] smccarthy2, joining. (#ios-driver)
+[2013-05-06 10:35:57] freynaud: i use it as a proxy to check the device type in one of the test
+[2013-05-06 10:37:38] smccarthy, quitting. (Ping timeout: 245 seconds)
