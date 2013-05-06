@@ -159,3 +159,7 @@
 [2013-05-06 13:47:41] Hammertime38, quitting. (Remote host closed the connection)
 [2013-05-06 13:47:52] freynaud: there is a memory leak in the server.
 [2013-05-06 13:48:00] freynaud: I suspect in the plist parser.
+[2013-05-06 13:50:12] freynaud: all native tests passing again, except for that memory leak
+[2013-05-06 13:51:17] Hammertime38, joining. (#ios-driver)
+[2013-05-06 13:51:58] freynaud: nirvdrum: CFBundleName is both non-null and non empty
+[2013-05-06 13:52:05] freynaud: are you testing native apps too ?
