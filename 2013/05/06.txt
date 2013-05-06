@@ -44,3 +44,6 @@
 [2013-05-06 08:26:32] freynaud, quitting. (Quit: freynaud)
 [2013-05-06 08:30:19] jlipps, joining. (#ios-driver)
 [2013-05-06 08:33:13] freynaud, joining. (#ios-driver)
+[2013-05-06 08:39:38] freynaud: nirvdrum: driver.findElement()
+[2013-05-06 08:39:48] freynaud: should that throw if there is an alert ?
+[2013-05-06 08:40:00] nirvdrum: I think so.
