@@ -26,3 +26,7 @@
 [2013-05-06 07:18:58] nirvdrum: I got everything working for Mogotest.  That screenshot code is a bitch though.
 [2013-05-06 07:23:08] freynaud: cool :)
 [2013-05-06 07:28:16] freynaud: did you commit your code ?
+[2013-05-06 07:39:07] ios-driver-git, joining. (#ios-driver)
+[2013-05-06 07:39:07] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/vs6ZBw
+[2013-05-06 07:39:07] ios-driver-git: ios-driver/dev 4b8918f Francois Reynaud: tests should run on iphone by default.
+[2013-05-06 07:39:07] ios-driver-git, leaving. (#ios-driver)
