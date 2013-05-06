@@ -4,3 +4,5 @@
 [2013-05-06 02:55:02] admc1, quitting. (Quit: Leaving.)
 [2013-05-06 04:05:27] admc1, joining. (#ios-driver)
 [2013-05-06 04:09:44] admc1, quitting. (Ping timeout: 252 seconds)
+[2013-05-06 04:16:16] freynaud, quitting. (Read error: No route to host)
+[2013-05-06 04:17:24] freynaud, joining. (#ios-driver)
