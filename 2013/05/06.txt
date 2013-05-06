@@ -131,3 +131,13 @@
 [2013-05-06 12:55:37] freynaud: Apple is great.
 [2013-05-06 12:56:09] santiycr, quitting. (Quit: Leaving.)
 [2013-05-06 12:56:22] freynaud: I get the messages from the phone's answering machine at work via email. If I click on it, it's added to iTunes and my playlist automatically :)
+[2013-05-06 13:05:50] ios-driver-git, joining. (#ios-driver)
+[2013-05-06 13:05:50] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to dev: http://git.io/fjv5Hw
+[2013-05-06 13:05:50] ios-driver-git: ios-driver/dev 0c380d8 Francois Reynaud: parsing the plist using the proper api
+[2013-05-06 13:05:50] ios-driver-git: ios-driver/dev 32fe684 Francois Reynaud: fixing #19 SDK version is now properly parsed, supporting major minor version for SDK, like 6.3.1
+[2013-05-06 13:05:50] ios-driver-git, leaving. (#ios-driver)
+[2013-05-06 13:07:45] ios-driver-git, joining. (#ios-driver)
+[2013-05-06 13:07:45] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to dev: http://git.io/pHSIpw
+[2013-05-06 13:07:45] ios-driver-git: ios-driver/dev 27ff348 Francois Reynaud: fixing tests. For some reason testNG seems confused by the dependencies + before class + inheritance. Gettign rid of the dependencies to fix the test flakiness ( sever already started, address already in use )
+[2013-05-06 13:07:45] ios-driver-git: ios-driver/dev 8bf6cb7 Francois Reynaud: fixing more test. Test logic error, alert needs to be dismiss for the following test to start.
+[2013-05-06 13:07:45] ios-driver-git, leaving. (#ios-driver)
