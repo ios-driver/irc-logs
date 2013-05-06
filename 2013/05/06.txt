@@ -96,3 +96,4 @@
 [2013-05-06 10:55:36] nirvdrum: freynaud: Which ones exactly are failing for you?
 [2013-05-06 10:55:39] nirvdrum: I see a few.
 [2013-05-06 11:14:28] admc1, quitting. (Quit: Leaving.)
+[2013-05-06 11:20:24] santiycr, joining. (#ios-driver)
