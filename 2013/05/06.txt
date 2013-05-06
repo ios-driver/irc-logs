@@ -47,3 +47,6 @@
 [2013-05-06 08:39:38] freynaud: nirvdrum: driver.findElement()
 [2013-05-06 08:39:48] freynaud: should that throw if there is an alert ?
 [2013-05-06 08:40:00] nirvdrum: I think so.
+[2013-05-06 08:40:06] freynaud: ok
+[2013-05-06 08:40:26] nirvdrum: I'd have to double check.  But I think anything other than switching to the alert and dismissing or accepting it ends up raising an error.
+[2013-05-06 08:43:39] freynaud: k
