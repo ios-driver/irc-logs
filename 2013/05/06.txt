@@ -183,3 +183,4 @@
 [2013-05-06 15:56:36] smccarthy2, quitting. (Read error: Connection reset by peer)
 [2013-05-06 16:02:51] lukeis, quitting. (Quit: Leaving.)
 [2013-05-06 16:13:08] admc1, joining. (#ios-driver)
+[2013-05-06 16:17:24] smccarthy, quitting. (Remote host closed the connection)
