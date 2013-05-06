@@ -90,3 +90,6 @@
 [2013-05-06 10:34:45] smccarthy2, joining. (#ios-driver)
 [2013-05-06 10:35:57] freynaud: i use it as a proxy to check the device type in one of the test
 [2013-05-06 10:37:38] smccarthy, quitting. (Ping timeout: 245 seconds)
+[2013-05-06 10:51:55] freynaud: lukeis: your checkbox should be selected after a click fails on iPad ( passes on iPhone ) for me
+[2013-05-06 10:53:48] lukeis: ok :)
+[2013-05-06 10:54:02] lukeis: i'll have to double check with roman
