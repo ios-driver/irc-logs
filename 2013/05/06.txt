@@ -51,3 +51,4 @@
 [2013-05-06 08:40:26] nirvdrum: I'd have to double check.  But I think anything other than switching to the alert and dismissing or accepting it ends up raising an error.
 [2013-05-06 08:43:39] freynaud: k
 [2013-05-06 08:46:17] freynaud: great, it's in the path logic
+[2013-05-06 08:50:58] lukeis, joining. (#ios-driver)
