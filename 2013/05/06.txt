@@ -80,3 +80,11 @@
 [2013-05-06 10:08:44] nirvdrum: Sorry, I thought those were already closed.
 [2013-05-06 10:08:54] freynaud: now they are
 [2013-05-06 10:25:22] lukeis, joining. (#ios-driver)
+[2013-05-06 10:33:27] freynaud: nirvdrum: you didn't run the tests after your screenshot changes did you ? :)
+[2013-05-06 10:33:41] lukeis: who runs tests? ;)
+[2013-05-06 10:33:51] freynaud: not nirvdrum :)
+[2013-05-06 10:33:59] *lukeis shouldn't admit that I don't half the time'
+[2013-05-06 10:34:00] nirvdrum: Apparently not.
+[2013-05-06 10:34:12] nirvdrum: I'll fix whatever I broke.
+[2013-05-06 10:34:36] nirvdrum: To be fair, there wasn't a test class for the screenshot handler that I could find.
+[2013-05-06 10:34:45] smccarthy2, joining. (#ios-driver)
