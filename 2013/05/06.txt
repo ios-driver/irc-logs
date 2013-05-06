@@ -110,3 +110,9 @@
 [2013-05-06 11:43:11] freynaud: regarding your imll of screenshot
 [2013-05-06 11:43:25] freynaud: did you rotate to support all iOS rotation ?
 [2013-05-06 11:43:41] freynaud: i.e. landscape right and landscape left. and reverse portrait
+[2013-05-06 11:53:18] nirvdrum: I did.  Although I only verified landscape left, since that's what WebDriver supports.
+[2013-05-06 11:53:26] nirvdrum: I think lukeis said he tried the others and they worked.
+[2013-05-06 11:53:29] Hammertime38, joining. (#ios-driver)
+[2013-05-06 11:54:26] nirvdrum: nicegraham: As it turns out, my issue with every 3rd test was I was requesting a browser and then my client timed out.  The request stayed in the grid queue, then was handled, but there was no client.  So the simulator was started and then orphaned.  And all hell broke loose from there.
+[2013-05-06 11:54:28] lukeis: i have not tried the others ;)
+[2013-05-06 11:54:39] nirvdrum: Apparently the orphan check didn't work.
