@@ -163,3 +163,5 @@
 [2013-05-06 13:51:17] Hammertime38, joining. (#ios-driver)
 [2013-05-06 13:51:58] freynaud: nirvdrum: CFBundleName is both non-null and non empty
 [2013-05-06 13:52:05] freynaud: are you testing native apps too ?
+[2013-05-06 14:00:44] smccarthy2, joining. (#ios-driver)
+[2013-05-06 14:04:36] smccarthy, quitting. (Ping timeout: 268 seconds)
