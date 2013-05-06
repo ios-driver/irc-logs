@@ -79,3 +79,4 @@
 [2013-05-06 10:08:38] nirvdrum: Will do.
 [2013-05-06 10:08:44] nirvdrum: Sorry, I thought those were already closed.
 [2013-05-06 10:08:54] freynaud: now they are
+[2013-05-06 10:25:22] lukeis, joining. (#ios-driver)
