@@ -13,3 +13,9 @@
 [2013-05-06 06:54:13] ios-driver-git: ios-driver/issue37 7dbd837 Francois Reynaud: workaround the race condition.
 [2013-05-06 06:54:13] ios-driver-git: ios-driver/issue37 8ae8016 Francois Reynaud: fixing the thread issue.
 [2013-05-06 06:54:13] ios-driver-git, leaving. (#ios-driver)
+[2013-05-06 06:55:33] ios-driver-git, joining. (#ios-driver)
+[2013-05-06 06:55:33] ios-driver-git: [ios-driver] freynaud merged issue37 into dev: http://git.io/Ba7kYg
+[2013-05-06 06:55:33] ios-driver-git, leaving. (#ios-driver)
+[2013-05-06 06:55:53] ios-driver-git, joining. (#ios-driver)
+[2013-05-06 06:55:53] ios-driver-git: [ios-driver] freynaud deleted issue37 at 986e8c3: http://git.io/JBIapg
+[2013-05-06 06:55:53] ios-driver-git, leaving. (#ios-driver)
