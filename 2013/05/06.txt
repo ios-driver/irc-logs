@@ -101,3 +101,12 @@
 [2013-05-06 11:35:32] freynaud: nirvdrum: same here. I'm cleaning the build
 [2013-05-06 11:35:47] freynaud: all the native tests should run on real and sim
 [2013-05-06 11:37:55] santiycr, joining. (#ios-driver)
+[2013-05-06 11:41:36] freynaud: nirvdrum: do you have that issue with grid + ios-driver +locaiton header ?
+[2013-05-06 11:42:08] nirvdrum: I did.  I haven't seen it in a couple days though.
+[2013-05-06 11:42:16] nirvdrum: I think it was happening when ios-server times out.
+[2013-05-06 11:42:22] freynaud: ok
+[2013-05-06 11:42:27] nirvdrum: And then it keeps the simulator open for a long time.
+[2013-05-06 11:42:33] nirvdrum: That timeout should probably be configurable.
+[2013-05-06 11:43:11] freynaud: regarding your imll of screenshot
+[2013-05-06 11:43:25] freynaud: did you rotate to support all iOS rotation ?
+[2013-05-06 11:43:41] freynaud: i.e. landscape right and landscape left. and reverse portrait
