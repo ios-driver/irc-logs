@@ -19,3 +19,7 @@
 [2013-05-06 06:55:53] ios-driver-git, joining. (#ios-driver)
 [2013-05-06 06:55:53] ios-driver-git: [ios-driver] freynaud deleted issue37 at 986e8c3: http://git.io/JBIapg
 [2013-05-06 06:55:53] ios-driver-git, leaving. (#ios-driver)
+[2013-05-06 07:13:22] ios-driver-git, joining. (#ios-driver)
+[2013-05-06 07:13:22] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/adHmCg
+[2013-05-06 07:13:22] ios-driver-git: ios-driver/dev c2e1af1 Francois Reynaud: fixing #41
+[2013-05-06 07:13:22] ios-driver-git, leaving. (#ios-driver)
