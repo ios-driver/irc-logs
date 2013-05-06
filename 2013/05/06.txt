@@ -31,3 +31,8 @@
 [2013-05-06 07:39:07] ios-driver-git: ios-driver/dev 4b8918f Francois Reynaud: tests should run on iphone by default.
 [2013-05-06 07:39:07] ios-driver-git, leaving. (#ios-driver)
 [2013-05-06 07:45:32] coreygriggs, joining. (#ios-driver)
+[2013-05-06 08:01:37] nirvdrum: The screenshot code was done directly in Mogotest.  There didn't seem to be consensus here on whether we should return the full canvas or not.  But if we want to, I'll port it over to ios-driver.
+[2013-05-06 08:02:17] nirvdrum: I'll just have to do some extra accounting.  In Mogotest I can assume I'm always starting at the top of the page and the scroll position doesn't really matter.  With ios-driver I'd have to keep track of where the user already is and scroll back there.
+[2013-05-06 08:03:16] freynaud: the next action should scrollIfNeeded
+[2013-05-06 08:03:24] freynaud: so you can leave it where it is
+[2013-05-06 08:04:55] nirvdrum: I don't scroll if I don't have to.
