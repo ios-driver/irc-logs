@@ -64,3 +64,9 @@
 [2013-05-06 09:52:47] ios-driver-git: ios-driver/dev 701c413 Francois Reynaud: fixing #39
 [2013-05-06 09:52:47] ios-driver-git, leaving. (#ios-driver)
 [2013-05-06 09:58:21] lukeis, quitting. (Quit: Leaving.)
+[2013-05-06 10:00:42] smccarthy2, quitting. (Remote host closed the connection)
+[2013-05-06 10:01:17] smccarthy, joining. (#ios-driver)
+[2013-05-06 10:04:51] ios-driver-git, joining. (#ios-driver)
+[2013-05-06 10:04:51] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/djeNXg
+[2013-05-06 10:04:51] ios-driver-git: ios-driver/dev c4f3bd7 Francois Reynaud: updating submodule.
+[2013-05-06 10:04:51] ios-driver-git, leaving. (#ios-driver)
