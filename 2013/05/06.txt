@@ -179,3 +179,5 @@
 [2013-05-06 15:33:22] Hammertime38, joining. (#ios-driver)
 [2013-05-06 15:40:56] santiycr, joining. (#ios-driver)
 [2013-05-06 15:48:29] coreygriggs, quitting. (Quit: coreygriggs)
+[2013-05-06 15:56:32] smccarthy, joining. (#ios-driver)
+[2013-05-06 15:56:36] smccarthy2, quitting. (Read error: Connection reset by peer)
