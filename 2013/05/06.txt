@@ -146,3 +146,16 @@
 [2013-05-06 13:26:45] santiycr, joining. (#ios-driver)
 [2013-05-06 13:44:38] lukeis: #19
 [2013-05-06 13:44:43] lukeis: heh
+[2013-05-06 13:45:35] lukeis: seleniumhq/selenium#1
+[2013-05-06 13:45:47] ios-driver-git, joining. (#ios-driver)
+[2013-05-06 13:45:47] ios-driver-git: [ios-driver] freynaud pushed 3 new commits to dev: http://git.io/mW-5Tg
+[2013-05-06 13:45:47] ios-driver-git: ios-driver/dev db4ff1c Francois Reynaud: adding the new native gesture to the project tests suite.
+[2013-05-06 13:45:47] ios-driver-git: ios-driver/dev 89f6f2f Francois Reynaud: for servers started without the beta flag, the deviceStore need to be created too.
+[2013-05-06 13:45:47] ios-driver-git: ios-driver/dev 1b6484a Francois Reynaud: fixing issues in the tests after the screenshots orientation fix.
+[2013-05-06 13:45:47] ios-driver-git, leaving. (#ios-driver)
+[2013-05-06 13:46:05] lukeis: github api rate limit exceeded
+[2013-05-06 13:46:36] lukeis: someone must be doing something excessive here at work ;)
+[2013-05-06 13:47:35] freynaud: too much work being done
+[2013-05-06 13:47:41] Hammertime38, quitting. (Remote host closed the connection)
+[2013-05-06 13:47:52] freynaud: there is a memory leak in the server.
+[2013-05-06 13:48:00] freynaud: I suspect in the plist parser.
