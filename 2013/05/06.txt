@@ -7,3 +7,9 @@
 [2013-05-06 04:16:16] freynaud, quitting. (Read error: No route to host)
 [2013-05-06 04:17:24] freynaud, joining. (#ios-driver)
 [2013-05-06 06:39:19] nirvdrum, joining. (#ios-driver)
+[2013-05-06 06:54:13] ios-driver-git, joining. (#ios-driver)
+[2013-05-06 06:54:13] ios-driver-git: [ios-driver] freynaud created issue37 (+14 new commits): http://git.io/CX563g
+[2013-05-06 06:54:13] ios-driver-git: ios-driver/issue37 8093190 Francois Reynaud: wiring empty app cache to the driver.
+[2013-05-06 06:54:13] ios-driver-git: ios-driver/issue37 7dbd837 Francois Reynaud: workaround the race condition.
+[2013-05-06 06:54:13] ios-driver-git: ios-driver/issue37 8ae8016 Francois Reynaud: fixing the thread issue.
+[2013-05-06 06:54:13] ios-driver-git, leaving. (#ios-driver)
