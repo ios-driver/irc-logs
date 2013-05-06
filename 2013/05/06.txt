@@ -128,3 +128,6 @@
 [2013-05-06 12:25:28] admc1, joining. (#ios-driver)
 [2013-05-06 12:33:13] smccarthy2, quitting. (Remote host closed the connection)
 [2013-05-06 12:33:47] smccarthy, joining. (#ios-driver)
+[2013-05-06 12:55:37] freynaud: Apple is great.
+[2013-05-06 12:56:09] santiycr, quitting. (Quit: Leaving.)
+[2013-05-06 12:56:22] freynaud: I get the messages from the phone's answering machine at work via email. If I click on it, it's added to iTunes and my playlist automatically :)
