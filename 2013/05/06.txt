@@ -170,3 +170,4 @@
 [2013-05-06 14:13:32] freynaud, leaving. (#ios-driver)
 [2013-05-06 14:13:52] Hammertime38, joining. (#ios-driver)
 [2013-05-06 14:23:37] Hammertime38, quitting. (Ping timeout: 276 seconds)
+[2013-05-06 14:30:48] Hammertime38, joining. (#ios-driver)
