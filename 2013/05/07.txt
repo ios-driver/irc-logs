@@ -183,3 +183,10 @@
 [2013-05-07 12:29:06] AutomatedTester: http://about.travis-ci.org/docs/user/osx-ci-environment/
 [2013-05-07 12:29:42] admc1, quitting. (Quit: Leaving.)
 [2013-05-07 12:29:58] AutomatedTester: lemme double check about SUDO
+[2013-05-07 12:30:10] AutomatedTester: but if it doesnt work on OSX then their environments arent the same
+[2013-05-07 12:31:33] AutomatedTester: nicegraham: you should have access to sudo according to my travis chums
+[2013-05-07 12:31:48] nicegraham: i have no idea so
+[2013-05-07 12:32:56] AutomatedTester: i'll speak to Francios then
+[2013-05-07 12:33:03] nicegraham: yeah, good idea
+[2013-05-07 12:33:49] nicegraham: last we spoke he reckoned buying a mac mini would be an easier option
+[2013-05-07 12:34:32] AutomatedTester: the travis branch doesnt really have much
