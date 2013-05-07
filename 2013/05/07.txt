@@ -230,3 +230,12 @@
 [2013-05-07 14:43:53] lukeis1: need to change <false/>  to <true/>   under <key>allow-root
 [2013-05-07 14:44:37] lukeis1: nirvdrum: that make sense ^ ?
 [2013-05-07 14:44:56] nirvdrum: Yeah.  Let me take a look.
+[2013-05-07 14:45:19] lukeis1: search for system.privilege.taskport  first ;)
+[2013-05-07 14:45:34] nirvdrum: Okay.  So should I change that <string> entry back?
+[2013-05-07 14:45:54] lukeis1: yes
+[2013-05-07 14:45:57] lukeis1: that's what i have
+[2013-05-07 14:46:05] lukeis1: only thing i changed was false -> true
+[2013-05-07 14:46:33] nirvdrum: And you were all condescending when I didn't read the FAQ entry on this :-P
+[2013-05-07 14:46:48] lukeis1: hehe, sorry
+[2013-05-07 14:47:09] lukeis1: tribal knowledge it seems
+[2013-05-07 14:48:36] lukeis1: it was mainly cause we added the faq at the time of the 0.6 release :) and it was fresh in our minds i think
