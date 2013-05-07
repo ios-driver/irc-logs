@@ -204,3 +204,8 @@
 [2013-05-07 14:13:40] nirvdrum: So you need to have SSH keys set up.
 [2013-05-07 14:13:52] AutomatedTester: ok, so we can do secure ENVs then
 [2013-05-07 14:14:31] nirvdrum: We could also change the git submodule URL.  But I'd imagine that would make it harder for Francois to push from it.
+[2013-05-07 14:15:56] AutomatedTester: jse
+[2013-05-07 14:16:02] AutomatedTester: use http://about.travis-ci.org/docs/user/build-configuration/#Secure-environment-variables even
+[2013-05-07 14:16:11] nirvdrum: You don't even need to have push permissions to check it out.  But do you do need to have an SSH key associated with a GitHub account in order for it to be checked out, currently.
+[2013-05-07 14:17:10] nirvdrum: Heh.  I'm not checking in my private key, secured or otherwise :-P
+[2013-05-07 14:17:22] nirvdrum: i'd set up a dummy account for that I guess.
