@@ -71,3 +71,8 @@
 [2013-05-07 10:44:13] freynaud: with that removed, we could talk to multiple sim, assuming we can start mutliple sim
 [2013-05-07 10:44:23] freynaud: the start multi sim , facebook has done
 [2013-05-07 10:45:01] nicegraham: what are they doing with multi sims then if they aren't suing instruments?
+[2013-05-07 10:47:47] freynaud: manual test
+[2013-05-07 10:48:15] nicegraham: what's that :)
+[2013-05-07 10:48:34] nirvdrum: multi sim sure would be nice :-P
+[2013-05-07 10:48:54] nirvdrum: I'm looking at ESXi for now.
+[2013-05-07 10:49:12] nicegraham: is that not against the eula?
