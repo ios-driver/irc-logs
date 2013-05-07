@@ -210,3 +210,5 @@
 [2013-05-07 14:17:10] nirvdrum: Heh.  I'm not checking in my private key, secured or otherwise :-P
 [2013-05-07 14:17:22] nirvdrum: i'd set up a dummy account for that I guess.
 [2013-05-07 14:24:21] lukeis1, joining. (#ios-driver)
+[2013-05-07 14:25:31] eHon, joining. (#ios-driver)
+[2013-05-07 14:28:09] eHon, quitting. (Client Quit)
