@@ -30,3 +30,8 @@
 [2013-05-07 08:23:02] lukeis, joining. (#ios-driver)
 [2013-05-07 08:33:30] smccarthy, joining. (#ios-driver)
 [2013-05-07 09:13:11] jlipps, joining. (#ios-driver)
+[2013-05-07 09:25:10] ios-driver-git, joining. (#ios-driver)
+[2013-05-07 09:25:10] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/3a4iGw
+[2013-05-07 09:25:11] ios-driver-git: ios-driver/dev c85f7f3 Francois Reynaud: adding project license file.
+[2013-05-07 09:25:11] ios-driver-git, leaving. (#ios-driver)
+[2013-05-07 09:26:51] freynaud, joining. (#ios-driver)
