@@ -176,3 +176,10 @@
 [2013-05-07 12:22:20] nicegraham: I only spoke to him the other day about it
 [2013-05-07 12:22:25] AutomatedTester: the travis guys will be interested too
 [2013-05-07 12:22:30] nicegraham: :log
+[2013-05-07 12:26:25] nicegraham: ok, so he was saying that we need xcode etc installed and the dev authorisation set so we can launch sims
+[2013-05-07 12:26:33] nicegraham: and then the other chmod stuff
+[2013-05-07 12:26:49] nicegraham: sounds like that would all be doable though?
+[2013-05-07 12:28:47] santiycr, joining. (#ios-driver)
+[2013-05-07 12:29:06] AutomatedTester: http://about.travis-ci.org/docs/user/osx-ci-environment/
+[2013-05-07 12:29:42] admc1, quitting. (Quit: Leaving.)
+[2013-05-07 12:29:58] AutomatedTester: lemme double check about SUDO
