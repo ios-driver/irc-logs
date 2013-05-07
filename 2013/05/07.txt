@@ -250,3 +250,4 @@
 [2013-05-07 14:52:26] ios-driver-git, leaving. (#ios-driver)
 [2013-05-07 14:52:42] nirvdrum: Thanks.
 [2013-05-07 14:53:03] lukeis1: you can slap me in a month ;)
+[2013-05-07 14:58:46] Hammertime38, joining. (#ios-driver)
