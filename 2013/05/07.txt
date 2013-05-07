@@ -254,3 +254,4 @@
 [2013-05-07 15:02:03] admc1, joining. (#ios-driver)
 [2013-05-07 15:14:53] coreygriggs, quitting. (Quit: coreygriggs)
 [2013-05-07 15:18:04] lukeis1, quitting. (Quit: Leaving.)
+[2013-05-07 16:11:30] smccarthy, quitting. (Remote host closed the connection)
