@@ -88,3 +88,18 @@
 [2013-05-07 10:54:13] freynaud: you can install ESX as the host on a mac mini, and start from there
 [2013-05-07 10:54:33] nirvdrum: Ahh.  Well maybe they changed their licensing again with Mountain Lion?  Mountain Lion changed the whole MacOS X Server product around, since it stopped being its own OS.
 [2013-05-07 10:54:51] nirvdrum: freynaud: That's what I'm doing via macstadium.com
+[2013-05-07 10:55:08] freynaud: nirvdrum: i don't see the problem with Mountain lion NOT server
+[2013-05-07 10:55:30] freynaud: the EULA says mac hardware, and you need to have 1 license to run the OS
+[2013-05-07 10:55:50] freynaud: I understand it as you need the hardware and N licenses to run it N times
+[2013-05-07 10:55:58] freynaud: but I'm not a laywer :)
+[2013-05-07 10:56:05] nicegraham: i don't think so
+[2013-05-07 10:56:24] nirvdrum: You can't buy Mac hardware without an OS license, so that should be fairly moot.
+[2013-05-07 10:56:30] nicegraham: I think you're allowed run 3 instances per os license
+[2013-05-07 10:56:39] nicegraham: something like that
+[2013-05-07 10:56:54] coreygriggs, joining. (#ios-driver)
+[2013-05-07 10:57:37] nirvdrum: I need to benchmark a VM host.  I've only used MacStadium for dedicated i5 right now.  But if I can only run a single simulator, that's mostly wasted hardware.
+[2013-05-07 10:57:56] lukeis, quitting. (Quit: Leaving.)
+[2013-05-07 10:58:34] nirvdrum: Bah, I needed him :-(
+[2013-05-07 10:58:36] freynaud: nicegraham: I don't know where your 3 comes from. There is something saying you can run 2 VMs on top of your own os if you virtualize, but that exclude using any kind of remote access. Which is exactly what we do
+[2013-05-07 10:59:24] nirvdrum: I'll take my chances with Apple suing me.  I wouldn't risk running a hackintosh for this, but I'm leasing actual mac hardware.  They're getting their money.
+[2013-05-07 10:59:53] nicegraham: they are so annoying complicated
