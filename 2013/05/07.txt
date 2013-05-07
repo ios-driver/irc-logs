@@ -209,3 +209,4 @@
 [2013-05-07 14:16:11] nirvdrum: You don't even need to have push permissions to check it out.  But do you do need to have an SSH key associated with a GitHub account in order for it to be checked out, currently.
 [2013-05-07 14:17:10] nirvdrum: Heh.  I'm not checking in my private key, secured or otherwise :-P
 [2013-05-07 14:17:22] nirvdrum: i'd set up a dummy account for that I guess.
+[2013-05-07 14:24:21] lukeis1, joining. (#ios-driver)
