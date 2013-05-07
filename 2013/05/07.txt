@@ -103,3 +103,22 @@
 [2013-05-07 10:58:36] freynaud: nicegraham: I don't know where your 3 comes from. There is something saying you can run 2 VMs on top of your own os if you virtualize, but that exclude using any kind of remote access. Which is exactly what we do
 [2013-05-07 10:59:24] nirvdrum: I'll take my chances with Apple suing me.  I wouldn't risk running a hackintosh for this, but I'm leasing actual mac hardware.  They're getting their money.
 [2013-05-07 10:59:53] nicegraham: they are so annoying complicated
+[2013-05-07 11:00:15] nicegraham: freynaud: I didn't get that part about remote access
+[2013-05-07 11:00:18] nirvdrum: Indeed.  I wish I could just do it on EC2, but c'est la vie, je pense.
+[2013-05-07 11:00:54] nirvdrum: So, this "Developer Tools needs to take control" thing.  I've followed the steps in the FAQ: http://ios-driver.github.io/ios-driver/faq.html   But I still see the prompt.
+[2013-05-07 11:00:58] nirvdrum: Is that outdated data?
+[2013-05-07 11:01:42] nicegraham: I don't think so - lukeis knows better though
+[2013-05-07 11:01:43] freynaud_, joining. (#ios-driver)
+[2013-05-07 11:01:50] freynaud_: nicegraham: for the 3 :only one (1) Apple-branded Device may remotely connect at any one time
+[2013-05-07 11:02:14] nicegraham: what does that actually mean?
+[2013-05-07 11:02:18] freynaud_: i understand it as : you can have 2 VMs, and use that to do some testing and mess up with the system without braking the host
+[2013-05-07 11:02:51] freynaud_: but you cannot use the 3 os at the same time, basically having 3 osx for the price of 1
+[2013-05-07 11:02:57] freynaud, quitting. (Ping timeout: 245 seconds)
+[2013-05-07 11:03:19] nicegraham: ok
+[2013-05-07 11:03:26] nicegraham: I need more licences so
+[2013-05-07 11:03:33] freynaud_: If you are a commercial enterprise or educational institution, to download, install, use and run one (1) copy of the Apple Software
+[2013-05-07 11:03:39] nicegraham: unless we crack this multi sim nut
+[2013-05-07 11:03:43] freynaud_: that's what I see in Mountain lion
+[2013-05-07 11:04:05] nicegraham: [which I'd prefer obviously]
+[2013-05-07 11:04:16] freynaud_: that's what you have when you buy one license, so for me, N license give you N osx to run
+[2013-05-07 11:04:35] freynaud_: I don't see that limit of number of instance of OSX per physical mac anywhere
