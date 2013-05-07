@@ -58,3 +58,16 @@
 [2013-05-07 10:39:13] nicegraham: ah, so there's more work than I thought
 [2013-05-07 10:39:18] freynaud: :)
 [2013-05-07 10:39:42] nicegraham: libimobile as in real devices? or can that be used on sims too?
+[2013-05-07 10:41:22] freynaud: they never did simulator before
+[2013-05-07 10:41:29] freynaud: they're in the business of real device
+[2013-05-07 10:41:44] freynaud: but the hardest part is figuring out the protocol, and that is done
+[2013-05-07 10:42:08] freynaud: the part left is the transport protocol, which is different for real device ( usb ) and sim ( inter process comm ? )
+[2013-05-07 10:42:11] santiycr, joining. (#ios-driver)
+[2013-05-07 10:42:19] nicegraham: so that can be used instead of instruments right?
+[2013-05-07 10:42:28] freynaud: it would make sense to build that in libimobile if the transport protocol is sorted out
+[2013-05-07 10:42:41] freynaud: nicegraham: yes
+[2013-05-07 10:43:04] freynaud: apple's instruments is hardcoded to a single sim
+[2013-05-07 10:43:38] nicegraham: so with that removed we could just start multiple sims? but need to figure out how to direct requests?
+[2013-05-07 10:44:13] freynaud: with that removed, we could talk to multiple sim, assuming we can start mutliple sim
+[2013-05-07 10:44:23] freynaud: the start multi sim , facebook has done
+[2013-05-07 10:45:01] nicegraham: what are they doing with multi sims then if they aren't suing instruments?
