@@ -161,3 +161,18 @@
 [2013-05-07 12:19:29] nicegraham: it doesn't work because of our requirements
 [2013-05-07 12:19:36] nicegraham: needing to chmod things and the likes
 [2013-05-07 12:19:51] AutomatedTester: chmod should work
+[2013-05-07 12:20:12] nicegraham: sudo chmod
+[2013-05-07 12:20:18] AutomatedTester: should workl
+[2013-05-07 12:20:25] AutomatedTester: if its not working thats a bug in travis
+[2013-05-07 12:20:34] nicegraham: hmm, I'm pretty sure there's something that doesn't
+[2013-05-07 12:20:41] AutomatedTester: we get a VM with all access for 12 minutes
+[2013-05-07 12:20:46] AutomatedTester: the time might have changed now
+[2013-05-07 12:20:50] AutomatedTester: but the VM is ours
+[2013-05-07 12:20:58] AutomatedTester: and at the end it gets deleted
+[2013-05-07 12:21:36] AutomatedTester: its a nice hermetic environment
+[2013-05-07 12:21:47] nicegraham: I don't know what the problem is then
+[2013-05-07 12:22:02] nicegraham: he definitely said something was blocking it
+[2013-05-07 12:22:06] AutomatedTester: if you see the issue let me know and I will help
+[2013-05-07 12:22:20] nicegraham: I only spoke to him the other day about it
+[2013-05-07 12:22:25] AutomatedTester: the travis guys will be interested too
+[2013-05-07 12:22:30] nicegraham: :log
