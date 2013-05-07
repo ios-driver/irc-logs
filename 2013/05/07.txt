@@ -151,3 +151,4 @@
 [2013-05-07 11:29:32] santiycr, quitting. (Quit: Leaving.)
 [2013-05-07 11:31:17] santiycr, joining. (#ios-driver)
 [2013-05-07 11:41:38] lukeis, joining. (#ios-driver)
+[2013-05-07 11:46:21] santiycr, quitting. (Quit: Leaving.)
