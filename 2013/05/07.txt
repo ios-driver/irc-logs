@@ -76,3 +76,15 @@
 [2013-05-07 10:48:34] nirvdrum: multi sim sure would be nice :-P
 [2013-05-07 10:48:54] nirvdrum: I'm looking at ESXi for now.
 [2013-05-07 10:49:12] nicegraham: is that not against the eula?
+[2013-05-07 10:50:14] nirvdrum: If the host is MacOS X Server, you can virtualize now.
+[2013-05-07 10:50:27] nirvdrum: You have to host on Mac hardware though.
+[2013-05-07 10:51:25] nicegraham: so you won't be running osx as the base os?
+[2013-05-07 10:52:51] nirvdrum: I don't know how ESXi is installed on this machine.  It's leased hardware and they set it up.  I assume they handled the licensing correctly.
+[2013-05-07 10:53:12] nirvdrum: Is ESXi the bare metal one?  VMWare has had so many server products, I've lost track.
+[2013-05-07 10:53:25] nicegraham: yeah, it's a maze
+[2013-05-07 10:53:43] freynaud: nicegraham: yes
+[2013-05-07 10:53:56] freynaud: nirvdrum: yes, it is
+[2013-05-07 10:54:02] nicegraham: I have esxi running on a dell box for linux vms and some datapower
+[2013-05-07 10:54:13] freynaud: you can install ESX as the host on a mac mini, and start from there
+[2013-05-07 10:54:33] nirvdrum: Ahh.  Well maybe they changed their licensing again with Mountain Lion?  Mountain Lion changed the whole MacOS X Server product around, since it stopped being its own OS.
+[2013-05-07 10:54:51] nirvdrum: freynaud: That's what I'm doing via macstadium.com
