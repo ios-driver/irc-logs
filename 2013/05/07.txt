@@ -44,3 +44,6 @@
 [2013-05-07 10:18:26] dawagner: I haven't really had a chance to get to it, unfortunately :(
 [2013-05-07 10:18:46] freynaud: ok
 [2013-05-07 10:18:56] freynaud: I'm working on better real device support
+[2013-05-07 10:27:44] nirvdrum: nicegraham: If you check the grid before requesting a browser like I do, be aware that the simulator can take a while to start up.  I don't think a slot is marked as used until it has an external session.
+[2013-05-07 10:28:42] nicegraham: we do, good to know
+[2013-05-07 10:29:08] nicegraham: freynaud: any eta on when we can run multiple sims on the same desktop? :)
