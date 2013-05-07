@@ -147,3 +147,5 @@
 [2013-05-07 11:13:08] nirvdrum: nicegraham: That 500 error fix should help out with grid problems, I think. ^
 [2013-05-07 11:13:19] nicegraham: slick!
 [2013-05-07 11:13:27] nicegraham: will give that a bash in the morning
+[2013-05-07 11:28:24] dawagner, quitting. (Quit: Leaving)
+[2013-05-07 11:29:32] santiycr, quitting. (Quit: Leaving.)
