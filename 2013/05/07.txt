@@ -122,3 +122,12 @@
 [2013-05-07 11:04:05] nicegraham: [which I'd prefer obviously]
 [2013-05-07 11:04:16] freynaud_: that's what you have when you buy one license, so for me, N license give you N osx to run
 [2013-05-07 11:04:35] freynaud_: I don't see that limit of number of instance of OSX per physical mac anywhere
+[2013-05-07 11:06:01] nicegraham: no, I don't think that's a problem. I just thought we were getting a 3 for 1 on it
+[2013-05-07 11:06:14] nirvdrum: This is all a bit silly.  Isn't a license only like $30 these days?
+[2013-05-07 11:06:39] freynaud_: nirvdrum: yes. I bought 20 license for 250£
+[2013-05-07 11:06:52] freynaud_: no point trying to save on the license fee. They're really cheap
+[2013-05-07 11:07:27] nirvdrum: Right.  They're not $400 Windows 7 licenses.
+[2013-05-07 11:07:54] nicegraham: fair point
+[2013-05-07 11:08:07] freynaud_: nirvdrum: yes. I bought 20 license for 250£
+[2013-05-07 11:08:07] nirvdrum: So, the original point stands.  Virtualization may be the solution for increasing density unless multisim comes around.
+[2013-05-07 11:08:21] nirvdrum: I figure I can get 3 - 4 VMs on a single mac mini with an i7.
