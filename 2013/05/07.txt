@@ -194,3 +194,4 @@
 [2013-05-07 12:39:18] nicegraham: https://travis-ci.org/ios-driver/ios-driver/builds/6277152
 [2013-05-07 12:39:50] nicegraham: the errors are pretty basic
 [2013-05-07 12:41:25] santiycr, quitting. (Quit: Leaving.)
+[2013-05-07 13:07:40] lukeis, joining. (#ios-driver)
