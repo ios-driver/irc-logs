@@ -40,3 +40,7 @@
 [2013-05-07 09:54:17] freynaud: how is the chrome testing going ? :)
 [2013-05-07 10:01:55] admc1, joining. (#ios-driver)
 [2013-05-07 10:03:13] coreygriggs, quitting. (Quit: coreygriggs)
+[2013-05-07 10:18:17] dawagner: freynaud: Hello!
+[2013-05-07 10:18:26] dawagner: I haven't really had a chance to get to it, unfortunately :(
+[2013-05-07 10:18:46] freynaud: ok
+[2013-05-07 10:18:56] freynaud: I'm working on better real device support
