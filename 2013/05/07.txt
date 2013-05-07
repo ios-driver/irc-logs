@@ -47,3 +47,14 @@
 [2013-05-07 10:27:44] nirvdrum: nicegraham: If you check the grid before requesting a browser like I do, be aware that the simulator can take a while to start up.  I don't think a slot is marked as used until it has an external session.
 [2013-05-07 10:28:42] nicegraham: we do, good to know
 [2013-05-07 10:29:08] nicegraham: freynaud: any eta on when we can run multiple sims on the same desktop? :)
+[2013-05-07 10:37:38] freynaud: nicegraham: that will be hard
+[2013-05-07 10:38:05] nicegraham: I thought it was solved?
+[2013-05-07 10:38:06] freynaud: nicegraham: we need facebook to open source their stuff
+[2013-05-07 10:38:21] freynaud: then you need to re-write the instruments client for simulator
+[2013-05-07 10:38:29] freynaud: it's solved on paper :)
+[2013-05-07 10:38:44] nicegraham: have they done the rewrite already too?
+[2013-05-07 10:38:55] freynaud: not that I know
+[2013-05-07 10:39:06] freynaud: if it's done, it will be libimobile
+[2013-05-07 10:39:13] nicegraham: ah, so there's more work than I thought
+[2013-05-07 10:39:18] freynaud: :)
+[2013-05-07 10:39:42] nicegraham: libimobile as in real devices? or can that be used on sims too?
