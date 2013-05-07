@@ -23,3 +23,4 @@
 [2013-05-07 06:58:54] nirvdrum: But I missed the prompt and so the new session creation timed out.  Now the hub thinks the session is in use while the node has nothing running.
 [2013-05-07 06:59:02] nicegraham: lukeis created a python script to do it
 [2013-05-07 06:59:04] nirvdrum: And it's been stuck that way for a little while.
+[2013-05-07 07:14:16] nirvdrum: Anyway, I'm debugging this now.  Not fun.
