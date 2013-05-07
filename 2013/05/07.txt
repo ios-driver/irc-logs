@@ -12,3 +12,14 @@
 [2013-05-07 06:48:03] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to gh-pages: http://git.io/rpLrlA
 [2013-05-07 06:48:03] ios-driver-git: ios-driver/gh-pages 5c483f3 Graham Abell: fixing issue link to point to new repo
 [2013-05-07 06:48:03] ios-driver-git, leaving. (#ios-driver)
+[2013-05-07 06:56:25] nicegraham: nirvdrum: saw your note yesterday
+[2013-05-07 06:56:44] nicegraham: your header problem was due to the client timing out?
+[2013-05-07 06:57:06] nirvdrum: I'm not sure if they were the same problem or not.  But when I fixed the client timeout, the header one seemed to go away.
+[2013-05-07 06:57:24] nicegraham: ok
+[2013-05-07 06:57:28] nirvdrum: That was all over a LAN.  Now I'm testing this out in a staging environment with a lot more clients and slower links.
+[2013-05-07 06:57:34] nirvdrum: It's not holding up very well :-/
+[2013-05-07 06:57:43] nicegraham: what part?
+[2013-05-07 06:58:27] nirvdrum: I can't get that auth dialog for the simulator to go away on its own, despite following the docs on the web page.
+[2013-05-07 06:58:54] nirvdrum: But I missed the prompt and so the new session creation timed out.  Now the hub thinks the session is in use while the node has nothing running.
+[2013-05-07 06:59:02] nicegraham: lukeis created a python script to do it
+[2013-05-07 06:59:04] nirvdrum: And it's been stuck that way for a little while.
