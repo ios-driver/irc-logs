@@ -239,3 +239,14 @@
 [2013-05-07 14:46:48] lukeis1: hehe, sorry
 [2013-05-07 14:47:09] lukeis1: tribal knowledge it seems
 [2013-05-07 14:48:36] lukeis1: it was mainly cause we added the faq at the time of the 0.6 release :) and it was fresh in our minds i think
+[2013-05-07 14:51:47] ios-driver-git, joining. (#ios-driver)
+[2013-05-07 14:51:47] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to gh-pages: http://git.io/mVJeeQ
+[2013-05-07 14:51:47] ios-driver-git: ios-driver/gh-pages 20041e4 Luke Inman-Semerau: taskport needs to get allow-root set to true (correcting instructions on faq)
+[2013-05-07 14:51:47] ios-driver-git, leaving. (#ios-driver)
+[2013-05-07 14:52:23] lukeis1: nirvdrum: there ya go :-D
+[2013-05-07 14:52:25] ios-driver-git, joining. (#ios-driver)
+[2013-05-07 14:52:26] ios-driver-git: [ios-driver] lukeis force-pushed gh-pages from 20041e4 to c315ece: http://git.io/Mt2g7Q
+[2013-05-07 14:52:26] ios-driver-git: ios-driver/gh-pages c315ece Luke Inman-Semerau: taskport needs to get allow-root set to true (correcting instructions on faq)
+[2013-05-07 14:52:26] ios-driver-git, leaving. (#ios-driver)
+[2013-05-07 14:52:42] nirvdrum: Thanks.
+[2013-05-07 14:53:03] lukeis1: you can slap me in a month ;)
