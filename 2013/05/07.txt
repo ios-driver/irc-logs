@@ -154,3 +154,10 @@
 [2013-05-07 11:46:21] santiycr, quitting. (Quit: Leaving.)
 [2013-05-07 11:59:37] freynaud_, quitting. (Ping timeout: 245 seconds)
 [2013-05-07 12:14:56] lukeis, quitting. (Quit: Leaving.)
+[2013-05-07 12:17:04] nirvdrum: Who set up Travis?
+[2013-05-07 12:17:34] AutomatedTester: the OSS project or for this project
+[2013-05-07 12:17:51] AutomatedTester: ?
+[2013-05-07 12:19:14] nicegraham: freynaud did for this project
+[2013-05-07 12:19:29] nicegraham: it doesn't work because of our requirements
+[2013-05-07 12:19:36] nicegraham: needing to chmod things and the likes
+[2013-05-07 12:19:51] AutomatedTester: chmod should work
