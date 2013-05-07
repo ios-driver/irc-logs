@@ -8,3 +8,7 @@
 [2013-05-07 06:24:44] nirvdrum, joining. (#ios-driver)
 [2013-05-07 06:35:41] coreygriggs, joining. (#ios-driver)
 [2013-05-07 06:41:29] nirvdrum: Oh yeah.  This thing is all sorts of messed up with grid.
+[2013-05-07 06:48:03] ios-driver-git, joining. (#ios-driver)
+[2013-05-07 06:48:03] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to gh-pages: http://git.io/rpLrlA
+[2013-05-07 06:48:03] ios-driver-git: ios-driver/gh-pages 5c483f3 Graham Abell: fixing issue link to point to new repo
+[2013-05-07 06:48:03] ios-driver-git, leaving. (#ios-driver)
