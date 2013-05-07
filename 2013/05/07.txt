@@ -212,3 +212,21 @@
 [2013-05-07 14:24:21] lukeis1, joining. (#ios-driver)
 [2013-05-07 14:25:31] eHon, joining. (#ios-driver)
 [2013-05-07 14:28:09] eHon, quitting. (Client Quit)
+[2013-05-07 14:40:33] Hammertime38, quitting. (Remote host closed the connection)
+[2013-05-07 14:40:57] nirvdrum: lukeis1: Just the man I wanted to see.
+[2013-05-07 14:41:05] lukeis1: heh
+[2013-05-07 14:41:08] lukeis1: hello nirvdrum
+[2013-05-07 14:41:46] nirvdrum: The FAQ entry on Developer Tools Access needs to take control of another process is a lie: http://ios-driver.github.io/ios-driver/faq.html
+[2013-05-07 14:41:55] nirvdrum: Or I'm very incompetent.
+[2013-05-07 14:42:05] nirvdrum: But nicegraham said you had a script or something to fix it?
+[2013-05-07 14:42:23] lukeis1: did you edit the /etc/authorization file?
+[2013-05-07 14:42:30] nirvdrum: Yes.
+[2013-05-07 14:42:31] lukeis1: the script merely edits the file
+[2013-05-07 14:42:48] nirvdrum: The value listed in the FAQ is what was there though.
+[2013-05-07 14:43:09] nirvdrum: It wasn't: <string>rule</string>.  It was <string>user</string>
+[2013-05-07 14:43:30] lukeis1: oh it's really wrong in the readme
+[2013-05-07 14:43:45] AutomatedTester: night all
+[2013-05-07 14:43:50] nirvdrum: Later AutomatedTester
+[2013-05-07 14:43:53] lukeis1: need to change <false/>  to <true/>   under <key>allow-root
+[2013-05-07 14:44:37] lukeis1: nirvdrum: that make sense ^ ?
+[2013-05-07 14:44:56] nirvdrum: Yeah.  Let me take a look.
