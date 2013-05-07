@@ -29,3 +29,4 @@
 [2013-05-07 07:57:36] nirvdrum: Sorry, I should ask in #selenium
 [2013-05-07 08:23:02] lukeis, joining. (#ios-driver)
 [2013-05-07 08:33:30] smccarthy, joining. (#ios-driver)
+[2013-05-07 09:13:11] jlipps, joining. (#ios-driver)
