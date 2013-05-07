@@ -197,3 +197,10 @@
 [2013-05-07 13:07:40] lukeis, joining. (#ios-driver)
 [2013-05-07 13:13:10] lukeis, quitting. (Quit: Leaving.)
 [2013-05-07 13:41:09] santiycr, joining. (#ios-driver)
+[2013-05-07 14:11:11] Hammertime38, joining. (#ios-driver)
+[2013-05-07 14:12:54] nirvdrum: AutomatedTester: Sorry, for this project.  It's been set up, but libimobile can't be checked out, so the build fails every time.
+[2013-05-07 14:13:15] AutomatedTester: why cant it be checked out?
+[2013-05-07 14:13:32] nirvdrum: Because it uses the SSH form of the git URL.
+[2013-05-07 14:13:40] nirvdrum: So you need to have SSH keys set up.
+[2013-05-07 14:13:52] AutomatedTester: ok, so we can do secure ENVs then
+[2013-05-07 14:14:31] nirvdrum: We could also change the git submodule URL.  But I'd imagine that would make it harder for Francois to push from it.
