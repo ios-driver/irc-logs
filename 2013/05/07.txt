@@ -36,3 +36,5 @@
 [2013-05-07 09:25:11] ios-driver-git, leaving. (#ios-driver)
 [2013-05-07 09:26:51] freynaud, joining. (#ios-driver)
 [2013-05-07 09:40:20] jlipps, quitting. (Quit: Leaving.)
+[2013-05-07 09:54:05] freynaud: dawagner: Hello
+[2013-05-07 09:54:17] freynaud: how is the chrome testing going ? :)
