@@ -131,3 +131,19 @@
 [2013-05-07 11:08:07] freynaud_: nirvdrum: yes. I bought 20 license for 250£
 [2013-05-07 11:08:07] nirvdrum: So, the original point stands.  Virtualization may be the solution for increasing density unless multisim comes around.
 [2013-05-07 11:08:21] nirvdrum: I figure I can get 3 - 4 VMs on a single mac mini with an i7.
+[2013-05-07 11:11:23] freynaud_: 2 is fine with a dual core
+[2013-05-07 11:11:31] freynaud_: 3, the CPU was the bottle neck for me
+[2013-05-07 11:11:35] freynaud_: 16Gb, SSD
+[2013-05-07 11:11:51] nicegraham: same here
+[2013-05-07 11:11:55] nicegraham: 20gb ram
+[2013-05-07 11:12:08] nicegraham: it started getting flaky about 3
+[2013-05-07 11:12:25] nicegraham: ^above
+[2013-05-07 11:12:26] ios-driver-git, joining. (#ios-driver)
+[2013-05-07 11:12:26] ios-driver-git: [ios-driver] nirvdrum pushed 2 new commits to dev: http://git.io/Nc0Vag
+[2013-05-07 11:12:26] ios-driver-git: ios-driver/dev ed5c98e Kevin Menard: Explicitly set the number of instances to 1 for the simulator.
+[2013-05-07 11:12:26] ios-driver-git: ios-driver/dev d3797f2 Kevin Menard: Make sure we return a 500 and properly formed WebDriver error response.
+[2013-05-07 11:12:26] ios-driver-git, leaving. (#ios-driver)
+[2013-05-07 11:12:26] nirvdrum: i7 is quad core.
+[2013-05-07 11:13:08] nirvdrum: nicegraham: That 500 error fix should help out with grid problems, I think. ^
+[2013-05-07 11:13:19] nicegraham: slick!
+[2013-05-07 11:13:27] nicegraham: will give that a bash in the morning
