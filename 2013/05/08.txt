@@ -54,3 +54,4 @@
 [2013-05-08 14:36:41] smccarthy, quitting. (Remote host closed the connection)
 [2013-05-08 15:12:00] coreygriggs, quitting. (Quit: coreygriggs)
 [2013-05-08 16:01:29] lukeis, quitting. (Quit: Leaving.)
+[2013-05-08 16:29:01] smccarthy, joining. (#ios-driver)
