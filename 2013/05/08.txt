@@ -27,3 +27,5 @@
 [2013-05-08 12:18:57] dawagner, quitting. (Quit: Leaving)
 [2013-05-08 12:25:00] nirvdrum: Ooh, a new one today: "WARNING IDEServlet.doGet  null"
 [2013-05-08 12:31:56] ddary, quitting. (Quit: ddary)
+[2013-05-08 13:00:51] admc1, joining. (#ios-driver)
+[2013-05-08 13:03:21] ddary, joining. (#ios-driver)
