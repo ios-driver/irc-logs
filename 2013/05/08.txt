@@ -40,3 +40,12 @@
 [2013-05-08 13:29:19] nicegraham: works for everyone else :)
 [2013-05-08 13:29:36] lukeis: sorry man :-/  i don't remember anything else, it was 1 mere change to the authorization file
 [2013-05-08 13:29:42] nirvdrum: I have three machines it's not working on, so I may very well be the problem.
+[2013-05-08 13:30:02] nirvdrum: lukeis: Mind gisting up that file?  Or at least that section?
+[2013-05-08 13:30:04] nicegraham: have you found any other guides to do it?
+[2013-05-08 13:30:16] lukeis: nirvdrum: no prob, one sec
+[2013-05-08 13:30:25] nirvdrum: I didn't look.  I didn't count on this room being full of liars.
+[2013-05-08 13:30:37] lukeis: heh
+[2013-05-08 13:30:51] nicegraham: sudo /usr/sbin/DevToolsSecurity --enable
+[2013-05-08 13:32:10] nicegraham: god there seems to be a bunch of ways to do it
+[2013-05-08 13:32:24] nicegraham: or at least different solutions work for different people
+[2013-05-08 13:34:17] lukeis: biab
