@@ -34,3 +34,9 @@
 [2013-05-08 13:19:45] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/ZVm58Q
 [2013-05-08 13:19:45] ios-driver-git: ios-driver/dev 913f970 Darragh Grace: adding UIASwitch + related methods
 [2013-05-08 13:19:45] ios-driver-git, leaving. (#ios-driver)
+[2013-05-08 13:27:27] lukeis: nirvdrum: hmmm, i don't believe so
+[2013-05-08 13:28:49] nirvdrum: Well, that certainly sucks.
+[2013-05-08 13:29:15] nicegraham: you're special nirvdrum
+[2013-05-08 13:29:19] nicegraham: works for everyone else :)
+[2013-05-08 13:29:36] lukeis: sorry man :-/  i don't remember anything else, it was 1 mere change to the authorization file
+[2013-05-08 13:29:42] nirvdrum: I have three machines it's not working on, so I may very well be the problem.
