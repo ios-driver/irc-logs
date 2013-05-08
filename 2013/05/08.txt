@@ -24,3 +24,4 @@
 [2013-05-08 12:00:33] ddary, joining. (#ios-driver)
 [2013-05-08 12:01:53] admc1, quitting. (Quit: Leaving.)
 [2013-05-08 12:12:03] Hammertime38, joining. (#ios-driver)
+[2013-05-08 12:18:57] dawagner, quitting. (Quit: Leaving)
