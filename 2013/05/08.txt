@@ -3,3 +3,4 @@
 [2013-05-08 02:01:20] freynaud, joining. (#ios-driver)
 [2013-05-08 02:04:03] admc1, joining. (#ios-driver)
 [2013-05-08 02:06:24] admc1, quitting. (Client Quit)
+[2013-05-08 02:45:44] smccarthy, quitting. (Remote host closed the connection)
