@@ -49,3 +49,4 @@
 [2013-05-08 13:32:10] nicegraham: god there seems to be a bunch of ways to do it
 [2013-05-08 13:32:24] nicegraham: or at least different solutions work for different people
 [2013-05-08 13:34:17] lukeis: biab
+[2013-05-08 13:35:28] nirvdrum: nicegraham: I'll have to try that.
