@@ -53,3 +53,4 @@
 [2013-05-08 13:59:33] ddary, quitting. (Quit: ddary)
 [2013-05-08 14:36:41] smccarthy, quitting. (Remote host closed the connection)
 [2013-05-08 15:12:00] coreygriggs, quitting. (Quit: coreygriggs)
+[2013-05-08 16:01:29] lukeis, quitting. (Quit: Leaving.)
