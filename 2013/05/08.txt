@@ -21,3 +21,5 @@
 [2013-05-08 11:17:41] smccarthy, joining. (#ios-driver)
 [2013-05-08 11:22:43] admc1, joining. (#ios-driver)
 [2013-05-08 11:49:54] coreygriggs, joining. (#ios-driver)
+[2013-05-08 12:00:33] ddary, joining. (#ios-driver)
+[2013-05-08 12:01:53] admc1, quitting. (Quit: Leaving.)
