@@ -6,3 +6,4 @@
 [2013-05-08 02:45:44] smccarthy, quitting. (Remote host closed the connection)
 [2013-05-08 05:50:14] freynaud: any JNA expert in here ?
 [2013-05-08 05:53:12] nicegraham: not me anyway :)
+[2013-05-08 05:59:17] dawagner, joining. (#ios-driver)
