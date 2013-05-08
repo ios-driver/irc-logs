@@ -29,3 +29,4 @@
 [2013-05-08 12:31:56] ddary, quitting. (Quit: ddary)
 [2013-05-08 13:00:51] admc1, joining. (#ios-driver)
 [2013-05-08 13:03:21] ddary, joining. (#ios-driver)
+[2013-05-08 13:11:06] nirvdrum: lukeis: Are you sure there aren't any other changes needed for that auth dialog?  I made the change you suggested and I've rebooted, but I still see the dialog.
