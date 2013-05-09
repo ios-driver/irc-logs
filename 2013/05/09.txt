@@ -31,3 +31,6 @@
 [2013-05-09 11:34:33] dawagner, quitting. (Quit: Leaving)
 [2013-05-09 11:35:47] admc1, joining. (#ios-driver)
 [2013-05-09 11:41:47] santiycr, joining. (#ios-driver)
+[2013-05-09 12:00:27] nirvdrum: nicegraham: I think the normal grid nodes just always register on a schedule and the hub just no-ops if they're already registered.
+[2013-05-09 12:00:27] nirvdrum: I'd have to double-check that.
+[2013-05-09 12:03:04] nicegraham: so they just keep registering?
