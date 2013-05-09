@@ -18,3 +18,11 @@
 [2013-05-09 11:18:33] nicegraham: awesome! :)
 [2013-05-09 11:19:46] nicegraham: nivrdrum: your response change has improved reliability
 [2013-05-09 11:19:59] nicegraham: we're seeing that location error less, but we did see it once today
+[2013-05-09 11:20:04] nicegraham: keeping an eye on it
+[2013-05-09 11:21:24] nirvdrum: nicegraham: Cool.  I still need to get heartbeats in place and auto re-registration going.
+[2013-05-09 11:21:52] nicegraham: in grid or ios-driver/
+[2013-05-09 11:21:53] nicegraham: ?
+[2013-05-09 11:22:02] nirvdrum: ios-driver.
+[2013-05-09 11:22:17] nirvdrum: Grid already does heart beats and auto unregisters ios-driver nodes when they go down.
+[2013-05-09 11:22:33] nicegraham: ok... so what's missing?
+[2013-05-09 11:24:02] santiycr, quitting. (Quit: Leaving.)
