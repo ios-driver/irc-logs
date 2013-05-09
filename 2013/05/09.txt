@@ -34,3 +34,4 @@
 [2013-05-09 12:00:27] nirvdrum: nicegraham: I think the normal grid nodes just always register on a schedule and the hub just no-ops if they're already registered.
 [2013-05-09 12:00:27] nirvdrum: I'd have to double-check that.
 [2013-05-09 12:03:04] nicegraham: so they just keep registering?
+[2013-05-09 12:33:02] santiycr, quitting. (Quit: Leaving.)
