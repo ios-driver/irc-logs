@@ -29,3 +29,4 @@
 [2013-05-09 11:30:03] nirvdrum: If an ios-driver node loses a connection to the grid, it doesn't reestablish it.
 [2013-05-09 11:30:52] nicegraham: and the heart beats are two-way?
 [2013-05-09 11:34:33] dawagner, quitting. (Quit: Leaving)
+[2013-05-09 11:35:47] admc1, joining. (#ios-driver)
