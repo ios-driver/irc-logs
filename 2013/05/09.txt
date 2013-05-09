@@ -4,3 +4,4 @@
 [2013-05-09 08:26:43] lukeis, joining. (#ios-driver)
 [2013-05-09 08:26:52] lukeis, quitting. (Client Quit)
 [2013-05-09 08:27:45] lukeis, joining. (#ios-driver)
+[2013-05-09 08:53:40] smccarthy, joining. (#ios-driver)
