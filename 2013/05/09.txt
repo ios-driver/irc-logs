@@ -15,3 +15,6 @@
 [2013-05-09 11:12:01] nirvdrum: Soft launch.  But it's live.
 [2013-05-09 11:12:11] lukeis: nice!
 [2013-05-09 11:12:15] nirvdrum: Although I found a small bug with screenshotting in iPhone 5 in portrait.  Probably an off by 1px thing.
+[2013-05-09 11:18:33] nicegraham: awesome! :)
+[2013-05-09 11:19:46] nicegraham: nivrdrum: your response change has improved reliability
+[2013-05-09 11:19:59] nicegraham: we're seeing that location error less, but we did see it once today
