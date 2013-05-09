@@ -7,3 +7,11 @@
 [2013-05-09 08:53:40] smccarthy, joining. (#ios-driver)
 [2013-05-09 10:22:34] admc1, joining. (#ios-driver)
 [2013-05-09 10:31:35] santiycr, joining. (#ios-driver)
+[2013-05-09 11:11:03] admc1, quitting. (Quit: Leaving.)
+[2013-05-09 11:11:43] nirvdrum: And we're live.
+[2013-05-09 11:11:51] lukeis: mogotest?
+[2013-05-09 11:11:57] nirvdrum: Yeah.
+[2013-05-09 11:11:59] lukeis: o/
+[2013-05-09 11:12:01] nirvdrum: Soft launch.  But it's live.
+[2013-05-09 11:12:11] lukeis: nice!
+[2013-05-09 11:12:15] nirvdrum: Although I found a small bug with screenshotting in iPhone 5 in portrait.  Probably an off by 1px thing.
