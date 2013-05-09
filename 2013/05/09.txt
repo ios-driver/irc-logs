@@ -1,3 +1,6 @@
 [2013-05-09 03:04:53] admc1, quitting. (Quit: Leaving.)
 [2013-05-09 05:25:48] dawagner, joining. (#ios-driver)
 [2013-05-09 06:15:27] nirvdrum, joining. (#ios-driver)
+[2013-05-09 08:26:43] lukeis, joining. (#ios-driver)
+[2013-05-09 08:26:52] lukeis, quitting. (Client Quit)
+[2013-05-09 08:27:45] lukeis, joining. (#ios-driver)
