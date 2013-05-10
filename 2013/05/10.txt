@@ -39,3 +39,4 @@
 [2013-05-10 06:48:34] smccarthy, joining. (#ios-driver)
 [2013-05-10 07:05:16] admc1, joining. (#ios-driver)
 [2013-05-10 07:09:25] admc1, quitting. (Read error: Operation timed out)
+[2013-05-10 07:11:32] freynaud, quitting. (Quit: freynaud)
