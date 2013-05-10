@@ -54,3 +54,4 @@
 [2013-05-10 08:01:40] freynaud, quitting. (Client Quit)
 [2013-05-10 08:06:32] admc1, joining. (#ios-driver)
 [2013-05-10 08:10:55] admc1, quitting. (Ping timeout: 256 seconds)
+[2013-05-10 08:21:31] nirvdrum: So if I didn't explicitly say it yesterday, thanks for the help everyone.  Getting this out the door in around 2 weeks wouldn't have been possible otherwise.
