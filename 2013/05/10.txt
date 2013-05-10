@@ -23,3 +23,10 @@
 [2013-05-10 05:32:47] admc1, joining. (#ios-driver)
 [2013-05-10 05:37:25] admc1, quitting. (Ping timeout: 276 seconds)
 [2013-05-10 06:03:37] admc1, joining. (#ios-driver)
+[2013-05-10 06:08:29] admc1, quitting. (Ping timeout: 256 seconds)
+[2013-05-10 06:08:58] ios-driver-git, joining. (#ios-driver)
+[2013-05-10 06:08:58] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to gh-pages: http://git.io/5f2xog
+[2013-05-10 06:08:58] ios-driver-git: ios-driver/gh-pages 1bdd5ea Francois Reynaud: auto version update.
+[2013-05-10 06:08:58] ios-driver-git: ios-driver/gh-pages 26c883a Francois Reynaud: Merge branch 'gh-pages' of github.com:ios-driver/ios-driver into gh-pages
+[2013-05-10 06:08:58] ios-driver-git, leaving. (#ios-driver)
+[2013-05-10 06:09:33] nirvdrum, joining. (#ios-driver)
