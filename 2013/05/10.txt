@@ -66,3 +66,12 @@
 [2013-05-10 08:54:39] freynaud, quitting. (Client Quit)
 [2013-05-10 09:08:12] admc1, joining. (#ios-driver)
 [2013-05-10 09:13:13] admc1, quitting. (Ping timeout: 276 seconds)
+[2013-05-10 09:35:15] ddary, leaving. (#ios-driver)
+[2013-05-10 09:35:50] nicegraham: nirvdrum: you're welcome and well done!
+[2013-05-10 09:37:57] lukeis: nirvdrum: buys beers for nicegraham at seleniumconf… and poors one on my head ;)
+[2013-05-10 09:39:03] nirvdrum: Oh honey, is that how they teach you to spell out on the west coast?
+[2013-05-10 09:39:03] admc1, joining. (#ios-driver)
+[2013-05-10 09:39:23] lukeis: pour* ;)
+[2013-05-10 09:39:25] nirvdrum: Heh.
+[2013-05-10 09:39:26] lukeis: ha
+[2013-05-10 09:39:40] lukeis: wasn't reading what i was typing
