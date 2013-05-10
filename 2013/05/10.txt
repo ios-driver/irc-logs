@@ -30,3 +30,4 @@
 [2013-05-10 06:08:58] ios-driver-git: ios-driver/gh-pages 26c883a Francois Reynaud: Merge branch 'gh-pages' of github.com:ios-driver/ios-driver into gh-pages
 [2013-05-10 06:08:58] ios-driver-git, leaving. (#ios-driver)
 [2013-05-10 06:09:33] nirvdrum, joining. (#ios-driver)
+[2013-05-10 06:28:49] freynaud_, joining. (#ios-driver)
