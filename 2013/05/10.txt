@@ -79,3 +79,5 @@
 [2013-05-10 09:41:06] lukeis: heh
 [2013-05-10 09:43:43] admc1, quitting. (Ping timeout: 264 seconds)
 [2013-05-10 09:49:07] lukeis: nirvdrum: I'd like to take a look, but won't have time today till this afternoon
+[2013-05-10 09:50:08] nicegraham: Ditto, but it'll be Monday before I can investigate... I'm off to the pub :-)
+[2013-05-10 09:50:49] nirvdrum: Feel free to ping me.  Today is web caching day, so I'm around.
