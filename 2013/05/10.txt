@@ -102,3 +102,5 @@
 [2013-05-10 13:55:58] admc2, joining. (#ios-driver)
 [2013-05-10 13:57:10] admc3, joining. (#ios-driver)
 [2013-05-10 13:58:11] admc1, quitting. (Ping timeout: 246 seconds)
+[2013-05-10 14:01:10] admc2, quitting. (Ping timeout: 276 seconds)
+[2013-05-10 14:04:17] Hammertime38, quitting. (Read error: Operation timed out)
