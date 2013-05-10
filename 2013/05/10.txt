@@ -9,3 +9,4 @@
 [2013-05-10 01:37:07] nicegraham: yeah, well I started the FAQ
 [2013-05-10 01:37:12] nicegraham: we just need to add to it
 [2013-05-10 01:37:19] nicegraham: and add the ability to link directly to a point on it
+[2013-05-10 02:30:32] admc1, quitting. (Quit: Leaving.)
