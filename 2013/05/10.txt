@@ -3,3 +3,6 @@
 [2013-05-10 00:27:26] freynaud: it's actually a great victory for me
 [2013-05-10 00:27:52] freynaud: I can go back to my boss and tell him : see those doc you forced me to write : useless, people don't read them
 [2013-05-10 00:27:59] freynaud: never again^^
+[2013-05-10 00:31:07] freynaud: I think we need a FAQ
+[2013-05-10 00:31:17] freynaud: that way we can quote that in the mailing list
+[2013-05-10 00:31:28] freynaud: safari on real device, 4.x SDK etc
