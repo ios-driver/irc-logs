@@ -64,3 +64,4 @@
 [2013-05-09 20:58:29] nirvdrum, joining. (#ios-driver)
 [2013-05-09 21:34:32] admc1, joining. (#ios-driver)
 [2013-05-09 21:42:38] ddary, joining. (#ios-driver)
+[2013-05-09 21:50:24] nirvdrum, quitting. (Ping timeout: 272 seconds)
