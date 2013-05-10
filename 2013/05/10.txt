@@ -82,3 +82,4 @@
 [2013-05-10 09:50:08] nicegraham: Ditto, but it'll be Monday before I can investigate... I'm off to the pub :-)
 [2013-05-10 09:50:49] nirvdrum: Feel free to ping me.  Today is web caching day, so I'm around.
 [2013-05-10 10:00:29] lukeis, quitting. (Quit: Leaving.)
+[2013-05-10 10:09:57] admc1, joining. (#ios-driver)
