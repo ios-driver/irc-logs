@@ -49,3 +49,5 @@
 [2013-05-10 07:49:55] freynaud, joining. (#ios-driver)
 [2013-05-10 07:50:34] freynaud, quitting. (Client Quit)
 [2013-05-10 07:54:00] freynaud, joining. (#ios-driver)
+[2013-05-10 07:55:05] freynaud, quitting. (Client Quit)
+[2013-05-10 07:58:51] freynaud, joining. (#ios-driver)
