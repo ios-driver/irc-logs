@@ -6,3 +6,6 @@
 [2013-05-10 00:31:07] freynaud: I think we need a FAQ
 [2013-05-10 00:31:17] freynaud: that way we can quote that in the mailing list
 [2013-05-10 00:31:28] freynaud: safari on real device, 4.x SDK etc
+[2013-05-10 01:37:07] nicegraham: yeah, well I started the FAQ
+[2013-05-10 01:37:12] nicegraham: we just need to add to it
+[2013-05-10 01:37:19] nicegraham: and add the ability to link directly to a point on it
