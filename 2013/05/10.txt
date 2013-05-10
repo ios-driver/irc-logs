@@ -90,3 +90,4 @@
 [2013-05-10 11:05:33] lukeis, quitting. (Ping timeout: 245 seconds)
 [2013-05-10 11:12:20] lukeis1, quitting. (Quit: Leaving.)
 [2013-05-10 11:12:48] lukeis, joining. (#ios-driver)
+[2013-05-10 11:27:14] dawagner, quitting. (Quit: Leaving)
