@@ -67,3 +67,4 @@
 [2013-05-09 21:50:24] nirvdrum, quitting. (Ping timeout: 272 seconds)
 [2013-05-09 22:05:07] ddary, leaving. (#ios-driver)
 [2013-05-09 22:17:08] smccarthy, quitting. (Remote host closed the connection)
+[2013-05-09 23:18:36] freynaud, joining. (#ios-driver)
