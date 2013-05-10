@@ -97,3 +97,4 @@
 [2013-05-10 13:13:32] Hammertime38, quitting. (Remote host closed the connection)
 [2013-05-10 13:16:38] santiycr, quitting. (Quit: Leaving.)
 [2013-05-10 13:19:42] santiycr, joining. (#ios-driver)
+[2013-05-10 13:21:01] Hammertime38, joining. (#ios-driver)
