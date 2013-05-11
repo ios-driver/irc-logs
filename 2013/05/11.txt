@@ -11,3 +11,6 @@
 [2013-05-11 10:07:39] nirvdrum, quitting. (*.net *.split)
 [2013-05-11 10:14:27] smccarthy, quitting. (Remote host closed the connection)
 [2013-05-11 11:14:43] nirvdrum_, quitting. (*.net *.split)
+[2013-05-11 11:15:07] admc1, quitting. (*.net *.split)
+[2013-05-11 11:15:43] AutomatedTester, quitting. (*.net *.split)
+[2013-05-11 11:16:32] nicegraham, quitting. (*.net *.split)
