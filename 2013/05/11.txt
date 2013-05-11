@@ -1,3 +1,4 @@
 [2013-05-11 03:04:07] admc, joining. (#ios-driver)
 [2013-05-11 03:31:04] admc, quitting. (Quit: Leaving.)
 [2013-05-11 06:19:56] freynaud, joining. (#ios-driver)
+[2013-05-11 07:19:40] smccarthy, joining. (#ios-driver)
