@@ -8,3 +8,4 @@
 [2013-05-11 08:02:23] nirvdrum, joining. (#ios-driver)
 [2013-05-11 08:33:27] admc1, joining. (#ios-driver)
 [2013-05-11 10:02:42] nirvdrum_, joining. (#ios-driver)
+[2013-05-11 10:07:39] nirvdrum, quitting. (*.net *.split)
