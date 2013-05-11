@@ -115,3 +115,4 @@
 [2013-05-10 19:05:57] nirvdrum, joining. (#ios-driver)
 [2013-05-10 19:53:23] admc2, quitting. (*.net *.split)
 [2013-05-10 19:53:30] nirvdrum, quitting. (Ping timeout: 264 seconds)
+[2013-05-10 19:58:05] smccarthy, quitting. (Ping timeout: 255 seconds)
