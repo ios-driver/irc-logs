@@ -5,3 +5,4 @@
 [2013-05-12 03:36:28] freynaud, quitting. (Ping timeout: 256 seconds)
 [2013-05-12 03:36:28] freynaud_, changing nick to freynaud.
 [2013-05-12 03:58:24] admc1, quitting. (Quit: Leaving.)
+[2013-05-12 04:08:28] freynaud, quitting. (Quit: freynaud)
