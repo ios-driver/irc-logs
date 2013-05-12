@@ -25,3 +25,4 @@
 [2013-05-11 16:45:30] smccarthy, joining. (#ios-driver)
 [2013-05-11 19:08:04] santiycr, joining. (#ios-driver)
 [2013-05-11 19:11:28] santiycr, quitting. (Client Quit)
+[2013-05-11 19:47:00] admc, joining. (#ios-driver)
