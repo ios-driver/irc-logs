@@ -28,3 +28,4 @@
 [2013-05-13 10:41:35] lukeis: confused pointers… I know enough C to know that's a world of pain if that happens
 [2013-05-13 10:43:00] freynaud: worked fine enough for strings
 [2013-05-13 10:43:07] freynaud: then there was this char***
+[2013-05-13 11:05:55] admc1, joining. (#ios-driver)
