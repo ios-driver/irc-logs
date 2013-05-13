@@ -38,3 +38,4 @@
 [2013-05-12 13:48:43] admc1, joining. (#ios-driver)
 [2013-05-12 13:51:19] admc1, quitting. (Client Quit)
 [2013-05-12 15:36:54] admc1, joining. (#ios-driver)
+[2013-05-12 18:34:51] smccarthy, joining. (#ios-driver)
