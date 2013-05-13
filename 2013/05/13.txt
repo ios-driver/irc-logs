@@ -11,3 +11,4 @@
 [2013-05-13 09:04:08] lukeis, joining. (#ios-driver)
 [2013-05-13 09:59:40] lukeis, quitting. (Quit: Leaving.)
 [2013-05-13 10:06:45] santiycr, joining. (#ios-driver)
+[2013-05-13 10:18:36] smccarthy, quitting. (*.net *.split)
