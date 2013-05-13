@@ -14,3 +14,10 @@
 [2013-05-13 10:18:36] smccarthy, quitting. (*.net *.split)
 [2013-05-13 10:24:38] smccarthy, joining. (#ios-driver)
 [2013-05-13 10:26:48] lukeis, joining. (#ios-driver)
+[2013-05-13 10:38:16] freynaud: JNA mapping is a pain.
+[2013-05-13 10:38:30] freynaud: anyone interested in sharing that pain ? :)
+[2013-05-13 10:39:07] lukeis: i'm not even sure what that is :)
+[2013-05-13 10:39:28] freynaud: bridge between C and Java
+[2013-05-13 10:39:40] freynaud: verbosity of java, with C memory managt
+[2013-05-13 10:39:41] lukeis: oh, that does sound painful
+[2013-05-13 10:39:51] freynaud: best of both world
