@@ -31,3 +31,4 @@
 [2013-05-13 11:05:55] admc1, joining. (#ios-driver)
 [2013-05-13 11:13:11] nirvdrum, joining. (#ios-driver)
 [2013-05-13 11:20:20] admc1, quitting. (*.net *.split)
+[2013-05-13 11:39:44] admc1, joining. (#ios-driver)
