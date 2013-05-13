@@ -7,3 +7,4 @@
 [2013-05-13 07:34:21] freynaud, quitting. (Quit: freynaud)
 [2013-05-13 07:40:15] nirvdrum, quitting. (Ping timeout: 252 seconds)
 [2013-05-13 07:42:29] freynaud, joining. (#ios-driver)
+[2013-05-13 08:22:06] smccarthy, joining. (#ios-driver)
