@@ -30,3 +30,4 @@
 [2013-05-13 10:43:07] freynaud: then there was this char***
 [2013-05-13 11:05:55] admc1, joining. (#ios-driver)
 [2013-05-13 11:13:11] nirvdrum, joining. (#ios-driver)
+[2013-05-13 11:20:20] admc1, quitting. (*.net *.split)
