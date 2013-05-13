@@ -21,3 +21,10 @@
 [2013-05-13 10:39:40] freynaud: verbosity of java, with C memory managt
 [2013-05-13 10:39:41] lukeis: oh, that does sound painful
 [2013-05-13 10:39:51] freynaud: best of both world
+[2013-05-13 10:40:10] freynaud: there is an automatic generator for it
+[2013-05-13 10:40:16] freynaud: that seems to work
+[2013-05-13 10:40:25] freynaud: but gets confused by some pointers
+[2013-05-13 10:40:33] freynaud: and with C, that doesn't get far
+[2013-05-13 10:41:35] lukeis: confused pointers… I know enough C to know that's a world of pain if that happens
+[2013-05-13 10:43:00] freynaud: worked fine enough for strings
+[2013-05-13 10:43:07] freynaud: then there was this char***
