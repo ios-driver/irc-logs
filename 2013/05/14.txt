@@ -39,3 +39,4 @@
 [2013-05-14 07:58:21] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-05-14 08:25:30] dawagner, quitting. (Read error: Operation timed out)
 [2013-05-14 08:30:25] dawagner, joining. (#ios-driver)
+[2013-05-14 08:39:06] smccarthy, joining. (#ios-driver)
