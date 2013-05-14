@@ -22,3 +22,6 @@
 [2013-05-14 06:14:31] nicegraham: looks like something else is missing too
 [2013-05-14 06:29:59] freynaud: ah, crap
 [2013-05-14 06:30:13] freynaud: Martin changed the build system :)
+[2013-05-14 06:36:40] nicegraham: ah, no problem
+[2013-05-14 06:37:11] nicegraham: can all the dependencies be packaged? or do we need to install libimobile ourselves?
+[2013-05-14 06:37:20] nicegraham: I had a look on the site and it's a bit confusing tbh
