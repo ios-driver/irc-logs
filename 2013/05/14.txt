@@ -11,3 +11,8 @@
 [2013-05-14 05:55:30] freynaud, joining. (#ios-driver)
 [2013-05-14 05:55:40] freynaud: Hello
 [2013-05-14 05:55:51] freynaud: nicegraham:the lib is missing
+[2013-05-14 06:03:34] ios-driver-git, joining. (#ios-driver)
+[2013-05-14 06:03:34] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to dev: http://git.io/ZmJO5Q
+[2013-05-14 06:03:34] ios-driver-git: ios-driver/dev aee36e4 Francois Reynaud: updating submodule to fix missing dep issue
+[2013-05-14 06:03:34] ios-driver-git: ios-driver/dev 01a6e4c Francois Reynaud: Merge branch 'dev' of github.com:ios-driver/ios-driver into dev
+[2013-05-14 06:03:34] ios-driver-git, leaving. (#ios-driver)
