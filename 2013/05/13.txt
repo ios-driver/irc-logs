@@ -60,3 +60,4 @@
 [2013-05-13 22:42:27] santiycr, quitting. (Client Quit)
 [2013-05-13 22:46:11] nirvdrum, quitting. (Read error: Operation timed out)
 [2013-05-13 23:04:10] freynaud, joining. (#ios-driver)
+[2013-05-13 23:07:19] freynaud, quitting. (Client Quit)
