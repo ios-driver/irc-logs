@@ -53,3 +53,7 @@
 [2013-05-14 10:09:22] nicegraham: actually this issue is a bit different because they are getting the alert
 [2013-05-14 10:09:36] nirvdrum: Oh, his issue is different.  He needs to just accept the dialog.
 [2013-05-14 10:09:39] nicegraham: but they want to permanently accept it / ignore that error
+[2013-05-14 10:10:38] nirvdrum: I don't think that's possible.
+[2013-05-14 10:10:47] *nicegraham is heading home...'
+[2013-05-14 10:11:20] nirvdrum: It's pretty trivial to handle the dialog in client code.  And if you can do it once, you can do it every time *shrug*
+[2013-05-14 10:13:30] nirvdrum: freynaud: What still needs to be done for the 0.7.0 release?
