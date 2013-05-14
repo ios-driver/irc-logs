@@ -85,3 +85,4 @@
 [2013-05-14 15:34:51] Hammertime38, quitting. (Remote host closed the connection)
 [2013-05-14 15:41:38] Hammertime38, joining. (#ios-driver)
 [2013-05-14 16:08:46] admc2, joining. (#ios-driver)
+[2013-05-14 16:10:55] admc1, quitting. (Ping timeout: 260 seconds)
