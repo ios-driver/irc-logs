@@ -44,3 +44,12 @@
 [2013-05-14 10:02:47] nicegraham: an issue was raised about the same thing earlier
 [2013-05-14 10:02:53] nirvdrum: The self-signed cert?
 [2013-05-14 10:04:33] nicegraham: trying to dig out the issue/post now
+[2013-05-14 10:05:18] nirvdrum: If it's that one, the way around it for now is set the URL via executeScript and window.location = url
+[2013-05-14 10:05:57] nirvdrum: Apparently the actual fix requires changing the navigation code to send key strokes for entering the URL.  The current way through Instruments doesn't work when self-signed certs are used.
+[2013-05-14 10:06:25] nicegraham: #53
+[2013-05-14 10:06:54] nicegraham: wow, that's an odd one
+[2013-05-14 10:07:12] nirvdrum: I don't know where Francois got with it.  My understanding was there was another bug with sending the keys.
+[2013-05-14 10:08:24] freynaud, joining. (#ios-driver)
+[2013-05-14 10:09:22] nicegraham: actually this issue is a bit different because they are getting the alert
+[2013-05-14 10:09:36] nirvdrum: Oh, his issue is different.  He needs to just accept the dialog.
+[2013-05-14 10:09:39] nicegraham: but they want to permanently accept it / ignore that error
