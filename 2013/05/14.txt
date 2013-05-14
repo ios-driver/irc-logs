@@ -20,3 +20,4 @@
 [2013-05-14 06:12:18] nicegraham: I reckoned that might be the case
 [2013-05-14 06:14:21] nicegraham: freynaud: https://gist.github.com/nicegraham/5575760
 [2013-05-14 06:14:31] nicegraham: looks like something else is missing too
+[2013-05-14 06:29:59] freynaud: ah, crap
