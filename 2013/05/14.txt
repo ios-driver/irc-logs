@@ -60,3 +60,6 @@
 [2013-05-14 10:33:30] dawagner, quitting. (Quit: Leaving)
 [2013-05-14 11:06:19] nicegraham: freynaud: as above and also is there anything you need help with to finish for your demo?
 [2013-05-14 11:35:54] admc1, joining. (#ios-driver)
+[2013-05-14 13:06:53] admc2, joining. (#ios-driver)
+[2013-05-14 13:08:44] lukeis, joining. (#ios-driver)
+[2013-05-14 13:09:28] admc1, quitting. (Ping timeout: 276 seconds)
