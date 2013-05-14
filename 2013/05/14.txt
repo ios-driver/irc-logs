@@ -59,3 +59,4 @@
 [2013-05-14 10:13:30] nirvdrum: freynaud: What still needs to be done for the 0.7.0 release?
 [2013-05-14 10:33:30] dawagner, quitting. (Quit: Leaving)
 [2013-05-14 11:06:19] nicegraham: freynaud: as above and also is there anything you need help with to finish for your demo?
+[2013-05-14 11:35:54] admc1, joining. (#ios-driver)
