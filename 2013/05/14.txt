@@ -25,3 +25,11 @@
 [2013-05-14 06:36:40] nicegraham: ah, no problem
 [2013-05-14 06:37:11] nicegraham: can all the dependencies be packaged? or do we need to install libimobile ourselves?
 [2013-05-14 06:37:20] nicegraham: I had a look on the site and it's a bit confusing tbh
+[2013-05-14 06:40:24] freynaud: it's C :)
+[2013-05-14 06:40:35] freynaud: when you're used to maven and java, it's a bit of a shock
+[2013-05-14 06:41:42] nicegraham: yep
+[2013-05-14 06:41:52] nicegraham: I felt like a proper newbie :)
+[2013-05-14 06:42:57] freynaud: this is a tuff one
+[2013-05-14 06:43:09] freynaud: I checked with Martin, the guy working on libimobile
+[2013-05-14 06:43:27] freynaud: we need to be careful the way we build the library
+[2013-05-14 06:43:47] nicegraham: ok
