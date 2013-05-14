@@ -37,3 +37,4 @@
 [2013-05-14 07:35:59] freynaud, quitting. (*.net *.split)
 [2013-05-14 07:39:59] freynaud, joining. (#ios-driver)
 [2013-05-14 07:58:21] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2013-05-14 08:25:30] dawagner, quitting. (Read error: Operation timed out)
