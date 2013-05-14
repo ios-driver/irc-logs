@@ -57,3 +57,4 @@
 [2013-05-14 10:10:47] *nicegraham is heading home...'
 [2013-05-14 10:11:20] nirvdrum: It's pretty trivial to handle the dialog in client code.  And if you can do it once, you can do it every time *shrug*
 [2013-05-14 10:13:30] nirvdrum: freynaud: What still needs to be done for the 0.7.0 release?
+[2013-05-14 10:33:30] dawagner, quitting. (Quit: Leaving)
