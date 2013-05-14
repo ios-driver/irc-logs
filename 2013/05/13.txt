@@ -56,3 +56,4 @@
 [2013-05-13 22:14:53] freynaud, joining. (#ios-driver)
 [2013-05-13 22:17:58] smccarthy, quitting. (Remote host closed the connection)
 [2013-05-13 22:24:30] freynaud, quitting. (Quit: freynaud)
+[2013-05-13 22:39:08] santiycr, joining. (#ios-driver)
