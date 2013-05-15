@@ -32,3 +32,8 @@
 [2013-05-15 11:54:08] Atul, joining. (#ios-driver)
 [2013-05-15 11:58:54] Atul: Hi All
 [2013-05-15 11:59:54] Atul: I'm new to Java(primarily working on .NET), How can I compile the source code, given the latest JDK
+[2013-05-15 12:00:43] lukeis: of ios-driver?  you need to also have maven installed… then you can just run 'mvn install' in the source tree (after getting the submodules too)
+[2013-05-15 12:00:48] Atul: also are we dropping the latest .jar file anywhere.. basically want to try out with all the fixes that went in after 0.6
+[2013-05-15 12:01:24] lukeis: it hasn't been bundled / released yet… although we should do that soon
+[2013-05-15 12:01:46] Atul: thanks
+[2013-05-15 12:04:33] santiycr, joining. (#ios-driver)
