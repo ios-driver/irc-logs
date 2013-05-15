@@ -23,3 +23,4 @@
 [2013-05-15 09:41:48] AutomatedTester, quitting. (Ping timeout: 245 seconds)
 [2013-05-15 09:54:02] AutomatedTester, joining. (#ios-driver)
 [2013-05-15 09:57:41] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2013-05-15 10:20:56] lukeis, joining. (#ios-driver)
