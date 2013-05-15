@@ -4,3 +4,4 @@
 [2013-05-15 01:49:59] santiycr, quitting. (Quit: Leaving.)
 [2013-05-15 01:51:32] santiycr, joining. (#ios-driver)
 [2013-05-15 01:54:41] santiycr, quitting. (Client Quit)
+[2013-05-15 03:21:32] freynaud, joining. (#ios-driver)
