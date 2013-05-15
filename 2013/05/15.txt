@@ -26,3 +26,5 @@
 [2013-05-15 10:20:56] lukeis, joining. (#ios-driver)
 [2013-05-15 10:45:17] lukeis, quitting. (Quit: Leaving.)
 [2013-05-15 10:47:40] dawagner, quitting. (Quit: Leaving)
+[2013-05-15 11:00:42] lukeis, joining. (#ios-driver)
+[2013-05-15 11:01:05] lukeis, quitting. (Client Quit)
