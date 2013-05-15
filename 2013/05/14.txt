@@ -88,3 +88,4 @@
 [2013-05-14 16:10:55] admc1, quitting. (Ping timeout: 260 seconds)
 [2013-05-14 16:29:58] smccarthy2, quitting. (Remote host closed the connection)
 [2013-05-14 16:42:42] nirvdrum, quitting. (Ping timeout: 264 seconds)
+[2013-05-14 17:40:06] admc2, quitting. (Quit: Leaving.)
