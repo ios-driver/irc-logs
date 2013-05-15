@@ -57,3 +57,4 @@
 [2013-05-15 13:23:48] admc1, quitting. (Quit: Leaving.)
 [2013-05-15 13:45:34] smccarthy, quitting. (Remote host closed the connection)
 [2013-05-15 13:54:59] Hammertime38, joining. (#ios-driver)
+[2013-05-15 16:19:49] Hammerti_, joining. (#ios-driver)
