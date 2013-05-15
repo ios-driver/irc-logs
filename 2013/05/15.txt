@@ -52,3 +52,6 @@
 [2013-05-15 12:46:35] nicegraham: and it's more complicated to package than anticipated
 [2013-05-15 12:46:59] nicegraham: so if you get the very latest you will be able to compile and run on simulators
 [2013-05-15 12:47:10] nicegraham: but real devices won't work - it'll throw an error
+[2013-05-15 13:22:01] Hammertime38, quitting. (Remote host closed the connection)
+[2013-05-15 13:22:24] lukeis, quitting. (Quit: Leaving.)
+[2013-05-15 13:23:48] admc1, quitting. (Quit: Leaving.)
