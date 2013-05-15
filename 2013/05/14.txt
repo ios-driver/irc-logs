@@ -96,3 +96,4 @@
 [2013-05-14 19:15:46] santiycr, quitting. (Quit: Leaving.)
 [2013-05-14 19:48:06] santiycr, joining. (#ios-driver)
 [2013-05-14 19:48:55] santiycr, quitting. (Client Quit)
+[2013-05-14 22:10:36] smccarthy, quitting. (Remote host closed the connection)
