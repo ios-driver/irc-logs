@@ -2,3 +2,5 @@
 [2013-05-15 00:53:38] freynaud, joining. (#ios-driver)
 [2013-05-15 01:00:49] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-05-15 01:49:59] santiycr, quitting. (Quit: Leaving.)
+[2013-05-15 01:51:32] santiycr, joining. (#ios-driver)
+[2013-05-15 01:54:41] santiycr, quitting. (Client Quit)
