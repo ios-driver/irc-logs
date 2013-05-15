@@ -13,3 +13,5 @@
 [2013-05-15 07:03:46] admc1, joining. (#ios-driver)
 [2013-05-15 07:06:56] admc1, quitting. (Client Quit)
 [2013-05-15 07:45:31] admc1, joining. (#ios-driver)
+[2013-05-15 08:00:31] millenium, quitting. (Quit: ~ Trillian - www.trillian.im ~)
+[2013-05-15 08:03:04] smccarthy, joining. (#ios-driver)
