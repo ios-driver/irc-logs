@@ -98,3 +98,5 @@
 [2013-05-14 19:48:55] santiycr, quitting. (Client Quit)
 [2013-05-14 22:10:36] smccarthy, quitting. (Remote host closed the connection)
 [2013-05-14 23:12:04] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2013-05-14 23:26:55] freynaud, joining. (#ios-driver)
+[2013-05-14 23:27:34] santiycr, joining. (#ios-driver)
