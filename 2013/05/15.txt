@@ -30,3 +30,5 @@
 [2013-05-15 11:01:05] lukeis, quitting. (Client Quit)
 [2013-05-15 11:05:55] lukeis, joining. (#ios-driver)
 [2013-05-15 11:54:08] Atul, joining. (#ios-driver)
+[2013-05-15 11:58:54] Atul: Hi All
+[2013-05-15 11:59:54] Atul: I'm new to Java(primarily working on .NET), How can I compile the source code, given the latest JDK
