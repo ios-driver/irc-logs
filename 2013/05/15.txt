@@ -9,3 +9,5 @@
 [2013-05-15 04:59:02] dawagner, joining. (#ios-driver)
 [2013-05-15 06:24:03] freynaud, joining. (#ios-driver)
 [2013-05-15 06:32:16] admc1, joining. (#ios-driver)
+[2013-05-15 07:03:24] admc1, quitting. (Read error: Connection reset by peer)
+[2013-05-15 07:03:46] admc1, joining. (#ios-driver)
