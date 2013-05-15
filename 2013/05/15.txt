@@ -12,3 +12,4 @@
 [2013-05-15 07:03:24] admc1, quitting. (Read error: Connection reset by peer)
 [2013-05-15 07:03:46] admc1, joining. (#ios-driver)
 [2013-05-15 07:06:56] admc1, quitting. (Client Quit)
+[2013-05-15 07:45:31] admc1, joining. (#ios-driver)
