@@ -43,3 +43,7 @@
 [2013-05-15 12:23:42] admc1, quitting. (Read error: Connection reset by peer)
 [2013-05-15 12:23:45] admc2, joining. (#ios-driver)
 [2013-05-15 12:30:16] Atul, quitting. (Quit: Page closed)
+[2013-05-15 12:40:42] admc1, joining. (#ios-driver)
+[2013-05-15 12:40:52] admc2, quitting. (Read error: Connection reset by peer)
+[2013-05-15 12:43:01] admc1, quitting. (Read error: Connection reset by peer)
+[2013-05-15 12:43:15] admc1, joining. (#ios-driver)
