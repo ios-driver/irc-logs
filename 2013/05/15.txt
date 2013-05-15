@@ -55,3 +55,4 @@
 [2013-05-15 13:22:01] Hammertime38, quitting. (Remote host closed the connection)
 [2013-05-15 13:22:24] lukeis, quitting. (Quit: Leaving.)
 [2013-05-15 13:23:48] admc1, quitting. (Quit: Leaving.)
+[2013-05-15 13:45:34] smccarthy, quitting. (Remote host closed the connection)
