@@ -14,3 +14,4 @@
 [2013-05-16 03:08:02] ios-driver-git, leaving. (#ios-driver)
 [2013-05-16 03:35:42] ddary, quitting. (Quit: ddary)
 [2013-05-16 04:19:56] ddary, joining. (#ios-driver)
+[2013-05-16 04:52:33] freynaud, joining. (#ios-driver)
