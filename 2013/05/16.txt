@@ -6,3 +6,9 @@
 [2013-05-16 01:17:47] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-05-16 01:31:31] ddary, joining. (#ios-driver)
 [2013-05-16 02:00:57] dgrace, leaving. (#ios-driver)
+[2013-05-16 03:08:02] ios-driver-git, joining. (#ios-driver)
+[2013-05-16 03:08:02] ios-driver-git: [ios-driver] nicegraham pushed 3 new commits to dev: http://git.io/H0HBbg
+[2013-05-16 03:08:02] ios-driver-git: ios-driver/dev 9b485b5 Graham Abell: updating maven dependencies to Java 7
+[2013-05-16 03:08:02] ios-driver-git: ios-driver/dev bf9b2f5 Graham Abell: removing dependency on GPL library and moving to builtin Java 7 java.nio.file.WatchService
+[2013-05-16 03:08:02] ios-driver-git: ios-driver/dev 76c211d Graham Abell: minor tidyup and bugfix
+[2013-05-16 03:08:02] ios-driver-git, leaving. (#ios-driver)
