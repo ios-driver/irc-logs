@@ -90,3 +90,4 @@
 [2013-05-16 09:22:05] ios-driver-git: ios-driver/gh-pages-dev f820d8f Graham Abell: Merge pull request #57 from orieken/gh-pages-dev...
 [2013-05-16 09:22:05] ios-driver-git, leaving. (#ios-driver)
 [2013-05-16 09:52:30] dawagner, quitting. (Quit: Leaving)
+[2013-05-16 11:13:32] admc1, joining. (#ios-driver)
