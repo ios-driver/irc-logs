@@ -84,3 +84,8 @@
 [2013-05-16 08:53:49] ios-driver-git, joining. (#ios-driver)
 [2013-05-16 08:53:50] ios-driver-git: [ios-driver] orieken opened pull request #57: Update inspector.html (gh-pages-dev...gh-pages-dev)  http://git.io/6pPG1w
 [2013-05-16 08:53:50] ios-driver-git, leaving. (#ios-driver)
+[2013-05-16 09:22:05] ios-driver-git, joining. (#ios-driver)
+[2013-05-16 09:22:05] ios-driver-git: [ios-driver] nicegraham pushed 2 new commits to gh-pages-dev: http://git.io/11jVzg
+[2013-05-16 09:22:05] ios-driver-git: ios-driver/gh-pages-dev e2a207f Oscar Rieken: Update inspector.html...
+[2013-05-16 09:22:05] ios-driver-git: ios-driver/gh-pages-dev f820d8f Graham Abell: Merge pull request #57 from orieken/gh-pages-dev...
+[2013-05-16 09:22:05] ios-driver-git, leaving. (#ios-driver)
