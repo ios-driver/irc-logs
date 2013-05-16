@@ -28,3 +28,26 @@
 [2013-05-16 05:54:31] nicegraham: we're running multiple vms on a single machine
 [2013-05-16 05:54:44] nicegraham: if we login at the same time on more than one of them
 [2013-05-16 05:54:52] nicegraham: at least one of the logins fails
+[2013-05-16 05:55:02] nicegraham: on the server side they're seeing the login post
+[2013-05-16 05:55:07] freynaud: login as in osx login ?
+[2013-05-16 05:55:14] nicegraham: but payload is empty
+[2013-05-16 05:55:17] nicegraham: no site login
+[2013-05-16 05:55:26] nicegraham: it's doing a post with parameters
+[2013-05-16 05:55:42] nicegraham: so one of the login's works and the username/password are sent
+[2013-05-16 05:55:47] freynaud: that has nothing to do with ios-driver does it ?
+[2013-05-16 05:55:56] nicegraham: I don't think so
+[2013-05-16 05:56:07] nicegraham: we're filling in the form and clicking 'login'
+[2013-05-16 05:56:27] freynaud: i've seen a lot of bugs on the site i test :)
+[2013-05-16 05:56:30] nicegraham: so if anything it's to do with the Vms / simulators / network
+[2013-05-16 05:56:38] freynaud: but i  don't think it's relevant for yours :)
+[2013-05-16 05:56:55] nicegraham: the devs are saying it's not their code
+[2013-05-16 05:56:58] freynaud: probably some wierd timeout issue
+[2013-05-16 05:57:12] nicegraham: it only happens when multiple logins happen at the same time
+[2013-05-16 05:57:12] freynaud: sure. The devs always produce bug free code
+[2013-05-16 05:57:16] nicegraham: from the same physical machine
+[2013-05-16 05:57:17] freynaud: it's well known
+[2013-05-16 05:57:20] nicegraham: :) i know
+[2013-05-16 05:58:02] nicegraham: https://gist.github.com/nicegraham/5591530
+[2013-05-16 05:58:10] freynaud: if they're sure enough to take the blame if anything goes wrong in prod, then you can just leave that alone and do something else :)
+[2013-05-16 05:58:11] nicegraham: that's what they're seeing on the server
+[2013-05-16 05:58:32] nicegraham: well, we can't run concurrently if we can't login....
