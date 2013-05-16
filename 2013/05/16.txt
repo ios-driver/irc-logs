@@ -2,3 +2,4 @@
 [2013-05-16 00:11:40] millenium, leaving. (#ios-driver)
 [2013-05-16 00:11:41] millenium, joining. (#ios-driver)
 [2013-05-16 00:17:10] ddary, leaving. (#ios-driver)
+[2013-05-16 00:56:13] freynaud, joining. (#ios-driver)
