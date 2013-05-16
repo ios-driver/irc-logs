@@ -69,3 +69,4 @@
 [2013-05-16 06:18:54] nicegraham: fair enough,
 [2013-05-16 06:19:04] nicegraham: I'll check with nirvdrum later as to what he's using
 [2013-05-16 06:19:21] nicegraham: and if he's seen anything weird like this post thing
+[2013-05-16 06:23:56] freynaud: he's using AC2
