@@ -18,3 +18,13 @@
 [2013-05-16 05:04:25] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-05-16 05:07:52] freynaud, joining. (#ios-driver)
 [2013-05-16 05:33:57] dawagner, joining. (#ios-driver)
+[2013-05-16 05:53:00] nicegraham: freynaud: yt?
+[2013-05-16 05:53:55] freynaud: yes
+[2013-05-16 05:54:00] nicegraham: cool
+[2013-05-16 05:54:09] nicegraham: we're debugging something odd here
+[2013-05-16 05:54:16] freynaud: ok
+[2013-05-16 05:54:19] nicegraham: wondering if you've come across anything similar
+[2013-05-16 05:54:20] freynaud: what's happening ?
+[2013-05-16 05:54:31] nicegraham: we're running multiple vms on a single machine
+[2013-05-16 05:54:44] nicegraham: if we login at the same time on more than one of them
+[2013-05-16 05:54:52] nicegraham: at least one of the logins fails
