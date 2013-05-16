@@ -56,3 +56,8 @@
 [2013-05-16 06:01:27] freynaud: is the POST done by some JS code ?
 [2013-05-16 06:02:09] freynaud: if yes, it could be that the VM are actually creating a slow-ish envt showing some timeing issues you don't see on a ream machine
 [2013-05-16 06:02:09] nicegraham: checking...
+[2013-05-16 06:10:53] nicegraham: freynaud: yeah it's a js post
+[2013-05-16 06:11:07] nicegraham: what VM software are you using btw? esx did you say?
+[2013-05-16 06:11:16] freynaud: eBay is VMware
+[2013-05-16 06:11:18] nicegraham: we're using vmware fusion
+[2013-05-16 06:11:22] freynaud: moving to openStack
