@@ -130,3 +130,8 @@
 [2013-05-16 18:30:19] Hammerti_, quitting. (Remote host closed the connection)
 [2013-05-16 19:02:03] jpj, quitting. (Quit: Computer has gone to sleep.)
 [2013-05-16 22:20:52] ddary, joining. (#ios-driver)
+[2013-05-16 23:20:44] ios-driver-git, joining. (#ios-driver)
+[2013-05-16 23:20:44] ios-driver-git: [ios-driver] nicegraham pushed 2 new commits to dev: http://git.io/DoVZGA
+[2013-05-16 23:20:44] ios-driver-git: ios-driver/dev 4f84213 Jason Barrett Prado: Make CoordinateUtils.getCenterPointFromResponse correctly calculate center of a rect
+[2013-05-16 23:20:44] ios-driver-git: ios-driver/dev 8f7ff5e Graham Abell: Merge pull request #58 from jasonprado/dev...
+[2013-05-16 23:20:44] ios-driver-git, leaving. (#ios-driver)
