@@ -48,3 +48,5 @@
 [2013-05-17 06:45:11] ddary_, quitting. (Quit: ddary_)
 [2013-05-17 06:53:44] dgrace: freynaud: Hey. I've been looking a bit at the location header problem.. seems to be happening when the server shuts down in an unexpected way.
 [2013-05-17 06:54:25] dgrace: when server restarted and connected to the Grid, instruments complains that the mobilesafari plist is readonly
+[2013-05-17 06:55:07] dgrace: i am getting status codes of 13 and 33, do you know what they mean?
+[2013-05-17 06:56:22] dgrace: i think the mobilesafari plist might be locked somehow by instruments
