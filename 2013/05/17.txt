@@ -76,3 +76,9 @@
 [2013-05-17 07:45:02] freynaud: let me know how that goes
 [2013-05-17 07:45:14] dgrace: will do
 [2013-05-17 08:29:28] ddary, quitting. (Quit: ddary)
+[2013-05-17 08:45:18] dgrace: freynaud: I made that change and I havent been able to repro the problem yet.
+[2013-05-17 08:45:29] freynaud: so there is hope :)
+[2013-05-17 08:45:34] freynaud: maybe that fixed the problem
+[2013-05-17 08:45:41] dgrace: I want to test it more thoroughly on Monday though :)
+[2013-05-17 08:46:27] dgrace: anyways, thanks for the suggestion, hopefully that will sort it. I'll report back early next week.
+[2013-05-17 08:48:01] dgrace, leaving. (#ios-driver)
