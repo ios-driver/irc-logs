@@ -41,3 +41,4 @@
 [2013-05-17 02:28:05] freynaud: biab
 [2013-05-17 02:28:19] dgrace: no worries, i'll reopen and keep looking, might come across something.
 [2013-05-17 02:49:23] arkmon, joining. (#ios-driver)
+[2013-05-17 03:59:59] freynaud, quitting. (Quit: freynaud)
