@@ -96,3 +96,4 @@
 [2013-05-17 15:01:55] lukeis, quitting. (Quit: Leaving.)
 [2013-05-17 15:14:16] Hammertime38, quitting. (Remote host closed the connection)
 [2013-05-17 15:17:00] arkmon, quitting. (Quit: ZZZzzz…)
+[2013-05-17 15:24:03] arkmon, joining. (#ios-driver)
