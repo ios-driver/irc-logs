@@ -50,3 +50,11 @@
 [2013-05-17 06:54:25] dgrace: when server restarted and connected to the Grid, instruments complains that the mobilesafari plist is readonly
 [2013-05-17 06:55:07] dgrace: i am getting status codes of 13 and 33, do you know what they mean?
 [2013-05-17 06:56:22] dgrace: i think the mobilesafari plist might be locked somehow by instruments
+[2013-05-17 07:00:22] freynaud: dgrace: I see
+[2013-05-17 07:01:00] freynaud: instruments doesn't complain, it's our code reading that plist
+[2013-05-17 07:01:21] freynaud: maybe we can try a workaround
+[2013-05-17 07:01:52] freynaud: when the server starts, do a copy of mobile safari.app
+[2013-05-17 07:02:15] dgrace: ok
+[2013-05-17 07:02:50] dgrace: do you know what the status codes mean? 13 and 33?
+[2013-05-17 07:04:53] freynaud_, joining. (#ios-driver)
+[2013-05-17 07:04:55] freynaud_: http://code.google.com/p/selenium/wiki/JsonWireProtocol#Response_Status_Codes
