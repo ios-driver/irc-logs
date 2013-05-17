@@ -18,3 +18,11 @@
 [2013-05-17 01:36:12] nicegraham: freynaud: that weird post problem yesterday is network related, the post leaves the machine with the payload intact, looks like the proxy is stripping the payload for some reason...
 [2013-05-17 02:10:53] dgrace: freynaud: Hi Francois, you there?
 [2013-05-17 02:13:25] freynaud, quitting. (Quit: freynaud)
+[2013-05-17 02:20:51] freynaud, joining. (#ios-driver)
+[2013-05-17 02:20:52] freynaud: dgrace: yes
+[2013-05-17 02:23:11] freynaud: but I'm about to step away from the computer again for 30 min
+[2013-05-17 02:23:14] freynaud: anything urgent ?
+[2013-05-17 02:23:56] dgrace: I am randomly getting this error 'Error forwarding the new session new session request for webdriver should contain a location header with the session'
+[2013-05-17 02:24:08] dgrace: as in this issue - https://github.com/ios-driver/ios-driver/issues/35
+[2013-05-17 02:24:14] dgrace: trying to figure out why
+[2013-05-17 02:24:46] freynaud: this is when you use it with grid right ?
