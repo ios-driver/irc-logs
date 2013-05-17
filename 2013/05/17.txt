@@ -1,2 +1,7 @@
 [2013-05-17 00:10:45] freynaud, joining. (#ios-driver)
 [2013-05-17 00:25:14] freynaud, quitting. (Quit: freynaud)
+[2013-05-17 00:36:19] freynaud, joining. (#ios-driver)
+[2013-05-17 00:36:40] nicegraham: freynaud: any ideas on #56
+[2013-05-17 00:36:52] nicegraham: problem parsing the xml from his device
+[2013-05-17 00:38:06] freynaud: i see
+[2013-05-17 00:38:10] freynaud: I thought I fixed that
