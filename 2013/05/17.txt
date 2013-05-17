@@ -73,3 +73,5 @@
 [2013-05-17 07:43:18] freynaud: we should get rid of those issues
 [2013-05-17 07:43:21] freynaud: hopefully
 [2013-05-17 07:43:33] dgrace: sounds good. i'll give it a bash!
+[2013-05-17 07:45:02] freynaud: let me know how that goes
+[2013-05-17 07:45:14] dgrace: will do
