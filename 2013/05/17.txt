@@ -62,3 +62,4 @@
 [2013-05-17 07:06:18] freynaud, quitting. (Ping timeout: 252 seconds)
 [2013-05-17 07:06:18] freynaud_, changing nick to freynaud.
 [2013-05-17 07:20:46] ddary, joining. (#ios-driver)
+[2013-05-17 07:37:51] dgrace: freynaud: what do you mean exactly when you say make a copy of mobile safari.app? make a copy within iPhoneSimulator6.1.sdk/Applications/, delete original one and rename the copy?
