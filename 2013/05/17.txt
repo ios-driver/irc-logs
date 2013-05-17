@@ -15,3 +15,4 @@
 [2013-05-17 00:42:06] nicegraham: ah
 [2013-05-17 00:42:16] nicegraham: good thinking :)
 [2013-05-17 01:29:10] dgrace, joining. (#ios-driver)
+[2013-05-17 01:36:12] nicegraham: freynaud: that weird post problem yesterday is network related, the post leaves the machine with the payload intact, looks like the proxy is stripping the payload for some reason...
