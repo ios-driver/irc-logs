@@ -63,3 +63,13 @@
 [2013-05-17 07:06:18] freynaud_, changing nick to freynaud.
 [2013-05-17 07:20:46] ddary, joining. (#ios-driver)
 [2013-05-17 07:37:51] dgrace: freynaud: what do you mean exactly when you say make a copy of mobile safari.app? make a copy within iPhoneSimulator6.1.sdk/Applications/, delete original one and rename the copy?
+[2013-05-17 07:40:53] freynaud: when you start instruments, you pass the app
+[2013-05-17 07:41:23] dawagner, joining. (#ios-driver)
+[2013-05-17 07:42:06] dgrace: ok, so i can use safari from a tmp location.. does not have to be in iPhoneSimulator6.1.sdk/Applications/ dir
+[2013-05-17 07:42:33] freynaud: correct
+[2013-05-17 07:42:47] freynaud: I think the only thing instruments actually uses is plist.info
+[2013-05-17 07:43:01] freynaud: so by copying safari to a "normal" place
+[2013-05-17 07:43:13] freynaud: like the user home, where he has full access
+[2013-05-17 07:43:18] freynaud: we should get rid of those issues
+[2013-05-17 07:43:21] freynaud: hopefully
+[2013-05-17 07:43:33] dgrace: sounds good. i'll give it a bash!
