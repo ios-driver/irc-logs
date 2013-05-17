@@ -46,3 +46,5 @@
 [2013-05-17 04:27:30] ddary_, joining. (#ios-driver)
 [2013-05-17 06:32:49] freynaud, joining. (#ios-driver)
 [2013-05-17 06:45:11] ddary_, quitting. (Quit: ddary_)
+[2013-05-17 06:53:44] dgrace: freynaud: Hey. I've been looking a bit at the location header problem.. seems to be happening when the server shuts down in an unexpected way.
+[2013-05-17 06:54:25] dgrace: when server restarted and connected to the Grid, instruments complains that the mobilesafari plist is readonly
