@@ -5,3 +5,12 @@
 [2013-05-17 00:36:52] nicegraham: problem parsing the xml from his device
 [2013-05-17 00:38:06] freynaud: i see
 [2013-05-17 00:38:10] freynaud: I thought I fixed that
+[2013-05-17 00:40:11] nicegraham: I can't repro it with my device on the same version
+[2013-05-17 00:41:14] freynaud: dev-kumar
+[2013-05-17 00:41:23] freynaud: my guess he is indian
+[2013-05-17 00:41:26] nicegraham: yeah
+[2013-05-17 00:41:33] nicegraham: pretty solid bet
+[2013-05-17 00:41:36] freynaud: we may have some not specified encoding somewhere
+[2013-05-17 00:41:47] freynaud: and it works with EU default, but not his
+[2013-05-17 00:42:06] nicegraham: ah
+[2013-05-17 00:42:16] nicegraham: good thinking :)
