@@ -14,3 +14,4 @@
 [2013-05-17 00:41:47] freynaud: and it works with EU default, but not his
 [2013-05-17 00:42:06] nicegraham: ah
 [2013-05-17 00:42:16] nicegraham: good thinking :)
+[2013-05-17 01:29:10] dgrace, joining. (#ios-driver)
