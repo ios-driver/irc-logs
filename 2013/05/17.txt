@@ -94,3 +94,4 @@
 [2013-05-17 13:36:04] admc1, joining. (#ios-driver)
 [2013-05-17 13:52:01] santiycr, joining. (#ios-driver)
 [2013-05-17 15:01:55] lukeis, quitting. (Quit: Leaving.)
+[2013-05-17 15:14:16] Hammertime38, quitting. (Remote host closed the connection)
