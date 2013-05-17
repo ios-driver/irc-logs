@@ -26,3 +26,17 @@
 [2013-05-17 02:24:08] dgrace: as in this issue - https://github.com/ios-driver/ios-driver/issues/35
 [2013-05-17 02:24:14] dgrace: trying to figure out why
 [2013-05-17 02:24:46] freynaud: this is when you use it with grid right ?
+[2013-05-17 02:25:04] dgrace: yes, when on the Grid
+[2013-05-17 02:25:15] dgrace: i'm having trouble repro'ing at the mo
+[2013-05-17 02:25:32] dgrace: wondering would you have any ideas why?
+[2013-05-17 02:25:41] dgrace: to point me in right direction
+[2013-05-17 02:25:56] freynaud: this issue is closed
+[2013-05-17 02:26:20] dgrace: yes, I think it should be reopened.. it's causing havoc with my runs at the moment
+[2013-05-17 02:27:19] freynaud: reopen then
+[2013-05-17 02:27:27] dgrace: looks like in IOSServlet.java process() method we are not getting a session id when setting up a new session
+[2013-05-17 02:27:40] freynaud: i don't know where it could come from
+[2013-05-17 02:27:45] dgrace: maybe an instruments crash or something..
+[2013-05-17 02:27:46] freynaud: I'll need to run more tests
+[2013-05-17 02:27:58] freynaud: and add more logs
+[2013-05-17 02:28:05] freynaud: biab
+[2013-05-17 02:28:19] dgrace: no worries, i'll reopen and keep looking, might come across something.
