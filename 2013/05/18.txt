@@ -46,3 +46,4 @@
 [2013-05-18 08:01:28] admc1, joining. (#ios-driver)
 [2013-05-18 08:04:23] freynaud: do you have the complete stack trace ?
 [2013-05-18 08:04:31] freynaud: and the code of your test ?
+[2013-05-18 08:05:55] admc1, quitting. (Ping timeout: 264 seconds)
