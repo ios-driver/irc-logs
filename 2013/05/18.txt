@@ -42,3 +42,4 @@
 [2013-05-18 07:22:02] arkmon: Hi
 [2013-05-18 07:23:24] arkmon: any active users?
 [2013-05-18 07:34:29] freynaud: what do you need ?
+[2013-05-18 07:50:56] arkmon: I have problem saving stepper value to core data. It says im sending double to ns number
