@@ -2,3 +2,5 @@
 [2013-05-18 00:18:49] dev-kumar, quitting. (Quit: Page closed)
 [2013-05-18 00:19:23] admc1, joining. (#ios-driver)
 [2013-05-18 00:23:24] admc1, quitting. (Ping timeout: 245 seconds)
+[2013-05-18 00:50:04] admc1, joining. (#ios-driver)
+[2013-05-18 00:54:14] admc1, quitting. (Ping timeout: 245 seconds)
