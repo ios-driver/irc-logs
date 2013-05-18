@@ -19,3 +19,4 @@
 [2013-05-18 03:11:15] arkmon, quitting. (Quit: ZZZzzz…)
 [2013-05-18 03:18:30] arkmon, joining. (#ios-driver)
 [2013-05-18 03:23:48] admc1, joining. (#ios-driver)
+[2013-05-18 03:28:43] admc1, quitting. (Ping timeout: 264 seconds)
