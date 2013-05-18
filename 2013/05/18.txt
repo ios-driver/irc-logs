@@ -59,3 +59,4 @@
 [2013-05-18 08:36:55] admc1, quitting. (Ping timeout: 260 seconds)
 [2013-05-18 08:42:25] freynaud, quitting. (Ping timeout: 248 seconds)
 [2013-05-18 09:03:09] admc1, joining. (#ios-driver)
+[2013-05-18 09:07:43] admc1, quitting. (Ping timeout: 264 seconds)
