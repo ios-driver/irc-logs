@@ -56,3 +56,4 @@
 [2013-05-18 08:27:39] freynaud: http://ios-driver.github.io/ios-driver/
 [2013-05-18 08:28:55] arkmon: ups, im sorry
 [2013-05-18 08:32:18] admc1, joining. (#ios-driver)
+[2013-05-18 08:36:55] admc1, quitting. (Ping timeout: 260 seconds)
