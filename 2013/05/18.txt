@@ -77,3 +77,4 @@
 [2013-05-18 17:40:27] arkmon, quitting. (Quit: ZZZzzz…)
 [2013-05-18 22:47:31] ddary, joining. (#ios-driver)
 [2013-05-18 22:52:30] ddary, quitting. (Quit: ddary)
+[2013-05-18 23:58:24] admc1, joining. (#ios-driver)
