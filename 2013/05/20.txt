@@ -51,3 +51,4 @@
 [2013-05-20 11:59:52] Oscar_Rieken, quitting. (Quit: Leaving.)
 [2013-05-20 12:03:17] Oscar, joining. (#ios-driver)
 [2013-05-20 12:04:07] Oscar, changing nick to Oscar_Rieken.
+[2013-05-20 12:05:37] nirvdrum, quitting. (Ping timeout: 248 seconds)
