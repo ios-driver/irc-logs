@@ -38,3 +38,5 @@
 [2013-05-20 10:26:32] dawagner, joining. (#ios-driver)
 [2013-05-20 10:32:50] freynaud, joining. (#ios-driver)
 [2013-05-20 10:34:21] lukeis, joining. (#ios-driver)
+[2013-05-20 10:45:18] santiycr, quitting. (Quit: Leaving.)
+[2013-05-20 10:48:35] Hammertime38, joining. (#ios-driver)
