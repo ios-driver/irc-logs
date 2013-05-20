@@ -47,3 +47,5 @@
 [2013-05-20 11:41:34] admc1, joining. (#ios-driver)
 [2013-05-20 11:46:47] jpj, joining. (#ios-driver)
 [2013-05-20 11:51:10] nirvdrum, joining. (#ios-driver)
+[2013-05-20 11:55:24] dawagner, quitting. (Quit: Leaving)
+[2013-05-20 11:59:52] Oscar_Rieken, quitting. (Quit: Leaving.)
