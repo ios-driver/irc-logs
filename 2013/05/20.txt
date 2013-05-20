@@ -63,3 +63,5 @@
 [2013-05-20 12:53:59] Oscar, joining. (#ios-driver)
 [2013-05-20 12:54:24] Oscar, quitting. (Client Quit)
 [2013-05-20 13:08:08] lukeis1, joining. (#ios-driver)
+[2013-05-20 13:10:12] lukeis, quitting. (Ping timeout: 260 seconds)
+[2013-05-20 13:10:13] freynaud, quitting. (Ping timeout: 248 seconds)
