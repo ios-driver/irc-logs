@@ -60,3 +60,5 @@
 [2013-05-20 12:45:59] Oscar, quitting. (Client Quit)
 [2013-05-20 12:46:49] Oscar, joining. (#ios-driver)
 [2013-05-20 12:47:16] Oscar, quitting. (Client Quit)
+[2013-05-20 12:53:59] Oscar, joining. (#ios-driver)
+[2013-05-20 12:54:24] Oscar, quitting. (Client Quit)
