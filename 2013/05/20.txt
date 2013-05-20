@@ -4,3 +4,4 @@
 [2013-05-20 03:10:18] ddary, quitting. (Client Quit)
 [2013-05-20 03:13:58] ddary, joining. (#ios-driver)
 [2013-05-20 03:14:18] dgrace, joining. (#ios-driver)
+[2013-05-20 03:20:16] ddary, quitting. (Quit: ddary)
