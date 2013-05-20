@@ -70,3 +70,5 @@
 [2013-05-20 13:28:34] santiycr, joining. (#ios-driver)
 [2013-05-20 13:44:37] jpj, quitting. (Quit: Computer has gone to sleep.)
 [2013-05-20 13:57:46] jpj, joining. (#ios-driver)
+[2013-05-20 14:04:52] lukeis, joining. (#ios-driver)
+[2013-05-20 14:04:52] lukeis1, quitting. (Read error: Connection reset by peer)
