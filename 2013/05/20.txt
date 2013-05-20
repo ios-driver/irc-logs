@@ -34,3 +34,4 @@
 [2013-05-20 09:59:17] lukeis1, quitting. (Client Quit)
 [2013-05-20 09:59:17] lukeis, quitting. (Read error: Connection reset by peer)
 [2013-05-20 10:08:32] nirvdrum, quitting. (Remote host closed the connection)
+[2013-05-20 10:11:17] nirvdrum, joining. (#ios-driver)
