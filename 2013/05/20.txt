@@ -1,3 +1,6 @@
 [2013-05-20 01:13:18] admc1, quitting. (Quit: Leaving.)
 [2013-05-20 01:14:13] arkmon_, quitting. (Quit: ZZZzzz…)
 [2013-05-20 03:05:33] ddary, joining. (#ios-driver)
+[2013-05-20 03:10:18] ddary, quitting. (Client Quit)
+[2013-05-20 03:13:58] ddary, joining. (#ios-driver)
+[2013-05-20 03:14:18] dgrace, joining. (#ios-driver)
