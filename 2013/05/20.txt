@@ -72,3 +72,5 @@
 [2013-05-20 13:57:46] jpj, joining. (#ios-driver)
 [2013-05-20 14:04:52] lukeis, joining. (#ios-driver)
 [2013-05-20 14:04:52] lukeis1, quitting. (Read error: Connection reset by peer)
+[2013-05-20 14:28:35] lukeis1, joining. (#ios-driver)
+[2013-05-20 14:28:35] lukeis1, quitting. (Client Quit)
