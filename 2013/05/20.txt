@@ -49,3 +49,5 @@
 [2013-05-20 11:51:10] nirvdrum, joining. (#ios-driver)
 [2013-05-20 11:55:24] dawagner, quitting. (Quit: Leaving)
 [2013-05-20 11:59:52] Oscar_Rieken, quitting. (Quit: Leaving.)
+[2013-05-20 12:03:17] Oscar, joining. (#ios-driver)
+[2013-05-20 12:04:07] Oscar, changing nick to Oscar_Rieken.
