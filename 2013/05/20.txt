@@ -42,3 +42,4 @@
 [2013-05-20 10:48:35] Hammertime38, joining. (#ios-driver)
 [2013-05-20 10:54:07] jpj, joining. (#ios-driver)
 [2013-05-20 11:07:27] jpj, quitting. (Ping timeout: 252 seconds)
+[2013-05-20 11:13:01] nirvdrum, quitting. (Ping timeout: 246 seconds)
