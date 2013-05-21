@@ -77,3 +77,4 @@
 [2013-05-20 14:32:47] lukeis, quitting. (Ping timeout: 260 seconds)
 [2013-05-20 15:07:26] lukeis, joining. (#ios-driver)
 [2013-05-20 16:01:49] lukeis, quitting. (Quit: Leaving.)
+[2013-05-20 16:56:04] Hammertime38, quitting. (Remote host closed the connection)
