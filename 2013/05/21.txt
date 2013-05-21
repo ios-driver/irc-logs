@@ -9,3 +9,4 @@
 [2013-05-21 03:44:35] ios-driver-git: ios-driver/dev 1ae37f8 Darragh Grace: Remove debugging info for location header grid problem and apply fix
 [2013-05-21 03:44:35] ios-driver-git: ios-driver/dev 5682ec5 Darragh Grace: Merge branch 'dev' of github.com:nicegraham/ios-driver into dev
 [2013-05-21 03:44:35] ios-driver-git, leaving. (#ios-driver)
+[2013-05-21 03:56:05] ddary, joining. (#ios-driver)
