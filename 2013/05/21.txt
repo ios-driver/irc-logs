@@ -72,3 +72,4 @@
 [2013-05-21 12:39:06] nirvdrum, quitting. (Remote host closed the connection)
 [2013-05-21 12:41:13] admc1, joining. (#ios-driver)
 [2013-05-21 12:45:15] jpj, quitting. (Quit: Computer has gone to sleep.)
+[2013-05-21 12:58:21] arkmon_, joining. (#ios-driver)
