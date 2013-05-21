@@ -45,3 +45,4 @@
 [2013-05-21 07:42:45] arkmon_, quitting. (Quit: ZZZzzz…)
 [2013-05-21 07:50:12] arkmon_, joining. (#ios-driver)
 [2013-05-21 07:59:48] Oscar1, quitting. (Quit: Leaving.)
+[2013-05-21 08:04:04] Oscar1, joining. (#ios-driver)
