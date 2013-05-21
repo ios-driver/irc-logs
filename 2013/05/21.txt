@@ -66,3 +66,6 @@
 [2013-05-21 11:56:20] Hammertime38, quitting. (Remote host closed the connection)
 [2013-05-21 12:09:18] lukeis, joining. (#ios-driver)
 [2013-05-21 12:27:11] arkmon_, quitting. (Quit: ZZZzzz…)
+[2013-05-21 12:33:30] ddary, leaving. (#ios-driver)
+[2013-05-21 12:34:20] lukeis1, joining. (#ios-driver)
+[2013-05-21 12:34:20] lukeis, quitting. (Read error: Connection reset by peer)
