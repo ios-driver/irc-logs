@@ -29,3 +29,9 @@
 [2013-05-21 06:45:50] AutomatedTester: unless its severe
 [2013-05-21 06:46:03] nirvdrum: Ahh, yeah.  We were underfeeding him I guess.  They told us to slowly increase when we left the hospital.  So we were bumping up 5 mL per feeding.
 [2013-05-21 06:46:33] nirvdrum: Then we saw the pediatrician and she told us to feed him as much as he'd take, so we went up 40 mL or so.  Apparently he was hungry :-P
+[2013-05-21 06:50:53] Oscar1, changing nick to Oscar_Rieken.
+[2013-05-21 06:54:02] nicegraham: nirvdrum: we've been using vmware fusion and can run 3 vms on our machine with the simulator going and it's solid
+[2013-05-21 06:54:14] nicegraham: if we add a solid instance it gets flaky
+[2013-05-21 06:54:30] nirvdrum: nicegraham: Cool.  This would be running in ESXi. I have 4 VMs up, but I still need to wire it up to the grid.
+[2013-05-21 06:54:49] nicegraham: oh, I added that heartbeat thing client side
+[2013-05-21 06:54:59] nicegraham: maybe have a look at it...
