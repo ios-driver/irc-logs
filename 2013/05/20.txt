@@ -81,3 +81,4 @@
 [2013-05-20 17:08:18] santiycr, quitting. (Quit: Leaving.)
 [2013-05-20 17:09:03] santiycr, joining. (#ios-driver)
 [2013-05-20 17:46:48] jpj, quitting. (Read error: Operation timed out)
+[2013-05-20 17:53:23] jpj, joining. (#ios-driver)
