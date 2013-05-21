@@ -55,3 +55,4 @@
 [2013-05-21 10:13:33] ddary, quitting. (Quit: ddary)
 [2013-05-21 10:41:45] ddary, joining. (#ios-driver)
 [2013-05-21 10:42:49] ddary, quitting. (Client Quit)
+[2013-05-21 10:52:22] nicegraham: my new mac mini arrived today... more VMs tomorrow :)
