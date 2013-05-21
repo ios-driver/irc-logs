@@ -88,3 +88,4 @@
 [2013-05-20 18:55:26] santiycr, quitting. (Quit: Leaving.)
 [2013-05-20 19:21:21] jpj, quitting. (Ping timeout: 252 seconds)
 [2013-05-20 23:16:06] ddary, joining. (#ios-driver)
+[2013-05-20 23:22:22] ddary, quitting. (Quit: ddary)
