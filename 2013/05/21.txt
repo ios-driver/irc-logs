@@ -16,3 +16,11 @@
 [2013-05-21 06:29:41] nicegraham: our runs have been solid since darragh added that extra check
 [2013-05-21 06:34:34] nicegraham: nirvdrum: how have your vms been behaving? how many have you been able to run on a single machine?
 [2013-05-21 06:37:52] Oscar1, joining. (#ios-driver)
+[2013-05-21 06:42:32] nirvdrum: I had to pause that project because my wife was spitting a kid out.  I'm hoping to get back to it today or tomorrow.
+[2013-05-21 06:43:10] AutomatedTester: nirvdrum: spitting? didnt you get the memo about children coming from another part of the body other than the mouth
+[2013-05-21 06:43:11] AutomatedTester: :P
+[2013-05-21 06:43:35] AutomatedTester: nirvdrum: how is nirvdrum the 2nd?
+[2013-05-21 06:43:40] nirvdrum: Heh.
+[2013-05-21 06:44:01] nirvdrum: He's fine.  A little yellow so we have a follow-up appointment today.  But otherwise, quite healthy.
+[2013-05-21 06:44:21] AutomatedTester: nothing that lot of breast feeding cant sort out
+[2013-05-21 06:44:50] nirvdrum: We're doing formula.
