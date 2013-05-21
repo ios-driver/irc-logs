@@ -10,3 +10,7 @@
 [2013-05-21 03:44:35] ios-driver-git: ios-driver/dev 5682ec5 Darragh Grace: Merge branch 'dev' of github.com:nicegraham/ios-driver into dev
 [2013-05-21 03:44:35] ios-driver-git, leaving. (#ios-driver)
 [2013-05-21 03:56:05] ddary, joining. (#ios-driver)
+[2013-05-21 06:26:59] nirvdrum, joining. (#ios-driver)
+[2013-05-21 06:29:03] nirvdrum: nicegraham: Good find on #35.  I guess that's why I'm not really seeing it anymore.  I don't use native apps.
+[2013-05-21 06:29:19] nicegraham: yeah, it was a pig
+[2013-05-21 06:29:41] nicegraham: our runs have been solid since darragh added that extra check
