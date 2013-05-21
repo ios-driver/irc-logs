@@ -24,3 +24,8 @@
 [2013-05-21 06:44:01] nirvdrum: He's fine.  A little yellow so we have a follow-up appointment today.  But otherwise, quite healthy.
 [2013-05-21 06:44:21] AutomatedTester: nothing that lot of breast feeding cant sort out
 [2013-05-21 06:44:50] nirvdrum: We're doing formula.
+[2013-05-21 06:45:11] AutomatedTester: s/breast feeding/feeding with liquid/
+[2013-05-21 06:45:20] AutomatedTester: it needs flushing out
+[2013-05-21 06:45:50] AutomatedTester: unless its severe
+[2013-05-21 06:46:03] nirvdrum: Ahh, yeah.  We were underfeeding him I guess.  They told us to slowly increase when we left the hospital.  So we were bumping up 5 mL per feeding.
+[2013-05-21 06:46:33] nirvdrum: Then we saw the pediatrician and she told us to feed him as much as he'd take, so we went up 40 mL or so.  Apparently he was hungry :-P
