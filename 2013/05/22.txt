@@ -34,3 +34,5 @@
 [2013-05-22 02:42:52] dev_kumar, joining. (#ios-driver)
 [2013-05-22 02:43:14] dev_kumar, leaving. (#ios-driver)
 [2013-05-22 03:06:43] arkmon_, joining. (#ios-driver)
+[2013-05-22 04:10:45] dev_kumar, joining. (#ios-driver)
+[2013-05-22 04:12:09] ddary, joining. (#ios-driver)
