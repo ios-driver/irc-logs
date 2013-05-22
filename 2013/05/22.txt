@@ -27,3 +27,6 @@
 [2013-05-22 01:57:52] dev_kumar, leaving. (#ios-driver)
 [2013-05-22 02:08:44] dawagner, joining. (#ios-driver)
 [2013-05-22 02:24:27] ddary, leaving. (#ios-driver)
+[2013-05-22 02:39:17] dawagner, quitting. (Read error: Connection reset by peer)
+[2013-05-22 02:39:24] dev_kumar, joining. (#ios-driver)
+[2013-05-22 02:39:42] dawagner, joining. (#ios-driver)
