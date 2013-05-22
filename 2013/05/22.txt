@@ -43,3 +43,4 @@
 [2013-05-22 06:24:53] nirvdrum, joining. (#ios-driver)
 [2013-05-22 06:40:45] dawagner, quitting. (Quit: Leaving)
 [2013-05-22 07:01:57] nirvdrum: nicegraham: Do you know how maven picks up the JDK to use?  java -version is showing 1.7 on the console, but maven keeps picking up 1.6, preventing me from compiling the JAR.
+[2013-05-22 07:29:27] nirvdrum: Explicitly setting JAVA_HOME seems to have done the trick.
