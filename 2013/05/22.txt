@@ -48,3 +48,5 @@
 [2013-05-22 08:20:36] nicegraham: it seems to ignore the pom
 [2013-05-22 08:21:12] nirvdrum: I'm just concerned this will cause support overhead.
 [2013-05-22 08:21:22] nirvdrum: I need to verify Java 7 won't be a problem on the VMs, too.
+[2013-05-22 08:42:14] dgrace, leaving. (#ios-driver)
+[2013-05-22 08:42:48] ddary, leaving. (#ios-driver)
