@@ -12,3 +12,16 @@
 [2013-05-22 01:54:32] dev_kumar: myipad
 [2013-05-22 01:54:38] nicegraham: ok
 [2013-05-22 01:54:53] nicegraham: freynaud wrote all the code in that area, so you really need to talk to him
+[2013-05-22 01:55:05] nicegraham: hopefully he'll be online this morning
+[2013-05-22 01:55:20] dev_kumar: ok
+[2013-05-22 01:55:24] nicegraham: with the new ipad name, you get the exact same error as before?
+[2013-05-22 01:55:34] dev_kumar: yes
+[2013-05-22 01:55:59] dev_kumar: and i have tried it by manually archiving my apps
+[2013-05-22 01:56:27] nicegraham: can you create a gist of your console window
+[2013-05-22 01:56:36] nicegraham: including all the xml that gets printed out?
+[2013-05-22 01:56:38] dev_kumar: and then i was able to launch the app on myipad but suddenly it crashed
+[2013-05-22 01:56:42] nicegraham: :gist
+[2013-05-22 01:57:16] dev_kumar: ok
+[2013-05-22 01:57:27] nicegraham: I have a meeting now - I'll be back later
+[2013-05-22 01:57:40] dev_kumar: ok
+[2013-05-22 01:57:52] dev_kumar, leaving. (#ios-driver)
