@@ -52,3 +52,4 @@
 [2013-05-22 08:42:48] ddary, leaving. (#ios-driver)
 [2013-05-22 10:03:11] lukeis, joining. (#ios-driver)
 [2013-05-22 10:08:52] coreygriggs, joining. (#ios-driver)
+[2013-05-22 10:14:33] coreygriggs, quitting. (Quit: coreygriggs)
