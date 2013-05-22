@@ -25,3 +25,4 @@
 [2013-05-22 01:57:27] nicegraham: I have a meeting now - I'll be back later
 [2013-05-22 01:57:40] dev_kumar: ok
 [2013-05-22 01:57:52] dev_kumar, leaving. (#ios-driver)
+[2013-05-22 02:08:44] dawagner, joining. (#ios-driver)
