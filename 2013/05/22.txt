@@ -1,1 +1,14 @@
 [2013-05-22 01:49:56] dev_kumar, joining. (#ios-driver)
+[2013-05-22 01:50:28] dev_kumar: hey nicegraham
+[2013-05-22 01:52:21] dgrace, joining. (#ios-driver)
+[2013-05-22 01:52:37] nicegraham: hey
+[2013-05-22 01:52:55] nicegraham: dev_kumar
+[2013-05-22 01:53:01] dev_kumar: i have setup as i told u so where is the problem
+[2013-05-22 01:53:21] nicegraham: freynaud believes it is due to the name of the device
+[2013-05-22 01:53:36] nicegraham: we think the system can't parse it because of the char set it's using
+[2013-05-22 01:54:00] nicegraham: did you try his suggestion of renaming the device to just regular characters?
+[2013-05-22 01:54:01] dev_kumar: but i have changed the name and trid again
+[2013-05-22 01:54:10] nicegraham: what did you change it to?
+[2013-05-22 01:54:32] dev_kumar: myipad
+[2013-05-22 01:54:38] nicegraham: ok
+[2013-05-22 01:54:53] nicegraham: freynaud wrote all the code in that area, so you really need to talk to him
