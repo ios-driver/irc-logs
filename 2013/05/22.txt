@@ -58,3 +58,4 @@
 [2013-05-22 11:06:47] lukeis, joining. (#ios-driver)
 [2013-05-22 12:26:39] arkmon_, joining. (#ios-driver)
 [2013-05-22 14:03:30] budhash, joining. (#ios-driver)
+[2013-05-22 14:11:18] budhash, leaving. (#ios-driver)
