@@ -92,3 +92,4 @@
 [2013-05-21 21:58:19] admc1, joining. (#ios-driver)
 [2013-05-21 21:58:36] nirvdrum, quitting. (Read error: Operation timed out)
 [2013-05-21 21:58:58] admc1, quitting. (Client Quit)
+[2013-05-21 22:03:39] santiycr1, quitting. (Quit: Leaving.)
