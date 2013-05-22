@@ -41,3 +41,4 @@
 [2013-05-22 06:09:26] ddary, joining. (#ios-driver)
 [2013-05-22 06:24:18] arkmon_, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2013-05-22 06:24:53] nirvdrum, joining. (#ios-driver)
+[2013-05-22 06:40:45] dawagner, quitting. (Quit: Leaving)
