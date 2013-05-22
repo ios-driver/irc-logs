@@ -37,3 +37,4 @@
 [2013-05-22 04:10:45] dev_kumar, joining. (#ios-driver)
 [2013-05-22 04:12:09] ddary, joining. (#ios-driver)
 [2013-05-22 04:18:33] dev_kumar, quitting. (Quit: irc2go)
+[2013-05-22 06:02:17] ddary, quitting. (Quit: ddary)
