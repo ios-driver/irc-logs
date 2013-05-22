@@ -50,3 +50,4 @@
 [2013-05-22 08:21:22] nirvdrum: I need to verify Java 7 won't be a problem on the VMs, too.
 [2013-05-22 08:42:14] dgrace, leaving. (#ios-driver)
 [2013-05-22 08:42:48] ddary, leaving. (#ios-driver)
+[2013-05-22 10:03:11] lukeis, joining. (#ios-driver)
