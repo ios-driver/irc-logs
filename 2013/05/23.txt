@@ -166,3 +166,4 @@
 [2013-05-23 09:27:13] nicegraham: laters all
 [2013-05-23 09:27:28] lukeis: g'night
 [2013-05-23 09:47:38] ddary, quitting. (Quit: ddary)
+[2013-05-23 09:51:19] ddary, joining. (#ios-driver)
