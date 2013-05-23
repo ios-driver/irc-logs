@@ -90,3 +90,11 @@
 [2013-05-23 08:42:06] Oscar_Rieken, quitting. (Quit: Leaving.)
 [2013-05-23 08:52:36] lukeis, joining. (#ios-driver)
 [2013-05-23 09:00:17] nirvdrum: nicegraham: Sorry, but what was that command you ran for the Instruments auth dialog?
+[2013-05-23 09:06:40] ddary, joining. (#ios-driver)
+[2013-05-23 09:07:46] nicegraham: nirvdrum: which one?
+[2013-05-23 09:08:10] nirvdrum: Dunno.  It was some sudo command so you don't get prompted to give Instruments permissions to do whatever.
+[2013-05-23 09:08:33] nicegraham: ugh....
+[2013-05-23 09:08:51] nicegraham: I can't remember tbh, that still giving you guff?
+[2013-05-23 09:09:02] nirvdrum: I brought up some new machines.
+[2013-05-23 09:09:12] nirvdrum: And the changes lukeis suggested never worked for me *shrug*
+[2013-05-23 09:09:38] lukeis: that's very odd :-/
