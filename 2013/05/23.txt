@@ -45,3 +45,11 @@
 [2013-05-23 05:55:57] nicegraham: but there's another problem in that xml
 [2013-05-23 05:56:01] nicegraham: which our code can't parse
 [2013-05-23 05:56:05] nicegraham: I'm looking at that now
+[2013-05-23 06:11:55] ios-driver-git, joining. (#ios-driver)
+[2013-05-23 06:11:55] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/IFVw7w
+[2013-05-23 06:11:55] ios-driver-git: ios-driver/dev ab2379e Graham Abell: fixing issues in relation to https://github.com/ios-driver/ios-driver/issues/56
+[2013-05-23 06:11:55] ios-driver-git, leaving. (#ios-driver)
+[2013-05-23 06:13:21] ios-driver-git, joining. (#ios-driver)
+[2013-05-23 06:13:22] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/PPeYtA
+[2013-05-23 06:13:22] ios-driver-git: ios-driver/dev 667fc09 Graham Abell: fixing xml parsing of null value
+[2013-05-23 06:13:22] ios-driver-git, leaving. (#ios-driver)
