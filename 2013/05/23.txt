@@ -167,3 +167,4 @@
 [2013-05-23 09:27:28] lukeis: g'night
 [2013-05-23 09:47:38] ddary, quitting. (Quit: ddary)
 [2013-05-23 09:51:19] ddary, joining. (#ios-driver)
+[2013-05-23 10:16:34] dawagner, joining. (#ios-driver)
