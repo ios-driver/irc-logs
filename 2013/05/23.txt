@@ -146,3 +146,19 @@
 [2013-05-23 09:19:37] nirvdrum: Ahh, good point.
 [2013-05-23 09:19:42] nicegraham: good point - pretty sure the new machine is ssd too
 [2013-05-23 09:19:56] nicegraham: I think we should create a guide on this stuff too
+[2013-05-23 09:20:05] nicegraham: there's been a few lessons learned
+[2013-05-23 09:20:11] nirvdrum: SSDs have opened a whole new world for me with virtualization.
+[2013-05-23 09:21:30] lukeis: i'm still stuck with a SATA drive on my laptop :(   my upgrade doesn't come till the end of the year
+[2013-05-23 09:21:45] nicegraham: drop it!
+[2013-05-23 09:22:04] lukeis: yesterday, was pair programming with a co-worker who has SSD…. same task of building a project took him 3 min… took mine 25min!
+[2013-05-23 09:22:15] nicegraham: Ouch!
+[2013-05-23 09:22:26] lukeis: we used his laptop from then on
+[2013-05-23 09:22:45] nicegraham: just do some simple maths, time wasted like that vs the cost of a new machine
+[2013-05-23 09:22:49] nicegraham: that's what we did in here
+[2013-05-23 09:22:51] nirvdrum: lukeis: That alone should be enough to justify an upgrade.
+[2013-05-23 09:22:55] nicegraham: we all got upgrades
+[2013-05-23 09:22:58] nirvdrum: SSDs have come way down in price.
+[2013-05-23 09:23:18] nirvdrum: Even if you made minimum wage, the time savings would be covered in fairly short order.
+[2013-05-23 09:23:29] lukeis: i'm going to be raising my case… right now I don't know who to escalate to ;)  i've lost my manager
+[2013-05-23 09:23:43] nicegraham: that was careless :)
+[2013-05-23 09:23:45] lukeis: btw we're hiring for a manager (mine in fact!) ;)
