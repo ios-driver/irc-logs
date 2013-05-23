@@ -170,3 +170,9 @@
 [2013-05-23 10:16:34] dawagner, joining. (#ios-driver)
 [2013-05-23 10:21:53] ddary, quitting. (Quit: ddary)
 [2013-05-23 10:32:50] smccarthy, quitting. (Remote host closed the connection)
+[2013-05-23 10:46:18] nirvdrum: nicegraham: Get back here
+[2013-05-23 10:46:20] coreygriggs, quitting. (Read error: No route to host)
+[2013-05-23 10:46:36] lukeis: heh, did the command not work?
+[2013-05-23 10:47:10] nirvdrum: No, he broke master :-)
+[2013-05-23 10:47:26] nirvdrum: Broke == can't test with mobile safari from WebDriver.
+[2013-05-23 10:48:49] nirvdrum: And by "master" I mean "dev."
