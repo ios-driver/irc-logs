@@ -186,3 +186,16 @@
 [2013-05-23 10:54:24] nirvdrum: I just commented as such.
 [2013-05-23 10:54:52] nirvdrum: I can add those to the list, too.  But I really don't understand what the original change did.
 [2013-05-23 10:54:59] nirvdrum: And there's no comment.
+[2013-05-23 10:55:09] nirvdrum: And the commit message isn't all that helpful.
+[2013-05-23 10:55:52] nirvdrum: I'm backing it out locally for now.
+[2013-05-23 10:56:04] lukeis: that change shouldn't be in there at all...
+[2013-05-23 10:56:19] lukeis: if he was debugging, shouldn't have committed the debugging stuff
+[2013-05-23 10:56:29] ddary, joining. (#ios-driver)
+[2013-05-23 10:56:31] nirvdrum: He cleaned up the debug lines in a second commit.
+[2013-05-23 10:56:50] nirvdrum: Supposedly this change somehow fixed problems nicegraham was seeing with reliability in testing native apps.
+[2013-05-23 10:56:55] nirvdrum: But I don't understand how.
+[2013-05-23 10:57:12] lukeis: nicegraham has a comment in the next commit
+[2013-05-23 10:57:30] nirvdrum: I saw it.  I still don't understand it :-(
+[2013-05-23 10:58:36] nirvdrum: Incidentally, that dev tools enable call didn't help either.
+[2013-05-23 10:58:46] nirvdrum: So, I'm at a total loss on how to get that dialog to go away.
+[2013-05-23 10:58:54] nirvdrum: It's cute because it locks up my grid.
