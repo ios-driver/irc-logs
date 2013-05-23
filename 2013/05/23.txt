@@ -72,3 +72,13 @@
 [2013-05-23 06:33:56] nicegraham: so what's wrong?
 [2013-05-23 06:34:11] dev_kumar: i'm talking about those apps which was installed on my ipad when i had purchased it
 [2013-05-23 06:34:29] dev_kumar: and those are available still now
+[2013-05-23 06:35:14] coreygriggs, joining. (#ios-driver)
+[2013-05-23 06:35:30] nicegraham: ok, that doesn't mean you'll be able to automate them though
+[2013-05-23 06:35:41] dev_kumar: yes
+[2013-05-23 06:37:10] dev_kumar: is that fine
+[2013-05-23 06:37:30] dev_kumar: all the apps are displayed there which i can't automate
+[2013-05-23 06:37:43] nicegraham: I assume so
+[2013-05-23 06:37:49] nicegraham: you'd need to ask freynaud
+[2013-05-23 06:37:57] dev_kumar: ok
+[2013-05-23 06:38:51] dev_kumar: thanks for all the discussion.
+[2013-05-23 06:39:15] nicegraham: no problem
