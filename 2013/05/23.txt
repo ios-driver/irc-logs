@@ -119,3 +119,30 @@
 [2013-05-23 09:14:50] lukeis: a bit of both
 [2013-05-23 09:14:54] nicegraham: we just did an exercise in fixing tests
 [2013-05-23 09:15:00] nicegraham: our ci looks better now :)
+[2013-05-23 09:15:32] *lukeis trying to get my CI to behave too right now ;) so far tests are really only run locally… that'll change today!'
+[2013-05-23 09:15:48] nicegraham: we have them running on the grid
+[2013-05-23 09:16:03] nicegraham: our latest fix today was figuring out why the nodes kept disappearing
+[2013-05-23 09:16:13] nicegraham: even though I'd implemented the heartbeat on the client side....
+[2013-05-23 09:16:19] nicegraham: the mac was going to sleep
+[2013-05-23 09:16:21] nicegraham: :)
+[2013-05-23 09:16:25] dawagner, quitting. (Quit: Leaving)
+[2013-05-23 09:16:55] nirvdrum: nicegraham: Heh.  I guess it'd be nice if the grid could send a WOL packet.
+[2013-05-23 09:17:10] nicegraham: add that to your todo list  :)
+[2013-05-23 09:17:25] nicegraham: our new mac mini can handle more vms too
+[2013-05-23 09:17:33] nicegraham: running 4 right now on it
+[2013-05-23 09:17:44] nicegraham: the i7 seems to make a big difference over an i5
+[2013-05-23 09:17:58] nirvdrum: That's what I'm trying to do right now.
+[2013-05-23 09:18:15] nirvdrum: Glad to hear.  I went with the i7.  I figured if I ran 4 VMs, each would have a real core.
+[2013-05-23 09:18:32] nirvdrum: I allocated 4 GB RAM to each as well.  That may have been pushing it because I'm overcommitting.
+[2013-05-23 09:18:38] nicegraham: now I need to get more!
+[2013-05-23 09:18:48] nirvdrum: How much RAM are you allocating?
+[2013-05-23 09:18:55] nicegraham: 4 I think
+[2013-05-23 09:18:58] nicegraham: the machine has 16
+[2013-05-23 09:19:04] nicegraham: ram isn't an issue
+[2013-05-23 09:19:09] nicegraham: disk io and cpu are the problems
+[2013-05-23 09:19:14] nirvdrum: Yeah.  And the hypervisor takes up some.
+[2013-05-23 09:19:26] nirvdrum: I'm using an SSD.  Disk isn't really a problem here :-)
+[2013-05-23 09:19:28] nicegraham: freynaud said to make sure spotlight indexing was off
+[2013-05-23 09:19:37] nirvdrum: Ahh, good point.
+[2013-05-23 09:19:42] nicegraham: good point - pretty sure the new machine is ssd too
+[2013-05-23 09:19:56] nicegraham: I think we should create a guide on this stuff too
