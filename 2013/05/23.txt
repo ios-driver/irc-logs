@@ -212,3 +212,4 @@
 [2013-05-23 11:06:47] nirvdrum: I can give it a shot.  Half the problem is I don't know when the auth dialog comes up.  So testing this can take days.
 [2013-05-23 11:07:03] nirvdrum: I haven't found if it's tied to a reboot.  Or just run time.  Or number of times invoked.
 [2013-05-23 11:07:14] nirvdrum: It seems pretty arbitrary.
+[2013-05-23 11:43:37] nirvdrum: Bah.  I need to roll back.  I can't run on Java 7 due to a JVM bug in VMWare.  And master no longer works on Java 6.
