@@ -31,3 +31,4 @@
 [2013-05-23 01:07:48] freynaud: but that still mean that you have to work with the developers producing that binary
 [2013-05-23 01:08:16] dev_kumar: ok
 [2013-05-23 01:12:15] dgrace, joining. (#ios-driver)
+[2013-05-23 01:23:50] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
