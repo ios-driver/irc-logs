@@ -176,3 +176,13 @@
 [2013-05-23 10:47:10] nirvdrum: No, he broke master :-)
 [2013-05-23 10:47:26] nirvdrum: Broke == can't test with mobile safari from WebDriver.
 [2013-05-23 10:48:49] nirvdrum: And by "master" I mean "dev."
+[2013-05-23 10:50:29] lukeis: ugh
+[2013-05-23 10:50:49] nirvdrum: I take that back.  It was dgrace :-P
+[2013-05-23 10:51:02] lukeis: which commit?
+[2013-05-23 10:51:30] nirvdrum: a3a5e2d1704
+[2013-05-23 10:51:43] lukeis: damn you bot!
+[2013-05-23 10:53:32] lukeis: ahh, cause the browser name isn't "Safari" it's "iPhone" or "iPad" ?
+[2013-05-23 10:54:20] nirvdrum: Correct.
+[2013-05-23 10:54:24] nirvdrum: I just commented as such.
+[2013-05-23 10:54:52] nirvdrum: I can add those to the list, too.  But I really don't understand what the original change did.
+[2013-05-23 10:54:59] nirvdrum: And there's no comment.
