@@ -34,3 +34,4 @@
 [2013-05-23 01:23:50] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-05-23 01:25:25] dev_kumar, leaving. (#ios-driver)
 [2013-05-23 02:20:04] ddary, leaving. (#ios-driver)
+[2013-05-23 02:26:02] arkmon_, joining. (#ios-driver)
