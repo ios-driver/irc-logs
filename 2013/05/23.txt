@@ -39,3 +39,9 @@
 [2013-05-23 04:34:40] dawagner, joining. (#ios-driver)
 [2013-05-23 05:19:18] dev_kumar, joining. (#ios-driver)
 [2013-05-23 05:19:41] dev_kumar: hey nicegraham
+[2013-05-23 05:55:22] nicegraham: hey
+[2013-05-23 05:55:32] nicegraham: dev_kumar
+[2013-05-23 05:55:50] nicegraham: I've updated the plist parser library to the latest and we don't get that issue
+[2013-05-23 05:55:57] nicegraham: but there's another problem in that xml
+[2013-05-23 05:56:01] nicegraham: which our code can't parse
+[2013-05-23 05:56:05] nicegraham: I'm looking at that now
