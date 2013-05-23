@@ -199,3 +199,13 @@
 [2013-05-23 10:58:36] nirvdrum: Incidentally, that dev tools enable call didn't help either.
 [2013-05-23 10:58:46] nirvdrum: So, I'm at a total loss on how to get that dialog to go away.
 [2013-05-23 10:58:54] nirvdrum: It's cute because it locks up my grid.
+[2013-05-23 11:00:01] lukeis: is there any equivalent to PTFB? (Push the freaking button) for mac?
+[2013-05-23 11:00:34] lukeis: that's a last resort of course ;)
+[2013-05-23 11:00:40] lukeis: but in your case I have no idea why it's still popping up, if you've made the change to /etc/authorization
+[2013-05-23 11:00:48] nirvdrum: Not familiar with that.  But this requires entering auth details, too.
+[2013-05-23 11:01:03] lukeis: ah :-/
+[2013-05-23 11:01:04] nirvdrum: My guess is as a security mechanism you can't run anything else that might hit that box.
+[2013-05-23 11:01:18] lukeis: hmm, is your user an admin user?
+[2013-05-23 11:01:25] nirvdrum: Yeah.
+[2013-05-23 11:01:50] nirvdrum: But everything runs unprivilged by default in mac.
+[2013-05-23 11:02:43] lukeis: in /etc/authorization there's actually a couple of places it looks like to tweak the true/false (although I only needed to do so for the first one) maybe changing the rest of them?
