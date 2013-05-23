@@ -11,3 +11,12 @@
 [2013-05-23 00:59:12] freynaud: that will install it with the correct entitelemnt and with your provisioning rofile
 [2013-05-23 00:59:22] freynaud: after that you can use the app with instruments
 [2013-05-23 00:59:35] dev_kumar: i'm talking about those apps which is already installed when i purchased my ipad
+[2013-05-23 01:00:29] freynaud: you cannot
+[2013-05-23 01:00:48] freynaud: or you need to jailbreak
+[2013-05-23 01:01:24] dev_kumar: after jailbreak what procedure i need to follow
+[2013-05-23 01:01:47] freynaud: http://developer.apple.com/library/ios/#documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/UsingtheAutomationInstrument/UsingtheAutomationInstrument.html
+[2013-05-23 01:01:51] freynaud: look at the note
+[2013-05-23 01:02:00] freynaud: I've not played with jailbreak myself
+[2013-05-23 01:02:20] freynaud: i don't really see the point. If you're testing the app, you should have access to it
+[2013-05-23 01:02:39] freynaud: the only possible exception to that is for safari
+[2013-05-23 01:02:52] dev_kumar: how ?
