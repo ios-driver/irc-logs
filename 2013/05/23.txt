@@ -53,3 +53,6 @@
 [2013-05-23 06:13:22] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/PPeYtA
 [2013-05-23 06:13:22] ios-driver-git: ios-driver/dev 667fc09 Graham Abell: fixing xml parsing of null value
 [2013-05-23 06:13:22] ios-driver-git, leaving. (#ios-driver)
+[2013-05-23 06:19:00] ios-driver-git, joining. (#ios-driver)
+[2013-05-23 06:19:00] ios-driver-git: [ios-driver] nicegraham force-pushed dev from 667fc09 to ab2379e: http://git.io/9xKjng
+[2013-05-23 06:19:00] ios-driver-git, leaving. (#ios-driver)
