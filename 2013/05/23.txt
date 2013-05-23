@@ -213,3 +213,15 @@
 [2013-05-23 11:07:03] nirvdrum: I haven't found if it's tied to a reboot.  Or just run time.  Or number of times invoked.
 [2013-05-23 11:07:14] nirvdrum: It seems pretty arbitrary.
 [2013-05-23 11:43:37] nirvdrum: Bah.  I need to roll back.  I can't run on Java 7 due to a JVM bug in VMWare.  And master no longer works on Java 6.
+[2013-05-23 11:53:09] nicegraham: nirvdrum lukeis - I'm back....
+[2013-05-23 11:53:17] *lukeis hides'
+[2013-05-23 11:53:31] nicegraham: it should be me hiding it seems...
+[2013-05-23 11:53:42] nirvdrum: Heh.
+[2013-05-23 11:53:48] nirvdrum: No worries.
+[2013-05-23 11:53:56] nirvdrum: Nothing works for me anymore.  Not a big deal :-P
+[2013-05-23 11:54:01] nicegraham: cool
+[2013-05-23 11:54:08] nicegraham: that's what we aim for
+[2013-05-23 11:54:21] nicegraham: on java 7, I need to confirm tomorrow
+[2013-05-23 11:54:39] nicegraham: but we've been running our tests and there haven't been issues
+[2013-05-23 11:54:49] nirvdrum: I tracked it down to a confirmed bug in the Oracle JDK introduced in u17 it seems.
+[2013-05-23 11:54:52] nicegraham: those tests include rotation
