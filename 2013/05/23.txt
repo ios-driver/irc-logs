@@ -252,3 +252,8 @@
 [2013-05-23 12:08:36] nirvdrum: Unless your image program is just doing something funky.  Landscape screenshots should be saved in the correct oirentation now.
 [2013-05-23 12:09:04] nicegraham: we're just calling takescreenhot or whatever
 [2013-05-23 12:09:12] nicegraham: nothing special
+[2013-05-23 12:11:21] nirvdrum: Dunno then.  https://github.com/ios-driver/ios-driver/blob/dev/server/src/main/java/org/uiautomation/ios/server/command/uiautomation/TakeScreenshotNHandler.java#L69
+[2013-05-23 12:11:24] nirvdrum: That's where I added it.
+[2013-05-23 12:12:07] nicegraham: I'm digging further
+[2013-05-23 12:12:19] nirvdrum: But the screenshots in your video look like they're not correcting orientation.
+[2013-05-23 12:12:45] nicegraham: yeah
