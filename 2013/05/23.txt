@@ -98,3 +98,24 @@
 [2013-05-23 09:09:02] nirvdrum: I brought up some new machines.
 [2013-05-23 09:09:12] nirvdrum: And the changes lukeis suggested never worked for me *shrug*
 [2013-05-23 09:09:38] lukeis: that's very odd :-/
+[2013-05-23 09:11:09] nicegraham: it's lukeis fault
+[2013-05-23 09:11:16] nicegraham: playing games with your head
+[2013-05-23 09:11:48] nicegraham: DevToolsSecurity -enable
+[2013-05-23 09:11:58] nicegraham: ^ sudo i guess
+[2013-05-23 09:12:07] nirvdrum: Yeah, that looks like it.  Thanks.
+[2013-05-23 09:12:23] *lukeis twiddles thumbs like i'm IE in the corner...'
+[2013-05-23 09:12:39] nicegraham: sudo /usr/sbin/DevToolsSecurity --enable
+[2013-05-23 09:12:46] nicegraham: :)
+[2013-05-23 09:13:03] nicegraham: been a while lukeis
+[2013-05-23 09:13:14] nicegraham: you not love us anymore? :)
+[2013-05-23 09:13:21] lukeis: i do love you ;)
+[2013-05-23 09:13:30] lukeis: work likes to prioritize my time elsewhere
+[2013-05-23 09:13:48] nicegraham: unreasonable gits
+[2013-05-23 09:14:02] nicegraham: how's android going?
+[2013-05-23 09:14:14] lukeis: not too bad
+[2013-05-23 09:14:25] nicegraham: cool
+[2013-05-23 09:14:31] lukeis: reducing flakiness in the whole thing is causing me grief though
+[2013-05-23 09:14:44] nicegraham: framework or tests?
+[2013-05-23 09:14:50] lukeis: a bit of both
+[2013-05-23 09:14:54] nicegraham: we just did an exercise in fixing tests
+[2013-05-23 09:15:00] nicegraham: our ci looks better now :)
