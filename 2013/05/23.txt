@@ -240,3 +240,8 @@
 [2013-05-23 11:58:50] nirvdrum: Interesting.
 [2013-05-23 11:59:05] dawagner, quitting. (Quit: Leaving)
 [2013-05-23 11:59:07] nirvdrum: Do you have hardware acceleration enabled for your VMs?
+[2013-05-23 12:01:35] nicegraham: http://youtu.be/H9_UXZ0xbYQ
+[2013-05-23 12:01:35] nicegraham: 95%
+[2013-05-23 12:01:53] nicegraham: I don't know offhand and I can't access them from here
+[2013-05-23 12:03:41] nirvdrum: Those landscape screenshots weren't rotated into the correct orientation.
+[2013-05-23 12:04:34] nicegraham: is that your problem?
