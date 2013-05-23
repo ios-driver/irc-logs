@@ -62,3 +62,13 @@
 [2013-05-23 06:28:59] ios-driver-git, leaving. (#ios-driver)
 [2013-05-23 06:29:14] dev_kumar: nicegraham i have something to ask .
 [2013-05-23 06:29:24] nicegraham: yeh?
+[2013-05-23 06:32:21] dev_kumar: as you suggested me i have uninstalled that one application and now i'm getting all installed application on the link http://localhost:5555/wd/hub/devices/all.
+[2013-05-23 06:32:53] nicegraham: good :)
+[2013-05-23 06:32:55] dev_kumar: so previously installed applications are also displayed there is that fine
+[2013-05-23 06:33:11] nicegraham: they're not installed anymore?
+[2013-05-23 06:33:29] nicegraham: and they're still showing up?
+[2013-05-23 06:33:35] dev_kumar: no
+[2013-05-23 06:33:52] nicegraham: ok
+[2013-05-23 06:33:56] nicegraham: so what's wrong?
+[2013-05-23 06:34:11] dev_kumar: i'm talking about those apps which was installed on my ipad when i had purchased it
+[2013-05-23 06:34:29] dev_kumar: and those are available still now
