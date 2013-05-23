@@ -56,3 +56,9 @@
 [2013-05-23 06:19:00] ios-driver-git, joining. (#ios-driver)
 [2013-05-23 06:19:00] ios-driver-git: [ios-driver] nicegraham force-pushed dev from 667fc09 to ab2379e: http://git.io/9xKjng
 [2013-05-23 06:19:00] ios-driver-git, leaving. (#ios-driver)
+[2013-05-23 06:28:59] ios-driver-git, joining. (#ios-driver)
+[2013-05-23 06:28:59] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/_LLIIQ
+[2013-05-23 06:28:59] ios-driver-git: ios-driver/dev fb3f9ea Graham Abell: updating libimobile
+[2013-05-23 06:28:59] ios-driver-git, leaving. (#ios-driver)
+[2013-05-23 06:29:14] dev_kumar: nicegraham i have something to ask .
+[2013-05-23 06:29:24] nicegraham: yeh?
