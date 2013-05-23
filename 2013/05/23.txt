@@ -225,3 +225,18 @@
 [2013-05-23 11:54:39] nicegraham: but we've been running our tests and there haven't been issues
 [2013-05-23 11:54:49] nirvdrum: I tracked it down to a confirmed bug in the Oracle JDK introduced in u17 it seems.
 [2013-05-23 11:54:52] nicegraham: those tests include rotation
+[2013-05-23 11:55:01] nirvdrum: Do you take screenshots?
+[2013-05-23 11:55:04] nicegraham: just u17?
+[2013-05-23 11:55:13] nirvdrum: Well it's still present in u21.
+[2013-05-23 11:55:13] nicegraham: yeah
+[2013-05-23 11:55:28] nicegraham: let me vpn in and check our reports...
+[2013-05-23 11:55:48] nicegraham: dgrace: you online?
+[2013-05-23 11:56:02] nirvdrum: It may be a Fusion vs ESXi issue then.  It's specifically related to the graphics context trying to use hardware acceleration, which doesn't exist for me.
+[2013-05-23 11:56:12] nirvdrum: Java 6 will fallback to a software renderer, which works fine.
+[2013-05-23 11:56:16] nirvdrum: Java 7 segfaults.
+[2013-05-23 11:56:18] nirvdrum: Good stuff.
+[2013-05-23 11:57:09] nicegraham: yeah, we're still getting screenshots in landscape and portrait
+[2013-05-23 11:57:21] nicegraham: we're using fusion
+[2013-05-23 11:58:50] nirvdrum: Interesting.
+[2013-05-23 11:59:05] dawagner, quitting. (Quit: Leaving)
+[2013-05-23 11:59:07] nirvdrum: Do you have hardware acceleration enabled for your VMs?
