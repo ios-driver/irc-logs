@@ -85,3 +85,4 @@
 [2013-05-23 06:58:58] Oscar1, joining. (#ios-driver)
 [2013-05-23 07:03:25] nirvdrum, joining. (#ios-driver)
 [2013-05-23 07:09:26] Oscar1, changing nick to Oscar_Rieken.
+[2013-05-23 07:25:23] dev_kumar, quitting. (Quit: irc2go)
