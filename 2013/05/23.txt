@@ -4,3 +4,10 @@
 [2013-05-23 00:32:37] dev_kumar: how are you?
 [2013-05-23 00:43:24] freynaud: good , you ?
 [2013-05-23 00:54:40] dev_kumar: good
+[2013-05-23 00:56:07] dev_kumar: i have a dout could you clear it?
+[2013-05-23 00:56:45] dev_kumar: Is it possible to test already installed apps in real device by ios-driver ?
+[2013-05-23 00:58:25] freynaud: yes, if you install them with the correct certificate etc
+[2013-05-23 00:58:49] freynaud: basically, if from xcode you install it clicking Product>Profile
+[2013-05-23 00:59:12] freynaud: that will install it with the correct entitelemnt and with your provisioning rofile
+[2013-05-23 00:59:22] freynaud: after that you can use the app with instruments
+[2013-05-23 00:59:35] dev_kumar: i'm talking about those apps which is already installed when i purchased my ipad
