@@ -245,3 +245,10 @@
 [2013-05-23 12:01:53] nicegraham: I don't know offhand and I can't access them from here
 [2013-05-23 12:03:41] nirvdrum: Those landscape screenshots weren't rotated into the correct orientation.
 [2013-05-23 12:04:34] nicegraham: is that your problem?
+[2013-05-23 12:05:27] nirvdrum: The code that does the screenshot rotation triggers the bug.
+[2013-05-23 12:06:16] nirvdrum: If you're not hitting that code path you wouldn't see the problem is all.
+[2013-05-23 12:06:34] nicegraham: do we not hit it automatically by creating screenshots?
+[2013-05-23 12:07:58] nirvdrum: I don't know how you're calling into it.  I implemented it in the command handler for the webdriver screenshot command.
+[2013-05-23 12:08:36] nirvdrum: Unless your image program is just doing something funky.  Landscape screenshots should be saved in the correct oirentation now.
+[2013-05-23 12:09:04] nicegraham: we're just calling takescreenhot or whatever
+[2013-05-23 12:09:12] nicegraham: nothing special
