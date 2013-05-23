@@ -89,3 +89,4 @@
 [2013-05-23 07:56:04] smccarthy, joining. (#ios-driver)
 [2013-05-23 08:42:06] Oscar_Rieken, quitting. (Quit: Leaving.)
 [2013-05-23 08:52:36] lukeis, joining. (#ios-driver)
+[2013-05-23 09:00:17] nirvdrum: nicegraham: Sorry, but what was that command you ran for the Instruments auth dialog?
