@@ -259,3 +259,4 @@
 [2013-05-23 12:12:45] nicegraham: yeah
 [2013-05-23 12:31:35] nicegraham: i'm going to have to look at this in the morning - on the location header I'm not 100% what the root cause was really, I just know that the change fixed it
 [2013-05-23 12:33:53] ddary, quitting. (Quit: ddary)
+[2013-05-23 13:54:11] smccarthy, joining. (#ios-driver)
