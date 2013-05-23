@@ -209,3 +209,6 @@
 [2013-05-23 11:01:25] nirvdrum: Yeah.
 [2013-05-23 11:01:50] nirvdrum: But everything runs unprivilged by default in mac.
 [2013-05-23 11:02:43] lukeis: in /etc/authorization there's actually a couple of places it looks like to tweak the true/false (although I only needed to do so for the first one) maybe changing the rest of them?
+[2013-05-23 11:06:47] nirvdrum: I can give it a shot.  Half the problem is I don't know when the auth dialog comes up.  So testing this can take days.
+[2013-05-23 11:07:03] nirvdrum: I haven't found if it's tied to a reboot.  Or just run time.  Or number of times invoked.
+[2013-05-23 11:07:14] nirvdrum: It seems pretty arbitrary.
