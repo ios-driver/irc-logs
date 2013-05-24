@@ -43,3 +43,8 @@
 [2013-05-24 08:13:51] nirvdrum: dgrace: I guess I don't get why browserName is or should be "IOS Simulator"
 [2013-05-24 08:18:12] dgrace: nirvdrum: This is how it is implemented in ios-grid (IOSCapabilitiesMonitor), for our Native app we target browserName as IOS Simulator, and use device to target iphone, ipad etc, CFBundleName to target the native app we need.
 [2013-05-24 08:19:22] nirvdrum: That just seems weird.  It's not a browser.
+[2013-05-24 08:21:01] dgrace: maybe we should rethink that so.. I'll talk to nicegraham about it.
+[2013-05-24 08:21:21] dgrace: for the time being are you ok with the fix?
+[2013-05-24 08:24:04] nirvdrum: Does isBrowserNameADevice exist?
+[2013-05-24 08:24:35] dgrace: i'm gonna commit that as part of the new fix
+[2013-05-24 08:24:47] dgrace: was waiting to run it past ye
