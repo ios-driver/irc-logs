@@ -73,3 +73,4 @@
 [2013-05-24 09:31:26] nirvdrum: My wife has my old MBP.  I have a System76 laptop now.  OS X was just getting in the way too much.
 [2013-05-24 09:31:35] nirvdrum: And the hardware was terrible for my hands.
 [2013-05-24 09:51:07] nicegraham, quitting. (Ping timeout: 252 seconds)
+[2013-05-24 11:24:53] nicegraham, joining. (#ios-driver)
