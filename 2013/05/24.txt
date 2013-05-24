@@ -65,3 +65,4 @@
 [2013-05-24 08:33:30] dgrace: i gotta go now but i'll play around with that again this evening.
 [2013-05-24 08:33:39] dgrace: sorry for breaking stuff for you yesterday!
 [2013-05-24 08:35:17] dgrace, leaving. (#ios-driver)
+[2013-05-24 08:55:05] lukeis, joining. (#ios-driver)
