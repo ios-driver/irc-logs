@@ -39,3 +39,4 @@
 [2013-05-24 06:35:15] dgrace: nirvdrum: a fix I made yesterday broke some stuff, apologies. Did you see the comment I tagged you in github regarding the fix?
 [2013-05-24 06:36:06] nirvdrum: Not yet.  I've been doing some technical documentation.
 [2013-05-24 06:37:12] dgrace: no worries. I have an amended fix proposal and explanation in there. Let me know what you think when you get a chance.
+[2013-05-24 07:46:35] smccarthy, joining. (#ios-driver)
