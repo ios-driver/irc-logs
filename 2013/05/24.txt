@@ -48,3 +48,12 @@
 [2013-05-24 08:24:04] nirvdrum: Does isBrowserNameADevice exist?
 [2013-05-24 08:24:35] dgrace: i'm gonna commit that as part of the new fix
 [2013-05-24 08:24:47] dgrace: was waiting to run it past ye
+[2013-05-24 08:26:10] nirvdrum: That feels a little kludgy to me.  I think I'd be happier if it were: if (BROWSER_NAME.equalsIgnoreCase(key) && ! json.has(BUNDLE_NAME))
+[2013-05-24 08:26:38] nirvdrum: But I'd have to check that the invariant truly is that browserName is set and bundleName is blank.
+[2013-05-24 08:28:39] nirvdrum: Actually, if (BROWSER_NAME.equalsIgnoreCase(key) && json.isNull(BUNDLE_NAME))
+[2013-05-24 08:28:43] dgrace: i'll check that
+[2013-05-24 08:28:47] nirvdrum: I think that handle the case where the key exists and the value is null.
+[2013-05-24 08:28:52] nirvdrum: And the case where the key doesn't exist.
+[2013-05-24 08:29:14] nirvdrum: I can play with that a bit today.  Otherwise, what you had is fine.
+[2013-05-24 08:29:26] nirvdrum: It just reads like weird logic.
+[2013-05-24 08:29:51] nirvdrum: Like, why would the browser name ever be a device name? :-P   But we already know that's wonky.
