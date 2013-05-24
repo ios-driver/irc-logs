@@ -64,3 +64,4 @@
 [2013-05-24 08:32:17] dgrace: yes, i 'think' BUNDLE_NAME should be blank too, need to double check. i know for certain that BROWSER_NAME will be either iphone or ipad
 [2013-05-24 08:33:30] dgrace: i gotta go now but i'll play around with that again this evening.
 [2013-05-24 08:33:39] dgrace: sorry for breaking stuff for you yesterday!
+[2013-05-24 08:35:17] dgrace, leaving. (#ios-driver)
