@@ -66,3 +66,4 @@
 [2013-05-24 08:33:39] dgrace: sorry for breaking stuff for you yesterday!
 [2013-05-24 08:35:17] dgrace, leaving. (#ios-driver)
 [2013-05-24 08:55:05] lukeis, joining. (#ios-driver)
+[2013-05-24 09:24:16] lukeis: nirvdrum: i'm sure it does (win8 that is)… she just kepted getting into a full screen mode on her documents and didn't know how to get out of it… just kept hitting the windows key
