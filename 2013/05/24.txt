@@ -57,3 +57,10 @@
 [2013-05-24 08:29:14] nirvdrum: I can play with that a bit today.  Otherwise, what you had is fine.
 [2013-05-24 08:29:26] nirvdrum: It just reads like weird logic.
 [2013-05-24 08:29:51] nirvdrum: Like, why would the browser name ever be a device name? :-P   But we already know that's wonky.
+[2013-05-24 08:30:31] dgrace: my thinking was that if something like DesiredCapabilities capabilities = DesiredCapabilities.iphone(); is used
+[2013-05-24 08:30:34] nirvdrum: In any event, I'd comment the logic there.
+[2013-05-24 08:30:48] dgrace: then the value of BROWSER_NAME will be iphone or ipad
+[2013-05-24 08:31:29] nirvdrum: But BUNDLE_NAME would be null, right?
+[2013-05-24 08:32:17] dgrace: yes, i 'think' BUNDLE_NAME should be blank too, need to double check. i know for certain that BROWSER_NAME will be either iphone or ipad
+[2013-05-24 08:33:30] dgrace: i gotta go now but i'll play around with that again this evening.
+[2013-05-24 08:33:39] dgrace: sorry for breaking stuff for you yesterday!
