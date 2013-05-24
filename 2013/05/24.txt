@@ -67,3 +67,6 @@
 [2013-05-24 08:35:17] dgrace, leaving. (#ios-driver)
 [2013-05-24 08:55:05] lukeis, joining. (#ios-driver)
 [2013-05-24 09:24:16] lukeis: nirvdrum: i'm sure it does (win8 that is)… she just kepted getting into a full screen mode on her documents and didn't know how to get out of it… just kept hitting the windows key
+[2013-05-24 09:27:12] nirvdrum: Yeah.  They're sorta in a no-win situation.  Stick with the same UI elements for the past 20 years or try something different.
+[2013-05-24 09:27:53] nirvdrum: I really want to get one of these: http://www.lenovo.com/products/us/tablet/thinkpad/thinkpad-helix/
+[2013-05-24 09:29:03] lukeis: nice… we're such a converted family to apple, that with spending that much we'd rather get a mac ;)
