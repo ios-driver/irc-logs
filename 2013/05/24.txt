@@ -5,3 +5,5 @@
 [2013-05-24 01:41:37] dev_kumar, joining. (#ios-driver)
 [2013-05-24 01:41:37] dev_kumar, quitting. (Client Quit)
 [2013-05-24 01:42:12] dev_kumar, joining. (#ios-driver)
+[2013-05-24 03:29:05] dgrace, leaving. (#ios-driver)
+[2013-05-24 03:29:15] dgrace, joining. (#ios-driver)
