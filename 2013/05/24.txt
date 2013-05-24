@@ -31,3 +31,8 @@
 [2013-05-24 06:16:17] nicegraham: is that bug in all j7 versions or just from u16 onwards/
 [2013-05-24 06:17:01] nirvdrum: It's not entirely clear.  There may have been two bugs and one was cleared up.  Or it's the same bug, but different contexts.
 [2013-05-24 06:17:55] nicegraham: is the issue with java or with vmware? as in who needs to fix it?
+[2013-05-24 06:31:06] nirvdrum: Java.
+[2013-05-24 06:31:22] nirvdrum: It works in Java 6, it broke in Java 7.  It's a regression.
+[2013-05-24 06:31:45] nirvdrum: But Oracle hasn't pushed a non-security Java 7 release in over a year.
+[2013-05-24 06:31:59] nirvdrum: And it's not planning to until August, IIRC.
+[2013-05-24 06:32:15] nicegraham: hmm
