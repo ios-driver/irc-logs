@@ -83,3 +83,4 @@
 [2013-05-24 13:48:59] Hammertime38, quitting. (Read error: Connection reset by peer)
 [2013-05-24 13:59:38] nirvdrum, quitting. (Remote host closed the connection)
 [2013-05-24 15:02:09] lukeis, quitting. (Quit: Leaving.)
+[2013-05-24 15:55:59] Hammerti_, quitting. (Remote host closed the connection)
