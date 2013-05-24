@@ -14,3 +14,6 @@
 [2013-05-24 05:12:44] nicegraham: Good
 [2013-05-24 05:29:00] nirvdrum, joining. (#ios-driver)
 [2013-05-24 05:51:11] freynaud, joining. (#ios-driver)
+[2013-05-24 05:57:39] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2013-05-24 05:57:50] freynaud, joining. (#ios-driver)
+[2013-05-24 05:58:38] freynaud, quitting. (Client Quit)
