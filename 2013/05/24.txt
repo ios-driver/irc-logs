@@ -75,3 +75,4 @@
 [2013-05-24 09:51:07] nicegraham, quitting. (Ping timeout: 252 seconds)
 [2013-05-24 11:24:53] nicegraham, joining. (#ios-driver)
 [2013-05-24 12:06:01] Hammertime38, joining. (#ios-driver)
+[2013-05-24 12:47:29] Oscar, joining. (#ios-driver)
