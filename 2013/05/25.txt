@@ -13,3 +13,8 @@
 [2013-05-25 03:04:11] dev_kumar: i mean why we need .app and .ipa file to run test
 [2013-05-25 03:04:50] nicegraham: I don't know
 [2013-05-25 03:05:00] nicegraham: I only use the simulators right now
+[2013-05-25 03:05:07] nicegraham: so it hasn't been a focus for me
+[2013-05-25 03:05:11] nicegraham: there's some infor here
+[2013-05-25 03:05:12] nicegraham: https://github.com/ios-driver/ios-driver/issues/20
+[2013-05-25 03:06:12] dev_kumar: yes i have checked that issue 20 but the things are not clear to me
+[2013-05-25 03:06:32] dev_kumar: do you know who can tell me about it?
