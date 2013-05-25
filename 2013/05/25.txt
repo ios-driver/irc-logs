@@ -1,2 +1,15 @@
 [2013-05-25 01:37:37] dev_kumar, quitting. (Quit: irc2go)
 [2013-05-25 02:15:57] dgrace, joining. (#ios-driver)
+[2013-05-25 03:01:13] dev_kumar, joining. (#ios-driver)
+[2013-05-25 03:01:56] dev_kumar: hey    nicegraham
+[2013-05-25 03:02:02] nicegraham: hi
+[2013-05-25 03:02:29] dev_kumar: i was had been looking you for a long time
+[2013-05-25 03:02:35] nicegraham: ok
+[2013-05-25 03:02:40] dev_kumar: actually i want to ask some thing
+[2013-05-25 03:02:54] nicegraham: you can ask on the list if there's noone here
+[2013-05-25 03:03:01] dev_kumar: ok
+[2013-05-25 03:03:32] nicegraham: what's the question?
+[2013-05-25 03:03:49] dev_kumar: why we are archiving installed apps
+[2013-05-25 03:04:11] dev_kumar: i mean why we need .app and .ipa file to run test
+[2013-05-25 03:04:50] nicegraham: I don't know
+[2013-05-25 03:05:00] nicegraham: I only use the simulators right now
