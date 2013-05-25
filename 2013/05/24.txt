@@ -88,3 +88,5 @@
 [2013-05-24 16:18:41] Hammertime38, quitting. (Remote host closed the connection)
 [2013-05-24 16:42:46] smccarthy, quitting. (Remote host closed the connection)
 [2013-05-24 22:26:44] dev_kumar, joining. (#ios-driver)
+[2013-05-24 22:45:52] dev_kumar: hey
+[2013-05-24 22:45:57] dev_kumar: nicegraham
