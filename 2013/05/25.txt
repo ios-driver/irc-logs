@@ -21,3 +21,4 @@
 [2013-05-25 03:10:15] nicegraham: freynaud
 [2013-05-25 03:12:01] dev_kumar: ok
 [2013-05-25 03:56:09] dgrace, leaving. (#ios-driver)
+[2013-05-25 06:18:38] dev_kumar, quitting. (Quit: irc2go)
