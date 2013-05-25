@@ -92,3 +92,4 @@
 [2013-05-24 22:45:57] dev_kumar: nicegraham
 [2013-05-24 22:50:04] dev_kumar, quitting. (Ping timeout: 245 seconds)
 [2013-05-24 22:56:21] dev_kumar, joining. (#ios-driver)
+[2013-05-24 23:10:58] dev_kumar, quitting. (Quit: irc2go)
