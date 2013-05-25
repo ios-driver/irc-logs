@@ -18,3 +18,5 @@
 [2013-05-25 03:05:12] nicegraham: https://github.com/ios-driver/ios-driver/issues/20
 [2013-05-25 03:06:12] dev_kumar: yes i have checked that issue 20 but the things are not clear to me
 [2013-05-25 03:06:32] dev_kumar: do you know who can tell me about it?
+[2013-05-25 03:10:15] nicegraham: freynaud
+[2013-05-25 03:12:01] dev_kumar: ok
