@@ -90,3 +90,4 @@
 [2013-05-24 22:26:44] dev_kumar, joining. (#ios-driver)
 [2013-05-24 22:45:52] dev_kumar: hey
 [2013-05-24 22:45:57] dev_kumar: nicegraham
+[2013-05-24 22:50:04] dev_kumar, quitting. (Ping timeout: 245 seconds)
