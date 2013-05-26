@@ -35,3 +35,4 @@
 [2013-05-25 13:23:45] Hammertime38, quitting. (Client Quit)
 [2013-05-25 21:10:51] smccarthy, quitting. (Read error: Connection reset by peer)
 [2013-05-25 21:11:25] smccarthy, joining. (#ios-driver)
+[2013-05-25 21:39:35] smccarthy, quitting. (Remote host closed the connection)
