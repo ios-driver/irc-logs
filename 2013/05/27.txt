@@ -19,3 +19,4 @@
 [2013-05-27 08:21:44] dgrace, leaving. (#ios-driver)
 [2013-05-27 08:37:24] ddary, quitting. (Quit: ddary)
 [2013-05-27 09:02:00] ddary, joining. (#ios-driver)
+[2013-05-27 10:04:27] ddary, leaving. (#ios-driver)
