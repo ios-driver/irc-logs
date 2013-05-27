@@ -10,3 +10,9 @@
 [2013-05-27 06:13:19] dev_kumar, quitting. (Quit: irc2go)
 [2013-05-27 06:35:32] smccarthy, joining. (#ios-driver)
 [2013-05-27 07:13:46] ddary, joining. (#ios-driver)
+[2013-05-27 08:06:07] ios-driver-git, joining. (#ios-driver)
+[2013-05-27 08:06:07] ios-driver-git: [ios-driver] nicegraham pushed 4 new commits to dev: http://git.io/1MOXgg
+[2013-05-27 08:06:07] ios-driver-git: ios-driver/dev e9d5bcf Darragh Grace: previous commit broke mobile safari capabilities, this will handle mobile safari capabilities correctly
+[2013-05-27 08:06:07] ios-driver-git: ios-driver/dev d57f9e7 Darragh Grace: problems getting safari icons for grod proxy, indicate safari in Grid console with *safari*
+[2013-05-27 08:06:07] ios-driver-git: ios-driver/dev 444f718 Darragh Grace: improve exception messages for ease of debugging Grid connection problems
+[2013-05-27 08:06:07] ios-driver-git, leaving. (#ios-driver)
