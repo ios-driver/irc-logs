@@ -8,3 +8,4 @@
 [2013-05-27 03:53:24] dev_kumar, quitting. (Ping timeout: 245 seconds)
 [2013-05-27 05:39:05] dev_kumar, joining. (#ios-driver)
 [2013-05-27 06:13:19] dev_kumar, quitting. (Quit: irc2go)
+[2013-05-27 06:35:32] smccarthy, joining. (#ios-driver)
