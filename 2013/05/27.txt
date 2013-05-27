@@ -16,3 +16,4 @@
 [2013-05-27 08:06:07] ios-driver-git: ios-driver/dev d57f9e7 Darragh Grace: problems getting safari icons for grod proxy, indicate safari in Grid console with *safari*
 [2013-05-27 08:06:07] ios-driver-git: ios-driver/dev 444f718 Darragh Grace: improve exception messages for ease of debugging Grid connection problems
 [2013-05-27 08:06:07] ios-driver-git, leaving. (#ios-driver)
+[2013-05-27 08:21:44] dgrace, leaving. (#ios-driver)
