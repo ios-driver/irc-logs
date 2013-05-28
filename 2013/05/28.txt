@@ -74,3 +74,5 @@
 [2013-05-28 14:34:24] Hammertime38: :seen freynaud
 [2013-05-28 14:55:40] smccarthy2, joining. (#ios-driver)
 [2013-05-28 14:58:50] smccarthy, quitting. (Ping timeout: 256 seconds)
+[2013-05-28 15:00:05] smccarthy2, quitting. (Ping timeout: 248 seconds)
+[2013-05-28 15:00:37] smccarthy, joining. (#ios-driver)
