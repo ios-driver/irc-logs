@@ -39,3 +39,22 @@
 [2013-05-28 12:36:22] Hammertime38, quitting. (Remote host closed the connection)
 [2013-05-28 12:51:59] Hammertime38, joining. (#ios-driver)
 [2013-05-28 12:53:03] coreygriggs: anybody know how to change the iOS version in the python bindings? or is there support for that?
+[2013-05-28 12:55:38] AutomatedTester: coreygriggs: does it come over with the desired capabilities?
+[2013-05-28 12:55:43] AutomatedTester: lukeis: ^
+[2013-05-28 12:55:50] nirvdrum: Does the simulator even let you do that?
+[2013-05-28 12:55:55] nicegraham: yeah
+[2013-05-28 12:55:55] freynaud: yes
+[2013-05-28 12:55:56] lukeis: yeah, it should just be in the capabilities
+[2013-05-28 12:55:56] freynaud: sdkVersion
+[2013-05-28 12:56:03] nicegraham: you need to create the exiled sdk folder
+[2013-05-28 12:56:14] coreygriggs: ok
+[2013-05-28 12:56:27] coreygriggs: i have it specified in the desired_capabilities
+[2013-05-28 12:56:53] coreygriggs: how do I create the exiled sdk? (Xcode noob)
+[2013-05-28 12:57:07] nicegraham: you just need to create a folder
+[2013-05-28 12:57:15] freynaud: it's not really xcode
+[2013-05-28 12:57:23] freynaud: it's a workaround
+[2013-05-28 12:57:27] nicegraham: http://ios-driver.github.io/ios-driver/faq.html
+[2013-05-28 12:57:34] freynaud: you cannot specify the sdk
+[2013-05-28 12:57:35] nicegraham: under exiled sdks
+[2013-05-28 12:58:04] freynaud: but if you remove it, xcode takes the first one it find
+[2013-05-28 12:58:25] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
