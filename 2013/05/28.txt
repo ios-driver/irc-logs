@@ -61,3 +61,5 @@
 [2013-05-28 13:08:22] coreygriggs: so the workaround is to remove the most recent simulator(s) sdk to run tests on a previous version?
 [2013-05-28 13:09:15] nicegraham: yeah, that's why you need the exiledsdk folder
 [2013-05-28 13:09:22] nicegraham: that's where ios-driver puts the more recent ones
+[2013-05-28 13:10:55] coreygriggs: ahhh gotcha! i'll try that out
+[2013-05-28 13:12:15] Hammertime38, quitting. (Remote host closed the connection)
