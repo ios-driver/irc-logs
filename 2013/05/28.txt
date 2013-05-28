@@ -28,3 +28,4 @@
 [2013-05-28 08:17:08] Oscar1, joining. (#ios-driver)
 [2013-05-28 08:28:44] lukeis, joining. (#ios-driver)
 [2013-05-28 08:38:40] smccarthy, joining. (#ios-driver)
+[2013-05-28 08:59:56] coreygriggs, joining. (#ios-driver)
