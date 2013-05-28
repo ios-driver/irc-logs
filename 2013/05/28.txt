@@ -12,3 +12,4 @@
 [2013-05-28 06:24:57] Oscar1, joining. (#ios-driver)
 [2013-05-28 06:26:18] Oscar1, changing nick to Oscar_Rieken.
 [2013-05-28 06:40:03] AutomatedTester: freynaud: you're moving to switzerland?
+[2013-05-28 06:49:51] freynaud: AutomatedTester: I started there May 1st
