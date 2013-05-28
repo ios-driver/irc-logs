@@ -69,3 +69,6 @@
 [2013-05-28 14:04:40] lukeis, quitting. (Quit: Leaving.)
 [2013-05-28 14:22:43] Hammertime38, joining. (#ios-driver)
 [2013-05-28 14:27:01] Hammertime38, quitting. (Ping timeout: 248 seconds)
+[2013-05-28 14:30:53] Hammertime38, joining. (#ios-driver)
+[2013-05-28 14:34:14] Hammertime38: :help
+[2013-05-28 14:34:24] Hammertime38: :seen freynaud
