@@ -63,3 +63,5 @@
 [2013-05-28 13:09:22] nicegraham: that's where ios-driver puts the more recent ones
 [2013-05-28 13:10:55] coreygriggs: ahhh gotcha! i'll try that out
 [2013-05-28 13:12:15] Hammertime38, quitting. (Remote host closed the connection)
+[2013-05-28 13:47:13] Oscar1, quitting. (Quit: Leaving.)
+[2013-05-28 13:47:27] Oscar, joining. (#ios-driver)
