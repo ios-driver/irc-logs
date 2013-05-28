@@ -4,3 +4,4 @@
 [2013-05-28 03:53:44] dawagner, joining. (#ios-driver)
 [2013-05-28 04:25:48] ddary, leaving. (#ios-driver)
 [2013-05-28 05:26:32] dgrace, leaving. (#ios-driver)
+[2013-05-28 05:55:37] freynaud, joining. (#ios-driver)
