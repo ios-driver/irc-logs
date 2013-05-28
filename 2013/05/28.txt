@@ -34,3 +34,4 @@
 [2013-05-28 11:53:38] dawagner, quitting. (Quit: Leaving)
 [2013-05-28 12:10:44] Hammertime38, joining. (#ios-driver)
 [2013-05-28 12:19:21] Hammertime38, quitting. (Ping timeout: 252 seconds)
+[2013-05-28 12:20:40] Hammertime38, joining. (#ios-driver)
