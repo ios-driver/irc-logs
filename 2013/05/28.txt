@@ -6,3 +6,6 @@
 [2013-05-28 05:26:32] dgrace, leaving. (#ios-driver)
 [2013-05-28 05:55:37] freynaud, joining. (#ios-driver)
 [2013-05-28 06:11:25] nicegraham: freynaud: less than two weeks now... how's the demo progressing?
+[2013-05-28 06:16:42] freynaud: slower than what I want
+[2013-05-28 06:17:01] freynaud: my priority is to find a place to live in switzerland at the moment
+[2013-05-28 06:17:05] freynaud: that's my evenings
