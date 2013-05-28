@@ -24,3 +24,4 @@
 [2013-05-27 21:07:13] nirvdrum, quitting. (Ping timeout: 276 seconds)
 [2013-05-27 21:56:42] dev_kumar, joining. (#ios-driver)
 [2013-05-27 21:58:46] smccarthy, quitting. (Remote host closed the connection)
+[2013-05-27 22:09:19] dev_kumar, quitting. (Quit: irc2go)
