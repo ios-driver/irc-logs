@@ -67,3 +67,4 @@
 [2013-05-28 13:47:27] Oscar, joining. (#ios-driver)
 [2013-05-28 13:52:00] Oscar, quitting. (Client Quit)
 [2013-05-28 14:04:40] lukeis, quitting. (Quit: Leaving.)
+[2013-05-28 14:22:43] Hammertime38, joining. (#ios-driver)
