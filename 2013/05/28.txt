@@ -5,3 +5,4 @@
 [2013-05-28 04:25:48] ddary, leaving. (#ios-driver)
 [2013-05-28 05:26:32] dgrace, leaving. (#ios-driver)
 [2013-05-28 05:55:37] freynaud, joining. (#ios-driver)
+[2013-05-28 06:11:25] nicegraham: freynaud: less than two weeks now... how's the demo progressing?
