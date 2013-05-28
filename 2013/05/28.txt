@@ -58,3 +58,6 @@
 [2013-05-28 12:57:35] nicegraham: under exiled sdks
 [2013-05-28 12:58:04] freynaud: but if you remove it, xcode takes the first one it find
 [2013-05-28 12:58:25] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2013-05-28 13:08:22] coreygriggs: so the workaround is to remove the most recent simulator(s) sdk to run tests on a previous version?
+[2013-05-28 13:09:15] nicegraham: yeah, that's why you need the exiledsdk folder
+[2013-05-28 13:09:22] nicegraham: that's where ios-driver puts the more recent ones
