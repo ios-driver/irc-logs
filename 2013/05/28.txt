@@ -17,3 +17,8 @@
 [2013-05-28 06:50:13] freynaud: I'm trying to setup everything so that my family can join me now
 [2013-05-28 06:50:41] freynaud: nicegraham:thx. I'm trying to make libimobiule work without extra setup
 [2013-05-28 06:53:03] nicegraham: hmm, not sure I'll be much help there... would probably take me two weeks to get my head around what's already in place
+[2013-05-28 07:02:00] freynaud: i'm nearly there I think
+[2013-05-28 07:02:16] freynaud: it's just a matter of spending the time
+[2013-05-28 07:02:38] freynaud: I need to switch to new "clean" VMs each time as it impacts the system
+[2013-05-28 07:04:12] AutomatedTester: freynaud: are you there now?
+[2013-05-28 07:04:21] AutomatedTester: since we are 28/05
