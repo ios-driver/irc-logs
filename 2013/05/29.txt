@@ -17,3 +17,4 @@
 [2013-05-29 07:53:22] ddary, leaving. (#ios-driver)
 [2013-05-29 08:00:09] Hammertime38, joining. (#ios-driver)
 [2013-05-29 08:22:45] Hammertime38, quitting. (Remote host closed the connection)
+[2013-05-29 08:29:04] Hammertime38, joining. (#ios-driver)
