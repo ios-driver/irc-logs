@@ -21,3 +21,4 @@
 [2013-05-29 08:37:17] smccarthy, joining. (#ios-driver)
 [2013-05-29 08:40:31] lukeis, joining. (#ios-driver)
 [2013-05-29 08:54:23] lukeis, quitting. (Quit: Leaving.)
+[2013-05-29 09:17:19] lukeis, joining. (#ios-driver)
