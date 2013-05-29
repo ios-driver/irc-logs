@@ -37,3 +37,8 @@
 [2013-05-29 10:56:57] admc, quitting. (Quit: Leaving.)
 [2013-05-29 11:08:42] admc, joining. (#ios-driver)
 [2013-05-29 11:25:20] lukeis, joining. (#ios-driver)
+[2013-05-29 11:56:37] smccarthy, joining. (#ios-driver)
+[2013-05-29 11:58:17] smccarth_, joining. (#ios-driver)
+[2013-05-29 11:58:31] smccarthy, quitting. (Read error: Connection reset by peer)
+[2013-05-29 11:58:48] smccarth_, quitting. (Remote host closed the connection)
+[2013-05-29 11:59:54] smccarthy2, quitting. (Ping timeout: 252 seconds)
