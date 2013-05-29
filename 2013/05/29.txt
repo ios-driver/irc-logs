@@ -6,3 +6,4 @@
 [2013-05-29 06:01:30] Oscar1, joining. (#ios-driver)
 [2013-05-29 06:02:26] Oscar1, quitting. (Client Quit)
 [2013-05-29 06:12:34] freynaud, joining. (#ios-driver)
+[2013-05-29 06:44:11] admc, joining. (#ios-driver)
