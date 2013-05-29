@@ -31,3 +31,6 @@
 [2013-05-29 10:32:21] Hammertime38, quitting. (Ping timeout: 248 seconds)
 [2013-05-29 10:32:49] smccarthy, quitting. (Ping timeout: 248 seconds)
 [2013-05-29 10:39:27] coreygriggs, joining. (#ios-driver)
+[2013-05-29 10:51:14] santiycr, joining. (#ios-driver)
+[2013-05-29 10:51:23] santiycr, quitting. (Client Quit)
+[2013-05-29 10:53:15] Hammerti_, quitting. (Remote host closed the connection)
