@@ -61,3 +61,4 @@
 [2013-05-29 15:04:01] smccarthy, quitting. (Ping timeout: 276 seconds)
 [2013-05-29 15:09:11] lukeis, quitting. (Quit: Leaving.)
 [2013-05-29 15:16:18] coreygriggs, quitting. (Quit: coreygriggs)
+[2013-05-29 15:31:17] lukeis, joining. (#ios-driver)
