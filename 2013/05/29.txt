@@ -36,3 +36,4 @@
 [2013-05-29 10:53:15] Hammerti_, quitting. (Remote host closed the connection)
 [2013-05-29 10:56:57] admc, quitting. (Quit: Leaving.)
 [2013-05-29 11:08:42] admc, joining. (#ios-driver)
+[2013-05-29 11:25:20] lukeis, joining. (#ios-driver)
