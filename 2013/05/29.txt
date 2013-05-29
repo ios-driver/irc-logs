@@ -15,3 +15,4 @@
 [2013-05-29 07:44:35] santiycr, joining. (#ios-driver)
 [2013-05-29 07:44:57] santiycr, quitting. (Client Quit)
 [2013-05-29 07:53:22] ddary, leaving. (#ios-driver)
+[2013-05-29 08:00:09] Hammertime38, joining. (#ios-driver)
