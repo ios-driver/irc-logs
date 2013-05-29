@@ -63,3 +63,4 @@
 [2013-05-29 15:16:18] coreygriggs, quitting. (Quit: coreygriggs)
 [2013-05-29 15:31:17] lukeis, joining. (#ios-driver)
 [2013-05-29 15:46:45] lukeis, quitting. (Quit: Leaving.)
+[2013-05-29 15:52:20] Hammertime38, quitting. (Remote host closed the connection)
