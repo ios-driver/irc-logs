@@ -9,3 +9,5 @@
 [2013-05-29 06:44:11] admc, joining. (#ios-driver)
 [2013-05-29 06:52:17] Oscar1, joining. (#ios-driver)
 [2013-05-29 06:52:50] Oscar1, changing nick to Oscar_Rieken.
+[2013-05-29 07:11:48] nirvdrum, joining. (#ios-driver)
+[2013-05-29 07:13:30] santiycr, joining. (#ios-driver)
