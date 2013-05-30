@@ -15,3 +15,5 @@
 [2013-05-30 06:38:58] Oscar1, joining. (#ios-driver)
 [2013-05-30 06:58:17] Oscar1, changing nick to Oscar_Rieken.
 [2013-05-30 07:19:38] arkmon_, quitting. (Quit: ZZZzzz…)
+[2013-05-30 07:53:23] ddary, joining. (#ios-driver)
+[2013-05-30 07:53:51] Hammertime38, joining. (#ios-driver)
