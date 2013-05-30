@@ -11,3 +11,4 @@
 [2013-05-30 06:07:31] coreygriggs, quitting. (Ping timeout: 276 seconds)
 [2013-05-30 06:07:31] coreygriggs_, changing nick to coreygriggs.
 [2013-05-30 06:15:12] coreygriggs, quitting. (Quit: coreygriggs)
+[2013-05-30 06:32:08] coreygriggs, joining. (#ios-driver)
