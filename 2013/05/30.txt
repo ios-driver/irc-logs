@@ -21,3 +21,5 @@
 [2013-05-30 08:31:14] ddary, quitting. (Remote host closed the connection)
 [2013-05-30 08:34:24] arkmon_, joining. (#ios-driver)
 [2013-05-30 08:34:52] arkmon_, quitting. (Client Quit)
+[2013-05-30 08:36:23] ddary, joining. (#ios-driver)
+[2013-05-30 08:39:01] lukeis, joining. (#ios-driver)
