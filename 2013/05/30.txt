@@ -14,3 +14,4 @@
 [2013-05-30 06:32:08] coreygriggs, joining. (#ios-driver)
 [2013-05-30 06:38:58] Oscar1, joining. (#ios-driver)
 [2013-05-30 06:58:17] Oscar1, changing nick to Oscar_Rieken.
+[2013-05-30 07:19:38] arkmon_, quitting. (Quit: ZZZzzz…)
