@@ -18,3 +18,6 @@
 [2013-05-30 07:53:23] ddary, joining. (#ios-driver)
 [2013-05-30 07:53:51] Hammertime38, joining. (#ios-driver)
 [2013-05-30 08:16:41] admc, joining. (#ios-driver)
+[2013-05-30 08:31:14] ddary, quitting. (Remote host closed the connection)
+[2013-05-30 08:34:24] arkmon_, joining. (#ios-driver)
+[2013-05-30 08:34:52] arkmon_, quitting. (Client Quit)
