@@ -12,3 +12,4 @@
 [2013-05-30 06:07:31] coreygriggs_, changing nick to coreygriggs.
 [2013-05-30 06:15:12] coreygriggs, quitting. (Quit: coreygriggs)
 [2013-05-30 06:32:08] coreygriggs, joining. (#ios-driver)
+[2013-05-30 06:38:58] Oscar1, joining. (#ios-driver)
