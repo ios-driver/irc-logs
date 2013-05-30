@@ -34,3 +34,6 @@
 [2013-05-30 10:43:31] lukeis: Selendroid
 [2013-05-30 10:43:46] lukeis: we aren't testing the native browser (yet)
 [2013-05-30 10:44:02] lukeis: will starting to run chromedriver2 soonish
+[2013-05-30 10:53:40] nirvdrum: Ahh.
+[2013-05-30 10:54:36] nirvdrum: Thanks.  I'll have to check that out.
+[2013-05-30 10:54:55] lukeis: nirvdrum: do you have a native app to test?
