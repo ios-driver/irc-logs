@@ -60,3 +60,4 @@
 [2013-05-30 10:58:56] lukeis: pick my brain at the conference :)
 [2013-05-30 10:59:27] lukeis: selendroid is getting there… but it only drives native apps
 [2013-05-30 10:59:31] nirvdrum: Will do.
+[2013-05-30 11:00:30] lukeis: i made something i called gridb, that could be adapted to do what you want pretty easily… you could always write it in ruby too if you want (only took me a couple days to write)
