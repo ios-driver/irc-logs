@@ -66,3 +66,6 @@
 [2013-05-29 15:52:20] Hammertime38, quitting. (Remote host closed the connection)
 [2013-05-29 16:45:28] smccarthy2, quitting. (Remote host closed the connection)
 [2013-05-29 17:02:59] Oscar, joining. (#ios-driver)
+[2013-05-29 17:16:13] Oscar, quitting. (Quit: Leaving.)
+[2013-05-29 17:16:47] Oscar, joining. (#ios-driver)
+[2013-05-29 17:18:01] Oscar, quitting. (Client Quit)
