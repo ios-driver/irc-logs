@@ -79,3 +79,4 @@
 [2013-05-30 12:36:50] smccarthy, joining. (#ios-driver)
 [2013-05-30 12:44:52] Hammertime38, quitting. (Remote host closed the connection)
 [2013-05-30 12:49:55] Hammertime38, joining. (#ios-driver)
+[2013-05-30 13:06:59] smccarthy2, joining. (#ios-driver)
