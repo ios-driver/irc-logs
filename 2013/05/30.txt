@@ -37,3 +37,26 @@
 [2013-05-30 10:53:40] nirvdrum: Ahh.
 [2013-05-30 10:54:36] nirvdrum: Thanks.  I'll have to check that out.
 [2013-05-30 10:54:55] lukeis: nirvdrum: do you have a native app to test?
+[2013-05-30 10:55:22] lukeis: or just thinking of doing chromedriver2?
+[2013-05-30 10:55:24] nirvdrum: No.  I'm just looking at options for expanding mogotest into android.
+[2013-05-30 10:55:28] lukeis: ah
+[2013-05-30 10:55:37] lukeis: you could try the AndroidDriver
+[2013-05-30 10:55:39] nirvdrum: Now that I have iOS support, naturally people are asking for android.
+[2013-05-30 10:55:44] lukeis: heh ;)
+[2013-05-30 10:56:06] nirvdrum: The android driver hasn't been updated since 2.21.0 or something though, right?
+[2013-05-30 10:56:35] lukeis: there's a latest release (and simon recently checked in a new prebuilt to the source tree… grrr binaries in git)
+[2013-05-30 10:56:48] nirvdrum: Ahh, I'll have to check that out then.
+[2013-05-30 10:57:07] nirvdrum: Off-hand, do you know if it'll spin up an emulator?  Or does that need to be managed separately?
+[2013-05-30 10:57:48] lukeis: so, if you use Dominik's new selendroid server, it will start an emulator (but you need to configure / predefine them)
+[2013-05-30 10:57:55] lukeis: i haven't used his thing yet
+[2013-05-30 10:58:10] lukeis: are you talking chromedriver2?
+[2013-05-30 10:58:13] lukeis: or ?
+[2013-05-30 10:58:23] lukeis: sorry… keep defaulting my head to selendroid
+[2013-05-30 10:58:29] nirvdrum: I was talking android driver.
+[2013-05-30 10:58:37] lukeis: no, that's just an app
+[2013-05-30 10:58:41] lukeis: (apk)
+[2013-05-30 10:58:41] nirvdrum: But I really don't know what the difference between any of them is.
+[2013-05-30 10:58:52] nirvdrum: I'd like something akin to ios-driver for android :-)
+[2013-05-30 10:58:56] lukeis: pick my brain at the conference :)
+[2013-05-30 10:59:27] lukeis: selendroid is getting there… but it only drives native apps
+[2013-05-30 10:59:31] nirvdrum: Will do.
