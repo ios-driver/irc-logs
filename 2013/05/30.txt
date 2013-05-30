@@ -63,3 +63,5 @@
 [2013-05-30 11:00:30] lukeis: i made something i called gridb, that could be adapted to do what you want pretty easily… you could always write it in ruby too if you want (only took me a couple days to write)
 [2013-05-30 11:05:24] nirvdrum: Okay.  I haven't run the android emulator in about 4 years.  So I have some research to do.
 [2013-05-30 11:05:54] lukeis: i can walk your through it in just a few minutes (if you want to do a goto meeting or something later today)
+[2013-05-30 11:21:08] nirvdrum: That'd be helpful.  I should download the SDK first.
+[2013-05-30 11:22:17] nirvdrum: It's helpful of Google to report a 420 MB download in bytes.
