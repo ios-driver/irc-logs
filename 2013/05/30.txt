@@ -30,3 +30,7 @@
 [2013-05-30 09:29:58] smccarthy, quitting. (Ping timeout: 256 seconds)
 [2013-05-30 09:31:38] admc, joining. (#ios-driver)
 [2013-05-30 09:37:05] Oscar_Rieken, quitting. (Quit: Leaving.)
+[2013-05-30 10:43:20] nirvdrum: lukeis: What are you using for android testing?
+[2013-05-30 10:43:31] lukeis: Selendroid
+[2013-05-30 10:43:46] lukeis: we aren't testing the native browser (yet)
+[2013-05-30 10:44:02] lukeis: will starting to run chromedriver2 soonish
