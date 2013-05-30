@@ -70,3 +70,4 @@
 [2013-05-29 17:16:47] Oscar, joining. (#ios-driver)
 [2013-05-29 17:18:01] Oscar, quitting. (Client Quit)
 [2013-05-29 17:20:30] admc, quitting. (Ping timeout: 264 seconds)
+[2013-05-29 17:27:30] admc, joining. (#ios-driver)
