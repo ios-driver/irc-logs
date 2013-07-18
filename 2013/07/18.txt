@@ -61,3 +61,6 @@
 [2013-07-18 13:14:42] nicegraham: he heffeman
 [2013-07-18 13:16:42] nicegraham: heffernan: I just realised I got a mail from you earlier which I didn't reply to
 [2013-07-18 13:19:56] heffernan: Yes I don't know much about the process for adding code, test and getting it reviewed.
+[2013-07-18 13:20:15] nicegraham: ok, I just replied to your mail
+[2013-07-18 13:20:28] nicegraham: but basically you want to create a pull request back into the main repo
+[2013-07-18 13:20:58] nicegraham: we're working on the dev branch, so ideally merge your changes into that branch
