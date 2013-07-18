@@ -54,3 +54,5 @@
 [2013-07-18 09:53:26] lukeis: i don't know, there's options to configure it i think, just haven't done / looked into it
 [2013-07-18 09:54:23] lukeis: android with it's millions of device combinations will be the death of me… thankfully they've narrowed it down to 10 that they want to support here
 [2013-07-18 11:07:44] heffernan, joining. (#ios-driver)
+[2013-07-18 11:26:16] smccarthy2, quitting. (Remote host closed the connection)
+[2013-07-18 11:26:55] smccarthy, joining. (#ios-driver)
