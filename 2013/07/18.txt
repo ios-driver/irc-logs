@@ -73,3 +73,4 @@
 [2013-07-18 13:29:03] nicegraham: and select run
 [2013-07-18 13:29:11] nicegraham: that should run all the integration tests
 [2013-07-18 13:59:00] nicegraham: good night all
+[2013-07-18 14:49:37] jlipps, quitting. (Quit: Leaving.)
