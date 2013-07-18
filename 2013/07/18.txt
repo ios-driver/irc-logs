@@ -59,3 +59,5 @@
 [2013-07-18 12:54:28] heffernan: Hello, I am trying to implement logging for DevToolsin IOSDriver and I have a few question.
 [2013-07-18 12:57:18] jlipps, joining. (#ios-driver)
 [2013-07-18 13:14:42] nicegraham: he heffeman
+[2013-07-18 13:16:42] nicegraham: heffernan: I just realised I got a mail from you earlier which I didn't reply to
+[2013-07-18 13:19:56] heffernan: Yes I don't know much about the process for adding code, test and getting it reviewed.
