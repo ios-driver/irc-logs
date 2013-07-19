@@ -82,3 +82,4 @@
 [2013-07-18 19:47:51] jlipps, quitting. (Quit: Leaving.)
 [2013-07-18 21:51:54] smccarthy, quitting. (Remote host closed the connection)
 [2013-07-18 22:18:33] freynaud, joining. (#ios-driver)
+[2013-07-18 23:26:40] freynaud, quitting. (Quit: freynaud)
