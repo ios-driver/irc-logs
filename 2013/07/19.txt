@@ -12,3 +12,5 @@
 [2013-07-19 11:43:25] freynaud, quitting. (Client Quit)
 [2013-07-19 13:06:22] freynaud, joining. (#ios-driver)
 [2013-07-19 13:07:59] freynaud, quitting. (Client Quit)
+[2013-07-19 13:13:33] freynaud, joining. (#ios-driver)
+[2013-07-19 13:14:29] freynaud, quitting. (Client Quit)
