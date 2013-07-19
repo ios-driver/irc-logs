@@ -80,3 +80,4 @@
 [2013-07-18 19:12:19] jlipps, joining. (#ios-driver)
 [2013-07-18 19:41:28] nirvdrum, quitting. (Ping timeout: 276 seconds)
 [2013-07-18 19:47:51] jlipps, quitting. (Quit: Leaving.)
+[2013-07-18 21:51:54] smccarthy, quitting. (Remote host closed the connection)
