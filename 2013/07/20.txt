@@ -1,0 +1,6 @@
+[2013-07-20 02:06:24] hachi, quitting. (Ping timeout: 245 seconds)
+[2013-07-20 02:06:28] AutomatedTester, quitting. (*.net *.split)
+[2013-07-20 02:06:31] nicegraham, quitting. (*.net *.split)
+[2013-07-20 02:07:50] hachi_, joining. (#ios-driver)
+[2013-07-20 02:07:50] nicegraham, joining. (#ios-driver)
+[2013-07-20 02:07:50] AutomatedTester, joining. (#ios-driver)
