@@ -18,3 +18,4 @@
 [2013-07-19 15:03:52] lukeis, quitting. (Quit: Leaving.)
 [2013-07-19 17:13:56] smccarthy, quitting. (Remote host closed the connection)
 [2013-07-19 17:16:15] jlipps, quitting. (Quit: Leaving.)
+[2013-07-19 20:28:50] nirvdrum, quitting. (Ping timeout: 246 seconds)
