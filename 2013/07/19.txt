@@ -19,3 +19,6 @@
 [2013-07-19 17:13:56] smccarthy, quitting. (Remote host closed the connection)
 [2013-07-19 17:16:15] jlipps, quitting. (Quit: Leaving.)
 [2013-07-19 20:28:50] nirvdrum, quitting. (Ping timeout: 246 seconds)
+[2013-07-19 21:15:09] jlipps, joining. (#ios-driver)
+[2013-07-19 21:15:14] jlipps, quitting. (Read error: Connection reset by peer)
+[2013-07-19 21:15:20] jlipps1, joining. (#ios-driver)
