@@ -24,3 +24,4 @@
 [2013-07-19 21:15:20] jlipps1, joining. (#ios-driver)
 [2013-07-19 21:28:21] jlipps1, leaving. (#ios-driver)
 [2013-07-19 21:28:52] jlipps, joining. (#ios-driver)
+[2013-07-19 21:54:16] jlipps, quitting. (Quit: Leaving.)
