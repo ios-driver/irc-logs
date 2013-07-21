@@ -9,3 +9,4 @@
 [2013-07-20 02:24:53] ios-driverbot, quitting. (*.net *.split)
 [2013-07-20 09:59:29] smccarthy, joining. (#ios-driver)
 [2013-07-20 11:23:30] jlipps, joining. (#ios-driver)
+[2013-07-20 18:20:26] jlipps, quitting. (Quit: Leaving.)
