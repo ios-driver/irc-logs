@@ -8,3 +8,4 @@
 [2013-07-21 19:03:38] smccarthy, joining. (#ios-driver)
 [2013-07-21 21:08:10] smccarthy2, joining. (#ios-driver)
 [2013-07-21 21:13:08] smccarthy, quitting. (*.net *.split)
+[2013-07-21 22:03:17] smccarthy2, quitting. (Remote host closed the connection)
