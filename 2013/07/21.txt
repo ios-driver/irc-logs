@@ -5,3 +5,4 @@
 [2013-07-21 17:25:15] jlipps, quitting. (Read error: Connection reset by peer)
 [2013-07-21 17:25:20] jlipps1, joining. (#ios-driver)
 [2013-07-21 17:25:52] jlipps1, quitting. (Client Quit)
+[2013-07-21 19:03:38] smccarthy, joining. (#ios-driver)
