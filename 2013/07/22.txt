@@ -7,3 +7,8 @@
 [2013-07-22 08:07:16] Hammertime38, joining. (#ios-driver)
 [2013-07-22 08:26:59] smccarthy, joining. (#ios-driver)
 [2013-07-22 08:41:57] lukeis, joining. (#ios-driver)
+[2013-07-22 11:34:04] ios-driver-git, joining. (#ios-driver)
+[2013-07-22 11:34:05] ios-driver-git: [ios-driver] ags313 pushed 2 new commits to dev: http://git.io/defEdw
+[2013-07-22 11:34:05] ios-driver-git: ios-driver/dev fdcad9e Andrzej Grzesik: specified repo and license name in pom
+[2013-07-22 11:34:05] ios-driver-git: ios-driver/dev 14192a7 Andrzej Grzesik: added license and contact info to readme
+[2013-07-22 11:34:05] ios-driver-git, leaving. (#ios-driver)
