@@ -12,3 +12,4 @@
 [2013-07-22 11:34:05] ios-driver-git: ios-driver/dev fdcad9e Andrzej Grzesik: specified repo and license name in pom
 [2013-07-22 11:34:05] ios-driver-git: ios-driver/dev 14192a7 Andrzej Grzesik: added license and contact info to readme
 [2013-07-22 11:34:05] ios-driver-git, leaving. (#ios-driver)
+[2013-07-22 11:42:33] jlipps, joining. (#ios-driver)
