@@ -1,3 +1,4 @@
 [2013-07-22 02:12:13] freynaud, joining. (#ios-driver)
 [2013-07-22 02:19:43] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-07-22 04:25:03] freynaud, joining. (#ios-driver)
+[2013-07-22 05:24:46] freynaud, quitting. (Ping timeout: 264 seconds)
