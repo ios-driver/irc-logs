@@ -6,3 +6,4 @@
 [2013-07-22 08:05:12] Hammertime38, quitting. (Ping timeout: 245 seconds)
 [2013-07-22 08:07:16] Hammertime38, joining. (#ios-driver)
 [2013-07-22 08:26:59] smccarthy, joining. (#ios-driver)
+[2013-07-22 08:41:57] lukeis, joining. (#ios-driver)
