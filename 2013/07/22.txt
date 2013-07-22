@@ -17,3 +17,4 @@
 [2013-07-22 14:38:51] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/A_hyqw
 [2013-07-22 14:38:51] ios-driver-git: ios-driver/dev 1363d1b rsalvador: Fixes #86.
 [2013-07-22 14:38:51] ios-driver-git, leaving. (#ios-driver)
+[2013-07-22 15:00:52] smccarthy, quitting. (Remote host closed the connection)
