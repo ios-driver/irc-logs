@@ -3,3 +3,5 @@
 [2013-07-22 04:25:03] freynaud, joining. (#ios-driver)
 [2013-07-22 05:24:46] freynaud, quitting. (Ping timeout: 264 seconds)
 [2013-07-22 07:59:55] Hammertime38, joining. (#ios-driver)
+[2013-07-22 08:05:12] Hammertime38, quitting. (Ping timeout: 245 seconds)
+[2013-07-22 08:07:16] Hammertime38, joining. (#ios-driver)
