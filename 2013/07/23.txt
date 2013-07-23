@@ -92,3 +92,6 @@
 [2013-07-23 10:14:45] smccarthy, joining. (#ios-driver)
 [2013-07-23 10:15:38] lukeis: is that used in the pom's currently?
 [2013-07-23 10:15:52] nicegraham: yeah
+[2013-07-23 10:20:18] nicegraham: lukeis: https://issues.sonatype.org/browse/OSSRH-6776
+[2013-07-23 10:20:36] nicegraham: I'll have to ask freynaud to set up an account so he can push too :)
+[2013-07-23 10:21:29] lukeis: nice job ;)
