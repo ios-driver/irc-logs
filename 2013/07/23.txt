@@ -77,3 +77,9 @@
 [2013-07-23 09:50:22] apailthorp: Awesomeness! Soon will find my uncle Bob. Gratitude abounds.
 [2013-07-23 09:50:22] lukeis: although this is a less than ideal approach, system scope has many problems, but if you're using it for testing it shouldn't be a problem
 [2013-07-23 09:50:33] apailthorp: k
+[2013-07-23 10:05:13] nicegraham: lukeis: what is the process to get it into a public repo?
+[2013-07-23 10:05:27] nicegraham: is it something I can get going?
+[2013-07-23 10:06:32] lukeis: nicegraham: yeah, you can follows these instructions (step by step) - https://docs.sonatype.org/display/Repository/Sonatype+OSS+Maven+Repository+Usage+Guide
+[2013-07-23 10:06:58] lukeis: when you get to the point of logging a ticket with them, please include me in the permissions to push. my username there is lsemerau
+[2013-07-23 10:07:13] nicegraham: cool, I'll get that going
+[2013-07-23 10:07:15] nicegraham: will do
