@@ -37,3 +37,5 @@
 [2013-07-23 02:47:28] nicegraham: ok, so it defaults for the en native locale
 [2013-07-23 03:04:34] operatiay, joining. (#ios-driver)
 [2013-07-23 03:05:56] operatiay: Hey, guys. Is anyone of you using TestNG to execute the tests? We've got a problem there... was hoping that someone could help to figure out the reason behind it...
+[2013-07-23 03:52:58] nicegraham: hi operatiay
+[2013-07-23 03:53:08] nicegraham: yeah, we use testng to run the tests
