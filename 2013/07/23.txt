@@ -65,3 +65,4 @@
 [2013-07-23 07:49:30] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-07-23 09:00:07] lukeis, joining. (#ios-driver)
 [2013-07-23 09:07:07] jlipps, joining. (#ios-driver)
+[2013-07-23 09:44:14] apailthorp, joining. (#ios-driver)
