@@ -66,3 +66,11 @@
 [2013-07-23 09:00:07] lukeis, joining. (#ios-driver)
 [2013-07-23 09:07:07] jlipps, joining. (#ios-driver)
 [2013-07-23 09:44:14] apailthorp, joining. (#ios-driver)
+[2013-07-23 09:45:49] apailthorp: Seeking guidance on getting IOSCapabilities for Java via Maven - total newb. Exists in a repository I can reference via pom.xml?
+[2013-07-23 09:46:47] lukeis: not yet….
+[2013-07-23 09:47:00] lukeis: it may be a little while
+[2013-07-23 09:47:22] lukeis: workaround in maven is to include the jar locally and use <system>
+[2013-07-23 09:47:26] apailthorp: So sad. Best way to push it to a local repository myself so I can run my code from multiple machines..
+[2013-07-23 09:47:27] apailthorp: yes
+[2013-07-23 09:48:00] apailthorp: newb ? How to do above - links greatly appreciated, don't want to learn much about Maven if I can help it...
+[2013-07-23 09:49:44] lukeis: http://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html#System_Dependencies
