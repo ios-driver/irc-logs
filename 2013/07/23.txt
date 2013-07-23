@@ -119,3 +119,6 @@
 [2013-07-23 15:29:45] smccarthy2, joining. (#ios-driver)
 [2013-07-23 15:29:54] smccarthy, quitting. (Ping timeout: 246 seconds)
 [2013-07-23 16:01:22] lukeis, quitting. (Quit: Leaving.)
+[2013-07-23 16:11:40] smccarthy, joining. (#ios-driver)
+[2013-07-23 16:12:12] apailthorp: Uh, was away. Is there a maven repository now?
+[2013-07-23 16:14:48] smccarthy2, quitting. (Ping timeout: 245 seconds)
