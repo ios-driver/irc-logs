@@ -26,3 +26,4 @@
 [2013-07-22 18:07:15] smccarthy, joining. (#ios-driver)
 [2013-07-22 19:53:47] smccarthy, quitting. (Remote host closed the connection)
 [2013-07-22 20:07:48] smccarthy, joining. (#ios-driver)
+[2013-07-22 20:48:02] lukeis, joining. (#ios-driver)
