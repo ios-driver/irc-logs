@@ -5,3 +5,5 @@
 [2013-07-23 01:32:41] freynaud: no yet
 [2013-07-23 01:32:52] freynaud: i worked on #63 yesterday
 [2013-07-23 01:33:22] freynaud: I'll do the language one today; Picking the locale algorithm is wrong
+[2013-07-23 01:53:39] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2013-07-23 01:53:51] freynaud, joining. (#ios-driver)
