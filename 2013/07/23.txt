@@ -105,3 +105,4 @@
 [2013-07-23 10:31:01] lukeis: there's a specific target to call to generate them locally if you want
 [2013-07-23 10:31:14] lukeis: i forget what it is off the top of my head
 [2013-07-23 11:43:55] lukeis, quitting. (Quit: Leaving.)
+[2013-07-23 13:01:46] lukeis, joining. (#ios-driver)
