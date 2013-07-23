@@ -56,3 +56,9 @@
 [2013-07-23 05:40:47] freynaud: family in on vacation in France, and I'm in Zurich
 [2013-07-23 05:40:59] freynaud: home is Zurich now
 [2013-07-23 05:50:53] nicegraham: freynaud: very few conflicts with dev on that brnach ;)
+[2013-07-23 07:08:26] ios-driver-git, joining. (#ios-driver)
+[2013-07-23 07:08:26] ios-driver-git, leaving. (#ios-driver)
+[2013-07-23 07:08:26] ios-driver-git: [ios-driver] freynaud created issue81 (+4 new commits): http://git.io/Oz1-NQ
+[2013-07-23 07:08:26] ios-driver-git: ios-driver/issue81 894c2a7 Francois Reynaud: plist have multiple possible format.
+[2013-07-23 07:08:26] ios-driver-git: ios-driver/issue81 9ee426e Francois Reynaud: not changing the format of the app is better.
+[2013-07-23 07:08:26] ios-driver-git: ios-driver/issue81 7e1225e Francois Reynaud: adding TODO. This config is just wrong.
