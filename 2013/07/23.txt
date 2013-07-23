@@ -40,3 +40,5 @@
 [2013-07-23 03:52:58] nicegraham: hi operatiay
 [2013-07-23 03:53:08] nicegraham: yeah, we use testng to run the tests
 [2013-07-23 04:06:36] operatiay: :) thanks. We've figured out that our TestListener was the problem, why we didn't get any information back to the TestNG. so there's no issue left
+[2013-07-23 05:12:05] nicegraham: freynaud: are you finished the inspector updates?
+[2013-07-23 05:12:38] nicegraham: or is it stable for us to try it?
