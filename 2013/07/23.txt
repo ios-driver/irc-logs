@@ -28,3 +28,10 @@
 [2013-07-23 02:36:52] nicegraham: and informed apple
 [2013-07-23 02:37:52] nicegraham: http://www.engadget.com/2013/07/22/turkish-researcher-apple-hack/
 [2013-07-23 02:42:28] nicegraham: what's the problem with the locale and lang selection?
+[2013-07-23 02:45:58] freynaud: the current implementation is wrong
+[2013-07-23 02:46:18] freynaud: the language folder loaded is a combination of language + locale
+[2013-07-23 02:46:29] freynaud: if you select english for instance
+[2013-07-23 02:46:34] freynaud: and you're in japan
+[2013-07-23 02:46:56] freynaud: it should load en_JP if it exist, then default to en
+[2013-07-23 02:47:13] freynaud: atm, it doesn't consider the locale
+[2013-07-23 02:47:28] nicegraham: ok, so it defaults for the en native locale
