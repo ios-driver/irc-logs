@@ -114,3 +114,7 @@
 [2013-07-23 14:13:38] jlipps, joining. (#ios-driver)
 [2013-07-23 15:16:47] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-07-23 15:20:28] lukeis: nicegraham: cool, we've got access ;)  think we're ready to make a 0.6.1 release ;)  does françois have an eta on all hist stuff?
+[2013-07-23 15:26:19] smccarthy2, joining. (#ios-driver)
+[2013-07-23 15:29:12] smccarthy2, quitting. (Remote host closed the connection)
+[2013-07-23 15:29:45] smccarthy2, joining. (#ios-driver)
+[2013-07-23 15:29:54] smccarthy, quitting. (Ping timeout: 246 seconds)
