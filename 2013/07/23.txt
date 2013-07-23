@@ -110,3 +110,4 @@
 [2013-07-23 13:41:36] nicegraham: weird, the maven repo already exists
 [2013-07-23 13:42:08] nicegraham: Andrzej Grzesik created it last week?
 [2013-07-23 13:42:24] nicegraham: lukeis freynaud ^
+[2013-07-23 14:08:44] jlipps, quitting. (Quit: Leaving.)
