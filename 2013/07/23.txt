@@ -15,3 +15,9 @@
 [2013-07-23 02:23:50] nicegraham: no, not yet
 [2013-07-23 02:24:05] nicegraham: I downloaded xcode and it caused havoc
 [2013-07-23 02:24:08] nicegraham: so I deleted it again
+[2013-07-23 02:31:28] freynaud: you can keep both
+[2013-07-23 02:31:35] freynaud: and switch with xcode-select
+[2013-07-23 02:31:46] freynaud: keep the installed of the new xcode
+[2013-07-23 02:32:00] freynaud: safari gets delete by ios driver I think :)
+[2013-07-23 02:32:53] nicegraham: in ios7?
+[2013-07-23 02:33:43] nicegraham: ha, apple dev center is still down!
