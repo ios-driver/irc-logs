@@ -104,3 +104,4 @@
 [2013-07-23 10:30:48] swc|666, joining. (#ios-driver)
 [2013-07-23 10:31:01] lukeis: there's a specific target to call to generate them locally if you want
 [2013-07-23 10:31:14] lukeis: i forget what it is off the top of my head
+[2013-07-23 11:43:55] lukeis, quitting. (Quit: Leaving.)
