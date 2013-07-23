@@ -27,3 +27,4 @@
 [2013-07-23 02:36:49] nicegraham: he found 13 bugs or something like that
 [2013-07-23 02:36:52] nicegraham: and informed apple
 [2013-07-23 02:37:52] nicegraham: http://www.engadget.com/2013/07/22/turkish-researcher-apple-hack/
+[2013-07-23 02:42:28] nicegraham: what's the problem with the locale and lang selection?
