@@ -74,3 +74,6 @@
 [2013-07-23 09:47:27] apailthorp: yes
 [2013-07-23 09:48:00] apailthorp: newb ? How to do above - links greatly appreciated, don't want to learn much about Maven if I can help it...
 [2013-07-23 09:49:44] lukeis: http://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html#System_Dependencies
+[2013-07-23 09:50:22] apailthorp: Awesomeness! Soon will find my uncle Bob. Gratitude abounds.
+[2013-07-23 09:50:22] lukeis: although this is a less than ideal approach, system scope has many problems, but if you're using it for testing it shouldn't be a problem
+[2013-07-23 09:50:33] apailthorp: k
