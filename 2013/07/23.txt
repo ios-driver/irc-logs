@@ -99,3 +99,8 @@
 [2013-07-23 10:25:27] lukeis: heh
 [2013-07-23 10:25:31] *lukeis is lazy'
 [2013-07-23 10:27:57] nicegraham: ooh, we need a javadocs jar?
+[2013-07-23 10:30:01] lukeis: yeah, maven auto creates it, no worries ;)
+[2013-07-23 10:30:25] nicegraham: ah nicely played maven
+[2013-07-23 10:30:48] swc|666, joining. (#ios-driver)
+[2013-07-23 10:31:01] lukeis: there's a specific target to call to generate them locally if you want
+[2013-07-23 10:31:14] lukeis: i forget what it is off the top of my head
