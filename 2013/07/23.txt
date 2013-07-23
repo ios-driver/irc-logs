@@ -112,3 +112,4 @@
 [2013-07-23 13:42:24] nicegraham: lukeis freynaud ^
 [2013-07-23 14:08:44] jlipps, quitting. (Quit: Leaving.)
 [2013-07-23 14:13:38] jlipps, joining. (#ios-driver)
+[2013-07-23 15:16:47] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
