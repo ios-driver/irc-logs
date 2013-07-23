@@ -83,3 +83,10 @@
 [2013-07-23 10:06:58] lukeis: when you get to the point of logging a ticket with them, please include me in the permissions to push. my username there is lsemerau
 [2013-07-23 10:07:13] nicegraham: cool, I'll get that going
 [2013-07-23 10:07:15] nicegraham: will do
+[2013-07-23 10:13:10] nicegraham: lukeis: freynaud owns org.uiautomation right?
+[2013-07-23 10:13:19] lukeis: i dunno :)
+[2013-07-23 10:13:34] lukeis: looks like
+[2013-07-23 10:13:37] nicegraham: I thought he said he did...
+[2013-07-23 10:13:42] nicegraham: I'll see if it's listed
+[2013-07-23 10:14:17] nicegraham: well,it redirects to our wiki - so it's a good bet :)
+[2013-07-23 10:14:45] smccarthy, joining. (#ios-driver)
