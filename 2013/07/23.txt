@@ -10,3 +10,8 @@
 [2013-07-23 01:57:25] millenium, joining. (#ios-driver)
 [2013-07-23 02:18:34] freynaud: .
 [2013-07-23 02:18:45] freynaud: I keep being disconnected, this is annoying
+[2013-07-23 02:22:11] freynaud: have you tried ios7 ?
+[2013-07-23 02:22:19] freynaud: I think safari behaves differentrly
+[2013-07-23 02:23:50] nicegraham: no, not yet
+[2013-07-23 02:24:05] nicegraham: I downloaded xcode and it caused havoc
+[2013-07-23 02:24:08] nicegraham: so I deleted it again
