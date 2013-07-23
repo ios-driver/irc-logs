@@ -44,3 +44,6 @@
 [2013-07-23 05:12:38] nicegraham: or is it stable for us to try it?
 [2013-07-23 05:19:48] brian__, joining. (#ios-driver)
 [2013-07-23 05:25:53] freynaud: you can try it as long as you don't do landscape I think
+[2013-07-23 05:30:16] nicegraham: ok cool, I'll pull it down
+[2013-07-23 05:31:23] AutomatedTester: freynaud: hey, can you chime in one the Mobile JSON Wire mailing list about meeting up on August 19
+[2013-07-23 05:31:28] AutomatedTester: so we can see if it works for you?
