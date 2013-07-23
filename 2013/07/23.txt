@@ -8,3 +8,5 @@
 [2013-07-23 01:53:39] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-07-23 01:53:51] freynaud, joining. (#ios-driver)
 [2013-07-23 01:57:25] millenium, joining. (#ios-driver)
+[2013-07-23 02:18:34] freynaud: .
+[2013-07-23 02:18:45] freynaud: I keep being disconnected, this is annoying
