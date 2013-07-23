@@ -43,3 +43,4 @@
 [2013-07-23 05:12:05] nicegraham: freynaud: are you finished the inspector updates?
 [2013-07-23 05:12:38] nicegraham: or is it stable for us to try it?
 [2013-07-23 05:19:48] brian__, joining. (#ios-driver)
+[2013-07-23 05:25:53] freynaud: you can try it as long as you don't do landscape I think
