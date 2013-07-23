@@ -107,3 +107,6 @@
 [2013-07-23 11:43:55] lukeis, quitting. (Quit: Leaving.)
 [2013-07-23 13:01:46] lukeis, joining. (#ios-driver)
 [2013-07-23 13:13:55] freynaud, joining. (#ios-driver)
+[2013-07-23 13:41:36] nicegraham: weird, the maven repo already exists
+[2013-07-23 13:42:08] nicegraham: Andrzej Grzesik created it last week?
+[2013-07-23 13:42:24] nicegraham: lukeis freynaud ^
