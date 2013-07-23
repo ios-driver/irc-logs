@@ -62,3 +62,4 @@
 [2013-07-23 07:08:26] ios-driver-git: ios-driver/issue81 894c2a7 Francois Reynaud: plist have multiple possible format.
 [2013-07-23 07:08:26] ios-driver-git: ios-driver/issue81 9ee426e Francois Reynaud: not changing the format of the app is better.
 [2013-07-23 07:08:26] ios-driver-git: ios-driver/issue81 7e1225e Francois Reynaud: adding TODO. This config is just wrong.
+[2013-07-23 07:49:30] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
