@@ -95,3 +95,7 @@
 [2013-07-23 10:20:18] nicegraham: lukeis: https://issues.sonatype.org/browse/OSSRH-6776
 [2013-07-23 10:20:36] nicegraham: I'll have to ask freynaud to set up an account so he can push too :)
 [2013-07-23 10:21:29] lukeis: nice job ;)
+[2013-07-23 10:25:08] nicegraham: that was way simpler than I thought it would be - should have done it months ago :)
+[2013-07-23 10:25:27] lukeis: heh
+[2013-07-23 10:25:31] *lukeis is lazy'
+[2013-07-23 10:27:57] nicegraham: ooh, we need a javadocs jar?
