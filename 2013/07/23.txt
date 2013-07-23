@@ -90,3 +90,5 @@
 [2013-07-23 10:13:42] nicegraham: I'll see if it's listed
 [2013-07-23 10:14:17] nicegraham: well,it redirects to our wiki - so it's a good bet :)
 [2013-07-23 10:14:45] smccarthy, joining. (#ios-driver)
+[2013-07-23 10:15:38] lukeis: is that used in the pom's currently?
+[2013-07-23 10:15:52] nicegraham: yeah
