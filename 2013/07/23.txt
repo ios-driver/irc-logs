@@ -21,3 +21,9 @@
 [2013-07-23 02:32:00] freynaud: safari gets delete by ios driver I think :)
 [2013-07-23 02:32:53] nicegraham: in ios7?
 [2013-07-23 02:33:43] nicegraham: ha, apple dev center is still down!
+[2013-07-23 02:35:42] freynaud: yes, they had a leak of user data and they turned it off
+[2013-07-23 02:36:21] nicegraham: yeah, I thought they were back by now though
+[2013-07-23 02:36:42] nicegraham: read it was a security dude who wanted to prove how far the vulnerability went
+[2013-07-23 02:36:49] nicegraham: he found 13 bugs or something like that
+[2013-07-23 02:36:52] nicegraham: and informed apple
+[2013-07-23 02:37:52] nicegraham: http://www.engadget.com/2013/07/22/turkish-researcher-apple-hack/
