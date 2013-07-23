@@ -47,3 +47,9 @@
 [2013-07-23 05:30:16] nicegraham: ok cool, I'll pull it down
 [2013-07-23 05:31:23] AutomatedTester: freynaud: hey, can you chime in one the Mobile JSON Wire mailing list about meeting up on August 19
 [2013-07-23 05:31:28] AutomatedTester: so we can see if it works for you?
+[2013-07-23 05:36:29] freynaud: done.
+[2013-07-23 05:36:34] freynaud: it _should_ work
+[2013-07-23 05:36:49] AutomatedTester: cool
+[2013-07-23 05:37:00] freynaud: i'm not too sure what my agenda looks like for august. At some point I'd like to see the family :)
+[2013-07-23 05:38:57] AutomatedTester: freynaud: family break in London?
+[2013-07-23 05:39:02] AutomatedTester: your home away from home
