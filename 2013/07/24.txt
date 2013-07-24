@@ -221,3 +221,5 @@
 [2013-07-24 12:55:13] nicegraham: :note lukeis poms should be ok now in the dev branch of both repos - I'm heading home but I'll be around online later if you need me
 [2013-07-24 13:01:41] dawagner, quitting. (Quit: Leaving)
 [2013-07-24 13:15:19] jlipps, quitting. (Quit: Leaving.)
+[2013-07-24 13:20:43] santiycr, quitting. (Quit: Leaving.)
+[2013-07-24 13:21:48] santiycr, joining. (#ios-driver)
