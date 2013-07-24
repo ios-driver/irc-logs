@@ -128,3 +128,4 @@
 [2013-07-23 21:05:45] smccarthy, joining. (#ios-driver)
 [2013-07-23 21:35:05] lukeis, joining. (#ios-driver)
 [2013-07-23 22:20:45] lukeis, quitting. (Quit: Leaving.)
+[2013-07-23 23:36:00] millenium, quitting. (Read error: Connection reset by peer)
