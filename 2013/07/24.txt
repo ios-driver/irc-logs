@@ -214,3 +214,7 @@
 [2013-07-24 12:41:45] ios-driver-git, leaving. (#ios-driver)
 [2013-07-24 12:41:45] ios-driver-git: ios-driver/dev be99343 Graham Abell: merge from master to include pom updates to allow push to maven central
 [2013-07-24 12:41:45] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/Yl3A9A
+[2013-07-24 12:54:44] ios-driver-git, joining. (#ios-driver)
+[2013-07-24 12:54:44] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/ptd_UQ
+[2013-07-24 12:54:44] ios-driver-git, leaving. (#ios-driver)
+[2013-07-24 12:54:44] ios-driver-git: ios-driver/dev 6dbc1b2 Graham Abell: update to latest libimobile to include pom changes
