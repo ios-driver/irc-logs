@@ -69,3 +69,16 @@
 [2013-07-24 05:39:23] nicegraham: hey
 [2013-07-24 05:39:29] ags: Finally.. My office network is hiccuping me out of here a bit.
 [2013-07-24 05:39:36] nicegraham: :)
+[2013-07-24 05:40:48] nicegraham: I see the maven repo is created, so we just need to push a jar up now
+[2013-07-24 05:40:55] ags: So, I got "access" to maven.org. I'd like to release v0.6 into there.
+[2013-07-24 05:41:09] nicegraham: yeah, that sounds good
+[2013-07-24 05:41:20] nicegraham: I had a go this morning
+[2013-07-24 05:41:28] nicegraham: but I was hitting all sorts of problems
+[2013-07-24 05:41:45] nicegraham: I've never had to do it before
+[2013-07-24 05:41:53] nicegraham: so that made it more complicated
+[2013-07-24 05:42:15] nicegraham: I think I've now got all the pre-requisites in place
+[2013-07-24 05:42:21] nicegraham: and I added the missing bits to the pom
+[2013-07-24 05:42:36] nicegraham: but when I start the deploy process its giving me errors
+[2013-07-24 05:42:44] ags: What errors?
+[2013-07-24 05:43:01] ags: I should be able to help with maven problems
+[2013-07-24 05:44:45] freynaud, joining. (#ios-driver)
