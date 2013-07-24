@@ -176,3 +176,4 @@
 [2013-07-24 10:43:15] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to master: http://git.io/c6Ox4w
 [2013-07-24 10:43:15] ios-driver-git, leaving. (#ios-driver)
 [2013-07-24 10:43:15] ios-driver-git: ios-driver/master 6bc6ce8 Graham Abell: pom updates
+[2013-07-24 10:52:13] lukeis, joining. (#ios-driver)
