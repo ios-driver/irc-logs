@@ -19,3 +19,5 @@
 [2013-07-24 02:10:50] freynaud: he just joined
 [2013-07-24 02:10:55] freynaud: ags
 [2013-07-24 02:11:20] ags: hi :-)
+[2013-07-24 02:20:38] freynaud: nicegraham: is working on deploying to mvn
+[2013-07-24 02:23:04] nicegraham: I'm back
