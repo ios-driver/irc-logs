@@ -32,3 +32,7 @@
 [2013-07-24 04:34:15] operatiay: sorry guys, can anyone help me with the correct parameters needed to configure the webdriver in order to execute tests on simulated safari with simulator supporting app testing as well?
 [2013-07-24 04:37:45] freynaud: if you're using 0.6 there is no need to have extra params
 [2013-07-24 04:38:19] freynaud: safari is added by default as a supported app. You just need to specify where you own apps are and both will be available
+[2013-07-24 04:41:59] freynaud: nicegraham:I have all the flick tests failing
+[2013-07-24 04:42:08] freynaud: did you run them recently
+[2013-07-24 04:44:31] operatiay: i'm using 0.7
+[2013-07-24 04:44:37] nicegraham: no, I'll have a look
