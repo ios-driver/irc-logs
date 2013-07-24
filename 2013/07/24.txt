@@ -92,3 +92,9 @@
 [2013-07-24 07:11:13] operatiay: but it's working without the proxy...
 [2013-07-24 07:11:15] nicegraham: unless the registration is not including some propety
 [2013-07-24 07:11:54] nicegraham: it's hard to know without being able to debug the capabilties on the hub
+[2013-07-24 07:15:13] operatiay: true... I've never debugged the hub... how can I do it?
+[2013-07-24 07:16:22] nicegraham: here's an example https://github.com/nicegraham/selenium-grid2-api/blob/master/src/main/java/com/seleniumgrid2api/StartGrid.java
+[2013-07-24 07:18:22] operatiay: I was hoping for something like connecting to a debug port...
+[2013-07-24 07:18:51] nicegraham: haha
+[2013-07-24 07:19:03] operatiay: :) am I expecting too  much?
+[2013-07-24 07:19:11] nicegraham: yep :)
