@@ -154,3 +154,7 @@
 [2013-07-24 07:49:13] nicegraham: I asked the guys here - one chap has a vague recollection of that. He thinks it's somehow related to the registered country but he's not sure
 [2013-07-24 07:49:17] nicegraham: [and not much help]
 [2013-07-24 07:49:28] nicegraham: he did say there's loads of quirks like that
+[2013-07-24 07:50:42] nicegraham: http://stackoverflow.com/questions/3308519/iphone-app-localization-english-problems
+[2013-07-24 07:53:12] nicegraham: from apple: Therefore if your project includes language-specific project directories with both a language and region designator, those directories are ignored.
+[2013-07-24 07:54:40] freynaud: http://developer.apple.com/library/ios/#referencelibrary/GettingStarted/RoadMapiOS/chapters/InternationalizeYourApp/InternationalizeYourApp/InternationalizeYourApp.html says differently
+[2013-07-24 07:54:58] freynaud: love it when it's consistent
