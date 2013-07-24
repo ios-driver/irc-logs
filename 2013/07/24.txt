@@ -28,3 +28,4 @@
 [2013-07-24 03:26:29] ios-driver-git: ios-driver/dev 5ce50ea Francois Reynaud: refactoring the language selection to accept all possible languages supported on iphone.
 [2013-07-24 03:26:29] ios-driver-git: ios-driver/dev 5d8a3e9 Francois Reynaud: throwing for not supported languages might not be the best idea as the application can still be used.
 [2013-07-24 03:26:29] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to dev: http://git.io/fzf7cQ
+[2013-07-24 03:50:34] brian__, quitting. (Ping timeout: 250 seconds)
