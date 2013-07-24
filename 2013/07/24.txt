@@ -105,3 +105,6 @@
 [2013-07-24 07:21:27] operatiay: so what can I do after I've started this process locally? do I have to start it in debug mode?
 [2013-07-24 07:22:14] freynaud: yes, or start it from your prefered IDE
 [2013-07-24 07:23:03] operatiay: but I cannot connect to the already running hub... can I?
+[2013-07-24 07:26:36] *nicegraham not that I know of - that's not how I do it at least'
+[2013-07-24 07:27:05] freynaud: you need to start the hub with the java debug flags to use remote debuging
+[2013-07-24 07:29:19] operatiay: thanks, guys. I'll investigate it further in my leisure time :)
