@@ -219,3 +219,4 @@
 [2013-07-24 12:54:44] ios-driver-git, leaving. (#ios-driver)
 [2013-07-24 12:54:44] ios-driver-git: ios-driver/dev 6dbc1b2 Graham Abell: update to latest libimobile to include pom changes
 [2013-07-24 12:55:13] nicegraham: :note lukeis poms should be ok now in the dev branch of both repos - I'm heading home but I'll be around online later if you need me
+[2013-07-24 13:01:41] dawagner, quitting. (Quit: Leaving)
