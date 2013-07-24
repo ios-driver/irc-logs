@@ -5,3 +5,5 @@
 [2013-07-24 00:46:17] ags__, quitting. (Client Quit)
 [2013-07-24 01:20:17] nicegraham: ags__ yep
 [2013-07-24 01:22:41] freynaud, joining. (#ios-driver)
+[2013-07-24 01:36:45] nicegraham: morning freynaud
+[2013-07-24 01:37:33] nicegraham: should I try and push 0.6.0 to maven? or wait for 0.7.0 - and if so what sort of release date do you think is doable?
