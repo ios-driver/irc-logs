@@ -126,3 +126,4 @@
 [2013-07-23 17:40:32] smccarthy, quitting. (Remote host closed the connection)
 [2013-07-23 17:49:15] apailthorp, quitting. (Quit: ChatZilla 0.9.90.1 [Firefox 22.0/20130618035212])
 [2013-07-23 21:05:45] smccarthy, joining. (#ios-driver)
+[2013-07-23 21:35:05] lukeis, joining. (#ios-driver)
