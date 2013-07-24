@@ -123,3 +123,4 @@
 [2013-07-23 16:12:12] apailthorp: Uh, was away. Is there a maven repository now?
 [2013-07-23 16:14:48] smccarthy2, quitting. (Ping timeout: 245 seconds)
 [2013-07-23 17:07:06] jlipps, quitting. (Quit: Leaving.)
+[2013-07-23 17:40:32] smccarthy, quitting. (Remote host closed the connection)
