@@ -172,3 +172,7 @@
 [2013-07-24 10:00:07] ios-driver-git: ios-driver/master 6120a25 Graham Abell: more pom updates to allow pushing to public repo
 [2013-07-24 10:00:07] ios-driver-git, leaving. (#ios-driver)
 [2013-07-24 10:36:07] lukeis, quitting. (Quit: Leaving.)
+[2013-07-24 10:43:15] ios-driver-git, joining. (#ios-driver)
+[2013-07-24 10:43:15] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to master: http://git.io/c6Ox4w
+[2013-07-24 10:43:15] ios-driver-git, leaving. (#ios-driver)
+[2013-07-24 10:43:15] ios-driver-git: ios-driver/master 6bc6ce8 Graham Abell: pom updates
