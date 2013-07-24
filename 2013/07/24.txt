@@ -143,3 +143,14 @@
 [2013-07-24 07:43:51] freynaud: like english, french etc.
 [2013-07-24 07:44:13] freynaud: then you have the "others", like en-CA or fr-CA
 [2013-07-24 07:44:32] freynaud: i can create those, I see them in the project and the app, but they're never used
+[2013-07-24 07:45:01] nicegraham: what do you mean never used? the app never reads from them?
+[2013-07-24 07:45:21] freynaud: if I select english as a language, and canada as a region ,I still get the content from the english folder. Not from the en-CA folder
+[2013-07-24 07:45:56] freynaud: the app doesn't use them
+[2013-07-24 07:45:59] nicegraham: ok, that sounds like a bug to me :) I'll ask if they've come across that before
+[2013-07-24 07:46:06] freynaud: not sure it's a bug
+[2013-07-24 07:46:25] freynaud: if you use afrikaans from instance, it's not even a recognize language by apple
+[2013-07-24 07:46:34] freynaud: so it might be there for dev to manually read
+[2013-07-24 07:47:15] freynaud: and those file shouldn't be parsed by ios-driver then, ad the parsing isn't standard, and each dev team could do different things
+[2013-07-24 07:49:13] nicegraham: I asked the guys here - one chap has a vague recollection of that. He thinks it's somehow related to the registered country but he's not sure
+[2013-07-24 07:49:17] nicegraham: [and not much help]
+[2013-07-24 07:49:28] nicegraham: he did say there's loads of quirks like that
