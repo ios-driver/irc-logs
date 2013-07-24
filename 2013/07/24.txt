@@ -30,3 +30,5 @@
 [2013-07-24 03:26:29] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to dev: http://git.io/fzf7cQ
 [2013-07-24 03:50:34] brian__, quitting. (Ping timeout: 250 seconds)
 [2013-07-24 04:34:15] operatiay: sorry guys, can anyone help me with the correct parameters needed to configure the webdriver in order to execute tests on simulated safari with simulator supporting app testing as well?
+[2013-07-24 04:37:45] freynaud: if you're using 0.6 there is no need to have extra params
+[2013-07-24 04:38:19] freynaud: safari is added by default as a supported app. You just need to specify where you own apps are and both will be available
