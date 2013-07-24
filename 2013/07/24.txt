@@ -158,3 +158,4 @@
 [2013-07-24 07:53:12] nicegraham: from apple: Therefore if your project includes language-specific project directories with both a language and region designator, those directories are ignored.
 [2013-07-24 07:54:40] freynaud: http://developer.apple.com/library/ios/#referencelibrary/GettingStarted/RoadMapiOS/chapters/InternationalizeYourApp/InternationalizeYourApp/InternationalizeYourApp.html says differently
 [2013-07-24 07:54:58] freynaud: love it when it's consistent
+[2013-07-24 08:20:05] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
