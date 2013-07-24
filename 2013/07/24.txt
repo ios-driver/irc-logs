@@ -98,3 +98,10 @@
 [2013-07-24 07:18:51] nicegraham: haha
 [2013-07-24 07:19:03] operatiay: :) am I expecting too  much?
 [2013-07-24 07:19:11] nicegraham: yep :)
+[2013-07-24 07:20:06] nicegraham: by debugin like that - you can breakpoint in the hub and see what it's being asked for versus what it has registered.
+[2013-07-24 07:20:24] freynaud: you can remotly debug
+[2013-07-24 07:20:26] freynaud: or local
+[2013-07-24 07:20:33] freynaud: it's a java process, nothing special
+[2013-07-24 07:21:27] operatiay: so what can I do after I've started this process locally? do I have to start it in debug mode?
+[2013-07-24 07:22:14] freynaud: yes, or start it from your prefered IDE
+[2013-07-24 07:23:03] operatiay: but I cannot connect to the already running hub... can I?
