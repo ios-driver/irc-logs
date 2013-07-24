@@ -210,3 +210,7 @@
 [2013-07-24 12:29:24] nicegraham: I'll merge my master changes into dev anyway
 [2013-07-24 12:29:30] nicegraham: so it's nearly ready to go
 [2013-07-24 12:29:38] lukeis: +1
+[2013-07-24 12:41:45] ios-driver-git, joining. (#ios-driver)
+[2013-07-24 12:41:45] ios-driver-git, leaving. (#ios-driver)
+[2013-07-24 12:41:45] ios-driver-git: ios-driver/dev be99343 Graham Abell: merge from master to include pom updates to allow push to maven central
+[2013-07-24 12:41:45] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/Yl3A9A
