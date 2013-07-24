@@ -183,3 +183,12 @@
 [2013-07-24 11:29:25] ios-driver-git, leaving. (#ios-driver)
 [2013-07-24 11:29:25] ios-driver-git: ios-driver/master 91a0e38 Graham Abell: adding sign profile to main pom
 [2013-07-24 11:29:25] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to master: http://git.io/pOK74Q
+[2013-07-24 12:22:45] dawagner, joining. (#ios-driver)
+[2013-07-24 12:23:09] ios-driver-git, joining. (#ios-driver)
+[2013-07-24 12:23:09] ios-driver-git, leaving. (#ios-driver)
+[2013-07-24 12:23:09] ios-driver-git: ios-driver/master 6944529 Graham Abell: pom update to allow promotion to central
+[2013-07-24 12:23:09] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to master: http://git.io/vvTnjA
+[2013-07-24 12:23:26] lukeis: nicegraham is a rock star ;)
+[2013-07-24 12:23:37] lukeis: nice job
+[2013-07-24 12:23:58] nicegraham: happy to have done it! and thanks again for all the guidance
+[2013-07-24 12:24:05] nicegraham: I would have been here for a lot longer!
