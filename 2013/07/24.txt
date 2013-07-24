@@ -130,3 +130,16 @@
 [2013-07-24 07:39:24] ios-driver-git: ios-driver/dev ac50e28 Francois Reynaud: removing debug sout
 [2013-07-24 07:39:24] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to dev: http://git.io/MBMuNg
 [2013-07-24 07:39:52] freynaud: did I
+[2013-07-24 07:40:07] freynaud: what test makes that appear ?
+[2013-07-24 07:40:16] nicegraham: the touch flick ones
+[2013-07-24 07:40:26] nicegraham: also, I merged latest and I'm getting this now
+[2013-07-24 07:40:27] nicegraham: https://gist.github.com/nicegraham/6071193
+[2013-07-24 07:41:21] freynaud: that's normal
+[2013-07-24 07:41:34] freynaud: I don't know when those files are used, so I ignore them
+[2013-07-24 07:41:55] nicegraham: I'm just worried we'll be flooded with bugs :)
+[2013-07-24 07:43:12] freynaud: i'll update the message
+[2013-07-24 07:43:26] freynaud: maybe your devs know actually
+[2013-07-24 07:43:42] freynaud: in xcode, when you work on localization, you can select the "normal" languages
+[2013-07-24 07:43:51] freynaud: like english, french etc.
+[2013-07-24 07:44:13] freynaud: then you have the "others", like en-CA or fr-CA
+[2013-07-24 07:44:32] freynaud: i can create those, I see them in the project and the app, but they're never used
