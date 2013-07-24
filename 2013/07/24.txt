@@ -62,3 +62,5 @@
 [2013-07-24 05:28:54] freynaud: JNI -> JNA starts now.
 [2013-07-24 05:29:36] nicegraham: so the native flick tests pass, it's just the web ones
 [2013-07-24 05:29:51] freynaud: same here
+[2013-07-24 05:33:53] ags, joining. (#ios-driver)
+[2013-07-24 05:34:31] nicegraham: ags: hi
