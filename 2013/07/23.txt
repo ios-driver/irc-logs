@@ -129,3 +129,7 @@
 [2013-07-23 21:35:05] lukeis, joining. (#ios-driver)
 [2013-07-23 22:20:45] lukeis, quitting. (Quit: Leaving.)
 [2013-07-23 23:36:00] millenium, quitting. (Read error: Connection reset by peer)
+[2013-07-23 23:40:03] ios-driver-git, joining. (#ios-driver)
+[2013-07-23 23:40:04] ios-driver-git, leaving. (#ios-driver)
+[2013-07-23 23:40:04] ios-driver-git: ios-driver/master 5c80699 Graham Abell: adding changes to allow pushing to maven
+[2013-07-23 23:40:04] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to master: http://git.io/_W97sw
