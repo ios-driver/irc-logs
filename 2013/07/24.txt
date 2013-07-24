@@ -36,3 +36,9 @@
 [2013-07-24 04:42:08] freynaud: did you run them recently
 [2013-07-24 04:44:31] operatiay: i'm using 0.7
 [2013-07-24 04:44:37] nicegraham: no, I'll have a look
+[2013-07-24 04:56:03] operatiay: nicegraham: I am experiencing difficulties with the grid server correctly identifying the capabilities for the ios-node... especially the browserName parameter "IOS Simulator" results in waiting job, although the ios-hub is registered
+[2013-07-24 04:56:17] operatiay: what is missing?
+[2013-07-24 04:57:38] ios-driver-git, joining. (#ios-driver)
+[2013-07-24 04:57:38] ios-driver-git, leaving. (#ios-driver)
+[2013-07-24 04:57:38] ios-driver-git: ios-driver/dev 13d8f4d Francois Reynaud: first part of the fix for #88 Need to handle closing window + keep the correct focus.
+[2013-07-24 04:57:38] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/cLIOPQ
