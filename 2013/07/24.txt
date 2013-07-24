@@ -86,3 +86,9 @@
 [2013-07-24 05:56:39] freynaud, joining. (#ios-driver)
 [2013-07-24 05:59:28] freynaud, quitting. (Client Quit)
 [2013-07-24 05:59:57] freynaud, joining. (#ios-driver)
+[2013-07-24 07:10:03] operatiay: by the way, we've managed to solve the problem: when the IOSRemoteProxy is not used, the forwarding based on the browser name is working fine.
+[2013-07-24 07:10:43] nicegraham: that proxy uses the same capability matcher
+[2013-07-24 07:10:53] nicegraham: there's no different logic in that part
+[2013-07-24 07:11:13] operatiay: but it's working without the proxy...
+[2013-07-24 07:11:15] nicegraham: unless the registration is not including some propety
+[2013-07-24 07:11:54] nicegraham: it's hard to know without being able to debug the capabilties on the hub
