@@ -113,3 +113,20 @@
 [2013-07-24 07:34:51] ios-driver-git: ios-driver/dev 3c9d620 Graham Abell: fixing flick logic and tests for web
 [2013-07-24 07:34:51] ios-driver-git: ios-driver/dev 8cee873 Graham Abell: fixng typo in the screensize method
 [2013-07-24 07:34:51] ios-driver-git, leaving. (#ios-driver)
+[2013-07-24 07:36:06] nicegraham: freynaud: have you this before: Caused by: org.openqa.selenium.WebDriverException: bug.JSONObject["using"] not found.
+[2013-07-24 07:36:34] freynaud: this morning for the first time
+[2013-07-24 07:36:39] freynaud: then I forgot about it :)
+[2013-07-24 07:36:48] nicegraham: :)
+[2013-07-24 07:37:08] nicegraham: I'm seeing it running the tests but the tests still pass
+[2013-07-24 07:37:17] nicegraham: and looking on screen they're doing what they should...
+[2013-07-24 07:38:35] nicegraham: ok
+[2013-07-24 07:38:41] nicegraham: it's to do with keyboard?
+[2013-07-24 07:38:42] nicegraham: {"criteria":{"expected":"UIAKeyboard","l10n":"none","matching":"exact","method":"type"},"depth":-1}
+[2013-07-24 07:38:55] nicegraham: that's what is being passed to the findelement method
+[2013-07-24 07:39:16] nicegraham: you made changes to keyboard finding right?
+[2013-07-24 07:39:24] ios-driver-git, joining. (#ios-driver)
+[2013-07-24 07:39:24] ios-driver-git, leaving. (#ios-driver)
+[2013-07-24 07:39:24] ios-driver-git: ios-driver/dev 095a8d7 Francois Reynaud: Merge remote-tracking branch 'origin/dev' into dev
+[2013-07-24 07:39:24] ios-driver-git: ios-driver/dev ac50e28 Francois Reynaud: removing debug sout
+[2013-07-24 07:39:24] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to dev: http://git.io/MBMuNg
+[2013-07-24 07:39:52] freynaud: did I
