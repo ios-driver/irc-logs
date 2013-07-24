@@ -108,3 +108,8 @@
 [2013-07-24 07:26:36] *nicegraham not that I know of - that's not how I do it at least'
 [2013-07-24 07:27:05] freynaud: you need to start the hub with the java debug flags to use remote debuging
 [2013-07-24 07:29:19] operatiay: thanks, guys. I'll investigate it further in my leisure time :)
+[2013-07-24 07:34:51] ios-driver-git, joining. (#ios-driver)
+[2013-07-24 07:34:51] ios-driver-git: [ios-driver] nicegraham pushed 2 new commits to dev: http://git.io/58zVWg
+[2013-07-24 07:34:51] ios-driver-git: ios-driver/dev 3c9d620 Graham Abell: fixing flick logic and tests for web
+[2013-07-24 07:34:51] ios-driver-git: ios-driver/dev 8cee873 Graham Abell: fixng typo in the screensize method
+[2013-07-24 07:34:51] ios-driver-git, leaving. (#ios-driver)
