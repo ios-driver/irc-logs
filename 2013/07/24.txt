@@ -51,3 +51,14 @@
 [2013-07-24 05:10:21] Brian__, changing nick to irishshagua.
 [2013-07-24 05:14:56] ags, joining. (#ios-driver)
 [2013-07-24 05:19:24] ags, quitting. (Ping timeout: 250 seconds)
+[2013-07-24 05:26:20] nicegraham: freynaud: running those tests - I hit a jni image error, is that what you're seeing? or do the tests actually try to run?
+[2013-07-24 05:27:04] freynaud: no, I removed the JNI dependency entirely
+[2013-07-24 05:27:18] freynaud: I run the tests on simulator without the -beta flag
+[2013-07-24 05:27:54] nicegraham: ok, I removed beta and see the fails
+[2013-07-24 05:28:03] nicegraham: not sure what's changed...
+[2013-07-24 05:28:12] nicegraham: are you going to push those jni chagnes to dev?
+[2013-07-24 05:28:31] freynaud: when it's done yes
+[2013-07-24 05:28:42] freynaud: I finished triaging most of the bugs, and fixed some
+[2013-07-24 05:28:54] freynaud: JNI -> JNA starts now.
+[2013-07-24 05:29:36] nicegraham: so the native flick tests pass, it's just the web ones
+[2013-07-24 05:29:51] freynaud: same here
