@@ -14,3 +14,4 @@
 [2013-07-24 01:57:30] nicegraham: I had a quick go this morning and it's fairly complicated - or I'm missing some config
 [2013-07-24 01:57:42] nicegraham: I'm hoping lukeis will be able to provide guidance maybe
 [2013-07-24 01:57:49] nicegraham: or the guy who created the repo :)
+[2013-07-24 02:07:41] ags, joining. (#ios-driver)
