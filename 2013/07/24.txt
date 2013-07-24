@@ -167,3 +167,7 @@
 [2013-07-24 09:01:33] apailthorp__, changing nick to apailthorp.
 [2013-07-24 09:31:20] apailthorp, quitting. (Remote host closed the connection)
 [2013-07-24 09:45:54] ags, quitting. (Ping timeout: 250 seconds)
+[2013-07-24 10:00:07] ios-driver-git, joining. (#ios-driver)
+[2013-07-24 10:00:07] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to master: http://git.io/sqlPYQ
+[2013-07-24 10:00:07] ios-driver-git: ios-driver/master 6120a25 Graham Abell: more pom updates to allow pushing to public repo
+[2013-07-24 10:00:07] ios-driver-git, leaving. (#ios-driver)
