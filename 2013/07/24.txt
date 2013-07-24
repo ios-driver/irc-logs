@@ -1,1 +1,2 @@
 [2013-07-24 00:12:52] smccarthy, quitting. (Remote host closed the connection)
+[2013-07-24 00:25:00] hachi_, changing nick to hachi.
