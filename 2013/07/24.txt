@@ -10,3 +10,7 @@
 [2013-07-24 01:48:00] freynaud: sure, go for it
 [2013-07-24 01:48:12] freynaud: 0.7 I still don't really know
 [2013-07-24 01:48:26] freynaud: I'm fixing the bugs, but some require more time than anticipated
+[2013-07-24 01:57:09] nicegraham: ok, I'll try and get the uploaded today
+[2013-07-24 01:57:30] nicegraham: I had a quick go this morning and it's fairly complicated - or I'm missing some config
+[2013-07-24 01:57:42] nicegraham: I'm hoping lukeis will be able to provide guidance maybe
+[2013-07-24 01:57:49] nicegraham: or the guy who created the repo :)
