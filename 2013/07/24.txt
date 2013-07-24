@@ -64,3 +64,8 @@
 [2013-07-24 05:29:51] freynaud: same here
 [2013-07-24 05:33:53] ags, joining. (#ios-driver)
 [2013-07-24 05:34:31] nicegraham: ags: hi
+[2013-07-24 05:38:33] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2013-07-24 05:39:16] ags: Hi
+[2013-07-24 05:39:23] nicegraham: hey
+[2013-07-24 05:39:29] ags: Finally.. My office network is hiccuping me out of here a bit.
+[2013-07-24 05:39:36] nicegraham: :)
