@@ -3,3 +3,5 @@
 [2013-07-24 00:42:47] ags__, joining. (#ios-driver)
 [2013-07-24 00:43:21] ags__: Graham, you around?
 [2013-07-24 00:46:17] ags__, quitting. (Client Quit)
+[2013-07-24 01:20:17] nicegraham: ags__ yep
+[2013-07-24 01:22:41] freynaud, joining. (#ios-driver)
