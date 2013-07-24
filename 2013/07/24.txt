@@ -50,3 +50,4 @@
 [2013-07-24 05:10:10] Brian___, changing nick to Brian__.
 [2013-07-24 05:10:21] Brian__, changing nick to irishshagua.
 [2013-07-24 05:14:56] ags, joining. (#ios-driver)
+[2013-07-24 05:19:24] ags, quitting. (Ping timeout: 250 seconds)
