@@ -192,3 +192,21 @@
 [2013-07-24 12:23:37] lukeis: nice job
 [2013-07-24 12:23:58] nicegraham: happy to have done it! and thanks again for all the guidance
 [2013-07-24 12:24:05] nicegraham: I would have been here for a lot longer!
+[2013-07-24 12:25:31] lukeis: hmm, i don't think i see the standalone server in there
+[2013-07-24 12:25:44] lukeis: we might need an explicit rule to upload that
+[2013-07-24 12:26:04] nicegraham: even in the with dependencies one/
+[2013-07-24 12:26:33] nicegraham: the main jar was 18mb on upload
+[2013-07-24 12:26:34] lukeis: i only see the jni with-dependencies
+[2013-07-24 12:26:56] lukeis: ok
+[2013-07-24 12:27:14] lukeis: hopefully that's the one we can link to for people to just use / run with
+[2013-07-24 12:27:42] lukeis: and then françois won't need to keep uploading to amazon ;)
+[2013-07-24 12:28:02] nicegraham: ok, for 0.6.1 - do you want me to change something to include standalone?
+[2013-07-24 12:28:14] lukeis: maybe
+[2013-07-24 12:28:22] lukeis: actually, yes
+[2013-07-24 12:28:33] lukeis: i don't know what that will be right now
+[2013-07-24 12:28:45] lukeis: but it's *something*
+[2013-07-24 12:28:59] lukeis: gotta grab lunch, then i have back to back to back to back meetings
+[2013-07-24 12:29:15] nicegraham: ok, i'll leave it for now
+[2013-07-24 12:29:24] nicegraham: I'll merge my master changes into dev anyway
+[2013-07-24 12:29:30] nicegraham: so it's nearly ready to go
+[2013-07-24 12:29:38] lukeis: +1
