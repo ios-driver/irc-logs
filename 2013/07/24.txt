@@ -15,3 +15,7 @@
 [2013-07-24 01:57:42] nicegraham: I'm hoping lukeis will be able to provide guidance maybe
 [2013-07-24 01:57:49] nicegraham: or the guy who created the repo :)
 [2013-07-24 02:07:41] ags, joining. (#ios-driver)
+[2013-07-24 02:10:46] freynaud: ask him
+[2013-07-24 02:10:50] freynaud: he just joined
+[2013-07-24 02:10:55] freynaud: ags
+[2013-07-24 02:11:20] ags: hi :-)
