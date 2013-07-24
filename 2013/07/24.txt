@@ -165,3 +165,4 @@
 [2013-07-24 08:57:37] apailthorp__, joining. (#ios-driver)
 [2013-07-24 09:00:00] apailthorp_, quitting. (Ping timeout: 256 seconds)
 [2013-07-24 09:01:33] apailthorp__, changing nick to apailthorp.
+[2013-07-24 09:31:20] apailthorp, quitting. (Remote host closed the connection)
