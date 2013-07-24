@@ -42,3 +42,6 @@
 [2013-07-24 04:57:38] ios-driver-git, leaving. (#ios-driver)
 [2013-07-24 04:57:38] ios-driver-git: ios-driver/dev 13d8f4d Francois Reynaud: first part of the fix for #88 Need to handle closing window + keep the correct focus.
 [2013-07-24 04:57:38] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/cLIOPQ
+[2013-07-24 05:00:04] nicegraham: operatiay: I don't know
+[2013-07-24 05:00:07] nicegraham: what are the symptoms
+[2013-07-24 05:02:00] brian__, joining. (#ios-driver)
