@@ -45,3 +45,5 @@
 [2013-07-24 05:00:04] nicegraham: operatiay: I don't know
 [2013-07-24 05:00:07] nicegraham: what are the symptoms
 [2013-07-24 05:02:00] brian__, joining. (#ios-driver)
+[2013-07-24 05:09:42] Brian___, joining. (#ios-driver)
+[2013-07-24 05:09:51] brian__, leaving. (#ios-driver)
