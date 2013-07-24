@@ -82,3 +82,4 @@
 [2013-07-24 05:42:44] ags: What errors?
 [2013-07-24 05:43:01] ags: I should be able to help with maven problems
 [2013-07-24 05:44:45] freynaud, joining. (#ios-driver)
+[2013-07-24 05:46:13] freynaud, quitting. (Client Quit)
