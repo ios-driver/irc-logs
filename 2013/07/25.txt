@@ -56,3 +56,12 @@
 [2013-07-25 05:26:44] nicegraham: this? http://stackoverflow.com/questions/1864479/crash-logs-generated-by-iphone-simulator
 [2013-07-25 05:31:08] freynaud: that's for crashes
 [2013-07-25 05:31:24] freynaud: some actions I want to know about do not crash the app :)
+[2013-07-25 05:37:55] nicegraham: Redirected NSLog()
+[2013-07-25 05:37:55] nicegraham: Occasionally, you may want to redirect your NSLog() output to a file so that you can examine it more conveniently. NSLog() works by outputting messages to STDERR, so all you need to do is redirect the STDERR stream to a file, and you're good to go. The following code will redirect it to a file on your desktop:
+[2013-07-25 05:37:55] nicegraham:     int fd = creat("/Users/dave/Desktop/my_log",
+[2013-07-25 05:37:55] nicegraham:     close(STDERR_FILENO);
+[2013-07-25 05:37:55] nicegraham:                        S_IRUSR | S_IWUSR | S_IRGRP | S_IROTH);
+[2013-07-25 05:37:56] nicegraham:     dup(fd);
+[2013-07-25 05:37:56] nicegraham:     close(fd);
+[2013-07-25 05:37:57] nicegraham:     NSLog(@"this will be written to my_log");
+[2013-07-25 05:37:57] nicegraham: This will only affect NSLog() calls from your application.
