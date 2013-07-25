@@ -66,3 +66,4 @@
 [2013-07-25 05:37:57] nicegraham:     NSLog(@"this will be written to my_log");
 [2013-07-25 05:37:57] nicegraham: This will only affect NSLog() calls from your application.
 [2013-07-25 05:47:12] admc, joining. (#ios-driver)
+[2013-07-25 05:51:37] admc, quitting. (Ping timeout: 256 seconds)
