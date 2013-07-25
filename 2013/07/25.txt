@@ -41,3 +41,5 @@
 [2013-07-25 05:05:32] freynaud: you're talking about ios driver logs
 [2013-07-25 05:05:41] freynaud: I'm talking about the logs of the app under test
 [2013-07-25 05:05:46] freynaud: nothing to do with ios driver
+[2013-07-25 05:13:03] nicegraham: oh, sorry
+[2013-07-25 05:13:49] nicegraham: apparently it goes here /var/log/system.log
