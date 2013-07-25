@@ -44,3 +44,12 @@
 [2013-07-25 05:13:03] nicegraham: oh, sorry
 [2013-07-25 05:13:49] nicegraham: apparently it goes here /var/log/system.log
 [2013-07-25 05:16:26] admc, joining. (#ios-driver)
+[2013-07-25 05:21:06] admc, quitting. (Ping timeout: 276 seconds)
+[2013-07-25 05:21:56] freynaud: on the real device, for my app I have some files like StdErr_07-25-13 14-02-24.log
+[2013-07-25 05:22:07] freynaud: that's what I'd like to access for sim
+[2013-07-25 05:22:12] freynaud: ideally real time
+[2013-07-25 05:24:13] nicegraham: i opened console app and then I opened simulator and started browsing in safari
+[2013-07-25 05:24:17] nicegraham: I saw messages coming in
+[2013-07-25 05:24:24] nicegraham: is that not enough?
+[2013-07-25 05:24:40] nicegraham: it seems like the simulator writes to sysout
+[2013-07-25 05:24:47] nicegraham: so it should all be available
