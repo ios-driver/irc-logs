@@ -133,3 +133,4 @@
 [2013-07-25 16:32:54] Guest30561: I am starting ios-driver   java -jar  ios-server-0.6.0 -host mac-node name -hub http://win7.hostname:4444/grid/register
 [2013-07-25 16:33:42] Guest30561: I see the node connected, however the OS is displayed as unknown
 [2013-07-25 16:35:40] Guest30561: I would like to connect Iphone simulator or Iphone device as one of the nodes on selenium grid, how can i achieve this
+[2013-07-25 16:45:29] smccarthy, quitting. (Remote host closed the connection)
