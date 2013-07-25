@@ -37,3 +37,7 @@
 [2013-07-25 04:58:34] freynaud: i need that for sim
 [2013-07-25 04:59:32] nicegraham: it gets written to ios-driver.log doesn't it?
 [2013-07-25 04:59:52] nicegraham: in the root folder
+[2013-07-25 05:05:25] freynaud: no
+[2013-07-25 05:05:32] freynaud: you're talking about ios driver logs
+[2013-07-25 05:05:41] freynaud: I'm talking about the logs of the app under test
+[2013-07-25 05:05:46] freynaud: nothing to do with ios driver
