@@ -83,3 +83,4 @@
 [2013-07-25 08:47:14] lukeis: mornin' nicegraham :)
 [2013-07-25 08:52:37] admc, joining. (#ios-driver)
 [2013-07-25 08:57:33] admc, quitting. (Ping timeout: 276 seconds)
+[2013-07-25 09:01:04] smccarthy, joining. (#ios-driver)
