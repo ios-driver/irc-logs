@@ -113,3 +113,7 @@
 [2013-07-25 13:32:03] smccarthy2, joining. (#ios-driver)
 [2013-07-25 13:32:14] admc, joining. (#ios-driver)
 [2013-07-25 13:34:48] smccarthy, quitting. (Ping timeout: 268 seconds)
+[2013-07-25 13:38:37] smccarthy2, quitting. (Read error: Connection reset by peer)
+[2013-07-25 13:38:54] jlipps, joining. (#ios-driver)
+[2013-07-25 13:38:55] smccarthy, joining. (#ios-driver)
+[2013-07-25 13:39:32] smccarthy, quitting. (Remote host closed the connection)
