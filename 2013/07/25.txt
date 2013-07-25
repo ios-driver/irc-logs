@@ -8,3 +8,4 @@
 [2013-07-25 00:36:43] ios-driver-git: ios-driver/dev 3bb61f5 Graham Abell: fixing alert test
 [2013-07-25 00:45:03] freynaud, joining. (#ios-driver)
 [2013-07-25 01:00:13] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2013-07-25 01:24:06] freynaud, joining. (#ios-driver)
