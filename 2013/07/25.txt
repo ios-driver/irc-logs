@@ -84,3 +84,12 @@
 [2013-07-25 08:52:37] admc, joining. (#ios-driver)
 [2013-07-25 08:57:33] admc, quitting. (Ping timeout: 276 seconds)
 [2013-07-25 09:01:04] smccarthy, joining. (#ios-driver)
+[2013-07-25 09:10:13] nicegraham: hey lukeis
+[2013-07-25 09:10:25] nicegraham: [it's evening actually] :)
+[2013-07-25 09:11:20] lukeis: i know ;) but you started it yesterday by saying good evening to me (when it was 9am my time) ;)
+[2013-07-25 09:11:48] nicegraham: those crazy timezones!
+[2013-07-25 09:12:00] nicegraham: so how does that look for your needs?
+[2013-07-25 09:12:00] lukeis: silly world… should have been flat
+[2013-07-25 09:12:16] lukeis: haven't been able to really look yet…
+[2013-07-25 09:12:28] nicegraham: no probs, I'm home and online
+[2013-07-25 09:12:29] lukeis: problems with my CI this morning that I need to fix
