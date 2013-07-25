@@ -12,3 +12,6 @@
 [2013-07-25 01:35:02] admc, quitting. (Quit: Leaving.)
 [2013-07-25 01:56:51] freynaud, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-07-25 01:57:05] freynaud, joining. (#ios-driver)
+[2013-07-25 02:05:24] admc, joining. (#ios-driver)
+[2013-07-25 02:05:38] admc, quitting. (Read error: Connection reset by peer)
+[2013-07-25 02:05:48] admc, joining. (#ios-driver)
