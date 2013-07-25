@@ -110,3 +110,6 @@
 [2013-07-25 12:35:15] operatiay, joining. (#ios-driver)
 [2013-07-25 12:35:38] admc, quitting. (Quit: Leaving.)
 [2013-07-25 12:39:04] Hammertime38, joining. (#ios-driver)
+[2013-07-25 13:32:03] smccarthy2, joining. (#ios-driver)
+[2013-07-25 13:32:14] admc, joining. (#ios-driver)
+[2013-07-25 13:34:48] smccarthy, quitting. (Ping timeout: 268 seconds)
