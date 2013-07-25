@@ -16,3 +16,4 @@
 [2013-07-25 02:05:38] admc, quitting. (Read error: Connection reset by peer)
 [2013-07-25 02:05:48] admc, joining. (#ios-driver)
 [2013-07-25 02:14:46] admc, quitting. (Ping timeout: 240 seconds)
+[2013-07-25 02:41:55] admc, joining. (#ios-driver)
