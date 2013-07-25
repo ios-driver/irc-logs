@@ -107,3 +107,6 @@
 [2013-07-25 12:20:30] admc, quitting. (*.net *.split)
 [2013-07-25 12:21:13] admc, joining. (#ios-driver)
 [2013-07-25 12:24:03] operatiay, quitting. (*.net *.split)
+[2013-07-25 12:35:15] operatiay, joining. (#ios-driver)
+[2013-07-25 12:35:38] admc, quitting. (Quit: Leaving.)
+[2013-07-25 12:39:04] Hammertime38, joining. (#ios-driver)
