@@ -130,3 +130,5 @@
 [2013-07-25 16:26:29] Guest30561: Hello
 [2013-07-25 16:28:11] Guest30561: I am trying to connect  IOS driver on selenium grid, however the status page shows unknown OS
 [2013-07-25 16:29:54] Guest30561: I have selenium-grid 2.33( -role hub) running on Windows 7
+[2013-07-25 16:32:54] Guest30561: I am starting ios-driver   java -jar  ios-server-0.6.0 -host mac-node name -hub http://win7.hostname:4444/grid/register
+[2013-07-25 16:33:42] Guest30561: I see the node connected, however the OS is displayed as unknown
