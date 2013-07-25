@@ -125,3 +125,8 @@
 [2013-07-25 16:00:14] jlipps, quitting. (Quit: Leaving.)
 [2013-07-25 16:02:57] lukeis, quitting. (Quit: Leaving.)
 [2013-07-25 16:24:52] MD_, joining. (#ios-driver)
+[2013-07-25 16:25:10] MD_: logger url
+[2013-07-25 16:25:15] MD_, changing nick to Guest30561.
+[2013-07-25 16:26:29] Guest30561: Hello
+[2013-07-25 16:28:11] Guest30561: I am trying to connect  IOS driver on selenium grid, however the status page shows unknown OS
+[2013-07-25 16:29:54] Guest30561: I have selenium-grid 2.33( -role hub) running on Windows 7
