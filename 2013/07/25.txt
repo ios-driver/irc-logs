@@ -31,3 +31,9 @@
 [2013-07-25 04:21:01] ios-driver-git: ios-driver/0.6.1 9f52e59 Graham Abell: more merges from jna branch
 [2013-07-25 04:49:58] freynaud: where are the NSLog written for simulator
 [2013-07-25 04:50:09] freynaud: there is a file somewhere, I can't find it anymore :)
+[2013-07-25 04:56:35] nicegraham: it writes it to file?
+[2013-07-25 04:56:39] nicegraham: or the handler?
+[2013-07-25 04:58:31] freynaud: the stuff you see in in the organizer, Console of your device
+[2013-07-25 04:58:34] freynaud: i need that for sim
+[2013-07-25 04:59:32] nicegraham: it gets written to ios-driver.log doesn't it?
+[2013-07-25 04:59:52] nicegraham: in the root folder
