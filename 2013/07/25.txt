@@ -124,3 +124,4 @@
 [2013-07-25 15:16:19] jlipps, joining. (#ios-driver)
 [2013-07-25 16:00:14] jlipps, quitting. (Quit: Leaving.)
 [2013-07-25 16:02:57] lukeis, quitting. (Quit: Leaving.)
+[2013-07-25 16:24:52] MD_, joining. (#ios-driver)
