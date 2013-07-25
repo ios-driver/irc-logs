@@ -237,3 +237,4 @@
 [2013-07-24 15:43:39] jlipps, quitting. (Quit: Leaving.)
 [2013-07-24 16:02:09] lukeis, quitting. (Quit: Leaving.)
 [2013-07-24 16:02:20] jlipps, joining. (#ios-driver)
+[2013-07-24 16:56:44] smccarthy, quitting. (Remote host closed the connection)
