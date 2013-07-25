@@ -29,3 +29,4 @@
 [2013-07-25 04:21:01] ios-driver-git, leaving. (#ios-driver)
 [2013-07-25 04:21:01] ios-driver-git: [ios-driver] nicegraham created 0.6.1 (+2 new commits): http://git.io/3QC_8Q
 [2013-07-25 04:21:01] ios-driver-git: ios-driver/0.6.1 9f52e59 Graham Abell: more merges from jna branch
+[2013-07-25 04:49:58] freynaud: where are the NSLog written for simulator
