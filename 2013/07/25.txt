@@ -54,3 +54,5 @@
 [2013-07-25 05:24:40] nicegraham: it seems like the simulator writes to sysout
 [2013-07-25 05:24:47] nicegraham: so it should all be available
 [2013-07-25 05:26:44] nicegraham: this? http://stackoverflow.com/questions/1864479/crash-logs-generated-by-iphone-simulator
+[2013-07-25 05:31:08] freynaud: that's for crashes
+[2013-07-25 05:31:24] freynaud: some actions I want to know about do not crash the app :)
