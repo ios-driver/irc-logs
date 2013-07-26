@@ -267,3 +267,14 @@
 [2013-07-26 09:44:13] lukeis: -rw-r--r--   1 linman-semerau  SFDC\Domain Users  16516952 Jul 26 09:37 ios-server-0.6.1-jar-with-dependencies.jar
 [2013-07-26 09:44:14] lukeis: -rw-r--r--   1 linman-semerau  SFDC\Domain Users   4126073 Jul 26 09:37 ios-server-0.6.1.jar
 [2013-07-26 09:44:14] lukeis: drwxr-xr-x   8 linman-semerau  SFDC\Domain Users       272 Jul 26 09:37 test-classes
+[2013-07-26 09:45:27] nicegraham: soz, seeing same here now
+[2013-07-26 09:45:37] nicegraham: did a clean if that removed something
+[2013-07-26 09:46:20] lukeis: travis-ci should really be disabled unless freynaud is going to fix the submodule ;)
+[2013-07-26 09:46:32] nicegraham: $ java -jar ios-server-0.6.1.jar  -port 5555 -host 127.0.0.1 -simulators -hub http://127.0.0.1:4444/grid/register
+[2013-07-26 09:46:32] nicegraham: no main manifest attribute, in ios-server-0.6.1.jar
+[2013-07-26 09:46:45] nicegraham: did you remove that too?
+[2013-07-26 09:47:00] santiycr, joining. (#ios-driver)
+[2013-07-26 09:48:43] nicegraham: apologies, i need to use the with dependencies one
+[2013-07-26 09:48:47] nicegraham: [i guess]
+[2013-07-26 09:49:02] lukeis: ;)
+[2013-07-26 09:49:14] admc, joining. (#ios-driver)
