@@ -84,3 +84,8 @@
 [2013-07-26 05:13:39] nicegraham: [INFO] BUILD SUCCESS
 [2013-07-26 05:14:03] Krishnan: first i ran a git submodule update <-- nothing happened on this.. so I ran a git fetch followed by git rebase on the libimobile-java and now its building
 [2013-07-26 05:14:12] Krishnan: but too bad.. I missed giving the skipTests :D
+[2013-07-26 05:15:06] nicegraham: well, you get to watch them all run
+[2013-07-26 05:15:10] nicegraham: that's fun too
+[2013-07-26 05:15:15] Krishnan: lol.. :)
+[2013-07-26 05:15:16] nicegraham: ok, i'm heading for lunch
+[2013-07-26 05:15:25] Krishnan: sure... happy lunching :)
