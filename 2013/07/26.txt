@@ -89,3 +89,5 @@
 [2013-07-26 05:15:15] Krishnan: lol.. :)
 [2013-07-26 05:15:16] nicegraham: ok, i'm heading for lunch
 [2013-07-26 05:15:25] Krishnan: sure... happy lunching :)
+[2013-07-26 05:47:48] nicegraham: Krishnan: if you look at the capabilities you can see what's being set
+[2013-07-26 05:47:49] nicegraham: https://github.com/ios-driver/ios-driver/blob/dev/common/src/main/java/org/uiautomation/ios/IOSCapabilities.java?source=c
