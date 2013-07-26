@@ -410,3 +410,5 @@
 [2013-07-26 12:16:21] nicegraham: https://github.com/ios-driver/ios-driver/releases/download/0.6.1/ios-server-0.6.1-jar-with-dependencies.jar
 [2013-07-26 12:17:02] nicegraham: that shows 2 capabilities available
 [2013-07-26 12:17:31] nicegraham: I assume they're the safari versions
+[2013-07-26 12:25:41] admc, joining. (#ios-driver)
+[2013-07-26 12:30:00] mgaradi: java -jar ios-server-0.6.1.jar -hub http://127.0.0.1:4444/grid/register -proxy org.uiautomation.ios.grid.IOSRemoteProxy -host 127.0.0.1 -port 5555 Exception in thread "main" java.lang.UnsupportedClassVersionError: org/uiautomation/ios/server/IOSServer : Unsupported major.minor version 51.0
