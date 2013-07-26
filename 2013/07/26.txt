@@ -373,3 +373,17 @@
 [2013-07-26 11:37:52] mgaradi: yeah the hub is not creating a session
 [2013-07-26 11:38:19] nicegraham: can you see your app on the hub?
 [2013-07-26 11:44:37] mgaradi: no
+[2013-07-26 11:45:23] mgaradi: but although when I start the hub, I see that hub reads the app details from there
+[2013-07-26 11:45:27] nicegraham: ok, what version are you using
+[2013-07-26 11:45:32] nicegraham: ios-driver you mean?
+[2013-07-26 11:45:39] mgaradi: 0.6.0 ios-driver
+[2013-07-26 11:45:46] mgaradi: and 2.31.0 for hub
+[2013-07-26 11:46:31] AutomatedTester: nicegraham: wassup?
+[2013-07-26 11:46:35] nicegraham: ok, well I've just run this and it works - do you want to try updating?
+[2013-07-26 11:46:36] nicegraham: https://gist.github.com/nicegraham/7185267a6d2d326afaaa
+[2013-07-26 11:46:51] nicegraham: hey there - it was a travis question - lukeis was trying to get it working here
+[2013-07-26 11:47:00] nicegraham: and I was pretty sure we had a chat about it before
+[2013-07-26 11:47:24] admc, quitting. (Quit: Leaving.)
+[2013-07-26 11:48:01] nicegraham: I think he's asking in #travis now though :)
+[2013-07-26 11:49:43] lukeis: it's worked out … for now
+[2013-07-26 11:50:00] lukeis: got it running, but the OS X vm only has Java 6 installed
