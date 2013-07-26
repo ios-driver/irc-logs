@@ -368,3 +368,7 @@
 [2013-07-26 11:18:06] mgaradi: anything specific that I should see in the capabilities for this to work?
 [2013-07-26 11:18:46] mgaradi: for example started ios-driver on port 8084 and hub on port 8080 on same box and tried sending a request to the hub
 [2013-07-26 11:19:40] mgaradi: WebDriver driver = new RemoteIOSDriver(new URL("http://localhost:8080/wd/hub"), app);
+[2013-07-26 11:36:58] nicegraham: sorry, mgaradi
+[2013-07-26 11:37:09] nicegraham: and that can't get a session?
+[2013-07-26 11:37:52] mgaradi: yeah the hub is not creating a session
+[2013-07-26 11:38:19] nicegraham: can you see your app on the hub?
