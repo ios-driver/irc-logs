@@ -175,3 +175,18 @@
 [2013-07-26 08:13:55] nicegraham: if your caps will never change then you don't need to poll for those changes
 [2013-07-26 08:14:02] Krishnan: but when i was finding the net results different, I was kinda confused
 [2013-07-26 08:14:51] Krishnan: got that.. so in those circumstances there is no point in me even using the IOSRemoteProxy right.. that is if I dont need the polling part
+[2013-07-26 08:15:14] nicegraham: yeah, that's correct
+[2013-07-26 08:15:33] Krishnan: :) Cool.. so I am on the right page :D
+[2013-07-26 08:15:42] Krishnan: when is 0.6.1 gonna hit the maven repos ?
+[2013-07-26 08:16:13] nicegraham: waiting for luke to sign off - I pushed it to nexus last night
+[2013-07-26 08:16:26] nicegraham: but based on this reg issue I'll re-push tonight
+[2013-07-26 08:16:55] Krishnan: oh ok.. Just to re-iterate.. I have not involved 0.6.1 in my testing.. its all based on 0.6.0 only :)
+[2013-07-26 08:17:03] Krishnan: Dont wanna end up adding confusions :)
+[2013-07-26 08:17:32] nicegraham: ok
+[2013-07-26 08:17:39] nicegraham: either way I've found an issue and I'll fix it
+[2013-07-26 08:17:47] Krishnan: oh ok.. :)
+[2013-07-26 08:17:49] nicegraham: ok, I'm heading home
+[2013-07-26 08:17:50] nicegraham: laters all
+[2013-07-26 08:18:04] Krishnan: Let me attempt to do the setup once again in my home mac and then see what i can add for the documentation
+[2013-07-26 08:18:12] Krishnan: Thanks for all the guidance nicegraham
+[2013-07-26 08:18:18] Krishnan: appreciate ur time and patience
