@@ -216,3 +216,7 @@
 [2013-07-26 09:01:55] lukeis: ugh… where does oracle install java at?
 [2013-07-26 09:03:05] lukeis: got it...
 [2013-07-26 09:03:29] lukeis: fucking java… if you make an installer for mac, have it actually install it in the same place as mac has it
+[2013-07-26 09:18:53] ios-driver-git, joining. (#ios-driver)
+[2013-07-26 09:18:53] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/B_70wA
+[2013-07-26 09:18:53] ios-driver-git, leaving. (#ios-driver)
+[2013-07-26 09:18:53] ios-driver-git: ios-driver/dev 9ba719b Graham Abell: fixing grid registration request firing
