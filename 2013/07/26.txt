@@ -426,3 +426,9 @@
 [2013-07-26 12:37:00] mgaradi: 1.6.0_37
 [2013-07-26 12:37:06] mgaradi: ah..I see
 [2013-07-26 12:37:07] mgaradi: okay
+[2013-07-26 12:40:49] mgaradi: I think you need to add java 1.7 as a pre-req :)
+[2013-07-26 12:41:12] nicegraham: it's changed since 1.6
+[2013-07-26 12:41:19] nicegraham: sorry, i mean 0.6.0
+[2013-07-26 12:41:24] nicegraham: we updated since then
+[2013-07-26 12:44:50] nicegraham: :note Krishnan this should work for you https://gist.github.com/nicegraham/7185267a6d2d326afaaa
+[2013-07-26 12:44:59] mgaradi: oh okay..never mind..it just started working like a charm !!
