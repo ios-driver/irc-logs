@@ -200,3 +200,6 @@
 [2013-07-26 08:41:57] lukeis: ok, you should see a standalone package in the main folder
 [2013-07-26 08:42:12] *lukeis haven't built it in a while, goes to try ;)'
 [2013-07-26 08:42:31] Krishnan: :) got it.. sorry my bad
+[2013-07-26 08:49:02] Krishnan: lukeis : when is 0.6.1 gonna hit the maven global repo ?
+[2013-07-26 08:49:38] lukeis: i want to include the full jar (the standalone server) and then i'll push it
+[2013-07-26 08:49:48] Krishnan: oh ok
