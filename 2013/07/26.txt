@@ -362,3 +362,9 @@
 [2013-07-26 11:07:14] nicegraham: in favour of?
 [2013-07-26 11:07:47] lukeis: they were looking at Robotium and maybe doing straight UI Automator
 [2013-07-26 11:09:49] nicegraham: keep them on the straight and narrow!
+[2013-07-26 11:15:44] lukeis: heh, i'm talking to saucelabs  in #travis  about java7 on the mac vm for ios-driver… o.0
+[2013-07-26 11:15:50] lukeis: hiya jlipps ;)
+[2013-07-26 11:16:15] jlipps: ello
+[2013-07-26 11:18:06] mgaradi: anything specific that I should see in the capabilities for this to work?
+[2013-07-26 11:18:46] mgaradi: for example started ios-driver on port 8084 and hub on port 8080 on same box and tried sending a request to the hub
+[2013-07-26 11:19:40] mgaradi: WebDriver driver = new RemoteIOSDriver(new URL("http://localhost:8080/wd/hub"), app);
