@@ -241,3 +241,29 @@
 [2013-07-26 09:39:04] ios-driver-git: ios-driver/dev 0804d96 Luke Inman-Semerau: not copying ios-server with dependencies assembly, so that it can be easily uploaded to maven central
 [2013-07-26 09:39:05] lukeis: nicegraham: there ya go… build / deploy / be merry ;)
 [2013-07-26 09:39:34] lukeis: new location of build standalone jar:  server/target/ios-server-0.6.1-jar-with-dependencies.jar
+[2013-07-26 09:42:26] ios-driver-git, joining. (#ios-driver)
+[2013-07-26 09:42:27] ios-driver-git: [ios-driver] lukeis force-pushed dev from 0804d96 to c5a477f: http://git.io/9xKjng
+[2013-07-26 09:42:27] ios-driver-git: ios-driver/dev c5a477f Luke Inman-Semerau: not copying ios-server with dependencies assembly, so that it can be easily uploaded to maven central
+[2013-07-26 09:42:27] ios-driver-git, leaving. (#ios-driver)
+[2013-07-26 09:42:51] lukeis: nicegraham: sorry about that… forgot to update my email before pushing… just forced push an update
+[2013-07-26 09:42:53] nicegraham: lukeis: found it :) so it has .jar and with deps.jar
+[2013-07-26 09:43:01] lukeis: yep
+[2013-07-26 09:43:08] nicegraham: but they're both the same size...
+[2013-07-26 09:43:38] lukeis: not for me...
+[2013-07-26 09:43:39] lukeis: cd 0.6.1/
+[2013-07-26 09:43:39] lukeis: lukeis-ltm:0.6.1 linman-semerau$ ls -l
+[2013-07-26 09:43:39] lukeis: total 40352
+[2013-07-26 09:43:39] lukeis: -rw-r--r--  1 linman-semerau  SFDC\Domain Users       217 Jul 26 09:37 _maven.repositories
+[2013-07-26 09:43:39] lukeis: -rw-r--r--  1 linman-semerau  SFDC\Domain Users  16516952 Jul 26 09:37 ios-server-0.6.1-jar-with-dependencies.jar
+[2013-07-26 09:43:39] lukeis: -rw-r--r--  1 linman-semerau  SFDC\Domain Users   4126073 Jul 26 09:37 ios-server-0.6.1.jar
+[2013-07-26 09:43:39] lukeis: -rw-r--r--  1 linman-semerau  SFDC\Domain Users      7581 Jul 26 09:36 ios-server-0.6.1.pom
+[2013-07-26 09:44:12] lukeis: and target folder...
+[2013-07-26 09:44:13] lukeis: target linman-semerau$ ls -l
+[2013-07-26 09:44:13] lukeis: total 40328
+[2013-07-26 09:44:13] lukeis: drwxr-xr-x   2 linman-semerau  SFDC\Domain Users        68 Jul 26 09:37 archive-tmp
+[2013-07-26 09:44:13] lukeis: drwxr-xr-x  29 linman-semerau  SFDC\Domain Users       986 Jul 26 09:37 classes
+[2013-07-26 09:44:13] lukeis: drwxr-xr-x   3 linman-semerau  SFDC\Domain Users       102 Jul 26 09:37 generated-sources
+[2013-07-26 09:44:13] lukeis: drwxr-xr-x   3 linman-semerau  SFDC\Domain Users       102 Jul 26 09:37 generated-test-sources
+[2013-07-26 09:44:13] lukeis: -rw-r--r--   1 linman-semerau  SFDC\Domain Users  16516952 Jul 26 09:37 ios-server-0.6.1-jar-with-dependencies.jar
+[2013-07-26 09:44:14] lukeis: -rw-r--r--   1 linman-semerau  SFDC\Domain Users   4126073 Jul 26 09:37 ios-server-0.6.1.jar
+[2013-07-26 09:44:14] lukeis: drwxr-xr-x   8 linman-semerau  SFDC\Domain Users       272 Jul 26 09:37 test-classes
