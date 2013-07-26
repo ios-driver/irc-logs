@@ -126,3 +126,13 @@
 [2013-07-26 07:32:51] nicegraham: https://itunes.apple.com/ie/app/os-x-mountain-lion/id537386512?mt=12
 [2013-07-26 07:33:10] Krishnan: Lol.. It looked as if u read my mind :D i was gonna ask that next... can u give me the link :p
 [2013-07-26 07:41:29] Krishnan: nicegraham: A few more questions.. w.r.t iOSDriver and Grid... for me to use iOSDriver+Grid, should I have to use the IOSRemoteProxy ?
+[2013-07-26 07:45:42] nicegraham: no you don't need to
+[2013-07-26 07:46:07] Krishnan: If I dont use it when I register the node to the Grid.. I see this :
+[2013-07-26 07:46:09] Krishnan: org.openqa.selenium.WebDriverException: Error forwarding the new session cannot find : {acceptSslCerts=true, simulator=true, timeHack=false, variation=Regular, locale=en_GB, CFBundleName=Safari, device=iphone, language=en}
+[2013-07-26 07:46:23] Krishnan: which I know is Grid's way of telling me, it can find what I need
+[2013-07-26 07:46:38] Krishnan: IOSCapabilities dc = IOSCapabilities.iphone("Safari"); <-- This is how am instantiating the capabilities
+[2013-07-26 07:47:08] Krishnan: perhaps the .iphone() is adding up a few more goodies to my capabilities request which is not matching with what the node has ?
+[2013-07-26 07:47:50] nicegraham: no, that should work I believe
+[2013-07-26 07:48:05] nicegraham: that's basically what lukeis demoed at seconf
+[2013-07-26 07:48:26] nicegraham: https://github.com/lukeis/seconf
+[2013-07-26 07:48:51] nicegraham: https://github.com/lukeis/seconf/blob/master/src/main/java/me/lukeis/example/drivers/MobileSafariIPhoneDriver.java
