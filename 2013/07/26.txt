@@ -445,3 +445,4 @@
 [2013-07-26 13:09:07] mgaradi: http://ios-driver.github.io/ios-driver/faq.html
 [2013-07-26 13:30:03] lukeis, joining. (#ios-driver)
 [2013-07-26 14:04:41] lukeis, quitting. (Quit: Leaving.)
+[2013-07-26 14:41:17] santiycr, quitting. (Quit: Leaving.)
