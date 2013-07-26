@@ -372,3 +372,4 @@
 [2013-07-26 11:37:09] nicegraham: and that can't get a session?
 [2013-07-26 11:37:52] mgaradi: yeah the hub is not creating a session
 [2013-07-26 11:38:19] nicegraham: can you see your app on the hub?
+[2013-07-26 11:44:37] mgaradi: no
