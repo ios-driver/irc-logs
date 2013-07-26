@@ -416,3 +416,13 @@
 [2013-07-26 12:31:13] mgaradi: its throwing an exception
 [2013-07-26 12:32:12] nicegraham: can you just try what's here to make sure it all works?
 [2013-07-26 12:32:12] nicegraham: https://gist.github.com/nicegraham/7185267a6d2d326afaaa
+[2013-07-26 12:36:10] mgaradi: yeah I did..it just give the same exception
+[2013-07-26 12:36:32] mgaradi: Exception in thread "main" java.lang.UnsupportedClassVersionError: org/uiautomation/ios/server/IOSServer : Unsupported major.minor version 51.0
+[2013-07-26 12:36:37] mgaradi: you sure that jar works?
+[2013-07-26 12:36:37] nicegraham: what version of jave are you running?
+[2013-07-26 12:36:41] nicegraham: java --version
+[2013-07-26 12:36:42] mgaradi: 1.6
+[2013-07-26 12:36:53] nicegraham: ah, you need to be on 1.7
+[2013-07-26 12:37:00] mgaradi: 1.6.0_37
+[2013-07-26 12:37:06] mgaradi: ah..I see
+[2013-07-26 12:37:07] mgaradi: okay
