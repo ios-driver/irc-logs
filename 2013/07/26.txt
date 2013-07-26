@@ -412,3 +412,7 @@
 [2013-07-26 12:17:31] nicegraham: I assume they're the safari versions
 [2013-07-26 12:25:41] admc, joining. (#ios-driver)
 [2013-07-26 12:30:00] mgaradi: java -jar ios-server-0.6.1.jar -hub http://127.0.0.1:4444/grid/register -proxy org.uiautomation.ios.grid.IOSRemoteProxy -host 127.0.0.1 -port 5555 Exception in thread "main" java.lang.UnsupportedClassVersionError: org/uiautomation/ios/server/IOSServer : Unsupported major.minor version 51.0
+[2013-07-26 12:31:03] mgaradi: nicegraham: I just used the same syntax thats provided on the ios-driver page for registering ios-server with the grid
+[2013-07-26 12:31:13] mgaradi: its throwing an exception
+[2013-07-26 12:32:12] nicegraham: can you just try what's here to make sure it all works?
+[2013-07-26 12:32:12] nicegraham: https://gist.github.com/nicegraham/7185267a6d2d326afaaa
