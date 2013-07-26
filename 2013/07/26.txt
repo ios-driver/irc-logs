@@ -395,3 +395,11 @@
 [2013-07-26 11:51:01] lukeis: meeting then lunch… back in a while
 [2013-07-26 11:51:36] nicegraham: laters kiddo
 [2013-07-26 11:51:46] nicegraham: nice work on the badge too :)
+[2013-07-26 12:05:51] mgaradi: I tried..still it didn't work
+[2013-07-26 12:06:19] mgaradi: can you please send me a screenshot of how the capabilities will look like when the ios node is registered to the hub?
+[2013-07-26 12:06:26] mgaradi: I am using native app
+[2013-07-26 12:07:31] nicegraham: it's in the gist: https://www.dropbox.com/s/burzh2jqg4euea7/grid.png
+[2013-07-26 12:08:56] nicegraham: are you using the same versions as me now?
+[2013-07-26 12:09:10] mgaradi: version meaning ios-server version?
+[2013-07-26 12:09:19] mgaradi: I am not seeing any of these on my capabilities
+[2013-07-26 12:10:01] nicegraham: meaning both, I'm using 2.33.0 and 0.6.1
