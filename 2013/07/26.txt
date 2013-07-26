@@ -350,3 +350,7 @@
 [2013-07-26 10:57:49] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to dev: http://git.io/EuUYHw
 [2013-07-26 10:57:49] ios-driver-git, leaving. (#ios-driver)
 [2013-07-26 10:57:49] ios-driver-git: ios-driver/dev c28c1d5 Luke Inman-Semerau: adding travis-ci button
+[2013-07-26 11:04:53] ios-driver-git, joining. (#ios-driver)
+[2013-07-26 11:04:54] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to dev: http://git.io/Xe7Pbg
+[2013-07-26 11:04:54] ios-driver-git, leaving. (#ios-driver)
+[2013-07-26 11:04:54] ios-driver-git: ios-driver/dev fcd83b1 Luke Inman-Semerau: trying to run mvn via script command
