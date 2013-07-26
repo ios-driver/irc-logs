@@ -335,3 +335,11 @@
 [2013-07-26 10:43:13] mgaradi: Hi freynaud..I am using a single simulator per machine while registering the ios node with a the hub
 [2013-07-26 10:43:21] mgaradi: it throws me out with null session
 [2013-07-26 10:43:26] mgaradi: any insights on that?
+[2013-07-26 10:52:36] nicegraham: hi mgaradi
+[2013-07-26 10:53:00] nicegraham: can you see the nodes on the hub? can you see what capabilities are available?
+[2013-07-26 10:53:43] nicegraham: lukeis: how did the last one look?
+[2013-07-26 10:53:51] lukeis: not good
+[2013-07-26 10:53:58] nicegraham: they could be failing because of the dev access request
+[2013-07-26 10:54:16] lukeis: i can't figure out how to tell travis to run on OS X && run maven
+[2013-07-26 10:54:24] mgaradi: capabilityMatcher:org.openqa.grid.internal.utils.DefaultCapabilityMatcher
+[2013-07-26 10:54:32] lukeis: i've asked in #travis … no response yet
