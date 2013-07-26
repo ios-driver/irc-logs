@@ -15,3 +15,4 @@
 [2013-07-26 04:40:14] freynaud: .
 [2013-07-26 04:43:41] test_, joining. (#ios-driver)
 [2013-07-26 04:43:50] test_, quitting. (Client Quit)
+[2013-07-26 04:45:12] Krishnan, joining. (#ios-driver)
