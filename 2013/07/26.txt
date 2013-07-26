@@ -309,3 +309,12 @@
 [2013-07-26 10:14:08] ios-driver-git: ios-driver/dev bb153fa Luke Inman-Semerau: updating submodule reference to http url...
 [2013-07-26 10:14:08] ios-driver-git, leaving. (#ios-driver)
 [2013-07-26 10:14:17] lukeis: nicegraham: review please ^
+[2013-07-26 10:15:06] nicegraham: that should work, you should know in a minute :)
+[2013-07-26 10:16:16] lukeis: well… fixed *that* issue… https://travis-ci.org/ios-driver/ios-driver/builds/9525691
+[2013-07-26 10:16:42] lukeis: don't we need a travis.yml or something?
+[2013-07-26 10:17:32] nicegraham: AutomatedTester: ^
+[2013-07-26 10:19:28] *nicegraham is having some dinner biab'
+[2013-07-26 10:19:38] ios-driver-git, joining. (#ios-driver)
+[2013-07-26 10:19:39] ios-driver-git, leaving. (#ios-driver)
+[2013-07-26 10:19:39] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to dev: http://git.io/3XGFOA
+[2013-07-26 10:19:39] ios-driver-git: ios-driver/dev b6901d4 Luke Inman-Semerau: adding travis.yml
