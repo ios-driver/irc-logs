@@ -325,3 +325,13 @@
 [2013-07-26 10:32:06] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to dev: http://git.io/LJz6Lg
 [2013-07-26 10:32:06] ios-driver-git: ios-driver/dev 5ec6fe3 Luke Inman-Semerau: specifying objective-c also, to hopefully force it to choose mac os x to build
 [2013-07-26 10:32:06] ios-driver-git, leaving. (#ios-driver)
+[2013-07-26 10:40:57] iostester, joining. (#ios-driver)
+[2013-07-26 10:41:39] ios-driver-git, joining. (#ios-driver)
+[2013-07-26 10:41:39] ios-driver-git: ios-driver/dev df8e706 Luke Inman-Semerau: trying to flip the order to see if that makes a difference
+[2013-07-26 10:41:39] ios-driver-git, leaving. (#ios-driver)
+[2013-07-26 10:41:39] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to dev: http://git.io/IRuwiw
+[2013-07-26 10:42:12] iostester, leaving. (#ios-driver)
+[2013-07-26 10:42:39] mgaradi, joining. (#ios-driver)
+[2013-07-26 10:43:13] mgaradi: Hi freynaud..I am using a single simulator per machine while registering the ios node with a the hub
+[2013-07-26 10:43:21] mgaradi: it throws me out with null session
+[2013-07-26 10:43:26] mgaradi: any insights on that?
