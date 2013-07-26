@@ -191,3 +191,12 @@
 [2013-07-26 08:18:12] Krishnan: Thanks for all the guidance nicegraham
 [2013-07-26 08:18:18] Krishnan: appreciate ur time and patience
 [2013-07-26 08:25:34] lukeis, joining. (#ios-driver)
+[2013-07-26 08:40:31] Krishnan: Hi lukeis
+[2013-07-26 08:40:39] lukeis: hi
+[2013-07-26 08:40:59] Krishnan:  java -jar ios-server-0.6.1.jar gives me a no main manifest attribute, in ios-server-0.6.1.jar error
+[2013-07-26 08:41:17] lukeis: where are you getting the jar from?
+[2013-07-26 08:41:29] Krishnan: I built it from the code base
+[2013-07-26 08:41:50] Krishnan: using mvn clean install
+[2013-07-26 08:41:57] lukeis: ok, you should see a standalone package in the main folder
+[2013-07-26 08:42:12] *lukeis haven't built it in a while, goes to try ;)'
+[2013-07-26 08:42:31] Krishnan: :) got it.. sorry my bad
