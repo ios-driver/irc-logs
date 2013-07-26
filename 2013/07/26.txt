@@ -440,3 +440,6 @@
 [2013-07-26 12:46:24] mgaradi: just upgraded java
 [2013-07-26 12:46:44] nicegraham: ok, that makes more sense! :)
 [2013-07-26 13:01:54] lukeis, quitting. (Quit: Leaving.)
+[2013-07-26 13:08:21] mgaradi: any insights on: https://github.com/ios-driver/ios-driver/issues/92
+[2013-07-26 13:09:07] mgaradi: this is different from the issue mentioned on the faqs page:
+[2013-07-26 13:09:07] mgaradi: http://ios-driver.github.io/ios-driver/faq.html
