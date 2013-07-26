@@ -432,3 +432,10 @@
 [2013-07-26 12:41:24] nicegraham: we updated since then
 [2013-07-26 12:44:50] nicegraham: :note Krishnan this should work for you https://gist.github.com/nicegraham/7185267a6d2d326afaaa
 [2013-07-26 12:44:59] mgaradi: oh okay..never mind..it just started working like a charm !!
+[2013-07-26 12:45:07] mgaradi: thanks so much nicegraham :)
+[2013-07-26 12:45:20] mgaradi: we can scale now :)
+[2013-07-26 12:45:21] nicegraham: great!
+[2013-07-26 12:45:38] nicegraham: even on 1.6?
+[2013-07-26 12:46:18] mgaradi: no I mean on 1.7
+[2013-07-26 12:46:24] mgaradi: just upgraded java
+[2013-07-26 12:46:44] nicegraham: ok, that makes more sense! :)
