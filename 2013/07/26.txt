@@ -203,3 +203,5 @@
 [2013-07-26 08:49:02] Krishnan: lukeis : when is 0.6.1 gonna hit the maven global repo ?
 [2013-07-26 08:49:38] lukeis: i want to include the full jar (the standalone server) and then i'll push it
 [2013-07-26 08:49:48] Krishnan: oh ok
+[2013-07-26 08:50:04] lukeis: nicegraham has nicely done most of the work here ;)
+[2013-07-26 08:50:25] Krishnan: yeah I was chatting with him till now
