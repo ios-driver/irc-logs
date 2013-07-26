@@ -190,3 +190,4 @@
 [2013-07-26 08:18:04] Krishnan: Let me attempt to do the setup once again in my home mac and then see what i can add for the documentation
 [2013-07-26 08:18:12] Krishnan: Thanks for all the guidance nicegraham
 [2013-07-26 08:18:18] Krishnan: appreciate ur time and patience
+[2013-07-26 08:25:34] lukeis, joining. (#ios-driver)
