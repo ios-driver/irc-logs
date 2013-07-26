@@ -125,3 +125,4 @@
 [2013-07-26 07:32:48] Krishnan: Doing it right now...:)
 [2013-07-26 07:32:51] nicegraham: https://itunes.apple.com/ie/app/os-x-mountain-lion/id537386512?mt=12
 [2013-07-26 07:33:10] Krishnan: Lol.. It looked as if u read my mind :D i was gonna ask that next... can u give me the link :p
+[2013-07-26 07:41:29] Krishnan: nicegraham: A few more questions.. w.r.t iOSDriver and Grid... for me to use iOSDriver+Grid, should I have to use the IOSRemoteProxy ?
