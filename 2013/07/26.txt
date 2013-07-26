@@ -387,3 +387,11 @@
 [2013-07-26 11:48:01] nicegraham: I think he's asking in #travis now though :)
 [2013-07-26 11:49:43] lukeis: it's worked out … for now
 [2013-07-26 11:50:00] lukeis: got it running, but the OS X vm only has Java 6 installed
+[2013-07-26 11:50:18] lukeis: saucelabs friends are going to update the VM next week to have Java 7
+[2013-07-26 11:50:25] lukeis: and then it should start running ;)
+[2013-07-26 11:50:51] lukeis: note the failing badge in the readme now :-D
+[2013-07-26 11:50:51] lukeis: https://github.com/ios-driver/ios-driver
+[2013-07-26 11:50:58] mgaradi: let me try
+[2013-07-26 11:51:01] lukeis: meeting then lunch… back in a while
+[2013-07-26 11:51:36] nicegraham: laters kiddo
+[2013-07-26 11:51:46] nicegraham: nice work on the badge too :)
