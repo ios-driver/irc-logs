@@ -137,3 +137,4 @@
 [2013-07-25 17:04:35] operatiay, quitting. (Read error: Connection reset by peer)
 [2013-07-25 17:09:06] santiycr, quitting. (Quit: Leaving.)
 [2013-07-25 17:14:58] Hammertime38, quitting. (Remote host closed the connection)
+[2013-07-25 18:56:39] Guest30561, quitting. (Ping timeout: 250 seconds)
