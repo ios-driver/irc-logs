@@ -299,3 +299,13 @@
 [2013-07-26 10:02:51] ios-driver-git, leaving. (#ios-driver)
 [2013-07-26 10:03:09] nicegraham: should I update the poms to 0.6.2 or back to 0.7.0-snapshot?
 [2013-07-26 10:03:21] lukeis: 0.6.2-SNAPSHOT
+[2013-07-26 10:11:32] ios-driver-git, joining. (#ios-driver)
+[2013-07-26 10:11:32] ios-driver-git: [ios-driver] nicegraham pushed 2 new commits to dev: http://git.io/_NFM4w
+[2013-07-26 10:11:32] ios-driver-git: ios-driver/dev 9856832 Graham Abell: update libimobile ref
+[2013-07-26 10:11:32] ios-driver-git, leaving. (#ios-driver)
+[2013-07-26 10:11:32] ios-driver-git: ios-driver/dev 2e7f5a5 Graham Abell: updating version for 0.6.2
+[2013-07-26 10:14:07] ios-driver-git, joining. (#ios-driver)
+[2013-07-26 10:14:08] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to dev: http://git.io/A4Qa5g
+[2013-07-26 10:14:08] ios-driver-git: ios-driver/dev bb153fa Luke Inman-Semerau: updating submodule reference to http url...
+[2013-07-26 10:14:08] ios-driver-git, leaving. (#ios-driver)
+[2013-07-26 10:14:17] lukeis: nicegraham: review please ^
