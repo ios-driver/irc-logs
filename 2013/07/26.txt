@@ -1,3 +1,8 @@
 [2013-07-26 00:22:25] admc, joining. (#ios-driver)
 [2013-07-26 01:15:37] operatiay, joining. (#ios-driver)
 [2013-07-26 01:39:12] admc, quitting. (Quit: Leaving.)
+[2013-07-26 03:56:45] ios-driver-git, joining. (#ios-driver)
+[2013-07-26 03:56:45] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/Cbr62A
+[2013-07-26 03:56:45] ios-driver-git, leaving. (#ios-driver)
+[2013-07-26 03:56:45] ios-driver-git: ios-driver/dev 21a0f2e Brian Mooney: Add UIASlider object mappings
+[2013-07-26 03:59:55] psp250, joining. (#ios-driver)
