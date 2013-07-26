@@ -321,3 +321,7 @@
 [2013-07-26 10:21:14] lukeis: it's building! it's building! ;)
 [2013-07-26 10:21:23] lukeis: https://travis-ci.org/ios-driver/ios-driver/builds/9525835
 [2013-07-26 10:22:59] lukeis: :-/   all the tests failed and it shows it as passing
+[2013-07-26 10:32:06] ios-driver-git, joining. (#ios-driver)
+[2013-07-26 10:32:06] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to dev: http://git.io/LJz6Lg
+[2013-07-26 10:32:06] ios-driver-git: ios-driver/dev 5ec6fe3 Luke Inman-Semerau: specifying objective-c also, to hopefully force it to choose mac os x to build
+[2013-07-26 10:32:06] ios-driver-git, leaving. (#ios-driver)
