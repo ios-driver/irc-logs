@@ -136,3 +136,11 @@
 [2013-07-26 07:48:05] nicegraham: that's basically what lukeis demoed at seconf
 [2013-07-26 07:48:26] nicegraham: https://github.com/lukeis/seconf
 [2013-07-26 07:48:51] nicegraham: https://github.com/lukeis/seconf/blob/master/src/main/java/me/lukeis/example/drivers/MobileSafariIPhoneDriver.java
+[2013-07-26 07:50:15] nicegraham: can you see the node on grid?
+[2013-07-26 07:50:31] Krishnan: Yeah I can.. but it doesnt list me the capabilities of the browser at all
+[2013-07-26 07:50:55] Krishnan: wd/hub/capabilities/all <-- loading this on the node shows the capabilities though
+[2013-07-26 07:51:05] nicegraham: yeah, that's ok
+[2013-07-26 07:51:26] nicegraham: the default remote proxy may not know how to display them
+[2013-07-26 07:51:37] nicegraham: I can't remember at this point :)
+[2013-07-26 07:53:40] Krishnan: nicegraham: Luke seems to be referring to this end point : "http://localhost:3001/wd/hub" <-- thats not the default grid's end-point is it ?
+[2013-07-26 07:54:21] Krishnan: rwd = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), DesiredCapabilities.iphone()); <-- This is how am doing it... This works if I use the IOSRemoteProxy as my proxy when am hooking on the node.. But it conks when I take out IOSRemoteProxy out of the picture
