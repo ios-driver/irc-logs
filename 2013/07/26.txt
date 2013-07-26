@@ -93,3 +93,6 @@
 [2013-07-26 05:47:49] nicegraham: https://github.com/ios-driver/ios-driver/blob/dev/common/src/main/java/org/uiautomation/ios/IOSCapabilities.java?source=c
 [2013-07-26 06:46:12] Krishnan: yep.. I got it to work Graham :)
 [2013-07-26 06:46:24] Krishnan: am fiddling around with it more to understand better :) This is interesting :D
+[2013-07-26 06:57:06] Krishnan: Graham
+[2013-07-26 06:57:45] Krishnan: how do I instruct iOSDriver to ignore cert errors ?
+[2013-07-26 06:57:47] Krishnan: for a webpage
