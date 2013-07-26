@@ -292,3 +292,10 @@
 [2013-07-26 09:59:26] ios-driver-git, leaving. (#ios-driver)
 [2013-07-26 09:59:37] nicegraham: :)
 [2013-07-26 09:59:44] lukeis: awesome ;)
+[2013-07-26 10:00:05] nicegraham: I like the new releases thing in github
+[2013-07-26 10:02:51] ios-driver-git, joining. (#ios-driver)
+[2013-07-26 10:02:51] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/pzma4g
+[2013-07-26 10:02:51] ios-driver-git: ios-driver/dev 4308ce2 Graham Abell: Update release.notes
+[2013-07-26 10:02:51] ios-driver-git, leaving. (#ios-driver)
+[2013-07-26 10:03:09] nicegraham: should I update the poms to 0.6.2 or back to 0.7.0-snapshot?
+[2013-07-26 10:03:21] lukeis: 0.6.2-SNAPSHOT
