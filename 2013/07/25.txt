@@ -140,3 +140,4 @@
 [2013-07-25 18:56:39] Guest30561, quitting. (Ping timeout: 250 seconds)
 [2013-07-25 19:21:54] admc, quitting. (Quit: Leaving.)
 [2013-07-25 19:32:47] smccarthy, joining. (#ios-driver)
+[2013-07-25 20:38:36] santiycr, joining. (#ios-driver)
