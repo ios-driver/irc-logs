@@ -114,3 +114,14 @@
 [2013-07-26 07:29:44] nicegraham: there's a 30 day trial but after that you have to pay
 [2013-07-26 07:29:49] nicegraham: but it's not significant
 [2013-07-26 07:29:56] nicegraham: then you just need the mac osx image
+[2013-07-26 07:30:01] nicegraham: and do the install
+[2013-07-26 07:30:13] nicegraham: once you create one image you can reuse it
+[2013-07-26 07:30:35] Krishnan: Oh ok.. now I need to figure out how do I get the Mac OSX image :) I only have a MAC at my disposal though
+[2013-07-26 07:30:59] nicegraham: well you can get it from the app store for $20
+[2013-07-26 07:31:03] nicegraham: that's what we did :)
+[2013-07-26 07:31:34] Krishnan: nicegraham: 20 USD and its available eh ? Wow... That kinda answers a lot of questions
+[2013-07-26 07:32:27] nicegraham: yeah, just search in the app store
+[2013-07-26 07:32:33] nicegraham: it's 17.99 euro for me
+[2013-07-26 07:32:48] Krishnan: Doing it right now...:)
+[2013-07-26 07:32:51] nicegraham: https://itunes.apple.com/ie/app/os-x-mountain-lion/id537386512?mt=12
+[2013-07-26 07:33:10] Krishnan: Lol.. It looked as if u read my mind :D i was gonna ask that next... can u give me the link :p
