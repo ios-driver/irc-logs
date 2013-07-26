@@ -205,3 +205,8 @@
 [2013-07-26 08:49:48] Krishnan: oh ok
 [2013-07-26 08:50:04] lukeis: nicegraham has nicely done most of the work here ;)
 [2013-07-26 08:50:25] Krishnan: yeah I was chatting with him till now
+[2013-07-26 08:57:09] nicegraham: hey lukeis, I noticed a bug in the grid reg code which I'm gonna fix now
+[2013-07-26 08:57:16] nicegraham: so I'd like to include that in 0.6.1
+[2013-07-26 08:59:17] lukeis: okie dokie
+[2013-07-26 08:59:44] jlipps, joining. (#ios-driver)
+[2013-07-26 08:59:56] *lukeis just installed java7 on the new laptop… you know, to actually build ios-driver ;)'
