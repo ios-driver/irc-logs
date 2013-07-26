@@ -146,3 +146,4 @@
 [2013-07-25 21:33:29] lukeis, joining. (#ios-driver)
 [2013-07-25 21:36:28] jlipps, quitting. (Quit: Leaving.)
 [2013-07-25 22:19:58] smccarthy, quitting. (Remote host closed the connection)
+[2013-07-25 22:36:45] lukeis, quitting. (Ping timeout: 260 seconds)
