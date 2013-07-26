@@ -96,3 +96,4 @@
 [2013-07-26 06:57:06] Krishnan: Graham
 [2013-07-26 06:57:45] Krishnan: how do I instruct iOSDriver to ignore cert errors ?
 [2013-07-26 06:57:47] Krishnan: for a webpage
+[2013-07-26 07:05:37] Krishnan: ok.. that was a stupid question :) Please ignore it
