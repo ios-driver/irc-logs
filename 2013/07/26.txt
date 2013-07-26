@@ -210,3 +210,9 @@
 [2013-07-26 08:59:17] lukeis: okie dokie
 [2013-07-26 08:59:44] jlipps, joining. (#ios-driver)
 [2013-07-26 08:59:56] *lukeis just installed java7 on the new laptop… you know, to actually build ios-driver ;)'
+[2013-07-26 09:00:01] nicegraham: i just noticed teh ref in ios-server is actually selenium-support
+[2013-07-26 09:00:09] nicegraham: haha - poor you!
+[2013-07-26 09:00:31] nicegraham: so would changing that to standalone sort the issue?
+[2013-07-26 09:01:55] lukeis: ugh… where does oracle install java at?
+[2013-07-26 09:03:05] lukeis: got it...
+[2013-07-26 09:03:29] lukeis: fucking java… if you make an installer for mac, have it actually install it in the same place as mac has it
