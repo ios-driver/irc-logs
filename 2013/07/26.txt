@@ -343,3 +343,10 @@
 [2013-07-26 10:54:16] lukeis: i can't figure out how to tell travis to run on OS X && run maven
 [2013-07-26 10:54:24] mgaradi: capabilityMatcher:org.openqa.grid.internal.utils.DefaultCapabilityMatcher
 [2013-07-26 10:54:32] lukeis: i've asked in #travis … no response yet
+[2013-07-26 10:55:37] nicegraham: the next step is to get a green ci button on github :)
+[2013-07-26 10:55:50] lukeis: heh, that's easy
+[2013-07-26 10:56:14] nicegraham: for realsies though
+[2013-07-26 10:57:49] ios-driver-git, joining. (#ios-driver)
+[2013-07-26 10:57:49] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to dev: http://git.io/EuUYHw
+[2013-07-26 10:57:49] ios-driver-git, leaving. (#ios-driver)
+[2013-07-26 10:57:49] ios-driver-git: ios-driver/dev c28c1d5 Luke Inman-Semerau: adding travis-ci button
