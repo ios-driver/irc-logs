@@ -151,3 +151,12 @@
 [2013-07-26 08:02:39] Krishnan: oh ok...
 [2013-07-26 08:03:40] Krishnan: Just to let you know.. I am running selenium-server-standalone-2.33.0.jar on the Grid side... and on the node side I am running ios-server-0.6.0.jar that I downloaded from the github gh-page portal
 [2013-07-26 08:04:54] Krishnan: Should I be putting in this one as a bug on the github page ?
+[2013-07-26 08:07:59] nicegraham: actually, this is stuff I added post-0.6.0
+[2013-07-26 08:08:09] Krishnan: ah..
+[2013-07-26 08:08:16] Krishnan: so does it mean am doing something wrong perhaps ?
+[2013-07-26 08:08:16] nicegraham: in that code base, registration only works if your use teh iosremoteproxy
+[2013-07-26 08:08:37] nicegraham: otherwise you'd need to send the registration req yourself
+[2013-07-26 08:08:46] nicegraham: using flynnid or something like that
+[2013-07-26 08:09:01] Krishnan: u mean before ur code change or after ur code change ?
+[2013-07-26 08:09:11] nicegraham: in 0.6.0
+[2013-07-26 08:09:36] Krishnan: ah ok ! So what I figured out was true :) That the proxy is required for the iosDriver to work with the Grid.. :)
