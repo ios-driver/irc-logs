@@ -97,3 +97,9 @@
 [2013-07-26 06:57:45] Krishnan: how do I instruct iOSDriver to ignore cert errors ?
 [2013-07-26 06:57:47] Krishnan: for a webpage
 [2013-07-26 07:05:37] Krishnan: ok.. that was a stupid question :) Please ignore it
+[2013-07-26 07:22:12] nicegraham: Krishnan: I assume you figured it out - but from memory there's away to tell mobile safari to accept all certs but I can't remember exaclty how
+[2013-07-26 07:22:21] smccarthy, joining. (#ios-driver)
+[2013-07-26 07:22:56] Krishnan: I tried using a dc.setCapability(CapabilityType.ACCEPT_SSL_CERTS, true); but it doesnt seem to be doing the trick.. maybe coz my test site has an expired certificate apart from it being invalid :)
+[2013-07-26 07:23:05] Krishnan: I am guessing that this might be the reason..
+[2013-07-26 07:23:32] nicegraham: not sure - if nirvdrum is on later I think he knows the answer [it would be good to document it :)]
+[2013-07-26 07:24:01] nicegraham: :note nirvdrum how do you tell mobile safari to accept all certs?
