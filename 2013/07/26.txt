@@ -283,3 +283,12 @@
 [2013-07-26 09:53:03] nicegraham: did I tell you I upgraded my broadband last night? on 150mb down and 10mb up now
 [2013-07-26 09:53:10] lukeis: nice
 [2013-07-26 09:53:13] nicegraham: not sure how that rates compared to over there but I'm happy
+[2013-07-26 09:56:24] nicegraham: lukeis: wanna check that and promote?
+[2013-07-26 09:56:36] *lukeis checking'
+[2013-07-26 09:59:20] lukeis: RELEASED :)
+[2013-07-26 09:59:21] nicegraham: lukeis: plus https://github.com/ios-driver/ios-driver/releases/tag/0.6.1
+[2013-07-26 09:59:26] ios-driver-git, joining. (#ios-driver)
+[2013-07-26 09:59:26] ios-driver-git: [ios-driver] nicegraham tagged 0.6.1 at dev: http://git.io/uYakvw
+[2013-07-26 09:59:26] ios-driver-git, leaving. (#ios-driver)
+[2013-07-26 09:59:37] nicegraham: :)
+[2013-07-26 09:59:44] lukeis: awesome ;)
