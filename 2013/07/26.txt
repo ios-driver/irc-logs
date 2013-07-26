@@ -144,3 +144,10 @@
 [2013-07-26 07:51:37] nicegraham: I can't remember at this point :)
 [2013-07-26 07:53:40] Krishnan: nicegraham: Luke seems to be referring to this end point : "http://localhost:3001/wd/hub" <-- thats not the default grid's end-point is it ?
 [2013-07-26 07:54:21] Krishnan: rwd = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), DesiredCapabilities.iphone()); <-- This is how am doing it... This works if I use the IOSRemoteProxy as my proxy when am hooking on the node.. But it conks when I take out IOSRemoteProxy out of the picture
+[2013-07-26 08:01:12] nicegraham: yeah, there's a registration request to the specified hub
+[2013-07-26 08:01:17] nicegraham: but that doesn't seem to be firing...
+[2013-07-26 08:01:28] nicegraham: I think some code was lost in a merge
+[2013-07-26 08:01:33] nicegraham: I'll look at it this evening
+[2013-07-26 08:02:39] Krishnan: oh ok...
+[2013-07-26 08:03:40] Krishnan: Just to let you know.. I am running selenium-server-standalone-2.33.0.jar on the Grid side... and on the node side I am running ios-server-0.6.0.jar that I downloaded from the github gh-page portal
+[2013-07-26 08:04:54] Krishnan: Should I be putting in this one as a bug on the github page ?
