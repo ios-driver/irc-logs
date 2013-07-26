@@ -12,3 +12,6 @@
 [2013-07-26 04:37:01] ios-driver-git: ios-driver/tmp 987fe69 Francois Reynaud: adding todo for bug showing on the PP app
 [2013-07-26 04:37:01] ios-driver-git: ios-driver/tmp d5c0bae Francois Reynaud: returning the correct impl for the keyboard interface
 [2013-07-26 04:37:01] ios-driver-git: [ios-driver] freynaud created tmp (+3 new commits): http://git.io/W30fhg
+[2013-07-26 04:40:14] freynaud: .
+[2013-07-26 04:43:41] test_, joining. (#ios-driver)
+[2013-07-26 04:43:50] test_, quitting. (Client Quit)
