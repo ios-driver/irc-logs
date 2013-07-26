@@ -6,3 +6,9 @@
 [2013-07-26 03:56:45] ios-driver-git, leaving. (#ios-driver)
 [2013-07-26 03:56:45] ios-driver-git: ios-driver/dev 21a0f2e Brian Mooney: Add UIASlider object mappings
 [2013-07-26 03:59:55] psp250, joining. (#ios-driver)
+[2013-07-26 04:37:01] ios-driver-git, joining. (#ios-driver)
+[2013-07-26 04:37:01] ios-driver-git: ios-driver/tmp 37429d6 Francois Reynaud: merging
+[2013-07-26 04:37:01] ios-driver-git, leaving. (#ios-driver)
+[2013-07-26 04:37:01] ios-driver-git: ios-driver/tmp 987fe69 Francois Reynaud: adding todo for bug showing on the PP app
+[2013-07-26 04:37:01] ios-driver-git: ios-driver/tmp d5c0bae Francois Reynaud: returning the correct impl for the keyboard interface
+[2013-07-26 04:37:01] ios-driver-git: [ios-driver] freynaud created tmp (+3 new commits): http://git.io/W30fhg
