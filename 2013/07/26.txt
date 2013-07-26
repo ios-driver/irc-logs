@@ -220,3 +220,5 @@
 [2013-07-26 09:18:53] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/B_70wA
 [2013-07-26 09:18:53] ios-driver-git, leaving. (#ios-driver)
 [2013-07-26 09:18:53] ios-driver-git: ios-driver/dev 9ba719b Graham Abell: fixing grid registration request firing
+[2013-07-26 09:25:52] nicegraham: lukeis: that's my changes sorted
+[2013-07-26 09:26:19] lukeis: cool… i'm still playing around with making the assembled ios-server jar included in the deploy/ install
