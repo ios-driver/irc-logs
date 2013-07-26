@@ -55,3 +55,32 @@
 [2013-07-26 05:06:45] nicegraham: we <3 pull requests
 [2013-07-26 05:07:00] Krishnan: yay :)
 [2013-07-26 05:10:01] nicegraham: can you pull latest from dev
+[2013-07-26 05:10:04] ios-driver-git, joining. (#ios-driver)
+[2013-07-26 05:10:04] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/YVmxPQ
+[2013-07-26 05:10:04] ios-driver-git, leaving. (#ios-driver)
+[2013-07-26 05:10:04] ios-driver-git: ios-driver/dev fabff7d Graham Abell: pointing to 0.6.1 libimobile
+[2013-07-26 05:10:07] nicegraham: and git submodule update
+[2013-07-26 05:10:17] nicegraham: hopefully that will fix your compile isse
+[2013-07-26 05:10:41] Krishnan: i just now did that...
+[2013-07-26 05:10:46] Krishnan: running a mvn install now
+[2013-07-26 05:11:01] nicegraham: you can -DskipTests or it takes a while :)
+[2013-07-26 05:11:37] Krishnan: Now it complains : org.uiautomation:ios-driver-jni:jar:0.6.1 is missing :-|
+[2013-07-26 05:11:42] Krishnan: I think am going around in circles here
+[2013-07-26 05:12:01] Krishnan: is there any order in which I should be doing the install ?
+[2013-07-26 05:12:01] nicegraham: can you check the pom in libimobile
+[2013-07-26 05:12:08] nicegraham: it should reference 0.6.1 parent
+[2013-07-26 05:12:38] nicegraham: just built it here with no problems
+[2013-07-26 05:13:36] nicegraham: [INFO] ------------------------------------------------------------------------
+[2013-07-26 05:13:36] nicegraham: [INFO] Reactor Summary:
+[2013-07-26 05:13:36] nicegraham: [INFO]
+[2013-07-26 05:13:36] nicegraham: [INFO] ios-common ........................................ SUCCESS [4.385s]
+[2013-07-26 05:13:36] nicegraham: [INFO] IOS automation .................................... SUCCESS [0.906s]
+[2013-07-26 05:13:36] nicegraham: [INFO] ios-client ........................................ SUCCESS [1.683s]
+[2013-07-26 05:13:36] nicegraham: [INFO] ios-driver-jni .................................... SUCCESS [4.102s]
+[2013-07-26 05:13:37] nicegraham: [INFO] ios-server ........................................ SUCCESS [12.078s]
+[2013-07-26 05:13:37] nicegraham: [INFO] ios-selenium-tests ................................ SUCCESS [0.782s]
+[2013-07-26 05:13:38] nicegraham: [INFO] ios-grid .......................................... SUCCESS [0.524s]
+[2013-07-26 05:13:38] nicegraham: [INFO] ------------------------------------------------------------------------
+[2013-07-26 05:13:39] nicegraham: [INFO] BUILD SUCCESS
+[2013-07-26 05:14:03] Krishnan: first i ran a git submodule update <-- nothing happened on this.. so I ran a git fetch followed by git rebase on the libimobile-java and now its building
+[2013-07-26 05:14:12] Krishnan: but too bad.. I missed giving the skipTests :D
