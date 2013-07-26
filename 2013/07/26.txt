@@ -354,3 +354,11 @@
 [2013-07-26 11:04:54] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to dev: http://git.io/Xe7Pbg
 [2013-07-26 11:04:54] ios-driver-git, leaving. (#ios-driver)
 [2013-07-26 11:04:54] ios-driver-git: ios-driver/dev fcd83b1 Luke Inman-Semerau: trying to run mvn via script command
+[2013-07-26 11:05:30] nicegraham: lukeis is back :)
+[2013-07-26 11:05:51] lukeis: temporarily… i hope really back soon
+[2013-07-26 11:06:19] lukeis: android in my jenkins went from 45 failing tests down to 5 in the last 2 weeks…  (out of 45)
+[2013-07-26 11:06:32] nicegraham: nice work
+[2013-07-26 11:06:59] lukeis: was in danger of my android team going rogue again and dropping the WebDriver API
+[2013-07-26 11:07:14] nicegraham: in favour of?
+[2013-07-26 11:07:47] lukeis: they were looking at Robotium and maybe doing straight UI Automator
+[2013-07-26 11:09:49] nicegraham: keep them on the straight and narrow!
