@@ -42,3 +42,16 @@
 [2013-07-26 05:04:47] Krishnan: yeah the submodule
 [2013-07-26 05:04:51] nicegraham: and is the code there?
 [2013-07-26 05:04:56] Krishnan: yep
+[2013-07-26 05:05:10] nicegraham: ok - i maybe broke that a little bit trying to release 0.6.1
+[2013-07-26 05:05:11] Krishnan: libimobile-java <-- I see it
+[2013-07-26 05:05:12] nicegraham: give me a second
+[2013-07-26 05:05:20] Krishnan: oh ok
+[2013-07-26 05:05:43] Krishnan: oh btw.. incase I can add some thing more to the documentation... u guys accept pull requests ?
+[2013-07-26 05:06:18] Krishnan: :) I think the documentation for the checkout of the codebase could be a bit more elaborate.. will try to add it as and when i go through the process so that its a bit more elaborate
+[2013-07-26 05:06:43] ios-driver-git, joining. (#ios-driver)
+[2013-07-26 05:06:43] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/KeKkzw
+[2013-07-26 05:06:43] ios-driver-git: ios-driver/dev 5df6311 Graham Abell: fixing poms for 0.6.1
+[2013-07-26 05:06:43] ios-driver-git, leaving. (#ios-driver)
+[2013-07-26 05:06:45] nicegraham: we <3 pull requests
+[2013-07-26 05:07:00] Krishnan: yay :)
+[2013-07-26 05:10:01] nicegraham: can you pull latest from dev
