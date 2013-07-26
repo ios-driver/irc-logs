@@ -403,3 +403,10 @@
 [2013-07-26 12:09:10] mgaradi: version meaning ios-server version?
 [2013-07-26 12:09:19] mgaradi: I am not seeing any of these on my capabilities
 [2013-07-26 12:10:01] nicegraham: meaning both, I'm using 2.33.0 and 0.6.1
+[2013-07-26 12:15:12] mgaradi: https://www.dropbox.com/s/o0lm2ozz3bnve78/Screen%20Shot%202013-07-26%20at%2012.10.37%20PM.png
+[2013-07-26 12:15:17] mgaradi: oh okay..you mean 0.6.1
+[2013-07-26 12:15:33] mgaradi: can you pass me the jar or should I build it?
+[2013-07-26 12:16:13] nicegraham: it's in the gist!
+[2013-07-26 12:16:21] nicegraham: https://github.com/ios-driver/ios-driver/releases/download/0.6.1/ios-server-0.6.1-jar-with-dependencies.jar
+[2013-07-26 12:17:02] nicegraham: that shows 2 capabilities available
+[2013-07-26 12:17:31] nicegraham: I assume they're the safari versions
