@@ -160,3 +160,18 @@
 [2013-07-26 08:09:01] Krishnan: u mean before ur code change or after ur code change ?
 [2013-07-26 08:09:11] nicegraham: in 0.6.0
 [2013-07-26 08:09:36] Krishnan: ah ok ! So what I figured out was true :) That the proxy is required for the iosDriver to work with the Grid.. :)
+[2013-07-26 08:10:37] nicegraham: in 0.6.0
+[2013-07-26 08:10:43] Krishnan: Is this changing in the newer version ?
+[2013-07-26 08:10:44] nicegraham: but that was poor planning by me
+[2013-07-26 08:10:47] nicegraham: yes
+[2013-07-26 08:10:55] Krishnan: :) oh ok.
+[2013-07-26 08:11:06] nicegraham: in the latest code base what was happening was that if you specify a hub it will send the reg request
+[2013-07-26 08:11:41] nicegraham: iosremoteproxy extends that by continuing to poll so any updated caps get picked up
+[2013-07-26 08:11:58] nicegraham: for example a new app is delivered by CI to your ios-driver instance
+[2013-07-26 08:13:26] Krishnan: yeah I read that.. which was why I was confused.. coz reading the docs kinda gave me an impression that the IOSRemoteProxy would be required only if am dealing with apps specifically
+[2013-07-26 08:13:27] nicegraham: i'll figure this out later and push a fix
+[2013-07-26 08:13:37] nicegraham: well it is
+[2013-07-26 08:13:51] Krishnan: but if I were to be using IOSDriver for automation on Safari..i dont need to be using the IOSRemoteProxy
+[2013-07-26 08:13:55] nicegraham: if your caps will never change then you don't need to poll for those changes
+[2013-07-26 08:14:02] Krishnan: but when i was finding the net results different, I was kinda confused
+[2013-07-26 08:14:51] Krishnan: got that.. so in those circumstances there is no point in me even using the IOSRemoteProxy right.. that is if I dont need the polling part
