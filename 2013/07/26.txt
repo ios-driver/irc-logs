@@ -19,3 +19,26 @@
 [2013-07-26 04:53:34] Krishnan: Hi
 [2013-07-26 04:54:05] Krishnan: Was trying to hook the iOSDriver to the Grid.. and am not able to u'stand what should my desired capabilities look like..
 [2013-07-26 04:54:27] Krishnan: My intent is to try and load a web URL (google.com for e.g.,) on the iPhone Simulator using the iOSDriver as a node..
+[2013-07-26 05:00:51] nicegraham: hi Krishnan
+[2013-07-26 05:01:12] Krishnan: Hi Graham...
+[2013-07-26 05:01:30] Krishnan: I decided to look at the Unit tests... for some pointers..
+[2013-07-26 05:01:53] Krishnan: It seems to be making use of a IOSDesiredCapabilities class for getting the correct DesiredCapabilities..
+[2013-07-26 05:01:53] nicegraham: ok, and did that answer it for you?
+[2013-07-26 05:02:11] Krishnan: does it mean that I now have to have a dependency on ios-server jar ?
+[2013-07-26 05:02:13] nicegraham: yeah, but you'll need iosdriver in your classpath to avail of that
+[2013-07-26 05:02:30] nicegraham: the other option is just to set the capabilities yourself
+[2013-07-26 05:03:04] Krishnan: Oh ok... that was what I was going to try next... instantiate the capabilities myself :)
+[2013-07-26 05:03:17] Krishnan: That brings me to the next question.. is ios-server library available on Global maven repos ?
+[2013-07-26 05:03:24] nicegraham: yep! :)
+[2013-07-26 05:03:30] nicegraham: version 0.6.0 is anyway
+[2013-07-26 05:03:38] Krishnan: phew!
+[2013-07-26 05:03:43] Krishnan: one more question :) if u dont mind
+[2013-07-26 05:03:54] nicegraham: fire ahead
+[2013-07-26 05:04:04] Krishnan: 1) org.uiautomation:ios-driver-jni:jar:0.7-SNAPSHOT <-- where do I get this guy from ?
+[2013-07-26 05:04:07] Krishnan: I checked out the code
+[2013-07-26 05:04:28] Krishnan: I updated the module as u had instructed in one of the issues (Maybe u would need to add this to the gh-pages) :)
+[2013-07-26 05:04:42] nicegraham: the submodule?
+[2013-07-26 05:04:42] Krishnan: but i still cant get the project to build on my windows desktop :(
+[2013-07-26 05:04:47] Krishnan: yeah the submodule
+[2013-07-26 05:04:51] nicegraham: and is the code there?
+[2013-07-26 05:04:56] Krishnan: yep
