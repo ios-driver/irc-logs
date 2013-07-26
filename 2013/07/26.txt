@@ -222,3 +222,9 @@
 [2013-07-26 09:18:53] ios-driver-git: ios-driver/dev 9ba719b Graham Abell: fixing grid registration request firing
 [2013-07-26 09:25:52] nicegraham: lukeis: that's my changes sorted
 [2013-07-26 09:26:19] lukeis: cool… i'm still playing around with making the assembled ios-server jar included in the deploy/ install
+[2013-07-26 09:33:04] Krishnan: Alright..I think I will now call it a day :) Lot of playing around on Day 1 itself with iOSDriver
+[2013-07-26 09:33:22] Krishnan: Thanks for all ur help nicegraham and lukeis I will bug u folks more later :)
+[2013-07-26 09:33:35] nicegraham: np
+[2013-07-26 09:33:37] Krishnan: Happy weekend
+[2013-07-26 09:34:25] Krishnan, leaving. (#ios-driver)
+[2013-07-26 09:34:41] lukeis: nicegraham: so, how much do we care about having the ios-server jar copied to the root of the project?
