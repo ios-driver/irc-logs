@@ -16,3 +16,6 @@
 [2013-07-26 04:43:41] test_, joining. (#ios-driver)
 [2013-07-26 04:43:50] test_, quitting. (Client Quit)
 [2013-07-26 04:45:12] Krishnan, joining. (#ios-driver)
+[2013-07-26 04:53:34] Krishnan: Hi
+[2013-07-26 04:54:05] Krishnan: Was trying to hook the iOSDriver to the Grid.. and am not able to u'stand what should my desired capabilities look like..
+[2013-07-26 04:54:27] Krishnan: My intent is to try and load a web URL (google.com for e.g.,) on the iPhone Simulator using the iOSDriver as a node..
