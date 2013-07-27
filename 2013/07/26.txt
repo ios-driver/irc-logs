@@ -449,3 +449,5 @@
 [2013-07-26 16:29:28] smccarthy, quitting. (Remote host closed the connection)
 [2013-07-26 17:04:20] mgaradi, quitting. (Quit: Page closed)
 [2013-07-26 17:04:41] mgaradi, joining. (#ios-driver)
+[2013-07-26 17:06:30] aparnavenka, joining. (#ios-driver)
+[2013-07-26 17:08:11] aparnavenka, quitting. (Client Quit)
