@@ -452,3 +452,4 @@
 [2013-07-26 17:06:30] aparnavenka, joining. (#ios-driver)
 [2013-07-26 17:08:11] aparnavenka, quitting. (Client Quit)
 [2013-07-26 17:50:25] jlipps, quitting. (Quit: Leaving.)
+[2013-07-26 18:18:29] mgaradi, quitting. (Ping timeout: 250 seconds)
