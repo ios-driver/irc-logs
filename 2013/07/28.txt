@@ -35,3 +35,4 @@
 [2013-07-28 13:40:16] freynaud, joining. (#ios-driver)
 [2013-07-28 14:54:49] newbie|3, joining. (#ios-driver)
 [2013-07-28 14:57:14] operatiay, quitting. (Ping timeout: 246 seconds)
+[2013-07-28 15:27:50] admc, joining. (#ios-driver)
