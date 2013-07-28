@@ -33,3 +33,4 @@
 [2013-07-28 13:39:54] irishshagua, quitting. (Ping timeout: 264 seconds)
 [2013-07-28 13:40:15] Brian__, joining. (#ios-driver)
 [2013-07-28 13:40:16] freynaud, joining. (#ios-driver)
+[2013-07-28 14:54:49] newbie|3, joining. (#ios-driver)
