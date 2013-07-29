@@ -146,3 +146,4 @@
 [2013-07-29 08:54:46] lukeis: yes and yes :)
 [2013-07-29 08:54:53] admc, quitting. (Ping timeout: 246 seconds)
 [2013-07-29 09:14:18] lukeis, quitting. (Quit: Leaving.)
+[2013-07-29 09:17:35] lukeis, joining. (#ios-driver)
