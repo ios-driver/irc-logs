@@ -8,3 +8,11 @@
 [2013-07-29 04:45:38] Krishnan, joining. (#ios-driver)
 [2013-07-29 04:53:35] Krishnan: nicegraham: Thank you so much for that gist :)
 [2013-07-29 04:55:52] nicegraham: No worries
+[2013-07-29 05:02:59] Krishnan: nicegraham: Is "-simulators " a new arg ? I dont see it in the documentation
+[2013-07-29 05:03:05] nicegraham: yeah
+[2013-07-29 05:03:30] nicegraham: to enable simulators, speaking to freynaud I think it will be defaulted on for 0.7.0 but right now it's defaulted off
+[2013-07-29 05:03:40] Krishnan: Oh ok.. I am yet to start looking at the main method to understand it all.. so please bear with my naive questions :)
+[2013-07-29 05:03:44] Krishnan: ah ok.. cool
+[2013-07-29 05:03:58] nicegraham: it seperates the mac specific requirements meaning we can run on windows/linux with real devices
+[2013-07-29 05:04:14] Krishnan: Nice...
+[2013-07-29 05:04:18] Krishnan: that would be cool
