@@ -105,3 +105,14 @@
 [2013-07-29 08:24:52] admc, quitting. (Ping timeout: 264 seconds)
 [2013-07-29 08:29:50] smccarthy, joining. (#ios-driver)
 [2013-07-29 08:42:21] lukeis, joining. (#ios-driver)
+[2013-07-29 08:46:10] nicegraham: Krishnan: we've seen that before
+[2013-07-29 08:46:30] nicegraham: I can't remember what the solution was though - I know my colleague worked on it
+[2013-07-29 08:46:35] nicegraham: I'll check with him tomorrow
+[2013-07-29 08:47:33] lukeis: hiya everybody
+[2013-07-29 08:47:53] lukeis: Krishnan: sorry for not replying to your email, i was away from the computer all weekend
+[2013-07-29 08:47:54] nicegraham: hey lukies!
+[2013-07-29 08:48:03] nicegraham: lukeis even :)
+[2013-07-29 08:48:07] lukeis: ;)
+[2013-07-29 08:49:26] lukeis: saw some discussion in the log between you and freynaud… I needed (wanted) the point release because of all the fixes that have gone on, especially in regards to MobileSafari on Simulator <- my main target for testing right now.
+[2013-07-29 08:49:55] nicegraham: he wanted to know about 0.6.2 more so
+[2013-07-29 08:49:57] lukeis: also my management feels more comfortable asking Sauce to install a version of ios-driver that is 'released'
