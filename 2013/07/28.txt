@@ -39,3 +39,4 @@
 [2013-07-28 18:35:47] admc, quitting. (Quit: Leaving.)
 [2013-07-28 18:54:55] admc, joining. (#ios-driver)
 [2013-07-28 19:56:16] admc, quitting. (Quit: Leaving.)
+[2013-07-28 21:39:44] smccarthy, quitting. (Remote host closed the connection)
