@@ -37,3 +37,6 @@
 [2013-07-29 05:16:45] freynaud: do you have an example ? I have big pages for the ebay app
 [2013-07-29 05:17:02] freynaud: when I reach an hybrid app, it has a LOT of element
 [2013-07-29 05:18:04] admc, joining. (#ios-driver)
+[2013-07-29 05:20:02] freynaud: nicegraham: did you push a fix for the flick test failing on web ?
+[2013-07-29 05:20:18] nicegraham: yeah
+[2013-07-29 05:22:46] admc, quitting. (Ping timeout: 276 seconds)
