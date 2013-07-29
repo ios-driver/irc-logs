@@ -169,3 +169,13 @@
 [2013-07-29 10:37:36] admc, joining. (#ios-driver)
 [2013-07-29 11:58:32] admc, quitting. (Quit: Leaving.)
 [2013-07-29 12:29:46] santiycr1, joining. (#ios-driver)
+[2013-07-29 12:30:51] santiycr, quitting. (Ping timeout: 246 seconds)
+[2013-07-29 12:32:29] ios-driver-git, joining. (#ios-driver)
+[2013-07-29 12:32:29] ios-driver-git, leaving. (#ios-driver)
+[2013-07-29 12:32:29] ios-driver-git: [ios-driver] lukeis opened pull request #95: whitespace change to trigger travis build (dev...dev)  http://git.io/whwLiw
+[2013-07-29 12:33:14] lukeis: nicegraham: don't merge that ;)
+[2013-07-29 12:33:25] lukeis: https://travis-ci.org/ios-driver/ios-driver/builds/9618584
+[2013-07-29 12:33:46] nicegraham: is it running?
+[2013-07-29 12:34:01] lukeis: will be… looks in queue
+[2013-07-29 12:34:34] lukeis: here it goes
+[2013-07-29 12:34:35] nicegraham: ooh, looks to be starting
