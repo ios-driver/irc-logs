@@ -51,3 +51,6 @@
 [2013-07-29 06:09:59] Krishnan: On the Grid side.. I wonder why I keep seeing this : INFO: Trying to create a new session on test slot {platform=MAC, simulator=true, browserName=iPad, maxInstances=1, timeHack=false, variation=Regular, locale=en_GB, CFBundleName=Safari, device=ipad, language=en}
 [2013-07-29 06:10:22] Krishnan: I am specifically saying I need the session on the iPhone, but the Grid logs suggests that the device was ipad
 [2013-07-29 06:10:24] Krishnan: kinda confused
+[2013-07-29 06:16:45] freynaud, quitting. (Ping timeout: 240 seconds)
+[2013-07-29 06:17:57] Krishnan: any idea what I may be doing wrong here ?
+[2013-07-29 06:18:23] Krishnan: I guess that msg comes from the DefaultRemoteProxy on the Hub right ?
