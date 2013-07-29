@@ -95,3 +95,4 @@
 [2013-07-29 06:53:09] admc, quitting. (Ping timeout: 240 seconds)
 [2013-07-29 07:02:23] Oscar_Rieken, joining. (#ios-driver)
 [2013-07-29 07:08:33] santiycr, joining. (#ios-driver)
+[2013-07-29 07:19:30] admc, joining. (#ios-driver)
