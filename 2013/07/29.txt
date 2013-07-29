@@ -226,3 +226,7 @@
 [2013-07-29 15:23:56] ios-driver-git, leaving. (#ios-driver)
 [2013-07-29 15:23:56] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/PmKh-A
 [2013-07-29 15:23:56] ios-driver-git: ios-driver/dev 9843125 Graham Abell: adding some output to see the state of the keys in /etc/authorization
+[2013-07-29 15:33:11] ios-driver-git, joining. (#ios-driver)
+[2013-07-29 15:33:11] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/7gegXw
+[2013-07-29 15:33:11] ios-driver-git: ios-driver/dev 26901a8 Graham Abell: updating to update the .debug key
+[2013-07-29 15:33:11] ios-driver-git, leaving. (#ios-driver)
