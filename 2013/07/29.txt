@@ -49,3 +49,5 @@
 [2013-07-29 06:09:48] Krishnan: nicegraham : I was attempting to run the code that you had given in ur gist..
 [2013-07-29 06:09:56] nicegraham: yeah
 [2013-07-29 06:09:59] Krishnan: On the Grid side.. I wonder why I keep seeing this : INFO: Trying to create a new session on test slot {platform=MAC, simulator=true, browserName=iPad, maxInstances=1, timeHack=false, variation=Regular, locale=en_GB, CFBundleName=Safari, device=ipad, language=en}
+[2013-07-29 06:10:22] Krishnan: I am specifically saying I need the session on the iPhone, but the Grid logs suggests that the device was ipad
+[2013-07-29 06:10:24] Krishnan: kinda confused
