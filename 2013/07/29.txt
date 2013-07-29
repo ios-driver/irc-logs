@@ -179,3 +179,15 @@
 [2013-07-29 12:34:01] lukeis: will be… looks in queue
 [2013-07-29 12:34:34] lukeis: here it goes
 [2013-07-29 12:34:35] nicegraham: ooh, looks to be starting
+[2013-07-29 12:35:15] lukeis: ahh maven, downloading the internet...
+[2013-07-29 12:35:57] nicegraham: how long do we have for the tests to run?
+[2013-07-29 12:35:59] ios-driver-git, joining. (#ios-driver)
+[2013-07-29 12:35:59] ios-driver-git, leaving. (#ios-driver)
+[2013-07-29 12:35:59] ios-driver-git: [ios-driver] lukeis closed pull request #95: whitespace change to trigger travis build (dev...dev)  http://git.io/whwLiw
+[2013-07-29 12:36:07] nicegraham: is it 15 minutes?
+[2013-07-29 12:36:12] lukeis: i dunno
+[2013-07-29 12:36:52] lukeis: well that looks like it failed miserably ;)
+[2013-07-29 12:37:07] lukeis: at least java7 is fixed
+[2013-07-29 12:37:11] lukeis: my work here is done
+[2013-07-29 12:38:05] lukeis: ha… build successful with all those tests failing
+[2013-07-29 12:39:55] lukeis: heh… where can I get 0.7 nicegraham? :)
