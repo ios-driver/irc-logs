@@ -98,3 +98,4 @@
 [2013-07-29 07:19:30] admc, joining. (#ios-driver)
 [2013-07-29 07:24:17] admc, quitting. (Ping timeout: 276 seconds)
 [2013-07-29 07:36:54] freynaud, joining. (#ios-driver)
+[2013-07-29 07:47:34] operatiay, quitting. (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
