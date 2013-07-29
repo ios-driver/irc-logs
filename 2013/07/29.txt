@@ -163,3 +163,4 @@
 [2013-07-29 09:38:45] lukeis: 'night!
 [2013-07-29 09:38:48] Krishnan, leaving. (#ios-driver)
 [2013-07-29 09:50:56] admc, joining. (#ios-driver)
+[2013-07-29 09:55:15] admc, quitting. (Ping timeout: 245 seconds)
