@@ -244,3 +244,5 @@
 [2013-07-29 16:04:22] lukeis, quitting. (Quit: Leaving.)
 [2013-07-29 16:08:51] santiycr1: nicegraham:  hey, yeah
 [2013-07-29 16:09:29] nicegraham: I mailed you my question :-) it's bed time here
+[2013-07-29 16:16:31] smccarthy, joining. (#ios-driver)
+[2013-07-29 16:19:14] smccarthy2, quitting. (Ping timeout: 276 seconds)
