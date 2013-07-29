@@ -234,3 +234,8 @@
 [2013-07-29 15:46:55] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/zN6a3w
 [2013-07-29 15:46:55] ios-driver-git, leaving. (#ios-driver)
 [2013-07-29 15:46:55] ios-driver-git: ios-driver/dev e1252a3 Graham Abell: one more try
+[2013-07-29 15:55:41] ios-driver-git, joining. (#ios-driver)
+[2013-07-29 15:55:42] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/IKqb6g
+[2013-07-29 15:55:42] ios-driver-git, leaving. (#ios-driver)
+[2013-07-29 15:55:42] ios-driver-git: ios-driver/dev 6946f31 Graham Abell: the last change made it worse -reverting
+[2013-07-29 15:59:13] smccarthy2, joining. (#ios-driver)
