@@ -102,3 +102,4 @@
 [2013-07-29 08:07:10] Krishnan: Folks.. any idea why this sporadically springs up : Caused by: org.openqa.grid.common.exception.GridException: Error forwarding the new session new session request for webdriver should contain a location header with the session.
 [2013-07-29 08:07:23] Krishnan: am on iOSDriver 0.6.1 with Grid 2.33.0
 [2013-07-29 08:19:57] admc, joining. (#ios-driver)
+[2013-07-29 08:24:52] admc, quitting. (Ping timeout: 264 seconds)
