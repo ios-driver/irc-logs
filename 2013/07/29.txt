@@ -202,3 +202,7 @@
 [2013-07-29 13:37:08] ios-driver-git: ios-driver/dev ab4128b Graham Abell: adding chmod to allow rw of the sim folders
 [2013-07-29 13:37:08] ios-driver-git, leaving. (#ios-driver)
 [2013-07-29 13:37:08] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/lKuKBQ
+[2013-07-29 13:47:49] ios-driver-git, joining. (#ios-driver)
+[2013-07-29 13:47:49] ios-driver-git: ios-driver/dev 50f9dea Graham Abell: adding commands to stop the dev tools needs to take control
+[2013-07-29 13:47:49] ios-driver-git, leaving. (#ios-driver)
+[2013-07-29 13:47:49] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/1lArng
