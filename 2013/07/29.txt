@@ -246,3 +246,9 @@
 [2013-07-29 16:09:29] nicegraham: I mailed you my question :-) it's bed time here
 [2013-07-29 16:16:31] smccarthy, joining. (#ios-driver)
 [2013-07-29 16:19:14] smccarthy2, quitting. (Ping timeout: 276 seconds)
+[2013-07-29 16:20:33] santiycr1: nicegraham:  ok, I'll read it :)
+[2013-07-29 16:20:36] santiycr1: have a good night
+[2013-07-29 16:20:37] santiycr1, leaving. (#ios-driver)
+[2013-07-29 16:20:39] santiycr1, joining. (#ios-driver)
+[2013-07-29 16:20:58] nicegraham: Ta!
+[2013-07-29 16:22:11] smccarthy, quitting. (Ping timeout: 264 seconds)
