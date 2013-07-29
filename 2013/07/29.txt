@@ -54,3 +54,20 @@
 [2013-07-29 06:16:45] freynaud, quitting. (Ping timeout: 240 seconds)
 [2013-07-29 06:17:57] Krishnan: any idea what I may be doing wrong here ?
 [2013-07-29 06:18:23] Krishnan: I guess that msg comes from the DefaultRemoteProxy on the Hub right ?
+[2013-07-29 06:21:53] nicegraham: yeah, I would think so
+[2013-07-29 06:22:29] nicegraham: you're running the same code as me - IOSCapabilities cap = IOSCapabilities.iphone("Safari");
+[2013-07-29 06:22:30] nicegraham:     cap.setCapability(IOSCapabilities.SIMULATOR, true);
+[2013-07-29 06:22:36] Krishnan: Hmm... Ok... the rest of the stuff with respect to IOSCapabilities all seem to be coming up properly...
+[2013-07-29 06:22:38] Krishnan: Yeah I am
+[2013-07-29 06:22:41] Krishnan: Its ur code
+[2013-07-29 06:22:44] Krishnan: Copied and pasted
+[2013-07-29 06:23:01] nicegraham: ok, well try overriding the broswerName manually
+[2013-07-29 06:23:26] nicegraham: cap.setCapability("browserName", "iphone");
+[2013-07-29 06:23:44] nicegraham: maybe something is not getting set correctly in the caps
+[2013-07-29 06:24:00] Krishnan: okies.. But the strange part is.. despite the Grid console telling that its gonna create an iPad session, i still see an iPhone simuator being opened up
+[2013-07-29 06:24:08] nicegraham: :)
+[2013-07-29 06:24:14] Krishnan: so am lost :D
+[2013-07-29 06:24:18] nicegraham: as you say that logging is pure grid
+[2013-07-29 06:24:27] nicegraham: so I don't know exactly what is happening.
+[2013-07-29 06:24:36] nicegraham: you can sout the caps.toString()
+[2013-07-29 06:24:46] nicegraham: and you'll see exactly what's being asked for
