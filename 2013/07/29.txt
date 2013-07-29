@@ -239,3 +239,6 @@
 [2013-07-29 15:55:42] ios-driver-git, leaving. (#ios-driver)
 [2013-07-29 15:55:42] ios-driver-git: ios-driver/dev 6946f31 Graham Abell: the last change made it worse -reverting
 [2013-07-29 15:59:13] smccarthy2, joining. (#ios-driver)
+[2013-07-29 16:00:15] nicegraham: santiycr1: yt?
+[2013-07-29 16:02:40] smccarthy, quitting. (Ping timeout: 264 seconds)
+[2013-07-29 16:04:22] lukeis, quitting. (Quit: Leaving.)
