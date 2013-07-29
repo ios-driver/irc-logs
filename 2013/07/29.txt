@@ -216,3 +216,7 @@
 [2013-07-29 14:00:36] ios-driver-git: ios-driver/dev 8a95819 Graham Abell: still don't have the rights to launch simulator - adding debug to see what groups the running user is in
 [2013-07-29 14:02:58] smccarthy2, joining. (#ios-driver)
 [2013-07-29 14:06:33] smccarthy, quitting. (Ping timeout: 268 seconds)
+[2013-07-29 14:28:39] ios-driver-git, joining. (#ios-driver)
+[2013-07-29 14:28:39] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/1cS-cA
+[2013-07-29 14:28:39] ios-driver-git, leaving. (#ios-driver)
+[2013-07-29 14:28:39] ios-driver-git: ios-driver/dev 3de9b93 Graham Abell: trying another approach to remove the dev access popup
