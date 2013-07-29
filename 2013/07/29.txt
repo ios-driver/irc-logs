@@ -103,3 +103,4 @@
 [2013-07-29 08:07:23] Krishnan: am on iOSDriver 0.6.1 with Grid 2.33.0
 [2013-07-29 08:19:57] admc, joining. (#ios-driver)
 [2013-07-29 08:24:52] admc, quitting. (Ping timeout: 264 seconds)
+[2013-07-29 08:29:50] smccarthy, joining. (#ios-driver)
