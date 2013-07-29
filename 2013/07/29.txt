@@ -222,3 +222,7 @@
 [2013-07-29 14:28:39] ios-driver-git: ios-driver/dev 3de9b93 Graham Abell: trying another approach to remove the dev access popup
 [2013-07-29 14:35:29] smccarthy2, quitting. (Remote host closed the connection)
 [2013-07-29 14:36:04] smccarthy, joining. (#ios-driver)
+[2013-07-29 15:23:56] ios-driver-git, joining. (#ios-driver)
+[2013-07-29 15:23:56] ios-driver-git, leaving. (#ios-driver)
+[2013-07-29 15:23:56] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/PmKh-A
+[2013-07-29 15:23:56] ios-driver-git: ios-driver/dev 9843125 Graham Abell: adding some output to see the state of the keys in /etc/authorization
