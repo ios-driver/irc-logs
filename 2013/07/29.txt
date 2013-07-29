@@ -93,3 +93,4 @@
 [2013-07-29 06:33:05] Krishnan: Jul 29, 2013 6:56:28 PM org.openqa.grid.internal.TestSlot getNewSession
 [2013-07-29 06:49:01] admc, joining. (#ios-driver)
 [2013-07-29 06:53:09] admc, quitting. (Ping timeout: 240 seconds)
+[2013-07-29 07:02:23] Oscar_Rieken, joining. (#ios-driver)
