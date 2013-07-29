@@ -71,3 +71,10 @@
 [2013-07-29 06:24:27] nicegraham: so I don't know exactly what is happening.
 [2013-07-29 06:24:36] nicegraham: you can sout the caps.toString()
 [2013-07-29 06:24:46] nicegraham: and you'll see exactly what's being asked for
+[2013-07-29 06:25:10] Krishnan: aight.. will do that
+[2013-07-29 06:28:30] Krishnan: Requested for Capabilities [{simulator=true, CFBundleName=Safari, locale=en_GB, variation=Regular, timeHack=false, device=iphone, language=en}]
+[2013-07-29 06:28:43] Krishnan: so that kinda confirms that the cap is being formed properly
+[2013-07-29 06:29:11] Krishnan: When I queried the RemoteWebDriver to give out its capabilities via getCapabilities() I found this
+[2013-07-29 06:29:11] Krishnan: Capabilities [{javascriptEnabled=true, browserVersion=8536.25, browserName=Safari, variation=Regular, locale=en_GB, systemName=iPhone OS, supportedLocales=[hr, ro, ca, vi, tr, fr, unknown, hu, unknown, th, id, pt-PT, en-GB, fi, unknown, sv, it, sk, ja, uk, es, da, ms, ko, ar, he, en, nl, cs, el, pl, pt, ru, de], takesElementScreenshot=false, version=6.0, sdkVersion=6.1, aut=/Applications/Xcode.app/Contents/Developer/Platforms/iP
+[2013-07-29 06:29:25] Krishnan: all seems to be well here too :(
+[2013-07-29 06:29:58] nicegraham: ok, so I'm not sure what's happening in the grid
