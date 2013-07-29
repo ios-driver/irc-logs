@@ -44,3 +44,4 @@
 [2013-07-29 05:35:27] nicegraham: are they not working for you?
 [2013-07-29 05:36:15] nicegraham: and this one actually https://github.com/ios-driver/ios-driver/commit/8cee8734a30c4b8f9642c677e9635224edcf82f0
 [2013-07-29 05:39:01] freynaud: running the tests again
+[2013-07-29 05:48:33] admc, joining. (#ios-driver)
