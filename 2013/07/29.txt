@@ -210,3 +210,8 @@
 [2013-07-29 13:53:54] ios-driver-git, leaving. (#ios-driver)
 [2013-07-29 13:53:54] ios-driver-git: ios-driver/dev ce46a46 Graham Abell: need to include the username
 [2013-07-29 13:53:54] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/okHqxA
+[2013-07-29 14:00:36] ios-driver-git, joining. (#ios-driver)
+[2013-07-29 14:00:36] ios-driver-git, leaving. (#ios-driver)
+[2013-07-29 14:00:36] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/E7uz9A
+[2013-07-29 14:00:36] ios-driver-git: ios-driver/dev 8a95819 Graham Abell: still don't have the rights to launch simulator - adding debug to see what groups the running user is in
+[2013-07-29 14:02:58] smccarthy2, joining. (#ios-driver)
