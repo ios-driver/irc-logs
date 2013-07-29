@@ -191,3 +191,6 @@
 [2013-07-29 12:37:11] lukeis: my work here is done
 [2013-07-29 12:38:05] lukeis: ha… build successful with all those tests failing
 [2013-07-29 12:39:55] lukeis: heh… where can I get 0.7 nicegraham? :)
+[2013-07-29 12:40:37] nicegraham: why are the tests failing?
+[2013-07-29 12:41:14] nicegraham: Failed to authorize rights
+[2013-07-29 12:41:25] nicegraham: I guess that's the dev access popup?
