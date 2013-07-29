@@ -116,3 +116,32 @@
 [2013-07-29 08:49:26] lukeis: saw some discussion in the log between you and freynaud… I needed (wanted) the point release because of all the fixes that have gone on, especially in regards to MobileSafari on Simulator <- my main target for testing right now.
 [2013-07-29 08:49:55] nicegraham: he wanted to know about 0.6.2 more so
 [2013-07-29 08:49:57] lukeis: also my management feels more comfortable asking Sauce to install a version of ios-driver that is 'released'
+[2013-07-29 08:50:03] nicegraham: that's the version I set as next
+[2013-07-29 08:50:13] nicegraham: as against 0.7.0
+[2013-07-29 08:50:14] lukeis: it's arbitrary
+[2013-07-29 08:50:21] lukeis: we don't have to have a 0.6.2
+[2013-07-29 08:50:26] admc, joining. (#ios-driver)
+[2013-07-29 08:50:47] lukeis: if freynaud fixes everything and is ready for 0.7, then that can be the next release version ;)
+[2013-07-29 08:50:52] nicegraham: no, but it would be good to release new fucntionality as soon as possible
+[2013-07-29 08:51:02] nicegraham: new inspector looks nearly ready
+[2013-07-29 08:51:10] lukeis: release often!
+[2013-07-29 08:51:15] nicegraham: the libimobile is a seperate stream of work
+[2013-07-29 08:51:23] lukeis: whatever we 'name' the version, it doesn't really matter to me
+[2013-07-29 08:51:29] nicegraham: and then there's on going bugfixes which could warrant new releases
+[2013-07-29 08:51:39] lukeis: yep
+[2013-07-29 08:51:43] nicegraham: we should have released the ruby fixes as soon as we applied them
+[2013-07-29 08:51:51] lukeis: yes
+[2013-07-29 08:52:09] lukeis: at the time i didn't have a place to host the released artificats
+[2013-07-29 08:52:13] nicegraham: I gave freynaud a irccloud invite
+[2013-07-29 08:52:15] lukeis: and, well, lazy
+[2013-07-29 08:52:25] nicegraham: so I don't think he's actually here - he's not on skype anyway
+[2013-07-29 08:52:32] lukeis: ah
+[2013-07-29 08:52:37] lukeis: he can read the log ;)
+[2013-07-29 08:52:50] nicegraham: 27 mentions and 100 unread messages
+[2013-07-29 08:53:07] lukeis: ?
+[2013-07-29 08:53:22] nicegraham: that's what pops up when you open the browser and have been away
+[2013-07-29 08:53:33] nicegraham: it gives you a rundown of what you've missed :)
+[2013-07-29 08:53:45] lukeis: ah, yeah
+[2013-07-29 08:54:35] nicegraham: now that maven is working properly and github has that releases page update it's a lot easier to make something public
+[2013-07-29 08:54:46] lukeis: yes and yes :)
+[2013-07-29 08:54:53] admc, quitting. (Ping timeout: 246 seconds)
