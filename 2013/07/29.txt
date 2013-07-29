@@ -16,3 +16,7 @@
 [2013-07-29 05:03:58] nicegraham: it seperates the mac specific requirements meaning we can run on windows/linux with real devices
 [2013-07-29 05:04:14] Krishnan: Nice...
 [2013-07-29 05:04:18] Krishnan: that would be cool
+[2013-07-29 05:07:11] Krishnan: I see a bunch of warnings like this : 34:43:972 WARNING AppleLanguage.create  zh_CN isn't recognized.Please file a bug on github.You won't be able to start the app in that language.
+[2013-07-29 05:07:29] Krishnan: 34:42:576 INFO ApplicationStore.<init>  App archive folder:/Users/krmahadevan/iosDriver/applications <-- this is where I have that demo app available
+[2013-07-29 05:08:35] Krishnan: I mean to say.. there is nothing in that applications folder :) my demo app also resides in the same directory as my iOS-driver.jar (InternationalMountains)
+[2013-07-29 05:08:45] Krishnan: Is that warning something that I can safely ignore ?
