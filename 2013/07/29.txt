@@ -20,3 +20,14 @@
 [2013-07-29 05:07:29] Krishnan: 34:42:576 INFO ApplicationStore.<init>  App archive folder:/Users/krmahadevan/iosDriver/applications <-- this is where I have that demo app available
 [2013-07-29 05:08:35] Krishnan: I mean to say.. there is nothing in that applications folder :) my demo app also resides in the same directory as my iOS-driver.jar (InternationalMountains)
 [2013-07-29 05:08:45] Krishnan: Is that warning something that I can safely ignore ?
+[2013-07-29 05:10:19] freynaud: nicegraham: 0.6.2 or 0.7 snapshot ?
+[2013-07-29 05:10:31] freynaud: do you need another deploy before 0.7
+[2013-07-29 05:10:43] nicegraham: you can ignore that message
+[2013-07-29 05:11:12] nicegraham: the one I linked to is the most up to date code
+[2013-07-29 05:11:20] nicegraham: I built that on Friday evening from head
+[2013-07-29 05:12:20] nicegraham: https://github.com/ios-driver/ios-driver/releases/tag/0.6.1
+[2013-07-29 05:14:25] freynaud: nicegraham: do you need 0.6.2 ?
+[2013-07-29 05:14:38] nicegraham: lukeis told me to create it
+[2013-07-29 05:14:54] nicegraham: sorry - I got confused above
+[2013-07-29 05:14:57] freynaud: ok, let's keep is until he can explain why he needs it then
+[2013-07-29 05:14:57] nicegraham: not really
