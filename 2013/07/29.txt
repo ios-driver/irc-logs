@@ -198,3 +198,7 @@
 [2013-07-29 13:13:59] nicegraham: lukeis: we also probably need to +rw the sim folders
 [2013-07-29 13:28:04] Oscar_Rieken, quitting. (Quit: Leaving.)
 [2013-07-29 13:34:49] nicegraham: lukeis: do you have a script to set the developer access thing?
+[2013-07-29 13:37:08] ios-driver-git, joining. (#ios-driver)
+[2013-07-29 13:37:08] ios-driver-git: ios-driver/dev ab4128b Graham Abell: adding chmod to allow rw of the sim folders
+[2013-07-29 13:37:08] ios-driver-git, leaving. (#ios-driver)
+[2013-07-29 13:37:08] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/lKuKBQ
