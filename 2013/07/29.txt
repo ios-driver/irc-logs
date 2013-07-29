@@ -40,3 +40,7 @@
 [2013-07-29 05:20:02] freynaud: nicegraham: did you push a fix for the flick test failing on web ?
 [2013-07-29 05:20:18] nicegraham: yeah
 [2013-07-29 05:22:46] admc, quitting. (Ping timeout: 276 seconds)
+[2013-07-29 05:35:21] nicegraham: freynaud: sorry, got doorstopped there - it was this commit https://github.com/ios-driver/ios-driver/commit/3c9d620b8c8aa823ce3389320721f2f7658b2f46
+[2013-07-29 05:35:27] nicegraham: are they not working for you?
+[2013-07-29 05:36:15] nicegraham: and this one actually https://github.com/ios-driver/ios-driver/commit/8cee8734a30c4b8f9642c677e9635224edcf82f0
+[2013-07-29 05:39:01] freynaud: running the tests again
