@@ -97,3 +97,6 @@
 [2013-07-30 11:49:17] lukeis1, quitting. (Ping timeout: 256 seconds)
 [2013-07-30 11:51:17] lukeis, joining. (#ios-driver)
 [2013-07-30 12:09:15] smccarthy, quitting. (Remote host closed the connection)
+[2013-07-30 12:10:38] lukeis1, joining. (#ios-driver)
+[2013-07-30 12:11:51] lukeis, quitting. (Ping timeout: 246 seconds)
+[2013-07-30 12:12:08] lukeis1, changing nick to lukeis.
