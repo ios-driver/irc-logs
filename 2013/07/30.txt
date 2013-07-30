@@ -114,3 +114,5 @@
 [2013-07-30 12:40:12] santiycr, quitting. (Quit: Leaving.)
 [2013-07-30 12:51:01] dismir, joining. (#ios-driver)
 [2013-07-30 12:55:00] smccarthy, joining. (#ios-driver)
+[2013-07-30 12:58:16] admc, quitting. (Quit: Leaving.)
+[2013-07-30 12:58:56] dismir: Hi I'm new to iOS-driver. Can someone show me how I have safari accept self-signed SSL certificates using python.
