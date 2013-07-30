@@ -71,3 +71,14 @@
 [2013-07-30 08:49:13] admc, joining. (#ios-driver)
 [2013-07-30 08:53:27] admc, quitting. (Ping timeout: 245 seconds)
 [2013-07-30 08:57:07] santiycr, joining. (#ios-driver)
+[2013-07-30 09:01:31] ios-driver-git, joining. (#ios-driver)
+[2013-07-30 09:01:31] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to rotate: http://git.io/ifDXyg
+[2013-07-30 09:01:31] ios-driver-git: ios-driver/rotate f298492 Francois Reynaud: the enum already has all those info.
+[2013-07-30 09:01:31] ios-driver-git: ios-driver/rotate 1500ad5 Francois Reynaud: logElementTree needs to rotate the screenshot in the correct position too.
+[2013-07-30 09:01:31] ios-driver-git, leaving. (#ios-driver)
+[2013-07-30 09:01:53] ios-driver-git, joining. (#ios-driver)
+[2013-07-30 09:01:53] ios-driver-git: [ios-driver] freynaud merged rotate into tmp: http://git.io/BmQ3bQ
+[2013-07-30 09:01:53] ios-driver-git, leaving. (#ios-driver)
+[2013-07-30 09:02:26] ios-driver-git, joining. (#ios-driver)
+[2013-07-30 09:02:26] ios-driver-git, leaving. (#ios-driver)
+[2013-07-30 09:02:26] ios-driver-git: [ios-driver] freynaud deleted rotate at 1500ad5: http://git.io/gqfxpA
