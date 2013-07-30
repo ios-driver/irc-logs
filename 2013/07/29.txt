@@ -259,3 +259,4 @@
 [2013-07-29 18:37:49] admc, joining. (#ios-driver)
 [2013-07-29 20:08:23] lukeis, joining. (#ios-driver)
 [2013-07-29 21:07:30] admc, quitting. (Quit: Leaving.)
+[2013-07-29 22:28:09] lukeis, quitting. (Quit: Leaving.)
