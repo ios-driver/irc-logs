@@ -188,3 +188,4 @@
 [2013-07-30 13:58:48] mgaradi: that may help me see and compare how I do it
 [2013-07-30 13:59:17] nicegraham: it's pretty much this https://gist.github.com/nicegraham/7185267a6d2d326afaaa
 [2013-07-30 13:59:40] nicegraham: I think we have timeout params set in our production grid
+[2013-07-30 14:14:46] mgaradi: The grid shows capabilities with 2 IOS Simulators
