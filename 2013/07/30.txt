@@ -60,3 +60,4 @@
 [2013-07-30 07:46:39] Oscar1, quitting. (Read error: Connection reset by peer)
 [2013-07-30 07:46:51] Oscar1, joining. (#ios-driver)
 [2013-07-30 07:48:45] admc, joining. (#ios-driver)
+[2013-07-30 07:53:12] admc, quitting. (Ping timeout: 246 seconds)
