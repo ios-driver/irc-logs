@@ -198,3 +198,4 @@
 [2013-07-30 14:37:59] admc, joining. (#ios-driver)
 [2013-07-30 14:46:59] smccarthy, quitting. (Remote host closed the connection)
 [2013-07-30 14:59:28] dismir, quitting. (Ping timeout: 250 seconds)
+[2013-07-30 15:09:00] santiycr, joining. (#ios-driver)
