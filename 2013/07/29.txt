@@ -253,3 +253,4 @@
 [2013-07-29 16:20:58] nicegraham: Ta!
 [2013-07-29 16:22:11] smccarthy, quitting. (Ping timeout: 264 seconds)
 [2013-07-29 16:28:01] smccarthy, joining. (#ios-driver)
+[2013-07-29 17:09:19] santiycr1, quitting. (Quit: Leaving.)
