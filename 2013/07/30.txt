@@ -155,3 +155,5 @@
 [2013-07-30 13:20:13] freynaud_: and extend :)
 [2013-07-30 13:20:35] freynaud_: tty tomorrow
 [2013-07-30 13:20:39] freynaud_, quitting. (Quit: freynaud_)
+[2013-07-30 13:34:43] mgaradi, joining. (#ios-driver)
+[2013-07-30 13:34:57] dismir: I will enter a bug for the SSL issue on Safari. Thanks
