@@ -134,3 +134,14 @@
 [2013-07-30 13:09:18] nicegraham: 9277b50fd502aae201f2c6ca9caa36df86fd8085
 [2013-07-30 13:09:23] nicegraham: but they never do
 [2013-07-30 13:09:40] nicegraham: crap, I thought the bot would pop up the commit link
+[2013-07-30 13:10:25] freynaud_: oh, very nice
+[2013-07-30 13:10:31] freynaud_: that needs to be documented
+[2013-07-30 13:10:52] freynaud_: dismir: disregard everything I said but " buy your ssl certif for QA"
+[2013-07-30 13:11:13] freynaud_: won't work on real device though
+[2013-07-30 13:12:05] nicegraham: have you got a link to that commit, I just located it in the log
+[2013-07-30 13:12:20] nicegraham: I dont know how to open it in github
+[2013-07-30 13:12:33] nicegraham: it's the simple things that catch me out
+[2013-07-30 13:13:02] nicegraham: :help
+[2013-07-30 13:13:28] nicegraham: < 9277b50fd502aae201f2c6ca9caa36df86fd8085>
+[2013-07-30 13:13:37] nicegraham: :< 9277b50fd502aae201f2c6ca9caa36df86fd8085>
+[2013-07-30 13:13:50] nicegraham: lukeis: how do I do this?
