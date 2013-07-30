@@ -61,3 +61,7 @@
 [2013-07-30 07:46:51] Oscar1, joining. (#ios-driver)
 [2013-07-30 07:48:45] admc, joining. (#ios-driver)
 [2013-07-30 07:53:12] admc, quitting. (Ping timeout: 246 seconds)
+[2013-07-30 08:07:11] ios-driver-git, joining. (#ios-driver)
+[2013-07-30 08:07:11] ios-driver-git: [ios-driver] freynaud created rotate (+1 new commit): https://github.com/ios-driver/ios-driver/commit/0ae27b161591
+[2013-07-30 08:07:11] ios-driver-git, leaving. (#ios-driver)
+[2013-07-30 08:07:11] ios-driver-git: ios-driver/rotate 0ae27b1 Francois Reynaud: refactoring screenshot taking capabilities. LogElementTree still to be done.
