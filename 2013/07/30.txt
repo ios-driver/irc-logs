@@ -193,3 +193,4 @@
 [2013-07-30 14:15:44] mgaradi: I mean when one simulator is in use the webdriver is thinking there is another simulator on the same machine and tries to forward a request to it?
 [2013-07-30 14:16:11] mgaradi: I could reproduce it that way by kicking off the two tests with only one node attached to a hub
 [2013-07-30 14:16:18] mgaradi: and it threw me out with same error
+[2013-07-30 14:25:51] admc, joining. (#ios-driver)
