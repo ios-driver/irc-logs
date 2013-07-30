@@ -9,3 +9,7 @@
 [2013-07-30 02:23:44] ios-driver-git: ios-driver/tmp d207377 Francois Reynaud: Merge branch 'tmp' of github.com:ios-driver/ios-driver into tmp
 [2013-07-30 02:23:44] ios-driver-git: ios-driver/tmp 0513d8b Francois Reynaud: more comments
 [2013-07-30 02:24:00] admc, quitting. (Ping timeout: 245 seconds)
+[2013-07-30 02:30:30] ios-driver-git, joining. (#ios-driver)
+[2013-07-30 02:30:31] ios-driver-git, leaving. (#ios-driver)
+[2013-07-30 02:30:31] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to tmp: http://git.io/n3EiiQ
+[2013-07-30 02:30:31] ios-driver-git: ios-driver/tmp 50d4bd2 Francois Reynaud: adding the JNA implementation.
