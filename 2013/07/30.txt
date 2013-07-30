@@ -100,3 +100,9 @@
 [2013-07-30 12:10:38] lukeis1, joining. (#ios-driver)
 [2013-07-30 12:11:51] lukeis, quitting. (Ping timeout: 246 seconds)
 [2013-07-30 12:12:08] lukeis1, changing nick to lukeis.
+[2013-07-30 12:18:46] ios-driver-git, joining. (#ios-driver)
+[2013-07-30 12:18:46] ios-driver-git: ios-driver/tmp 9aeb1a9 Francois Reynaud: -making the ipad frame size a bit more decent....
+[2013-07-30 12:18:46] ios-driver-git: ios-driver/tmp ca93732 Francois Reynaud: committing the generator to avoid having to write it a 4th time ...
+[2013-07-30 12:18:46] ios-driver-git: ios-driver/tmp af147d6 Francois Reynaud: adding more mocked files for the inspector.
+[2013-07-30 12:18:46] ios-driver-git: [ios-driver] freynaud pushed 3 new commits to tmp: http://git.io/uDKbDA
+[2013-07-30 12:18:46] ios-driver-git, leaving. (#ios-driver)
