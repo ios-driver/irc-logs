@@ -151,3 +151,7 @@
 [2013-07-30 13:18:02] freynaud_: it's getting close :)
 [2013-07-30 13:18:43] nicegraham: yep, lots of progress!
 [2013-07-30 13:18:45] nicegraham: night
+[2013-07-30 13:20:09] freynaud_: the inspector will be much easier to maintain
+[2013-07-30 13:20:13] freynaud_: and extend :)
+[2013-07-30 13:20:35] freynaud_: tty tomorrow
+[2013-07-30 13:20:39] freynaud_, quitting. (Quit: freynaud_)
