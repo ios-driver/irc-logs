@@ -49,3 +49,4 @@
 [2013-07-30 06:00:28] operatiay: is anyone using the option -Dorg.eclipse.jetty.server.Request.maxFormContentSize while starting the hub? we are experiencing "Form too large" exception (IllegalStateException)
 [2013-07-30 06:05:06] nicegraham: opertiay: I'm not
 [2013-07-30 06:17:48] admc, joining. (#ios-driver)
+[2013-07-30 06:22:30] admc, quitting. (Ping timeout: 264 seconds)
