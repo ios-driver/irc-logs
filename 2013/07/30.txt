@@ -157,3 +157,10 @@
 [2013-07-30 13:20:39] freynaud_, quitting. (Quit: freynaud_)
 [2013-07-30 13:34:43] mgaradi, joining. (#ios-driver)
 [2013-07-30 13:34:57] dismir: I will enter a bug for the SSL issue on Safari. Thanks
+[2013-07-30 13:35:08] mgaradi: Hello everyone
+[2013-07-30 13:36:06] mgaradi: I have a question about forwarding requests which throws an exception now and then
+[2013-07-30 13:36:24] mgaradi: org.openqa.selenium.WebDriverException:  Command duration or timeout: 140 milliseconds Build info: version: 'unknown', revision: 'unknown', time: 'unknown' System info: os.name: 'Windows Server 2012', os.arch: 'amd64', os.version: '6.2', java.version: '1.7.0_25' Driver info: org.uiautomation.ios.client.uiamodels.impl.RemoteIOSDriver
+[2013-07-30 13:36:37] mgaradi: But this call to the hub does not fail all the time
+[2013-07-30 13:37:00] mgaradi: it keeps happning though
+[2013-07-30 13:39:53] mgaradi: I have a specific exception too
+[2013-07-30 13:39:54] mgaradi: org.openqa.selenium.WebDriverException: Error forwarding the new session new session request for webdriver should contain a location header with the session.
