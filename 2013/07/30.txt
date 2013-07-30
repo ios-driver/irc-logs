@@ -189,3 +189,7 @@
 [2013-07-30 13:59:17] nicegraham: it's pretty much this https://gist.github.com/nicegraham/7185267a6d2d326afaaa
 [2013-07-30 13:59:40] nicegraham: I think we have timeout params set in our production grid
 [2013-07-30 14:14:46] mgaradi: The grid shows capabilities with 2 IOS Simulators
+[2013-07-30 14:15:02] mgaradi: is that the reason why the session forward fails?
+[2013-07-30 14:15:44] mgaradi: I mean when one simulator is in use the webdriver is thinking there is another simulator on the same machine and tries to forward a request to it?
+[2013-07-30 14:16:11] mgaradi: I could reproduce it that way by kicking off the two tests with only one node attached to a hub
+[2013-07-30 14:16:18] mgaradi: and it threw me out with same error
