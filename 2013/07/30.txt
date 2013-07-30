@@ -52,3 +52,4 @@
 [2013-07-30 06:22:30] admc, quitting. (Ping timeout: 264 seconds)
 [2013-07-30 06:33:46] freynaud_, quitting. (Read error: No route to host)
 [2013-07-30 06:34:22] freynaud_, joining. (#ios-driver)
+[2013-07-30 06:38:22] operatiay: nicegraham: have you ever experienced this exception? if yes, how have you worked around it?
