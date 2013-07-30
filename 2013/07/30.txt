@@ -84,3 +84,4 @@
 [2013-07-30 09:02:26] ios-driver-git: [ios-driver] freynaud deleted rotate at 1500ad5: http://git.io/gqfxpA
 [2013-07-30 09:18:13] santiycr, quitting. (Quit: Leaving.)
 [2013-07-30 09:19:37] admc, joining. (#ios-driver)
+[2013-07-30 09:24:18] admc, quitting. (Ping timeout: 264 seconds)
