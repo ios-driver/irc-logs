@@ -256,3 +256,4 @@
 [2013-07-29 17:09:19] santiycr1, quitting. (Quit: Leaving.)
 [2013-07-29 17:42:39] admc, quitting. (Quit: Leaving.)
 [2013-07-29 18:17:51] smccarthy, quitting. (Remote host closed the connection)
+[2013-07-29 18:37:49] admc, joining. (#ios-driver)
