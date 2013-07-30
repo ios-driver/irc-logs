@@ -167,3 +167,6 @@
 [2013-07-30 13:43:45] nicegraham: mgaradi: what version are you running?
 [2013-07-30 13:44:01] nicegraham: are you running mobilesafari or an aoo?
 [2013-07-30 13:44:27] nicegraham: ^app
+[2013-07-30 13:46:19] mgaradi: I am running an app
+[2013-07-30 13:47:02] nicegraham: and what ios-driver version?
+[2013-07-30 13:49:57] Oscar_Rieken, quitting. (Quit: Leaving.)
