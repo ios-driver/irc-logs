@@ -170,3 +170,6 @@
 [2013-07-30 13:46:19] mgaradi: I am running an app
 [2013-07-30 13:47:02] nicegraham: and what ios-driver version?
 [2013-07-30 13:49:57] Oscar_Rieken, quitting. (Quit: Leaving.)
+[2013-07-30 13:53:40] nicegraham: mgaradi: if you're not running the latest code, can you try that. We saw this error before but this commit fixed it for us https://github.com/ios-driver/ios-driver/commit/e9d5bcf55879d2566f3d9798a582ae705afb1d40
+[2013-07-30 13:54:29] nicegraham: this is the latest build [it doesn't support real devices and you'll need to add -simulators to the command line to enable simulators] https://github.com/ios-driver/ios-driver/releases/download/0.6.1/ios-server-0.6.1-jar-with-dependencies.jar
+[2013-07-30 13:54:48] mgaradi: I am using 0.6.1..does that have it already?
