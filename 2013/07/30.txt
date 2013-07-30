@@ -54,3 +54,4 @@
 [2013-07-30 06:34:22] freynaud_, joining. (#ios-driver)
 [2013-07-30 06:38:22] operatiay: nicegraham: have you ever experienced this exception? if yes, how have you worked around it?
 [2013-07-30 07:10:47] Oscar1, joining. (#ios-driver)
+[2013-07-30 07:18:14] admc, joining. (#ios-driver)
