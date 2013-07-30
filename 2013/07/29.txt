@@ -265,3 +265,4 @@
 [2013-07-29 23:27:59] ios-driver-git: ios-driver/dev de199f5 Graham Abell: removing the debug key - this is not the cause of the issue. Travis have opened a bug to resolve this on their VMs
 [2013-07-29 23:27:59] ios-driver-git, leaving. (#ios-driver)
 [2013-07-29 23:29:51] nicegraham: :note lukeis travis guys have opened a bug to resolve that problem for us. It seems like it's actually with them. :) https://github.com/travis-ci/travis-ci/issues/1292
+[2013-07-29 23:56:43] admc, joining. (#ios-driver)
