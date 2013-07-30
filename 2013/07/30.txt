@@ -173,3 +173,18 @@
 [2013-07-30 13:53:40] nicegraham: mgaradi: if you're not running the latest code, can you try that. We saw this error before but this commit fixed it for us https://github.com/ios-driver/ios-driver/commit/e9d5bcf55879d2566f3d9798a582ae705afb1d40
 [2013-07-30 13:54:29] nicegraham: this is the latest build [it doesn't support real devices and you'll need to add -simulators to the command line to enable simulators] https://github.com/ios-driver/ios-driver/releases/download/0.6.1/ios-server-0.6.1-jar-with-dependencies.jar
 [2013-07-30 13:54:48] mgaradi: I am using 0.6.1..does that have it already?
+[2013-07-30 13:55:04] nicegraham: hmm, it should
+[2013-07-30 13:56:09] nicegraham: what version of grid are you running?
+[2013-07-30 13:57:19] mgaradi: 2.33.0
+[2013-07-30 13:57:27] nicegraham: ok, I'm not sure
+[2013-07-30 13:57:35] nicegraham: we haven't seen that error in the latest code
+[2013-07-30 13:57:44] nicegraham: I'll need to speak to a colleague tomorrow
+[2013-07-30 13:57:55] nicegraham: I think we'll have to add some debug in and get you to run that
+[2013-07-30 13:58:07] mgaradi: okay
+[2013-07-30 13:58:09] nicegraham: it's very difficult to diagnose this issue because it's intermittent
+[2013-07-30 13:58:17] mgaradi: yeah
+[2013-07-30 13:58:29] nicegraham: but we've already been through it
+[2013-07-30 13:58:39] mgaradi: can you give me the options how you started the grid and ios-driver?
+[2013-07-30 13:58:48] mgaradi: that may help me see and compare how I do it
+[2013-07-30 13:59:17] nicegraham: it's pretty much this https://gist.github.com/nicegraham/7185267a6d2d326afaaa
+[2013-07-30 13:59:40] nicegraham: I think we have timeout params set in our production grid
