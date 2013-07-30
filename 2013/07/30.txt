@@ -200,3 +200,4 @@
 [2013-07-30 14:59:28] dismir, quitting. (Ping timeout: 250 seconds)
 [2013-07-30 15:09:00] santiycr, joining. (#ios-driver)
 [2013-07-30 16:14:54] lukeis, quitting. (Quit: Leaving.)
+[2013-07-30 16:24:10] santiycr, quitting. (Quit: Leaving.)
