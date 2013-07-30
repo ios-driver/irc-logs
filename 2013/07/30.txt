@@ -118,3 +118,19 @@
 [2013-07-30 12:58:56] dismir: Hi I'm new to iOS-driver. Can someone show me how I have safari accept self-signed SSL certificates using python.
 [2013-07-30 13:03:54] freynaud_: it's not supported yet
 [2013-07-30 13:04:05] freynaud_: can you file a bug to track the issue ?
+[2013-07-30 13:05:58] freynaud_: python has nothing to do with it btw, it's handled server side
+[2013-07-30 13:06:21] nicegraham: I thought nirvdrum was able to get around this?
+[2013-07-30 13:06:33] freynaud_: there are work around
+[2013-07-30 13:06:39] freynaud_: but not implemented yet i think
+[2013-07-30 13:06:50] freynaud_: it's not super hard to fix
+[2013-07-30 13:07:06] freynaud_: instead of using the wkrdp protocol to load a url, use JS
+[2013-07-30 13:07:23] freynaud_: the wkrdp protocol just gnome calls with wrong ssl
+[2013-07-30 13:07:40] freynaud_: when you do that, you have the popup saying the ssl is wrong
+[2013-07-30 13:07:49] freynaud_: switch to native, click it, done
+[2013-07-30 13:08:04] freynaud_: but it's still ugly
+[2013-07-30 13:08:29] freynaud_: i don't know what happens if you have some wrong include for some js/css include from different domain
+[2013-07-30 13:08:33] freynaud_: might not popup
+[2013-07-30 13:08:49] freynaud_: in any case, people should by certificate for their QA envt
+[2013-07-30 13:09:18] nicegraham: 9277b50fd502aae201f2c6ca9caa36df86fd8085
+[2013-07-30 13:09:23] nicegraham: but they never do
+[2013-07-30 13:09:40] nicegraham: crap, I thought the bot would pop up the commit link
