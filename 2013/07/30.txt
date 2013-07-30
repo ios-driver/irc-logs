@@ -111,3 +111,4 @@
 [2013-07-30 12:39:31] ios-driver-git: ios-driver/tmp 6f3f338 Francois Reynaud: updating the main servlet for inspector to use the new frames.
 [2013-07-30 12:39:31] ios-driver-git, leaving. (#ios-driver)
 [2013-07-30 12:39:31] ios-driver-git: ios-driver/tmp ddc3d9d Francois Reynaud: adding the new frames.
+[2013-07-30 12:40:12] santiycr, quitting. (Quit: Leaving.)
