@@ -13,3 +13,5 @@
 [2013-07-30 02:30:31] ios-driver-git, leaving. (#ios-driver)
 [2013-07-30 02:30:31] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to tmp: http://git.io/n3EiiQ
 [2013-07-30 02:30:31] ios-driver-git: ios-driver/tmp 50d4bd2 Francois Reynaud: adding the JNA implementation.
+[2013-07-30 02:45:11] operatiay: hi, it's me again. I've got a question about the accessibility of other attributes via xpath assertions.
+[2013-07-30 02:45:48] operatiay: we want to verify that the referenced image is a specific one (we know basically, which value to expect there, but cannot read it)
