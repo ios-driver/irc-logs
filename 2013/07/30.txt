@@ -20,3 +20,16 @@
 [2013-07-30 03:20:07] admc, quitting. (Ping timeout: 245 seconds)
 [2013-07-30 03:22:30] freynaud_: operatiay: web or native ?
 [2013-07-30 03:25:00] operatiay: freynaud_: native
+[2013-07-30 03:25:25] freynaud_: and it's not in one of the attribute ?
+[2013-07-30 03:25:32] freynaud_: label,name,value
+[2013-07-30 03:25:40] operatiay: no, it's in the attribute image
+[2013-07-30 03:25:50] operatiay: that's how it is set programmatically
+[2013-07-30 03:26:29] freynaud_: your dev will have to set it to one of the attribute that instruments sees too
+[2013-07-30 03:26:35] freynaud_: label,  value or name
+[2013-07-30 03:26:41] operatiay: it is not displayed in the inspector and we cannot access it... is there a way to add some attributes to the supported ones?
+[2013-07-30 03:26:44] freynaud_: there is no way to check anything else
+[2013-07-30 03:26:59] operatiay: ok, i see. thanks
+[2013-07-30 03:27:04] freynaud_: there is. You need to apply for a job @ Apple, and change instruments :)
+[2013-07-30 03:27:14] operatiay: :) an interesting idea
+[2013-07-30 03:27:49] operatiay: did you try applying @ Apple?
+[2013-07-30 03:28:22] operatiay: :) I'm merely a java developer, so no chance to get into there
