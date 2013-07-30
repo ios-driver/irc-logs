@@ -112,3 +112,5 @@
 [2013-07-30 12:39:31] ios-driver-git, leaving. (#ios-driver)
 [2013-07-30 12:39:31] ios-driver-git: ios-driver/tmp ddc3d9d Francois Reynaud: adding the new frames.
 [2013-07-30 12:40:12] santiycr, quitting. (Quit: Leaving.)
+[2013-07-30 12:51:01] dismir, joining. (#ios-driver)
+[2013-07-30 12:55:00] smccarthy, joining. (#ios-driver)
