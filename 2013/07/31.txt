@@ -57,3 +57,7 @@
 [2013-07-31 05:45:36] nicegraham: that's it
 [2013-07-31 05:45:44] nicegraham: just the ide.js and .css
 [2013-07-31 05:46:20] nicegraham: it does scroll fast but only when you're interacting with the mouse over - I think it makes sense tbh
+[2013-07-31 05:56:11] ios-driver-git, joining. (#ios-driver)
+[2013-07-31 05:56:11] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/Jen5og
+[2013-07-31 05:56:11] ios-driver-git: ios-driver/dev f6d8ffc Darragh Grace: Increasing the maximum Jetty form size to 500000, it was defaulting to 200000
+[2013-07-31 05:56:11] ios-driver-git, leaving. (#ios-driver)
