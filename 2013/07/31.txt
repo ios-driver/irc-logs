@@ -26,3 +26,6 @@
 [2013-07-31 04:58:58] *nicegraham ok, we don't have one either - our main app is locked to portrait'
 [2013-07-31 04:59:36] freynaud: it should be ok
 [2013-07-31 04:59:51] freynaud: but i'd be more confortable, you know, having a test :)
+[2013-07-31 05:00:05] nicegraham: any idea why a table contents would not be in order in the treeview?
+[2013-07-31 05:00:25] nicegraham: that's just a representation of the logElementTree response right?
+[2013-07-31 05:01:11] admc, quitting. (Ping timeout: 256 seconds)
