@@ -95,3 +95,4 @@
 [2013-07-31 06:41:09] nicegraham: where should I be looking to catch the crash event?
 [2013-07-31 06:41:11] nicegraham: the wkrdp?
 [2013-07-31 06:57:54] admc, joining. (#ios-driver)
+[2013-07-31 07:02:44] admc, quitting. (Ping timeout: 268 seconds)
