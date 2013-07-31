@@ -38,3 +38,15 @@
 [2013-07-31 05:38:13] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to tmp: http://git.io/Vk6fTA
 [2013-07-31 05:38:13] ios-driver-git: ios-driver/tmp 566a839 Graham Abell: adding auto scroll to the mouseover
 [2013-07-31 05:38:13] ios-driver-git, leaving. (#ios-driver)
+[2013-07-31 05:41:12] nicegraham: freynaud: the treeview not auto scrolls as you hover over the image
+[2013-07-31 05:41:22] nicegraham: s/not/now
+[2013-07-31 05:42:26] ios-driver-git, joining. (#ios-driver)
+[2013-07-31 05:42:26] ios-driver-git, leaving. (#ios-driver)
+[2013-07-31 05:42:26] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to tmp: http://git.io/ueBiXQ
+[2013-07-31 05:42:26] ios-driver-git: ios-driver/tmp 037514c Graham Abell: removing sout
+[2013-07-31 05:44:17] freynaud: nicegraham: did it autoscroll before ?
+[2013-07-31 05:44:26] nicegraham: no
+[2013-07-31 05:44:45] freynaud: should it ?
+[2013-07-31 05:44:52] nicegraham: it just highlighted the node off screen and put the details in the panel
+[2013-07-31 05:44:54] nicegraham: I think so
+[2013-07-31 05:45:00] freynaud: if you mouse over and it keeps scrolling super fast, it will be annoying
