@@ -22,3 +22,7 @@
 [2013-07-31 04:00:53] admc, quitting. (Ping timeout: 264 seconds)
 [2013-07-31 04:31:01] freynaud: ask them to start filing bugs if they see wrong stuff
 [2013-07-31 04:31:22] freynaud: i haven't tested portrait_upside_down as I don't have an app supporting it
+[2013-07-31 04:56:33] admc, joining. (#ios-driver)
+[2013-07-31 04:58:58] *nicegraham ok, we don't have one either - our main app is locked to portrait'
+[2013-07-31 04:59:36] freynaud: it should be ok
+[2013-07-31 04:59:51] freynaud: but i'd be more confortable, you know, having a test :)
