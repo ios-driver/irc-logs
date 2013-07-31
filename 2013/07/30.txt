@@ -214,3 +214,4 @@
 [2013-07-30 22:12:15] admc, joining. (#ios-driver)
 [2013-07-30 22:15:26] admc, quitting. (Client Quit)
 [2013-07-30 23:17:34] admc, joining. (#ios-driver)
+[2013-07-30 23:58:00] freynaud: Bonjour.
