@@ -106,3 +106,4 @@
 [2013-07-31 07:09:21] freynaud: what will probably crash is UIAScriptServlet
 [2013-07-31 07:09:31] freynaud: that keeps a socket open to instruments
 [2013-07-31 07:09:59] freynaud: app crash = instruments stops = socket closed exception somewhere in that servlet I suspect
+[2013-07-31 07:34:28] Oscar1, joining. (#ios-driver)
