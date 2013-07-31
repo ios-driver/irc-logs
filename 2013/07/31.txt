@@ -66,3 +66,23 @@
 [2013-07-31 06:10:10] ios-driver-git: ios-driver/dev b7e1162 Graham Abell: adding "crash me" button to sample app, the error is an uncaught array out of bounds
 [2013-07-31 06:10:10] ios-driver-git, leaving. (#ios-driver)
 [2013-07-31 06:27:31] admc, joining. (#ios-driver)
+[2013-07-31 06:30:10] ios-driver-git, joining. (#ios-driver)
+[2013-07-31 06:30:10] ios-driver-git, leaving. (#ios-driver)
+[2013-07-31 06:30:10] ios-driver-git: [ios-driver] freynaud created inspector_cleanup (+1 new commit): http://git.io/WJmmQg
+[2013-07-31 06:30:10] ios-driver-git: ios-driver/inspector_cleanup 2de67e1 Francois Reynaud: updating the jquery ui version, moving files around.
+[2013-07-31 06:30:56] ios-driver-git, joining. (#ios-driver)
+[2013-07-31 06:30:56] ios-driver-git: [ios-driver] freynaud deleted tmp at 037514c: http://git.io/e-WJ3A
+[2013-07-31 06:30:56] ios-driver-git, leaving. (#ios-driver)
+[2013-07-31 06:31:25] ios-driver-git, joining. (#ios-driver)
+[2013-07-31 06:31:25] ios-driver-git: [ios-driver] freynaud deleted inspector at e30b251: http://git.io/gPZVCg
+[2013-07-31 06:31:25] ios-driver-git, leaving. (#ios-driver)
+[2013-07-31 06:31:35] ios-driver-git, joining. (#ios-driver)
+[2013-07-31 06:31:35] ios-driver-git: [ios-driver] freynaud deleted jna at d512736: http://git.io/xybELg
+[2013-07-31 06:31:35] ios-driver-git, leaving. (#ios-driver)
+[2013-07-31 06:32:26] admc, quitting. (Ping timeout: 264 seconds)
+[2013-07-31 06:32:31] ios-driver-git, joining. (#ios-driver)
+[2013-07-31 06:32:31] ios-driver-git: [ios-driver] freynaud deleted issue81 at 65bd3bc: http://git.io/7vVSwg
+[2013-07-31 06:32:31] ios-driver-git, leaving. (#ios-driver)
+[2013-07-31 06:34:00] freynaud: nicegraham: ok, less branches now
+[2013-07-31 06:34:11] nicegraham: tmp is gone
+[2013-07-31 06:34:33] nicegraham: where is the jna stuff happening now?
