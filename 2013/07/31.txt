@@ -34,3 +34,7 @@
 [2013-07-31 05:17:03] freynaud: the the order I get from Instruments
 [2013-07-31 05:27:01] admc, joining. (#ios-driver)
 [2013-07-31 05:31:29] admc, quitting. (Ping timeout: 264 seconds)
+[2013-07-31 05:38:13] ios-driver-git, joining. (#ios-driver)
+[2013-07-31 05:38:13] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to tmp: http://git.io/Vk6fTA
+[2013-07-31 05:38:13] ios-driver-git: ios-driver/tmp 566a839 Graham Abell: adding auto scroll to the mouseover
+[2013-07-31 05:38:13] ios-driver-git, leaving. (#ios-driver)
