@@ -20,3 +20,5 @@
 [2013-07-31 03:29:12] admc, quitting. (Ping timeout: 246 seconds)
 [2013-07-31 03:56:05] admc, joining. (#ios-driver)
 [2013-07-31 04:00:53] admc, quitting. (Ping timeout: 264 seconds)
+[2013-07-31 04:31:01] freynaud: ask them to start filing bugs if they see wrong stuff
+[2013-07-31 04:31:22] freynaud: i haven't tested portrait_upside_down as I don't have an app supporting it
