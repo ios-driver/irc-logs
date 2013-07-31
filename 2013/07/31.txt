@@ -113,3 +113,4 @@
 [2013-07-31 07:56:22] Oscar1, changing nick to Oscar_Rieken.
 [2013-07-31 07:56:23] freynaud: I seen some android stuff being packaged in.Maven is pulling too much stuff from selenium
 [2013-07-31 07:58:23] admc, joining. (#ios-driver)
+[2013-07-31 08:02:59] admc, quitting. (Ping timeout: 264 seconds)
