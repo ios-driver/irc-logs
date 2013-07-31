@@ -158,3 +158,4 @@
 [2013-07-31 10:28:52] santiycr, joining. (#ios-driver)
 [2013-07-31 11:21:18] Oscar, joining. (#ios-driver)
 [2013-07-31 11:25:17] Oscar, changing nick to Oscar_Rieken.
+[2013-07-31 11:30:58] admc, joining. (#ios-driver)
