@@ -165,3 +165,4 @@
 [2013-07-31 12:43:20] Oscar1, joining. (#ios-driver)
 [2013-07-31 13:01:57] lukeis, joining. (#ios-driver)
 [2013-07-31 13:09:42] lukeis, quitting. (Ping timeout: 245 seconds)
+[2013-07-31 13:20:53] Oscar1, quitting. (Quit: Leaving.)
