@@ -109,3 +109,7 @@
 [2013-07-31 07:34:28] Oscar1, joining. (#ios-driver)
 [2013-07-31 07:42:48] Oscar1, quitting. (Quit: Leaving.)
 [2013-07-31 07:44:50] Oscar1, joining. (#ios-driver)
+[2013-07-31 07:55:50] freynaud: there is something wrong without our dependencies
+[2013-07-31 07:56:22] Oscar1, changing nick to Oscar_Rieken.
+[2013-07-31 07:56:23] freynaud: I seen some android stuff being packaged in.Maven is pulling too much stuff from selenium
+[2013-07-31 07:58:23] admc, joining. (#ios-driver)
