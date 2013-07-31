@@ -114,3 +114,18 @@
 [2013-07-31 07:56:23] freynaud: I seen some android stuff being packaged in.Maven is pulling too much stuff from selenium
 [2013-07-31 07:58:23] admc, joining. (#ios-driver)
 [2013-07-31 08:02:59] admc, quitting. (Ping timeout: 264 seconds)
+[2013-07-31 08:07:16] ios-driver-git, joining. (#ios-driver)
+[2013-07-31 08:07:16] ios-driver-git: ios-driver/inspector_cleanup d148620 Francois Reynaud: updating after css/js refactoring
+[2013-07-31 08:07:16] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to inspector_cleanup: http://git.io/_W3aVw
+[2013-07-31 08:07:16] ios-driver-git: ios-driver/inspector_cleanup e33ee51 Francois Reynaud: last version of the mocks.
+[2013-07-31 08:07:16] ios-driver-git, leaving. (#ios-driver)
+[2013-07-31 08:08:00] freynaud: nicegraham: I still have those flick tests failing btw
+[2013-07-31 08:08:36] freynaud: https://gist.github.com/freynaud/6122802
+[2013-07-31 08:08:38] nicegraham: freynaud:
+[2013-07-31 08:08:43] nicegraham: the native or web ones?
+[2013-07-31 08:08:48] freynaud: web
+[2013-07-31 08:08:55] freynaud: native I have 3 failures
+[2013-07-31 08:09:09] freynaud: which I caused with my refactoring
+[2013-07-31 08:09:19] freynaud: I'll fix them
+[2013-07-31 08:09:27] nicegraham: ok
+[2013-07-31 08:09:30] nicegraham: I'm running again now
