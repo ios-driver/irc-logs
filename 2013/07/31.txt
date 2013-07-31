@@ -11,3 +11,4 @@
 [2013-07-31 02:49:09] freynaud: nicegraham: it still need a good cleanup
 [2013-07-31 02:49:15] freynaud: a lot of code is obsolete
 [2013-07-31 02:49:25] freynaud: but the functionality should work
+[2013-07-31 02:50:10] admc, quitting. (Quit: Leaving.)
