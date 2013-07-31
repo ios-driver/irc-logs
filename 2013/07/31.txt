@@ -50,3 +50,10 @@
 [2013-07-31 05:44:52] nicegraham: it just highlighted the node off screen and put the details in the panel
 [2013-07-31 05:44:54] nicegraham: I think so
 [2013-07-31 05:45:00] freynaud: if you mouse over and it keeps scrolling super fast, it will be annoying
+[2013-07-31 05:45:12] nicegraham: it's highlighting something you can't see
+[2013-07-31 05:45:27] freynaud: i'm moving a lot of files around
+[2013-07-31 05:45:30] freynaud: don't commit to much please, or i'll have to merge :)
+[2013-07-31 05:45:36] nicegraham: ok
+[2013-07-31 05:45:36] nicegraham: that's it
+[2013-07-31 05:45:44] nicegraham: just the ide.js and .css
+[2013-07-31 05:46:20] nicegraham: it does scroll fast but only when you're interacting with the mouse over - I think it makes sense tbh
