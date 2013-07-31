@@ -61,3 +61,7 @@
 [2013-07-31 05:56:11] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/Jen5og
 [2013-07-31 05:56:11] ios-driver-git: ios-driver/dev f6d8ffc Darragh Grace: Increasing the maximum Jetty form size to 500000, it was defaulting to 200000
 [2013-07-31 05:56:11] ios-driver-git, leaving. (#ios-driver)
+[2013-07-31 06:10:10] ios-driver-git, joining. (#ios-driver)
+[2013-07-31 06:10:10] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/jiGPAA
+[2013-07-31 06:10:10] ios-driver-git: ios-driver/dev b7e1162 Graham Abell: adding "crash me" button to sample app, the error is an uncaught array out of bounds
+[2013-07-31 06:10:10] ios-driver-git, leaving. (#ios-driver)
