@@ -1,3 +1,13 @@
 [2013-07-31 00:00:15] nicegraham: bon matin
 [2013-07-31 00:27:43] j3k47, joining. (#ios-driver)
 [2013-07-31 00:38:55] j3k47, quitting. (Quit: Leaving)
+[2013-07-31 02:48:44] ios-driver-git, joining. (#ios-driver)
+[2013-07-31 02:48:44] ios-driver-git: [ios-driver] freynaud pushed 3 new commits to tmp: http://git.io/5K1fHQ
+[2013-07-31 02:48:44] ios-driver-git: ios-driver/tmp 1c8a9d9 Francois Reynaud: move the rendering to JS
+[2013-07-31 02:48:44] ios-driver-git: ios-driver/tmp d04cb84 Francois Reynaud: landscape mostly working.
+[2013-07-31 02:48:44] ios-driver-git: ios-driver/tmp 6eb8046 Francois Reynaud: resizing landscape mode properly.
+[2013-07-31 02:48:44] ios-driver-git, leaving. (#ios-driver)
+[2013-07-31 02:48:52] freynaud: et voila.
+[2013-07-31 02:49:09] freynaud: nicegraham: it still need a good cleanup
+[2013-07-31 02:49:15] freynaud: a lot of code is obsolete
+[2013-07-31 02:49:25] freynaud: but the functionality should work
