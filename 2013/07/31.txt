@@ -32,3 +32,4 @@
 [2013-07-31 05:16:26] freynaud: yes
 [2013-07-31 05:16:47] freynaud: they should be in order according to the id
 [2013-07-31 05:17:03] freynaud: the the order I get from Instruments
+[2013-07-31 05:27:01] admc, joining. (#ios-driver)
