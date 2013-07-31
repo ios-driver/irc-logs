@@ -86,3 +86,7 @@
 [2013-07-31 06:34:00] freynaud: nicegraham: ok, less branches now
 [2013-07-31 06:34:11] nicegraham: tmp is gone
 [2013-07-31 06:34:33] nicegraham: where is the jna stuff happening now?
+[2013-07-31 06:38:48] freynaud: i merged it in inspector cleanup
+[2013-07-31 06:38:59] nicegraham: ok, cool
+[2013-07-31 06:39:09] nicegraham: so that's like the new dev branch I guess?
+[2013-07-31 06:39:46] freynaud: I'm runing the tests, merging dev to it, and if everything still pass, I'll merge cleanup to dev, and start working on a new jna_impl or something like that
