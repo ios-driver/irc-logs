@@ -29,3 +29,6 @@
 [2013-07-31 05:00:05] nicegraham: any idea why a table contents would not be in order in the treeview?
 [2013-07-31 05:00:25] nicegraham: that's just a representation of the logElementTree response right?
 [2013-07-31 05:01:11] admc, quitting. (Ping timeout: 256 seconds)
+[2013-07-31 05:16:26] freynaud: yes
+[2013-07-31 05:16:47] freynaud: they should be in order according to the id
+[2013-07-31 05:17:03] freynaud: the the order I get from Instruments
