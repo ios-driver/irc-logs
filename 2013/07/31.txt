@@ -147,3 +147,4 @@
 [2013-07-31 08:13:21] nicegraham: biab
 [2013-07-31 08:13:31] freynaud: k
 [2013-07-31 08:28:50] admc, joining. (#ios-driver)
+[2013-07-31 08:33:17] admc, quitting. (Ping timeout: 264 seconds)
