@@ -96,3 +96,13 @@
 [2013-07-31 06:41:11] nicegraham: the wkrdp?
 [2013-07-31 06:57:54] admc, joining. (#ios-driver)
 [2013-07-31 07:02:44] admc, quitting. (Ping timeout: 268 seconds)
+[2013-07-31 07:05:34] freynaud: no
+[2013-07-31 07:05:42] freynaud: wkrdp is asyncronous
+[2013-07-31 07:06:03] freynaud: so there should be a timeout waiting for the response, but nothing bad
+[2013-07-31 07:06:45] nicegraham: I hoped something would be in WebKitNotificationListener
+[2013-07-31 07:06:49] nicegraham: but it doesn't seem to be
+[2013-07-31 07:08:37] freynaud: that's only for web
+[2013-07-31 07:09:09] freynaud: all the web stuff is asyncronous, so crash = you'll stop receive messages, not exceptions
+[2013-07-31 07:09:21] freynaud: what will probably crash is UIAScriptServlet
+[2013-07-31 07:09:31] freynaud: that keeps a socket open to instruments
+[2013-07-31 07:09:59] freynaud: app crash = instruments stops = socket closed exception somewhere in that servlet I suspect
