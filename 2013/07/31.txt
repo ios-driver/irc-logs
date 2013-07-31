@@ -129,3 +129,20 @@
 [2013-07-31 08:09:19] freynaud: I'll fix them
 [2013-07-31 08:09:27] nicegraham: ok
 [2013-07-31 08:09:30] nicegraham: I'm running again now
+[2013-07-31 08:10:44] nicegraham: I get that Caused by: org.json.JSONException: JSONObject["using"] not found. exception but the tests pass in the IDE anyway
+[2013-07-31 08:11:12] nicegraham: that exception is being caused trying to find the keyboard
+[2013-07-31 08:11:24] nicegraham: which the tests aren't doing so I assume it's a default check?
+[2013-07-31 08:11:25] freynaud: i have it too
+[2013-07-31 08:11:33] freynaud: I'll clean it up
+[2013-07-31 08:11:44] nicegraham: is that causing the fails for you though?
+[2013-07-31 08:11:49] nicegraham: the tests are passing for me
+[2013-07-31 08:12:02] freynaud: I still have plenty of cleanup to do, but at least the landscape mode is ok now
+[2013-07-31 08:12:14] freynaud: no idea, I haven't investigated
+[2013-07-31 08:12:14] nicegraham: in the inspector?
+[2013-07-31 08:12:21] freynaud: I just ran everything before pushing
+[2013-07-31 08:12:28] freynaud: everywhere
+[2013-07-31 08:12:39] freynaud: I have some todos in a lot of places
+[2013-07-31 08:13:03] freynaud: and I need to work a lot on JNA to make the most of the libimobile workshop next week
+[2013-07-31 08:13:20] nicegraham: got an interview now
+[2013-07-31 08:13:21] nicegraham: biab
+[2013-07-31 08:13:31] freynaud: k
