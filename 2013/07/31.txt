@@ -12,3 +12,5 @@
 [2013-07-31 02:49:15] freynaud: a lot of code is obsolete
 [2013-07-31 02:49:25] freynaud: but the functionality should work
 [2013-07-31 02:50:10] admc, quitting. (Quit: Leaving.)
+[2013-07-31 03:15:09] nicegraham: freynaud: excellent!
+[2013-07-31 03:20:00] nicegraham: freynaud: how can we release the new inspector as 0.6.2? :)
