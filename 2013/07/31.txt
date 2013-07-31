@@ -90,3 +90,7 @@
 [2013-07-31 06:38:59] nicegraham: ok, cool
 [2013-07-31 06:39:09] nicegraham: so that's like the new dev branch I guess?
 [2013-07-31 06:39:46] freynaud: I'm runing the tests, merging dev to it, and if everything still pass, I'll merge cleanup to dev, and start working on a new jna_impl or something like that
+[2013-07-31 06:40:42] nicegraham: ok, sounds like a plan!
+[2013-07-31 06:40:55] nicegraham: I added a new version of our app which has a crash me button
+[2013-07-31 06:41:09] nicegraham: where should I be looking to catch the crash event?
+[2013-07-31 06:41:11] nicegraham: the wkrdp?
