@@ -204,3 +204,4 @@
 [2013-07-30 16:32:11] mgaradi, quitting. (Quit: Page closed)
 [2013-07-30 17:09:48] santiycr, joining. (#ios-driver)
 [2013-07-30 17:48:35] smccarthy, joining. (#ios-driver)
+[2013-07-30 18:32:17] admc, quitting. (Quit: Leaving.)
