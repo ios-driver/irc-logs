@@ -161,3 +161,4 @@
 [2013-07-31 11:30:58] admc, joining. (#ios-driver)
 [2013-07-31 12:27:51] nicegraham: freynaud: yt?
 [2013-07-31 12:31:39] lukeis, quitting. (Quit: Leaving.)
+[2013-07-31 12:39:11] Oscar_Rieken, quitting. (Quit: Leaving.)
