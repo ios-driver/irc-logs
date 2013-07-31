@@ -65,3 +65,4 @@
 [2013-07-31 06:10:10] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/jiGPAA
 [2013-07-31 06:10:10] ios-driver-git: ios-driver/dev b7e1162 Graham Abell: adding "crash me" button to sample app, the error is an uncaught array out of bounds
 [2013-07-31 06:10:10] ios-driver-git, leaving. (#ios-driver)
+[2013-07-31 06:27:31] admc, joining. (#ios-driver)
