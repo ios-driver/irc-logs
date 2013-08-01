@@ -42,3 +42,4 @@
 [2013-08-01 05:22:16] admc, joining. (#ios-driver)
 [2013-08-01 05:26:31] admc, quitting. (Ping timeout: 240 seconds)
 [2013-08-01 05:38:46] arkmon_, joining. (#ios-driver)
+[2013-08-01 05:53:03] admc, joining. (#ios-driver)
