@@ -39,3 +39,4 @@
 [2013-08-01 05:11:09] Krishnan: I managed to put a bug fix in TestNG.. lets see when do I get to do it in IOSDriver/WebDriver :) Its a long standing ambition
 [2013-08-01 05:11:14] nicegraham: it's all a help
 [2013-08-01 05:11:19] Krishnan: yeah..
+[2013-08-01 05:22:16] admc, joining. (#ios-driver)
