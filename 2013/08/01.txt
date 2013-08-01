@@ -87,3 +87,4 @@
 [2013-08-01 12:00:13] smccarthy, joining. (#ios-driver)
 [2013-08-01 12:08:52] admc1, joining. (#ios-driver)
 [2013-08-01 12:11:55] admc, quitting. (Ping timeout: 260 seconds)
+[2013-08-01 12:18:11] Brian__, quitting. (Quit: Connection closed for inactivity)
