@@ -20,3 +20,16 @@
 [2013-08-01 05:03:18] Krishnan: oh ok
 [2013-08-01 05:03:45] nicegraham: ^ you should document that on the wiki :)
 [2013-08-01 05:04:42] Krishnan: nicegraham : I would.. But I am scared of freynaud :) He strongly discourages it.. so am not sure if I would be doing the right thing :)
+[2013-08-01 05:05:07] nicegraham: it's something that has been asked before
+[2013-08-01 05:05:20] nicegraham: and we don't currently have a proper fix
+[2013-08-01 05:05:30] Krishnan: I was basically pressed against the wall, and had to complete my POC in my org.. we use self signed certs.. its going to be a herculean task for me to get my org to buy around 3000+ certs for all my test environments
+[2013-08-01 05:05:37] nicegraham: there's an issue on github in that area
+[2013-08-01 05:05:42] Krishnan: and am just this tiny amoeba in my org :)
+[2013-08-01 05:05:48] nicegraham: so even documenting it as a comment there
+[2013-08-01 05:06:04] nicegraham: when that issue get's closed the hack is no longer relevant
+[2013-08-01 05:06:10] Krishnan: oh is it.. Well I will definitely document it there for sure nicegraham
+[2013-08-01 05:06:11] nicegraham: and in the meantime that's how you get around it
+[2013-08-01 05:06:16] Krishnan: lemme do it right away
+[2013-08-01 05:06:50] nicegraham: https://github.com/ios-driver/ios-driver/issues/96
+[2013-08-01 05:08:14] Krishnan: Found it :)
+[2013-08-01 05:09:49] Krishnan: Done
