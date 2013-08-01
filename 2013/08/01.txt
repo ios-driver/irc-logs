@@ -11,3 +11,12 @@
 [2013-08-01 04:56:26] admc, quitting. (Ping timeout: 264 seconds)
 [2013-08-01 04:59:19] Krishnan, joining. (#ios-driver)
 [2013-08-01 04:59:42] Krishnan: Hi.. I had a quick question
+[2013-08-01 05:00:04] Krishnan: Does the IOSDriver take a screenshot of only the visible section on the simulator for a given webpage ?
+[2013-08-01 05:01:48] nicegraham: yes
+[2013-08-01 05:02:09] Krishnan: oh ok
+[2013-08-01 05:02:23] nicegraham: nirvdrum looked at that and I think he has a solution but it's not fast
+[2013-08-01 05:02:31] nicegraham: using js
+[2013-08-01 05:03:11] Krishnan: freynaud : Btw, I got past the certificate problem with a hack (which you had suggested to someone else).. Luke told me about it.. so i used executeScript() to load the URL, used Alert.accept() to accept the warning and ended up loading the URL :(
+[2013-08-01 05:03:18] Krishnan: oh ok
+[2013-08-01 05:03:45] nicegraham: ^ you should document that on the wiki :)
+[2013-08-01 05:04:42] Krishnan: nicegraham : I would.. But I am scared of freynaud :) He strongly discourages it.. so am not sure if I would be doing the right thing :)
