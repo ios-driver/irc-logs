@@ -154,3 +154,5 @@
 [2013-08-01 13:56:23] AutomatedTester, joining. (#ios-driver)
 [2013-08-01 13:56:33] ethanclose, quitting. (Remote host closed the connection)
 [2013-08-01 14:12:03] dawagner, quitting. (Quit: Leaving)
+[2013-08-01 14:17:14] Oscar_Rieken, quitting. (Ping timeout: 240 seconds)
+[2013-08-01 14:18:42] admc1, quitting. (Ping timeout: 256 seconds)
