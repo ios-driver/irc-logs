@@ -76,3 +76,4 @@
 [2013-08-01 09:28:32] admc, joining. (#ios-driver)
 [2013-08-01 09:33:02] admc, quitting. (Ping timeout: 264 seconds)
 [2013-08-01 09:42:10] arkmon_, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2013-08-01 09:59:25] admc, joining. (#ios-driver)
