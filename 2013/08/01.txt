@@ -69,3 +69,4 @@
 [2013-08-01 08:56:06] Krishnan, leaving. (#ios-driver)
 [2013-08-01 08:57:45] admc, joining. (#ios-driver)
 [2013-08-01 08:58:34] Oscar1, quitting. (Quit: Leaving.)
+[2013-08-01 09:01:58] admc, quitting. (Ping timeout: 240 seconds)
