@@ -171,3 +171,8 @@
 [2013-08-01 14:51:41] smccarthy, quitting. (Ping timeout: 248 seconds)
 [2013-08-01 15:36:04] santiycr, quitting. (Quit: Leaving.)
 [2013-08-01 15:49:18] ethanclose, joining. (#ios-driver)
+[2013-08-01 15:51:22] ethanclose: I am trying to perform an action on a UIASlider element and it seems to have been implemented. I've built the source and included the jars in my project, but I'm getting a class cast exception when I do this. I am just a little confused how to do this correctly. I'm learning java.
+[2013-08-01 15:51:31] ethanclose:         WebElement toSlide = driver.findElement(By.xpath("//UIAWindow[1]/UIASlider[1]"));
+[2013-08-01 15:51:31] ethanclose:         ((RemoteUIASlider)toSlide).dragToValue(1.0);
+[2013-08-01 15:53:31] ethanclose: Here's the exception if that helps: org.openqa.selenium.remote.RemoteWebElement cannot be cast to org.uiautomation.ios.client.uiamodels.impl.RemoteUIASlider
+[2013-08-01 15:54:08] nirvdrum, quitting. (Remote host closed the connection)
