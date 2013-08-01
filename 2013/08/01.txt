@@ -104,3 +104,16 @@
 [2013-08-01 13:30:57] nicegraham: https://github.com/nicegraham/ios-driver/tree/dev/server/src/test/java/org/uiautomation/ios/e2e/nativegestures
 [2013-08-01 13:31:51] nicegraham: I don't think we'd added it for 0.6.0 though so you'll need to be on a later version than that [0.6.1 or 0.6.2]
 [2013-08-01 13:32:46] nicegraham: dawagner: I don't know :(
+[2013-08-01 13:35:27] dawagner: hmm? I'm looking for a hook point for each view reload, does any come to mind?
+[2013-08-01 13:36:04] ethanclose: nicegraham: Thanks. I think I tried this, but will try again. I am not trying to do something in a webview though, and am just trying to simply touch the screen for now (swiping later). I will try again with flickIsideWithOptions, but suspect that I won't be able to cast a native window to a RemoteUIAWebView.
+[2013-08-01 13:36:37] nicegraham: you can just do the native action against the screen
+[2013-08-01 13:36:51] ethanclose: I don't understand.
+[2013-08-01 13:36:55] nicegraham: the handler doesn't care whether an element is passed or not
+[2013-08-01 13:37:09] nicegraham: you just want to tap?
+[2013-08-01 13:37:18] ethanclose: yes. for now. just a tap.
+[2013-08-01 13:39:03] ethanclose: I do this to get some element on the screen (it could be any element really):
+[2013-08-01 13:39:04] ethanclose:         WebElement toSingleTap = driver.findElement(By.xpath("//UIAWindow[1]/UIAImage[2]"));
+[2013-08-01 13:39:07] nicegraham: so I *think* just doing a click will do a native tap if you have it set to use native events
+[2013-08-01 13:39:19] ethanclose: click() didn't work.
+[2013-08-01 13:39:25] nicegraham: what happened?
+[2013-08-01 13:39:34] ethanclose: error. i don't remember the exact response.
