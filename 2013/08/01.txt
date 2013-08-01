@@ -170,3 +170,4 @@
 [2013-08-01 14:48:54] smccarthy2, joining. (#ios-driver)
 [2013-08-01 14:51:41] smccarthy, quitting. (Ping timeout: 248 seconds)
 [2013-08-01 15:36:04] santiycr, quitting. (Quit: Leaving.)
+[2013-08-01 15:49:18] ethanclose, joining. (#ios-driver)
