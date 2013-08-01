@@ -176,3 +176,5 @@
 [2013-08-01 15:51:31] ethanclose:         ((RemoteUIASlider)toSlide).dragToValue(1.0);
 [2013-08-01 15:53:31] ethanclose: Here's the exception if that helps: org.openqa.selenium.remote.RemoteWebElement cannot be cast to org.uiautomation.ios.client.uiamodels.impl.RemoteUIASlider
 [2013-08-01 15:54:08] nirvdrum, quitting. (Remote host closed the connection)
+[2013-08-01 15:55:07] nirvdrum, joining. (#ios-driver)
+[2013-08-01 15:56:01] ethanclose, quitting. (Remote host closed the connection)
