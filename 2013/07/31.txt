@@ -171,3 +171,4 @@
 [2013-07-31 15:42:11] smccarthy, quitting. (Remote host closed the connection)
 [2013-07-31 16:06:27] lukeis, quitting. (Quit: Leaving.)
 [2013-07-31 16:34:38] santiycr, quitting. (Quit: Leaving.)
+[2013-07-31 17:14:47] admc, quitting. (Quit: Leaving.)
