@@ -54,3 +54,4 @@
 [2013-08-01 06:35:28] Krishnan: I guess I will go with that
 [2013-08-01 06:54:49] admc, joining. (#ios-driver)
 [2013-08-01 06:59:41] admc, quitting. (Ping timeout: 264 seconds)
+[2013-08-01 07:24:27] Oscar1, joining. (#ios-driver)
