@@ -97,3 +97,7 @@
 [2013-08-01 13:04:09] dawagner, joining. (#ios-driver)
 [2013-08-01 13:16:28] nirvdrum, quitting. (Remote host closed the connection)
 [2013-08-01 13:20:38] ethanclose, joining. (#ios-driver)
+[2013-08-01 13:27:32] ethanclose: I've been trying out ios-driver for a few days and can't figure out how to send a basic touch event or swipe event to a native app. Any thoughts on this? Is ios-driver meant to do native app testing with gestures?
+[2013-08-01 13:28:45] ethanclose: It seems like there's support for TouchAction for webelements, not native elements.
+[2013-08-01 13:29:41] dawagner: Does anything at all call the public org.uiautomation.ios.server.DOMContext#onPageLoad method? I can't find anything which does
+[2013-08-01 13:29:43] nicegraham: ethanclose: yep, it's there
