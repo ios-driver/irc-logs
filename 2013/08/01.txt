@@ -40,3 +40,4 @@
 [2013-08-01 05:11:14] nicegraham: it's all a help
 [2013-08-01 05:11:19] Krishnan: yeah..
 [2013-08-01 05:22:16] admc, joining. (#ios-driver)
+[2013-08-01 05:26:31] admc, quitting. (Ping timeout: 240 seconds)
