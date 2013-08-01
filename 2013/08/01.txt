@@ -94,3 +94,4 @@
 [2013-08-01 12:27:29] nirvdrum: Sorry.  I've had laptop issues and been busy migrating off EC2.
 [2013-08-01 12:27:52] nirvdrum: And I had a lot of people bugging me on IRC the week prior, so I went silent :-P
 [2013-08-01 12:28:20] nicegraham: no worries :)
+[2013-08-01 13:04:09] dawagner, joining. (#ios-driver)
