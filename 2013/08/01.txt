@@ -62,3 +62,4 @@
 [2013-08-01 07:32:26] Oscar1, joining. (#ios-driver)
 [2013-08-01 07:56:27] admc, joining. (#ios-driver)
 [2013-08-01 08:00:31] admc, quitting. (Ping timeout: 240 seconds)
+[2013-08-01 08:26:51] admc, joining. (#ios-driver)
