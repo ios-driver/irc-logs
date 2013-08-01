@@ -156,3 +156,9 @@
 [2013-08-01 14:12:03] dawagner, quitting. (Quit: Leaving)
 [2013-08-01 14:17:14] Oscar_Rieken, quitting. (Ping timeout: 240 seconds)
 [2013-08-01 14:18:42] admc1, quitting. (Ping timeout: 256 seconds)
+[2013-08-01 14:20:04] ethanclose, joining. (#ios-driver)
+[2013-08-01 14:20:38] ethanclose: nicegraham: you were right. I was getting a stale element exception trying to click. The element was hidden. So I tried just clicking the window[1] element and it worked. Now on to swiping. Thank you again.
+[2013-08-01 14:21:11] ethanclose: WebElement toSingleTap = driver.findElement(By.xpath("//UIAWindow[1]"));
+[2013-08-01 14:21:11] ethanclose: toSingleTap.click();
+[2013-08-01 14:21:49] admc, joining. (#ios-driver)
+[2013-08-01 14:24:28] ethanclose, quitting. (Remote host closed the connection)
