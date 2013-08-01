@@ -50,3 +50,5 @@
 [2013-08-01 06:30:36] Krishnan: I have a generic question.
 [2013-08-01 06:30:48] Krishnan: Not sure if it makes sense asking here...
 [2013-08-01 06:31:32] Krishnan: If I wanted to create a new driver such as IOSDriver is there any documented process on learning how to go about doing it.. ? I know that all WebDrivers follow the JSONWireProtocol... but my knowledge begins and ends there :(
+[2013-08-01 06:35:24] Krishnan: http://code.google.com/p/selenium/wiki/WritingNewDrivers for now I found this
+[2013-08-01 06:35:28] Krishnan: I guess I will go with that
