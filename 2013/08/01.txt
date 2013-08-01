@@ -7,3 +7,4 @@
 [2013-08-01 04:47:35] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/Q85l5g
 [2013-08-01 04:47:35] ios-driver-git, leaving. (#ios-driver)
 [2013-08-01 04:47:35] ios-driver-git: ios-driver/dev 6347a98 Graham Abell: adding crash detection on the server side and a crash test. This exception does not make it back to the client currently.
+[2013-08-01 04:51:24] admc, joining. (#ios-driver)
