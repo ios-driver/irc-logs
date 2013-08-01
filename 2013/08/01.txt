@@ -72,3 +72,4 @@
 [2013-08-01 09:01:58] admc, quitting. (Ping timeout: 240 seconds)
 [2013-08-01 09:10:55] Oscar, joining. (#ios-driver)
 [2013-08-01 09:10:55] Oscar, changing nick to Oscar_Rieken.
+[2013-08-01 09:16:50] santiycr, joining. (#ios-driver)
