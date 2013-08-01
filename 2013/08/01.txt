@@ -3,3 +3,7 @@
 [2013-08-01 03:44:02] admc, quitting. (Quit: Leaving.)
 [2013-08-01 04:14:45] admc, joining. (#ios-driver)
 [2013-08-01 04:24:02] admc, quitting. (Ping timeout: 264 seconds)
+[2013-08-01 04:47:35] ios-driver-git, joining. (#ios-driver)
+[2013-08-01 04:47:35] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/Q85l5g
+[2013-08-01 04:47:35] ios-driver-git, leaving. (#ios-driver)
+[2013-08-01 04:47:35] ios-driver-git: ios-driver/dev 6347a98 Graham Abell: adding crash detection on the server side and a crash test. This exception does not make it back to the client currently.
