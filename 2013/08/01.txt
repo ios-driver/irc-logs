@@ -139,3 +139,13 @@
 [2013-08-01 13:49:40] nicegraham: or the element found may be off screen
 [2013-08-01 13:49:53] ethanclose: yes. good points.
 [2013-08-01 13:49:56] nicegraham: in which case I'm not sure if it will automatically scroll in to view
+[2013-08-01 13:50:03] nicegraham: you're on us time?
+[2013-08-01 13:50:10] ethanclose: yes. Pacific.
+[2013-08-01 13:50:18] nicegraham: long time away :)
+[2013-08-01 13:50:23] ethanclose: you?
+[2013-08-01 13:50:28] nicegraham: gmt
+[2013-08-01 13:50:51] ethanclose: have a nice night.
+[2013-08-01 13:50:51] nicegraham: what you're doing is basic stuff, and the swipe etc works too - we're using it every day
+[2013-08-01 13:50:59] nicegraham: so I think it's just something simple
+[2013-08-01 13:51:03] nicegraham: thanks
+[2013-08-01 13:51:15] ethanclose: that's great to hear. I hope it is something simple.
