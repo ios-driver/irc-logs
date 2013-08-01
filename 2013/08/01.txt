@@ -33,3 +33,9 @@
 [2013-08-01 05:06:50] nicegraham: https://github.com/ios-driver/ios-driver/issues/96
 [2013-08-01 05:08:14] Krishnan: Found it :)
 [2013-08-01 05:09:49] Krishnan: Done
+[2013-08-01 05:10:03] nicegraham: good man - your first ios-driver contribution?!
+[2013-08-01 05:10:38] Krishnan: Lol :) yeah... wish I can do more than just put in a comment in a bug nicegraham :)
+[2013-08-01 05:10:41] Krishnan: But yep.. its a start
+[2013-08-01 05:11:09] Krishnan: I managed to put a bug fix in TestNG.. lets see when do I get to do it in IOSDriver/WebDriver :) Its a long standing ambition
+[2013-08-01 05:11:14] nicegraham: it's all a help
+[2013-08-01 05:11:19] Krishnan: yeah..
