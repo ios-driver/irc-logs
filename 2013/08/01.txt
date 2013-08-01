@@ -162,3 +162,6 @@
 [2013-08-01 14:21:11] ethanclose: toSingleTap.click();
 [2013-08-01 14:21:49] admc, joining. (#ios-driver)
 [2013-08-01 14:24:28] ethanclose, quitting. (Remote host closed the connection)
+[2013-08-01 14:26:43] admc, quitting. (Ping timeout: 264 seconds)
+[2013-08-01 14:27:37] admc, joining. (#ios-driver)
+[2013-08-01 14:28:04] admc, quitting. (Remote host closed the connection)
