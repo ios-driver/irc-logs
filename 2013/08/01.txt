@@ -181,3 +181,4 @@
 [2013-08-01 16:02:50] ethanclose, joining. (#ios-driver)
 [2013-08-01 16:05:26] lukeis, leaving. (#ios-driver)
 [2013-08-01 16:05:32] ethanclose, quitting. (Client Quit)
+[2013-08-01 16:15:02] nirvdrum, quitting. (Ping timeout: 264 seconds)
