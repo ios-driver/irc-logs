@@ -117,3 +117,10 @@
 [2013-08-01 13:39:19] ethanclose: click() didn't work.
 [2013-08-01 13:39:25] nicegraham: what happened?
 [2013-08-01 13:39:34] ethanclose: error. i don't remember the exact response.
+[2013-08-01 13:40:09] ethanclose: how do I "set to use native events"?? Maybe that's my problem.
+[2013-08-01 13:41:05] nicegraham: https://github.com/nicegraham/ios-driver/blob/dev/server/src/main/java/org/uiautomation/ios/server/CommandMapping.java#L125
+[2013-08-01 13:41:28] nicegraham: so there, if it's a native element it does the native .tap()
+[2013-08-01 13:42:31] nicegraham: the native events is only relevant for a webview
+[2013-08-01 13:42:40] nicegraham: or webpage
+[2013-08-01 13:43:04] nicegraham: so .click() should work
+[2013-08-01 13:43:21] nicegraham: if it doesn't you'll have to give us some more info
