@@ -124,3 +124,18 @@
 [2013-08-01 13:42:40] nicegraham: or webpage
 [2013-08-01 13:43:04] nicegraham: so .click() should work
 [2013-08-01 13:43:21] nicegraham: if it doesn't you'll have to give us some more info
+[2013-08-01 13:45:14] ethanclose: I think I may be mis-using the term "native". I just have a simple ios app and I'd like to tap anywhere on the screen. So, I pick any image and call .click(). Maybe I should pick the window or try some other elements? Eventually, I'm going to need to swipe from x,y to x1, y1. There are no webviews, no jQuery (which I saw several posts about). I feel like I'm missing some huge piece of the puzzle.
+[2013-08-01 13:45:25] ethanclose: I was able to get this to work in appium doing this:
+[2013-08-01 13:45:52] ethanclose:         WebElement toSingleTap = driver.findElement(By.xpath("//UIAWindow[1]/UIAImage[2]"));
+[2013-08-01 13:45:53] ethanclose:         HashMap<String, Double> tapObject = new HashMap<String, Double>();
+[2013-08-01 13:45:53] ethanclose:         tapObject.put("x", new Double("250")); // in pixels from left
+[2013-08-01 13:45:54] ethanclose:         tapObject.put("y", new Double("250")); // in pixels from top
+[2013-08-01 13:45:56] ethanclose:         js.executeScript("tap", tapObject);
+[2013-08-01 13:46:40] nicegraham: ok, but that's not interacting with the element, you're just clicking at an x,y
+[2013-08-01 13:46:59] nicegraham: so, are you sure the toSingleElement locator is working/
+[2013-08-01 13:47:00] nicegraham: ?
+[2013-08-01 13:49:15] ethanclose: Ah, good point. The element isn't even part of the call in my example. I'm going to try a few more things and come back with some specific errors. Thank you very much for your help.
+[2013-08-01 13:49:30] nicegraham: no problem - it could be the locator is wrong
+[2013-08-01 13:49:40] nicegraham: or the element found may be off screen
+[2013-08-01 13:49:53] ethanclose: yes. good points.
+[2013-08-01 13:49:56] nicegraham: in which case I'm not sure if it will automatically scroll in to view
