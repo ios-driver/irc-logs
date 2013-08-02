@@ -49,3 +49,8 @@
 [2013-08-02 06:33:05] ios-driver-git: [ios-driver] nicegraham tagged 0.6.2 at dev: http://git.io/_1l-sQ
 [2013-08-02 06:33:05] ios-driver-git, leaving. (#ios-driver)
 [2013-08-02 06:34:28] arkmon_, joining. (#ios-driver)
+[2013-08-02 06:38:06] ios-driver-git, joining. (#ios-driver)
+[2013-08-02 06:38:07] ios-driver-git: [ios-driver] nicegraham pushed 2 new commits to dev: http://git.io/3avzFQ
+[2013-08-02 06:38:07] ios-driver-git: ios-driver/dev 73b39b7 Graham Abell: reverting hack for 0.6.2 release not allowing beta
+[2013-08-02 06:38:07] ios-driver-git: ios-driver/dev 05cfa5d Graham Abell: updating version numbers to 0.6.3-SNAPSHOT
+[2013-08-02 06:38:07] ios-driver-git, leaving. (#ios-driver)
