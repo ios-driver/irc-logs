@@ -88,3 +88,8 @@
 [2013-08-02 09:38:09] nicegraham: Hope do I do that?
 [2013-08-02 09:38:10] lukeis: nicegraham:  "/msg nickserv register <password> <email>"  <- will register your current nickname
 [2013-08-02 09:39:46] lukeis: to learn more about some IRC things… "/msg nickserv help" and also "/msg chanserv help"
+[2013-08-02 09:40:08] nicegraham: Think I've done it...
+[2013-08-02 09:40:11] lukeis: cool
+[2013-08-02 09:40:50] lukeis: "/msg chanserv flags #ios-driver"
+[2013-08-02 09:41:31] ethanclose: good morning nicegraham. thanks for your help yesterday. tap works. the element was hidden.
+[2013-08-02 09:41:40] lukeis: nicegraham: then try to 'op' yourself… "/msg chanserv op #ios-driver"
