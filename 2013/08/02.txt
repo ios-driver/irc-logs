@@ -139,3 +139,4 @@
 [2013-08-02 14:43:32] smccarthy, joining. (#ios-driver)
 [2013-08-02 15:04:47] lukeis, quitting. (Quit: Leaving.)
 [2013-08-02 15:22:58] santiycr, quitting. (Quit: Leaving.)
+[2013-08-02 15:31:30] smccarthy, quitting. (Remote host closed the connection)
