@@ -191,3 +191,4 @@
 [2013-08-01 19:56:48] ethanclose, quitting. (Remote host closed the connection)
 [2013-08-01 20:15:43] ethanclose, joining. (#ios-driver)
 [2013-08-01 20:20:24] ethanclose, quitting. (Ping timeout: 264 seconds)
+[2013-08-01 21:10:11] ethanclose, joining. (#ios-driver)
