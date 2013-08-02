@@ -99,3 +99,4 @@
 [2013-08-02 09:53:50] lukeis: you can also /kick or /ban people if need be ;)
 [2013-08-02 09:54:19] ethanclose, joining. (#ios-driver)
 [2013-08-02 09:54:26] ethanclose, quitting. (Remote host closed the connection)
+[2013-08-02 09:55:59] nirvdrum, joining. (#ios-driver)
