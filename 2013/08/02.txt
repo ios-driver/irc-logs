@@ -101,3 +101,4 @@
 [2013-08-02 09:54:26] ethanclose, quitting. (Remote host closed the connection)
 [2013-08-02 09:55:59] nirvdrum, joining. (#ios-driver)
 [2013-08-02 10:04:18] nirvdrum, quitting. (Ping timeout: 245 seconds)
+[2013-08-02 10:17:31] nirvdrum, joining. (#ios-driver)
