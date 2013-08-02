@@ -3,3 +3,11 @@
 [2013-08-02 01:24:36] ethanclose, quitting. (Ping timeout: 264 seconds)
 [2013-08-02 01:26:12] freynaud, quitting. (Ping timeout: 260 seconds)
 [2013-08-02 01:29:21] dgrace: ethanclose: hiya, RemoteUIASlider was implemented in this commit - https://github.com/ios-driver/ios-driver/commit/21a0f2e346d0d8f1c14bcbf9d141425501161945 - Maybe take down the latest and give it a try. I've just checked it here and it works fine (tried on uiacatalog.app)
+[2013-08-02 01:43:45] ios-driver-git, joining. (#ios-driver)
+[2013-08-02 01:43:45] ios-driver-git, leaving. (#ios-driver)
+[2013-08-02 01:43:45] ios-driver-git: ios-driver/dev 0150db2 Francois Reynaud: Merge branch 'dev' of github.com:ios-driver/ios-driver into dev
+[2013-08-02 01:43:45] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to dev: http://git.io/IxWB0Q
+[2013-08-02 01:43:46] ios-driver-git: ios-driver/dev c24b376 Francois Reynaud: Merge branch 'dev' into inspector_cleanup
+[2013-08-02 01:44:05] ios-driver-git, joining. (#ios-driver)
+[2013-08-02 01:44:06] ios-driver-git, leaving. (#ios-driver)
+[2013-08-02 01:44:06] ios-driver-git: [ios-driver] freynaud deleted inspector_cleanup at d148620: http://git.io/wWlBLQ
