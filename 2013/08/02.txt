@@ -45,3 +45,7 @@
 [2013-08-02 06:28:43] ios-driver-git: ios-driver/dev 58c3867 Graham Abell: update to crash tests
 [2013-08-02 06:28:43] ios-driver-git, leaving. (#ios-driver)
 [2013-08-02 06:28:43] ios-driver-git: ios-driver/dev e87b1dd Graham Abell: Merge branch 'dev' of github.com:ios-driver/ios-driver into dev
+[2013-08-02 06:33:05] ios-driver-git, joining. (#ios-driver)
+[2013-08-02 06:33:05] ios-driver-git: [ios-driver] nicegraham tagged 0.6.2 at dev: http://git.io/_1l-sQ
+[2013-08-02 06:33:05] ios-driver-git, leaving. (#ios-driver)
+[2013-08-02 06:34:28] arkmon_, joining. (#ios-driver)
