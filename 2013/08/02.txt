@@ -1,1 +1,3 @@
 [2013-08-02 01:09:57] nicegraham, joining. (#ios-driver)
+[2013-08-02 01:20:13] ethanclose, joining. (#ios-driver)
+[2013-08-02 01:24:36] ethanclose, quitting. (Ping timeout: 264 seconds)
