@@ -33,3 +33,4 @@
 [2013-08-02 04:20:44] freynaud: they don't lock it down.
 [2013-08-02 04:21:08] freynaud: but they make mac os look like anything but macos
 [2013-08-02 04:21:34] freynaud: and I don't really want to debug the "but it worked on my machine" if I have a non standard os
+[2013-08-02 05:21:47] ethanclose, joining. (#ios-driver)
