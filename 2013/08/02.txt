@@ -21,3 +21,5 @@
 [2013-08-02 03:25:48] ethanclose, quitting. (Ping timeout: 264 seconds)
 [2013-08-02 04:00:18] freynaud: .
 [2013-08-02 04:02:20] nicegraham: ..
+[2013-08-02 04:08:37] freynaud: just checking my network
+[2013-08-02 04:08:42] freynaud: ignore :)
