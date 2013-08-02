@@ -39,3 +39,9 @@
 [2013-08-02 05:56:46] nicegraham: ugh, we use the standard build on both
 [2013-08-02 05:56:57] nicegraham: except group policy does it's thing on windows
 [2013-08-02 06:05:12] ethanclose, quitting. (Remote host closed the connection)
+[2013-08-02 06:28:43] ios-driver-git, joining. (#ios-driver)
+[2013-08-02 06:28:43] ios-driver-git: [ios-driver] nicegraham pushed 6 new commits to dev: http://git.io/YewRNg
+[2013-08-02 06:28:43] ios-driver-git: ios-driver/dev 79edf2d Graham Abell: update to the crash handling
+[2013-08-02 06:28:43] ios-driver-git: ios-driver/dev 58c3867 Graham Abell: update to crash tests
+[2013-08-02 06:28:43] ios-driver-git, leaving. (#ios-driver)
+[2013-08-02 06:28:43] ios-driver-git: ios-driver/dev e87b1dd Graham Abell: Merge branch 'dev' of github.com:ios-driver/ios-driver into dev
