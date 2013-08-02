@@ -82,3 +82,5 @@
 [2013-08-02 09:13:46] lukeis, joining. (#ios-driver)
 [2013-08-02 09:25:41] nirvdrum, quitting. (Remote host closed the connection)
 [2013-08-02 09:28:51] ethanclose, joining. (#ios-driver)
+[2013-08-02 09:30:58] lukeis: nicegraham: i see we have another release :) nice work
+[2013-08-02 09:31:17] lukeis: you should update the topic in this channel ;)
