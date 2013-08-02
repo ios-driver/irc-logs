@@ -93,3 +93,4 @@
 [2013-08-02 09:40:50] lukeis: "/msg chanserv flags #ios-driver"
 [2013-08-02 09:41:31] ethanclose: good morning nicegraham. thanks for your help yesterday. tap works. the element was hidden.
 [2013-08-02 09:41:40] lukeis: nicegraham: then try to 'op' yourself… "/msg chanserv op #ios-driver"
+[2013-08-02 09:46:45] nicegraham: Cool, I'm op-ed
