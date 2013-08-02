@@ -54,3 +54,7 @@
 [2013-08-02 06:38:07] ios-driver-git: ios-driver/dev 73b39b7 Graham Abell: reverting hack for 0.6.2 release not allowing beta
 [2013-08-02 06:38:07] ios-driver-git: ios-driver/dev 05cfa5d Graham Abell: updating version numbers to 0.6.3-SNAPSHOT
 [2013-08-02 06:38:07] ios-driver-git, leaving. (#ios-driver)
+[2013-08-02 06:56:41] ios-driver-git, joining. (#ios-driver)
+[2013-08-02 06:56:41] ios-driver-git, leaving. (#ios-driver)
+[2013-08-02 06:56:41] ios-driver-git: ios-driver/dev 6e85b41 Graham Abell: updating libimobiel reference to correct branch
+[2013-08-02 06:56:41] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/dxgyIw
