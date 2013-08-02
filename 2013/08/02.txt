@@ -19,3 +19,5 @@
 [2013-08-02 03:04:18] ethanclose, quitting. (Ping timeout: 245 seconds)
 [2013-08-02 03:21:18] ethanclose, joining. (#ios-driver)
 [2013-08-02 03:25:48] ethanclose, quitting. (Ping timeout: 264 seconds)
+[2013-08-02 04:00:18] freynaud: .
+[2013-08-02 04:02:20] nicegraham: ..
