@@ -106,3 +106,7 @@
 [2013-08-02 10:33:30] arkmon_, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2013-08-02 10:35:09] ethanclose, quitting. (Ping timeout: 248 seconds)
 [2013-08-02 10:41:27] nirvdrum, quitting. (Remote host closed the connection)
+[2013-08-02 11:23:11] ethanclose, joining. (#ios-driver)
+[2013-08-02 11:23:11] ethanclose, quitting. (Remote host closed the connection)
+[2013-08-02 11:23:21] ethanclose, joining. (#ios-driver)
+[2013-08-02 11:23:58] ethanclose, quitting. (Remote host closed the connection)
