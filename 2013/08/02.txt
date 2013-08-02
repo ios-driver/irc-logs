@@ -75,3 +75,4 @@
 [2013-08-02 08:05:17] ethanclose, joining. (#ios-driver)
 [2013-08-02 08:06:45] ethanclose, quitting. (Remote host closed the connection)
 [2013-08-02 08:09:38] ethanclose, joining. (#ios-driver)
+[2013-08-02 08:11:32] ethanclose, quitting. (Remote host closed the connection)
