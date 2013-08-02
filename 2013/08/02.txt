@@ -125,3 +125,6 @@
 [2013-08-02 12:15:20] lukeis, quitting. (Ping timeout: 260 seconds)
 [2013-08-02 12:17:20] lukeis1, quitting. (Ping timeout: 256 seconds)
 [2013-08-02 12:20:26] freynaud, quitting. (*.net *.split)
+[2013-08-02 12:26:22] lukeis, joining. (#ios-driver)
+[2013-08-02 12:28:52] nirvdrum, quitting. (Ping timeout: 260 seconds)
+[2013-08-02 12:29:24] lukeis2, quitting. (Ping timeout: 264 seconds)
