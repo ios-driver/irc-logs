@@ -58,3 +58,6 @@
 [2013-08-02 06:56:41] ios-driver-git, leaving. (#ios-driver)
 [2013-08-02 06:56:41] ios-driver-git: ios-driver/dev 6e85b41 Graham Abell: updating libimobiel reference to correct branch
 [2013-08-02 06:56:41] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/dxgyIw
+[2013-08-02 07:21:41] ethanclose, joining. (#ios-driver)
+[2013-08-02 07:22:27] dgrace, quitting. (Ping timeout: 246 seconds)
+[2013-08-02 07:22:45] ethanclo_, joining. (#ios-driver)
