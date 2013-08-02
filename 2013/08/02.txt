@@ -104,3 +104,4 @@
 [2013-08-02 10:17:31] nirvdrum, joining. (#ios-driver)
 [2013-08-02 10:30:41] ethanclose, joining. (#ios-driver)
 [2013-08-02 10:33:30] arkmon_, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2013-08-02 10:35:09] ethanclose, quitting. (Ping timeout: 248 seconds)
