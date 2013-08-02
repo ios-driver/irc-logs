@@ -17,3 +17,4 @@
 [2013-08-02 03:00:26] freynaud: ethanclose: Hi
 [2013-08-02 03:00:33] freynaud: did you solve your cast issue yesterday ?
 [2013-08-02 03:04:18] ethanclose, quitting. (Ping timeout: 245 seconds)
+[2013-08-02 03:21:18] ethanclose, joining. (#ios-driver)
