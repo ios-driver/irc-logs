@@ -35,3 +35,4 @@
 [2013-08-02 04:21:34] freynaud: and I don't really want to debug the "but it worked on my machine" if I have a non standard os
 [2013-08-02 05:21:47] ethanclose, joining. (#ios-driver)
 [2013-08-02 05:25:58] ethanclose, quitting. (Ping timeout: 245 seconds)
+[2013-08-02 05:49:12] ethanclose, joining. (#ios-driver)
