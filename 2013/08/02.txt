@@ -130,3 +130,5 @@
 [2013-08-02 12:29:24] lukeis2, quitting. (Ping timeout: 264 seconds)
 [2013-08-02 12:35:06] lukeis, quitting. (Quit: Leaving.)
 [2013-08-02 12:43:27] lukeis, joining. (#ios-driver)
+[2013-08-02 12:58:59] smccarthy2, joining. (#ios-driver)
+[2013-08-02 12:59:02] smccarthy2, quitting. (Remote host closed the connection)
