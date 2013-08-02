@@ -143,3 +143,4 @@
 [2013-08-02 16:00:37] ios-driver-git, joining. (#ios-driver)
 [2013-08-02 16:00:37] ios-driver-git, leaving. (#ios-driver)
 [2013-08-02 16:00:37] ios-driver-git: [ios-driver] heffernan opened pull request #100: Added "performance" log. (dev...topic/perflog)  http://git.io/fDHxcQ
+[2013-08-02 16:23:18] nirvdrum, quitting. (Remote host closed the connection)
