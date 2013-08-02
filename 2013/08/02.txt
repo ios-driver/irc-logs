@@ -64,3 +64,4 @@
 [2013-08-02 07:25:52] dgrace, joining. (#ios-driver)
 [2013-08-02 07:26:33] ethanclose, quitting. (Ping timeout: 276 seconds)
 [2013-08-02 07:27:51] ethanclo_, quitting. (Ping timeout: 276 seconds)
+[2013-08-02 07:37:29] nirvdrum, joining. (#ios-driver)
