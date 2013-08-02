@@ -11,3 +11,5 @@
 [2013-08-02 01:44:05] ios-driver-git, joining. (#ios-driver)
 [2013-08-02 01:44:06] ios-driver-git, leaving. (#ios-driver)
 [2013-08-02 01:44:06] ios-driver-git: [ios-driver] freynaud deleted inspector_cleanup at d148620: http://git.io/wWlBLQ
+[2013-08-02 02:00:43] freynaud, joining. (#ios-driver)
+[2013-08-02 02:00:44] freynaud: did you write test for the app crash ?
