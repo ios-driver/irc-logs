@@ -129,3 +129,4 @@
 [2013-08-02 12:28:52] nirvdrum, quitting. (Ping timeout: 260 seconds)
 [2013-08-02 12:29:24] lukeis2, quitting. (Ping timeout: 264 seconds)
 [2013-08-02 12:35:06] lukeis, quitting. (Quit: Leaving.)
+[2013-08-02 12:43:27] lukeis, joining. (#ios-driver)
