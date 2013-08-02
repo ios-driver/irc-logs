@@ -94,3 +94,8 @@
 [2013-08-02 09:41:31] ethanclose: good morning nicegraham. thanks for your help yesterday. tap works. the element was hidden.
 [2013-08-02 09:41:40] lukeis: nicegraham: then try to 'op' yourself… "/msg chanserv op #ios-driver"
 [2013-08-02 09:46:45] nicegraham: Cool, I'm op-ed
+[2013-08-02 09:50:44] ethanclose, quitting. (Remote host closed the connection)
+[2013-08-02 09:53:29] lukeis: nicegraham: now you can update the topic… "/topic whatever nicegraham wants it to be"
+[2013-08-02 09:53:50] lukeis: you can also /kick or /ban people if need be ;)
+[2013-08-02 09:54:19] ethanclose, joining. (#ios-driver)
+[2013-08-02 09:54:26] ethanclose, quitting. (Remote host closed the connection)
