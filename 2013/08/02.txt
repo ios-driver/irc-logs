@@ -84,3 +84,7 @@
 [2013-08-02 09:28:51] ethanclose, joining. (#ios-driver)
 [2013-08-02 09:30:58] lukeis: nicegraham: i see we have another release :) nice work
 [2013-08-02 09:31:17] lukeis: you should update the topic in this channel ;)
+[2013-08-02 09:35:54] lukeis: nicegraham: register your nick please!!!  otherwise I could be talking to *anybody* (and I can't give you rights to update the channel topic until you do)
+[2013-08-02 09:38:09] nicegraham: Hope do I do that?
+[2013-08-02 09:38:10] lukeis: nicegraham:  "/msg nickserv register <password> <email>"  <- will register your current nickname
+[2013-08-02 09:39:46] lukeis: to learn more about some IRC things… "/msg nickserv help" and also "/msg chanserv help"
