@@ -110,3 +110,5 @@
 [2013-08-02 11:23:11] ethanclose, quitting. (Remote host closed the connection)
 [2013-08-02 11:23:21] ethanclose, joining. (#ios-driver)
 [2013-08-02 11:23:58] ethanclose, quitting. (Remote host closed the connection)
+[2013-08-02 11:36:00] nirvdrum, joining. (#ios-driver)
+[2013-08-02 11:37:25] nirvdrum, quitting. (Remote host closed the connection)
