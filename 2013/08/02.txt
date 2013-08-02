@@ -1,3 +1,5 @@
 [2013-08-02 01:09:57] nicegraham, joining. (#ios-driver)
 [2013-08-02 01:20:13] ethanclose, joining. (#ios-driver)
 [2013-08-02 01:24:36] ethanclose, quitting. (Ping timeout: 264 seconds)
+[2013-08-02 01:26:12] freynaud, quitting. (Ping timeout: 260 seconds)
+[2013-08-02 01:29:21] dgrace: ethanclose: hiya, RemoteUIASlider was implemented in this commit - https://github.com/ios-driver/ios-driver/commit/21a0f2e346d0d8f1c14bcbf9d141425501161945 - Maybe take down the latest and give it a try. I've just checked it here and it works fine (tried on uiacatalog.app)
