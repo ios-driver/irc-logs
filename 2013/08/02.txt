@@ -38,3 +38,4 @@
 [2013-08-02 05:49:12] ethanclose, joining. (#ios-driver)
 [2013-08-02 05:56:46] nicegraham: ugh, we use the standard build on both
 [2013-08-02 05:56:57] nicegraham: except group policy does it's thing on windows
+[2013-08-02 06:05:12] ethanclose, quitting. (Remote host closed the connection)
