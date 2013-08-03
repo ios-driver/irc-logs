@@ -19,3 +19,4 @@
 [2013-08-03 11:46:37] smccarthy, quitting. (Remote host closed the connection)
 [2013-08-03 11:58:32] admc1, quitting. (Ping timeout: 240 seconds)
 [2013-08-03 13:38:27] nirvdrum, joining. (#ios-driver)
+[2013-08-03 16:03:06] nirvdrum, quitting. (Remote host closed the connection)
