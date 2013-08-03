@@ -8,3 +8,4 @@
 [2013-08-03 04:00:28] admc1, quitting. (Client Quit)
 [2013-08-03 04:00:52] admc1, joining. (#ios-driver)
 [2013-08-03 04:01:37] admc1, quitting. (Client Quit)
+[2013-08-03 04:14:04] admc1, joining. (#ios-driver)
