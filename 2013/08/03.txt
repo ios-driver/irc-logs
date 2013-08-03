@@ -21,3 +21,4 @@
 [2013-08-03 13:38:27] nirvdrum, joining. (#ios-driver)
 [2013-08-03 16:03:06] nirvdrum, quitting. (Remote host closed the connection)
 [2013-08-03 16:07:17] nirvdrum, joining. (#ios-driver)
+[2013-08-03 16:22:33] nirvdrum, quitting. (Remote host closed the connection)
