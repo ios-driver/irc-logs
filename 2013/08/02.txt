@@ -150,3 +150,4 @@
 [2013-08-02 17:38:34] nirvdrum, joining. (#ios-driver)
 [2013-08-02 18:31:41] nirvdrum, quitting. (Remote host closed the connection)
 [2013-08-02 21:17:11] smccarthy, quitting. (Remote host closed the connection)
+[2013-08-02 21:31:49] ethanclose, joining. (#ios-driver)
