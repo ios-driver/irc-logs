@@ -2,3 +2,5 @@
 [2013-08-03 02:18:06] admc1, quitting. (Quit: Leaving.)
 [2013-08-03 02:21:02] admc1, joining. (#ios-driver)
 [2013-08-03 03:17:54] admc1, quitting. (Quit: Leaving.)
+[2013-08-03 03:30:02] admc1, joining. (#ios-driver)
+[2013-08-03 03:31:04] admc1, quitting. (Client Quit)
