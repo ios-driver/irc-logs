@@ -1,0 +1,12 @@
+[2013-08-04 02:36:02] freynaud: nicegraham: the next push will have a LOT of refactored code around instruments etc
+[2013-08-04 02:36:26] nicegraham: are you still at it?
+[2013-08-04 02:37:01] freynaud: yes.
+[2013-08-04 02:37:23] nicegraham: is how we interact with simulators changing too or just real devices?
+[2013-08-04 02:37:33] freynaud: instruments manager is a mix of the instruments process, the real device vs simulator code, and the communication to instruments
+[2013-08-04 02:37:55] freynaud: those 3 things have 2 possible implementation each
+[2013-08-04 02:38:03] freynaud: and will be moved to separate classes
+[2013-08-04 02:39:13] nicegraham: will the new implementation and the workshop next week get us any closer to >1 session at a time?
+[2013-08-04 02:39:14] freynaud: that will impact you
+[2013-08-04 02:39:33] nicegraham: for the crash stuff?
+[2013-08-04 02:39:36] freynaud: the > 1 session for rela device won't be an issue
+[2013-08-04 02:39:56] freynaud: yes, for the crash stuff, when the app on the real device or on simulator crash
