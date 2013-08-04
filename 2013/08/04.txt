@@ -47,3 +47,4 @@
 [2013-08-04 12:54:03] arkmon_, quitting. (Quit: ZZZzzz…)
 [2013-08-04 13:15:06] arkmon_, joining. (#ios-driver)
 [2013-08-04 13:17:56] arkmon_, quitting. (Client Quit)
+[2013-08-04 13:22:58] arkmon_, joining. (#ios-driver)
