@@ -50,3 +50,4 @@
 [2013-08-04 13:22:58] arkmon_, joining. (#ios-driver)
 [2013-08-04 13:26:24] arkmon_, quitting. (Client Quit)
 [2013-08-04 13:30:32] arkmon_, joining. (#ios-driver)
+[2013-08-04 15:09:04] arkmon_, quitting. (Quit: ZZZzzz…)
