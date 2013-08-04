@@ -53,3 +53,4 @@
 [2013-08-04 15:09:04] arkmon_, quitting. (Quit: ZZZzzz…)
 [2013-08-04 15:29:15] arkmon_, joining. (#ios-driver)
 [2013-08-04 15:29:23] arkmon_, quitting. (Remote host closed the connection)
+[2013-08-04 16:54:12] smccarthy, quitting. (Remote host closed the connection)
