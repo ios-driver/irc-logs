@@ -10,3 +10,12 @@
 [2013-08-04 02:39:33] nicegraham: for the crash stuff?
 [2013-08-04 02:39:36] freynaud: the > 1 session for rela device won't be an issue
 [2013-08-04 02:39:56] freynaud: yes, for the crash stuff, when the app on the real device or on simulator crash
+[2013-08-04 02:40:06] freynaud: you should do a interface.cleanup()
+[2013-08-04 02:40:13] freynaud: and not have to care too much
+[2013-08-04 02:40:27] nicegraham: yeah, I should probably wait for your changes at this stage
+[2013-08-04 02:40:50] freynaud: for >1 sim still depends on understanding how the simulator gets his orders from instruments
+[2013-08-04 02:41:03] freynaud: and that I have no clue
+[2013-08-04 02:41:23] nicegraham: it just needs to have access to the IosServerManager to actually clean down the session
+[2013-08-04 02:41:34] nicegraham: does the libimobile guy know?
+[2013-08-04 02:41:43] nicegraham: or fb?
+[2013-08-04 02:42:53] nicegraham: did you see the pr from michaels intern adding the performance logging?
