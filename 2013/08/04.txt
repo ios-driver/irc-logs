@@ -37,3 +37,6 @@
 [2013-08-04 02:47:58] freynaud: very cool
 [2013-08-04 02:48:05] nicegraham: so she has to work on something related to the performance team
 [2013-08-04 02:54:11] freynaud: do you know if perf = mobile safari perf or ios app perf too ?
+[2013-08-04 02:56:06] nicegraham: I don't know
+[2013-08-04 02:56:19] nicegraham: I think it's web perf
+[2013-08-04 02:56:43] nicegraham: since they're adding it to the remote debug protocol and michael added the same stuff to chromedriver
