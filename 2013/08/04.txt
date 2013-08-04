@@ -36,3 +36,4 @@
 [2013-08-04 02:47:51] nicegraham: I think it's a SOC project
 [2013-08-04 02:47:58] freynaud: very cool
 [2013-08-04 02:48:05] nicegraham: so she has to work on something related to the performance team
+[2013-08-04 02:54:11] freynaud: do you know if perf = mobile safari perf or ios app perf too ?
