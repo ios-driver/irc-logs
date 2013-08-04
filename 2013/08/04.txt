@@ -19,3 +19,20 @@
 [2013-08-04 02:41:34] nicegraham: does the libimobile guy know?
 [2013-08-04 02:41:43] nicegraham: or fb?
 [2013-08-04 02:42:53] nicegraham: did you see the pr from michaels intern adding the performance logging?
+[2013-08-04 02:46:07] freynaud: ha, that's who that is
+[2013-08-04 02:46:14] freynaud: I'd like him to sign the CLA first
+[2013-08-04 02:46:22] nicegraham: it's a girl actually
+[2013-08-04 02:46:33] freynaud: from 0.7, I'd like to have poeple signing CLA when they submit patches
+[2013-08-04 02:46:34] nicegraham: she needs to add tests too :)
+[2013-08-04 02:46:49] freynaud: people include girld :)
+[2013-08-04 02:46:56] freynaud: girls
+[2013-08-04 02:47:14] nicegraham: girls are people too
+[2013-08-04 02:47:15] freynaud: she should come to IRC
+[2013-08-04 02:47:21] nicegraham: she was on one day
+[2013-08-04 02:47:30] freynaud: if she plan on contributing, we can hlep her understand what's where
+[2013-08-04 02:47:33] nicegraham: I have her email address if you want to contact her
+[2013-08-04 02:47:43] freynaud: I'll reply to her pull request
+[2013-08-04 02:47:48] freynaud: or you can email, up to you
+[2013-08-04 02:47:51] nicegraham: I think it's a SOC project
+[2013-08-04 02:47:58] freynaud: very cool
+[2013-08-04 02:48:05] nicegraham: so she has to work on something related to the performance team
