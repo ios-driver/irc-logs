@@ -1,3 +1,4 @@
 [2013-08-05 00:37:34] arkmon_, joining. (#ios-driver)
 [2013-08-05 00:58:12] admc1, quitting. (Quit: Leaving.)
 [2013-08-05 01:44:45] smccarthy, quitting. (Remote host closed the connection)
+[2013-08-05 01:49:44] admc1, joining. (#ios-driver)
