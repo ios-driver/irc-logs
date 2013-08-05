@@ -50,3 +50,4 @@
 [2013-08-05 12:27:47] bob__, quitting. (Ping timeout: 245 seconds)
 [2013-08-05 12:31:10] jlipps1, joining. (#ios-driver)
 [2013-08-05 12:32:55] jlipps, quitting. (Ping timeout: 256 seconds)
+[2013-08-05 12:37:16] bob__, joining. (#ios-driver)
