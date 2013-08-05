@@ -64,3 +64,4 @@
 [2013-08-05 14:26:11] ethanclose, quitting. (Remote host closed the connection)
 [2013-08-05 15:26:48] bob__, quitting. (Remote host closed the connection)
 [2013-08-05 15:28:02] bob__, joining. (#ios-driver)
+[2013-08-05 15:45:00] santiycr1, joining. (#ios-driver)
