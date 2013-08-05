@@ -68,3 +68,4 @@
 [2013-08-05 15:45:10] santiycr1, quitting. (Client Quit)
 [2013-08-05 15:48:46] santiycr, quitting. (Ping timeout: 248 seconds)
 [2013-08-05 16:21:03] nirvdrum, quitting. (Ping timeout: 268 seconds)
+[2013-08-05 16:50:01] lukeis, quitting. (Quit: Leaving.)
