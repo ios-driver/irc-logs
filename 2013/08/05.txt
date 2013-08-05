@@ -2,3 +2,4 @@
 [2013-08-05 00:58:12] admc1, quitting. (Quit: Leaving.)
 [2013-08-05 01:44:45] smccarthy, quitting. (Remote host closed the connection)
 [2013-08-05 01:49:44] admc1, joining. (#ios-driver)
+[2013-08-05 01:58:22] admc1, quitting. (Ping timeout: 248 seconds)
