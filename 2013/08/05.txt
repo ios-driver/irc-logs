@@ -6,3 +6,6 @@
 [2013-08-05 02:50:16] admc1, joining. (#ios-driver)
 [2013-08-05 02:50:45] arkmon_, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2013-08-05 02:58:47] admc1, quitting. (Ping timeout: 240 seconds)
+[2013-08-05 03:25:39] Krishnan, joining. (#ios-driver)
+[2013-08-05 03:25:55] Krishnan: hi
+[2013-08-05 03:26:25] Krishnan: I sporadically hit this error when working with ios-driver in grid mode "Error forwarding the new session new session request for webdriver should contain a location header with the session."
