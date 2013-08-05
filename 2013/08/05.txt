@@ -13,3 +13,4 @@
 [2013-08-05 03:44:07] nicegraham: someone else has seen that too, dgrace was adding more logging so we could try to get to the bottom of it
 [2013-08-05 03:50:47] admc1, joining. (#ios-driver)
 [2013-08-05 03:55:10] admc1, quitting. (Ping timeout: 248 seconds)
+[2013-08-05 04:20:52] admc1, joining. (#ios-driver)
