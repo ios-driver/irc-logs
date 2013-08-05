@@ -43,3 +43,4 @@
 [2013-08-05 10:00:54] bob__, quitting. (Remote host closed the connection)
 [2013-08-05 10:01:13] bob__, joining. (#ios-driver)
 [2013-08-05 10:18:42] smccarthy, joining. (#ios-driver)
+[2013-08-05 11:16:40] bob__, quitting. (Remote host closed the connection)
