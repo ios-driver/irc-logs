@@ -48,3 +48,4 @@
 [2013-08-06 06:27:46] nirvdrum, joining. (#ios-driver)
 [2013-08-06 06:29:29] nirvdrum, quitting. (Remote host closed the connection)
 [2013-08-06 06:48:30] bob__, joining. (#ios-driver)
+[2013-08-06 06:54:45] santiycr, joining. (#ios-driver)
