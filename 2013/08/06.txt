@@ -79,3 +79,10 @@
 [2013-08-06 08:06:05] nicegraham: but elevated levels of sarcasm....
 [2013-08-06 08:08:28] nirvdrum_: The problem is I was burning through expensive scotch and getting sick of drinking the cheap shit.
 [2013-08-06 08:08:40] nirvdrum_: And didn't seem like a good long term solution.
+[2013-08-06 08:15:11] nicegraham: freynaud: if I throw an exception in the IOSServerManager - will that automatically get sent to the client or will the client only get it after a subsequent call?
+[2013-08-06 08:18:20] freynaud: it won't propagate
+[2013-08-06 08:18:30] freynaud: server have multiple sessions
+[2013-08-06 08:18:39] freynaud: you need to throw for a specific one
+[2013-08-06 08:19:29] nicegraham: so, should I add  a "crashed" field to ServerSideSessions
+[2013-08-06 08:19:52] nicegraham: so the next time it looks for a sessionid - I can throw an app crash exception based on that flag?
+[2013-08-06 08:19:58] nicegraham: then the correct message will be returned
