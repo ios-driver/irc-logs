@@ -138,3 +138,10 @@
 [2013-08-06 11:18:25] nicegraham: but it only screenshots the visible screen, not the whole page
 [2013-08-06 11:18:32] nicegraham: mgaradi ^
 [2013-08-06 11:19:41] mgaradi: yeah that's fine too..I am using the augmenter for that but still unable to get the screenshot
+[2013-08-06 11:20:18] nicegraham: what do you see / get?
+[2013-08-06 11:20:22] bob___, quitting. (Remote host closed the connection)
+[2013-08-06 11:21:07] mgaradi: nothing :)
+[2013-08-06 11:21:15] mgaradi: no exception as well
+[2013-08-06 11:21:29] bob___, joining. (#ios-driver)
+[2013-08-06 11:22:09] nicegraham: this is a gist for something else but it includes a screenshot from safari - and it works
+[2013-08-06 11:22:10] nicegraham: https://gist.github.com/nicegraham/7185267a6d2d326afaaa
