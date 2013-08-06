@@ -78,3 +78,4 @@
 [2013-08-05 20:01:51] nirvdrum, joining. (#ios-driver)
 [2013-08-05 20:26:15] nirvdrum, quitting. (Remote host closed the connection)
 [2013-08-05 20:58:19] admc1, joining. (#ios-driver)
+[2013-08-05 21:36:48] nirvdrum, joining. (#ios-driver)
