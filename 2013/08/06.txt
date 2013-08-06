@@ -6,3 +6,6 @@
 [2013-08-06 01:20:33] freynaud: you cannot use native ones
 [2013-08-06 01:21:18] nicegraham: ok - I think we've been managing to use the native ones on an app here
 [2013-08-06 01:22:08] nicegraham: is there anything we can do with the inspector to expose the html of a webview?
+[2013-08-06 01:27:36] freynaud: there
+[2013-08-06 01:27:38] freynaud: was
+[2013-08-06 01:27:53] freynaud: but I removed it. The JS tends to "jump" out of the webview :)
