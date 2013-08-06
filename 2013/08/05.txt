@@ -82,3 +82,4 @@
 [2013-08-05 21:40:59] nirvdrum, quitting. (Ping timeout: 245 seconds)
 [2013-08-05 21:43:30] jlipps, joining. (#ios-driver)
 [2013-08-05 21:52:24] jlipps, quitting. (Quit: Leaving.)
+[2013-08-05 23:31:25] freynaud: nicegraham: Hi
