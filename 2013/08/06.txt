@@ -160,3 +160,4 @@
 [2013-08-06 11:48:41] nicegraham: but it won't do anything else server side obviously
 [2013-08-06 11:49:18] bob___, quitting. (Remote host closed the connection)
 [2013-08-06 11:49:41] bob___, joining. (#ios-driver)
+[2013-08-06 11:50:06] nirvdrum: I don't know off-hand how it works for other exceptions in other drivers (e.g., timeout due to modal dialog or script execution error), but I'd just make it match that behavior.
