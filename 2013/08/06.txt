@@ -133,3 +133,8 @@
 [2013-08-06 11:10:38] mgaradi, joining. (#ios-driver)
 [2013-08-06 11:14:05] santiycr, quitting. (Quit: Leaving.)
 [2013-08-06 11:14:46] santiycr, joining. (#ios-driver)
+[2013-08-06 11:17:08] mgaradi: Does the capability for screen shot for mobile safari exist in 0.6.1?
+[2013-08-06 11:18:05] nicegraham: yes
+[2013-08-06 11:18:25] nicegraham: but it only screenshots the visible screen, not the whole page
+[2013-08-06 11:18:32] nicegraham: mgaradi ^
+[2013-08-06 11:19:41] mgaradi: yeah that's fine too..I am using the augmenter for that but still unable to get the screenshot
