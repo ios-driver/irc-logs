@@ -106,3 +106,6 @@
 [2013-08-06 09:32:48] freynaud: it will be a jar
 [2013-08-06 09:33:02] freynaud: we can deploy it to maven if needed
 [2013-08-06 09:33:27] nicegraham: we probably should so people can run from there
+[2013-08-06 09:40:10] freynaud: there are some legal stuff to clear up
+[2013-08-06 09:40:24] freynaud: we're using an sdk that is not fully public yet
+[2013-08-06 09:42:05] nirvdrum, joining. (#ios-driver)
