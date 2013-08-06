@@ -120,3 +120,11 @@
 [2013-08-06 10:12:36] nirvdrum, quitting. (Remote host closed the connection)
 [2013-08-06 10:15:54] nicegraham: woot! https://github.com/ios-driver/libimobiledevice-java/commit/b49be4919bf763c2d76a6d7d6eacfc2f0cdc76ad
 [2013-08-06 10:20:14] bob___, quitting. (Remote host closed the connection)
+[2013-08-06 10:37:58] bob___, joining. (#ios-driver)
+[2013-08-06 10:38:51] ios-driver-git, joining. (#ios-driver)
+[2013-08-06 10:38:51] ios-driver-git: ios-driver/dev b2cfb51 Graham Abell: Fix typo
+[2013-08-06 10:38:51] ios-driver-git: ios-driver/dev e7697ad Graham Abell: updating the crash handling so the crash error propogates on the subsequent call from the client
+[2013-08-06 10:38:51] ios-driver-git, leaving. (#ios-driver)
+[2013-08-06 10:38:51] ios-driver-git: [ios-driver] nicegraham pushed 4 new commits to dev: http://git.io/zVOZ9g
+[2013-08-06 10:38:51] ios-driver-git: ios-driver/dev 5d18200 Graham Abell: if session has crashed - it will now be deleted from the server just before we return the exception to the client
+[2013-08-06 10:39:23] *nicegraham heads for home...'
