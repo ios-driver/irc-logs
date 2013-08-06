@@ -191,3 +191,4 @@
 [2013-08-06 15:12:19] bob____, quitting. (Ping timeout: 264 seconds)
 [2013-08-06 15:30:30] bob_____, quitting. (Remote host closed the connection)
 [2013-08-06 15:31:27] bob___, joining. (#ios-driver)
+[2013-08-06 15:39:41] nirvdrum: nicegraham: So what's 0.6.2?  Just whatever was on dev?
