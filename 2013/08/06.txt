@@ -1,3 +1,4 @@
 [2013-08-06 00:00:31] nicegraham: 1 million lines of code - good work sir!
 [2013-08-06 00:43:36] freynaud: nicegraham: can you double check with him for the new header in the license copyright ?
 [2013-08-06 00:58:04] operatiay, joining. (#ios-driver)
+[2013-08-06 01:18:28] nicegraham: freynaud: for elements in a webview. Is it better to use the native element locator or to switch context and use normal webdriver locators?
