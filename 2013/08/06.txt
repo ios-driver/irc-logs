@@ -9,3 +9,4 @@
 [2013-08-06 01:27:36] freynaud: there
 [2013-08-06 01:27:38] freynaud: was
 [2013-08-06 01:27:53] freynaud: but I removed it. The JS tends to "jump" out of the webview :)
+[2013-08-06 01:30:24] nicegraham: we should probably add it back in somehow, even if it's a button to dump the html to a new window?
