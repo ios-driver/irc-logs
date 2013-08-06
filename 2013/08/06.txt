@@ -193,3 +193,5 @@
 [2013-08-06 15:31:27] bob___, joining. (#ios-driver)
 [2013-08-06 15:39:41] nirvdrum: nicegraham: So what's 0.6.2?  Just whatever was on dev?
 [2013-08-06 15:48:40] nirvdrum, quitting. (Ping timeout: 275 seconds)
+[2013-08-06 16:03:17] smccarthy, joining. (#ios-driver)
+[2013-08-06 16:04:22] lukeis, quitting. (Quit: Leaving.)
