@@ -87,3 +87,4 @@
 [2013-08-05 23:36:31] nicegraham: i've just got a meeting now, back in 20 I think
 [2013-08-05 23:36:38] freynaud: https://github.com/ios-driver/ios-driver/graphs/contributors
 [2013-08-05 23:36:45] freynaud: do you know who heliojr is ?
+[2013-08-05 23:58:32] nicegraham: yeah, he works with us
