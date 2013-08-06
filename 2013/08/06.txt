@@ -189,3 +189,5 @@
 [2013-08-06 15:09:11] admc1, joining. (#ios-driver)
 [2013-08-06 15:10:48] bob___, quitting. (Ping timeout: 240 seconds)
 [2013-08-06 15:12:19] bob____, quitting. (Ping timeout: 264 seconds)
+[2013-08-06 15:30:30] bob_____, quitting. (Remote host closed the connection)
+[2013-08-06 15:31:27] bob___, joining. (#ios-driver)
