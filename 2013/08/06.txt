@@ -18,3 +18,4 @@
 [2013-08-06 01:47:40] freynaud: in the object treee
 [2013-08-06 01:47:52] freynaud: you have a source object, containing the htl
 [2013-08-06 01:48:06] freynaud: so we can put back a frame, and put that html into it
+[2013-08-06 01:54:24] nicegraham: you raised an issue already :)
