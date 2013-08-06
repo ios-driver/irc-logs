@@ -54,3 +54,8 @@
 [2013-08-06 07:24:21] operatiay, joining. (#ios-driver)
 [2013-08-06 07:50:33] nirvdrum, joining. (#ios-driver)
 [2013-08-06 07:54:43] nirvdrum: nicegraham: I'm balancing 3 laptops right now.  Which one I open tends to dictate when I'm on IRC :-P
+[2013-08-06 07:55:02] nirvdrum: Generally I'm on a computer by 7:30 AM local time.
+[2013-08-06 07:55:09] nicegraham: you never recovered from that post-baby clean up
+[2013-08-06 07:55:27] nicegraham: same here, I'm in the office from that time
+[2013-08-06 07:57:24] nirvdrum: I got a Helix to help with my hand pain but haven't tried to find an IRC client for Windows yet.
+[2013-08-06 07:59:09] nirvdrum_, joining. (#ios-driver)
