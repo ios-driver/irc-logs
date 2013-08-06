@@ -52,3 +52,5 @@
 [2013-08-06 07:01:33] bob__, quitting. (Remote host closed the connection)
 [2013-08-06 07:23:52] operatiay, quitting. (Read error: Connection reset by peer)
 [2013-08-06 07:24:21] operatiay, joining. (#ios-driver)
+[2013-08-06 07:50:33] nirvdrum, joining. (#ios-driver)
+[2013-08-06 07:54:43] nirvdrum: nicegraham: I'm balancing 3 laptops right now.  Which one I open tends to dictate when I'm on IRC :-P
