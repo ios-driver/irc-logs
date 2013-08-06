@@ -109,3 +109,9 @@
 [2013-08-06 09:40:10] freynaud: there are some legal stuff to clear up
 [2013-08-06 09:40:24] freynaud: we're using an sdk that is not fully public yet
 [2013-08-06 09:42:05] nirvdrum, joining. (#ios-driver)
+[2013-08-06 09:50:01] nicegraham: freynaud: this is a normal message from instruments right?
+[2013-08-06 09:50:03] nicegraham: 2013-08-06 16:50:54 +0000 Stopped: Script was stopped by the user
+[2013-08-06 09:50:33] freynaud: you clicked stopped I guess
+[2013-08-06 09:50:43] nicegraham: no I killed the process
+[2013-08-06 09:50:50] nicegraham: I'm trying to catch that too
+[2013-08-06 09:51:23] nicegraham: so do we in normal running ever cause that message to happen?
