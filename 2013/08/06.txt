@@ -59,3 +59,19 @@
 [2013-08-06 07:55:27] nicegraham: same here, I'm in the office from that time
 [2013-08-06 07:57:24] nirvdrum: I got a Helix to help with my hand pain but haven't tried to find an IRC client for Windows yet.
 [2013-08-06 07:59:09] nirvdrum_, joining. (#ios-driver)
+[2013-08-06 08:01:30] nirvdrum_: freynaud: How do you want the CLAs submitted?  Just emailed back to you?
+[2013-08-06 08:01:39] nirvdrum_: Also, this may be of use (I haven't tried it though): http://www.clahub.com/
+[2013-08-06 08:01:48] nicegraham: this? http://shop.lenovo.com/us/en/tablets/thinkpad/thinkpad-helix/index.html
+[2013-08-06 08:01:49] nirvdrum, quitting. (Ping timeout: 245 seconds)
+[2013-08-06 08:02:04] nicegraham: are you using it as a tablet?
+[2013-08-06 08:02:15] freynaud: nirvdrum_: I'll check what the eBay laywer wants if everybody is happy with the CLA
+[2013-08-06 08:02:20] nicegraham: that clahub seems pretty cool
+[2013-08-06 08:02:34] freynaud: I'd like to avoid using my inbox as a CLA management tool if I can
+[2013-08-06 08:03:12] nirvdrum_: nicegraham: Yeah, that.  I use it as a netbook and as a tablet.  It has a built-in digitizer with pretty good hand-writing recognition, too.
+[2013-08-06 08:03:27] nirvdrum_: It takes longer, but I can handwrite emails and such.
+[2013-08-06 08:03:46] nicegraham: god, I would not like that
+[2013-08-06 08:03:51] nicegraham: guess if it helps the hand pain
+[2013-08-06 08:04:06] nirvdrum_: It's pretty cool.  And it beats killing my liver by drinking to numb the pain.
+[2013-08-06 08:04:18] nirvdrum_: Or not working at all.
+[2013-08-06 08:04:24] nicegraham: I don't know - that has its perks
+[2013-08-06 08:04:32] nicegraham: [being drunk]
