@@ -71,3 +71,4 @@
 [2013-08-05 16:50:01] lukeis, quitting. (Quit: Leaving.)
 [2013-08-05 17:27:52] nirvdrum, joining. (#ios-driver)
 [2013-08-05 17:31:59] nirvdrum, quitting. (Ping timeout: 240 seconds)
+[2013-08-05 18:03:06] bob__, quitting. (Remote host closed the connection)
