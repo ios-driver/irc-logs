@@ -93,3 +93,9 @@
 [2013-08-06 08:20:46] nicegraham: ok
 [2013-08-06 08:21:27] nicegraham: I assume that won't really change how I build and deploy - it will just be a static reference to libimobile?
 [2013-08-06 08:25:00] lukeis, joining. (#ios-driver)
+[2013-08-06 08:51:47] jlipps, joining. (#ios-driver)
+[2013-08-06 08:52:43] freynaud: nicegraham: all the old libimobile code got deleted today
+[2013-08-06 08:52:51] freynaud: no need to deploy what you have just now
+[2013-08-06 08:53:12] nicegraham: awesome!
+[2013-08-06 08:53:26] nicegraham: so where is that dependency now? just a local lib?
+[2013-08-06 08:53:37] nicegraham: just tidying up my crash tests :)
