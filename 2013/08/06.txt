@@ -21,3 +21,4 @@
 [2013-08-06 01:54:24] nicegraham: you raised an issue already :)
 [2013-08-06 01:57:10] freynaud: yes
 [2013-08-06 02:07:25] admc1, quitting. (Quit: Leaving.)
+[2013-08-06 03:09:36] mkang, joining. (#ios-driver)
