@@ -30,3 +30,9 @@
 [2013-08-06 03:44:12] nicegraham: http://ios-driver.github.io/ios-driver/safari.html#bindings
 [2013-08-06 03:44:15] nicegraham: which includes ruby
 [2013-08-06 03:44:49] nicegraham: you should use the latest code because there was a bug on 0.6.0 which was incompatible with the capabilities defined in Ruby
+[2013-08-06 03:45:34] nicegraham: I don't use ruby so I'll be of limited help I"m afraid
+[2013-08-06 03:47:16] mkang: Thanks for your inputs nicegraham
+[2013-08-06 03:48:12] mkang: my problem is getting selenium-webdriver to work at all with a simple test.
+[2013-08-06 03:48:57] nicegraham: even normally with a webpage?
+[2013-08-06 03:49:38] mkang: yes
+[2013-08-06 03:49:58] mkang: i think this is probably not the right channel for basic selenium stuff
