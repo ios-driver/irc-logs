@@ -14,3 +14,7 @@
 [2013-08-06 01:38:21] freynaud: you can always dump the html
 [2013-08-06 01:38:28] freynaud: but that comes with the JS includes
 [2013-08-06 01:38:41] freynaud: which can have some impredictable results
+[2013-08-06 01:47:34] freynaud: it's actually already there
+[2013-08-06 01:47:40] freynaud: in the object treee
+[2013-08-06 01:47:52] freynaud: you have a source object, containing the htl
+[2013-08-06 01:48:06] freynaud: so we can put back a frame, and put that html into it
