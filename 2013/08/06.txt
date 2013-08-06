@@ -175,3 +175,8 @@
 [2013-08-06 14:07:27] nirvdrum, joining. (#ios-driver)
 [2013-08-06 14:07:27] admc1, quitting. (Quit: Leaving.)
 [2013-08-06 14:22:15] santiycr, quitting. (Quit: Leaving.)
+[2013-08-06 14:28:33] ios-driver-git, joining. (#ios-driver)
+[2013-08-06 14:28:33] ios-driver-git: [ios-driver] nicegraham pushed 2 new commits to dev: http://git.io/JFzIEQ
+[2013-08-06 14:28:33] ios-driver-git: ios-driver/dev 7d040c3 Graham Abell: adding handling for inspector crashing and tests for that
+[2013-08-06 14:28:33] ios-driver-git: ios-driver/dev 2550bf5 Graham Abell: change of plan - we will let the client handle the exception and delete the session via quit().
+[2013-08-06 14:28:33] ios-driver-git, leaving. (#ios-driver)
