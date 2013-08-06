@@ -128,3 +128,5 @@
 [2013-08-06 10:38:51] ios-driver-git: [ios-driver] nicegraham pushed 4 new commits to dev: http://git.io/zVOZ9g
 [2013-08-06 10:38:51] ios-driver-git: ios-driver/dev 5d18200 Graham Abell: if session has crashed - it will now be deleted from the server just before we return the exception to the client
 [2013-08-06 10:39:23] *nicegraham heads for home...'
+[2013-08-06 10:40:08] nirvdrum, joining. (#ios-driver)
+[2013-08-06 10:41:58] admc1, joining. (#ios-driver)
