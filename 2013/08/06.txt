@@ -22,3 +22,11 @@
 [2013-08-06 01:57:10] freynaud: yes
 [2013-08-06 02:07:25] admc1, quitting. (Quit: Leaving.)
 [2013-08-06 03:09:36] mkang, joining. (#ios-driver)
+[2013-08-06 03:40:05] mkang: Hi everyone
+[2013-08-06 03:40:51] mkang: does anyone have a ruby version of the test for native ios apps that is described here: http://ios-driver.github.io/ios-driver/native.html
+[2013-08-06 03:43:30] nicegraham: hi mkang
+[2013-08-06 03:43:52] nicegraham: you should just be able to run your test like any other remoteWebDriver
+[2013-08-06 03:44:03] nicegraham: there's a small mention of bindings on the wiki:
+[2013-08-06 03:44:12] nicegraham: http://ios-driver.github.io/ios-driver/safari.html#bindings
+[2013-08-06 03:44:15] nicegraham: which includes ruby
+[2013-08-06 03:44:49] nicegraham: you should use the latest code because there was a bug on 0.6.0 which was incompatible with the capabilities defined in Ruby
