@@ -45,3 +45,5 @@
 [2013-08-06 05:48:10] nicegraham: nivrdrum: you're on early today :)
 [2013-08-06 05:48:23] nicegraham: ^ nirvdrum
 [2013-08-06 06:06:58] nirvdrum, quitting. (Remote host closed the connection)
+[2013-08-06 06:27:46] nirvdrum, joining. (#ios-driver)
+[2013-08-06 06:29:29] nirvdrum, quitting. (Remote host closed the connection)
