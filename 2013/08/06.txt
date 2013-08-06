@@ -86,3 +86,10 @@
 [2013-08-06 08:19:29] nicegraham: so, should I add  a "crashed" field to ServerSideSessions
 [2013-08-06 08:19:52] nicegraham: so the next time it looks for a sessionid - I can throw an app crash exception based on that flag?
 [2013-08-06 08:19:58] nicegraham: then the correct message will be returned
+[2013-08-06 08:20:09] freynaud: yes
+[2013-08-06 08:20:20] nicegraham: right now, it throws a Session not found because I clean it up at the time of the crash
+[2013-08-06 08:20:21] freynaud: I'll remove the parent stuff from libimobilejava
+[2013-08-06 08:20:32] freynaud: that project shouldn't be aware of ios-driver at all
+[2013-08-06 08:20:46] nicegraham: ok
+[2013-08-06 08:21:27] nicegraham: I assume that won't really change how I build and deploy - it will just be a static reference to libimobile?
+[2013-08-06 08:25:00] lukeis, joining. (#ios-driver)
