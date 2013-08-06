@@ -117,3 +117,4 @@
 [2013-08-06 09:51:23] nicegraham: so do we in normal running ever cause that message to happen?
 [2013-08-06 10:07:30] freynaud: no
 [2013-08-06 10:09:34] nicegraham: ok, cool - well I'll trap that so :)
+[2013-08-06 10:12:36] nirvdrum, quitting. (Remote host closed the connection)
