@@ -115,3 +115,5 @@
 [2013-08-06 09:50:43] nicegraham: no I killed the process
 [2013-08-06 09:50:50] nicegraham: I'm trying to catch that too
 [2013-08-06 09:51:23] nicegraham: so do we in normal running ever cause that message to happen?
+[2013-08-06 10:07:30] freynaud: no
+[2013-08-06 10:09:34] nicegraham: ok, cool - well I'll trap that so :)
