@@ -83,3 +83,7 @@
 [2013-08-05 21:43:30] jlipps, joining. (#ios-driver)
 [2013-08-05 21:52:24] jlipps, quitting. (Quit: Leaving.)
 [2013-08-05 23:31:25] freynaud: nicegraham: Hi
+[2013-08-05 23:36:23] nicegraham: morning freynaud
+[2013-08-05 23:36:31] nicegraham: i've just got a meeting now, back in 20 I think
+[2013-08-05 23:36:38] freynaud: https://github.com/ios-driver/ios-driver/graphs/contributors
+[2013-08-05 23:36:45] freynaud: do you know who heliojr is ?
