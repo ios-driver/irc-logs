@@ -99,3 +99,5 @@
 [2013-08-06 08:53:12] nicegraham: awesome!
 [2013-08-06 08:53:26] nicegraham: so where is that dependency now? just a local lib?
 [2013-08-06 08:53:37] nicegraham: just tidying up my crash tests :)
+[2013-08-06 09:02:06] nirvdrum_, quitting. (Read error: Connection reset by peer)
+[2013-08-06 09:02:14] nirvdrum, joining. (#ios-driver)
