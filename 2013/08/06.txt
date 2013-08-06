@@ -20,3 +20,4 @@
 [2013-08-06 01:48:06] freynaud: so we can put back a frame, and put that html into it
 [2013-08-06 01:54:24] nicegraham: you raised an issue already :)
 [2013-08-06 01:57:10] freynaud: yes
+[2013-08-06 02:07:25] admc1, quitting. (Quit: Leaving.)
