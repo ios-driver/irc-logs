@@ -75,3 +75,4 @@
 [2013-08-05 18:09:01] jlipps1, quitting. (Quit: Leaving.)
 [2013-08-05 18:33:32] bob__, joining. (#ios-driver)
 [2013-08-05 18:42:14] bob__, quitting. (Ping timeout: 256 seconds)
+[2013-08-05 20:01:51] nirvdrum, joining. (#ios-driver)
