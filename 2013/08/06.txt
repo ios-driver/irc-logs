@@ -166,3 +166,4 @@
 [2013-08-06 12:19:48] mgaradi, quitting. (Ping timeout: 250 seconds)
 [2013-08-06 12:38:18] jlipps1, joining. (#ios-driver)
 [2013-08-06 12:38:29] admc1, joining. (#ios-driver)
+[2013-08-06 12:41:12] jlipps, quitting. (Ping timeout: 240 seconds)
