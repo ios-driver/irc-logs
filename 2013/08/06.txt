@@ -145,3 +145,9 @@
 [2013-08-06 11:21:29] bob___, joining. (#ios-driver)
 [2013-08-06 11:22:09] nicegraham: this is a gist for something else but it includes a screenshot from safari - and it works
 [2013-08-06 11:22:10] nicegraham: https://gist.github.com/nicegraham/7185267a6d2d326afaaa
+[2013-08-06 11:41:43] admc1, quitting. (Quit: Leaving.)
+[2013-08-06 11:41:50] nicegraham: freynaud: yt?
+[2013-08-06 11:43:27] nicegraham: lukeis: question for ye...
+[2013-08-06 11:44:02] nicegraham: I've adde crash detection and handling, right now I'm deleting the session on the server just before I return the crash error to the client
+[2013-08-06 11:44:38] nicegraham: BUT I'm thinking now that I shouldn't do that. I should just keep returning the error until the client does a .quit() and cleans up after themselves.
+[2013-08-06 11:44:40] nicegraham: thoughts?
