@@ -181,3 +181,9 @@
 [2013-08-06 14:28:33] ios-driver-git: ios-driver/dev 2550bf5 Graham Abell: change of plan - we will let the client handle the exception and delete the session via quit().
 [2013-08-06 14:28:33] ios-driver-git, leaving. (#ios-driver)
 [2013-08-06 15:02:47] nirvdrum_, joining. (#ios-driver)
+[2013-08-06 15:06:25] nirvdrum, quitting. (Ping timeout: 276 seconds)
+[2013-08-06 15:07:25] nirvdrum_, quitting. (Remote host closed the connection)
+[2013-08-06 15:07:30] bob____, joining. (#ios-driver)
+[2013-08-06 15:07:58] nirvdrum, joining. (#ios-driver)
+[2013-08-06 15:08:14] bob_____, joining. (#ios-driver)
+[2013-08-06 15:09:11] admc1, joining. (#ios-driver)
