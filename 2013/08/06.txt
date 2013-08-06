@@ -118,3 +118,4 @@
 [2013-08-06 10:07:30] freynaud: no
 [2013-08-06 10:09:34] nicegraham: ok, cool - well I'll trap that so :)
 [2013-08-06 10:12:36] nirvdrum, quitting. (Remote host closed the connection)
+[2013-08-06 10:15:54] nicegraham: woot! https://github.com/ios-driver/libimobiledevice-java/commit/b49be4919bf763c2d76a6d7d6eacfc2f0cdc76ad
