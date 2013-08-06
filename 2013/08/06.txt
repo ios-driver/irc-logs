@@ -151,3 +151,12 @@
 [2013-08-06 11:44:02] nicegraham: I've adde crash detection and handling, right now I'm deleting the session on the server just before I return the crash error to the client
 [2013-08-06 11:44:38] nicegraham: BUT I'm thinking now that I shouldn't do that. I should just keep returning the error until the client does a .quit() and cleans up after themselves.
 [2013-08-06 11:44:40] nicegraham: thoughts?
+[2013-08-06 11:45:58] nicegraham: nirvdrum: same question for you ^
+[2013-08-06 11:46:41] nirvdrum: Does the session successfully handle the quit command?
+[2013-08-06 11:47:06] nicegraham: from the client or on the server?
+[2013-08-06 11:47:08] nirvdrum: Sometimes the session gets trashed and the client can't close it anyway.
+[2013-08-06 11:47:31] nicegraham: well if I delete it server side, then when the client does a quit() it throws an error
+[2013-08-06 11:48:27] nicegraham: in my proposed implementation - after a crash is detected - every client action will throw a "app crashed" exception
+[2013-08-06 11:48:41] nicegraham: but it won't do anything else server side obviously
+[2013-08-06 11:49:18] bob___, quitting. (Remote host closed the connection)
+[2013-08-06 11:49:41] bob___, joining. (#ios-driver)
