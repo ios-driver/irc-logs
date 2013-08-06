@@ -50,3 +50,5 @@
 [2013-08-06 06:48:30] bob__, joining. (#ios-driver)
 [2013-08-06 06:54:45] santiycr, joining. (#ios-driver)
 [2013-08-06 07:01:33] bob__, quitting. (Remote host closed the connection)
+[2013-08-06 07:23:52] operatiay, quitting. (Read error: Connection reset by peer)
+[2013-08-06 07:24:21] operatiay, joining. (#ios-driver)
