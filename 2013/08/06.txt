@@ -36,3 +36,8 @@
 [2013-08-06 03:48:57] nicegraham: even normally with a webpage?
 [2013-08-06 03:49:38] mkang: yes
 [2013-08-06 03:49:58] mkang: i think this is probably not the right channel for basic selenium stuff
+[2013-08-06 03:50:01] nicegraham: ok, then you need to talk to the guys on #selenium
+[2013-08-06 03:50:10] nicegraham: no, it's not :)
+[2013-08-06 03:50:15] mkang: ah. thanks!
+[2013-08-06 03:50:33] nicegraham: good luck
+[2013-08-06 03:50:47] mkang: :)
