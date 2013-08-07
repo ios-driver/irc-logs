@@ -210,3 +210,4 @@
 [2013-08-06 18:45:49] admc1, quitting. (Quit: Leaving.)
 [2013-08-06 18:48:40] bob__, quitting. (Ping timeout: 264 seconds)
 [2013-08-06 20:18:22] lukeis, joining. (#ios-driver)
+[2013-08-06 20:34:01] lukeis1, joining. (#ios-driver)
