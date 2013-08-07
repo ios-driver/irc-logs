@@ -28,3 +28,4 @@
 [2013-08-07 09:17:10] bob___, joining. (#ios-driver)
 [2013-08-07 09:29:52] jlipps, joining. (#ios-driver)
 [2013-08-07 09:42:34] santiycr, quitting. (Quit: Leaving.)
+[2013-08-07 09:45:29] bob___, quitting. (Remote host closed the connection)
