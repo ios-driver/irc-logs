@@ -134,3 +134,4 @@
 [2013-08-07 14:41:51] santiycr, joining. (#ios-driver)
 [2013-08-07 15:15:00] admc2, quitting. (Quit: Leaving.)
 [2013-08-07 15:21:45] nirvdrum, quitting. (Remote host closed the connection)
+[2013-08-07 15:35:43] nirvdrum, joining. (#ios-driver)
