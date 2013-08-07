@@ -14,3 +14,8 @@
 [2013-08-07 06:30:26] admc1, quitting. (Ping timeout: 240 seconds)
 [2013-08-07 07:27:40] dgrace:  freynaud: you there?
 [2013-08-07 07:29:00] freynaud: kind of
+[2013-08-07 07:30:57] dgrace: looking at latest inspector in 0.6.2 release.. looks like we are missing some third party files in here -https://github.com/ios-driver/ios-driver/tree/dev/server/src/main/resources/inspector/thrid_party
+[2013-08-07 07:31:56] dgrace: i'm getting exceptions, looking for /resources/inspector/third_party/jquery-ui-1.10.3.custom/.......
+[2013-08-07 07:34:17] freynaud: can you file an issue an assign it to me ?
+[2013-08-07 07:34:24] freynaud: i may have forgot some files
+[2013-08-07 07:34:43] dgrace: will do
