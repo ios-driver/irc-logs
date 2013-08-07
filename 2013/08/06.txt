@@ -250,3 +250,4 @@
 [2013-08-06 21:46:09] lukeis, quitting. (Client Quit)
 [2013-08-06 21:48:24] lukeis1, quitting. (Ping timeout: 240 seconds)
 [2013-08-06 21:50:07] bob_, quitting. (Ping timeout: 264 seconds)
+[2013-08-06 22:04:21] smccarthy, quitting. (Remote host closed the connection)
