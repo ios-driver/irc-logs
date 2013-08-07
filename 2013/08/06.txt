@@ -197,3 +197,4 @@
 [2013-08-06 16:04:22] lukeis, quitting. (Quit: Leaving.)
 [2013-08-06 16:06:41] smccarthy, quitting. (Read error: Connection reset by peer)
 [2013-08-06 16:54:58] nirvdrum, joining. (#ios-driver)
+[2013-08-06 16:59:12] nirvdrum, quitting. (Ping timeout: 240 seconds)
