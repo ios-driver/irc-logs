@@ -203,3 +203,4 @@
 [2013-08-06 17:27:06] jlipps1, quitting. (Quit: Leaving.)
 [2013-08-06 17:48:31] admc1, joining. (#ios-driver)
 [2013-08-06 17:54:21] bob__, joining. (#ios-driver)
+[2013-08-06 18:09:44] bob__, quitting. (Remote host closed the connection)
