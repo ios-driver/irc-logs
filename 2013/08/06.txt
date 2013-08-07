@@ -228,3 +228,6 @@
 [2013-08-06 20:58:25] lukeis: { "variation" => "Regular", "simulator" => true, "device" => "iphone", "language" => "en", "locale" => "en_GB", "CFBundleName" => "InternationalMountains", "CFBundleVersion" => "1.1" }
 [2013-08-06 20:59:12] lukeis: make sense?
 [2013-08-06 20:59:55] jlipps, joining. (#ios-driver)
+[2013-08-06 21:09:14] mkang: Hey thanks lukeis
+[2013-08-06 21:09:31] lukeis1, joining. (#ios-driver)
+[2013-08-06 21:09:33] mkang: i just did the same by breakpointing on the java app to figure it out
