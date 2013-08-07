@@ -19,3 +19,4 @@
 [2013-08-07 07:34:17] freynaud: can you file an issue an assign it to me ?
 [2013-08-07 07:34:24] freynaud: i may have forgot some files
 [2013-08-07 07:34:43] dgrace: will do
+[2013-08-07 07:41:37] santiycr, joining. (#ios-driver)
