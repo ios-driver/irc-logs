@@ -8,3 +8,4 @@
 [2013-08-07 04:07:58] mkang, quitting. (Quit: Page closed)
 [2013-08-07 04:51:46] dgrace, leaving. (#ios-driver)
 [2013-08-07 05:26:02] admc1, joining. (#ios-driver)
+[2013-08-07 05:30:55] admc1, quitting. (Ping timeout: 276 seconds)
