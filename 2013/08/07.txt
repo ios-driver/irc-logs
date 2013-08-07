@@ -70,3 +70,22 @@
 [2013-08-07 10:41:09] nirvdrum: EC2 is gone.  I'm using VMWare for everything now.
 [2013-08-07 10:41:57] nicegraham: I'm checking - we've been running the refactored code which is now also used by logElementTree on our vmware nodes
 [2013-08-07 10:43:12] nirvdrum: IIRC, it only impacted rotated screenshots.  So things in landscape.
+[2013-08-07 10:46:29] nicegraham: ugh, my app is down
+[2013-08-07 10:46:37] nicegraham: or at least the server it connects to is
+[2013-08-07 10:46:52] lukeis: failure. ;)
+[2013-08-07 10:47:00] nicegraham: yep
+[2013-08-07 10:47:06] nicegraham: I've already sent a mail
+[2013-08-07 10:47:14] lukeis: was i talking about the app or you? :-D
+[2013-08-07 10:47:16] nicegraham: they're between sprints so that may be the cause...
+[2013-08-07 10:47:31] nicegraham: me probably
+[2013-08-07 10:47:54] lukeis: there's a time between sprints?
+[2013-08-07 10:48:01] *lukeis always running....'
+[2013-08-07 10:48:06] nicegraham: yeah kinda
+[2013-08-07 10:48:26] nicegraham: they have demo and retrospective one day
+[2013-08-07 10:48:35] nicegraham: and then estimation and planning the next day
+[2013-08-07 10:48:36] nirvdrum: There's something jarring about our changelog.  I agree that chronological order makes the most sense, but since no other project does it that way, I always assume the top is the most recent version.
+[2013-08-07 10:48:37] nirvdrum: Thoughts?
+[2013-08-07 10:48:43] nicegraham: and the sprint starts the next one
+[2013-08-07 10:49:19] nicegraham: yeah, I prefer to have the latest changes at the top
+[2013-08-07 10:49:39] nicegraham: but I guess that's a changelog cum backlog in it's current form
+[2013-08-07 10:49:53] nicegraham: though we could just move the backlog items to github issues
