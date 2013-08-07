@@ -236,3 +236,6 @@
 [2013-08-06 21:13:22] jlipps1, joining. (#ios-driver)
 [2013-08-06 21:14:53] jlipps1, quitting. (Client Quit)
 [2013-08-06 21:14:54] lukeis, joining. (#ios-driver)
+[2013-08-06 21:15:05] lukeis1, quitting. (Ping timeout: 246 seconds)
+[2013-08-06 21:15:37] lukeis: np :)
+[2013-08-06 21:16:18] jlipps, quitting. (Read error: Connection timed out)
