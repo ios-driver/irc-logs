@@ -89,3 +89,15 @@
 [2013-08-07 10:49:19] nicegraham: yeah, I prefer to have the latest changes at the top
 [2013-08-07 10:49:39] nicegraham: but I guess that's a changelog cum backlog in it's current form
 [2013-08-07 10:49:53] nicegraham: though we could just move the backlog items to github issues
+[2013-08-07 10:50:07] nirvdrum: That's about the worst way I've ever seen anyone interject Latin into a sentence :-P
+[2013-08-07 10:51:28] nicegraham: really? that's a common phrase
+[2013-08-07 10:51:45] nirvdrum: I've only ever seen "cum" used in conjunction with another Latin word.
+[2013-08-07 10:51:58] nirvdrum: All by itself it's commonly meant to mean semen.
+[2013-08-07 10:52:04] nicegraham: haha
+[2013-08-07 10:52:12] nicegraham: well I wasn't using it in that sense
+[2013-08-07 10:52:28] nirvdrum: I'm still minding some cleanup for the datacenter move, but I can tidy the changelog in a few days.
+[2013-08-07 10:52:50] nicegraham: it could be unveiled with the 0.7.0 release :)
+[2013-08-07 10:53:10] nirvdrum: Although I'm probably the least fit to fill in the 0.6.2 stuff since I haven't been all that active for the past month or so.
+[2013-08-07 10:53:50] nicegraham: I think most of the major changes were documented in teh github release - albeit the switch to java 7 was not
+[2013-08-07 10:54:09] nicegraham: mea culpa
+[2013-08-07 10:54:17] nicegraham: thus endeth your latin lesson for the day
