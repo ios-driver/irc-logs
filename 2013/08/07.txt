@@ -2,3 +2,4 @@
 [2013-08-07 00:32:03] ios-driver-git, joining. (#ios-driver)
 [2013-08-07 00:32:03] ios-driver-git: [ios-driver] nicegraham deleted 0.6.1 at 9f52e59: http://git.io/CPetaw
 [2013-08-07 00:32:03] ios-driver-git, leaving. (#ios-driver)
+[2013-08-07 03:20:18] admc1, quitting. (Quit: Leaving.)
