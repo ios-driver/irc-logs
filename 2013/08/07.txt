@@ -136,3 +136,4 @@
 [2013-08-07 15:21:45] nirvdrum, quitting. (Remote host closed the connection)
 [2013-08-07 15:35:43] nirvdrum, joining. (#ios-driver)
 [2013-08-07 15:45:09] admc1, joining. (#ios-driver)
+[2013-08-07 15:54:11] admc1, quitting. (Ping timeout: 256 seconds)
