@@ -66,3 +66,7 @@
 [2013-08-07 10:38:41] santiycr, joining. (#ios-driver)
 [2013-08-07 10:39:11] nirvdrum: I'll have to see what he did.  This was basically an AWT bug that I was anticipating being fixed in 7u40, due out in a couple weeks.
 [2013-08-07 10:39:44] nirvdrum: I'm still running the absolute last commit before the FileWatcher stuff was rewritten.
+[2013-08-07 10:40:52] nirvdrum: But I did just redo my entire cluster for mogotest, so it'd be nice to get up to date.
+[2013-08-07 10:41:09] nirvdrum: EC2 is gone.  I'm using VMWare for everything now.
+[2013-08-07 10:41:57] nicegraham: I'm checking - we've been running the refactored code which is now also used by logElementTree on our vmware nodes
+[2013-08-07 10:43:12] nirvdrum: IIRC, it only impacted rotated screenshots.  So things in landscape.
