@@ -12,3 +12,5 @@
 [2013-08-07 06:25:44] dgrace, joining. (#ios-driver)
 [2013-08-07 06:26:20] admc1, joining. (#ios-driver)
 [2013-08-07 06:30:26] admc1, quitting. (Ping timeout: 240 seconds)
+[2013-08-07 07:27:40] dgrace:  freynaud: you there?
+[2013-08-07 07:29:00] freynaud: kind of
