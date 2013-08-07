@@ -231,3 +231,8 @@
 [2013-08-06 21:09:14] mkang: Hey thanks lukeis
 [2013-08-06 21:09:31] lukeis1, joining. (#ios-driver)
 [2013-08-06 21:09:33] mkang: i just did the same by breakpointing on the java app to figure it out
+[2013-08-06 21:11:08] mkang: Once again. Thanks. At least now I know where to look for the methods provided by those classes
+[2013-08-06 21:12:40] lukeis, quitting. (Ping timeout: 264 seconds)
+[2013-08-06 21:13:22] jlipps1, joining. (#ios-driver)
+[2013-08-06 21:14:53] jlipps1, quitting. (Client Quit)
+[2013-08-06 21:14:54] lukeis, joining. (#ios-driver)
