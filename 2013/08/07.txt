@@ -33,3 +33,4 @@
 [2013-08-07 10:01:08] lukeis, quitting. (Quit: Leaving.)
 [2013-08-07 10:07:16] lukeis, joining. (#ios-driver)
 [2013-08-07 10:16:01] bob___, joining. (#ios-driver)
+[2013-08-07 10:22:46] bob___, quitting. (Ping timeout: 276 seconds)
