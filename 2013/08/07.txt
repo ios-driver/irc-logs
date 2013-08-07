@@ -38,3 +38,5 @@
 [2013-08-07 10:29:15] lukeis, quitting. (Quit: Leaving.)
 [2013-08-07 10:29:32] lukeis, joining. (#ios-driver)
 [2013-08-07 10:29:41] nirvdrum: nicegraham: So we bumped a major Java version requirement in a patch release?
+[2013-08-07 10:30:26] nirvdrum: Also, 0.6.2 is missing in the release notes.
+[2013-08-07 10:34:53] nicegraham: nirvdrum: I guess we did
