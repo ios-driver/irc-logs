@@ -40,3 +40,29 @@
 [2013-08-07 10:29:41] nirvdrum: nicegraham: So we bumped a major Java version requirement in a patch release?
 [2013-08-07 10:30:26] nirvdrum: Also, 0.6.2 is missing in the release notes.
 [2013-08-07 10:34:53] nicegraham: nirvdrum: I guess we did
+[2013-08-07 10:35:03] nicegraham: 0.7.0 will be the new inspector
+[2013-08-07 10:35:18] nicegraham: the current code base is too beta to be a major one I think
+[2013-08-07 10:35:22] nirvdrum: 0.6.2 should have been 0.7.0 and 0.8.0 should have been with the new inspector.
+[2013-08-07 10:35:47] nicegraham: and lukeis needed the latest dev branch for his testruns at sauce
+[2013-08-07 10:35:58] nirvdrum: I don't get the obsession with making 0.7.0 be this major release.
+[2013-08-07 10:36:18] nicegraham: ask freynaud.... :)
+[2013-08-07 10:36:25] lukeis: is real device support fixed?
+[2013-08-07 10:36:31] nirvdrum: I did.  2 months ago at SeleniumConf.
+[2013-08-07 10:36:34] nirvdrum: Version numbers are cheap.
+[2013-08-07 10:36:40] nicegraham: it will be at the end of this week
+[2013-08-07 10:36:45] lukeis: version numbers don't matter IMO ;)
+[2013-08-07 10:36:53] nicegraham: actually I think it is now but it hasn't been pushed
+[2013-08-07 10:36:58] lukeis: as long as they go up, not down ;)
+[2013-08-07 10:36:59] nirvdrum: lukeis: Patch numbers generally mean "this is a bug fix release"
+[2013-08-07 10:37:10] nirvdrum: Not, hey, you need to upgrade your Java version you stupid twat.
+[2013-08-07 10:37:12] lukeis: well, to me it was
+[2013-08-07 10:37:18] lukeis: heh
+[2013-08-07 10:37:39] lukeis: yeah, 0.7 should get cut
+[2013-08-07 10:37:44] nirvdrum: Keeping in mind that the screenshot code now doesn't work for anyone :-/
+[2013-08-07 10:37:48] nicegraham: and got to?
+[2013-08-07 10:37:55] nicegraham: anyone on VMs
+[2013-08-07 10:38:13] nicegraham: have you tried the latest code? freynaud refactored all that
+[2013-08-07 10:38:23] nirvdrum: I haven't.
+[2013-08-07 10:38:41] santiycr, joining. (#ios-driver)
+[2013-08-07 10:39:11] nirvdrum: I'll have to see what he did.  This was basically an AWT bug that I was anticipating being fixed in 7u40, due out in a couple weeks.
+[2013-08-07 10:39:44] nirvdrum: I'm still running the absolute last commit before the FileWatcher stuff was rewritten.
