@@ -32,3 +32,4 @@
 [2013-08-07 09:59:16] smccarthy, joining. (#ios-driver)
 [2013-08-07 10:01:08] lukeis, quitting. (Quit: Leaving.)
 [2013-08-07 10:07:16] lukeis, joining. (#ios-driver)
+[2013-08-07 10:16:01] bob___, joining. (#ios-driver)
