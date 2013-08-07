@@ -216,3 +216,5 @@
 [2013-08-06 20:38:24] dgrace, joining. (#ios-driver)
 [2013-08-06 20:39:36] lukeis1, quitting. (Ping timeout: 240 seconds)
 [2013-08-06 20:43:17] lukeis1, joining. (#ios-driver)
+[2013-08-06 20:46:22] lukeis, quitting. (Ping timeout: 276 seconds)
+[2013-08-06 20:49:24] lukeis, joining. (#ios-driver)
