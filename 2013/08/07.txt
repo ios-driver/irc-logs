@@ -139,3 +139,5 @@
 [2013-08-07 15:54:11] admc1, quitting. (Ping timeout: 256 seconds)
 [2013-08-07 16:00:36] admc1, joining. (#ios-driver)
 [2013-08-07 16:03:24] lukeis, quitting. (Quit: Leaving.)
+[2013-08-07 16:13:24] ethanclose, joining. (#ios-driver)
+[2013-08-07 16:14:57] ethanclose: I'm trying to build from the source and can't because of issue #101. libimobiledevice-java repo is not public. Any thoughts when it will be?
