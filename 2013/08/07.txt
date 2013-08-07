@@ -21,3 +21,4 @@
 [2013-08-07 07:34:43] dgrace: will do
 [2013-08-07 07:41:37] santiycr, joining. (#ios-driver)
 [2013-08-07 08:03:06] dgrace: freynaud: created an issue but can't assign it to you - https://github.com/ios-driver/ios-driver/issues/110
+[2013-08-07 08:29:28] bob___, joining. (#ios-driver)
