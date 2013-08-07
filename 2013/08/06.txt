@@ -218,3 +218,9 @@
 [2013-08-06 20:43:17] lukeis1, joining. (#ios-driver)
 [2013-08-06 20:46:22] lukeis, quitting. (Ping timeout: 276 seconds)
 [2013-08-06 20:49:24] lukeis, joining. (#ios-driver)
+[2013-08-06 20:52:25] mkang: Hi everyone. I understand that we can perform browser tests on iPhone and iPad simulator through ruby bindings. Is is also possible to do so for apps too?
+[2013-08-06 20:52:31] lukeis1, quitting. (Ping timeout: 264 seconds)
+[2013-08-06 20:52:46] mkang: I need some help with setting up the capabilities.
+[2013-08-06 20:53:07] mkang: Essentially the equivalent of: DesiredCapabilities cap = IOSCapabilities.iphone("InternationalMountains", "1.1");
+[2013-08-06 20:53:13] mkang: but in ruby
+[2013-08-06 20:53:46] lukeis: capabilities are just a dictionary of key value pairs… lemme grab you a link to look the keys up
