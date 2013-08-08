@@ -76,3 +76,5 @@
 [2013-08-08 11:14:02] nirvdrum, quitting. (Remote host closed the connection)
 [2013-08-08 11:19:40] nirvdrum, joining. (#ios-driver)
 [2013-08-08 11:41:13] ethanclose, joining. (#ios-driver)
+[2013-08-08 11:46:40] admc1, changing nick to admc.
+[2013-08-08 11:49:07] ethanclose, quitting. (Ping timeout: 264 seconds)
