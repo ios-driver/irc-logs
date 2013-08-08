@@ -28,3 +28,4 @@
 [2013-08-08 08:44:33] jlipps, joining. (#ios-driver)
 [2013-08-08 08:45:30] nicegraham: butterdave: some more details: https://gist.github.com/nicegraham/6185779
 [2013-08-08 08:47:35] lukeis, joining. (#ios-driver)
+[2013-08-08 08:51:32] dawagner: Thanks nicegraham :)
