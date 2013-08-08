@@ -80,3 +80,7 @@
 [2013-08-08 11:49:07] ethanclose, quitting. (Ping timeout: 264 seconds)
 [2013-08-08 12:01:39] bob___, joining. (#ios-driver)
 [2013-08-08 12:41:43] santiycr, quitting. (Quit: Leaving.)
+[2013-08-08 13:00:14] nicegraham: dawagner: that problem will be fixed tomorrow
+[2013-08-08 13:00:22] nicegraham: it won't be a dependency at that point
+[2013-08-08 13:00:43] nicegraham: we'll be packaging binaries instead of the libimobile code
+[2013-08-08 13:02:32] nicegraham: heffernan: how goes your work?
