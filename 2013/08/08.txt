@@ -42,3 +42,7 @@
 [2013-08-08 10:55:09] nirvdrum, joining. (#ios-driver)
 [2013-08-08 10:56:33] lukeis, quitting. (Quit: Leaving.)
 [2013-08-08 10:56:47] lukeis, joining. (#ios-driver)
+[2013-08-08 11:04:24] dawagner: Can anyone perform a clean checkout at the moment?
+[2013-08-08 11:04:38] dawagner: I'm getting errors pulling the libimobiledevice-java submodule
+[2013-08-08 11:04:57] dawagner: :paste
+[2013-08-08 11:04:59] dawagner: :gist
