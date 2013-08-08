@@ -144,3 +144,4 @@
 [2013-08-07 16:23:01] santiycr, quitting. (Quit: Leaving.)
 [2013-08-07 16:25:23] ethanclose, quitting. (Remote host closed the connection)
 [2013-08-07 16:34:38] nirvdrum, quitting. (Ping timeout: 240 seconds)
+[2013-08-07 17:14:49] smccarthy, quitting. (Remote host closed the connection)
