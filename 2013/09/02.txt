@@ -1,0 +1,81 @@
+[2013-09-02 00:10:01] admc, joining. (#ios-driver)
+[2013-09-02 00:21:25] Hckt, joining. (#ios-driver)
+[2013-09-02 00:44:33] operatiay, joining. (#ios-driver)
+[2013-09-02 02:10:55] admc, quitting. (Quit: Leaving.)
+[2013-09-02 02:51:14] freynaud: Good morning
+[2013-09-02 02:54:51] ddary: hi
+[2013-09-02 02:56:27] dgrace: morning
+[2013-09-02 03:01:18] freynaud: has anyone played with ios7 yet ?
+[2013-09-02 03:08:42] ios-driver-git, joining. (#ios-driver)
+[2013-09-02 03:08:42] ios-driver-git: [ios-driver] nicegraham pushed 3 new commits to dev: http://git.io/1K_KLA
+[2013-09-02 03:08:42] ios-driver-git: ios-driver/dev a360d3e Darragh Grace: updating grid to use selenium 2.35.0
+[2013-09-02 03:08:42] ios-driver-git, leaving. (#ios-driver)
+[2013-09-02 03:08:42] ios-driver-git: ios-driver/dev f1ddd83 Darragh Grace: Updating to selenium 2.35.0 - Various changes for deprecated Keyboard, Mouse and Touchscreen interactions interfaces
+[2013-09-02 03:08:42] ios-driver-git: ios-driver/dev 7c09061 Graham Abell: Merge branch 'dev' of github.com:ios-driver/ios-driver into dev
+[2013-09-02 03:24:34] dgrace: we haven't looked at it yet here..
+[2013-09-02 04:00:50] freynaud: starting now
+[2013-09-02 04:00:57] freynaud: native apps should be ok
+[2013-09-02 04:01:02] freynaud: safari will be a challenge
+[2013-09-02 04:01:17] freynaud: you cannot use instruments to launch it the way we did before on sim
+[2013-09-02 05:51:47] freynaud: do NOT use ios-driver with ios7 :)
+[2013-09-02 05:52:01] freynaud: it will corrupt your xcode install
+[2013-09-02 05:55:45] dgrace: sounds like you learned the hard way!
+[2013-09-02 05:59:30] freynaud: i thought it was the exiledSDK stuff
+[2013-09-02 05:59:36] freynaud: so I search there
+[2013-09-02 05:59:44] freynaud: turns out the problem was some place else
+[2013-09-02 05:59:47] freynaud: :)
+[2013-09-02 07:10:01] nirvdrum, joining. (#ios-driver)
+[2013-09-02 07:18:16] Hckt, quitting. (Quit: Page closed)
+[2013-09-02 07:22:56] ddary, quitting. (Quit: ddary)
+[2013-09-02 07:40:41] nirvdrum, quitting. (Remote host closed the connection)
+[2013-09-02 08:25:11] ddary, joining. (#ios-driver)
+[2013-09-02 08:51:13] nirvdrum, joining. (#ios-driver)
+[2013-09-02 08:55:33] nirvdrum, quitting. (Ping timeout: 245 seconds)
+[2013-09-02 08:56:52] ddary, quitting. (Quit: ddary)
+[2013-09-02 09:24:56] smccarthy, joining. (#ios-driver)
+[2013-09-02 09:43:26] smccarthy: Does ios-driver not work with java 6? I tried java -jar ios-server-0.6.3-jar-with-dependencies.jar -aut ~/Downloads/testapp.ipa -port 4444 and got Unsupported major.minor version 51.0
+[2013-09-02 10:01:26] smccarthy, quitting. (Remote host closed the connection)
+[2013-09-02 10:13:27] nirvdrum, joining. (#ios-driver)
+[2013-09-02 10:36:37] nirvdrum, quitting. (Remote host closed the connection)
+[2013-09-02 10:50:39] smccarthy, joining. (#ios-driver)
+[2013-09-02 11:00:00] smccarthy, quitting. (Ping timeout: 245 seconds)
+[2013-09-02 11:37:09] zalivakp, quitting. (Ping timeout: 250 seconds)
+[2013-09-02 11:47:10] nirvdrum, joining. (#ios-driver)
+[2013-09-02 11:51:42] nirvdrum, quitting. (Ping timeout: 264 seconds)
+[2013-09-02 12:12:25] smccarthy, joining. (#ios-driver)
+[2013-09-02 12:13:41] smccarthy: I started my ios-driver on port 5555  ( java -jar ios-server-0.6.3-jar-with-dependencies.jar -aut ~/Downloads/test.ipa ) and when I go to http://0.0.0.0:5555/wd/hub/applications/all , I see my app under Real device apps, but not Simulator apps. Any ideas why? I don't have the phone connected to the computer and want to use the ios simulator.
+[2013-09-02 12:16:59] admc, joining. (#ios-driver)
+[2013-09-02 12:48:43] nirvdrum, joining. (#ios-driver)
+[2013-09-02 12:49:59] smccarthy, quitting. (Ping timeout: 260 seconds)
+[2013-09-02 13:43:12] admc, quitting. (Quit: Leaving.)
+[2013-09-02 14:28:29] admc, joining. (#ios-driver)
+[2013-09-02 15:10:44] admc, quitting. (Quit: Leaving.)
+[2013-09-02 15:11:44] admc, joining. (#ios-driver)
+[2013-09-02 15:38:53] admc, quitting. (Quit: Leaving.)
+[2013-09-02 15:40:52] admc, joining. (#ios-driver)
+[2013-09-02 15:41:05] admc, quitting. (Client Quit)
+[2013-09-02 15:53:44] admc, joining. (#ios-driver)
+[2013-09-02 16:10:18] admc, quitting. (Quit: Leaving.)
+[2013-09-02 16:15:28] smccarthy, joining. (#ios-driver)
+[2013-09-02 16:40:55] admc, joining. (#ios-driver)
+[2013-09-02 16:49:36] admc, quitting. (Ping timeout: 245 seconds)
+[2013-09-02 17:04:17] nicegraham, quitting. (Quit: Connection closed for inactivity)
+[2013-09-02 17:41:32] admc, joining. (#ios-driver)
+[2013-09-02 17:46:26] admc, quitting. (Ping timeout: 264 seconds)
+[2013-09-02 17:52:42] admc, joining. (#ios-driver)
+[2013-09-02 18:11:16] admc, quitting. (Quit: Leaving.)
+[2013-09-02 19:32:21] nirvdrum, quitting. (Ping timeout: 240 seconds)
+[2013-09-02 20:33:15] nirvdrum, joining. (#ios-driver)
+[2013-09-02 21:07:06] nirvdrum, quitting. (Remote host closed the connection)
+[2013-09-02 21:10:20] ddary, joining. (#ios-driver)
+[2013-09-02 21:31:36] ddary, quitting. (Quit: ddary)
+[2013-09-02 21:33:55] smccarthy, quitting. (Remote host closed the connection)
+[2013-09-02 21:35:08] ddary, joining. (#ios-driver)
+[2013-09-02 21:46:31] ddary, quitting. (Quit: ddary)
+[2013-09-02 21:57:01] bob_, joining. (#ios-driver)
+[2013-09-02 22:04:23] bob_, quitting. (Ping timeout: 260 seconds)
+[2013-09-02 22:07:47] admc, joining. (#ios-driver)
+[2013-09-02 22:17:40] nirvdrum, joining. (#ios-driver)
+[2013-09-02 22:23:02] nirvdrum, quitting. (Ping timeout: 264 seconds)
+[2013-09-02 23:01:27] bob_, joining. (#ios-driver)
+[2013-09-02 23:09:26] bob_, quitting. (Ping timeout: 240 seconds)

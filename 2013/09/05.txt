@@ -1,0 +1,94 @@
+[2013-09-05 00:47:30] AutomatedTester, quitting. (Ping timeout: 264 seconds)
+[2013-09-05 00:49:01] AutomatedTester, joining. (#ios-driver)
+[2013-09-05 02:39:48] hcktt, joining. (#ios-driver)
+[2013-09-05 02:43:57] admc, joining. (#ios-driver)
+[2013-09-05 02:50:39] admc, quitting. (Quit: Leaving.)
+[2013-09-05 03:03:06] AutomatedTester, quitting. (Ping timeout: 264 seconds)
+[2013-09-05 03:05:31] AutomatedTester, joining. (#ios-driver)
+[2013-09-05 03:51:35] hcktt: hi everyone
+[2013-09-05 03:51:55] hcktt: I have a problem with inspector
+[2013-09-05 03:53:08] hcktt: org.openqa.selenium.WebDriverException: error getting resource /resources/inspector/thrid_party/jquery-ui-1.10.3.custom/js/jquery-1.9.1.jsnull
+[2013-09-05 03:53:08] hcktt: System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.4', java.version: '1.7.0_25'
+[2013-09-05 05:34:37] famska: anyone knows how to get screen size?
+[2013-09-05 05:42:53] famska, quitting. (Quit: Page closed)
+[2013-09-05 05:46:13] ddary, joining. (#ios-driver)
+[2013-09-05 05:46:26] nirvdrum, joining. (#ios-driver)
+[2013-09-05 05:47:18] ddary, quitting. (Client Quit)
+[2013-09-05 06:35:22] nicegraham: hcktt: which version of ios-driver are you using? try the latest 0.6.4
+[2013-09-05 06:37:56] nicegraham: note: famska this is implemented http://selenium.googlecode.com/git/docs/api/java/org/openqa/selenium/WebDriver.Window.html#getSize()
+[2013-09-05 06:38:16] nicegraham: :note famska this is implemented http://selenium.googlecode.com/git/docs/api/java/org/openqa/selenium/WebDriver.Window.html#getSize()
+[2013-09-05 06:43:21] hcktt: http://ios-driver.github.io/ios-driver/native.html see 0.6.3
+[2013-09-05 06:43:30] hcktt: I'm using 0.6.3
+[2013-09-05 07:01:42] nirvdrum, quitting. (Ping timeout: 264 seconds)
+[2013-09-05 08:04:31] nirvdrum, joining. (#ios-driver)
+[2013-09-05 08:13:28] jlipps, joining. (#ios-driver)
+[2013-09-05 08:25:45] lukeis, joining. (#ios-driver)
+[2013-09-05 09:06:36] smccarthy, joining. (#ios-driver)
+[2013-09-05 09:43:26] santiycr, joining. (#ios-driver)
+[2013-09-05 09:54:42] ddary, joining. (#ios-driver)
+[2013-09-05 09:56:22] jlipps, quitting. (Quit: Leaving.)
+[2013-09-05 10:25:48] santiycr, quitting. (Quit: Leaving.)
+[2013-09-05 10:33:51] ddary, quitting. (Quit: ddary)
+[2013-09-05 11:17:14] nicegraham: hcktt: move to 0.6.4 - this commit didn't make 0.6.3 https://github.com/ios-driver/ios-driver/commit/615106aa8bef979e88c9f8f92a15f6ce606106fd
+[2013-09-05 11:17:23] nicegraham: which is your problem I think :)
+[2013-09-05 11:19:41] nirvdrum: If only he had release notes to guide him ;-)
+[2013-09-05 11:19:48] nicegraham: https://github.com/ios-driver/ios-driver/releases/tag/0.6.4
+[2013-09-05 11:21:43] lukeis: heh
+[2013-09-05 11:21:46] nirvdrum: Ahh.  I'm still looking at the file in the root of the repo.
+[2013-09-05 11:22:26] lukeis: https://github.com/ios-driver/ios-driver/blob/dev/release.notes
+[2013-09-05 11:23:05] lukeis: and I also don't like the inverted order :)
+[2013-09-05 11:24:21] nirvdrum: I prefer that order, since it's chronological.  But no one else does it that way, so it's confusing.
+[2013-09-05 11:33:48] smccarthy: anyone here use ios-driver with an ipa ?
+[2013-09-05 11:38:30] smccarthy: either way, when I start the ios-server (tried 0.6.4 and 0.6.3) and went to the applications/all page, I see my app under Real Device Apps (not Simulator apps). Is that normal? If its under Real Device apps, is it expecting an iOS device be connected to my computer? I just want it to run in the iOS simulator. Also, for hub/status I see supportedApps : []
+[2013-09-05 11:41:19] nicegraham: smccarthy - i think you might have to copy the ipa on the capabilities page
+[2013-09-05 11:41:19] nicegraham: there's a button
+[2013-09-05 11:41:19] nicegraham: http://ios-driver.github.io/ios-driver/setup.html#real
+[2013-09-05 11:41:27] nicegraham: it's the "archive" link
+[2013-09-05 11:41:36] smccarthy: nicegraham: my capabilities page ( http://0.0.0.0:5555/wd/hub/capabilities/all ) is empty
+[2013-09-05 11:41:38] nicegraham: having said that, for running on sims I've only used .apps
+[2013-09-05 11:41:57] nicegraham: http://localhost:5555/wd/hub/devices/all
+[2013-09-05 11:42:05] nirvdrum, quitting. (Remote host closed the connection)
+[2013-09-05 11:42:18] nirvdrum, joining. (#ios-driver)
+[2013-09-05 11:42:46] smccarthy: nicegraham: that page has a gray bar up top, but just empty besides that
+[2013-09-05 11:43:07] nicegraham: ok, well maybe you can't use ipas so
+[2013-09-05 11:43:13] nicegraham: freynaud?
+[2013-09-05 11:44:13] smccarthy: oh ok. I can build the app using Xcode to get the .app, but the format the devs give me the app in is apk and ipa
+[2013-09-05 11:45:43] zalivakp, quitting. (Ping timeout: 250 seconds)
+[2013-09-05 11:49:51] nirvdrum: nicegraham: UPDATE THE TOPIC!!!!!!!!
+[2013-09-05 11:50:08] nirvdrum: (Rather than beat you, I'm just going to annoy to death)
+[2013-09-05 11:51:45] nicegraham: are we a happy nirvdrum now?
+[2013-09-05 11:52:07] nirvdrum: We're getting closer.
+[2013-09-05 11:52:17] nirvdrum: I'd be happier if people stopped fucking up the Selenium Grid code.
+[2013-09-05 11:52:27] nirvdrum: I need to start monitoring those commits.
+[2013-09-05 11:52:48] nicegraham: at least that ire is directed elsewhere :)
+[2013-09-05 11:53:04] nirvdrum: Apparently we moved to git, but no one wants to actually use branches.
+[2013-09-05 11:54:05] nicegraham: what's broken this time
+[2013-09-05 11:54:32] nirvdrum: It's fixed in master now, but the grid will deadlock fairly easily.
+[2013-09-05 13:12:27] smccarthy: I stopped the ios server and started it using the .app instead of .ipa, and I see my app under Simulator Apps (not Real Device Apps, like when i used the .ipa). Still though, my wd/hub/status shows supportedApps: [] . devices/all is blank again as well. any ideas?
+[2013-09-05 13:37:11] nicegraham: you've profiled for automation and copied that version?
+[2013-09-05 13:37:46] nicegraham: smccarthy ^
+[2013-09-05 13:38:18] smccarthy: nicegraham: I think so, but I will def try again to be sure
+[2013-09-05 13:38:36] nicegraham: are you using -aut or the monitor folder?
+[2013-09-05 13:38:49] smccarthy: -aut
+[2013-09-05 13:39:07] nicegraham: when the server starts does it output the app name in the capabilities in the console
+[2013-09-05 13:39:08] nicegraham: ?
+[2013-09-05 13:39:51] nicegraham: also what do you see under /capabilities/all?
+[2013-09-05 13:41:07] smccarthy: nicegraham: I dont see capabilities. But I do see the application listed : http://pastebin.com/UQ7XFLL5
+[2013-09-05 13:41:13] smccarthy: checking capabilities all now
+[2013-09-05 13:41:31] smccarthy: http://0.0.0.0:5555/wd/hub/capabilities/all shows a blank page for me
+[2013-09-05 13:41:32] nicegraham: that's what I meant :)
+[2013-09-05 13:42:20] nicegraham: make sure it's profiled
+[2013-09-05 13:42:41] nicegraham: i don't know why it would appear in the console if it's not added as a capability
+[2013-09-05 13:43:35] smccarthy: ok. I will try to re-profile it
+[2013-09-05 13:47:24] nicegraham: looking at the code - without running it - it looks like the console outputs the same object which the capabilities servlet returns
+[2013-09-05 13:47:33] nicegraham: so I don't know why it would show in one and not the other
+[2013-09-05 13:47:55] nicegraham: can you try another app?
+[2013-09-05 13:48:07] nicegraham: one of the demo ones in the test folder?
+[2013-09-05 13:48:51] nicegraham: https://github.com/ios-driver/ios-driver/tree/dev/server/src/test/resources/sampleApps
+[2013-09-05 13:51:02] smccarthy: nicegraham: yea I will try in a bit
+[2013-09-05 14:00:10] smccarthy: nicegraham: tried profiling, and I see my app under Release-iphonesimulator , not Debug-iphonesimulator. Does that matter?
+[2013-09-05 14:00:18] nicegraham: nope
+[2013-09-05 14:00:33] nicegraham: just take whatever is listed
+[2013-09-05 14:07:06] smccarthy: same thing happened. supportedApps = []
+[2013-09-05 14:07:27] smccarthy: will try one of the test apps :)
+[2013-09-05 14:52:33] smccarthy, quitting. (Remote host closed the connection)

@@ -1,0 +1,141 @@
+[2013-08-30 00:26:27] jblacketter, joining. (#ios-driver)
+[2013-08-30 00:33:37] operatia_, joining. (#ios-driver)
+[2013-08-30 00:33:37] operatiay, quitting. (Read error: Connection reset by peer)
+[2013-08-30 00:37:17] jblacketter, quitting. (Ping timeout: 250 seconds)
+[2013-08-30 00:47:09] freynaud: Bonjour.
+[2013-08-30 01:22:51] nicegraham: Bonjour, ca va?
+[2013-08-30 01:44:11] admc, quitting. (Quit: Leaving.)
+[2013-08-30 02:40:00] admc, joining. (#ios-driver)
+[2013-08-30 02:49:26] admc, quitting. (Ping timeout: 264 seconds)
+[2013-08-30 03:33:42] dgrace: freynaud: Bonjour, you there at the moment?
+[2013-08-30 03:40:32] admc, joining. (#ios-driver)
+[2013-08-30 03:45:14] admc, quitting. (Ping timeout: 264 seconds)
+[2013-08-30 04:10:37] admc, joining. (#ios-driver)
+[2013-08-30 04:15:19] admc, quitting. (Ping timeout: 260 seconds)
+[2013-08-30 04:29:35] freynaud: dgrace: yes
+[2013-08-30 04:36:00] nicegraham: freynaud: he was having problems since we updated to 2.35
+[2013-08-30 04:36:17] nicegraham: the hastouchscreen and keyboard interfaces were removed / moved
+[2013-08-30 04:36:22] nicegraham: he sorted it out though
+[2013-08-30 04:36:38] freynaud: who is "he" ?
+[2013-08-30 04:43:09] nicegraham: dgrace
+[2013-08-30 04:43:20] nicegraham: freynaud ^
+[2013-08-30 04:47:00] freynaud: i see
+[2013-08-30 05:11:06] admc, joining. (#ios-driver)
+[2013-08-30 05:12:31] freynaud: nicegraham: have you seen the new license ?
+[2013-08-30 05:12:38] freynaud: I though it was in already
+[2013-08-30 05:12:51] freynaud: did i forget to commit that bit ?
+[2013-08-30 05:14:48] nicegraham: No, or didn't notice or at least
+[2013-08-30 05:15:04] nicegraham: Gpl?
+[2013-08-30 05:15:12] ddary: what is the new license?
+[2013-08-30 05:15:16] admc, quitting. (Ping timeout: 246 seconds)
+[2013-08-30 05:17:22] nicegraham: Freynaud?
+[2013-08-30 05:17:43] freynaud: no, theeBay software foundation and ios-driver committer
+[2013-08-30 05:17:52] freynaud: so that the CLA actually match the license
+[2013-08-30 05:18:48] nicegraham: Ah ok
+[2013-08-30 05:21:10] ddary: ok
+[2013-08-30 05:21:59] ddary: what is the branch you work on?
+[2013-08-30 05:22:07] ddary: there are so many...
+[2013-08-30 05:26:05] freynaud: 6 branches
+[2013-08-30 05:26:13] freynaud: 2 for docs, one for travis
+[2013-08-30 05:26:29] freynaud: that  leaves master for release, dev for dev, and 1 more
+[2013-08-30 05:26:34] freynaud: this is manageable :)
+[2013-08-30 05:30:57] ddary: :-)
+[2013-08-30 05:32:03] ddary: sure, was just confused that you said something should be there an i have not seen it..
+[2013-08-30 05:32:54] ios-driver-git, joining. (#ios-driver)
+[2013-08-30 05:32:54] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to dev: http://git.io/abkeVw
+[2013-08-30 05:32:54] ios-driver-git: ios-driver/dev 3c60b24 Francois Reynaud: refactoring the localization logic get rid of most of the duplication.
+[2013-08-30 05:32:54] ios-driver-git: ios-driver/dev e3f4b68 Francois Reynaud: removing methof dup
+[2013-08-30 05:32:54] ios-driver-git, leaving. (#ios-driver)
+[2013-08-30 05:38:51] ios-driver-git, joining. (#ios-driver)
+[2013-08-30 05:38:51] ios-driver-git: [ios-driver] freynaud created license (+2 new commits): http://git.io/C_i9gw
+[2013-08-30 05:38:51] ios-driver-git: ios-driver/license 69d38af Francois Reynaud: applying new license that matches the CLA.
+[2013-08-30 05:38:51] ios-driver-git: ios-driver/license 084af9f Francois Reynaud: updating copyright
+[2013-08-30 05:38:51] ios-driver-git, leaving. (#ios-driver)
+[2013-08-30 05:39:10] freynaud: nicegraham: can you check the license in the license branch and let me know if you see any issue
+[2013-08-30 05:39:16] freynaud: if not i'll merge it to dev
+[2013-08-30 05:41:47] admc, joining. (#ios-driver)
+[2013-08-30 05:46:18] admc, quitting. (Ping timeout: 264 seconds)
+[2013-08-30 06:01:10] operatia_, quitting. (Remote host closed the connection)
+[2013-08-30 06:12:30] admc, joining. (#ios-driver)
+[2013-08-30 06:16:41] admc, quitting. (Ping timeout: 245 seconds)
+[2013-08-30 06:43:13] admc, joining. (#ios-driver)
+[2013-08-30 06:48:06] admc, quitting. (Ping timeout: 264 seconds)
+[2013-08-30 07:00:22] nicegraham: freynaud: is the same as the pdf?
+[2013-08-30 07:13:35] admc, joining. (#ios-driver)
+[2013-08-30 07:17:55] admc, quitting. (Ping timeout: 245 seconds)
+[2013-08-30 07:50:44] nirvdrum, joining. (#ios-driver)
+[2013-08-30 08:10:07] smccarthy, joining. (#ios-driver)
+[2013-08-30 08:11:35] santiycr, joining. (#ios-driver)
+[2013-08-30 08:15:06] admc, joining. (#ios-driver)
+[2013-08-30 08:19:11] admc, quitting. (Ping timeout: 240 seconds)
+[2013-08-30 08:38:29] lukeis, joining. (#ios-driver)
+[2013-08-30 08:45:40] admc, joining. (#ios-driver)
+[2013-08-30 08:50:24] admc, quitting. (Ping timeout: 256 seconds)
+[2013-08-30 09:07:23] bob___, joining. (#ios-driver)
+[2013-08-30 09:16:28] admc, joining. (#ios-driver)
+[2013-08-30 09:20:59] admc, quitting. (Ping timeout: 260 seconds)
+[2013-08-30 09:22:29] zalivakp, quitting. (Ping timeout: 250 seconds)
+[2013-08-30 09:27:15] freynaud: yes
+[2013-08-30 09:42:16] ddary, leaving. (#ios-driver)
+[2013-08-30 09:46:48] admc, joining. (#ios-driver)
+[2013-08-30 09:50:54] admc, quitting. (Ping timeout: 240 seconds)
+[2013-08-30 10:05:34] admc, joining. (#ios-driver)
+[2013-08-30 10:20:56] ios-driver-git, joining. (#ios-driver)
+[2013-08-30 10:20:56] ios-driver-git: [ios-driver] freynaud pushed 3 new commits to dev: http://git.io/8BbVBg
+[2013-08-30 10:20:56] ios-driver-git: ios-driver/dev 06d2d69 Francois Reynaud: removing debug
+[2013-08-30 10:20:56] ios-driver-git: ios-driver/dev 68e8b6b Francois Reynaud: removing more generic pattern that match too much content.
+[2013-08-30 10:20:56] ios-driver-git: ios-driver/dev 17fff7c Francois Reynaud: a method exist to access that.
+[2013-08-30 10:20:56] ios-driver-git, leaving. (#ios-driver)
+[2013-08-30 10:23:32] mgaradi, joining. (#ios-driver)
+[2013-08-30 10:23:40] mgaradi: Hello Everyone
+[2013-08-30 10:23:56] santiycr, quitting. (Quit: Leaving.)
+[2013-08-30 10:24:19] mgaradi: I am facing a weird issue with one of the mac minis that we have in the grid
+[2013-08-30 10:24:43] mgaradi: it was all going well so far on that box but it started throwing some errors while I tried to use the app
+[2013-08-30 10:24:48] mgaradi: Here is the error stack
+[2013-08-30 10:24:49] mgaradi: http://collabedit.com/ctbxh
+[2013-08-30 10:25:05] mgaradi: can anybody help me understand what's causing this issue?
+[2013-08-30 10:27:15] santiycr, joining. (#ios-driver)
+[2013-08-30 10:45:41] mgaradi, quitting. (Ping timeout: 250 seconds)
+[2013-08-30 10:47:02] smccarthy, quitting. (Remote host closed the connection)
+[2013-08-30 10:52:55] smccarthy, joining. (#ios-driver)
+[2013-08-30 11:31:38] admc, quitting. (Quit: Leaving.)
+[2013-08-30 11:44:50] santiycr, quitting. (Quit: Leaving.)
+[2013-08-30 12:13:41] admc, joining. (#ios-driver)
+[2013-08-30 13:08:19] jlipps, joining. (#ios-driver)
+[2013-08-30 13:35:10] santiycr, joining. (#ios-driver)
+[2013-08-30 13:48:40] admc, quitting. (Quit: Leaving.)
+[2013-08-30 13:54:37] jlipps, quitting. (Quit: Leaving.)
+[2013-08-30 13:58:54] admc, joining. (#ios-driver)
+[2013-08-30 14:07:49] lukeis, quitting. (Excess Flood)
+[2013-08-30 14:08:09] lukeis, joining. (#ios-driver)
+[2013-08-30 14:16:37] admc, quitting. (Read error: Connection reset by peer)
+[2013-08-30 14:16:42] admc1, joining. (#ios-driver)
+[2013-08-30 14:22:04] jlipps, joining. (#ios-driver)
+[2013-08-30 14:43:31] bob___, quitting. (Remote host closed the connection)
+[2013-08-30 14:44:11] bob__, joining. (#ios-driver)
+[2013-08-30 14:48:21] bob__, quitting. (Ping timeout: 245 seconds)
+[2013-08-30 15:03:36] lukeis, quitting. (Quit: Leaving.)
+[2013-08-30 15:08:42] admc1, quitting. (Quit: Leaving.)
+[2013-08-30 15:22:24] santiycr, quitting. (Quit: Leaving.)
+[2013-08-30 15:38:54] admc, joining. (#ios-driver)
+[2013-08-30 15:43:21] admc, quitting. (Ping timeout: 245 seconds)
+[2013-08-30 15:48:40] bob__, joining. (#ios-driver)
+[2013-08-30 15:49:42] jlipps, quitting. (Quit: Leaving.)
+[2013-08-30 16:18:42] nirvdrum, quitting. (Remote host closed the connection)
+[2013-08-30 16:39:26] admc, joining. (#ios-driver)
+[2013-08-30 16:41:39] smccarthy, quitting. (Ping timeout: 256 seconds)
+[2013-08-30 16:44:06] admc, quitting. (Ping timeout: 268 seconds)
+[2013-08-30 16:48:41] admc, joining. (#ios-driver)
+[2013-08-30 17:04:07] smccarthy, joining. (#ios-driver)
+[2013-08-30 17:29:15] nirvdrum, joining. (#ios-driver)
+[2013-08-30 17:34:40] nirvdrum, quitting. (Ping timeout: 268 seconds)
+[2013-08-30 18:11:40] santiycr, joining. (#ios-driver)
+[2013-08-30 18:31:00] admc, quitting. (Quit: Leaving.)
+[2013-08-30 19:01:18] admc, joining. (#ios-driver)
+[2013-08-30 19:10:43] admc, quitting. (Ping timeout: 264 seconds)
+[2013-08-30 19:13:25] admc, joining. (#ios-driver)
+[2013-08-30 19:15:07] admc, quitting. (Client Quit)
+[2013-08-30 19:22:34] santiycr, quitting. (Quit: Leaving.)
+[2013-08-30 20:49:34] santiycr, joining. (#ios-driver)
+[2013-08-30 21:04:04] santiycr, quitting. (Quit: Leaving.)
+[2013-08-30 22:11:54] smccarthy, quitting. (Remote host closed the connection)

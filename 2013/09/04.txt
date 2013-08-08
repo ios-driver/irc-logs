@@ -1,0 +1,189 @@
+[2013-09-04 02:21:21] operatiay, quitting. (Remote host closed the connection)
+[2013-09-04 02:21:55] operatiay, joining. (#ios-driver)
+[2013-09-04 02:26:29] operatiay, quitting. (Ping timeout: 248 seconds)
+[2013-09-04 02:29:54] operatiay, joining. (#ios-driver)
+[2013-09-04 02:34:40] operatiay, quitting. (Ping timeout: 264 seconds)
+[2013-09-04 02:36:14] operatiay, joining. (#ios-driver)
+[2013-09-04 02:37:56] admc, quitting. (Quit: Leaving.)
+[2013-09-04 02:51:35] nirvdrum_, joining. (#ios-driver)
+[2013-09-04 02:52:40] operatiay, quitting. (Ping timeout: 264 seconds)
+[2013-09-04 02:53:52] nirvdrum, quitting. (Read error: Operation timed out)
+[2013-09-04 02:56:51] nirvdrum_, quitting. (Ping timeout: 274 seconds)
+[2013-09-04 02:59:06] operatiay, joining. (#ios-driver)
+[2013-09-04 03:01:51] operatiay, quitting. (Remote host closed the connection)
+[2013-09-04 03:02:26] operatiay, joining. (#ios-driver)
+[2013-09-04 03:07:03] operatiay, quitting. (Ping timeout: 260 seconds)
+[2013-09-04 03:08:37] admc, joining. (#ios-driver)
+[2013-09-04 03:16:46] operatiay, joining. (#ios-driver)
+[2013-09-04 03:17:42] admc, quitting. (Ping timeout: 256 seconds)
+[2013-09-04 03:42:00] dgrace__, joining. (#ios-driver)
+[2013-09-04 03:44:21] admc, joining. (#ios-driver)
+[2013-09-04 03:49:04] admc, quitting. (Ping timeout: 264 seconds)
+[2013-09-04 04:44:38] admc, joining. (#ios-driver)
+[2013-09-04 04:48:56] admc, quitting. (Ping timeout: 256 seconds)
+[2013-09-04 05:02:27] operatiay, quitting. (Remote host closed the connection)
+[2013-09-04 05:14:51] admc, joining. (#ios-driver)
+[2013-09-04 05:19:10] admc, quitting. (Ping timeout: 245 seconds)
+[2013-09-04 05:45:02] admc, joining. (#ios-driver)
+[2013-09-04 05:49:09] admc, quitting. (Ping timeout: 248 seconds)
+[2013-09-04 06:45:27] admc, joining. (#ios-driver)
+[2013-09-04 06:45:27] hckt, joining. (#ios-driver)
+[2013-09-04 06:45:44] hckt: hi guys
+[2013-09-04 06:45:55] hckt: could you please help me?
+[2013-09-04 06:47:29] hckt: starting ios-server with app and got error like http://pastebin.com/gAET0BwA
+[2013-09-04 06:48:28] hckt: got that even for InternationalMountains app from tutorial
+[2013-09-04 06:50:19] admc, quitting. (Ping timeout: 264 seconds)
+[2013-09-04 06:51:18] zalivakp: that's not error, just warning
+[2013-09-04 07:11:13] hckt: hm... but after launching i got empty session in wd/hub/status
+[2013-09-04 07:16:02] admc, joining. (#ios-driver)
+[2013-09-04 07:20:06] admc, quitting. (Ping timeout: 240 seconds)
+[2013-09-04 07:29:56] freynaud: hckt: the warning is ok. It says that you have languages shipped in the app that the phone doesn't support
+[2013-09-04 07:30:03] freynaud: which is the case.
+[2013-09-04 07:30:29] freynaud: hckt: after running your test ?
+[2013-09-04 07:34:15] hckt: http://pastebin.com/V7dtr7WG
+[2013-09-04 07:34:35] hckt: thris is my terminal output and information about server status
+[2013-09-04 07:35:03] famska, joining. (#ios-driver)
+[2013-09-04 07:36:51] famska: Hi freynaud, could you please take a look at this issue: https://github.com/ios-driver/ios-driver/issues/138 ?
+[2013-09-04 07:36:55] nicegraham: hckt: you work at racingpost?
+[2013-09-04 07:37:24] hckt: maybe
+[2013-09-04 07:37:30] hckt: -_-
+[2013-09-04 07:37:37] freynaud: hckt: if you don't start a test, the session is null
+[2013-09-04 07:37:38] nicegraham: I'm at paddy power :)
+[2013-09-04 07:38:40] freynaud: famska: I've seen that before
+[2013-09-04 07:38:50] freynaud: but I'm not sure where it comes from
+[2013-09-04 07:39:03] freynaud: famska: yt ?
+[2013-09-04 07:39:15] nicegraham: this bit is weird 1 !== 3
+[2013-09-04 07:39:29] freynaud: nicegraham: it's normal
+[2013-09-04 07:39:37] nicegraham: really?
+[2013-09-04 07:39:43] hckt: I can't open Inspector page
+[2013-09-04 07:39:59] nicegraham: hckt: you need to be paused in a test to open the inspector
+[2013-09-04 07:40:03] freynaud: hckt: if you don't start an app , what do you expect to see :p
+[2013-09-04 07:40:06] nicegraham: otherwise there's nothing to inspect
+[2013-09-04 07:40:15] nicegraham: ^ what he said
+[2013-09-04 07:40:15] hckt: oh... thank you)
+[2013-09-04 07:40:43] freynaud: nicegraham: famska the logic of changeOrientation is : changeOrientation, which doesn't do any validation, then getOrientation and check that it matches what you set
+[2013-09-04 07:41:02] nicegraham: no, the !== bit
+[2013-09-04 07:41:12] freynaud: 1!==3 means you set to landscape, but it's still portrait at the end of the call, so a fail
+[2013-09-04 07:41:19] nicegraham: one too many =
+[2013-09-04 07:41:31] freynaud: it's JS
+[2013-09-04 07:41:38] freynaud: === for java ==
+[2013-09-04 07:41:53] nicegraham: ah :)
+[2013-09-04 07:42:03] hckt: so steps to "Inspect": launching app from xcode by Product>Profile>Automation, then pause and use Inspect from ios-driver?
+[2013-09-04 07:42:18] nicegraham: yeah, you'll need to breakpoint somewhere
+[2013-09-04 07:42:24] nicegraham: then open the inspector
+[2013-09-04 07:42:31] freynaud: hckt: not from xcode
+[2013-09-04 07:42:31] nicegraham: oh - no
+[2013-09-04 07:42:39] nicegraham: luanch a test yourself
+[2013-09-04 07:42:43] hckt: ok
+[2013-09-04 07:42:56] hckt: first day with ios-driver...
+[2013-09-04 07:43:20] nicegraham: you can run one of the unit tests and breakpoint it
+[2013-09-04 07:43:29] nicegraham: that'll get you something running quickly
+[2013-09-04 07:45:43] famska: freynaud: is there any way to set orientation in Capabilities?
+[2013-09-04 07:46:47] admc, joining. (#ios-driver)
+[2013-09-04 07:47:13] freynaud: famska: no. But your issue a config pb
+[2013-09-04 07:47:30] freynaud: if you start the simulator manually, and start safari, can you change the orientation ?
+[2013-09-04 07:48:07] freynaud: you should have safari switching to landscape etc. It works for everybody but a colleague of mine.You might be in that case too
+[2013-09-04 07:50:18] nirvdrum, joining. (#ios-driver)
+[2013-09-04 07:51:07] admc, quitting. (Ping timeout: 260 seconds)
+[2013-09-04 07:51:59] famska: freynaud: yes, of cource I can change orientation manually) So my error appears because there is no any wait before getOrientation?
+[2013-09-04 07:52:45] nirvdrum: freynaud: I don't know if we need different end points.  Is the current one slow just because it needs to inspect Instruments?
+[2013-09-04 08:09:22] freynaud: nirvdrum: it's slow on getCapabilities for each app
+[2013-09-04 08:09:35] freynaud: they are read only pretty much, they should be cached
+[2013-09-04 08:09:47] nirvdrum: Cool.
+[2013-09-04 08:10:17] freynaud: famska: the wait in done inside the changeOrientation, you shouldn't have to deal with it
+[2013-09-04 08:13:17] freynaud: famska: the orientation changes and so does safari ? can you send me a screenshot of what you see when the orientation has changed ( manually )
+[2013-09-04 08:17:26] admc, joining. (#ios-driver)
+[2013-09-04 08:21:48] admc, quitting. (Ping timeout: 240 seconds)
+[2013-09-04 08:27:07] hckt, quitting. (Quit: Page closed)
+[2013-09-04 08:38:55] lukeis, joining. (#ios-driver)
+[2013-09-04 08:48:15] admc, joining. (#ios-driver)
+[2013-09-04 08:52:28] admc, quitting. (Ping timeout: 240 seconds)
+[2013-09-04 08:55:48] smccarthy, joining. (#ios-driver)
+[2013-09-04 09:06:01] admc, joining. (#ios-driver)
+[2013-09-04 09:21:45] tesgn, joining. (#ios-driver)
+[2013-09-04 09:52:29] santiycr, joining. (#ios-driver)
+[2013-09-04 09:59:27] admc, quitting. (Quit: Leaving.)
+[2013-09-04 10:00:11] lukeis, quitting. (Quit: Leaving.)
+[2013-09-04 10:13:40] nirvdrum: freynaud: Here's a weird one for you.  If there's an alert present, should driver.currentUrl() raise an unhandled alert exception?
+[2013-09-04 10:17:56] santiycr, quitting. (Quit: Leaving.)
+[2013-09-04 10:26:05] santiycr, joining. (#ios-driver)
+[2013-09-04 10:54:11] zalivakp, quitting. (Ping timeout: 250 seconds)
+[2013-09-04 10:57:39] nirvdrum, quitting. (Read error: Connection reset by peer)
+[2013-09-04 10:58:16] nirvdrum, joining. (#ios-driver)
+[2013-09-04 10:59:59] lukeis, joining. (#ios-driver)
+[2013-09-04 11:03:26] ben__, joining. (#ios-driver)
+[2013-09-04 11:12:57] ios-driver-git, joining. (#ios-driver)
+[2013-09-04 11:12:57] ios-driver-git: [ios-driver] nicegraham tagged 0.6.4 at dev: http://git.io/ijLfWg
+[2013-09-04 11:12:57] ios-driver-git, leaving. (#ios-driver)
+[2013-09-04 11:13:46] nirvdrum: nicegraham: I'm going to beat you the next time I see you if you don't update the release notes.
+[2013-09-04 11:14:27] lukeis: lol, nothing like the threat of violence to motivate others in OSS ;)
+[2013-09-04 11:14:47] nirvdrum: He knows better ;-)
+[2013-09-04 11:15:45] ben__: hey guys I'm new to this, but if I want to start mobile safari what option do I input after -aut ?
+[2013-09-04 11:15:57] nicegraham: i'm eating dinner - you can abuse me in a bit :)
+[2013-09-04 11:16:25] santiycr, quitting. (Quit: Leaving.)
+[2013-09-04 11:32:36] ben__: any help would be appreciated
+[2013-09-04 11:33:14] lukeis: don't put anything (no -aut)
+[2013-09-04 11:33:50] nicegraham: nirvdrum: I'm back
+[2013-09-04 11:33:58] nicegraham: organise the firing squad
+[2013-09-04 11:36:01] nirvdrum: No need.  We just need to do a better job with the release notes.
+[2013-09-04 11:36:12] nirvdrum: We've had 3 releases without any indication of what the changes were.
+[2013-09-04 11:37:14] nicegraham: there's some details here https://github.com/ios-driver/ios-driver/releases
+[2013-09-04 11:37:19] nicegraham: granted now very in depth
+[2013-09-04 11:37:26] nicegraham: ^not
+[2013-09-04 11:37:31] nicegraham: point taken
+[2013-09-04 11:37:50] nicegraham: today's release was just to update to allow us to use 2.35.0
+[2013-09-04 11:38:08] nicegraham: they has keyboard  and touchscreen interfaces moved
+[2013-09-04 11:39:08] *nicegraham is off to cut the grass'
+[2013-09-04 11:39:19] lukeis: at night?
+[2013-09-04 11:39:45] lukeis: or is it still daylight that far north? ;)
+[2013-09-04 11:39:52] nicegraham: still daylight
+[2013-09-04 11:40:01] nicegraham: it's only 19:40
+[2013-09-04 11:40:13] lukeis: yeah, it's dark here by then
+[2013-09-04 11:40:17] nicegraham: it's already starting to get dark though
+[2013-09-04 11:40:32] nicegraham: summer it's bright until 22:30 -> 23:00
+[2013-09-04 11:40:41] nicegraham: but it's already dark at 21:00 now
+[2013-09-04 11:41:05] lukeis: crazy… 22:30 is the peak for twilight here :)
+[2013-09-04 11:41:18] lukeis: 20:30 i meant
+[2013-09-04 11:43:18] ben__: I'm getting "there was an error.stderr is not empty\nBuild info: version: 'unknown', revision: 'unknown', time: 'unknown'\nSystem info: os.name: 'Mac OS X', os"  when I access /wd/hub/status, am I missing something?
+[2013-09-04 11:43:44] ben__: i started the server with no options
+[2013-09-04 11:56:26] ben__, quitting. (Quit: Page closed)
+[2013-09-04 12:02:16] santiycr, joining. (#ios-driver)
+[2013-09-04 12:08:13] smccarthy2, joining. (#ios-driver)
+[2013-09-04 12:11:02] smccarthy, quitting. (Ping timeout: 240 seconds)
+[2013-09-04 12:11:39] smccarthy2, quitting. (Remote host closed the connection)
+[2013-09-04 12:24:15] smccarthy, joining. (#ios-driver)
+[2013-09-04 12:37:09] AutomatedTester, quitting. (Ping timeout: 248 seconds)
+[2013-09-04 12:40:49] AutomatedTester, joining. (#ios-driver)
+[2013-09-04 13:16:19] ddary, joining. (#ios-driver)
+[2013-09-04 13:41:05] jlipps, joining. (#ios-driver)
+[2013-09-04 13:57:34] ddary, quitting. (Quit: ddary)
+[2013-09-04 13:58:45] lukeis, quitting. (Quit: Leaving.)
+[2013-09-04 14:05:04] lukeis, joining. (#ios-driver)
+[2013-09-04 14:36:06] santiycr, quitting. (Quit: Leaving.)
+[2013-09-04 14:43:51] santiycr, joining. (#ios-driver)
+[2013-09-04 15:51:05] santiycr, quitting. (Quit: Leaving.)
+[2013-09-04 15:57:45] lukeis, quitting. (Quit: Leaving.)
+[2013-09-04 16:02:12] nirvdrum, quitting. (Remote host closed the connection)
+[2013-09-04 16:03:24] nirvdrum, joining. (#ios-driver)
+[2013-09-04 16:06:05] nirvdrum, quitting. (Remote host closed the connection)
+[2013-09-04 17:16:38] nirvdrum, joining. (#ios-driver)
+[2013-09-04 17:22:32] nirvdrum, quitting. (Ping timeout: 268 seconds)
+[2013-09-04 17:28:06] smccarthy, quitting. (Remote host closed the connection)
+[2013-09-04 17:59:14] jlipps, quitting. (Quit: Leaving.)
+[2013-09-04 18:38:44] nirvdrum, joining. (#ios-driver)
+[2013-09-04 19:25:10] mgaradi, joining. (#ios-driver)
+[2013-09-04 19:25:19] mgaradi: Hi Everyone !
+[2013-09-04 19:25:33] mgaradi: @freynaud: I just filed this bug; https://github.com/ios-driver/ios-driver/issues/140
+[2013-09-04 19:25:49] mgaradi: Did you or anyone in here face this issue earlier?
+[2013-09-04 19:26:34] mgaradi: the mac was all fine for few weeks now and I see the exceptions mentioned in that bug. There were no updates to hardware/software on that box
+[2013-09-04 20:16:40] jlipps, joining. (#ios-driver)
+[2013-09-04 20:18:49] mgaradi, quitting. (Ping timeout: 250 seconds)
+[2013-09-04 21:15:34] jlipps, quitting. (Quit: Leaving.)
+[2013-09-04 21:17:03] jlipps, joining. (#ios-driver)
+[2013-09-04 21:42:50] nirvdrum, quitting. (Ping timeout: 256 seconds)
+[2013-09-04 21:44:54] jlipps, quitting. (Quit: Leaving.)
+[2013-09-04 22:02:27] jlipps, joining. (#ios-driver)
+[2013-09-04 22:07:59] jlipps, quitting. (Quit: Leaving.)
+[2013-09-04 23:13:15] ddary, joining. (#ios-driver)
+[2013-09-04 23:17:59] ddary, quitting. (Client Quit)
+[2013-09-04 23:50:51] zalivakp, joining. (#ios-driver)
