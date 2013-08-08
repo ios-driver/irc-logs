@@ -150,3 +150,4 @@
 [2013-08-07 19:00:43] admc1, quitting. (Quit: Leaving.)
 [2013-08-07 19:16:32] smccarthy, joining. (#ios-driver)
 [2013-08-07 19:19:48] admc1, joining. (#ios-driver)
+[2013-08-07 19:20:37] admc1, quitting. (Client Quit)
