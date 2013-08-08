@@ -9,3 +9,4 @@
 [2013-08-08 00:59:47] ios-driver-git: ios-driver/dev 12856f7 Francois Reynaud: adding a more descriptive exception when an invalid key is provided for l10n.
 [2013-08-08 00:59:47] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/i5HKew
 [2013-08-08 05:41:37] zvako, joining. (#ios-driver)
+[2013-08-08 06:48:28] ddary, quitting. (Ping timeout: 264 seconds)
