@@ -24,3 +24,5 @@
 [2013-08-08 08:07:50] nirvdrum, joining. (#ios-driver)
 [2013-08-08 08:39:14] nicegraham: butterdave: you just need to specify in the desired capabilities which device and variant you want
 [2013-08-08 08:39:35] nicegraham: dawagner: he's off skype so that probably means he's gone
+[2013-08-08 08:40:08] nicegraham: he's using irccloud so permanently in the channel... in spirit at least :)
+[2013-08-08 08:44:33] jlipps, joining. (#ios-driver)
