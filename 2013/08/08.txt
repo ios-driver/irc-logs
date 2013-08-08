@@ -90,3 +90,5 @@
 [2013-08-08 14:39:48] santiycr, quitting. (Quit: Leaving.)
 [2013-08-08 14:43:05] santiycr, joining. (#ios-driver)
 [2013-08-08 14:52:01] nirvdrum, quitting. (Remote host closed the connection)
+[2013-08-08 15:10:09] lukeis: nicegraham: ios-driver-bot is going to be offline starting soon… will come back online on monday morning (my time)… if you want it back online, you'll have to run it yourself :) (moving desks, have to shut off my box today)
+[2013-08-08 15:12:02] dawagner, joining. (#ios-driver)
