@@ -14,3 +14,4 @@
 [2013-08-08 07:06:36] ddary_, joining. (#ios-driver)
 [2013-08-08 07:08:19] ddary, quitting. (Ping timeout: 264 seconds)
 [2013-08-08 07:08:19] ddary_, changing nick to ddary.
+[2013-08-08 07:14:08] santiycr, joining. (#ios-driver)
