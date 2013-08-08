@@ -68,3 +68,9 @@
 [2013-08-08 11:09:33] dawagner: Ok, so, there's a libimobile-java and a libimobiledevice-java?
 [2013-08-08 11:09:38] lukeis: yes
 [2013-08-08 11:09:42] dawagner: Ugh.
+[2013-08-08 11:10:14] dawagner: Any chance you can send me a tar of it or something? I have an intern trying to get stuff building, and tomorrow's my last day I can do code review before heading on vacation
+[2013-08-08 11:10:17] lukeis: you need to get added to this team: https://github.com/organizations/ios-driver/teams/349612
+[2013-08-08 11:10:48] lukeis: i'll send you a link to the zip in a sec
+[2013-08-08 11:10:53] dawagner: Thanks :)
+[2013-08-08 11:13:12] heffernan, joining. (#ios-driver)
+[2013-08-08 11:14:02] nirvdrum, quitting. (Remote host closed the connection)
