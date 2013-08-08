@@ -157,3 +157,5 @@
 [2013-08-07 21:09:04] lukeis, joining. (#ios-driver)
 [2013-08-07 21:39:44] AndChat|251264, joining. (#ios-driver)
 [2013-08-07 21:43:47] ethanclose, quitting. (Ping timeout: 260 seconds)
+[2013-08-07 21:48:01] lukeis, quitting. (Quit: Leaving.)
+[2013-08-07 21:48:56] AndChat|251264, quitting. (Read error: Connection reset by peer)
