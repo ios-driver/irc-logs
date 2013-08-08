@@ -20,3 +20,4 @@
 [2013-08-08 07:51:05] ddary, quitting. (Quit: ddary)
 [2013-08-08 07:54:40] dawagner, joining. (#ios-driver)
 [2013-08-08 07:54:49] dawagner: freynaud: yt?
+[2013-08-08 08:04:16] dawagner: I seem to be able to add members to the admin group, but not PushPull
