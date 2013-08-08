@@ -46,3 +46,25 @@
 [2013-08-08 11:04:38] dawagner: I'm getting errors pulling the libimobiledevice-java submodule
 [2013-08-08 11:04:57] dawagner: :paste
 [2013-08-08 11:04:59] dawagner: :gist
+[2013-08-08 11:05:14] bob____, quitting. (Remote host closed the connection)
+[2013-08-08 11:05:17] dawagner: https://gist.github.com/illicitonion/fd0e8bbda9ce33da4d80
+[2013-08-08 11:05:18] lukeis: can you browse to https://github.com/ios-driver/libimobiledevice-java
+[2013-08-08 11:05:28] dawagner: 404
+[2013-08-08 11:05:46] lukeis: ugh… freynaud!!! public links to private repos...
+[2013-08-08 11:06:35] dawagner: Do you know how to fix it? :)
+[2013-08-08 11:06:51] lukeis: get freynaud to add you to the private repo or have him make it public
+[2013-08-08 11:07:20] dawagner: I'm an admin for ios-driver, is that not sufficient?
+[2013-08-08 11:07:36] dawagner: I see a repo ios-driver/libimobile-java
+[2013-08-08 11:08:04] lukeis: i doubt your an admin of the ios-driver org
+[2013-08-08 11:08:11] dawagner: I am
+[2013-08-08 11:08:12] lukeis: if you were you'd see https://github.com/ios-driver/libimobiledevice-java
+[2013-08-08 11:08:24] dawagner: https://github.com/organizations/ios-driver/teams/357879
+[2013-08-08 11:08:41] lukeis: look at the right side
+[2013-08-08 11:08:46] lukeis: which repo's ? :)
+[2013-08-08 11:08:52] lukeis: you're limited ;)
+[2013-08-08 11:08:57] zvako, quitting. (Ping timeout: 250 seconds)
+[2013-08-08 11:09:17] lukeis: if you were a real admin, you'd be able to add repo's to that
+[2013-08-08 11:09:31] lukeis: freynaud is the only one that I know of that is
+[2013-08-08 11:09:33] dawagner: Ok, so, there's a libimobile-java and a libimobiledevice-java?
+[2013-08-08 11:09:38] lukeis: yes
+[2013-08-08 11:09:42] dawagner: Ugh.
