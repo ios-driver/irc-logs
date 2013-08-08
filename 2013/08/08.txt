@@ -84,3 +84,4 @@
 [2013-08-08 13:00:22] nicegraham: it won't be a dependency at that point
 [2013-08-08 13:00:43] nicegraham: we'll be packaging binaries instead of the libimobile code
 [2013-08-08 13:02:32] nicegraham: heffernan: how goes your work?
+[2013-08-08 13:25:02] dawagner: Thanks :)
