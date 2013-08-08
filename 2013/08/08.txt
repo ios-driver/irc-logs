@@ -1,1 +1,6 @@
 [2013-08-08 00:09:36] admc1, quitting. (Quit: Leaving.)
+[2013-08-08 00:52:31] ios-driver-git, joining. (#ios-driver)
+[2013-08-08 00:52:31] ios-driver-git, leaving. (#ios-driver)
+[2013-08-08 00:52:31] ios-driver-git: ios-driver/dev 2d2b6ef Francois Reynaud: Merge branch 'dev' of github.com:ios-driver/ios-driver into dev
+[2013-08-08 00:52:31] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to dev: http://git.io/5k1wLQ
+[2013-08-08 00:52:31] ios-driver-git: ios-driver/dev ebae168 Francois Reynaud: adding back the localization for the inspector now that the parsing plist is fixed.
