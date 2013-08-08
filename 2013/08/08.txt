@@ -15,3 +15,5 @@
 [2013-08-08 07:08:19] ddary, quitting. (Ping timeout: 264 seconds)
 [2013-08-08 07:08:19] ddary_, changing nick to ddary.
 [2013-08-08 07:14:08] santiycr, joining. (#ios-driver)
+[2013-08-08 07:22:37] butterdave, joining. (#ios-driver)
+[2013-08-08 07:23:41] butterdave: hi there, quick question. I've got ios-driver running selenium tests against the simulator. awesome, but I noticed that it pops up the iphone 3 by default. What can I do to change that to iphone 4 or 5?
