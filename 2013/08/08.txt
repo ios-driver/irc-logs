@@ -4,3 +4,7 @@
 [2013-08-08 00:52:31] ios-driver-git: ios-driver/dev 2d2b6ef Francois Reynaud: Merge branch 'dev' of github.com:ios-driver/ios-driver into dev
 [2013-08-08 00:52:31] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to dev: http://git.io/5k1wLQ
 [2013-08-08 00:52:31] ios-driver-git: ios-driver/dev ebae168 Francois Reynaud: adding back the localization for the inspector now that the parsing plist is fixed.
+[2013-08-08 00:59:47] ios-driver-git, joining. (#ios-driver)
+[2013-08-08 00:59:47] ios-driver-git, leaving. (#ios-driver)
+[2013-08-08 00:59:47] ios-driver-git: ios-driver/dev 12856f7 Francois Reynaud: adding a more descriptive exception when an invalid key is provided for l10n.
+[2013-08-08 00:59:47] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/i5HKew
