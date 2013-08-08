@@ -89,3 +89,4 @@
 [2013-08-08 14:17:49] dawagner, quitting. (Quit: This computer has gone to sleep)
 [2013-08-08 14:39:48] santiycr, quitting. (Quit: Leaving.)
 [2013-08-08 14:43:05] santiycr, joining. (#ios-driver)
+[2013-08-08 14:52:01] nirvdrum, quitting. (Remote host closed the connection)
