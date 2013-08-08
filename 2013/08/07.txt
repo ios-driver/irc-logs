@@ -162,3 +162,4 @@
 [2013-08-07 22:09:01] admc1, joining. (#ios-driver)
 [2013-08-07 22:26:51] admc1, quitting. (Quit: Leaving.)
 [2013-08-07 23:04:50] admc1, joining. (#ios-driver)
+[2013-08-07 23:31:41] ddary, joining. (#ios-driver)
