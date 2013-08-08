@@ -11,3 +11,6 @@
 [2013-08-08 05:41:37] zvako, joining. (#ios-driver)
 [2013-08-08 06:48:28] ddary, quitting. (Ping timeout: 264 seconds)
 [2013-08-08 07:01:25] ddary, joining. (#ios-driver)
+[2013-08-08 07:06:36] ddary_, joining. (#ios-driver)
+[2013-08-08 07:08:19] ddary, quitting. (Ping timeout: 264 seconds)
+[2013-08-08 07:08:19] ddary_, changing nick to ddary.
