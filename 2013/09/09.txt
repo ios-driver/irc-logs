@@ -13,3 +13,4 @@
 [2013-09-09 10:34:30] smccarthy, quitting. (Ping timeout: 276 seconds)
 [2013-09-09 11:06:26] smccarthy2, quitting. (Remote host closed the connection)
 [2013-09-09 11:07:00] smccarthy, joining. (#ios-driver)
+[2013-09-09 11:22:02] lukeis: :log
