@@ -31,3 +31,4 @@
 [2013-09-09 13:30:20] santiycr, joining. (#ios-driver)
 [2013-09-09 14:55:22] Oscar, leaving. (#ios-driver)
 [2013-09-09 15:24:44] mgaradi, quitting. (Quit: Page closed)
+[2013-09-09 15:39:56] nirvdrum, quitting. (Remote host closed the connection)
