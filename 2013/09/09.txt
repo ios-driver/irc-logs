@@ -24,3 +24,5 @@
 [2013-09-09 12:41:53] santiycr, quitting. (Quit: Leaving.)
 [2013-09-09 12:47:39] nirvdrum_, joining. (#ios-driver)
 [2013-09-09 13:04:22] Oscar, quitting. (Ping timeout: 256 seconds)
+[2013-09-09 13:06:47] nirvdrum_, quitting. (Ping timeout: 260 seconds)
+[2013-09-09 13:07:17] Oscar, joining. (#ios-driver)
