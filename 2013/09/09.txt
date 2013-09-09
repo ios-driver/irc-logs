@@ -21,3 +21,4 @@
 [2013-09-09 12:14:48] mgaradi, joining. (#ios-driver)
 [2013-09-09 12:15:05] mgaradi: Hi there !
 [2013-09-09 12:16:08] mgaradi: Just a quick question...Just like a regular webpage object..Is there a way to know if all elements got loaded on the iOS app screen?
+[2013-09-09 12:41:53] santiycr, quitting. (Quit: Leaving.)
