@@ -55,3 +55,5 @@
 [2013-09-10 12:10:14] santiycr, joining. (#ios-driver)
 [2013-09-10 12:31:41] MP_, quitting. (Quit: Page closed)
 [2013-09-10 12:32:34] santiycr1, joining. (#ios-driver)
+[2013-09-10 12:36:35] santiycr, quitting. (Ping timeout: 240 seconds)
+[2013-09-10 12:39:41] jlipps, quitting. (Quit: Leaving.)
