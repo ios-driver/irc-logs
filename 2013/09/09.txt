@@ -48,3 +48,4 @@
 [2013-09-09 19:05:15] jlipps, joining. (#ios-driver)
 [2013-09-09 19:22:05] santiycr, quitting. (Quit: Leaving.)
 [2013-09-09 19:22:18] jlipps, quitting. (Quit: Leaving.)
+[2013-09-09 19:25:31] jlipps, joining. (#ios-driver)
