@@ -59,3 +59,4 @@
 [2013-09-10 12:39:41] jlipps, quitting. (Quit: Leaving.)
 [2013-09-10 14:00:31] jlipps, joining. (#ios-driver)
 [2013-09-10 14:16:19] jlipps, quitting. (Quit: Leaving.)
+[2013-09-10 14:25:56] dawagner, quitting. (Quit: Leaving)
