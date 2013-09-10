@@ -28,3 +28,4 @@
 [2013-09-10 06:33:18] dawagner, joining. (#ios-driver)
 [2013-09-10 06:49:05] ddary, joining. (#ios-driver)
 [2013-09-10 07:30:38] nirvdrum, joining. (#ios-driver)
+[2013-09-10 07:46:19] ddary, leaving. (#ios-driver)
