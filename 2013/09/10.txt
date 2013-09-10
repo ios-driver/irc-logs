@@ -41,3 +41,5 @@
 [2013-09-10 08:53:56] MP_: Any help or ideas would be greatly appreciated!
 [2013-09-10 09:25:16] nirvdrum, joining. (#ios-driver)
 [2013-09-10 09:42:11] santiycr, joining. (#ios-driver)
+[2013-09-10 10:01:48] ddary, joining. (#ios-driver)
+[2013-09-10 10:03:41] jlipps, quitting. (Quit: Leaving.)
