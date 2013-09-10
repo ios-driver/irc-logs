@@ -35,3 +35,7 @@
 [2013-09-10 08:44:46] smccarthy, joining. (#ios-driver)
 [2013-09-10 08:46:19] MP_, joining. (#ios-driver)
 [2013-09-10 08:47:07] MP_: Hello, is anyone on that might be able to help with an iOS simulator issue?
+[2013-09-10 08:51:37] MP_: Ok... So, we have the 6.0 jar running and we're trying to get the simulator to test Safari. We're trying a bunch of different things such as tweaking DesiredCapabilities and modifying permissions. We were seeing an error where APPIOSApplication could not be cast to IPAApplication but we got around that by specifically calling out "-aut" in the command line to the MobileSafari.app within the simulator
+[2013-09-10 08:52:06] MP_: But now we're seeing this error... "The HTTP request to the remote WebDriver server for URL http://localhost:5555/wd/hub/session timed out after 60 seconds."
+[2013-09-10 08:53:33] MP_: We have a few environment issues we're trying to contend with such as moving to port 5555 instead of 4444. Also, we're using the WebDriver C# libraries within a FitNesse/Mono framework.
+[2013-09-10 08:53:56] MP_: Any help or ideas would be greatly appreciated!
