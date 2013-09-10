@@ -8,3 +8,5 @@
 [2013-09-10 02:11:42] ios-driverbot_, quitting. (*.net *.split)
 [2013-09-10 02:11:46] dgrace, quitting. (*.net *.split)
 [2013-09-10 02:20:26] dgrace, joining. (#ios-driver)
+[2013-09-10 02:35:34] operatiay, quitting. (Remote host closed the connection)
+[2013-09-10 02:36:59] operatiay, joining. (#ios-driver)
