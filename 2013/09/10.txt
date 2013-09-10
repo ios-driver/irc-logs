@@ -16,3 +16,5 @@
 [2013-09-10 03:18:32] operatiay, joining. (#ios-driver)
 [2013-09-10 03:23:45] famska, quitting. (Ping timeout: 250 seconds)
 [2013-09-10 03:42:32] admc, joining. (#ios-driver)
+[2013-09-10 03:56:38] admc, quitting. (Quit: Leaving.)
+[2013-09-10 03:58:35] admc, joining. (#ios-driver)
