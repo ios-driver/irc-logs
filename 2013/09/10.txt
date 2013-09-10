@@ -39,3 +39,4 @@
 [2013-09-10 08:52:06] MP_: But now we're seeing this error... "The HTTP request to the remote WebDriver server for URL http://localhost:5555/wd/hub/session timed out after 60 seconds."
 [2013-09-10 08:53:33] MP_: We have a few environment issues we're trying to contend with such as moving to port 5555 instead of 4444. Also, we're using the WebDriver C# libraries within a FitNesse/Mono framework.
 [2013-09-10 08:53:56] MP_: Any help or ideas would be greatly appreciated!
+[2013-09-10 09:25:16] nirvdrum, joining. (#ios-driver)
