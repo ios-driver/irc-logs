@@ -26,3 +26,4 @@
 [2013-09-10 05:23:03] famska: Does ios-driver have this functionality?
 [2013-09-10 05:51:02] operatiay, quitting. (Remote host closed the connection)
 [2013-09-10 06:33:18] dawagner, joining. (#ios-driver)
+[2013-09-10 06:49:05] ddary, joining. (#ios-driver)
