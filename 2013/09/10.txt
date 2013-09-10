@@ -66,3 +66,4 @@
 [2013-09-10 15:32:40] nicegraham, quitting. (Ping timeout: 243 seconds)
 [2013-09-10 16:03:15] lukeis, quitting. (Quit: Leaving.)
 [2013-09-10 16:17:19] jlipps, quitting. (Quit: Leaving.)
+[2013-09-10 16:30:33] nirvdrum, quitting. (Remote host closed the connection)
