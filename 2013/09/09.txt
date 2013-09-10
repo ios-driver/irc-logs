@@ -54,3 +54,4 @@
 [2013-09-09 19:52:32] jlipps, quitting. (Quit: Leaving.)
 [2013-09-09 21:10:56] nirvdrum, quitting. (Remote host closed the connection)
 [2013-09-09 21:15:39] jlipps, joining. (#ios-driver)
+[2013-09-09 22:11:28] nirvdrum, joining. (#ios-driver)
