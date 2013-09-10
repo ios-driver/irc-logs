@@ -32,3 +32,4 @@
 [2013-09-10 08:15:56] lukeis, joining. (#ios-driver)
 [2013-09-10 08:18:47] nirvdrum, quitting. (Remote host closed the connection)
 [2013-09-10 08:20:41] jlipps, joining. (#ios-driver)
+[2013-09-10 08:44:46] smccarthy, joining. (#ios-driver)
