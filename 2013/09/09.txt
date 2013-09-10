@@ -40,3 +40,4 @@
 [2013-09-09 16:11:41] ios-driverbot_, joining. (#ios-driver)
 [2013-09-09 16:12:30] ios-driverbot, quitting. (Write error: Broken pipe)
 [2013-09-09 16:13:40] admc, quitting. (Ping timeout: 246 seconds)
+[2013-09-09 17:44:11] jlipps, quitting. (Quit: Leaving.)
