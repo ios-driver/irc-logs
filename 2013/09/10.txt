@@ -43,3 +43,4 @@
 [2013-09-10 09:42:11] santiycr, joining. (#ios-driver)
 [2013-09-10 10:01:48] ddary, joining. (#ios-driver)
 [2013-09-10 10:03:41] jlipps, quitting. (Quit: Leaving.)
+[2013-09-10 10:23:50] admc, joining. (#ios-driver)
