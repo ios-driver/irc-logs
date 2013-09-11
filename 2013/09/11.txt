@@ -68,3 +68,6 @@
 [2013-09-11 13:53:46] santiycr, joining. (#ios-driver)
 [2013-09-11 14:08:30] smccarthy2, joining. (#ios-driver)
 [2013-09-11 14:12:01] smccarthy, quitting. (Ping timeout: 268 seconds)
+[2013-09-11 14:52:08] nirvdrum, quitting. (Remote host closed the connection)
+[2013-09-11 14:54:19] smccarthy2, quitting. (Remote host closed the connection)
+[2013-09-11 14:54:54] smccarthy, joining. (#ios-driver)
