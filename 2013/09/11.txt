@@ -7,3 +7,10 @@
 [2013-09-11 03:58:48] dgrace: i'm fixing up some of the failing unit tests
 [2013-09-11 03:59:09] dgrace: have a quick question about getAttribute method in RemoteUIAElement
 [2013-09-11 03:59:38] dgrace: it's returning "null" when it does not find an attribute, i.e. a string null .. that ok?
+[2013-09-11 04:00:04] dgrace: String.valueOf(commandExecutor.execute(request))
+[2013-09-11 04:00:21] dgrace: causing a fail in one of the tests which expects null
+[2013-09-11 04:03:46] freynaud: it should be null
+[2013-09-11 04:03:50] freynaud: not the string null
+[2013-09-11 04:03:51] freynaud: {string|null} The value of the attribute, or null if it is not set on the element.
+[2013-09-11 04:03:55] freynaud: from the spec
+[2013-09-11 04:04:25] dgrace: cool, cheers
