@@ -40,3 +40,4 @@
 [2013-09-11 07:36:04] avaly, joining. (#ios-driver)
 [2013-09-11 07:37:14] avaly: does anyone have any clues regarding this issue https://github.com/ios-driver/ios-driver/issues/35#issuecomment-24245278 ?
 [2013-09-11 07:39:33] nirvdrum_, quitting. (Read error: Operation timed out)
+[2013-09-11 08:20:47] operatiay, quitting. (Remote host closed the connection)
