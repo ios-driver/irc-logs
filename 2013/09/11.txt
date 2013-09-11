@@ -46,3 +46,5 @@
 [2013-09-11 08:37:31] lukeis, joining. (#ios-driver)
 [2013-09-11 08:38:28] avaly, leaving. (#ios-driver)
 [2013-09-11 08:39:06] nirvdrum, joining. (#ios-driver)
+[2013-09-11 08:40:37] avaly, joining. (#ios-driver)
+[2013-09-11 08:42:01] avaly, quitting. (Client Quit)
