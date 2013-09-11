@@ -33,3 +33,4 @@
 [2013-09-11 06:42:25] operatiay, quitting. (Remote host closed the connection)
 [2013-09-11 06:42:33] avaly, joining. (#ios-driver)
 [2013-09-11 07:06:10] operatiay, joining. (#ios-driver)
+[2013-09-11 07:24:40] nirvdrum, joining. (#ios-driver)
