@@ -68,3 +68,4 @@
 [2013-09-10 16:17:19] jlipps, quitting. (Quit: Leaving.)
 [2013-09-10 16:30:33] nirvdrum, quitting. (Remote host closed the connection)
 [2013-09-10 16:51:21] smccarthy, quitting. (Remote host closed the connection)
+[2013-09-10 17:33:00] nicegraham, joining. (#ios-driver)
