@@ -56,3 +56,5 @@
 [2013-09-11 09:57:21] operatiay, quitting. (Remote host closed the connection)
 [2013-09-11 10:00:21] lukeis, quitting. (Quit: Leaving.)
 [2013-09-11 10:44:20] dawagner, joining. (#ios-driver)
+[2013-09-11 10:46:05] santiycr, joining. (#ios-driver)
+[2013-09-11 10:49:41] lukeis, joining. (#ios-driver)
