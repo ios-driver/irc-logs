@@ -49,3 +49,6 @@
 [2013-09-11 08:40:37] avaly, joining. (#ios-driver)
 [2013-09-11 08:42:01] avaly, quitting. (Client Quit)
 [2013-09-11 08:45:01] nirvdrum: nicegraham: Java 7u40 landed yesterday and fixes that screenshot bug.
+[2013-09-11 08:50:30] nicegraham: happy nirvdrum today! Thanks Oracle! :)
+[2013-09-11 08:51:41] nirvdrum: Indeed.  Now I can get off this random ref from 4 months ago.
+[2013-09-11 08:52:08] nirvdrum: It'll be nice to be on a real release again.
