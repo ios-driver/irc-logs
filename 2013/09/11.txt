@@ -34,3 +34,6 @@
 [2013-09-11 06:42:33] avaly, joining. (#ios-driver)
 [2013-09-11 07:06:10] operatiay, joining. (#ios-driver)
 [2013-09-11 07:24:40] nirvdrum, joining. (#ios-driver)
+[2013-09-11 07:27:58] nirvdrum, quitting. (Remote host closed the connection)
+[2013-09-11 07:28:07] avaly, quitting. (Ping timeout: 250 seconds)
+[2013-09-11 07:28:47] nirvdrum_, joining. (#ios-driver)
