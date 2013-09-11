@@ -58,3 +58,4 @@
 [2013-09-11 10:44:20] dawagner, joining. (#ios-driver)
 [2013-09-11 10:46:05] santiycr, joining. (#ios-driver)
 [2013-09-11 10:49:41] lukeis, joining. (#ios-driver)
+[2013-09-11 10:52:25] ddary, quitting. (Quit: ddary)
