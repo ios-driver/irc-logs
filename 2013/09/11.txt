@@ -26,3 +26,4 @@
 [2013-09-11 05:53:39] operatiay, joining. (#ios-driver)
 [2013-09-11 06:00:17] operatia_, joining. (#ios-driver)
 [2013-09-11 06:03:45] operatiay, quitting. (Ping timeout: 245 seconds)
+[2013-09-11 06:11:59] nirvdrum, joining. (#ios-driver)
