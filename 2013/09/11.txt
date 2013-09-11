@@ -24,3 +24,5 @@
 [2013-09-11 05:28:01] operatiay, quitting. (Remote host closed the connection)
 [2013-09-11 05:32:55] nirvdrum, quitting. (Remote host closed the connection)
 [2013-09-11 05:53:39] operatiay, joining. (#ios-driver)
+[2013-09-11 06:00:17] operatia_, joining. (#ios-driver)
+[2013-09-11 06:03:45] operatiay, quitting. (Ping timeout: 245 seconds)
