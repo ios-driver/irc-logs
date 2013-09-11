@@ -54,3 +54,4 @@
 [2013-09-11 08:52:08] nirvdrum: It'll be nice to be on a real release again.
 [2013-09-11 09:08:16] operatiay, joining. (#ios-driver)
 [2013-09-11 09:57:21] operatiay, quitting. (Remote host closed the connection)
+[2013-09-11 10:00:21] lukeis, quitting. (Quit: Leaving.)
