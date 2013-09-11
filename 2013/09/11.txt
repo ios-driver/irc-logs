@@ -2,3 +2,8 @@
 [2013-09-11 01:26:09] famska, quitting. (Quit: Page closed)
 [2013-09-11 03:23:42] admc, joining. (#ios-driver)
 [2013-09-11 03:29:49] admc, quitting. (Read error: Connection reset by peer)
+[2013-09-11 03:58:26] dgrace: freynaud: you there?
+[2013-09-11 03:58:31] freynaud: yes
+[2013-09-11 03:58:48] dgrace: i'm fixing up some of the failing unit tests
+[2013-09-11 03:59:09] dgrace: have a quick question about getAttribute method in RemoteUIAElement
+[2013-09-11 03:59:38] dgrace: it's returning "null" when it does not find an attribute, i.e. a string null .. that ok?
