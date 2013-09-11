@@ -37,3 +37,6 @@
 [2013-09-11 07:27:58] nirvdrum, quitting. (Remote host closed the connection)
 [2013-09-11 07:28:07] avaly, quitting. (Ping timeout: 250 seconds)
 [2013-09-11 07:28:47] nirvdrum_, joining. (#ios-driver)
+[2013-09-11 07:36:04] avaly, joining. (#ios-driver)
+[2013-09-11 07:37:14] avaly: does anyone have any clues regarding this issue https://github.com/ios-driver/ios-driver/issues/35#issuecomment-24245278 ?
+[2013-09-11 07:39:33] nirvdrum_, quitting. (Read error: Operation timed out)
