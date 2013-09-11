@@ -48,3 +48,4 @@
 [2013-09-11 08:39:06] nirvdrum, joining. (#ios-driver)
 [2013-09-11 08:40:37] avaly, joining. (#ios-driver)
 [2013-09-11 08:42:01] avaly, quitting. (Client Quit)
+[2013-09-11 08:45:01] nirvdrum: nicegraham: Java 7u40 landed yesterday and fixes that screenshot bug.
