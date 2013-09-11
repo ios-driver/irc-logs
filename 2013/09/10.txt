@@ -78,3 +78,4 @@
 [2013-09-10 21:20:22] santiycr, joining. (#ios-driver)
 [2013-09-10 21:28:56] santiycr, quitting. (Ping timeout: 246 seconds)
 [2013-09-10 22:20:59] santiycr, joining. (#ios-driver)
+[2013-09-10 22:26:00] santiycr, quitting. (Ping timeout: 276 seconds)
