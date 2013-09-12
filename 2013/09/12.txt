@@ -53,3 +53,4 @@
 [2013-09-12 09:54:50] nicegraham: there'll be a new release as soon as possible after it's fixed
 [2013-09-12 09:55:02] nicegraham: not sure on eta - freynaud is the man to check with
 [2013-09-12 09:59:45] zalivakp, quitting. (Ping timeout: 250 seconds)
+[2013-09-12 10:00:09] elstfi: nicegraham: so this (with dependencies) is related with the licencing issue?
