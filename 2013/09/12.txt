@@ -16,3 +16,22 @@
 [2013-09-12 06:35:12] nirvdrum_, joining. (#ios-driver)
 [2013-09-12 07:04:12] operatiay, joining. (#ios-driver)
 [2013-09-12 08:04:57] elstfi1, joining. (#ios-driver)
+[2013-09-12 08:05:07] elstfi1: hi!
+[2013-09-12 08:05:49] elstfi1: ups, just seen the 0.6.4 version on the topic… let me try again and see if the problem is still there :)
+[2013-09-12 08:08:07] elstfi1: nah I am having the same problem… What is happening is that I am created a small test pilot a couple months ago using v 0.6.0
+[2013-09-12 08:09:25] elstfi1: and now when I try to start the server using the 0.6.3 with dependencies (what does that mean), if I try to use the -beta flag (to test using real devices) I get the following errors:
+[2013-09-12 08:09:40] elstfi1: Cannot load libimobiledevice-sdk.dylib
+[2013-09-12 08:09:40] elstfi1: Exception in thread "main" java.lang.ExceptionInInitializerError
+[2013-09-12 08:09:40] elstfi1: 	at org.uiautomation.ios.server.IOSServerManager.<init>(IOSServerManager.java:57)
+[2013-09-12 08:09:40] elstfi1: 	at org.uiautomation.ios.server.IOSServer.init(IOSServer.java:112)
+[2013-09-12 08:09:40] elstfi1: 	at org.uiautomation.ios.server.IOSServer.init(IOSServer.java:83)
+[2013-09-12 08:09:40] elstfi1: 	at org.uiautomation.ios.server.IOSServer.<init>(IOSServer.java:62)
+[2013-09-12 08:09:40] elstfi1: 	at org.uiautomation.ios.server.IOSServer.main(IOSServer.java:66)
+[2013-09-12 08:09:41] elstfi1: Caused by: java.lang.NullPointerException
+[2013-09-12 08:09:41] elstfi1: 	at org.apache.commons.io.IOUtils.copyLarge(IOUtils.java:1792)
+[2013-09-12 08:09:42] elstfi1: 	at org.apache.commons.io.IOUtils.copyLarge(IOUtils.java:1769)
+[2013-09-12 08:09:42] elstfi1: 	at org.apache.commons.io.IOUtils.copy(IOUtils.java:1744)
+[2013-09-12 08:09:43] elstfi1: 	at org.libimobiledevice.ios.driver.binding.IMobileDeviceFactory.unpack(IMobileDeviceFactory.java:73)
+[2013-09-12 08:09:43] elstfi1: 	at org.libimobiledevice.ios.driver.binding.IMobileDeviceFactory.<clinit>(IMobileDeviceFactory.java:42)
+[2013-09-12 08:09:44] elstfi1: 	... 5 more
+[2013-09-12 08:09:46] elstfi1: any idea why? Thanks!
