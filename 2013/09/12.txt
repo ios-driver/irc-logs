@@ -35,3 +35,4 @@
 [2013-09-12 08:09:43] elstfi1: 	at org.libimobiledevice.ios.driver.binding.IMobileDeviceFactory.<clinit>(IMobileDeviceFactory.java:42)
 [2013-09-12 08:09:44] elstfi1: 	... 5 more
 [2013-09-12 08:09:46] elstfi1: any idea why? Thanks!
+[2013-09-12 08:24:47] lukeis, joining. (#ios-driver)
