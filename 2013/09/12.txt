@@ -55,3 +55,6 @@
 [2013-09-12 09:59:45] zalivakp, quitting. (Ping timeout: 250 seconds)
 [2013-09-12 10:00:09] elstfi: nicegraham: so this (with dependencies) is related with the licencing issue?
 [2013-09-12 10:44:10] santiycr, joining. (#ios-driver)
+[2013-09-12 10:50:28] nicegraham: esltif: the file name is purely a result of using maven to build the jar
+[2013-09-12 10:50:39] nicegraham: it includes all teh ios-driver dependencies
+[2013-09-12 10:50:49] nicegraham: it has nothing to do with licensing
