@@ -8,3 +8,4 @@
 [2013-09-12 04:39:42] operatiay, joining. (#ios-driver)
 [2013-09-12 05:03:59] avaly, quitting. (Quit: WeeChat 0.3.7)
 [2013-09-12 05:18:53] nirvdrum, joining. (#ios-driver)
+[2013-09-12 05:23:52] nirvdrum, quitting. (Ping timeout: 264 seconds)
