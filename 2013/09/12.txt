@@ -63,3 +63,4 @@
 [2013-09-12 11:28:06] ddary, joining. (#ios-driver)
 [2013-09-12 11:45:04] ddary, leaving. (#ios-driver)
 [2013-09-12 14:40:59] arkmon_, joining. (#ios-driver)
+[2013-09-12 14:46:05] lukeis, quitting. (Quit: Leaving.)
