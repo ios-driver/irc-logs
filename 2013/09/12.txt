@@ -44,3 +44,10 @@
 [2013-09-12 09:48:24] elstfi, quitting. (Read error: Connection reset by peer)
 [2013-09-12 09:49:32] elstfi1, quitting. (Client Quit)
 [2013-09-12 09:49:45] elstfi, joining. (#ios-driver)
+[2013-09-12 09:51:31] elstfi, quitting. (Client Quit)
+[2013-09-12 09:51:41] elstfi, joining. (#ios-driver)
+[2013-09-12 09:52:50] nicegraham: elstfi: yes - there is a problem with real device support right now
+[2013-09-12 09:53:03] nicegraham: it's a licencing issue and we'll have it fixed asap
+[2013-09-12 09:54:12] operatiay, quitting. (Remote host closed the connection)
+[2013-09-12 09:54:30] elstfi: oh ok, didn't know that. Thanks nicegraham. Any estimations? it will be announced here?
+[2013-09-12 09:54:50] nicegraham: there'll be a new release as soon as possible after it's fixed
