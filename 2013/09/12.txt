@@ -51,3 +51,5 @@
 [2013-09-12 09:54:12] operatiay, quitting. (Remote host closed the connection)
 [2013-09-12 09:54:30] elstfi: oh ok, didn't know that. Thanks nicegraham. Any estimations? it will be announced here?
 [2013-09-12 09:54:50] nicegraham: there'll be a new release as soon as possible after it's fixed
+[2013-09-12 09:55:02] nicegraham: not sure on eta - freynaud is the man to check with
+[2013-09-12 09:59:45] zalivakp, quitting. (Ping timeout: 250 seconds)
