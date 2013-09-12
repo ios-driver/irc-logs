@@ -1,3 +1,4 @@
 [2013-09-12 00:37:37] operatiay, joining. (#ios-driver)
 [2013-09-12 01:42:15] operatiay, quitting. (Remote host closed the connection)
 [2013-09-12 01:57:37] avaly, joining. (#ios-driver)
+[2013-09-12 02:22:50] operatiay, joining. (#ios-driver)
