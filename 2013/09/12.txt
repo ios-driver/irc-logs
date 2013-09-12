@@ -59,3 +59,4 @@
 [2013-09-12 10:50:39] nicegraham: it includes all teh ios-driver dependencies
 [2013-09-12 10:50:49] nicegraham: it has nothing to do with licensing
 [2013-09-12 11:10:24] ddary, quitting. (Read error: Connection reset by peer)
+[2013-09-12 11:20:28] santiycr, quitting. (Quit: Leaving.)
