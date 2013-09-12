@@ -61,3 +61,4 @@
 [2013-09-12 11:10:24] ddary, quitting. (Read error: Connection reset by peer)
 [2013-09-12 11:20:28] santiycr, quitting. (Quit: Leaving.)
 [2013-09-12 11:28:06] ddary, joining. (#ios-driver)
+[2013-09-12 11:45:04] ddary, leaving. (#ios-driver)
