@@ -38,3 +38,9 @@
 [2013-09-13 06:09:30] elstfi1, quitting. (Client Quit)
 [2013-09-13 06:09:30] elstfi, quitting. (Read error: Connection reset by peer)
 [2013-09-13 06:09:51] elstfi, joining. (#ios-driver)
+[2013-09-13 06:27:35] ios-driver-git, joining. (#ios-driver)
+[2013-09-13 06:27:36] ios-driver-git: [ios-driver] freynaud created refactor (+19 new commits): http://git.io/SAMyNg
+[2013-09-13 06:27:36] ios-driver-git: ios-driver/refactor 800caa9 Francois Reynaud: adding some helper classes to find out what exact version of instruments the user is running as part of his Xcode install....
+[2013-09-13 06:27:36] ios-driver-git: ios-driver/refactor 6d3d96e Francois Reynaud: NewSessionException now takes the root cause as param, so using it.
+[2013-09-13 06:27:36] ios-driver-git: ios-driver/refactor 3dfadf0 Francois Reynaud: making InstrumentsVersion debug a bit easier by adding a toString
+[2013-09-13 06:27:36] ios-driver-git, leaving. (#ios-driver)
