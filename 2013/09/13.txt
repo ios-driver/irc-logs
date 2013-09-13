@@ -64,3 +64,4 @@
 [2013-09-13 08:36:32] jlipps, quitting. (Ping timeout: 256 seconds)
 [2013-09-13 08:51:49] jlipps, joining. (#ios-driver)
 [2013-09-13 08:58:28] smccarthy, joining. (#ios-driver)
+[2013-09-13 09:04:18] jlipps, quitting. (Ping timeout: 264 seconds)
