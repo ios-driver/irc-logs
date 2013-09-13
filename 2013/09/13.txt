@@ -80,3 +80,4 @@
 [2013-09-13 13:04:21] tesgn, quitting. (Ping timeout: 248 seconds)
 [2013-09-13 13:46:54] jpj, quitting. (Ping timeout: 264 seconds)
 [2013-09-13 15:01:22] lukeis, quitting. (Quit: Leaving.)
+[2013-09-13 16:41:11] smccarthy, quitting. (Remote host closed the connection)
