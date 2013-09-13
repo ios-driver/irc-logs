@@ -72,3 +72,4 @@
 [2013-09-12 17:55:13] jlipps, joining. (#ios-driver)
 [2013-09-12 19:29:54] nirvdrum_, quitting. (Ping timeout: 240 seconds)
 [2013-09-12 22:42:29] ddary, joining. (#ios-driver)
+[2013-09-12 22:46:18] ddary: :logs
