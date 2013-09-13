@@ -63,3 +63,4 @@
 [2013-09-13 08:31:29] lukeis, joining. (#ios-driver)
 [2013-09-13 08:36:32] jlipps, quitting. (Ping timeout: 256 seconds)
 [2013-09-13 08:51:49] jlipps, joining. (#ios-driver)
+[2013-09-13 08:58:28] smccarthy, joining. (#ios-driver)
