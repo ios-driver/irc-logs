@@ -70,3 +70,4 @@
 [2013-09-13 09:53:13] zalivakp, quitting. (Ping timeout: 250 seconds)
 [2013-09-13 09:58:00] admc, joining. (#ios-driver)
 [2013-09-13 09:58:47] lukeis, quitting. (Quit: Leaving.)
+[2013-09-13 10:03:52] lukeis, joining. (#ios-driver)
