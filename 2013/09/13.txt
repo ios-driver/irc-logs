@@ -26,3 +26,4 @@
 [2013-09-13 03:55:48] elstfi, quitting. (Ping timeout: 268 seconds)
 [2013-09-13 03:58:23] arkmon_, joining. (#ios-driver)
 [2013-09-13 04:04:07] elstfi1, quitting. (Ping timeout: 260 seconds)
+[2013-09-13 04:12:01] elstfi, joining. (#ios-driver)
