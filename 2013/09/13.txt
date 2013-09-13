@@ -8,3 +8,4 @@
 [2013-09-13 00:28:41] freynaud: without the c libs
 [2013-09-13 00:28:46] freynaud: then no license issues
 [2013-09-13 00:37:48] operatiay, joining. (#ios-driver)
+[2013-09-13 00:46:43] jlipps, quitting. (Ping timeout: 264 seconds)
