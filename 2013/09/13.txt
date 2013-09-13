@@ -53,3 +53,9 @@
 [2013-09-13 06:57:09] ddary, joining. (#ios-driver)
 [2013-09-13 06:58:46] ddary, quitting. (Client Quit)
 [2013-09-13 07:00:02] ddary, joining. (#ios-driver)
+[2013-09-13 07:06:52] ios-driver-git, joining. (#ios-driver)
+[2013-09-13 07:06:53] ios-driver-git: [ios-driver] nicegraham pushed 5 new commits to dev: http://git.io/mOJ7YQ
+[2013-09-13 07:06:53] ios-driver-git: ios-driver/dev 454c6f0 Darragh Grace: Fixing scroll tests. Better locators used for PPNQASampleApp
+[2013-09-13 07:06:53] ios-driver-git: ios-driver/dev 1f4d8fd Darragh Grace: Adding updated PPNQASampleApp with accessibility added to scrollviews
+[2013-09-13 07:06:53] ios-driver-git, leaving. (#ios-driver)
+[2013-09-13 07:06:53] ios-driver-git: ios-driver/dev 04c584b Darragh Grace: getAttribute should return null if no value present, not string value of null --> "null"
