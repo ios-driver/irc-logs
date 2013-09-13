@@ -61,3 +61,4 @@
 [2013-09-13 07:06:53] ios-driver-git: ios-driver/dev 04c584b Darragh Grace: getAttribute should return null if no value present, not string value of null --> "null"
 [2013-09-13 07:39:14] ddary, leaving. (#ios-driver)
 [2013-09-13 08:31:29] lukeis, joining. (#ios-driver)
+[2013-09-13 08:36:32] jlipps, quitting. (Ping timeout: 256 seconds)
