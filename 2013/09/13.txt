@@ -1,0 +1,5 @@
+[2013-09-13 00:09:27] freynaud: nicegraham: no news for libimobile
+[2013-09-13 00:09:34] freynaud: but we can release without
+[2013-09-13 00:09:44] freynaud: at least for ios  7 support
+[2013-09-13 00:09:46] nicegraham: no real device support so?
+[2013-09-13 00:09:50] nicegraham: and how's that?
