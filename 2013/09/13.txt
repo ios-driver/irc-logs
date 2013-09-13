@@ -4,3 +4,6 @@
 [2013-09-13 00:09:46] nicegraham: no real device support so?
 [2013-09-13 00:09:50] nicegraham: and how's that?
 [2013-09-13 00:20:44] jlipps, joining. (#ios-driver)
+[2013-09-13 00:28:37] freynaud: we can release the java part
+[2013-09-13 00:28:41] freynaud: without the c libs
+[2013-09-13 00:28:46] freynaud: then no license issues
