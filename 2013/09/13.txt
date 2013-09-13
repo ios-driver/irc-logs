@@ -12,3 +12,4 @@
 [2013-09-13 01:14:18] jlipps, joining. (#ios-driver)
 [2013-09-13 01:27:34] jlipps, quitting. (Ping timeout: 256 seconds)
 [2013-09-13 01:28:07] jlipps, joining. (#ios-driver)
+[2013-09-13 01:36:57] zalivakp, joining. (#ios-driver)
