@@ -78,3 +78,4 @@
 [2013-09-13 10:41:00] admc, quitting. (Quit: Leaving.)
 [2013-09-13 12:34:42] jpj, joining. (#ios-driver)
 [2013-09-13 13:04:21] tesgn, quitting. (Ping timeout: 248 seconds)
+[2013-09-13 13:46:54] jpj, quitting. (Ping timeout: 264 seconds)
