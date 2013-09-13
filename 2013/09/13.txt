@@ -32,3 +32,4 @@
 [2013-09-13 04:39:15] operatiay, joining. (#ios-driver)
 [2013-09-13 04:56:54] admc, joining. (#ios-driver)
 [2013-09-13 05:19:35] arkmon_, quitting. (Quit: ZZZzzz…)
+[2013-09-13 05:29:13] operatiay, quitting. (Remote host closed the connection)
