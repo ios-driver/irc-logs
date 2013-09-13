@@ -27,3 +27,6 @@
 [2013-09-13 03:58:23] arkmon_, joining. (#ios-driver)
 [2013-09-13 04:04:07] elstfi1, quitting. (Ping timeout: 260 seconds)
 [2013-09-13 04:12:01] elstfi, joining. (#ios-driver)
+[2013-09-13 04:38:02] operatiay, quitting. (Remote host closed the connection)
+[2013-09-13 04:38:05] ddary, leaving. (#ios-driver)
+[2013-09-13 04:39:15] operatiay, joining. (#ios-driver)
