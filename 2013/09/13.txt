@@ -44,3 +44,7 @@
 [2013-09-13 06:27:36] ios-driver-git: ios-driver/refactor 6d3d96e Francois Reynaud: NewSessionException now takes the root cause as param, so using it.
 [2013-09-13 06:27:36] ios-driver-git: ios-driver/refactor 3dfadf0 Francois Reynaud: making InstrumentsVersion debug a bit easier by adding a toString
 [2013-09-13 06:27:36] ios-driver-git, leaving. (#ios-driver)
+[2013-09-13 06:31:04] admc1, joining. (#ios-driver)
+[2013-09-13 06:31:21] admc, quitting. (Ping timeout: 256 seconds)
+[2013-09-13 06:31:30] admc1, quitting. (Client Quit)
+[2013-09-13 06:32:01] admc, joining. (#ios-driver)
