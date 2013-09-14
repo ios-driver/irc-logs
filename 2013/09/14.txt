@@ -1,2 +1,3 @@
 [2013-09-14 00:36:06] nicegraham, quitting. (Ping timeout: 264 seconds)
 [2013-09-14 00:36:26] nicegraham, joining. (#ios-driver)
+[2013-09-14 01:11:40] admc, joining. (#ios-driver)
