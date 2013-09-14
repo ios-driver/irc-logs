@@ -12,3 +12,4 @@
 [2013-09-14 11:03:51] psp250, joining. (#ios-driver)
 [2013-09-14 14:33:27] nirvdrum: dgrace: Do you have any idea why mobile safari isn't being returned as a supported application in 0.6.4?
 [2013-09-14 15:24:04] smccarthy, quitting. (Remote host closed the connection)
+[2013-09-14 16:36:13] psp250, quitting. (Quit: Leaving)
