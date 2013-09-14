@@ -3,3 +3,6 @@
 [2013-09-14 01:11:40] admc, joining. (#ios-driver)
 [2013-09-14 01:16:00] admc, quitting. (Read error: Connection reset by peer)
 [2013-09-14 01:16:04] admc1, joining. (#ios-driver)
+[2013-09-14 01:20:48] admc1, quitting. (Read error: Connection reset by peer)
+[2013-09-14 01:20:54] admc, joining. (#ios-driver)
+[2013-09-14 01:22:39] admc, quitting. (Read error: Connection reset by peer)
