@@ -1,1 +1,2 @@
 [2013-09-15 03:20:33] jlipps, joining. (#ios-driver)
+[2013-09-15 04:09:00] nicegraham: :note nirvdrum re mobile safari, are you setting the -simulators flag?
