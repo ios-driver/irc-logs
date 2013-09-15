@@ -17,3 +17,4 @@
 [2013-09-15 08:14:01] admc2, changing nick to admc.
 [2013-09-15 08:30:26] smccarthy, joining. (#ios-driver)
 [2013-09-15 10:16:42] admc, quitting. (Quit: Leaving.)
+[2013-09-15 10:49:58] jlipps, joining. (#ios-driver)
