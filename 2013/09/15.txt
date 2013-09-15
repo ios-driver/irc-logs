@@ -11,3 +11,6 @@
 [2013-09-15 06:25:51] admc, joining. (#ios-driver)
 [2013-09-15 06:27:11] admc1, quitting. (Ping timeout: 246 seconds)
 [2013-09-15 07:34:39] admc1, joining. (#ios-driver)
+[2013-09-15 07:35:37] admc2, joining. (#ios-driver)
+[2013-09-15 07:35:41] admc1, quitting. (Read error: No route to host)
+[2013-09-15 07:36:21] admc, quitting. (Read error: Connection reset by peer)
