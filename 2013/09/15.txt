@@ -15,3 +15,4 @@
 [2013-09-15 07:35:41] admc1, quitting. (Read error: No route to host)
 [2013-09-15 07:36:21] admc, quitting. (Read error: Connection reset by peer)
 [2013-09-15 08:14:01] admc2, changing nick to admc.
+[2013-09-15 08:30:26] smccarthy, joining. (#ios-driver)
