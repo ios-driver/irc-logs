@@ -2,3 +2,5 @@
 [2013-09-15 04:09:00] nicegraham: :note nirvdrum re mobile safari, are you setting the -simulators flag?
 [2013-09-15 04:15:00] jlipps1, joining. (#ios-driver)
 [2013-09-15 04:15:16] jlipps, quitting. (Ping timeout: 260 seconds)
+[2013-09-15 04:55:59] jlipps1, quitting. (Ping timeout: 256 seconds)
+[2013-09-15 04:56:22] jlipps, joining. (#ios-driver)
