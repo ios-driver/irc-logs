@@ -64,3 +64,6 @@
 [2013-09-16 07:41:25] nirvdrum: Anyway, null guarding that allowed Safari to work perfectly fine for me.
 [2013-09-16 07:41:34] nirvdrum: Using the "iPhone" and "iPad" capabilities.
 [2013-09-16 07:41:47] nicegraham: did you commit that change?
+[2013-09-16 07:45:22] nirvdrum: No.  I wanted to understand why this suddenly became a problem.
+[2013-09-16 07:45:41] nirvdrum: I was git blaming the source and most of this hadn't been touched in over a year.
+[2013-09-16 07:46:03] nicegraham: in our code or se?
