@@ -98,3 +98,4 @@
 [2013-09-16 11:13:20] santiycr, joining. (#ios-driver)
 [2013-09-16 11:58:00] operatiay, joining. (#ios-driver)
 [2013-09-16 12:02:22] operatiay, quitting. (Ping timeout: 246 seconds)
+[2013-09-16 12:56:46] admc, joining. (#ios-driver)
