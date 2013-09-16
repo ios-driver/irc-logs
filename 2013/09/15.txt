@@ -51,3 +51,4 @@
 [2013-09-15 23:28:04] ddary, joining. (#ios-driver)
 [2013-09-15 23:37:46] jlipps, joining. (#ios-driver)
 [2013-09-15 23:42:42] jlipps, quitting. (Ping timeout: 264 seconds)
+[2013-09-15 23:46:04] jlipps, joining. (#ios-driver)
