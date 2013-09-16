@@ -38,3 +38,25 @@
 [2013-09-16 07:34:21] nicegraham: yeah, I'd say so
 [2013-09-16 07:34:32] nicegraham: apologies :)
 [2013-09-16 07:34:48] nirvdrum: Especially for that to change in a point release.  As far as I could tell, there's no mention of it either.
+[2013-09-16 07:35:12] nicegraham: it's part of the new libimobile stuff
+[2013-09-16 07:35:21] nicegraham: you won't be tied to a mac to run real devices
+[2013-09-16 07:35:40] nicegraham: so we need to be able to switch off the simulator stuff since that's mac specific
+[2013-09-16 07:35:45] nirvdrum: That's fine.  It should have just been in 0.7.0 with a big warning in the release notes.
+[2013-09-16 07:36:03] nirvdrum: But I didn't see any mention in the Safari section of the site, either.
+[2013-09-16 07:36:14] nirvdrum: But, that's neither here nor there.
+[2013-09-16 07:36:23] nicegraham: we need to update the docs
+[2013-09-16 07:36:30] nirvdrum: As I mentioned in that issue, if either the locale or language is blank, the plist fails to write.
+[2013-09-16 07:36:33] nicegraham: I was talking to freynaud on friday
+[2013-09-16 07:36:59] nirvdrum: ios-driver re-wraps that exception in the one about the simulator not working.
+[2013-09-16 07:37:06] nicegraham: that's if you pass DesiredCapabilities.iphone?
+[2013-09-16 07:37:24] nirvdrum: Correct.  At least the one from ruby.
+[2013-09-16 07:37:41] nicegraham: :) that's the other thing we wanted to check
+[2013-09-16 07:37:50] nicegraham: how the ruby and python bindings are working
+[2013-09-16 07:37:58] nicegraham: and getting some basic unit tests in for them
+[2013-09-16 07:38:28] nirvdrum: But the client bindings shouldn't have to be updated to work with the latest ios-driver.
+[2013-09-16 07:38:44] nirvdrum: (I'm also using the latest ruby binding, FWIW)
+[2013-09-16 07:38:51] nicegraham: I'm not saying they should
+[2013-09-16 07:39:04] nicegraham: just that the capabilities behave differently
+[2013-09-16 07:39:26] nicegraham: we've had problems with the ruby ones before because they seem to be the strictest implementation
+[2013-09-16 07:39:46] nirvdrum: So, they don't pass over either a locale or a language.
+[2013-09-16 07:40:00] nirvdrum: I would think the safest thing is if they're null, just use whatever the system already has set up.
