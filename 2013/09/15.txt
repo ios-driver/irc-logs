@@ -46,3 +46,4 @@
 [2013-09-15 22:09:11] jlipps, quitting. (Ping timeout: 245 seconds)
 [2013-09-15 22:27:23] santiycr, joining. (#ios-driver)
 [2013-09-15 22:29:38] santiycr, quitting. (Client Quit)
+[2013-09-15 23:06:38] jlipps, joining. (#ios-driver)
