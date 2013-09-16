@@ -11,3 +11,4 @@
 [2013-09-16 02:00:35] tesgn, joining. (#ios-driver)
 [2013-09-16 02:00:55] elstfi, joining. (#ios-driver)
 [2013-09-16 02:54:09] operatiay, quitting. (Remote host closed the connection)
+[2013-09-16 03:03:16] operatiay, joining. (#ios-driver)
