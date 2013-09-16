@@ -107,3 +107,4 @@
 [2013-09-16 14:55:55] jlipps, joining. (#ios-driver)
 [2013-09-16 15:04:23] dawagner, quitting. (Quit: Leaving)
 [2013-09-16 15:46:59] psp250, quitting. (Quit: Leaving)
+[2013-09-16 16:02:57] jlipps, quitting. (Quit: Leaving.)
