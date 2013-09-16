@@ -92,3 +92,4 @@
 [2013-09-16 09:37:43] dawagner, joining. (#ios-driver)
 [2013-09-16 09:57:41] operatiay, quitting. (Remote host closed the connection)
 [2013-09-16 10:05:32] santiycr, joining. (#ios-driver)
+[2013-09-16 10:27:01] ddary, quitting. (Quit: ddary)
