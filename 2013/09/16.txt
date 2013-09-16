@@ -108,3 +108,4 @@
 [2013-09-16 15:04:23] dawagner, quitting. (Quit: Leaving)
 [2013-09-16 15:46:59] psp250, quitting. (Quit: Leaving)
 [2013-09-16 16:02:57] jlipps, quitting. (Quit: Leaving.)
+[2013-09-16 16:08:14] lukeis, quitting. (Ping timeout: 240 seconds)
