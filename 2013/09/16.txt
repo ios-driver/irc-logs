@@ -90,3 +90,4 @@
 [2013-09-16 09:21:53] dawagner, joining. (#ios-driver)
 [2013-09-16 09:37:17] dawagner, quitting. (Read error: Connection reset by peer)
 [2013-09-16 09:37:43] dawagner, joining. (#ios-driver)
+[2013-09-16 09:57:41] operatiay, quitting. (Remote host closed the connection)
