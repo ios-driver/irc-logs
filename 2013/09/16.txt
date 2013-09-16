@@ -83,3 +83,5 @@
 [2013-09-16 08:34:16] *nicegraham is heading home'
 [2013-09-16 08:39:21] smccarthy, joining. (#ios-driver)
 [2013-09-16 08:40:45] lukeis, joining. (#ios-driver)
+[2013-09-16 08:55:40] nirvdrum: nicegraham: That's been fixed and will be in the Selenium release tomorrow.
+[2013-09-16 08:58:04] lukeis: if we figure out the Firefox prebuilts in time ;)
