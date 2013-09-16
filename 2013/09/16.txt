@@ -88,3 +88,5 @@
 [2013-09-16 09:02:37] nirvdrum: I'm trying to figure out why this is all of a sudden a problem: https://github.com/ios-driver/ios-driver/issues/142
 [2013-09-16 09:02:58] nirvdrum: freynaud: Any ideas?
 [2013-09-16 09:21:53] dawagner, joining. (#ios-driver)
+[2013-09-16 09:37:17] dawagner, quitting. (Read error: Connection reset by peer)
+[2013-09-16 09:37:43] dawagner, joining. (#ios-driver)
