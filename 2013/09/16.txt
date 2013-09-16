@@ -94,3 +94,4 @@
 [2013-09-16 10:05:32] santiycr, joining. (#ios-driver)
 [2013-09-16 10:27:01] ddary, quitting. (Quit: ddary)
 [2013-09-16 10:40:03] elstfi, quitting. (Quit: Leaving.)
+[2013-09-16 10:56:54] santiycr, quitting. (Quit: Leaving.)
