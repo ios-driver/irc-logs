@@ -60,3 +60,7 @@
 [2013-09-16 07:39:26] nicegraham: we've had problems with the ruby ones before because they seem to be the strictest implementation
 [2013-09-16 07:39:46] nirvdrum: So, they don't pass over either a locale or a language.
 [2013-09-16 07:40:00] nirvdrum: I would think the safest thing is if they're null, just use whatever the system already has set up.
+[2013-09-16 07:40:13] nicegraham: yeah, I think so
+[2013-09-16 07:41:25] nirvdrum: Anyway, null guarding that allowed Safari to work perfectly fine for me.
+[2013-09-16 07:41:34] nirvdrum: Using the "iPhone" and "iPad" capabilities.
+[2013-09-16 07:41:47] nicegraham: did you commit that change?
