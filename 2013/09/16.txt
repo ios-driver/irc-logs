@@ -69,3 +69,10 @@
 [2013-09-16 07:46:03] nicegraham: in our code or se?
 [2013-09-16 07:55:43] psp250, joining. (#ios-driver)
 [2013-09-16 08:07:15] nirvdrum: Ours.
+[2013-09-16 08:15:52] nicegraham: so it's an se change
+[2013-09-16 08:16:04] nicegraham: it was last time when they added that state / status field too
+[2013-09-16 08:18:41] nirvdrum: What changed?
+[2013-09-16 08:19:20] nirvdrum: From my perspective, I was running a 0.7.0-dev release from about 3 months ago and everything worked fine.  I switched to 0.6.4 and suddenly this locale thing became a problem.
+[2013-09-16 08:19:28] nirvdrum: Using the same Selenium version.
+[2013-09-16 08:19:47] nirvdrum: But, I'm missing whatever context during those 3 months3.
+[2013-09-16 08:19:51] nirvdrum: *months.
