@@ -27,3 +27,4 @@
 [2013-09-16 04:37:10] elstfi, joining. (#ios-driver)
 [2013-09-16 04:41:30] admc, quitting. (Ping timeout: 264 seconds)
 [2013-09-16 05:37:29] zalivakp, joining. (#ios-driver)
+[2013-09-16 06:26:23] operatiay, quitting. (Remote host closed the connection)
