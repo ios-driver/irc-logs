@@ -76,3 +76,8 @@
 [2013-09-16 08:19:28] nirvdrum: Using the same Selenium version.
 [2013-09-16 08:19:47] nirvdrum: But, I'm missing whatever context during those 3 months3.
 [2013-09-16 08:19:51] nirvdrum: *months.
+[2013-09-16 08:33:28] nicegraham: the desiredcapability they added or made mandatory at least
+[2013-09-16 08:33:42] nicegraham: state / status
+[2013-09-16 08:33:46] nicegraham: not sure in this case
+[2013-09-16 08:34:07] nicegraham: but if our code hasn't changed in that area it's unlikely to a problem on our side
+[2013-09-16 08:34:16] *nicegraham is heading home'
