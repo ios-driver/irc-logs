@@ -81,3 +81,4 @@
 [2013-09-16 08:33:46] nicegraham: not sure in this case
 [2013-09-16 08:34:07] nicegraham: but if our code hasn't changed in that area it's unlikely to a problem on our side
 [2013-09-16 08:34:16] *nicegraham is heading home'
+[2013-09-16 08:39:21] smccarthy, joining. (#ios-driver)
