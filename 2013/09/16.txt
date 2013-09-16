@@ -85,3 +85,5 @@
 [2013-09-16 08:40:45] lukeis, joining. (#ios-driver)
 [2013-09-16 08:55:40] nirvdrum: nicegraham: That's been fixed and will be in the Selenium release tomorrow.
 [2013-09-16 08:58:04] lukeis: if we figure out the Firefox prebuilts in time ;)
+[2013-09-16 09:02:37] nirvdrum: I'm trying to figure out why this is all of a sudden a problem: https://github.com/ios-driver/ios-driver/issues/142
+[2013-09-16 09:02:58] nirvdrum: freynaud: Any ideas?
