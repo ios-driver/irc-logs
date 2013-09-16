@@ -29,3 +29,12 @@
 [2013-09-16 05:37:29] zalivakp, joining. (#ios-driver)
 [2013-09-16 06:26:23] operatiay, quitting. (Remote host closed the connection)
 [2013-09-16 06:53:12] operatiay, joining. (#ios-driver)
+[2013-09-16 07:32:47] nirvdrum, joining. (#ios-driver)
+[2013-09-16 07:33:15] nirvdrum: nicegraham: I passed the flag.  Does it need a value?
+[2013-09-16 07:33:26] nicegraham: no, just the flag
+[2013-09-16 07:33:35] nirvdrum: That's what I thought.
+[2013-09-16 07:33:49] nirvdrum: I found that out after realizing all my nodes registered to the grid without any browsers.
+[2013-09-16 07:34:03] nirvdrum: That was pretty damn confusing.
+[2013-09-16 07:34:21] nicegraham: yeah, I'd say so
+[2013-09-16 07:34:32] nicegraham: apologies :)
+[2013-09-16 07:34:48] nirvdrum: Especially for that to change in a point release.  As far as I could tell, there's no mention of it either.
