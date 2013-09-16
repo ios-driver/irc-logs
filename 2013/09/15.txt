@@ -37,3 +37,4 @@
 [2013-09-15 20:28:31] smccarthy2, quitting. (Remote host closed the connection)
 [2013-09-15 20:31:43] jlipps, joining. (#ios-driver)
 [2013-09-15 20:35:46] jlipps, quitting. (Ping timeout: 240 seconds)
+[2013-09-15 21:03:13] jlipps, joining. (#ios-driver)
