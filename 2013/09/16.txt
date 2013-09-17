@@ -116,3 +116,9 @@
 [2013-09-16 22:08:44] smccarthy, quitting. (Remote host closed the connection)
 [2013-09-16 22:45:27] ddary, joining. (#ios-driver)
 [2013-09-16 23:03:28] tesgn_, joining. (#ios-driver)
+[2013-09-16 23:05:32] hachi_, joining. (#ios-driver)
+[2013-09-16 23:05:57] millenium, joining. (#ios-driver)
+[2013-09-16 23:07:51] millenium, quitting. (Read error: Connection reset by peer)
+[2013-09-16 23:09:06] tesgn, quitting. (*.net *.split)
+[2013-09-16 23:09:07] hachi, quitting. (*.net *.split)
+[2013-09-16 23:09:07] tesgn_, changing nick to tesgn.
