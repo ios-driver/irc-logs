@@ -33,3 +33,5 @@
 [2013-09-17 07:11:42] admc, joining. (#ios-driver)
 [2013-09-17 07:46:09] nirvdrum, joining. (#ios-driver)
 [2013-09-17 08:25:40] ddary, quitting. (Quit: ddary)
+[2013-09-17 08:34:33] admc, quitting. (Quit: Leaving.)
+[2013-09-17 08:34:44] smccarthy, joining. (#ios-driver)
