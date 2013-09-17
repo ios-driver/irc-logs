@@ -40,3 +40,4 @@
 [2013-09-17 08:53:54] operatiay, quitting. (Remote host closed the connection)
 [2013-09-17 08:58:07] admc, quitting. (Quit: Leaving.)
 [2013-09-17 10:00:15] psp250, joining. (#ios-driver)
+[2013-09-17 10:39:45] elstfi, quitting. (Quit: Leaving.)
