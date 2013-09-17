@@ -4,3 +4,5 @@
 [2013-09-17 02:01:51] elstfi, joining. (#ios-driver)
 [2013-09-17 02:12:32] operatiay, quitting. (Remote host closed the connection)
 [2013-09-17 02:27:44] operatiay, joining. (#ios-driver)
+[2013-09-17 02:51:50] ddary, quitting. (Ping timeout: 240 seconds)
+[2013-09-17 02:51:52] ddary_, joining. (#ios-driver)
