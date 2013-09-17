@@ -2,3 +2,4 @@
 [2013-09-17 00:47:55] ddary, quitting. (Quit: ddary)
 [2013-09-17 00:49:34] ddary, joining. (#ios-driver)
 [2013-09-17 02:01:51] elstfi, joining. (#ios-driver)
+[2013-09-17 02:12:32] operatiay, quitting. (Remote host closed the connection)
