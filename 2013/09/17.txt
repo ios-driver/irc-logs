@@ -30,3 +30,4 @@
 [2013-09-17 06:45:32] freynaud_, quitting. (Client Quit)
 [2013-09-17 06:57:31] operatiay, quitting. (Remote host closed the connection)
 [2013-09-17 07:07:07] operatiay, joining. (#ios-driver)
+[2013-09-17 07:11:42] admc, joining. (#ios-driver)
