@@ -28,3 +28,4 @@
 [2013-09-17 06:18:25] elstfi, joining. (#ios-driver)
 [2013-09-17 06:45:23] freynaud_, joining. (#ios-driver)
 [2013-09-17 06:45:32] freynaud_, quitting. (Client Quit)
+[2013-09-17 06:57:31] operatiay, quitting. (Remote host closed the connection)
