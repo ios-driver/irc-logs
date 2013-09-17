@@ -17,3 +17,5 @@
 [2013-09-17 04:57:57] elstfi, quitting. (Ping timeout: 248 seconds)
 [2013-09-17 05:18:00] ddary, joining. (#ios-driver)
 [2013-09-17 05:56:23] elstfi1, quitting. (Quit: Leaving.)
+[2013-09-17 06:11:00] operatiay, quitting. (Remote host closed the connection)
+[2013-09-17 06:13:29] elstfi, joining. (#ios-driver)
