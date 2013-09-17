@@ -37,3 +37,4 @@
 [2013-09-17 08:34:44] smccarthy, joining. (#ios-driver)
 [2013-09-17 08:37:34] admc, joining. (#ios-driver)
 [2013-09-17 08:38:33] zalivakp, quitting. (Ping timeout: 250 seconds)
+[2013-09-17 08:53:54] operatiay, quitting. (Remote host closed the connection)
