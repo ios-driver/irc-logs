@@ -33,3 +33,6 @@
 [2013-09-18 09:07:42] lukeis, joining. (#ios-driver)
 [2013-09-18 09:08:19] markus_: it's php using behat "framework", with my selenium server and desktop browsers it works fine. with ios-driver i can open the page, assert content, but can't "do" anything, like clicking or filling form elements
 [2013-09-18 09:09:56] nirvdrum: I don't know if you just cut that short, but it's not valid xpath.
+[2013-09-18 09:10:34] nirvdrum: And if you look at the ios-driver log, you should see a full stack trace if there was an exception raised.
+[2013-09-18 09:10:40] markus_: i mostly use css-selectors
+[2013-09-18 09:11:52] markus_: i'll try xpath selectors
