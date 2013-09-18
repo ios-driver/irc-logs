@@ -51,3 +51,4 @@
 [2013-09-17 20:14:33] hachi_, quitting. (*.net *.split)
 [2013-09-17 20:14:34] ios-driverbot__, quitting. (*.net *.split)
 [2013-09-17 20:52:49] santiycr, joining. (#ios-driver)
+[2013-09-17 21:03:04] admc, joining. (#ios-driver)
