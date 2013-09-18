@@ -13,3 +13,10 @@
 [2013-09-18 07:46:05] elstfi, joining. (#ios-driver)
 [2013-09-18 07:48:56] ddary, joining. (#ios-driver)
 [2013-09-18 07:48:58] ddary, quitting. (Remote host closed the connection)
+[2013-09-18 07:51:05] markus_, joining. (#ios-driver)
+[2013-09-18 07:51:51] markus_: hi there (never used irc before, so i hope to not behave inappropriate)
+[2013-09-18 07:54:09] nirvdrum: Just don't insult people you don't know and don't paste large blocks of code :-)
+[2013-09-18 07:54:23] markus_: it's really difficult to find tipps for the ios-driver, when you're not using sauce... but by now i have it running with behat to test a web-application. my driver can open the website, assert text etc., but i can't perform any actions such as clicking or filling forms
+[2013-09-18 07:54:31] markus_: i really try not to ;)
+[2013-09-18 07:54:45] markus_: the same code works fine with my selenium-server
+[2013-09-18 07:54:57] nirvdrum: You mean with Safari?
