@@ -3,3 +3,4 @@
 [2013-09-18 03:27:34] psp250, joining. (#ios-driver)
 [2013-09-18 03:43:36] elstfi, quitting. (Quit: Leaving.)
 [2013-09-18 03:51:49] elstfi, joining. (#ios-driver)
+[2013-09-18 04:03:42] ddary, quitting. (Ping timeout: 264 seconds)
