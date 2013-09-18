@@ -28,3 +28,4 @@
 [2013-09-18 08:57:15] markus_: Desktop-Safari works, Mobile not, i've got a very simple case to test it:
 [2013-09-18 08:57:28] markus_: $this->session->visit($this->parameters['baseUrl']); 		$this->page = $this->session->getPage(); 		$this->page->clickLink('Login zum Melden');
 [2013-09-18 08:58:21] markus_: The "clickLink" throws an error "Exception thrown by (//html/.//a[./@href] etc. etc."
+[2013-09-18 09:04:38] markus_: any ideas?
