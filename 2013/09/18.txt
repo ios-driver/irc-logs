@@ -36,3 +36,4 @@
 [2013-09-18 09:10:34] nirvdrum: And if you look at the ios-driver log, you should see a full stack trace if there was an exception raised.
 [2013-09-18 09:10:40] markus_: i mostly use css-selectors
 [2013-09-18 09:11:52] markus_: i'll try xpath selectors
+[2013-09-18 09:19:34] lukeis, quitting. (Quit: Leaving.)
