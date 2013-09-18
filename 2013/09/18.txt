@@ -58,3 +58,4 @@
 [2013-09-18 14:26:36] gdennis, leaving. (#ios-driver)
 [2013-09-18 14:29:22] santiycr, joining. (#ios-driver)
 [2013-09-18 14:57:53] lukeis, quitting. (Quit: Leaving.)
+[2013-09-18 15:41:27] mgaradi, quitting. (Ping timeout: 250 seconds)
