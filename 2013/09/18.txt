@@ -38,3 +38,6 @@
 [2013-09-18 09:11:52] markus_: i'll try xpath selectors
 [2013-09-18 09:19:34] lukeis, quitting. (Quit: Leaving.)
 [2013-09-18 09:22:40] markus_: well, that's not the (whole) solution, but thank you for your help (have a meeting in 10min :))
+[2013-09-18 09:26:33] lukeis, joining. (#ios-driver)
+[2013-09-18 09:27:02] nirvdrum: I do stuff with xpath and I'm pretty sure it works.
+[2013-09-18 09:27:03] markus_, quitting. (Ping timeout: 250 seconds)
