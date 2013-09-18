@@ -47,3 +47,6 @@
 [2013-09-18 10:49:28] elstfi, quitting. (Quit: Leaving.)
 [2013-09-18 11:18:21] mgaradi, joining. (#ios-driver)
 [2013-09-18 11:19:28] smccarthy2, joining. (#ios-driver)
+[2013-09-18 11:20:04] mgaradi: Hello Everyone
+[2013-09-18 11:22:38] smccarthy, quitting. (Ping timeout: 240 seconds)
+[2013-09-18 11:23:43] mgaradi: when the language is set to something in the capabilities, the driver is unable to perform clicks on the app
