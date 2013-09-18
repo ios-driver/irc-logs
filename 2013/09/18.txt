@@ -22,3 +22,6 @@
 [2013-09-18 07:54:57] nirvdrum: You mean with Safari?
 [2013-09-18 07:55:52] markus_: yes, but i didn't check it with my desktop safari yet
 [2013-09-18 08:00:11] markus_: ok, doesn't work out of the box in desktop safari (it does in firefox). i'll check that, maybe i'll find my mistake this way.
+[2013-09-18 08:06:06] nirvdrum: werid.
+[2013-09-18 08:06:09] nirvdrum: *Weird
+[2013-09-18 08:06:17] nirvdrum: Clicking and form submission do work in both.
