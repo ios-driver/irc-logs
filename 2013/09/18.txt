@@ -52,3 +52,4 @@
 [2013-09-18 11:23:43] mgaradi: when the language is set to something in the capabilities, the driver is unable to perform clicks on the app
 [2013-09-18 12:10:07] santiycr, joining. (#ios-driver)
 [2013-09-18 12:11:45] gdennis, joining. (#ios-driver)
+[2013-09-18 12:50:44] santiycr, quitting. (Quit: Leaving.)
