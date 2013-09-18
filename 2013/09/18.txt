@@ -5,3 +5,5 @@
 [2013-09-18 03:51:49] elstfi, joining. (#ios-driver)
 [2013-09-18 04:03:42] ddary, quitting. (Ping timeout: 264 seconds)
 [2013-09-18 04:27:00] psp250, quitting. (Remote host closed the connection)
+[2013-09-18 05:00:55] elstfi1, joining. (#ios-driver)
+[2013-09-18 05:04:26] elstfi, quitting. (Ping timeout: 264 seconds)
