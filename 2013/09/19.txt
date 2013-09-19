@@ -61,3 +61,4 @@
 [2013-09-19 15:13:31] chhsiung: i just installed libimobiledevice using homebrew
 [2013-09-19 15:13:36] chhsiung: any help greatly appreciated!
 [2013-09-19 15:26:34] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-19 15:34:03] jlipps, joining. (#ios-driver)
