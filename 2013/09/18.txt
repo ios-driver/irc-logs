@@ -60,3 +60,7 @@
 [2013-09-18 14:57:53] lukeis, quitting. (Quit: Leaving.)
 [2013-09-18 15:41:27] mgaradi, quitting. (Ping timeout: 250 seconds)
 [2013-09-18 17:44:14] santiycr, quitting. (Quit: Leaving.)
+[2013-09-18 18:57:24] ios-driver-git, joining. (#ios-driver)
+[2013-09-18 18:57:24] ios-driver-git: [ios-driver] nirvdrum pushed 1 new commit to master: http://git.io/ItTEhw
+[2013-09-18 18:57:24] ios-driver-git: ios-driver/master 0eff9ee Kevin Menard: If the request lacks the language or locale capabilities, then use the default ones on the system running ios-driver.
+[2013-09-18 18:57:24] ios-driver-git, leaving. (#ios-driver)
