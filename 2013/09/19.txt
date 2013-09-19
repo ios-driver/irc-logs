@@ -41,3 +41,4 @@
 [2013-09-19 11:51:41] nirvdrum: If you're in the US, your best bet is to hit IRC early in the morning.
 [2013-09-19 11:51:49] nirvdrum: Or stay up really late :-P
 [2013-09-19 11:55:27] jlipps, joining. (#ios-driver)
+[2013-09-19 12:47:09] jlipps, quitting. (Ping timeout: 256 seconds)
