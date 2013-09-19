@@ -6,3 +6,6 @@
 [2013-09-19 04:36:33] hcktt: but it didn't help
 [2013-09-19 05:26:29] ddary: is that the libmobiledevice verion that is used in ios-driver?
 [2013-09-19 05:27:42] hcktt: i don't know, i guess I've installed the latest one
+[2013-09-19 05:52:06] hcktt: https://github.com/ios-driver/libimobiledevice-wrapper/blob/1ce904b9529aba5c066ad9c7efdde38187c5dbbd/src/main/java/org/libimobiledevice/ios/driver/binding/IMobileDeviceFactory.java#L48
+[2013-09-19 05:52:23] hcktt: I have that file, but it's 0 bytes size
+[2013-09-19 05:53:38] ddary: I would recommend to send a mail to the user group...
