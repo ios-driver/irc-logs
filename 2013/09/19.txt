@@ -4,3 +4,5 @@
 [2013-09-19 04:35:48] hcktt: java -jar ios-server-0.6.4-jar-with-dependencies.jar -aut SOMEAPP.app -port 4443 -beta Cannot load libimobiledevice-sdk.dylib Exception in thread "main" java.lang.ExceptionInInitializerError
 [2013-09-19 04:36:11] hcktt: installed libimobiledevice with honeybrew
 [2013-09-19 04:36:33] hcktt: but it didn't help
+[2013-09-19 05:26:29] ddary: is that the libmobiledevice verion that is used in ios-driver?
+[2013-09-19 05:27:42] hcktt: i don't know, i guess I've installed the latest one
