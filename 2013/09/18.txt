@@ -68,3 +68,4 @@
 [2013-09-18 19:00:53] nirvdrum: This should be innocuous if you set things up on your own, but should fix several of the bugs we've seen reported.  If this doesn't blow up for people, I'd recommend cutting a 0.6.5.
 [2013-09-18 19:12:38] psp250, quitting. (Ping timeout: 245 seconds)
 [2013-09-18 19:29:28] nirvdrum: freynaud: Let me know if you have any objections to that commit.
+[2013-09-18 20:10:00] nirvdrum, quitting. (Ping timeout: 245 seconds)
