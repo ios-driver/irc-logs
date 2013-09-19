@@ -62,3 +62,5 @@
 [2013-09-19 15:13:36] chhsiung: any help greatly appreciated!
 [2013-09-19 15:26:34] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-19 15:34:03] jlipps, joining. (#ios-driver)
+[2013-09-19 16:25:44] PhoenixWright, quitting. (Quit: Page closed)
+[2013-09-19 16:27:53] jlipps, quitting. (Read error: Connection reset by peer)
