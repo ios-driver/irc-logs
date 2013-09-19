@@ -23,3 +23,5 @@
 [2013-09-19 09:26:02] psp250, joining. (#ios-driver)
 [2013-09-19 09:47:17] admc, quitting. (Quit: Leaving.)
 [2013-09-19 10:34:04] jlipps, joining. (#ios-driver)
+[2013-09-19 10:39:49] jlipps, quitting. (Quit: Leaving.)
+[2013-09-19 10:39:56] ddary, joining. (#ios-driver)
