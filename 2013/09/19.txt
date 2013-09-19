@@ -35,3 +35,5 @@
 [2013-09-19 11:39:26] PhoenixWright, joining. (#ios-driver)
 [2013-09-19 11:41:51] PhoenixWright: Hey everyone, I am very interested in the real device support progress, and was wondering if the latest code has enough support to test with?
 [2013-09-19 11:43:16] PhoenixWright: My main goal is web testing with Mobile Safari
+[2013-09-19 11:45:38] nirvdrum: freynaud is the guy really working on that.  He's in Switzerland though, so the timezone makes his availability here tricky for those in the US.
+[2013-09-19 11:49:24] PhoenixWright: Okay, thanks for the info. Is there a time he is usually online? I would love to hear about progress and maybe even jump onboard to help if I can get a feel for where it's at.
