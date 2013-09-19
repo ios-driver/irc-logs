@@ -19,3 +19,4 @@
 [2013-09-19 08:16:04] ddary, quitting. (Quit: ddary)
 [2013-09-19 08:59:10] admc, joining. (#ios-driver)
 [2013-09-19 09:02:06] smccarthy, joining. (#ios-driver)
+[2013-09-19 09:22:19] elstfi, quitting. (Quit: Leaving.)
