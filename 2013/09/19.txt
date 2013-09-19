@@ -17,3 +17,4 @@
 [2013-09-19 07:22:30] ios-driver-git, leaving. (#ios-driver)
 [2013-09-19 07:32:26] nirvdrum, joining. (#ios-driver)
 [2013-09-19 08:16:04] ddary, quitting. (Quit: ddary)
+[2013-09-19 08:59:10] admc, joining. (#ios-driver)
