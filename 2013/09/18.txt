@@ -69,3 +69,4 @@
 [2013-09-18 19:12:38] psp250, quitting. (Ping timeout: 245 seconds)
 [2013-09-18 19:29:28] nirvdrum: freynaud: Let me know if you have any objections to that commit.
 [2013-09-18 20:10:00] nirvdrum, quitting. (Ping timeout: 245 seconds)
+[2013-09-18 20:33:53] smccarthy2, quitting. (Remote host closed the connection)
