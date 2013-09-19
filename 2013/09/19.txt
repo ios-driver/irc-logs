@@ -42,3 +42,4 @@
 [2013-09-19 11:51:49] nirvdrum: Or stay up really late :-P
 [2013-09-19 11:55:27] jlipps, joining. (#ios-driver)
 [2013-09-19 12:47:09] jlipps, quitting. (Ping timeout: 256 seconds)
+[2013-09-19 12:58:48] lukeis, joining. (#ios-driver)
