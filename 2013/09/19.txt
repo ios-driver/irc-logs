@@ -45,3 +45,6 @@
 [2013-09-19 12:58:48] lukeis, joining. (#ios-driver)
 [2013-09-19 13:08:26] lukeis1, joining. (#ios-driver)
 [2013-09-19 13:11:31] lukeis, quitting. (Ping timeout: 256 seconds)
+[2013-09-19 13:16:02] lukeis, joining. (#ios-driver)
+[2013-09-19 13:16:47] lukeis, leaving. (#ios-driver)
+[2013-09-19 13:18:35] lukeis1, quitting. (Ping timeout: 248 seconds)
