@@ -33,3 +33,5 @@
 [2013-09-19 10:56:47] ddary_, quitting. (Quit: ddary_)
 [2013-09-19 10:58:46] jlipps, quitting. (Client Quit)
 [2013-09-19 11:39:26] PhoenixWright, joining. (#ios-driver)
+[2013-09-19 11:41:51] PhoenixWright: Hey everyone, I am very interested in the real device support progress, and was wondering if the latest code has enough support to test with?
+[2013-09-19 11:43:16] PhoenixWright: My main goal is web testing with Mobile Safari
