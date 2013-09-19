@@ -55,3 +55,8 @@
 [2013-09-19 13:23:55] lukeis, quitting. (Client Quit)
 [2013-09-19 13:24:48] operatiay, quitting. (Remote host closed the connection)
 [2013-09-19 14:58:49] chhsiung, joining. (#ios-driver)
+[2013-09-19 15:12:57] chhsiung: hi
+[2013-09-19 15:13:11] chhsiung: am trying to run ios-driver with the -beta flag in order to run on physical devices...
+[2013-09-19 15:13:22] chhsiung: but i get the following error: Cannot load libimobiledevice-sdk.dylib
+[2013-09-19 15:13:31] chhsiung: i just installed libimobiledevice using homebrew
+[2013-09-19 15:13:36] chhsiung: any help greatly appreciated!
