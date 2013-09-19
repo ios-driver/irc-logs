@@ -66,3 +66,4 @@
 [2013-09-18 18:57:24] ios-driver-git, leaving. (#ios-driver)
 [2013-09-18 19:00:08] nirvdrum: nicegraham: As it turns out, not having a locale can screw up a whole bunch of other things, like send_keys.  My new fix is to not null guard, but rather set to the system default. ^
 [2013-09-18 19:00:53] nirvdrum: This should be innocuous if you set things up on your own, but should fix several of the bugs we've seen reported.  If this doesn't blow up for people, I'd recommend cutting a 0.6.5.
+[2013-09-18 19:12:38] psp250, quitting. (Ping timeout: 245 seconds)
