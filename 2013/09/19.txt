@@ -11,3 +11,7 @@
 [2013-09-19 05:53:38] ddary: I would recommend to send a mail to the user group...
 [2013-09-19 07:05:13] ddary, quitting. (Quit: ddary)
 [2013-09-19 07:06:50] ddary, joining. (#ios-driver)
+[2013-09-19 07:22:30] ios-driver-git, joining. (#ios-driver)
+[2013-09-19 07:22:30] ios-driver-git: [ios-driver] nirvdrum pushed 1 new commit to dev: http://git.io/oOIbKA
+[2013-09-19 07:22:30] ios-driver-git: ios-driver/dev 6ae4467 Kevin Menard: If the request lacks the language or locale capabilities, then use the default ones on the system running ios-driver.
+[2013-09-19 07:22:30] ios-driver-git, leaving. (#ios-driver)
