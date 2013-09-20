@@ -87,3 +87,4 @@
 [2013-09-19 22:36:29] chhsiung, quitting. (Client Quit)
 [2013-09-19 22:36:48] lukeis1, changing nick to lukeis.
 [2013-09-19 22:47:38] chhsiung, joining. (#ios-driver)
+[2013-09-19 23:52:49] lukeis, quitting. (Quit: Leaving.)
