@@ -73,3 +73,4 @@
 [2013-09-19 19:00:17] admc, quitting. (Quit: Leaving.)
 [2013-09-19 19:03:05] psp250, quitting. (Quit: Leaving)
 [2013-09-19 19:15:29] admc, joining. (#ios-driver)
+[2013-09-19 19:26:58] admc, quitting. (Quit: Leaving.)
