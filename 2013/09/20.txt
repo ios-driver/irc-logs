@@ -74,3 +74,4 @@
 [2013-09-20 09:57:48] chhsiung, joining. (#ios-driver)
 [2013-09-20 10:09:08] elstfi, quitting. (Quit: Leaving.)
 [2013-09-20 13:00:37] nirvdrum: So, is there a graceful way to shut down ios-driver?  With other drivers I can use that RC shutdown command.  But it's not implemented here.
+[2013-09-20 13:06:48] chhsiung, quitting. (Quit: Leaving.)
