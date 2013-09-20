@@ -70,3 +70,5 @@
 [2013-09-19 17:38:20] chhsiung, joining. (#ios-driver)
 [2013-09-19 18:01:51] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-19 18:38:30] admc, joining. (#ios-driver)
+[2013-09-19 19:00:17] admc, quitting. (Quit: Leaving.)
+[2013-09-19 19:03:05] psp250, quitting. (Quit: Leaving)
