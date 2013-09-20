@@ -97,3 +97,5 @@
 [2013-09-20 14:40:19] nirvdrum: Did you run through the stuff here? http://ios-driver.github.io/ios-driver/safari.html
 [2013-09-20 14:46:33] PhoenixWright_: I ran the chmod command. If I run with IOSCapabilities.iphone(), it crashes the emulator and throws SessionNotCreatedException: error starting the session:cannot configure simulator
 [2013-09-20 14:47:28] PhoenixWright_: And if I pass "Safari" into IOSCapabilities.iphone(), I get the DefaultCommandListener errors
+[2013-09-20 14:51:00] PhoenixWright_: I'm launching the server with "sudo java -jar ios-server-0.6.4.jar -port 4723 -simulators"
+[2013-09-20 14:51:07] admc, joining. (#ios-driver)
