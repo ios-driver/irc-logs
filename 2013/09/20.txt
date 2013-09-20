@@ -84,3 +84,12 @@
 [2013-09-20 14:21:59] nirvdrum: But you can just use the iPhone and iPad capabilities from Selenium, too.
 [2013-09-20 14:28:25] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-20 14:31:04] chhsiung, joining. (#ios-driver)
+[2013-09-20 14:35:59] PhoenixWright_: nirvdrum: Okay, I've added the ios-server-0.6.4.jar to my project and used IOSCapabilities.iphone("Safari"), and now I'm seeing another error... hopefully you've seen this one...
+[2013-09-20 14:36:14] PhoenixWright_: nirvdrum: Exception in thread "main" org.openqa.selenium.SessionNotCreatedException: {simulator=true, timeHack=false, variation=Regular, locale=en_GB, CFBundleName=Safari, device=iphone, language=en}not available. Available are [Simulator]
+[2013-09-20 14:36:48] nirvdrum: You should see an exception in the terminal you're running ios-driver in.
+[2013-09-20 14:36:52] nirvdrum: That would be more heplful.
+[2013-09-20 14:36:57] PhoenixWright_: I'm running an iOS Simulator with iPhone iOS 6.1 configuration
+[2013-09-20 14:37:57] PhoenixWright_: The error in the terminal is 37:32:438 WARNING DefaultCommandListener.stderr  2013-09-20 14:37:32.437 instruments[17479:707] -[__NSCFConstantString isEqualToNumber:]: unrecognized selector sent to instance 0x7fff71f79500 37:32:438 WARNING DefaultCommandListener.stderr  2013-09-20 14:37:32.438 instruments[17479:707] Exception during preparation: -[__NSCFConstantString isEqualToNumber:]: unrecognized selector sent to instan
+[2013-09-20 14:38:57] PhoenixWright_: Another of the warnings: 37:32:440 WARNING DefaultCommandListener.stderr  2013-09-20 14:37:32.440 instruments[17479:707] *** Assertion failure in -[UIAInstrument _startAgentForApp:withPID:], /SourceCache/AutomationInstrument/AutomationInstrument-185/Classes/UIAInstrument-Simulator.m:116
+[2013-09-20 14:39:06] PhoenixWright_: 37:32:440 WARNING DefaultCommandListener.stderr  2013-09-20 14:37:32.440 instruments[17479:707] Automation Instrument ran into an exception while trying to run the script.  NSInternalInconsistencyException
+[2013-09-20 14:39:45] PhoenixWright_: Is there some configuration I need to perform on my simulator or something?
