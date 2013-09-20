@@ -76,3 +76,5 @@
 [2013-09-20 13:00:37] nirvdrum: So, is there a graceful way to shut down ios-driver?  With other drivers I can use that RC shutdown command.  But it's not implemented here.
 [2013-09-20 13:06:48] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-20 13:14:03] chhsiung, joining. (#ios-driver)
+[2013-09-20 14:10:56] PhoenixWright_, joining. (#ios-driver)
+[2013-09-20 14:14:18] PhoenixWright_: Hello, I'm getting "Cannot load libimobiledevice-sdk.dylib" when I launch with the -simulators and -beta flags. Which flags are necessary to launch mobile safari on a simulator?
