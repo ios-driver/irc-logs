@@ -2,3 +2,4 @@
 [2013-09-20 00:38:20] ddary_, joining. (#ios-driver)
 [2013-09-20 00:40:50] ddary, quitting. (Ping timeout: 245 seconds)
 [2013-09-20 00:40:50] ddary_, changing nick to ddary.
+[2013-09-20 00:48:34] chhsiung, joining. (#ios-driver)
