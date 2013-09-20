@@ -78,3 +78,4 @@
 [2013-09-20 13:14:03] chhsiung, joining. (#ios-driver)
 [2013-09-20 14:10:56] PhoenixWright_, joining. (#ios-driver)
 [2013-09-20 14:14:18] PhoenixWright_: Hello, I'm getting "Cannot load libimobiledevice-sdk.dylib" when I launch with the -simulators and -beta flags. Which flags are necessary to launch mobile safari on a simulator?
+[2013-09-20 14:15:20] nirvdrum: PhoenixWright_: You don't need the -beta flag for the simulator.
