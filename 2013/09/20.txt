@@ -12,3 +12,4 @@
 [2013-09-20 02:16:06] markus_: hello! :)
 [2013-09-20 02:16:21] markus_: has anybody updated xcode and tried ios-driver afterwards?
 [2013-09-20 02:18:31] markus_: i keep getting some c# (?) error messages when i try to get a session "__NSCFConstantString isEqualToNumber". have you got any ideas to point me in the right direction?
+[2013-09-20 02:23:58] chhsiung, joining. (#ios-driver)
