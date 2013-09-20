@@ -61,3 +61,4 @@
 [2013-09-20 07:22:47] nirvdrum: I still need to fix grid logging.
 [2013-09-20 07:49:35] ddary, quitting. (Ping timeout: 245 seconds)
 [2013-09-20 08:09:37] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-20 08:14:29] hcktt, quitting. (Quit: Page closed)
