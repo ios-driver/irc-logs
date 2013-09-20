@@ -83,3 +83,6 @@
 [2013-09-19 22:16:39] lukeis, quitting. (Ping timeout: 256 seconds)
 [2013-09-19 22:19:22] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-19 22:34:57] chhsiung, joining. (#ios-driver)
+[2013-09-19 22:35:43] ddary, joining. (#ios-driver)
+[2013-09-19 22:36:29] chhsiung, quitting. (Client Quit)
+[2013-09-19 22:36:48] lukeis1, changing nick to lukeis.
