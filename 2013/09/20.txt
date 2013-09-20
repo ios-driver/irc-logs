@@ -68,3 +68,4 @@
 [2013-09-20 08:54:41] chhsiung, joining. (#ios-driver)
 [2013-09-20 08:57:53] ddary, joining. (#ios-driver)
 [2013-09-20 08:58:30] lukeis, joining. (#ios-driver)
+[2013-09-20 09:07:14] smccarthy, joining. (#ios-driver)
