@@ -82,3 +82,4 @@
 [2013-09-20 14:21:06] PhoenixWright_: nirvdrum: Oh, ok, I think I'm confused on which capabilities I should be setting when I try to launch my test then. Is there a good page with a list of them? I'm confused where the IOSCapabilities class mentioned came from
 [2013-09-20 14:21:42] nirvdrum: It's part of the ios-driver JAR.
 [2013-09-20 14:21:59] nirvdrum: But you can just use the iPhone and iPad capabilities from Selenium, too.
+[2013-09-20 14:28:25] chhsiung, quitting. (Quit: Leaving.)
