@@ -103,3 +103,4 @@
 [2013-09-20 14:59:05] nirvdrum: I have no idea what that'll do.
 [2013-09-20 14:59:15] nirvdrum: That was the purpose of the chmod command.
 [2013-09-20 15:09:30] lukeis, quitting. (Quit: Leaving.)
+[2013-09-20 15:30:28] admc, quitting. (Quit: Leaving.)
