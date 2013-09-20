@@ -106,3 +106,4 @@
 [2013-09-20 15:30:28] admc, quitting. (Quit: Leaving.)
 [2013-09-20 15:36:56] PhoenixWright_: nirvdrum: How do I change the IOS version ios-driver is using?
 [2013-09-20 15:51:55] smccarthy, quitting. (Remote host closed the connection)
+[2013-09-20 16:05:45] chhsiung, quitting. (Quit: Leaving.)
