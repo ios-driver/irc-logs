@@ -64,3 +64,4 @@
 [2013-09-19 15:34:03] jlipps, joining. (#ios-driver)
 [2013-09-19 16:25:44] PhoenixWright, quitting. (Quit: Page closed)
 [2013-09-19 16:27:53] jlipps, quitting. (Read error: Connection reset by peer)
+[2013-09-19 17:14:40] smccarthy, quitting. (Remote host closed the connection)
