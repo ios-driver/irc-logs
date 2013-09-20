@@ -71,3 +71,4 @@
 [2013-09-20 09:07:14] smccarthy, joining. (#ios-driver)
 [2013-09-20 09:13:31] ddary, quitting. (Quit: ddary)
 [2013-09-20 09:54:43] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-20 09:57:48] chhsiung, joining. (#ios-driver)
