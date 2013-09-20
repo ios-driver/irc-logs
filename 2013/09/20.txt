@@ -104,3 +104,4 @@
 [2013-09-20 14:59:15] nirvdrum: That was the purpose of the chmod command.
 [2013-09-20 15:09:30] lukeis, quitting. (Quit: Leaving.)
 [2013-09-20 15:30:28] admc, quitting. (Quit: Leaving.)
+[2013-09-20 15:36:56] PhoenixWright_: nirvdrum: How do I change the IOS version ios-driver is using?
