@@ -41,3 +41,20 @@
 [2013-09-20 06:45:00] chhsiung, joining. (#ios-driver)
 [2013-09-20 06:50:11] nirvdrum, joining. (#ios-driver)
 [2013-09-20 07:08:39] dgrace: nirvdrum: Hi, got a sec?
+[2013-09-20 07:10:36] nirvdrum: I have about 10 min.
+[2013-09-20 07:10:47] nirvdrum: What's up?
+[2013-09-20 07:11:12] dgrace: looks like a change in Selenium 2.34.0 broke something with our Grid connecting.
+[2013-09-20 07:11:19] dgrace: trying to figure out what
+[2013-09-20 07:11:32] nirvdrum: That was fixed in master.
+[2013-09-20 07:11:42] nirvdrum: It should be in the next Selenium release.
+[2013-09-20 07:11:50] dgrace: i was hoping that was the case!
+[2013-09-20 07:11:59] dgrace: because not very familiar with the Grid code
+[2013-09-20 07:12:04] nirvdrum: I was rather peeved when I learned of the breakage.
+[2013-09-20 07:12:34] dgrace: i can imagine
+[2013-09-20 07:12:36] nirvdrum: I fixed another problem where you could pretty easily deadlock the hub.
+[2013-09-20 07:12:57] nirvdrum: So the next Selenium release will be nice for grid + ios-driver users.
+[2013-09-20 07:13:12] dgrace: nice one, saves me a lot of debuging!
+[2013-09-20 07:13:13] nirvdrum: Try it out.  If you find otherwise, just let me know.
+[2013-09-20 07:13:20] dgrace: will do, cheers
+[2013-09-20 07:13:27] nirvdrum: If I'm not around, you can always email me: kevin@nirvdrum.com
+[2013-09-20 07:13:48] dgrace: cool, i'll have a look
