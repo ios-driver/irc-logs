@@ -64,3 +64,5 @@
 [2013-09-20 08:14:29] hcktt, quitting. (Quit: Page closed)
 [2013-09-20 08:26:12] dgrace: nirvdrum: I rebuilt the selenium master with your changes and things look a lot better! thanks
 [2013-09-20 08:48:24] chhsiung, joining. (#ios-driver)
+[2013-09-20 08:53:43] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-20 08:54:41] chhsiung, joining. (#ios-driver)
