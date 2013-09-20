@@ -14,3 +14,5 @@
 [2013-09-20 02:18:31] markus_: i keep getting some c# (?) error messages when i try to get a session "__NSCFConstantString isEqualToNumber". have you got any ideas to point me in the right direction?
 [2013-09-20 02:23:58] chhsiung, joining. (#ios-driver)
 [2013-09-20 02:28:03] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-09-20 02:45:20] admc, quitting. (Quit: Leaving.)
+[2013-09-20 02:45:40] admc, joining. (#ios-driver)
