@@ -79,3 +79,6 @@
 [2013-09-20 14:10:56] PhoenixWright_, joining. (#ios-driver)
 [2013-09-20 14:14:18] PhoenixWright_: Hello, I'm getting "Cannot load libimobiledevice-sdk.dylib" when I launch with the -simulators and -beta flags. Which flags are necessary to launch mobile safari on a simulator?
 [2013-09-20 14:15:20] nirvdrum: PhoenixWright_: You don't need the -beta flag for the simulator.
+[2013-09-20 14:21:06] PhoenixWright_: nirvdrum: Oh, ok, I think I'm confused on which capabilities I should be setting when I try to launch my test then. Is there a good page with a list of them? I'm confused where the IOSCapabilities class mentioned came from
+[2013-09-20 14:21:42] nirvdrum: It's part of the ios-driver JAR.
+[2013-09-20 14:21:59] nirvdrum: But you can just use the iPhone and iPad capabilities from Selenium, too.
