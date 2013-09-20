@@ -93,3 +93,5 @@
 [2013-09-20 14:38:57] PhoenixWright_: Another of the warnings: 37:32:440 WARNING DefaultCommandListener.stderr  2013-09-20 14:37:32.440 instruments[17479:707] *** Assertion failure in -[UIAInstrument _startAgentForApp:withPID:], /SourceCache/AutomationInstrument/AutomationInstrument-185/Classes/UIAInstrument-Simulator.m:116
 [2013-09-20 14:39:06] PhoenixWright_: 37:32:440 WARNING DefaultCommandListener.stderr  2013-09-20 14:37:32.440 instruments[17479:707] Automation Instrument ran into an exception while trying to run the script.  NSInternalInconsistencyException
 [2013-09-20 14:39:45] PhoenixWright_: Is there some configuration I need to perform on my simulator or something?
+[2013-09-20 14:40:15] PhoenixWright_: Thank you for your help nirvdrum, I really appreciate it.
+[2013-09-20 14:40:19] nirvdrum: Did you run through the stuff here? http://ios-driver.github.io/ios-driver/safari.html
