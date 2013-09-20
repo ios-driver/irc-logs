@@ -59,3 +59,4 @@
 [2013-09-20 07:13:27] nirvdrum: If I'm not around, you can always email me: kevin@nirvdrum.com
 [2013-09-20 07:13:48] dgrace: cool, i'll have a look
 [2013-09-20 07:22:47] nirvdrum: I still need to fix grid logging.
+[2013-09-20 07:49:35] ddary, quitting. (Ping timeout: 245 seconds)
