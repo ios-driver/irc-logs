@@ -110,3 +110,4 @@
 [2013-09-20 16:22:25] PhoenixWright_, quitting. (K-Lined)
 [2013-09-20 16:29:25] hachi, leaving. (#ios-driver)
 [2013-09-20 16:45:58] jpj, joining. (#ios-driver)
+[2013-09-20 17:30:15] smccarthy, joining. (#ios-driver)
