@@ -113,3 +113,4 @@
 [2013-09-20 17:30:15] smccarthy, joining. (#ios-driver)
 [2013-09-20 18:22:36] chhsiung, joining. (#ios-driver)
 [2013-09-20 18:35:01] jpj, quitting. (Ping timeout: 245 seconds)
+[2013-09-20 20:32:30] nirvdrum, quitting. (Ping timeout: 264 seconds)
