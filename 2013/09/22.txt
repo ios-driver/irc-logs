@@ -3,3 +3,4 @@
 [2013-09-22 07:34:14] psp250, joining. (#ios-driver)
 [2013-09-22 08:07:12] smccarthy, joining. (#ios-driver)
 [2013-09-22 08:36:55] nirvdrum, joining. (#ios-driver)
+[2013-09-22 14:17:42] smccarthy, quitting. (Remote host closed the connection)
