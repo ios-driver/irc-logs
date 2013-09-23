@@ -8,3 +8,4 @@
 [2013-09-22 18:21:22] psp250, quitting. (Quit: Leaving)
 [2013-09-22 21:25:24] nirvdrum, quitting. (Read error: Operation timed out)
 [2013-09-22 21:37:38] smccarthy, quitting. (Remote host closed the connection)
+[2013-09-22 22:20:08] ddary, joining. (#ios-driver)
