@@ -10,3 +10,5 @@
 [2013-09-22 21:37:38] smccarthy, quitting. (Remote host closed the connection)
 [2013-09-22 22:20:08] ddary, joining. (#ios-driver)
 [2013-09-22 22:38:33] ddary, quitting. (Quit: ddary)
+[2013-09-22 22:50:23] ddary, joining. (#ios-driver)
+[2013-09-22 22:53:27] nirvdrum, joining. (#ios-driver)
