@@ -2,3 +2,4 @@
 [2013-09-23 01:56:54] admc, quitting. (Quit: Leaving.)
 [2013-09-23 02:20:13] admc, joining. (#ios-driver)
 [2013-09-23 02:24:04] admc, quitting. (Client Quit)
+[2013-09-23 02:39:14] ddary, quitting. (Ping timeout: 264 seconds)
