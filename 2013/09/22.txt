@@ -15,3 +15,4 @@
 [2013-09-22 23:02:08] ddary, quitting. (Quit: ddary)
 [2013-09-22 23:06:31] nirvdrum, quitting. (Ping timeout: 260 seconds)
 [2013-09-22 23:23:02] ddary, joining. (#ios-driver)
+[2013-09-22 23:29:05] admc, joining. (#ios-driver)
