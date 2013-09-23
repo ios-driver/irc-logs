@@ -35,3 +35,7 @@
 [2013-09-23 07:40:48] arkmon_, joining. (#ios-driver)
 [2013-09-23 07:48:34] chhsiung, joining. (#ios-driver)
 [2013-09-23 07:53:19] arkmon_, quitting. (Quit: ZZZzzz…)
+[2013-09-23 07:55:27] avaly: does anyone have any experience with executing JavaScript code with arguments?
+[2013-09-23 07:55:44] avaly: https://github.com/ios-driver/ios-driver/blob/17fff7c854e652ac91c4b5a5ed9012064c9604ea/server/src/main/java/org/uiautomation/ios/context/BaseWebInspector.java#L264
+[2013-09-23 07:56:48] avaly: if I'm reading the source correctly that means that if I send an object which is not a WebElement object then it will fail
+[2013-09-23 07:57:39] avaly: if that object does not have an `ELEMENT` key defined
