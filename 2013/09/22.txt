@@ -7,3 +7,4 @@
 [2013-09-22 15:46:42] smccarthy, joining. (#ios-driver)
 [2013-09-22 18:21:22] psp250, quitting. (Quit: Leaving)
 [2013-09-22 21:25:24] nirvdrum, quitting. (Read error: Operation timed out)
+[2013-09-22 21:37:38] smccarthy, quitting. (Remote host closed the connection)
