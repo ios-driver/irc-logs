@@ -23,3 +23,6 @@
 [2013-09-23 06:55:29] arkmon_, joining. (#ios-driver)
 [2013-09-23 07:18:27] avaly: is it true that v0.6.4 does not implement the creation of cookies via POST /session/:sessionId/cookie ?
 [2013-09-23 07:19:27] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-23 07:22:55] arkmon_, quitting. (Quit: ZZZzzz…)
+[2013-09-23 07:22:55] nicegraham: avaly: yes, it hasn't been implemented
+[2013-09-23 07:23:08] nicegraham: please feel free to add it :)
