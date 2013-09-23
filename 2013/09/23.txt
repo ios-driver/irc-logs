@@ -4,3 +4,6 @@
 [2013-09-23 02:24:04] admc, quitting. (Client Quit)
 [2013-09-23 02:39:14] ddary, quitting. (Ping timeout: 264 seconds)
 [2013-09-23 02:41:33] ddary, joining. (#ios-driver)
+[2013-09-23 02:52:39] admc, joining. (#ios-driver)
+[2013-09-23 02:53:20] ddary, leaving. (#ios-driver)
+[2013-09-23 02:53:40] ddary, joining. (#ios-driver)
