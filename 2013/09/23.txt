@@ -43,3 +43,4 @@
 [2013-09-23 08:32:02] ddary, leaving. (#ios-driver)
 [2013-09-23 08:38:25] avaly, quitting. (Quit: WeeChat 0.3.7)
 [2013-09-23 08:41:16] lukeis, joining. (#ios-driver)
+[2013-09-23 08:55:33] smccarthy, joining. (#ios-driver)
