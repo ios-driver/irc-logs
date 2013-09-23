@@ -41,3 +41,4 @@
 [2013-09-23 07:57:39] avaly: if that object does not have an `ELEMENT` key defined
 [2013-09-23 08:23:51] ddary, joining. (#ios-driver)
 [2013-09-23 08:32:02] ddary, leaving. (#ios-driver)
+[2013-09-23 08:38:25] avaly, quitting. (Quit: WeeChat 0.3.7)
