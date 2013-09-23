@@ -63,3 +63,4 @@
 [2013-09-23 13:04:46] lukeis1, quitting. (Read error: Connection reset by peer)
 [2013-09-23 13:07:27] lukeis, quitting. (Ping timeout: 260 seconds)
 [2013-09-23 13:21:13] lukeis2, quitting. (Quit: Leaving.)
+[2013-09-23 13:51:20] santiycr, joining. (#ios-driver)
