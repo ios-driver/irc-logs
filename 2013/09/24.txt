@@ -38,3 +38,6 @@
 [2013-09-24 08:41:32] admc, quitting. (Quit: Leaving.)
 [2013-09-24 08:45:55] santiycr, joining. (#ios-driver)
 [2013-09-24 08:49:59] nirvdrum, quitting. (Ping timeout: 260 seconds)
+[2013-09-24 08:51:10] lukeis, joining. (#ios-driver)
+[2013-09-24 08:52:42] smccarthy, joining. (#ios-driver)
+[2013-09-24 08:54:04] federicoviscomi, quitting. (Quit: Page closed)
