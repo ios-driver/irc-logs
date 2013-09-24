@@ -27,3 +27,7 @@
 [2013-09-24 07:20:42] ios-driver-git: ios-driver/refactor 291d38a Francois Reynaud: adding instruments no delay for the new instruments
 [2013-09-24 07:20:42] ios-driver-git, leaving. (#ios-driver)
 [2013-09-24 07:20:42] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to refactor: http://git.io/_uTjGw
+[2013-09-24 07:37:53] ios-driver-git, joining. (#ios-driver)
+[2013-09-24 07:37:53] ios-driver-git, leaving. (#ios-driver)
+[2013-09-24 07:37:53] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to refactor: http://git.io/VzpB2w
+[2013-09-24 07:37:53] ios-driver-git: ios-driver/refactor 9c8e41d Francois Reynaud: adding 51166 files
