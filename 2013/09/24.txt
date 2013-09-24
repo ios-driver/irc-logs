@@ -19,3 +19,4 @@
 [2013-09-24 05:44:07] chhsiung, joining. (#ios-driver)
 [2013-09-24 05:46:11] ddary, quitting. (*.net *.split)
 [2013-09-24 05:48:28] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-09-24 06:00:33] chhsiung, joining. (#ios-driver)
