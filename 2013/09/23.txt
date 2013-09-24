@@ -91,3 +91,4 @@
 [2013-09-23 22:33:03] santiycr, joining. (#ios-driver)
 [2013-09-23 22:33:57] santiycr1, joining. (#ios-driver)
 [2013-09-23 22:34:04] santiycr, quitting. (Read error: Connection reset by peer)
+[2013-09-23 22:36:31] santiycr1, quitting. (Client Quit)
