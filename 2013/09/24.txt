@@ -3,3 +3,4 @@
 [2013-09-24 01:29:02] ddary, joining. (#ios-driver)
 [2013-09-24 02:01:58] admc, joining. (#ios-driver)
 [2013-09-24 02:06:07] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-24 02:36:53] chhsiung, joining. (#ios-driver)
