@@ -59,3 +59,4 @@
 [2013-09-24 14:20:45] santiycr1, quitting. (Remote host closed the connection)
 [2013-09-24 14:43:47] operatiay, joining. (#ios-driver)
 [2013-09-24 14:45:46] operatiay, quitting. (Remote host closed the connection)
+[2013-09-24 15:05:18] nirvdrum, quitting. (Ping timeout: 256 seconds)
