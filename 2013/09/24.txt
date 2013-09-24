@@ -54,3 +54,5 @@
 [2013-09-24 12:52:51] santiycr, quitting. (Quit: Leaving.)
 [2013-09-24 13:49:09] santiycr, joining. (#ios-driver)
 [2013-09-24 13:56:14] gdennis, leaving. (#ios-driver)
+[2013-09-24 14:11:29] santiycr1, joining. (#ios-driver)
+[2013-09-24 14:12:55] santiycr, quitting. (Ping timeout: 245 seconds)
