@@ -80,3 +80,4 @@
 [2013-09-23 17:32:29] smccarthy, quitting. (Remote host closed the connection)
 [2013-09-23 17:38:13] santiycr, quitting. (Quit: Leaving.)
 [2013-09-23 18:47:25] smccarthy, joining. (#ios-driver)
+[2013-09-23 19:34:13] santiycr, joining. (#ios-driver)
