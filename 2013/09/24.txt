@@ -22,3 +22,4 @@
 [2013-09-24 06:00:33] chhsiung, joining. (#ios-driver)
 [2013-09-24 06:38:43] gdennis, joining. (#ios-driver)
 [2013-09-24 06:46:18] nirvdrum, joining. (#ios-driver)
+[2013-09-24 06:50:42] chhsiung, quitting. (Quit: Leaving.)
