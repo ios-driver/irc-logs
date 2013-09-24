@@ -70,3 +70,7 @@
 [2013-09-24 16:47:50] nicegraham, quitting. (*.net *.split)
 [2013-09-24 16:47:53] AutomatedTester, quitting. (*.net *.split)
 [2013-09-24 16:47:56] tesgn, quitting. (*.net *.split)
+[2013-09-24 16:54:37] freynaud, joining. (#ios-driver)
+[2013-09-24 16:54:37] tesgn, joining. (#ios-driver)
+[2013-09-24 16:54:37] nicegraham, joining. (#ios-driver)
+[2013-09-24 16:54:37] AutomatedTester, joining. (#ios-driver)
