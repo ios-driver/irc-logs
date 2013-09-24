@@ -41,3 +41,4 @@
 [2013-09-24 08:51:10] lukeis, joining. (#ios-driver)
 [2013-09-24 08:52:42] smccarthy, joining. (#ios-driver)
 [2013-09-24 08:54:04] federicoviscomi, quitting. (Quit: Page closed)
+[2013-09-24 09:05:26] admc, joining. (#ios-driver)
