@@ -24,3 +24,8 @@
 [2013-09-25 08:11:03] chhsiung, joining. (#ios-driver)
 [2013-09-25 08:26:01] lukeis, joining. (#ios-driver)
 [2013-09-25 08:56:20] ff_, quitting. (Quit: Page closed)
+[2013-09-25 12:12:35] lrvick, joining. (#ios-driver)
+[2013-09-25 12:12:53] lrvick: So I have been trying to get ios-driver to do with no luck
+[2013-09-25 12:13:07] lrvick: sudo java -jar ios-server-0.6.3-jar-with-dependencies.jar -port 4444 -simulators
+[2013-09-25 12:14:41] lrvick: that fires up ok and http://localhost:4444/wd/hub/capabilities/all dumps com.apple.mobiledafari on iphone(Simululator) blocks as i expect
+[2013-09-25 12:14:46] lrvick: so far so good
