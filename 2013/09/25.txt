@@ -97,3 +97,5 @@
 [2013-09-25 13:54:35] gdennis, quitting. (Quit: gdennis)
 [2013-09-25 13:55:17] chhsiung, joining. (#ios-driver)
 [2013-09-25 13:57:41] admc, joining. (#ios-driver)
+[2013-09-25 14:03:47] lrvick: What is the preferred issue tracker?
+[2013-09-25 14:03:54] lrvick: github i assume?
