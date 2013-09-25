@@ -23,3 +23,4 @@
 [2013-09-25 07:47:50] ff_, joining. (#ios-driver)
 [2013-09-25 08:11:03] chhsiung, joining. (#ios-driver)
 [2013-09-25 08:26:01] lukeis, joining. (#ios-driver)
+[2013-09-25 08:56:20] ff_, quitting. (Quit: Page closed)
