@@ -58,3 +58,11 @@
 [2013-09-25 12:24:19] lrvick: I figured however without sudo it gives me hundreds of unable to delete errors
 [2013-09-25 12:24:21] lrvick: i ran that
 [2013-09-25 12:24:43] nicegraham: what version of xcode are you on?
+[2013-09-25 12:28:15] lrvick: 5.0
+[2013-09-25 12:28:58] nicegraham: right
+[2013-09-25 12:29:09] nicegraham: I know things have changed with 5.0
+[2013-09-25 12:29:15] nicegraham: but I don't know exactly what
+[2013-09-25 12:29:27] nicegraham: you'll have to clone the refactor branch in our repo
+[2013-09-25 12:29:30] nicegraham: and run that
+[2013-09-25 12:29:46] nicegraham: freynaud has been working on it
+[2013-09-25 12:29:54] nicegraham: and I think it's nearly ready for release
