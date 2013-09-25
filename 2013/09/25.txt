@@ -137,3 +137,4 @@
 [2013-09-25 14:39:34] chhsiung, joining. (#ios-driver)
 [2013-09-25 14:40:52] nirvdrum, joining. (#ios-driver)
 [2013-09-25 14:44:26] chhsiung, quitting. (Client Quit)
+[2013-09-25 15:04:51] admc, quitting. (Quit: Leaving.)
