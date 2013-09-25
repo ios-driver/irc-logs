@@ -74,3 +74,16 @@
 [2013-09-25 12:34:04] nicegraham: and from the root directory run
 [2013-09-25 12:34:05] nicegraham: mvn install -DskipTests
 [2013-09-25 12:34:17] nicegraham: then you'll find the jar in the ./server/target folder
+[2013-09-25 12:36:47] nicegraham: https://dl.dropboxusercontent.com/u/564974/ios-server-0.6.4-jar-with-dependencies-refactor-branch.jar
+[2013-09-25 12:37:19] nicegraham: Irvick ^
+[2013-09-25 12:37:32] lrvick: Awesome thanks
+[2013-09-25 12:37:34] *lrvick tries'
+[2013-09-25 12:38:23] nicegraham: if that doens't work you'll have to try and catch freynaud tomorrow
+[2013-09-25 12:38:32] lrvick: my own just finished building. Teach a man to fish and all that.
+[2013-09-25 12:38:37] nicegraham: he's been working on it - I've avoided upgrading
+[2013-09-25 12:38:45] nicegraham: indeed!
+[2013-09-25 12:39:10] nicegraham: you're on the right branch?
+[2013-09-25 12:39:17] nicegraham: the default is dev
+[2013-09-25 12:39:31] lrvick: yeah. checked out refactor and pulled the submodule
+[2013-09-25 12:39:40] nicegraham: cool
+[2013-09-25 12:39:45] nicegraham: well that's all I did
