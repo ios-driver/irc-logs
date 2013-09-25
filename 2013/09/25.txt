@@ -36,3 +36,25 @@
 [2013-09-25 12:19:46] nicegraham: there he is
 [2013-09-25 12:19:53] nicegraham: john python himself
 [2013-09-25 12:19:53] lrvick: no love. Here is output: http://sprunge.us/gAab
+[2013-09-25 12:20:12] lrvick: Very similar results fraom javacript or protractor
+[2013-09-25 12:20:34] nicegraham: do you have xcode installed ok?
+[2013-09-25 12:20:37] lukeis: what's this silly -simulators thing you've done nicegraham? ;)
+[2013-09-25 12:20:40] lrvick: I have latest xcode and all simulators installed, stock and default
+[2013-09-25 12:20:43] nicegraham: i know
+[2013-09-25 12:20:46] lrvick: with latest cli tools
+[2013-09-25 12:21:31] lrvick: At first it failued over until I realized i needed to add -simulators, which is not in the docs
+[2013-09-25 12:21:37] lrvick: that got me further, wasted a few hours on that since i can
+[2013-09-25 12:21:52] lrvick: t find it documented but then it at least shows me capabilties... but then no love.
+[2013-09-25 12:22:07] lrvick: If i have a simulator running, it kills it when i get my traceback, if i don't have one running, it won't start one
+[2013-09-25 12:22:34] nicegraham: that's thrown when it tries to write the plist
+[2013-09-25 12:22:58] lrvick: I got tooons of unable to delete errors when i ran it without sudo. Figured permissions issues so said screw it and tried with sudo
+[2013-09-25 12:23:08] lrvick: that got rid of the unable to delete errors buuut
+[2013-09-25 12:23:39] nicegraham: ran what without sudo?
+[2013-09-25 12:23:51] lrvick: sudo java -jar ios-server-0.6.3-jar-with-dependencies.jar -port 4444 -simulators
+[2013-09-25 12:23:55] nicegraham: oh
+[2013-09-25 12:24:04] nicegraham: you shoudln't have to do that
+[2013-09-25 12:24:08] nicegraham: can you run
+[2013-09-25 12:24:08] nicegraham:   sudo chmod 666 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator*.sdk/Applications/MobileSafari.app/Info.plist
+[2013-09-25 12:24:19] lrvick: I figured however without sudo it gives me hundreds of unable to delete errors
+[2013-09-25 12:24:21] lrvick: i ran that
+[2013-09-25 12:24:43] nicegraham: what version of xcode are you on?
