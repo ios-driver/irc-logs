@@ -87,3 +87,4 @@
 [2013-09-25 12:39:31] lrvick: yeah. checked out refactor and pulled the submodule
 [2013-09-25 12:39:40] nicegraham: cool
 [2013-09-25 12:39:45] nicegraham: well that's all I did
+[2013-09-25 12:40:02] nicegraham: as I say if it doesn't work I'm pretty sure it's an xcode 5 issue
