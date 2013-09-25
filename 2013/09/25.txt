@@ -20,3 +20,4 @@
 [2013-09-25 06:25:57] gdennis, joining. (#ios-driver)
 [2013-09-25 06:30:29] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-25 07:37:50] smccarthy, joining. (#ios-driver)
+[2013-09-25 07:47:50] ff_, joining. (#ios-driver)
