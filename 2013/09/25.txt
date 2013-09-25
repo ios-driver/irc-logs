@@ -66,3 +66,11 @@
 [2013-09-25 12:29:30] nicegraham: and run that
 [2013-09-25 12:29:46] nicegraham: freynaud has been working on it
 [2013-09-25 12:29:54] nicegraham: and I think it's nearly ready for release
+[2013-09-25 12:30:06] lrvick: is there a jar floating around? I have not a clue how to compile a jar but I can learn if needed.
+[2013-09-25 12:32:43] lrvick: or any notes on how to compile this on the cli would be awesome
+[2013-09-25 12:33:43] nicegraham: I'm building it for you now
+[2013-09-25 12:33:53] nicegraham: basically you just need to downloaad the repo
+[2013-09-25 12:33:53] lrvick: ooh :D
+[2013-09-25 12:34:04] nicegraham: and from the root directory run
+[2013-09-25 12:34:05] nicegraham: mvn install -DskipTests
+[2013-09-25 12:34:17] nicegraham: then you'll find the jar in the ./server/target folder
