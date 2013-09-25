@@ -79,3 +79,4 @@
 [2013-09-24 19:58:09] santiycr, joining. (#ios-driver)
 [2013-09-24 20:28:09] lukeis, joining. (#ios-driver)
 [2013-09-24 21:08:42] chhsiung, joining. (#ios-driver)
+[2013-09-24 21:13:26] lukeis, quitting. (Quit: Leaving.)
