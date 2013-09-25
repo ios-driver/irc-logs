@@ -76,3 +76,4 @@
 [2013-09-24 16:54:37] AutomatedTester, joining. (#ios-driver)
 [2013-09-24 18:06:34] santiycr, quitting. (Quit: Leaving.)
 [2013-09-24 18:41:31] smccarthy, joining. (#ios-driver)
+[2013-09-24 19:58:09] santiycr, joining. (#ios-driver)
