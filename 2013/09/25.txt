@@ -29,3 +29,10 @@
 [2013-09-25 12:13:07] lrvick: sudo java -jar ios-server-0.6.3-jar-with-dependencies.jar -port 4444 -simulators
 [2013-09-25 12:14:41] lrvick: that fires up ok and http://localhost:4444/wd/hub/capabilities/all dumps com.apple.mobiledafari on iphone(Simululator) blocks as i expect
 [2013-09-25 12:14:46] lrvick: so far so good
+[2013-09-25 12:16:50] lrvick: next a simple client in python: "from selenium import webdriver \n webdriver.Remote("http://localhost:4444/wd/hub",webdriver.DesiredCapabilties.IPHONE).get("http://google.com")"
+[2013-09-25 12:19:15] nicegraham: Irvick: and then?
+[2013-09-25 12:19:33] lukeis: no and then
+[2013-09-25 12:19:38] lukeis: ;)
+[2013-09-25 12:19:46] nicegraham: there he is
+[2013-09-25 12:19:53] nicegraham: john python himself
+[2013-09-25 12:19:53] lrvick: no love. Here is output: http://sprunge.us/gAab
