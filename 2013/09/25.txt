@@ -130,3 +130,6 @@
 [2013-09-25 14:20:51] lukeis: ;)
 [2013-09-25 14:24:19] chhsiung, joining. (#ios-driver)
 [2013-09-25 14:26:01] chhsiung, quitting. (Client Quit)
+[2013-09-25 14:30:34] chhsiung, joining. (#ios-driver)
+[2013-09-25 14:33:37] chhsiung, quitting. (Client Quit)
+[2013-09-25 14:34:11] operatiay, quitting. (Remote host closed the connection)
