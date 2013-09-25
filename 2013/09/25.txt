@@ -102,3 +102,27 @@
 [2013-09-25 14:06:13] lukeis: yes,  github.com/ios-driver/ios-driver
 [2013-09-25 14:09:47] lrvick: nicegraham: https://github.com/ios-driver/ios-driver/issues/159
 [2013-09-25 14:12:40] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-25 14:16:11] lukeis: what happened to the github notifications?
+[2013-09-25 14:16:12] ios-driver-git, joining. (#ios-driver)
+[2013-09-25 14:16:12] ios-driver-git: [ios-driver] none pushed 3 new commits to dev: http://git.io/o8uwkA
+[2013-09-25 14:16:12] ios-driver-git: ios-driver/dev 6ae4467 Kevin Menard: If the request lacks the language or locale capabilities, then use the default ones on the system running ios-driver.
+[2013-09-25 14:16:12] ios-driver-git: ios-driver/dev 1212bc4 Graham Abell: Merge branch 'dev' of github.com:nicegraham/ios-driver into dev
+[2013-09-25 14:16:12] ios-driver-git: ios-driver/dev dfb3ff2 Brian Mooney: Synchronize actions on the inspector screenshot...
+[2013-09-25 14:16:12] ios-driver-git, leaving. (#ios-driver)
+[2013-09-25 14:16:18] lukeis: silly github...
+[2013-09-25 14:16:35] chhsiung, joining. (#ios-driver)
+[2013-09-25 14:17:15] lukeis: oh, doesn't do it for issues i guess
+[2013-09-25 14:17:33] nicegraham: It says it does
+[2013-09-25 14:17:43] nicegraham: But it doesn't really
+[2013-09-25 14:17:49] nicegraham: The bot lies
+[2013-09-25 14:17:55] lukeis: i don't think i've seen it for issues… only Pull Requests
+[2013-09-25 14:18:22] chhsiung, quitting. (Client Quit)
+[2013-09-25 14:18:38] nicegraham: You're supposed to be able to put an issue number or a hash I think
+[2013-09-25 14:18:44] lukeis: this should work still though right? #155
+[2013-09-25 14:18:57] lukeis: #159
+[2013-09-25 14:19:02] lukeis: :)
+[2013-09-25 14:19:08] nicegraham: Ha, that never works for me before
+[2013-09-25 14:19:11] lukeis: different bots :)
+[2013-09-25 14:19:27] lukeis: my bot likes me best ;)
+[2013-09-25 14:19:39] nicegraham: Nepotism!
+[2013-09-25 14:19:59] lukeis: eh, i'm kinda like step-father rather than father though
