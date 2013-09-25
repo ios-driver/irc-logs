@@ -95,3 +95,5 @@
 [2013-09-25 13:52:35] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-25 13:53:44] nicegraham: Irvick: can you raise an issue about this including your system details and the stacktrace?
 [2013-09-25 13:54:35] gdennis, quitting. (Quit: gdennis)
+[2013-09-25 13:55:17] chhsiung, joining. (#ios-driver)
+[2013-09-25 13:57:41] admc, joining. (#ios-driver)
