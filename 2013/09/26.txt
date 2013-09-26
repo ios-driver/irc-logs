@@ -89,3 +89,15 @@
 [2013-09-26 11:40:40] admc, quitting. (Quit: Leaving.)
 [2013-09-26 11:40:50] lrvick: I set a language (i think this is right) but no love on 0.6.3 http://sprunge.us/GgXg
 [2013-09-26 11:41:09] lrvick: and 0.6.4 fails with the "unknown error"
+[2013-09-26 11:50:41] lrvick: ok I was setting language wrong. needed to be lower case. So far the only combination that can actually launch a simulator and a browser is 0.6.3 stable, with language, and xcode 4.6 however even this fails with " Failed to authorize rights (0x20) with status: -60007."
+[2013-09-26 11:51:38] santiycr, joining. (#ios-driver)
+[2013-09-26 11:52:21] nicegraham: Irvick: are you running remotely?
+[2013-09-26 11:52:27] lrvick: local machine
+[2013-09-26 11:52:37] lrvick: well, sshed into local machine
+[2013-09-26 11:52:50] nicegraham: that authorize rights message is to do with simulator trying to take control
+[2013-09-26 11:52:56] lrvick: but the comman dis being run on the machine itself
+[2013-09-26 11:53:29] nicegraham: try sudo running https://github.com/ios-driver/ios-driver/blob/dev/sim_access.py
+[2013-09-26 11:53:53] nicegraham: also
+[2013-09-26 11:53:54] nicegraham: sudo /usr/sbin/DevToolsSecurity --enable
+[2013-09-26 11:53:54] nicegraham: - sudo dscl . append /Groups/_developer GroupMembership travis
+[2013-09-26 11:54:11] nicegraham: except use your own username instead of travis
