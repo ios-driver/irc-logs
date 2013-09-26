@@ -107,3 +107,6 @@
 [2013-09-26 11:57:07] nicegraham: cool
 [2013-09-26 11:57:29] nicegraham: well, the issue is os x doesn't like processes taking control of the system
 [2013-09-26 12:26:05] admc, joining. (#ios-driver)
+[2013-09-26 12:44:32] lrvick: OK so 0.6.4 still gives me a 43:51:297 WARNING DefaultCommandListener.stderr  Failed to authorize rights (0x20) with status: -60007.
+[2013-09-26 12:44:42] lrvick: after rebooting
+[2013-09-26 12:44:53] lrvick: but it does launch the simulator and try to load the url, but just hangs
