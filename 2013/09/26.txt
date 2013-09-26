@@ -57,3 +57,11 @@
 [2013-09-26 08:21:54] smccarthy, joining. (#ios-driver)
 [2013-09-26 08:38:11] admc, joining. (#ios-driver)
 [2013-09-26 08:56:29] gdennis, joining. (#ios-driver)
+[2013-09-26 09:30:49] lrvick: how does one "specifiy a language when initializing the driver"
+[2013-09-26 09:30:58] lrvick: i tried -language -lang -linguas
+[2013-09-26 09:31:07] lrvick: -help does nothing so i dont know what flags are supported
+[2013-09-26 09:31:39] nirvdrum: lrvick: You'd do it in your desired capabilities.
+[2013-09-26 09:32:33] lrvick: capabilties = webdriver.DesiredCapabilities.IPHONE \n capabilties.setCapability('LANGUAGE',en) ?
+[2013-09-26 09:32:39] lrvick: I am totally guessing here. not sure how to do it in python
+[2013-09-26 09:34:47] nirvdrum: Something like that, yeah.
+[2013-09-26 09:34:52] nirvdrum: You probably need to set the locale, too.
