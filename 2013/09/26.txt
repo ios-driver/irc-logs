@@ -10,3 +10,4 @@
 [2013-09-26 01:21:48] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-09-26 01:31:58] admc, joining. (#ios-driver)
 [2013-09-26 01:36:21] admc, quitting. (Ping timeout: 248 seconds)
+[2013-09-26 01:49:13] chhsiung, joining. (#ios-driver)
