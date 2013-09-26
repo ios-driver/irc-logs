@@ -212,3 +212,5 @@
 [2013-09-26 13:52:05] lrvick: I have open bugs with various projects. Trying to learn enough to interact with each project
 [2013-09-26 13:52:11] lrvick: until i cna test ALL OF THE THINGS from a single box
 [2013-09-26 13:52:24] lrvick: with a single testing suite
+[2013-09-26 13:55:57] admc, quitting. (Quit: Leaving.)
+[2013-09-26 13:56:15] gdennis, quitting. (Quit: gdennis)
