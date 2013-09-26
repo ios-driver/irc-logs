@@ -117,3 +117,13 @@
 [2013-09-26 12:48:04] lrvick: getting closer. downgrading xcode to 4.6 and building dev and at least the simulator launches, browser launches, it puts the url in the bar, _then_ it dies before loading page
 [2013-09-26 12:48:27] admc, quitting. (Quit: Leaving.)
 [2013-09-26 12:49:25] admc, joining. (#ios-driver)
+[2013-09-26 12:51:28] nirvdrum: nicegraham: I haven't had problems since following all the steps in the project travis.yml.
+[2013-09-26 12:51:36] nirvdrum: We should probably just make those the instructions on the site.
+[2013-09-26 12:51:48] nicegraham: ooh, so I fixed it for you basically :)
+[2013-09-26 12:52:13] nirvdrum: Yeah.  The steps on the web site weren't sufficient.
+[2013-09-26 12:52:17] nicegraham: yeah, if it fixed your problems it'll fix most peoples
+[2013-09-26 12:52:22] nirvdrum: Nor was that python script floating around.
+[2013-09-26 12:53:02] nirvdrum: I think it the GroupMembership stuff that I needed.
+[2013-09-26 12:53:10] nirvdrum: *it was
+[2013-09-26 12:53:21] nirvdrum: Damn, I'm having trouble with words today.
+[2013-09-26 12:54:49] nicegraham: use your words Kevin
