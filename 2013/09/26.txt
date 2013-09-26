@@ -110,3 +110,10 @@
 [2013-09-26 12:44:32] lrvick: OK so 0.6.4 still gives me a 43:51:297 WARNING DefaultCommandListener.stderr  Failed to authorize rights (0x20) with status: -60007.
 [2013-09-26 12:44:42] lrvick: after rebooting
 [2013-09-26 12:44:53] lrvick: but it does launch the simulator and try to load the url, but just hangs
+[2013-09-26 12:45:07] lrvick: i have to manually hit the relaod button in the brwoser and it loads. Weird
+[2013-09-26 12:45:27] lrvick: It just starts loading the page, then dumps error output
+[2013-09-26 12:46:51] nicegraham: nirvdrum has had lots of trouble with that authorisation...
+[2013-09-26 12:47:06] lrvick: my output : http://sprunge.us/WbXQ
+[2013-09-26 12:48:04] lrvick: getting closer. downgrading xcode to 4.6 and building dev and at least the simulator launches, browser launches, it puts the url in the bar, _then_ it dies before loading page
+[2013-09-26 12:48:27] admc, quitting. (Quit: Leaving.)
+[2013-09-26 12:49:25] admc, joining. (#ios-driver)
