@@ -146,3 +146,5 @@
 [2013-09-25 16:02:54] lukeis, quitting. (Quit: Leaving.)
 [2013-09-25 16:08:06] chhsiung, joining. (#ios-driver)
 [2013-09-25 16:15:08] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-25 17:08:53] admc, quitting. (Quit: Leaving.)
+[2013-09-25 17:09:19] admc, joining. (#ios-driver)
