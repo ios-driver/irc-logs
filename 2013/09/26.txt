@@ -184,3 +184,9 @@
 [2013-09-26 13:39:30] nicegraham: can you bring up the inspector then
 [2013-09-26 13:39:42] nicegraham: we're communicating over the same channel inspector would use
 [2013-09-26 13:39:58] nicegraham: which might explain it being greyed out but freynaud would have to answer that
+[2013-09-26 13:40:40] nirvdrum: That's correct.  You can only have one connection at a time.
+[2013-09-26 13:40:43] nirvdrum: Utterly useless.
+[2013-09-26 13:43:29] lrvick: I see. So you guys use the same connection web inspector uses
+[2013-09-26 13:43:47] nicegraham: for web yes
+[2013-09-26 13:43:56] nicegraham: for native we use instruments
+[2013-09-26 13:43:59] santiycr1, joining. (#ios-driver)
