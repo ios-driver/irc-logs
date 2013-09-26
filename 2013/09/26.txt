@@ -157,3 +157,8 @@
 [2013-09-26 13:08:36] lrvick: soooo
 [2013-09-26 13:08:44] lrvick: i ran the python scropt and the above commands and still no love.
 [2013-09-26 13:08:49] lrvick: Is there something else I should do?
+[2013-09-26 13:10:09] lrvick: sudo dscl . append /Groups/_developer GroupMembership myuser
+[2013-09-26 13:10:19] lrvick: sudo python sim_access.py
+[2013-09-26 13:10:23] lrvick: sudo reboot
+[2013-09-26 13:10:36] lrvick: java -jar server/target/ios-server-0.6.4-jar-with-dependencies.jar -port 4444 -simulator
+[2013-09-26 13:10:53] lrvick: Fails with : http://sprunge.us/WbXQ
