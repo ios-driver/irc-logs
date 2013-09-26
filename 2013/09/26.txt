@@ -86,3 +86,6 @@
 [2013-09-26 11:36:39] lrvick: I just can't seem to get ios-driver to work. Brand new 10.8 osx machine with xcode 4.6
 [2013-09-26 11:39:07] nirvdrum: 0.6.3 won't start a session if you don't set a language and/or locale.
 [2013-09-26 11:39:14] nirvdrum: That's why I suggested building dev.
+[2013-09-26 11:40:40] admc, quitting. (Quit: Leaving.)
+[2013-09-26 11:40:50] lrvick: I set a language (i think this is right) but no love on 0.6.3 http://sprunge.us/GgXg
+[2013-09-26 11:41:09] lrvick: and 0.6.4 fails with the "unknown error"
