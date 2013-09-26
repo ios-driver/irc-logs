@@ -30,3 +30,4 @@
 [2013-09-26 03:34:20] admc, joining. (#ios-driver)
 [2013-09-26 03:38:37] admc, quitting. (Ping timeout: 256 seconds)
 [2013-09-26 03:49:31] tesgn, quitting. (Quit: ChatZilla 0.9.90.1 [Firefox 23.0/20130803215302])
+[2013-09-26 04:04:58] admc, joining. (#ios-driver)
