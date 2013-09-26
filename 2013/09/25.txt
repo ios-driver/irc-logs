@@ -167,3 +167,4 @@
 [2013-09-25 21:57:20] admc, joining. (#ios-driver)
 [2013-09-25 22:02:01] admc, quitting. (Ping timeout: 256 seconds)
 [2013-09-25 22:12:17] smccarthy, quitting. (Remote host closed the connection)
+[2013-09-25 22:28:04] admc, joining. (#ios-driver)
