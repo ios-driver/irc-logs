@@ -65,3 +65,8 @@
 [2013-09-26 09:32:39] lrvick: I am totally guessing here. not sure how to do it in python
 [2013-09-26 09:34:47] nirvdrum: Something like that, yeah.
 [2013-09-26 09:34:52] nirvdrum: You probably need to set the locale, too.
+[2013-09-26 09:35:16] nirvdrum: If you build from master, I changed it to use the system defaults if you don't specify anything.
+[2013-09-26 09:35:41] lrvick: Master sadly does not work with xcode 5,
+[2013-09-26 09:35:44] lrvick: actually seems nothing does
+[2013-09-26 09:35:46] lrvick: hrm
+[2013-09-26 09:35:58] lrvick: Suppose i should just downgrade to 4 for now...
