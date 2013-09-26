@@ -101,3 +101,8 @@
 [2013-09-26 11:53:54] nicegraham: sudo /usr/sbin/DevToolsSecurity --enable
 [2013-09-26 11:53:54] nicegraham: - sudo dscl . append /Groups/_developer GroupMembership travis
 [2013-09-26 11:54:11] nicegraham: except use your own username instead of travis
+[2013-09-26 11:56:20] lrvick: woo
+[2013-09-26 11:56:22] lrvick: that worked
+[2013-09-26 11:57:07] lrvick: That fixed 0.6.4 as well. ok cool
+[2013-09-26 11:57:07] nicegraham: cool
+[2013-09-26 11:57:29] nicegraham: well, the issue is os x doesn't like processes taking control of the system
