@@ -203,3 +203,12 @@
 [2013-09-26 13:49:53] lrvick: Yreah ill back-track and write my test identical to the python test using seleniums native js bindings just like the python
 [2013-09-26 13:49:55] lrvick: then complainf rom there
 [2013-09-26 13:49:59] nicegraham: assuming it just implements the wire protocol it should jsut work
+[2013-09-26 13:50:10] lrvick: sinc eI assume you guys diont know or care about protractor, but want to support anthing selenium nativly supports, yeah?
+[2013-09-26 13:50:24] nicegraham: yeah, pretty much
+[2013-09-26 13:50:34] lrvick: k. ill build my test case against that assumption then
+[2013-09-26 13:50:38] nicegraham: we'll implement the wire protocol
+[2013-09-26 13:50:56] nicegraham: and add endpoints which are specific to native/mobile
+[2013-09-26 13:51:03] nicegraham: like multi finger touch events
+[2013-09-26 13:52:05] lrvick: I have open bugs with various projects. Trying to learn enough to interact with each project
+[2013-09-26 13:52:11] lrvick: until i cna test ALL OF THE THINGS from a single box
+[2013-09-26 13:52:24] lrvick: with a single testing suite
