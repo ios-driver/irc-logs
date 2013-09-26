@@ -149,3 +149,4 @@
 [2013-09-25 17:08:53] admc, quitting. (Quit: Leaving.)
 [2013-09-25 17:09:19] admc, joining. (#ios-driver)
 [2013-09-25 17:51:02] santiycr, quitting. (Quit: Leaving.)
+[2013-09-25 18:00:47] santiycr, joining. (#ios-driver)
