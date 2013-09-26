@@ -162,3 +162,6 @@
 [2013-09-26 13:10:23] lrvick: sudo reboot
 [2013-09-26 13:10:36] lrvick: java -jar server/target/ios-server-0.6.4-jar-with-dependencies.jar -port 4444 -simulator
 [2013-09-26 13:10:53] lrvick: Fails with : http://sprunge.us/WbXQ
+[2013-09-26 13:25:54] nicegraham: you might have to launch the simulator once manually
+[2013-09-26 13:26:08] nicegraham: and click the security dialog and then reboot... nirvdrum?
+[2013-09-26 13:29:53] santiycr, quitting. (Quit: Leaving.)
