@@ -217,3 +217,4 @@
 [2013-09-26 14:02:58] admc, joining. (#ios-driver)
 [2013-09-26 14:08:45] lrvick: ok I was able to load it with WebDriverJS on a simple test case. Good news, looks like it is not your fault, but in fact protractors fault. Off to bug them
 [2013-09-26 14:08:48] lrvick: thanks guys :)
+[2013-09-26 14:45:42] santiycr1, quitting. (Quit: Leaving.)
