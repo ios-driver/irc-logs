@@ -190,3 +190,16 @@
 [2013-09-26 13:43:47] nicegraham: for web yes
 [2013-09-26 13:43:56] nicegraham: for native we use instruments
 [2013-09-26 13:43:59] santiycr1, joining. (#ios-driver)
+[2013-09-26 13:46:10] lrvick: ok looks like my localstroage was corrupted in the emulator so that is my bad
+[2013-09-26 13:46:43] lrvick: I cna load the app via the python driver.get() interface using xcode 4.6 and latest dev 6.4 build.
+[2013-09-26 13:46:48] santiycr, quitting. (Ping timeout: 245 seconds)
+[2013-09-26 13:47:43] nicegraham: happy days
+[2013-09-26 13:47:43] lrvick: Still can't do it with the javascript interface
+[2013-09-26 13:47:53] lrvick: which is my end game, buuuut this is progress
+[2013-09-26 13:48:16] nicegraham: what do you mean via the js interface?
+[2013-09-26 13:49:02] lrvick: protractor which uses the selenium webdriver javascript bindings
+[2013-09-26 13:49:14] nicegraham: oh
+[2013-09-26 13:49:20] nicegraham: you're on your own there :)
+[2013-09-26 13:49:53] lrvick: Yreah ill back-track and write my test identical to the python test using seleniums native js bindings just like the python
+[2013-09-26 13:49:55] lrvick: then complainf rom there
+[2013-09-26 13:49:59] nicegraham: assuming it just implements the wire protocol it should jsut work
