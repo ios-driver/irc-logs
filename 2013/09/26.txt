@@ -165,3 +165,7 @@
 [2013-09-26 13:25:54] nicegraham: you might have to launch the simulator once manually
 [2013-09-26 13:26:08] nicegraham: and click the security dialog and then reboot... nirvdrum?
 [2013-09-26 13:29:53] santiycr, quitting. (Quit: Leaving.)
+[2013-09-26 13:30:13] santiycr, joining. (#ios-driver)
+[2013-09-26 13:32:24] nirvdrum: I don't recall at this point.  My stuff has been running for about a month now :-/
+[2013-09-26 13:34:08] lrvick: hmmn. so it works if i just have it load google.com but any of my more complex apps fail
+[2013-09-26 13:34:40] lrvick: I can run it manually and load up my app no problem
