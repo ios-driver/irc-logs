@@ -127,3 +127,20 @@
 [2013-09-26 12:53:10] nirvdrum: *it was
 [2013-09-26 12:53:21] nirvdrum: Damn, I'm having trouble with words today.
 [2013-09-26 12:54:49] nicegraham: use your words Kevin
+[2013-09-26 12:55:15] nicegraham: the python script just adds the authorisation thing
+[2013-09-26 12:55:20] nicegraham: which you'd done manually anyway
+[2013-09-26 12:55:52] nirvdrum: The python script I had only modified /etc/authorization.  It didn't change the group membership stuff.
+[2013-09-26 12:56:13] nirvdrum: It looks like a separate command in the travis config, too.
+[2013-09-26 12:57:32] nicegraham: the group membership?
+[2013-09-26 12:57:35] nicegraham: it is
+[2013-09-26 12:57:49] nicegraham: but that was me bashing my head against the screen trying to get travis to work
+[2013-09-26 12:57:50] nirvdrum: You just tried to convince me it was part of the python script.
+[2013-09-26 12:58:20] nicegraham: I don't think I did...
+[2013-09-26 12:58:31] nicegraham: I added that script too and it's not in there :)
+[2013-09-26 12:58:41] nirvdrum: Well, either you're lying or I misunderstood.
+[2013-09-26 12:58:54] nirvdrum: Which is really more likely?
+[2013-09-26 12:59:20] nicegraham: it's probably me lying again
+[2013-09-26 12:59:24] nirvdrum: Heh.
+[2013-09-26 12:59:27] nicegraham: i'm prone to fierce bouts of lying
+[2013-09-26 12:59:40] nirvdrum: Oh, on the subject of fuck-ups, I did commit to master.  I cherry-picked it back to dev.
+[2013-09-26 12:59:46] nirvdrum: Dunno if anyone cares enough to force push master.
