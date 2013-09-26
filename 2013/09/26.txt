@@ -82,3 +82,7 @@
 [2013-09-26 11:28:11] lrvick: "unknown error" popup and 26:38:861 WARNING DefaultCommandListener.stderr  2013-09-26 14:26:38.860 instruments[65836:707] Recording cancelled : At least one target failed to launch; aborting run
 [2013-09-26 11:28:12] lrvick: 26:38:862 WARNING DefaultCommandListener.stderr  Instruments Trace Error : Failed to start trace.
 [2013-09-26 11:28:16] lrvick: in console
+[2013-09-26 11:36:01] lrvick: Stable build of 0.6.3 fails with "SessionNotCreatedError: error starting the session:cannot configure simulator".
+[2013-09-26 11:36:39] lrvick: I just can't seem to get ios-driver to work. Brand new 10.8 osx machine with xcode 4.6
+[2013-09-26 11:39:07] nirvdrum: 0.6.3 won't start a session if you don't set a language and/or locale.
+[2013-09-26 11:39:14] nirvdrum: That's why I suggested building dev.
