@@ -144,3 +144,13 @@
 [2013-09-26 12:59:27] nicegraham: i'm prone to fierce bouts of lying
 [2013-09-26 12:59:40] nirvdrum: Oh, on the subject of fuck-ups, I did commit to master.  I cherry-picked it back to dev.
 [2013-09-26 12:59:46] nirvdrum: Dunno if anyone cares enough to force push master.
+[2013-09-26 13:00:35] nicegraham: I assume at some point we'll push to master again... :)
+[2013-09-26 13:00:38] nicegraham: it's been a while
+[2013-09-26 13:00:45] nicegraham: May was it?
+[2013-09-26 13:01:07] nirvdrum: It's been a while.  And I tend to forget we don't use master really.
+[2013-09-26 13:01:29] nirvdrum: No one has complained about that locale thing.  Maybe it's worth cutting a new release with it.
+[2013-09-26 13:01:42] nirvdrum: I think it fixes a couple reported issues.
+[2013-09-26 13:04:05] nicegraham: yeah it is
+[2013-09-26 13:04:15] nicegraham: I said it to francois yesterday/day before
+[2013-09-26 13:04:30] nicegraham: he said he was finishing the ios7 fixes and would be pushing them that afternoon...
+[2013-09-26 13:04:39] nicegraham: I'll try and catch him tomorrow
