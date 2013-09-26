@@ -169,3 +169,18 @@
 [2013-09-26 13:32:24] nirvdrum: I don't recall at this point.  My stuff has been running for about a month now :-/
 [2013-09-26 13:34:08] lrvick: hmmn. so it works if i just have it load google.com but any of my more complex apps fail
 [2013-09-26 13:34:40] lrvick: I can run it manually and load up my app no problem
+[2013-09-26 13:36:01] nicegraham: so safari works but native apps don't?
+[2013-09-26 13:37:11] lrvick: no i mean I cna load my webapp url in safari just fine in the emulator if i open up safari and plug it in manually
+[2013-09-26 13:37:30] lrvick: but when letting ios-driver doa  driver.get() of the same url it partially loads and hangs
+[2013-09-26 13:37:40] nicegraham: but through ios-driver - will any sites load?
+[2013-09-26 13:37:49] lrvick: it is a websocket application. Is there any proxy or anything in the mix that could break sockets?
+[2013-09-26 13:38:28] nicegraham: I don't know
+[2013-09-26 13:38:29] lrvick: google.com loads via ios driver, but not my webapp
+[2013-09-26 13:38:38] nicegraham: we're using wkrdp to communicate
+[2013-09-26 13:39:03] nicegraham: I don't think that should get in the way of anything
+[2013-09-26 13:39:04] lrvick: Tried to pull up safari web inspector when ios driver hangs, but it is greyed out.
+[2013-09-26 13:39:14] lrvick: Apparently safari can't touch the ios-driver controlled emulator to debug
+[2013-09-26 13:39:16] nicegraham: what about when you load it manually?
+[2013-09-26 13:39:30] nicegraham: can you bring up the inspector then
+[2013-09-26 13:39:42] nicegraham: we're communicating over the same channel inspector would use
+[2013-09-26 13:39:58] nicegraham: which might explain it being greyed out but freynaud would have to answer that
