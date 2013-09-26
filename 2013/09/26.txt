@@ -224,3 +224,4 @@
 [2013-09-26 15:26:19] santiycr1, joining. (#ios-driver)
 [2013-09-26 15:29:47] santiycr, quitting. (Ping timeout: 256 seconds)
 [2013-09-26 15:48:42] lukeis, quitting. (Quit: Leaving.)
+[2013-09-26 16:07:32] santiycr1, quitting. (Quit: Leaving.)
