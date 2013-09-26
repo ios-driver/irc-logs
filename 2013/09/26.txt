@@ -73,3 +73,7 @@
 [2013-09-26 10:49:54] lrvick: Here is my attempt buuuut http://sprunge.us/GgXg
 [2013-09-26 10:50:00] lrvick: does not seem tohave any impact. Must be doing it wrong
 [2013-09-26 11:08:00] nirvdrum: Sorry, I meant build from dev, not master.
+[2013-09-26 11:16:23] lrvick: Dev works with xcode 5 ^_-
+[2013-09-26 11:16:32] lrvick: tried refactor yesterday with no luck
+[2013-09-26 11:16:53] lrvick: whatevs.
+[2013-09-26 11:16:56] *lrvick downgrades to 4'
