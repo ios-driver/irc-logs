@@ -106,3 +106,4 @@
 [2013-09-26 11:57:07] lrvick: That fixed 0.6.4 as well. ok cool
 [2013-09-26 11:57:07] nicegraham: cool
 [2013-09-26 11:57:29] nicegraham: well, the issue is os x doesn't like processes taking control of the system
+[2013-09-26 12:26:05] admc, joining. (#ios-driver)
