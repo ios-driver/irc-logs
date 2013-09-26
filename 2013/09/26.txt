@@ -55,3 +55,4 @@
 [2013-09-26 08:14:55] admc, quitting. (Ping timeout: 246 seconds)
 [2013-09-26 08:21:26] lukeis, joining. (#ios-driver)
 [2013-09-26 08:21:54] smccarthy, joining. (#ios-driver)
+[2013-09-26 08:38:11] admc, joining. (#ios-driver)
