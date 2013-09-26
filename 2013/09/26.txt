@@ -154,3 +154,6 @@
 [2013-09-26 13:04:15] nicegraham: I said it to francois yesterday/day before
 [2013-09-26 13:04:30] nicegraham: he said he was finishing the ios7 fixes and would be pushing them that afternoon...
 [2013-09-26 13:04:39] nicegraham: I'll try and catch him tomorrow
+[2013-09-26 13:08:36] lrvick: soooo
+[2013-09-26 13:08:44] lrvick: i ran the python scropt and the above commands and still no love.
+[2013-09-26 13:08:49] lrvick: Is there something else I should do?
