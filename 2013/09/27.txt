@@ -70,3 +70,4 @@
 [2013-09-27 14:06:06] chhsiung, joining. (#ios-driver)
 [2013-09-27 14:18:51] admc1, quitting. (Quit: Leaving.)
 [2013-09-27 14:40:26] jlipps, joining. (#ios-driver)
+[2013-09-27 14:49:25] admc, joining. (#ios-driver)
