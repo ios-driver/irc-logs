@@ -25,3 +25,6 @@
 [2013-09-27 06:57:10] ios-driver-git: [ios-driver] nicegraham tagged 0.6.5 at dev: http://git.io/6UAcxQ
 [2013-09-27 06:57:10] ios-driver-git, leaving. (#ios-driver)
 [2013-09-27 07:51:50] smccarthy, joining. (#ios-driver)
+[2013-09-27 07:57:19] dawagner: nicegraham: Sorry, I got distracted by a work emergency!
+[2013-09-27 07:58:00] dawagner: RE that pull request: The intern who wrote the code's internship ended, but someone is going to pick it up in the next few days (he apologised to me for leaving it to sit a couple of days ago :))
+[2013-09-27 07:58:41] dawagner: I'm enjoying what seems to be the only four weeks in New York when the weather is nice.  The summer is far too hot and far too humid, and the winter I hear isn't handled very well? But right now, it's lovely :)
