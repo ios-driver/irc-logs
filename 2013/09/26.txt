@@ -233,3 +233,5 @@
 [2013-09-26 19:42:42] nirvdrum, quitting. (Ping timeout: 264 seconds)
 [2013-09-26 22:57:48] smccarthy, quitting. (Remote host closed the connection)
 [2013-09-26 23:39:29] freynaud: lrvick: yt ?
+[2013-09-26 23:42:47] nicegraham: morning freynaud
+[2013-09-26 23:43:10] nicegraham: he tried running the refactor brnach with xcode 5 but it didn't work for him
