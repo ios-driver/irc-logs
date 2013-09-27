@@ -54,3 +54,4 @@
 [2013-09-27 11:59:05] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-27 12:00:29] chhsiung, joining. (#ios-driver)
 [2013-09-27 12:24:59] admc, quitting. (Quit: Leaving.)
+[2013-09-27 12:36:38] santiycr, joining. (#ios-driver)
