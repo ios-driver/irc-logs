@@ -24,3 +24,4 @@
 [2013-09-27 06:57:10] ios-driver-git, joining. (#ios-driver)
 [2013-09-27 06:57:10] ios-driver-git: [ios-driver] nicegraham tagged 0.6.5 at dev: http://git.io/6UAcxQ
 [2013-09-27 06:57:10] ios-driver-git, leaving. (#ios-driver)
+[2013-09-27 07:51:50] smccarthy, joining. (#ios-driver)
