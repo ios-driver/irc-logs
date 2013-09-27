@@ -235,3 +235,6 @@
 [2013-09-26 23:39:29] freynaud: lrvick: yt ?
 [2013-09-26 23:42:47] nicegraham: morning freynaud
 [2013-09-26 23:43:10] nicegraham: he tried running the refactor brnach with xcode 5 but it didn't work for him
+[2013-09-26 23:54:02] freynaud: because ?
+[2013-09-26 23:54:22] freynaud: is he trying safari ?
+[2013-09-26 23:54:27] freynaud: or native apps
