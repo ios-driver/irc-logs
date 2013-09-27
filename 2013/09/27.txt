@@ -9,3 +9,11 @@
 [2013-09-27 06:11:26] nicegraham: we don't have a solution yet
 [2013-09-27 06:11:33] nicegraham: and by we I mean him
 [2013-09-27 06:11:34] nicegraham: :)
+[2013-09-27 06:15:59] dawagner, joining. (#ios-driver)
+[2013-09-27 06:18:19] nicegraham: dawagner: hey!
+[2013-09-27 06:18:26] dawagner: Hello!
+[2013-09-27 06:18:28] dawagner: How's it going?
+[2013-09-27 06:18:30] nicegraham: what's the story with https://github.com/ios-driver/ios-driver/pull/100
+[2013-09-27 06:18:34] nicegraham: going well!
+[2013-09-27 06:18:48] nicegraham: though I'm not enjoying the relentless march into winter
+[2013-09-27 06:18:52] nicegraham: and the darkness
