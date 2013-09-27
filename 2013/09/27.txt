@@ -21,3 +21,6 @@
 [2013-09-27 06:33:44] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/Hbs0tw
 [2013-09-27 06:33:44] ios-driver-git, leaving. (#ios-driver)
 [2013-09-27 06:33:44] ios-driver-git: ios-driver/dev 120cf43 Graham Abell: updating version and notes for  0.6.5 release
+[2013-09-27 06:57:10] ios-driver-git, joining. (#ios-driver)
+[2013-09-27 06:57:10] ios-driver-git: [ios-driver] nicegraham tagged 0.6.5 at dev: http://git.io/6UAcxQ
+[2013-09-27 06:57:10] ios-driver-git, leaving. (#ios-driver)
