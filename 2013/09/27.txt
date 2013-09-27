@@ -77,3 +77,5 @@
 [2013-09-27 15:12:26] santiycr, quitting. (Quit: Leaving.)
 [2013-09-27 15:13:23] santiycr, joining. (#ios-driver)
 [2013-09-27 15:26:20] admc, joining. (#ios-driver)
+[2013-09-27 15:36:02] admc, quitting. (Quit: Leaving.)
+[2013-09-27 15:37:38] dawagner, quitting. (Quit: Leaving)
