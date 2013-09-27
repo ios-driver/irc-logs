@@ -17,3 +17,7 @@
 [2013-09-27 06:18:34] nicegraham: going well!
 [2013-09-27 06:18:48] nicegraham: though I'm not enjoying the relentless march into winter
 [2013-09-27 06:18:52] nicegraham: and the darkness
+[2013-09-27 06:33:44] ios-driver-git, joining. (#ios-driver)
+[2013-09-27 06:33:44] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/Hbs0tw
+[2013-09-27 06:33:44] ios-driver-git, leaving. (#ios-driver)
+[2013-09-27 06:33:44] ios-driver-git: ios-driver/dev 120cf43 Graham Abell: updating version and notes for  0.6.5 release
