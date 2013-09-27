@@ -37,3 +37,5 @@
 [2013-09-27 08:08:58] AutomatedTester: in April it was lovely
 [2013-09-27 08:31:17] gdennis, joining. (#ios-driver)
 [2013-09-27 08:40:23] admc, joining. (#ios-driver)
+[2013-09-27 09:05:32] santiycr, joining. (#ios-driver)
+[2013-09-27 09:09:50] admc1, joining. (#ios-driver)
