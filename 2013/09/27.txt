@@ -104,3 +104,4 @@
 [2013-09-27 20:24:17] admc, joining. (#ios-driver)
 [2013-09-27 20:53:41] admc, quitting. (Quit: Leaving.)
 [2013-09-27 21:34:09] chhsiung, joining. (#ios-driver)
+[2013-09-27 23:04:27] SNXRaven, joining. (#ios-driver)
