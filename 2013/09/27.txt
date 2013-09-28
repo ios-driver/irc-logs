@@ -97,3 +97,4 @@
 [2013-09-27 17:28:31] admc1, quitting. (Quit: Leaving.)
 [2013-09-27 17:58:26] admc, joining. (#ios-driver)
 [2013-09-27 17:59:14] admc, quitting. (Client Quit)
+[2013-09-27 19:11:52] psp250, quitting. (Ping timeout: 264 seconds)
