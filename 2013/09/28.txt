@@ -48,3 +48,4 @@
 [2013-09-28 15:40:52] chhsiung, joining. (#ios-driver)
 [2013-09-28 15:45:08] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-09-28 16:10:57] chhsiung, joining. (#ios-driver)
+[2013-09-28 16:15:08] chhsiung, quitting. (Ping timeout: 245 seconds)
