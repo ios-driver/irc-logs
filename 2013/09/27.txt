@@ -92,3 +92,5 @@
 [2013-09-27 16:52:09] abhinav: dgrace:
 [2013-09-27 17:00:49] abhinav, quitting. (Quit: Page closed)
 [2013-09-27 17:00:52] admc, joining. (#ios-driver)
+[2013-09-27 17:12:59] admc1, joining. (#ios-driver)
+[2013-09-27 17:14:46] admc, quitting. (Ping timeout: 256 seconds)
