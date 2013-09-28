@@ -90,3 +90,5 @@
 [2013-09-27 16:48:43] abhinav: anybody here to help?
 [2013-09-27 16:49:02] abhinav: AutomatedTester: ^^
 [2013-09-27 16:52:09] abhinav: dgrace:
+[2013-09-27 17:00:49] abhinav, quitting. (Quit: Page closed)
+[2013-09-27 17:00:52] admc, joining. (#ios-driver)
