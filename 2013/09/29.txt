@@ -23,3 +23,5 @@
 [2013-09-29 12:28:37] admc, joining. (#ios-driver)
 [2013-09-29 14:34:06] admc, quitting. (Quit: Leaving.)
 [2013-09-29 15:33:41] tester, joining. (#ios-driver)
+[2013-09-29 15:35:07] tester: Hi I have having trouble in running ios-driver with -beta switch..I am getting an error C:\Code>java -jar ios-server-0.6.3-jar-with-dependencies.jar -beta Cannot load libimobiledevice-sdk.dylib
+[2013-09-29 15:35:36] tester: can anyone please help me?
