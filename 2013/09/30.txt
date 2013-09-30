@@ -50,3 +50,7 @@
 [2013-09-30 15:10:51] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-30 15:19:43] chhsiung, joining. (#ios-driver)
 [2013-09-30 15:26:45] admc, quitting. (Quit: Leaving.)
+[2013-09-30 15:31:42] admc, joining. (#ios-driver)
+[2013-09-30 15:34:42] ios-driver-git, joining. (#ios-driver)
+[2013-09-30 15:34:42] ios-driver-git: [ios-driver] jasone created remotes/origin/dev from dev (+0 new commits): http://git.io/A8Z5-A
+[2013-09-30 15:34:42] ios-driver-git, leaving. (#ios-driver)
