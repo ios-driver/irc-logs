@@ -20,3 +20,6 @@
 [2013-09-30 09:42:38] admc, quitting. (Ping timeout: 240 seconds)
 [2013-09-30 10:02:21] chhsiung, quitting. (Read error: Connection reset by peer)
 [2013-09-30 10:03:50] admc1, changing nick to admc.
+[2013-09-30 10:18:10] chhsiung, joining. (#ios-driver)
+[2013-09-30 10:19:38] chhsiung, quitting. (Client Quit)
+[2013-09-30 10:19:57] chhsiung, joining. (#ios-driver)
