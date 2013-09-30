@@ -30,3 +30,5 @@
 [2013-09-29 21:49:38] freynaud, quitting. (*.net *.split)
 [2013-09-29 21:49:40] freynaud_, changing nick to freynaud.
 [2013-09-29 22:22:31] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-29 23:25:22] chhsiung, joining. (#ios-driver)
+[2013-09-29 23:29:43] chhsiung, quitting. (Ping timeout: 245 seconds)
