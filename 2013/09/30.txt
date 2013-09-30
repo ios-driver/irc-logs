@@ -31,3 +31,7 @@
 [2013-09-30 11:25:22] chhsiung, quitting. (Client Quit)
 [2013-09-30 11:29:17] nirvdrum, joining. (#ios-driver)
 [2013-09-30 11:31:56] chhsiung, joining. (#ios-driver)
+[2013-09-30 11:56:18] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-30 11:56:52] chhsiung, joining. (#ios-driver)
+[2013-09-30 11:57:07] chhsiung, quitting. (Client Quit)
+[2013-09-30 11:58:02] chhsiung, joining. (#ios-driver)
