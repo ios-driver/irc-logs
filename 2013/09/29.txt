@@ -27,3 +27,5 @@
 [2013-09-29 15:35:36] tester: can anyone please help me?
 [2013-09-29 15:59:20] tester, quitting. (Quit: Page closed)
 [2013-09-29 21:43:47] freynaud_, joining. (#ios-driver)
+[2013-09-29 21:49:38] freynaud, quitting. (*.net *.split)
+[2013-09-29 21:49:40] freynaud_, changing nick to freynaud.
