@@ -36,3 +36,4 @@
 [2013-09-30 11:57:07] chhsiung, quitting. (Client Quit)
 [2013-09-30 11:58:02] chhsiung, joining. (#ios-driver)
 [2013-09-30 12:15:40] admc, joining. (#ios-driver)
+[2013-09-30 12:45:37] admc, quitting. (Quit: Leaving.)
