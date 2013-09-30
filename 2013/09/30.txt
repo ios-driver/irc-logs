@@ -48,3 +48,4 @@
 [2013-09-30 15:09:47] lukeis, joining. (#ios-driver)
 [2013-09-30 15:09:48] lukeis1, quitting. (Ping timeout: 240 seconds)
 [2013-09-30 15:10:51] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-30 15:19:43] chhsiung, joining. (#ios-driver)
