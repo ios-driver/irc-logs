@@ -54,3 +54,8 @@
 [2013-09-30 15:34:42] ios-driver-git, joining. (#ios-driver)
 [2013-09-30 15:34:42] ios-driver-git: [ios-driver] jasone created remotes/origin/dev from dev (+0 new commits): http://git.io/A8Z5-A
 [2013-09-30 15:34:42] ios-driver-git, leaving. (#ios-driver)
+[2013-09-30 15:35:38] ios-driver-git, joining. (#ios-driver)
+[2013-09-30 15:35:38] ios-driver-git: [ios-driver] jasone pushed 1 new commit to dev: http://git.io/N-TJkA
+[2013-09-30 15:35:38] ios-driver-git, leaving. (#ios-driver)
+[2013-09-30 15:35:38] ios-driver-git: ios-driver/dev da37143 Jason Evans: Refactor JS code generation to use JSTemplate....
+[2013-09-30 15:35:50] chhsiung, quitting. (Quit: Leaving.)
