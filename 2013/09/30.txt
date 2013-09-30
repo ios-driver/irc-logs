@@ -11,3 +11,5 @@
 [2013-09-30 08:16:37] operatiay, joining. (#ios-driver)
 [2013-09-30 08:31:07] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-30 08:40:21] lukeis, joining. (#ios-driver)
+[2013-09-30 08:47:41] operatiay, quitting. (Remote host closed the connection)
+[2013-09-30 08:48:19] lukeis, quitting. (Quit: Leaving.)
