@@ -5,3 +5,4 @@
 [2013-09-30 02:00:33] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-09-30 04:27:50] operatiay, quitting. (Remote host closed the connection)
 [2013-09-30 04:57:03] operatiay, joining. (#ios-driver)
+[2013-09-30 06:10:01] chhsiung, joining. (#ios-driver)
