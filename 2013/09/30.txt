@@ -64,3 +64,4 @@
 [2013-09-30 15:47:37] ios-driver-git: [ios-driver] jasone pushed 1 new commit to dev: http://git.io/S1qlVQ
 [2013-09-30 15:47:37] ios-driver-git: ios-driver/dev 44fa38c Jason Evans: Refactor createInstrumentCommand().
 [2013-09-30 15:47:37] ios-driver-git, leaving. (#ios-driver)
+[2013-09-30 16:02:31] lukeis, quitting. (Quit: Leaving.)
