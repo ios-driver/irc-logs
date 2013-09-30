@@ -59,3 +59,4 @@
 [2013-09-30 15:35:38] ios-driver-git, leaving. (#ios-driver)
 [2013-09-30 15:35:38] ios-driver-git: ios-driver/dev da37143 Jason Evans: Refactor JS code generation to use JSTemplate....
 [2013-09-30 15:35:50] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-30 15:41:53] chhsiung, joining. (#ios-driver)
