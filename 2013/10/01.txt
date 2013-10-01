@@ -21,3 +21,4 @@
 [2013-10-01 07:40:45] dgrace, joining. (#ios-driver)
 [2013-10-01 07:41:45] freynaud_, joining. (#ios-driver)
 [2013-10-01 07:58:32] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-01 08:08:02] nirvdrum, joining. (#ios-driver)
