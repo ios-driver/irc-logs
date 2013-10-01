@@ -42,3 +42,4 @@
 [2013-10-01 12:37:20] abhinav, quitting. (Quit: Page closed)
 [2013-10-01 12:44:32] lukeis, joining. (#ios-driver)
 [2013-10-01 13:08:44] gdennis, joining. (#ios-driver)
+[2013-10-01 13:18:36] smccarthy, joining. (#ios-driver)
