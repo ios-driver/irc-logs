@@ -40,3 +40,4 @@
 [2013-10-01 12:27:16] gdennis, quitting. (*.net *.split)
 [2013-10-01 12:27:16] SNXRaven, quitting. (*.net *.split)
 [2013-10-01 12:37:20] abhinav, quitting. (Quit: Page closed)
+[2013-10-01 12:44:32] lukeis, joining. (#ios-driver)
