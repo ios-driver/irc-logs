@@ -53,3 +53,5 @@
 [2013-10-01 15:35:00] operatiay, joining. (#ios-driver)
 [2013-10-01 15:39:10] operatiay, quitting. (Ping timeout: 240 seconds)
 [2013-10-01 15:52:56] nirvdrum, quitting. (Ping timeout: 245 seconds)
+[2013-10-01 15:58:09] lukeis, quitting. (Quit: Leaving.)
+[2013-10-01 15:59:51] chhsiung, quitting. (Quit: Leaving.)
