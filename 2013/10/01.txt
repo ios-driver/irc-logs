@@ -28,3 +28,7 @@
 [2013-10-01 09:34:14] operatiay, joining. (#ios-driver)
 [2013-10-01 09:38:51] operatiay, quitting. (Ping timeout: 248 seconds)
 [2013-10-01 09:58:28] kazimiru, quitting. (Quit: Page closed)
+[2013-10-01 10:18:55] abhinav, joining. (#ios-driver)
+[2013-10-01 10:18:58] abhinav: Hi all
+[2013-10-01 10:19:30] abhinav: i am issues with ios-driver and ios7, i can't see apps being listed in localhost:4444 port
+[2013-10-01 10:19:43] abhinav: via json response, has any one seen this issues?
