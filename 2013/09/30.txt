@@ -67,3 +67,4 @@
 [2013-09-30 16:02:31] lukeis, quitting. (Quit: Leaving.)
 [2013-09-30 16:31:16] joevans, joining. (#ios-driver)
 [2013-09-30 16:38:15] santiycr, joining. (#ios-driver)
+[2013-09-30 17:35:02] chhsiung, quitting. (Quit: Leaving.)
