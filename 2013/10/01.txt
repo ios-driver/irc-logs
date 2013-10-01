@@ -17,3 +17,6 @@
 [2013-10-01 07:16:23] nicegraham, quitting. (Ping timeout: 256 seconds)
 [2013-10-01 07:17:48] dgrace, quitting. (Ping timeout: 268 seconds)
 [2013-10-01 07:34:06] operatiay, quitting. (Remote host closed the connection)
+[2013-10-01 07:40:03] nicegraham, joining. (#ios-driver)
+[2013-10-01 07:40:45] dgrace, joining. (#ios-driver)
+[2013-10-01 07:41:45] freynaud_, joining. (#ios-driver)
