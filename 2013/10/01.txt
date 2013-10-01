@@ -27,3 +27,4 @@
 [2013-10-01 09:27:04] admc, joining. (#ios-driver)
 [2013-10-01 09:34:14] operatiay, joining. (#ios-driver)
 [2013-10-01 09:38:51] operatiay, quitting. (Ping timeout: 248 seconds)
+[2013-10-01 09:58:28] kazimiru, quitting. (Quit: Page closed)
