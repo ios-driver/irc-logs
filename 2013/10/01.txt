@@ -33,3 +33,5 @@
 [2013-10-01 10:19:30] abhinav: i am issues with ios-driver and ios7, i can't see apps being listed in localhost:4444 port
 [2013-10-01 10:19:43] abhinav: via json response, has any one seen this issues?
 [2013-10-01 11:12:20] admc, quitting. (Quit: Leaving.)
+[2013-10-01 11:51:53] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-01 11:53:32] chhsiung, joining. (#ios-driver)
