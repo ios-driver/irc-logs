@@ -16,3 +16,4 @@
 [2013-10-01 07:16:23] freynaud, quitting. (Ping timeout: 245 seconds)
 [2013-10-01 07:16:23] nicegraham, quitting. (Ping timeout: 256 seconds)
 [2013-10-01 07:17:48] dgrace, quitting. (Ping timeout: 268 seconds)
+[2013-10-01 07:34:06] operatiay, quitting. (Remote host closed the connection)
