@@ -4,3 +4,6 @@
 [2013-10-01 02:10:58] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-10-01 02:14:06] operatiay, joining. (#ios-driver)
 [2013-10-01 03:39:54] famska, joining. (#ios-driver)
+[2013-10-01 03:41:31] famska: hi all! Can someone help me with https://github.com/ios-driver/ios-driver/issues/158. I have the same issue. It appears when I update XCode
+[2013-10-01 03:42:30] famska: Also is there any way to choose version of sdk?
+[2013-10-01 03:42:46] kazimiru, joining. (#ios-driver)
