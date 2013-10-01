@@ -9,3 +9,4 @@
 [2013-10-01 03:42:46] kazimiru, joining. (#ios-driver)
 [2013-10-01 04:08:58] famska, quitting. (Quit: Page closed)
 [2013-10-01 04:38:13] famska, joining. (#ios-driver)
+[2013-10-01 04:57:31] famska, quitting. (Ping timeout: 250 seconds)
