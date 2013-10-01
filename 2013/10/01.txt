@@ -36,3 +36,6 @@
 [2013-10-01 11:51:53] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-01 11:53:32] chhsiung, joining. (#ios-driver)
 [2013-10-01 12:23:38] admc, joining. (#ios-driver)
+[2013-10-01 12:27:06] lukeis, quitting. (Ping timeout: 264 seconds)
+[2013-10-01 12:27:16] gdennis, quitting. (*.net *.split)
+[2013-10-01 12:27:16] SNXRaven, quitting. (*.net *.split)
