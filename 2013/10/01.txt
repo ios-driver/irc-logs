@@ -66,3 +66,4 @@
 [2013-10-01 18:19:07] chhsiung, joining. (#ios-driver)
 [2013-10-01 18:40:38] admc, quitting. (Quit: Leaving.)
 [2013-10-01 19:20:41] nirvdrum, joining. (#ios-driver)
+[2013-10-01 19:28:03] ios-driverbot___, quitting. (Ping timeout: 245 seconds)
