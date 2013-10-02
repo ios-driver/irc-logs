@@ -65,3 +65,4 @@
 [2013-10-01 18:12:13] admc1, changing nick to admc.
 [2013-10-01 18:19:07] chhsiung, joining. (#ios-driver)
 [2013-10-01 18:40:38] admc, quitting. (Quit: Leaving.)
+[2013-10-01 19:20:41] nirvdrum, joining. (#ios-driver)
