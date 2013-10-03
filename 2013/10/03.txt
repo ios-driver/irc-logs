@@ -12,3 +12,4 @@
 [2013-10-03 14:23:28] chhsiung1, quitting. (Read error: Connection reset by peer)
 [2013-10-03 14:23:45] chhsiung, joining. (#ios-driver)
 [2013-10-03 15:35:18] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-03 15:46:56] nirvdrum, quitting. (Ping timeout: 240 seconds)
