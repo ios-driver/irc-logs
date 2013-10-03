@@ -5,3 +5,4 @@
 [2013-10-03 13:16:23] operatiay, joining. (#ios-driver)
 [2013-10-03 13:17:48] operatiay, quitting. (Remote host closed the connection)
 [2013-10-03 13:21:09] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-03 13:46:02] chhsiung, joining. (#ios-driver)
