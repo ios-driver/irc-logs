@@ -29,3 +29,4 @@
 [2013-10-04 07:41:02] chhsiung, joining. (#ios-driver)
 [2013-10-04 07:53:16] smccarthy, joining. (#ios-driver)
 [2013-10-04 08:45:53] lukeis, joining. (#ios-driver)
+[2013-10-04 09:40:01] chhsiung, quitting. (Remote host closed the connection)
