@@ -22,3 +22,4 @@
 [2013-10-04 04:41:55] operatiay, quitting. (Remote host closed the connection)
 [2013-10-04 04:43:32] operatiay, joining. (#ios-driver)
 [2013-10-04 05:30:27] nirvdrum, joining. (#ios-driver)
+[2013-10-04 06:25:30] operatiay, quitting. (Remote host closed the connection)
