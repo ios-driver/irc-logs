@@ -42,3 +42,5 @@
 [2013-10-04 11:59:19] chhsiung, joining. (#ios-driver)
 [2013-10-04 12:45:58] freynaud, joining. (#ios-driver)
 [2013-10-04 12:52:18] freynaud, leaving. (#ios-driver)
+[2013-10-04 14:45:30] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-04 14:47:10] lukeis, quitting. (Quit: Leaving.)
