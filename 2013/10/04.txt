@@ -27,3 +27,4 @@
 [2013-10-04 07:10:51] chhsiung, joining. (#ios-driver)
 [2013-10-04 07:11:46] chhsiung, quitting. (Client Quit)
 [2013-10-04 07:41:02] chhsiung, joining. (#ios-driver)
+[2013-10-04 07:53:16] smccarthy, joining. (#ios-driver)
