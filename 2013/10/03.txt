@@ -25,3 +25,5 @@
 [2013-10-03 20:26:13] ios-driver-git: ios-driver/gh-pages a45b787 Kevin Menard: Updated for the 0.6.5 release.
 [2013-10-03 20:26:13] ios-driver-git, leaving. (#ios-driver)
 [2013-10-03 20:40:17] nirvdrum, joining. (#ios-driver)
+[2013-10-03 21:11:48] chhsiung1, joining. (#ios-driver)
+[2013-10-03 21:13:03] chhsiung, quitting. (Ping timeout: 245 seconds)
