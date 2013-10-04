@@ -19,3 +19,5 @@
 [2013-10-04 04:28:58] chhsiung, joining. (#ios-driver)
 [2013-10-04 04:31:20] chhsiung1, joining. (#ios-driver)
 [2013-10-04 04:31:20] chhsiung, quitting. (Read error: Connection reset by peer)
+[2013-10-04 04:41:55] operatiay, quitting. (Remote host closed the connection)
+[2013-10-04 04:43:32] operatiay, joining. (#ios-driver)
