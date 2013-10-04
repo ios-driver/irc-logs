@@ -44,3 +44,5 @@
 [2013-10-04 12:52:18] freynaud, leaving. (#ios-driver)
 [2013-10-04 14:45:30] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-04 14:47:10] lukeis, quitting. (Quit: Leaving.)
+[2013-10-04 15:06:05] admc1, joining. (#ios-driver)
+[2013-10-04 15:06:05] admc, quitting. (Read error: Connection reset by peer)
