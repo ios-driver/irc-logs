@@ -24,3 +24,5 @@
 [2013-10-04 05:30:27] nirvdrum, joining. (#ios-driver)
 [2013-10-04 06:25:30] operatiay, quitting. (Remote host closed the connection)
 [2013-10-04 06:57:42] chhsiung1, quitting. (Quit: Leaving.)
+[2013-10-04 07:10:51] chhsiung, joining. (#ios-driver)
+[2013-10-04 07:11:46] chhsiung, quitting. (Client Quit)
