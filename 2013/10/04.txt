@@ -8,3 +8,4 @@
 [2013-10-04 01:56:56] chhsiung, joining. (#ios-driver)
 [2013-10-04 02:00:58] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-10-04 02:15:44] freynaud_: Good morning
+[2013-10-04 02:27:06] chhsiung, joining. (#ios-driver)
