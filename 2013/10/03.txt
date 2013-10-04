@@ -24,3 +24,4 @@
 [2013-10-03 20:26:13] ios-driver-git: [ios-driver] nirvdrum pushed 1 new commit to gh-pages: http://git.io/zgVLIQ
 [2013-10-03 20:26:13] ios-driver-git: ios-driver/gh-pages a45b787 Kevin Menard: Updated for the 0.6.5 release.
 [2013-10-03 20:26:13] ios-driver-git, leaving. (#ios-driver)
+[2013-10-03 20:40:17] nirvdrum, joining. (#ios-driver)
