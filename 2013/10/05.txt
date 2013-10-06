@@ -7,3 +7,4 @@
 [2013-10-05 11:51:35] nirvdrum, joining. (#ios-driver)
 [2013-10-05 14:29:10] operatiay, joining. (#ios-driver)
 [2013-10-05 14:31:28] operatiay, quitting. (Client Quit)
+[2013-10-05 20:48:30] nirvdrum, quitting. (Read error: Operation timed out)
