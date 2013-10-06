@@ -9,3 +9,4 @@
 [2013-10-05 14:31:28] operatiay, quitting. (Client Quit)
 [2013-10-05 20:48:30] nirvdrum, quitting. (Read error: Operation timed out)
 [2013-10-05 21:51:14] nirvdrum, joining. (#ios-driver)
+[2013-10-05 22:27:16] nirvdrum, quitting. (Ping timeout: 245 seconds)
