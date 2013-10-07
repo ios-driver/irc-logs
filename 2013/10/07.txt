@@ -102,3 +102,7 @@
 [2013-10-07 13:13:53] gdennis: I don't know why the make build succeeds
 [2013-10-07 13:14:07] gdennis: what flag is necessary
 [2013-10-07 13:14:22] gdennis: because it's causing problems for our internal build
+[2013-10-07 13:15:11] nicegraham: I'm sorry - I'm not a c expert either
+[2013-10-07 13:15:24] nicegraham: I don't want to speak for everyone present
+[2013-10-07 13:15:35] nicegraham: but in terms of our project Martin does most of the work
+[2013-10-07 13:15:51] nicegraham: freynaud has done some but he's not that comfortable in it either
