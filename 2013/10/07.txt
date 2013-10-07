@@ -110,3 +110,5 @@
 [2013-10-07 13:25:16] gdennis: I filed an issue
 [2013-10-07 13:26:43] nicegraham: sorry it wasn't more help
 [2013-10-07 14:09:56] gdennis, quitting. (Quit: Leaving.)
+[2013-10-07 14:50:03] smccarthy2, joining. (#ios-driver)
+[2013-10-07 14:51:15] smccarthy, quitting. (Ping timeout: 245 seconds)
