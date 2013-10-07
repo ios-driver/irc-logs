@@ -64,3 +64,5 @@
 [2013-10-07 12:29:18] admc, joining. (#ios-driver)
 [2013-10-07 12:35:21] chhsiung, joining. (#ios-driver)
 [2013-10-07 12:42:17] admc1, joining. (#ios-driver)
+[2013-10-07 12:45:05] santiycr, quitting. (Quit: Leaving.)
+[2013-10-07 12:45:10] admc, quitting. (Ping timeout: 256 seconds)
