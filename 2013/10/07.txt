@@ -59,3 +59,4 @@
 [2013-10-07 11:16:15] smccarthy, joining. (#ios-driver)
 [2013-10-07 11:43:44] gdennis, quitting. (Read error: Connection reset by peer)
 [2013-10-07 11:44:05] gdennis, joining. (#ios-driver)
+[2013-10-07 11:54:30] admc, quitting. (Quit: Leaving.)
