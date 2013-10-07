@@ -38,3 +38,4 @@
 [2013-10-07 08:01:09] Krishnan: dgrace : THanks for that pointer... sure.. will try it out
 [2013-10-07 08:09:58] nirvdrum, joining. (#ios-driver)
 [2013-10-07 08:10:33] chhsiung, joining. (#ios-driver)
+[2013-10-07 08:17:48] smccarthy, joining. (#ios-driver)
