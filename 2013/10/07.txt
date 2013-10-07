@@ -49,3 +49,4 @@
 [2013-10-07 09:28:26] operatiay, quitting. (Remote host closed the connection)
 [2013-10-07 09:45:03] Krishnan, quitting. (Ping timeout: 250 seconds)
 [2013-10-07 09:48:18] santiycr, joining. (#ios-driver)
+[2013-10-07 10:28:28] smccarthy2, joining. (#ios-driver)
