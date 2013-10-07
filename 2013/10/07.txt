@@ -11,3 +11,5 @@
 [2013-10-07 02:34:22] operatiay, joining. (#ios-driver)
 [2013-10-07 02:35:13] operatiay, quitting. (Remote host closed the connection)
 [2013-10-07 04:48:11] operatiay, joining. (#ios-driver)
+[2013-10-07 05:06:57] operatiay, quitting. (Remote host closed the connection)
+[2013-10-07 05:07:13] famska, joining. (#ios-driver)
