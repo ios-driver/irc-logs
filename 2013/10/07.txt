@@ -82,3 +82,23 @@
 [2013-10-07 13:09:34] gdennis: I just had a specific question about the libimobiledevice binary
 [2013-10-07 13:09:38] nicegraham: I don't think the version we're using are availble
 [2013-10-07 13:09:59] nicegraham: it's a special build
+[2013-10-07 13:10:08] nicegraham: with things we requested
+[2013-10-07 13:10:39] gdennis: we might be talking about two different things
+[2013-10-07 13:10:47] gdennis: let me see if I can clarify
+[2013-10-07 13:10:53] nicegraham: please do :)
+[2013-10-07 13:11:01] gdennis: if I download the latest release (1.1.5) of libimobiledevice here: https://github.com/libimobiledevice/libimobiledevice
+[2013-10-07 13:11:15] gdennis: I can build it fine using ./configure, make
+[2013-10-07 13:11:45] gdennis: I'm trying to set it up to build on our own internal build system
+[2013-10-07 13:12:10] nicegraham: libimobiledevice?
+[2013-10-07 13:12:15] gdennis: yes
+[2013-10-07 13:12:23] nicegraham: ok
+[2013-10-07 13:12:32] gdennis: i have pretty much everything else building fine
+[2013-10-07 13:12:51] gdennis: the problem I'm running into is that debug.h declares but does not define inline functions
+[2013-10-07 13:13:06] gdennis: they are defined in debug.c
+[2013-10-07 13:13:20] nicegraham: ok, sorry - I don't know what state the repo is in
+[2013-10-07 13:13:20] gdennis: I'm am not a C expert (I should probably grab someone around here that is)
+[2013-10-07 13:13:39] nicegraham: you'll need to raise an issue I think and Martin should get back to you
+[2013-10-07 13:13:43] gdennis: but my understanding is that inline functions should be defined when declared
+[2013-10-07 13:13:53] gdennis: I don't know why the make build succeeds
+[2013-10-07 13:14:07] gdennis: what flag is necessary
+[2013-10-07 13:14:22] gdennis: because it's causing problems for our internal build
