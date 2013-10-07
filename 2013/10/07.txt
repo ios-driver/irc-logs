@@ -46,3 +46,4 @@
 [2013-10-07 08:57:03] gdennis: I'm encountering some problems because the inline functions in debug.h are not defined in debug.h https://github.com/libimobiledevice/libimobiledevice/blob/master/common/debug.h
 [2013-10-07 08:58:59] gdennis: is there some special compiler or linker option that is being used that allows an inline function without a definition in a header file?
 [2013-10-07 08:59:47] lukeis: freynaud_ / nicegraham   I think are the only ones here that can help :)
+[2013-10-07 09:28:26] operatiay, quitting. (Remote host closed the connection)
