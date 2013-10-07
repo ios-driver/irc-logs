@@ -23,3 +23,4 @@
 [2013-10-07 07:01:20] chhsiung, joining. (#ios-driver)
 [2013-10-07 07:02:11] operatiay, quitting. (Remote host closed the connection)
 [2013-10-07 07:03:49] operatiay, joining. (#ios-driver)
+[2013-10-07 07:24:07] chhsiung, quitting. (Quit: Leaving.)
