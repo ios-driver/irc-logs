@@ -19,3 +19,4 @@
 [2013-10-07 06:01:16] operatiay, joining. (#ios-driver)
 [2013-10-07 06:03:16] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-07 06:30:26] chhsiung, joining. (#ios-driver)
+[2013-10-07 06:43:04] chhsiung, quitting. (Quit: Leaving.)
