@@ -31,3 +31,8 @@
 [2013-10-07 07:58:51] operatiay: Krishnan: you may need to restart the simulator once manually from xcode (it helped us)
 [2013-10-07 07:59:22] Krishnan: oh ok... Well looks like there are a few other things that seem to have gone wrong with my mac... the date was one day ahead.. i dont know how that happened...
 [2013-10-07 07:59:59] dgrace: Hi Krishnan, xcode5 support is not yet 100%. Xcode5 work is being done on the refactor branch of ios-driver. Try that and if you see problems log an issues
+[2013-10-07 08:00:12] Krishnan: Oh ok...
+[2013-10-07 08:00:13] operatiay: well then... :) try fixing those issues first
+[2013-10-07 08:00:43] Krishnan: am trying to fix it operatiay :( but am not that good with MAC :) so trying to figure out things one by one
+[2013-10-07 08:00:45] Krishnan: lemme try it out
+[2013-10-07 08:01:09] Krishnan: dgrace : THanks for that pointer... sure.. will try it out
