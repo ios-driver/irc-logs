@@ -67,3 +67,18 @@
 [2013-10-07 12:45:05] santiycr, quitting. (Quit: Leaving.)
 [2013-10-07 12:45:10] admc, quitting. (Ping timeout: 256 seconds)
 [2013-10-07 13:04:49] santiycr, joining. (#ios-driver)
+[2013-10-07 13:07:16] nicegraham: gdennis: yt?
+[2013-10-07 13:07:32] gdennis: here
+[2013-10-07 13:07:43] nicegraham: cool
+[2013-10-07 13:07:56] nicegraham: those libraries are missing right now
+[2013-10-07 13:08:04] nicegraham: it's a licensing problem
+[2013-10-07 13:08:17] nicegraham: that and ios7 has taken a lot of focus from resolving it
+[2013-10-07 13:08:28] nicegraham: so right now we can't package them
+[2013-10-07 13:08:41] nicegraham: you should be able to compile without them
+[2013-10-07 13:08:42] gdennis: nicegraham: what libraries are missing?
+[2013-10-07 13:08:49] nicegraham: but won't be able to run against real device
+[2013-10-07 13:09:02] nicegraham: the libimobile
+[2013-10-07 13:09:22] gdennis: i understand they are not packaged with ios-driver
+[2013-10-07 13:09:34] gdennis: I just had a specific question about the libimobiledevice binary
+[2013-10-07 13:09:38] nicegraham: I don't think the version we're using are availble
+[2013-10-07 13:09:59] nicegraham: it's a special build
