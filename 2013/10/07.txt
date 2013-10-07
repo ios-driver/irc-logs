@@ -26,3 +26,5 @@
 [2013-10-07 07:24:07] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-07 07:49:03] Krishnan, joining. (#ios-driver)
 [2013-10-07 07:49:35] Krishnan: Hi
+[2013-10-07 07:50:17] Krishnan: am having a wierd problem.. and was hoping someone could help me
+[2013-10-07 07:50:50] Krishnan: Till about evening I was fine in getting an iOS driver work.. but after my xcode was upgraded to 5.0 i seem to be facing issues
