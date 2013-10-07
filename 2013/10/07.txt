@@ -124,3 +124,4 @@
 [2013-10-07 16:02:08] lukeis, quitting. (Quit: Leaving.)
 [2013-10-07 16:36:15] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-07 16:39:29] santiycr1, joining. (#ios-driver)
+[2013-10-07 16:43:21] santiycr, quitting. (Ping timeout: 245 seconds)
