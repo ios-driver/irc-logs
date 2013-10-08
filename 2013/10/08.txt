@@ -70,3 +70,4 @@
 [2013-10-08 13:52:37] joevans: Some of the refactoring I pushed to the dev branch caused some divergence with the refactor branch, so I merged dev-->refactor and pushed.  The result appears as stable as the dev branch is (when using XCode 4.6.3).  Hopefully the merge didn't break anything new related to XCode 5.
 [2013-10-08 13:53:25] smccarthy, quitting. (Ping timeout: 248 seconds)
 [2013-10-08 14:04:11] admc, quitting. (Quit: Leaving.)
+[2013-10-08 14:11:34] admc, joining. (#ios-driver)
