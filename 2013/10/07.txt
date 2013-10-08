@@ -129,3 +129,4 @@
 [2013-10-07 16:51:11] smccarthy2, quitting. (Remote host closed the connection)
 [2013-10-07 17:31:17] santiycr1, quitting. (Quit: Leaving.)
 [2013-10-07 17:53:49] chhsiung, joining. (#ios-driver)
+[2013-10-07 18:03:45] santiycr, joining. (#ios-driver)
