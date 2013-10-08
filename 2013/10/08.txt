@@ -82,3 +82,4 @@
 [2013-10-08 15:51:50] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-08 15:53:47] admc, joining. (#ios-driver)
 [2013-10-08 16:03:48] jlipps, joining. (#ios-driver)
+[2013-10-08 16:28:58] santiycr, quitting. (Quit: Leaving.)
