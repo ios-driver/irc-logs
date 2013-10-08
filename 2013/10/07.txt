@@ -137,3 +137,5 @@
 [2013-10-07 19:42:56] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2013-10-07 19:58:02] admc, quitting. (Quit: Leaving.)
 [2013-10-07 20:19:13] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-07 20:22:01] nirvdrum, joining. (#ios-driver)
+[2013-10-07 20:23:32] chhsiung, joining. (#ios-driver)
