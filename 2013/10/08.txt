@@ -62,3 +62,10 @@
 [2013-10-08 13:14:01] santiycr, quitting. (Quit: Leaving.)
 [2013-10-08 13:17:09] santiycr, joining. (#ios-driver)
 [2013-10-08 13:42:12] gdennis, quitting. (Quit: gdennis)
+[2013-10-08 13:50:20] ios-driver-git, joining. (#ios-driver)
+[2013-10-08 13:50:20] ios-driver-git: [ios-driver] jasone pushed 1 new commit to refactor: http://git.io/a62d-w
+[2013-10-08 13:50:20] ios-driver-git: ios-driver/refactor d31b6f8 Jason Evans: Merge remote-tracking branch 'origin/dev' into refactor...
+[2013-10-08 13:50:20] ios-driver-git, leaving. (#ios-driver)
+[2013-10-08 13:50:30] smccarthy2, joining. (#ios-driver)
+[2013-10-08 13:52:37] joevans: Some of the refactoring I pushed to the dev branch caused some divergence with the refactor branch, so I merged dev-->refactor and pushed.  The result appears as stable as the dev branch is (when using XCode 4.6.3).  Hopefully the merge didn't break anything new related to XCode 5.
+[2013-10-08 13:53:25] smccarthy, quitting. (Ping timeout: 248 seconds)
