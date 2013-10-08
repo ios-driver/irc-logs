@@ -1,1 +1,5 @@
 [2013-10-08 00:11:19] ios-driverbot_, joining. (#ios-driver)
+[2013-10-08 00:15:33] chhsiung, joining. (#ios-driver)
+[2013-10-08 00:17:50] ios-driverbot, quitting. (*.net *.split)
+[2013-10-08 00:17:50] nicegraham, quitting. (*.net *.split)
+[2013-10-08 00:19:43] chhsiung, quitting. (Ping timeout: 245 seconds)
