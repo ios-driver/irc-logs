@@ -57,3 +57,4 @@
 [2013-10-08 11:13:43] elstfi1, quitting. (Quit: Leaving.)
 [2013-10-08 11:19:31] admc, quitting. (Quit: Leaving.)
 [2013-10-08 11:23:39] admc, joining. (#ios-driver)
+[2013-10-08 11:28:21] jlipps, quitting. (Quit: Leaving.)
