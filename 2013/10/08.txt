@@ -42,3 +42,4 @@
 [2013-10-08 06:49:08] gdennis, joining. (#ios-driver)
 [2013-10-08 06:58:27] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-08 08:29:39] operatiay, quitting. (Remote host closed the connection)
+[2013-10-08 08:30:10] operatiay, joining. (#ios-driver)
