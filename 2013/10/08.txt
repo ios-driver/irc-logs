@@ -32,3 +32,4 @@
 [2013-10-08 04:41:02] nirvdrum, joining. (#ios-driver)
 [2013-10-08 04:50:20] chhsiung, joining. (#ios-driver)
 [2013-10-08 04:54:43] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-10-08 04:59:13] operatiay, quitting. (Remote host closed the connection)
