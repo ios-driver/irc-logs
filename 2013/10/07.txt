@@ -128,3 +128,4 @@
 [2013-10-07 16:50:38] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2013-10-07 16:51:11] smccarthy2, quitting. (Remote host closed the connection)
 [2013-10-07 17:31:17] santiycr1, quitting. (Quit: Leaving.)
+[2013-10-07 17:53:49] chhsiung, joining. (#ios-driver)
