@@ -40,3 +40,4 @@
 [2013-10-08 06:07:54] operatiay, quitting. (Read error: Connection reset by peer)
 [2013-10-08 06:08:26] operatiay, joining. (#ios-driver)
 [2013-10-08 06:49:08] gdennis, joining. (#ios-driver)
+[2013-10-08 06:58:27] chhsiung, quitting. (Quit: Leaving.)
