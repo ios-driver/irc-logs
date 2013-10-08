@@ -34,3 +34,8 @@
 [2013-10-08 04:54:43] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-10-08 04:59:13] operatiay, quitting. (Remote host closed the connection)
 [2013-10-08 05:16:19] chhsiung, joining. (#ios-driver)
+[2013-10-08 06:05:42] operatiay, joining. (#ios-driver)
+[2013-10-08 06:07:08] operatiay, quitting. (Remote host closed the connection)
+[2013-10-08 06:07:41] operatiay, joining. (#ios-driver)
+[2013-10-08 06:07:54] operatiay, quitting. (Read error: Connection reset by peer)
+[2013-10-08 06:08:26] operatiay, joining. (#ios-driver)
