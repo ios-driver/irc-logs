@@ -43,3 +43,5 @@
 [2013-10-08 06:58:27] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-08 08:29:39] operatiay, quitting. (Remote host closed the connection)
 [2013-10-08 08:30:10] operatiay, joining. (#ios-driver)
+[2013-10-08 08:35:02] operatiay, quitting. (Ping timeout: 264 seconds)
+[2013-10-08 08:36:34] chhsiung, joining. (#ios-driver)
