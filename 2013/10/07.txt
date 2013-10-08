@@ -144,3 +144,4 @@
 [2013-10-07 21:39:20] chhsiung, joining. (#ios-driver)
 [2013-10-07 21:48:03] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-10-07 22:08:47] smccarthy, quitting. (Remote host closed the connection)
+[2013-10-07 22:14:22] chhsiung, joining. (#ios-driver)
