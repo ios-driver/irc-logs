@@ -133,3 +133,4 @@
 [2013-10-07 18:19:12] smccarthy, joining. (#ios-driver)
 [2013-10-07 18:33:22] jlipps, quitting. (Quit: Leaving.)
 [2013-10-07 19:05:08] nirvdrum, joining. (#ios-driver)
+[2013-10-07 19:22:26] santiycr, quitting. (Quit: Leaving.)
