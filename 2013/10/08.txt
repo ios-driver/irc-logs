@@ -45,3 +45,5 @@
 [2013-10-08 08:30:10] operatiay, joining. (#ios-driver)
 [2013-10-08 08:35:02] operatiay, quitting. (Ping timeout: 264 seconds)
 [2013-10-08 08:36:34] chhsiung, joining. (#ios-driver)
+[2013-10-08 08:41:56] lukeis, joining. (#ios-driver)
+[2013-10-08 08:44:09] smccarthy, joining. (#ios-driver)
