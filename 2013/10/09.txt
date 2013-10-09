@@ -73,3 +73,6 @@
 [2013-10-09 02:07:03] mummana: yes now its working this time while closing the instrument i saved the instrumrnts and now it is showing up
 [2013-10-09 02:18:58] mummana: i have two questions 1)i have already built .ipa file with me can i test that app with IOS-DRIVER??? 2)is it possible to test the preinstalled apps like contacts etc?
 [2013-10-09 02:22:35] dgrace: freynaud_: yt?
+[2013-10-09 02:25:46] mummana: hmmm like i have
+[2013-10-09 02:26:18] mummana: i have skype.ipa file with me which i have already got from my frnd
+[2013-10-09 02:26:27] mummana: is it possible to test that?
