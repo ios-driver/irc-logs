@@ -70,3 +70,4 @@
 [2013-10-09 01:57:08] mummana: then next wt to do?
 [2013-10-09 01:57:57] mummana: shall i click the stop button in instrument>'
 [2013-10-09 01:59:34] mummana_: hello????
+[2013-10-09 02:07:03] mummana: yes now its working this time while closing the instrument i saved the instrumrnts and now it is showing up
