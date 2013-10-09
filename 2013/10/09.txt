@@ -23,3 +23,11 @@
 [2013-10-09 01:29:03] nicegraham: are you absolutely sure you are following the steps on the wiki to profile and grabbing the correct .app file?
 [2013-10-09 01:29:06] mummana_: {   "class": "org.openqa.selenium.remote.Response",   "hCode": 1654386234,   "sessionId": null,   "state": null,   "status": 0,   "value": {     "build": {       "revision": "120cf4311807e2e137e519f4c4877cf6340d0cbc",       "time": "20130927-1435",       "version": "0.6.5"     },     "ios": {"simulatorVersion": "6.1"},     "java": {"version": "1.7.0_25"},     "os": {       "arch": "x86_64",       "name": "Mac OS X",       "versi
 [2013-10-09 01:29:34] mummana_: that is wt im getting wen i open http://localhost:4444/wd/hub/status
+[2013-10-09 01:30:14] mummana_: am geeting supported apps as empty
+[2013-10-09 01:31:02] nicegraham: can you create a :gist of the output in the terminal after you start ios-driver?
+[2013-10-09 01:31:46] mummana_: shall i post it here?
+[2013-10-09 01:31:50] mummana_: 16:28:749 INFO ApplicationStore.<init>  App archive folder:/Users/User/Downloads/ios-driver/applications 16:32:813 INFO IOSServer.init   Beta features enabled ( enabled by -beta flag ): false Simulator enabled ( enabled by -simulators flag): false Inspector: http://0.0.0.0:4444/inspector/ tests can access the server at http://0.0.0.0:4444/wd/hub server status: http://0.0.0.0:4444/wd/hub/status Connected devices: http://0.0.0.0:4
+[2013-10-09 01:31:54] nicegraham: no, into a gist
+[2013-10-09 01:32:03] mummana_: ok
+[2013-10-09 01:34:44] mummana_: https://gist.github.com/mummana/6898127
+[2013-10-09 01:34:50] mummana_: check that
