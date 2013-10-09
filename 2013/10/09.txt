@@ -97,3 +97,4 @@
 [2013-10-09 03:16:44] mummana, quitting. (Quit: Page closed)
 [2013-10-09 03:53:20] operatiay, joining. (#ios-driver)
 [2013-10-09 04:18:40] nirvdrum, joining. (#ios-driver)
+[2013-10-09 04:33:17] chhsiung, quitting. (Quit: Leaving.)
