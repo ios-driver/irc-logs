@@ -104,3 +104,4 @@
 [2013-10-09 06:09:20] operatiay, quitting. (Remote host closed the connection)
 [2013-10-09 06:09:52] operatiay, joining. (#ios-driver)
 [2013-10-09 06:14:16] operatiay, quitting. (Ping timeout: 264 seconds)
+[2013-10-09 06:26:12] dgrace: Good afternoon. Was wondering if anyone else here is using xcode5 + ios7 yet? Specifically, are you having problems when running the ios7 simulator and using a proxy?
