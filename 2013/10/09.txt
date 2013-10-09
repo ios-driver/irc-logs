@@ -4,3 +4,7 @@
 [2013-10-09 01:02:16] chhsiung, joining. (#ios-driver)
 [2013-10-09 01:08:58] mummana, joining. (#ios-driver)
 [2013-10-09 01:09:17] mummana: hie graham :)
+[2013-10-09 01:12:07] nicegraham: hi mummana
+[2013-10-09 01:12:16] nicegraham: what is your startup line?
+[2013-10-09 01:12:21] nicegraham: java -jar ...
+[2013-10-09 01:14:49] mummana: just a secill post it  here
