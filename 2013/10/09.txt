@@ -111,3 +111,4 @@
 [2013-10-09 07:50:47] jlipps, joining. (#ios-driver)
 [2013-10-09 08:06:01] chhsiung1, quitting. (Quit: Leaving.)
 [2013-10-09 08:10:03] admc, joining. (#ios-driver)
+[2013-10-09 08:31:21] chhsiung, joining. (#ios-driver)
