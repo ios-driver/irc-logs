@@ -109,3 +109,4 @@
 [2013-10-09 07:06:40] gdennis, joining. (#ios-driver)
 [2013-10-09 07:10:42] smccarthy, joining. (#ios-driver)
 [2013-10-09 07:50:47] jlipps, joining. (#ios-driver)
+[2013-10-09 08:06:01] chhsiung1, quitting. (Quit: Leaving.)
