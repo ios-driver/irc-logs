@@ -43,3 +43,8 @@
 [2013-10-09 01:38:48] operatiay, quitting. (Remote host closed the connection)
 [2013-10-09 01:38:49] mummana_: yup in the above link nothing
 [2013-10-09 01:39:52] nicegraham: there are no errors in the console at all?
+[2013-10-09 01:40:18] mummana_: u mean terminal?
+[2013-10-09 01:40:51] nicegraham: yes
+[2013-10-09 01:41:23] mummana_: WARNING IOSServlet.getResponse  10031ms.	GET	 /status except that i have got nothing there in terminal
+[2013-10-09 01:42:10] elstfi, joining. (#ios-driver)
+[2013-10-09 01:44:02] elstfi, quitting. (Client Quit)
