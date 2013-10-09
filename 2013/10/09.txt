@@ -99,3 +99,5 @@
 [2013-10-09 04:18:40] nirvdrum, joining. (#ios-driver)
 [2013-10-09 04:33:17] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-09 05:04:10] chhsiung, joining. (#ios-driver)
+[2013-10-09 05:05:50] chhsiung1, joining. (#ios-driver)
+[2013-10-09 05:05:50] chhsiung, quitting. (Read error: Connection reset by peer)
