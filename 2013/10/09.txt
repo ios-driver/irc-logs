@@ -138,3 +138,4 @@
 [2013-10-09 13:12:14] operatiay, quitting. (Remote host closed the connection)
 [2013-10-09 13:51:41] gdennis, quitting. (Quit: gdennis)
 [2013-10-09 14:08:19] lukeis, quitting. (Quit: Leaving.)
+[2013-10-09 15:22:21] chhsiung, quitting. (Quit: Leaving.)
