@@ -119,3 +119,4 @@
 [2013-10-09 08:50:57] lukeis, joining. (#ios-driver)
 [2013-10-09 09:23:55] jlipps, quitting. (Quit: Leaving.)
 [2013-10-09 09:25:16] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-09 09:34:11] elstfi, quitting. (Quit: Leaving.)
