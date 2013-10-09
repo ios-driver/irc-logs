@@ -108,3 +108,4 @@
 [2013-10-08 22:24:47] admc, joining. (#ios-driver)
 [2013-10-08 22:44:02] mummana, quitting. (Quit: Page closed)
 [2013-10-08 23:48:13] chhsiung, joining. (#ios-driver)
+[2013-10-08 23:52:13] chhsiung, quitting. (Ping timeout: 245 seconds)
