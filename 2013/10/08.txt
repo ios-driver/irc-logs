@@ -107,3 +107,4 @@
 [2013-10-08 22:23:08] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2013-10-08 22:24:47] admc, joining. (#ios-driver)
 [2013-10-08 22:44:02] mummana, quitting. (Quit: Page closed)
+[2013-10-08 23:48:13] chhsiung, joining. (#ios-driver)
