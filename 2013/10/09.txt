@@ -48,3 +48,15 @@
 [2013-10-09 01:41:23] mummana_: WARNING IOSServlet.getResponse  10031ms.	GET	 /status except that i have got nothing there in terminal
 [2013-10-09 01:42:10] elstfi, joining. (#ios-driver)
 [2013-10-09 01:44:02] elstfi, quitting. (Client Quit)
+[2013-10-09 01:45:08] mummana: shall i buid that InternationalMountain.app again?
+[2013-10-09 01:45:14] mummana: build
+[2013-10-09 01:47:38] nicegraham: yeah
+[2013-10-09 01:47:43] nicegraham: I've just tried here and it works
+[2013-10-09 01:47:52] nicegraham: what version of xcode are you using actually?
+[2013-10-09 01:48:31] mummana_: yea ok than w8 ill post the steps here wtever m trying to do
+[2013-10-09 01:48:44] nicegraham: you can try this version too:
+[2013-10-09 01:48:44] nicegraham: https://dl.dropboxusercontent.com/u/564974/InternationalMountains.app/InternationalMountains
+[2013-10-09 01:49:28] nicegraham: you need to specify -simulators!
+[2013-10-09 01:49:40] mummana: where?
+[2013-10-09 01:49:40] nicegraham: otherwise it has nowhere to run
+[2013-10-09 01:49:47] nicegraham: on your command
