@@ -9,3 +9,8 @@
 [2013-10-09 01:12:21] nicegraham: java -jar ...
 [2013-10-09 01:14:49] mummana: just a secill post it  here
 [2013-10-09 01:18:09] vasu_, joining. (#ios-driver)
+[2013-10-09 01:22:19] vasu_, quitting. (Ping timeout: 250 seconds)
+[2013-10-09 01:23:25] mummana: java -jar ios-server--0.6.5-jar-with-dependencies.jar  -aut  /Users/User?Downloads/InternationalMountains.app  -port 4444
+[2013-10-09 01:23:39] mummana: java -jar ios-server--0.6.5-jar-with-dependencies.jar -aut  /Users/User?Downloads/InternationalMountains.app  -port 4444
+[2013-10-09 01:23:45] mummana: that i sthe java line
+[2013-10-09 01:24:35] mummana: java -jar ios-server-0.6.5-jar-with-dependencies.jar -aut  /Users/User?Downloads/InternationalMountains.app  -port 4444
