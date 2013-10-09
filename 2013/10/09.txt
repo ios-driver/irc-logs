@@ -128,3 +128,5 @@
 [2013-10-09 11:01:51] santiycr, joining. (#ios-driver)
 [2013-10-09 11:02:22] jlipps, joining. (#ios-driver)
 [2013-10-09 11:02:25] jlipps, quitting. (Remote host closed the connection)
+[2013-10-09 11:07:05] santiycr, quitting. (Read error: Connection reset by peer)
+[2013-10-09 11:07:10] santiycr1, joining. (#ios-driver)
