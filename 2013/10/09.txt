@@ -89,3 +89,6 @@
 [2013-10-09 02:48:13] operatiay, quitting. (Ping timeout: 240 seconds)
 [2013-10-09 02:48:44] mummana: well i mean in android i was able to test the already built app like skype.apk
 [2013-10-09 02:49:37] mummana: wechat.apk and someother apps
+[2013-10-09 02:50:15] mummana: so thats y i mean i have 5 .ipa files with so thght of testing them like android
+[2013-10-09 02:51:05] mummana: because i dnt have source code with me
+[2013-10-09 02:52:00] mummana: but it is possible with appium rite???
