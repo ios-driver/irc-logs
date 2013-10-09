@@ -64,3 +64,9 @@
 [2013-10-09 01:50:07] mummana: ok in terminal? with java -jar... command rite?
 [2013-10-09 01:50:19] elstfi, joining. (#ios-driver)
 [2013-10-09 01:50:25] mummana: oki okie
+[2013-10-09 01:55:45] mummana: step 1)profiling done step2) selected the automation and and clicked profile button under  that
+[2013-10-09 01:56:19] mummana: step3)instruments window opened
+[2013-10-09 01:56:33] mummana: with simultor with the mountain app init
+[2013-10-09 01:57:08] mummana: then next wt to do?
+[2013-10-09 01:57:57] mummana: shall i click the stop button in instrument>'
+[2013-10-09 01:59:34] mummana_: hello????
