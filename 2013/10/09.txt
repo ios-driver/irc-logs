@@ -120,3 +120,4 @@
 [2013-10-09 09:23:55] jlipps, quitting. (Quit: Leaving.)
 [2013-10-09 09:25:16] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-09 09:34:11] elstfi, quitting. (Quit: Leaving.)
+[2013-10-09 09:51:59] operatiay, quitting. (Remote host closed the connection)
