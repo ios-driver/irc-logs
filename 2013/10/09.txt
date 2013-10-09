@@ -76,3 +76,6 @@
 [2013-10-09 02:25:46] mummana: hmmm like i have
 [2013-10-09 02:26:18] mummana: i have skype.ipa file with me which i have already got from my frnd
 [2013-10-09 02:26:27] mummana: is it possible to test that?
+[2013-10-09 02:35:47] operatiay, joining. (#ios-driver)
+[2013-10-09 02:37:58] operatiay, quitting. (Remote host closed the connection)
+[2013-10-09 02:39:52] operatia_, joining. (#ios-driver)
