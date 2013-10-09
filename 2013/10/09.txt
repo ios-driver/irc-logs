@@ -108,3 +108,4 @@
 [2013-10-09 06:49:58] operatiay, joining. (#ios-driver)
 [2013-10-09 07:06:40] gdennis, joining. (#ios-driver)
 [2013-10-09 07:10:42] smccarthy, joining. (#ios-driver)
+[2013-10-09 07:50:47] jlipps, joining. (#ios-driver)
