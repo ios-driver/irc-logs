@@ -79,3 +79,6 @@
 [2013-10-09 02:35:47] operatiay, joining. (#ios-driver)
 [2013-10-09 02:37:58] operatiay, quitting. (Remote host closed the connection)
 [2013-10-09 02:39:52] operatia_, joining. (#ios-driver)
+[2013-10-09 02:43:25] *nicegraham mummana: you cant test applications where you can't access the source code and build for profiling. So unless you work for skype you won't be able to test it.'
+[2013-10-09 02:43:32] operatia_, quitting. (Remote host closed the connection)
+[2013-10-09 02:44:06] operatiay, joining. (#ios-driver)
