@@ -122,3 +122,4 @@
 [2013-10-09 09:34:11] elstfi, quitting. (Quit: Leaving.)
 [2013-10-09 09:51:59] operatiay, quitting. (Remote host closed the connection)
 [2013-10-09 09:55:19] chhsiung, joining. (#ios-driver)
+[2013-10-09 10:11:22] admc, quitting. (Quit: Leaving.)
