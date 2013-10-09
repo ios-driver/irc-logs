@@ -101,3 +101,5 @@
 [2013-10-08 21:17:40] mummana: https://groups.google.com/forum/#!topic/ios-driver/7qUL1rT1Coc here i have posted the problem which im facing
 [2013-10-08 21:17:53] mummana: please guys help me
 [2013-10-08 21:29:27] mummana: hello anyone there???????????????
+[2013-10-08 21:40:26] smccarthy, quitting. (Remote host closed the connection)
+[2013-10-08 21:43:34] chhsiung, joining. (#ios-driver)
