@@ -92,3 +92,4 @@
 [2013-10-09 02:50:15] mummana: so thats y i mean i have 5 .ipa files with so thght of testing them like android
 [2013-10-09 02:51:05] mummana: because i dnt have source code with me
 [2013-10-09 02:52:00] mummana: but it is possible with appium rite???
+[2013-10-09 02:55:13] operatiay, joining. (#ios-driver)
