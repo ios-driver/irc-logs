@@ -14,3 +14,12 @@
 [2013-10-09 01:23:39] mummana: java -jar ios-server--0.6.5-jar-with-dependencies.jar -aut  /Users/User?Downloads/InternationalMountains.app  -port 4444
 [2013-10-09 01:23:45] mummana: that i sthe java line
 [2013-10-09 01:24:35] mummana: java -jar ios-server-0.6.5-jar-with-dependencies.jar -aut  /Users/User?Downloads/InternationalMountains.app  -port 4444
+[2013-10-09 01:25:29] mummana_, joining. (#ios-driver)
+[2013-10-09 01:25:48] mummana_: hie graham
+[2013-10-09 01:26:29] nicegraham: can you create a :gist of the http://localhost:4444/wd/hub/capabilities/all
+[2013-10-09 01:28:03] mummana_: well the i dint find anything there :( in http://localhost:4444/wd/hub/capabilities/all
+[2013-10-09 01:28:33] nicegraham: ok, so it's not loading that application
+[2013-10-09 01:28:49] mummana_: then what to do?
+[2013-10-09 01:29:03] nicegraham: are you absolutely sure you are following the steps on the wiki to profile and grabbing the correct .app file?
+[2013-10-09 01:29:06] mummana_: {   "class": "org.openqa.selenium.remote.Response",   "hCode": 1654386234,   "sessionId": null,   "state": null,   "status": 0,   "value": {     "build": {       "revision": "120cf4311807e2e137e519f4c4877cf6340d0cbc",       "time": "20130927-1435",       "version": "0.6.5"     },     "ios": {"simulatorVersion": "6.1"},     "java": {"version": "1.7.0_25"},     "os": {       "arch": "x86_64",       "name": "Mac OS X",       "versi
+[2013-10-09 01:29:34] mummana_: that is wt im getting wen i open http://localhost:4444/wd/hub/status
