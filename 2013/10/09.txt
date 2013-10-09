@@ -31,3 +31,15 @@
 [2013-10-09 01:32:03] mummana_: ok
 [2013-10-09 01:34:44] mummana_: https://gist.github.com/mummana/6898127
 [2013-10-09 01:34:50] mummana_: check that
+[2013-10-09 01:36:22] operatiay, joining. (#ios-driver)
+[2013-10-09 01:36:51] nicegraham: ok, well that shows the application is available
+[2013-10-09 01:37:18] nicegraham: please create another gist of the output of the capabilities page
+[2013-10-09 01:37:19] nicegraham: http://0.0.0.0:4444/wd/hub/capabilities/all
+[2013-10-09 01:37:40] mummana_: this my server response https://gist.github.com/mummana/6898150
+[2013-10-09 01:38:13] nicegraham: that's for /status right?
+[2013-10-09 01:38:15] mummana_: am not getting in capabilties page :(
+[2013-10-09 01:38:21] nicegraham: nothing?
+[2013-10-09 01:38:37] mummana_: http://localhost:4444/wd/hub/capabilities/all
+[2013-10-09 01:38:48] operatiay, quitting. (Remote host closed the connection)
+[2013-10-09 01:38:49] mummana_: yup in the above link nothing
+[2013-10-09 01:39:52] nicegraham: there are no errors in the console at all?
