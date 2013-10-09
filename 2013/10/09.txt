@@ -94,3 +94,4 @@
 [2013-10-09 02:52:00] mummana: but it is possible with appium rite???
 [2013-10-09 02:55:13] operatiay, joining. (#ios-driver)
 [2013-10-09 03:03:31] operatiay, quitting. (Remote host closed the connection)
+[2013-10-09 03:16:44] mummana, quitting. (Quit: Page closed)
