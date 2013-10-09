@@ -133,3 +133,4 @@
 [2013-10-09 11:13:21] smccarthy, quitting. (Remote host closed the connection)
 [2013-10-09 11:32:11] jpj, joining. (#ios-driver)
 [2013-10-09 11:33:30] santiycr1, quitting. (Quit: Leaving.)
+[2013-10-09 12:55:45] jpj, quitting. (Quit: ["Textual IRC Client: www.textualapp.com"])
