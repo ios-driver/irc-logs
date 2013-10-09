@@ -60,3 +60,7 @@
 [2013-10-09 01:49:40] mummana: where?
 [2013-10-09 01:49:40] nicegraham: otherwise it has nowhere to run
 [2013-10-09 01:49:47] nicegraham: on your command
+[2013-10-09 01:50:01] nicegraham:  java -jar ios-server-0.6.5-jar-with-dependencies.jar -simulators -aut ./InternationalMountains.app/
+[2013-10-09 01:50:07] mummana: ok in terminal? with java -jar... command rite?
+[2013-10-09 01:50:19] elstfi, joining. (#ios-driver)
+[2013-10-09 01:50:25] mummana: oki okie
