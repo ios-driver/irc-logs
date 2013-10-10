@@ -8,3 +8,4 @@
 [2013-10-10 03:01:29] elstfi, quitting. (Read error: Connection reset by peer)
 [2013-10-10 03:01:42] elstfi, joining. (#ios-driver)
 [2013-10-10 03:04:13] elstfi1, quitting. (Read error: Operation timed out)
+[2013-10-10 03:07:50] veronica, joining. (#ios-driver)
