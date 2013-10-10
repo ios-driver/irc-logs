@@ -105,3 +105,4 @@
 [2013-10-10 12:37:08] operatiay, quitting. (Remote host closed the connection)
 [2013-10-10 12:40:59] admc, quitting. (Quit: Leaving.)
 [2013-10-10 12:58:05] veronica: Yes Graham, of course i can, I will raise the issue tomorrow at work
+[2013-10-10 13:04:43] veronica, quitting. (Ping timeout: 250 seconds)
