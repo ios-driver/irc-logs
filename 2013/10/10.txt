@@ -32,3 +32,4 @@
 [2013-10-10 04:08:35] famska: cap.isJavascriptEnabled() returns me true
 [2013-10-10 04:08:49] famska: what am I doing wrong?
 [2013-10-10 04:20:45] chhsiung, joining. (#ios-driver)
+[2013-10-10 04:25:08] chhsiung, quitting. (Ping timeout: 245 seconds)
