@@ -74,3 +74,5 @@
 [2013-10-10 08:05:44] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-10 08:06:49] veronica: Graham, thanks a lot for the last link - using it I find my error in framework. the problem was that I used Capabilities instead of  IOSCapabilities, and driver = new RemoteWebDriver(...) instead of driver = new RemoteIOSDriver(...) . now I don't receive the ClassCastException. I've done singleTapOnElement - it works :-), and now I am trying to do click using touchActions.down and up
 [2013-10-10 08:09:20] chhsiung, joining. (#ios-driver)
+[2013-10-10 08:28:40] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-10 08:29:54] chhsiung, joining. (#ios-driver)
