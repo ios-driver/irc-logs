@@ -140,3 +140,6 @@
 [2013-10-09 14:08:19] lukeis, quitting. (Quit: Leaving.)
 [2013-10-09 15:22:21] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-09 17:01:09] joevans_, joining. (#ios-driver)
+[2013-10-09 17:27:53] joevans__, joining. (#ios-driver)
+[2013-10-09 17:28:53] joevans, quitting. (Ping timeout: 248 seconds)
+[2013-10-09 17:28:54] joevans_, changing nick to joevans.
