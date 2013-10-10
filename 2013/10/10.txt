@@ -47,3 +47,6 @@
 [2013-10-10 06:14:22] mummana: hie graham
 [2013-10-10 06:14:26] mummana: INFO APPIOSApplication.canRun  The application doesn't have any content files. Localization related features won't be available.
 [2013-10-10 06:14:32] mummana: im getting this error
+[2013-10-10 06:15:09] mummana: Cannot find dictionary for en this one in eclipse
+[2013-10-10 06:15:44] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-10 06:16:06] mummana: anyone here to help me ?
