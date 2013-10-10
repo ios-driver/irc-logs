@@ -54,3 +54,5 @@
 [2013-10-10 06:21:25] mummana: hello?
 [2013-10-10 06:24:03] operatiay, quitting. (Remote host closed the connection)
 [2013-10-10 06:24:36] operatiay, joining. (#ios-driver)
+[2013-10-10 06:25:54] mummana: help needed
+[2013-10-10 06:29:04] operatiay, quitting. (Ping timeout: 248 seconds)
