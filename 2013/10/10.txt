@@ -39,3 +39,5 @@
 [2013-10-10 05:12:13] chhsiung, joining. (#ios-driver)
 [2013-10-10 05:12:51] famska: I made my IOSWevDriver extend RemoteWebDriver and now I recieve this error, when I am trying to execute javascript: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died. Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17' System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.8.4', java.version
 [2013-10-10 05:28:54] famska: Guys, what I need to do to cast my IOSWebDriver to JavaScriptExecutor?
+[2013-10-10 05:35:03] famska: also I don't understand why 'capabilities' in RemoteWbDriver is null....
+[2013-10-10 05:35:24] operatiay, joining. (#ios-driver)
