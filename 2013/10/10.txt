@@ -68,3 +68,4 @@
 [2013-10-10 07:06:04] nicegraham: https://github.com/ios-driver/ios-driver/blob/dev/ios-selenium-tests/src/test/java/org/uiautomation/ios/selenium/interactions/touch/TouchSingleTapTest.java#L45
 [2013-10-10 07:06:42] elstfi, quitting. (Ping timeout: 264 seconds)
 [2013-10-10 07:08:03] elstfi1, quitting. (Ping timeout: 265 seconds)
+[2013-10-10 07:17:29] operatiay, joining. (#ios-driver)
