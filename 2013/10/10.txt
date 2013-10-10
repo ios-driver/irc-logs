@@ -12,3 +12,4 @@
 [2013-10-10 03:11:27] veronica: hello) I have a question. Could you please say how to click by coordinate on iPad simulator using ios-driver?
 [2013-10-10 03:18:52] nicegraham: veronica: do you not have an element to click?
 [2013-10-10 03:20:00] chhsiung, joining. (#ios-driver)
+[2013-10-10 03:24:18] chhsiung, quitting. (Ping timeout: 245 seconds)
