@@ -13,3 +13,5 @@
 [2013-10-10 03:18:52] nicegraham: veronica: do you not have an element to click?
 [2013-10-10 03:20:00] chhsiung, joining. (#ios-driver)
 [2013-10-10 03:24:18] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-10-10 03:25:55] veronica: I have video player and progress bar on it. I need to click on specific coordinate on this progress bar
+[2013-10-10 03:29:16] veronica: previously I have done 'scrubber' drag and drop using iosTouchScreen.dragFromToForDuration(....), and now I  have not to drag but click on the coordinate
