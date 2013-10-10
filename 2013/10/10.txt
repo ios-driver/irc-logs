@@ -50,3 +50,7 @@
 [2013-10-10 06:15:09] mummana: Cannot find dictionary for en this one in eclipse
 [2013-10-10 06:15:44] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-10 06:16:06] mummana: anyone here to help me ?
+[2013-10-10 06:21:18] gdennis, joining. (#ios-driver)
+[2013-10-10 06:21:25] mummana: hello?
+[2013-10-10 06:24:03] operatiay, quitting. (Remote host closed the connection)
+[2013-10-10 06:24:36] operatiay, joining. (#ios-driver)
