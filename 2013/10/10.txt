@@ -15,3 +15,6 @@
 [2013-10-10 03:24:18] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-10-10 03:25:55] veronica: I have video player and progress bar on it. I need to click on specific coordinate on this progress bar
 [2013-10-10 03:29:16] veronica: previously I have done 'scrubber' drag and drop using iosTouchScreen.dragFromToForDuration(....), and now I  have not to drag but click on the coordinate
+[2013-10-10 03:45:04] nicegraham: veronica: doing a touch event allows you to pass an x,y
+[2013-10-10 03:48:20] nicegraham: something like https://gist.github.com/nicegraham/6916513
+[2013-10-10 03:49:28] nicegraham: though you may have to use the down and up if you can't pass a location instead on an element
