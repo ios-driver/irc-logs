@@ -43,3 +43,7 @@
 [2013-10-10 05:35:24] operatiay, joining. (#ios-driver)
 [2013-10-10 05:52:55] operatiay, quitting. (Remote host closed the connection)
 [2013-10-10 05:54:08] operatiay, joining. (#ios-driver)
+[2013-10-10 06:12:32] mummana, joining. (#ios-driver)
+[2013-10-10 06:14:22] mummana: hie graham
+[2013-10-10 06:14:26] mummana: INFO APPIOSApplication.canRun  The application doesn't have any content files. Localization related features won't be available.
+[2013-10-10 06:14:32] mummana: im getting this error
