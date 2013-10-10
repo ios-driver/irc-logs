@@ -9,3 +9,4 @@
 [2013-10-10 03:01:42] elstfi, joining. (#ios-driver)
 [2013-10-10 03:04:13] elstfi1, quitting. (Read error: Operation timed out)
 [2013-10-10 03:07:50] veronica, joining. (#ios-driver)
+[2013-10-10 03:11:27] veronica: hello) I have a question. Could you please say how to click by coordinate on iPad simulator using ios-driver?
