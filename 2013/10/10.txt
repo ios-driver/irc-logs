@@ -31,3 +31,4 @@
 [2013-10-10 04:07:59] famska: Hi guys! Please help to execute Javascripts using ios-driver. I have driver = new RemoteWebDriver(new URL(String.format(REMOTE_ADRESS_PATTERN, host, port)), cap); Where cap = private static Capabilities desiredCapiPad = IOSCapabilities.ipad("Safari"); When I am trying to execute javascript from page, I recieve nullpointerexception in RemoteWebDriver 448 line
 [2013-10-10 04:08:35] famska: cap.isJavascriptEnabled() returns me true
 [2013-10-10 04:08:49] famska: what am I doing wrong?
+[2013-10-10 04:20:45] chhsiung, joining. (#ios-driver)
