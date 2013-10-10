@@ -100,3 +100,4 @@
 [2013-10-10 11:45:57] admc, quitting. (Quit: Leaving.)
 [2013-10-10 11:46:51] admc, joining. (#ios-driver)
 [2013-10-10 11:59:25] elstfi, joining. (#ios-driver)
+[2013-10-10 12:03:34] elstfi, quitting. (Read error: Operation timed out)
