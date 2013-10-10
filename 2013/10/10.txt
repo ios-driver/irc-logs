@@ -85,3 +85,5 @@
 [2013-10-10 09:33:10] nicegraham: ?
 [2013-10-10 09:33:33] jlipps, joining. (#ios-driver)
 [2013-10-10 09:49:16] chhsiung, joining. (#ios-driver)
+[2013-10-10 10:07:57] operatiay, quitting. (Remote host closed the connection)
+[2013-10-10 10:08:29] operatiay, joining. (#ios-driver)
