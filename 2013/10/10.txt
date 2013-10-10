@@ -28,3 +28,6 @@
 [2013-10-10 04:02:22] veronica: java.lang.ClassCastException: org.openqa.selenium.remote.RemoteWebDriver cannot be cast to org.openqa.selenium.HasTouchScreen
 [2013-10-10 04:02:56] veronica: I have to go to meeting, will be back in 2 hours
 [2013-10-10 04:04:40] famska, joining. (#ios-driver)
+[2013-10-10 04:07:59] famska: Hi guys! Please help to execute Javascripts using ios-driver. I have driver = new RemoteWebDriver(new URL(String.format(REMOTE_ADRESS_PATTERN, host, port)), cap); Where cap = private static Capabilities desiredCapiPad = IOSCapabilities.ipad("Safari"); When I am trying to execute javascript from page, I recieve nullpointerexception in RemoteWebDriver 448 line
+[2013-10-10 04:08:35] famska: cap.isJavascriptEnabled() returns me true
+[2013-10-10 04:08:49] famska: what am I doing wrong?
