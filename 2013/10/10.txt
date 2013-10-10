@@ -4,3 +4,7 @@
 [2013-10-10 02:23:03] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-10-10 02:49:25] chhsiung, joining. (#ios-driver)
 [2013-10-10 02:53:28] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-10-10 03:01:23] elstfi1, joining. (#ios-driver)
+[2013-10-10 03:01:29] elstfi, quitting. (Read error: Connection reset by peer)
+[2013-10-10 03:01:42] elstfi, joining. (#ios-driver)
+[2013-10-10 03:04:13] elstfi1, quitting. (Read error: Operation timed out)
