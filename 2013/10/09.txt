@@ -151,3 +151,4 @@
 [2013-10-09 19:18:28] operatiay, quitting. (Ping timeout: 264 seconds)
 [2013-10-09 20:34:11] jlipps, joining. (#ios-driver)
 [2013-10-09 22:03:36] chhsiung, joining. (#ios-driver)
+[2013-10-09 22:08:43] jlipps, quitting. (Quit: Leaving.)
