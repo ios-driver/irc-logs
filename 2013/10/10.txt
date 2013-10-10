@@ -21,3 +21,10 @@
 [2013-10-10 03:50:35] chhsiung, joining. (#ios-driver)
 [2013-10-10 03:54:43] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-10-10 03:55:39] ddary, joining. (#ios-driver)
+[2013-10-10 04:01:54] veronica: Thanks for example=) i have done this way:
+[2013-10-10 04:01:56] veronica: TouchActions touchActions = new TouchActions(driver.getWebDriver()); 		touchActions 				.down(scrubber.getLocation().x + 20, scrubber.getLocation().y) 				.build().perform();
+[2013-10-10 04:02:07] veronica: but when performed
+[2013-10-10 04:02:11] veronica: I received
+[2013-10-10 04:02:22] veronica: java.lang.ClassCastException: org.openqa.selenium.remote.RemoteWebDriver cannot be cast to org.openqa.selenium.HasTouchScreen
+[2013-10-10 04:02:56] veronica: I have to go to meeting, will be back in 2 hours
+[2013-10-10 04:04:40] famska, joining. (#ios-driver)
