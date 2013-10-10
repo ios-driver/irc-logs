@@ -90,3 +90,8 @@
 [2013-10-10 10:12:41] operatiay, quitting. (Ping timeout: 245 seconds)
 [2013-10-10 10:26:01] admc, joining. (#ios-driver)
 [2013-10-10 10:51:50] joevans, quitting. (Quit: joevans)
+[2013-10-10 10:55:41] elstfi, quitting. (Quit: Leaving.)
+[2013-10-10 10:56:40] mummana, joining. (#ios-driver)
+[2013-10-10 10:57:06] mummana: hie
+[2013-10-10 10:57:18] mummana: grham
+[2013-10-10 10:57:31] mummana: hie graham
