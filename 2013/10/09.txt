@@ -149,3 +149,4 @@
 [2013-10-09 19:13:30] operatiay, joining. (#ios-driver)
 [2013-10-09 19:14:02] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2013-10-09 19:18:28] operatiay, quitting. (Ping timeout: 264 seconds)
+[2013-10-09 20:34:11] jlipps, joining. (#ios-driver)
