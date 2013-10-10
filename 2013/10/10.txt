@@ -84,3 +84,4 @@
 [2013-10-10 09:33:09] nicegraham: can you raise an issue on github for that please/
 [2013-10-10 09:33:10] nicegraham: ?
 [2013-10-10 09:33:33] jlipps, joining. (#ios-driver)
+[2013-10-10 09:49:16] chhsiung, joining. (#ios-driver)
