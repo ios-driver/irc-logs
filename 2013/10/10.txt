@@ -79,3 +79,8 @@
 [2013-10-10 09:01:34] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-10 09:02:31] chhsiung, joining. (#ios-driver)
 [2013-10-10 09:07:04] chhsiung, quitting. (Client Quit)
+[2013-10-10 09:30:32] nirvdrum, joining. (#ios-driver)
+[2013-10-10 09:33:02] nicegraham: veronica: you shouldn't have to use IOSCapabilities
+[2013-10-10 09:33:09] nicegraham: can you raise an issue on github for that please/
+[2013-10-10 09:33:10] nicegraham: ?
+[2013-10-10 09:33:33] jlipps, joining. (#ios-driver)
