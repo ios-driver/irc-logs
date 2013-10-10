@@ -120,3 +120,4 @@
 [2013-10-10 15:20:30] chhsiung, joining. (#ios-driver)
 [2013-10-10 15:32:30] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-10 15:46:19] nirvdrum, quitting. (Ping timeout: 248 seconds)
+[2013-10-10 15:50:41] chhsiung, joining. (#ios-driver)
