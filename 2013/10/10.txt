@@ -58,3 +58,6 @@
 [2013-10-10 06:29:04] operatiay, quitting. (Ping timeout: 248 seconds)
 [2013-10-10 06:45:09] elstfi, leaving. (#ios-driver)
 [2013-10-10 06:46:22] elstfi, joining. (#ios-driver)
+[2013-10-10 06:58:27] mummana, quitting. (Quit: Page closed)
+[2013-10-10 06:58:49] chhsiung, joining. (#ios-driver)
+[2013-10-10 06:59:46] veronica: I am here again) So, Graham,  according to this error java.lang.ClassCastException: org.openqa.selenium.remote.RemoteWebDriver cannot be cast to org.openqa.selenium.HasTouchScreen  we can work with TouchActions only with WebDriver? could you please say?
