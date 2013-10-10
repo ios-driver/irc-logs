@@ -146,3 +146,5 @@
 [2013-10-09 17:32:30] joevans__, quitting. (Ping timeout: 264 seconds)
 [2013-10-09 17:33:42] joevans, quitting. (Ping timeout: 264 seconds)
 [2013-10-09 17:35:15] joevans, joining. (#ios-driver)
+[2013-10-09 19:13:30] operatiay, joining. (#ios-driver)
+[2013-10-09 19:14:02] nirvdrum, quitting. (Ping timeout: 240 seconds)
