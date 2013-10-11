@@ -30,3 +30,6 @@
 [2013-10-11 05:28:33] chhsiung, quitting. (Client Quit)
 [2013-10-11 05:44:21] elstfi1, joining. (#ios-driver)
 [2013-10-11 05:47:16] elstfi, quitting. (Ping timeout: 264 seconds)
+[2013-10-11 05:51:57] veronica: Hello gyes) I am trying to do click by coordinates. I've defined the coordinates of play button ( playButton.getLocation().x and  playButton.getLocation().y) and then I do the following strings: Action singleDownUp = getBuilder(driver.getWebDriver()).down(x, y).up(x, y).build(); singleDownUp.perform();
+[2013-10-11 05:52:24] veronica: But this button does not press
+[2013-10-11 05:53:01] veronica: May be somebody know where I make a mistake?
