@@ -127,3 +127,4 @@
 [2013-10-10 18:24:45] santiycr, quitting. (Quit: Leaving.)
 [2013-10-10 18:50:38] admc, quitting. (Quit: Leaving.)
 [2013-10-10 19:14:10] jlipps, quitting. (Quit: Leaving.)
+[2013-10-10 21:14:54] chhsiung, joining. (#ios-driver)
