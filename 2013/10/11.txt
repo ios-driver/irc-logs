@@ -51,3 +51,4 @@
 [2013-10-11 08:27:13] chhsiung, joining. (#ios-driver)
 [2013-10-11 08:29:28] jlipps, joining. (#ios-driver)
 [2013-10-11 08:52:46] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-11 09:15:00] famska, quitting. (Quit: Page closed)
