@@ -41,3 +41,4 @@
 [2013-10-11 06:31:58] chhsiung, joining. (#ios-driver)
 [2013-10-11 06:33:07] chhsiung1, joining. (#ios-driver)
 [2013-10-11 06:33:07] chhsiung, quitting. (Read error: Connection reset by peer)
+[2013-10-11 06:49:30] chhsiung1, quitting. (Quit: Leaving.)
