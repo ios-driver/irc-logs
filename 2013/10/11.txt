@@ -62,3 +62,4 @@
 [2013-10-11 12:29:41] admc, quitting. (Client Quit)
 [2013-10-11 12:36:59] smccarthy, joining. (#ios-driver)
 [2013-10-11 13:18:16] admc, joining. (#ios-driver)
+[2013-10-11 13:24:50] gdennis, quitting. (Quit: gdennis)
