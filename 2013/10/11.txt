@@ -70,3 +70,6 @@
 [2013-10-11 14:31:59] joevans, quitting. (Ping timeout: 272 seconds)
 [2013-10-11 14:32:00] joevans_, changing nick to joevans.
 [2013-10-11 14:45:21] admc, joining. (#ios-driver)
+[2013-10-11 14:56:35] admc1, joining. (#ios-driver)
+[2013-10-11 14:57:34] joevans, quitting. (Quit: joevans)
+[2013-10-11 14:59:35] joevans, joining. (#ios-driver)
