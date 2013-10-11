@@ -11,3 +11,5 @@
 [2013-10-11 01:46:00] elstfi, joining. (#ios-driver)
 [2013-10-11 02:22:45] operatiay, quitting. (Remote host closed the connection)
 [2013-10-11 02:43:44] operatiay, joining. (#ios-driver)
+[2013-10-11 02:48:36] veronica, joining. (#ios-driver)
+[2013-10-11 02:49:50] veronica: The issue is described in https://github.com/ios-driver/ios-driver/issues/166
