@@ -28,3 +28,4 @@
 [2013-10-11 05:10:42] psp250, quitting. (Remote host closed the connection)
 [2013-10-11 05:26:08] chhsiung, joining. (#ios-driver)
 [2013-10-11 05:28:33] chhsiung, quitting. (Client Quit)
+[2013-10-11 05:44:21] elstfi1, joining. (#ios-driver)
