@@ -54,3 +54,4 @@
 [2013-10-11 09:15:00] famska, quitting. (Quit: Page closed)
 [2013-10-11 10:03:00] elstfi, quitting. (Quit: Leaving.)
 [2013-10-11 10:21:08] joevans, joining. (#ios-driver)
+[2013-10-11 10:48:12] admc, joining. (#ios-driver)
