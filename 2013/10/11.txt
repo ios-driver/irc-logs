@@ -64,3 +64,4 @@
 [2013-10-11 13:18:16] admc, joining. (#ios-driver)
 [2013-10-11 13:24:50] gdennis, quitting. (Quit: gdennis)
 [2013-10-11 13:42:46] smccarthy, quitting. (Remote host closed the connection)
+[2013-10-11 14:02:47] admc, quitting. (Quit: Leaving.)
