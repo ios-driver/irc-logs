@@ -38,3 +38,6 @@
 [2013-10-11 06:24:05] elstfi, quitting. (Client Quit)
 [2013-10-11 06:24:14] elstfi, joining. (#ios-driver)
 [2013-10-11 06:27:27] elstfi1, quitting. (Ping timeout: 252 seconds)
+[2013-10-11 06:31:58] chhsiung, joining. (#ios-driver)
+[2013-10-11 06:33:07] chhsiung1, joining. (#ios-driver)
+[2013-10-11 06:33:07] chhsiung, quitting. (Read error: Connection reset by peer)
