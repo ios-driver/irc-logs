@@ -22,3 +22,4 @@
 [2013-10-11 04:20:50] elstfi, joining. (#ios-driver)
 [2013-10-11 04:22:28] psp250_, joining. (#ios-driver)
 [2013-10-11 04:23:01] psp250_, quitting. (Read error: Connection reset by peer)
+[2013-10-11 04:44:26] operatiay, quitting. (Remote host closed the connection)
