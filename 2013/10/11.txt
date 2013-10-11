@@ -34,3 +34,6 @@
 [2013-10-11 05:52:24] veronica: But this button does not press
 [2013-10-11 05:53:01] veronica: May be somebody know where I make a mistake?
 [2013-10-11 06:14:06] operatiay, quitting. (Remote host closed the connection)
+[2013-10-11 06:23:53] elstfi, joining. (#ios-driver)
+[2013-10-11 06:24:05] elstfi, quitting. (Client Quit)
+[2013-10-11 06:24:14] elstfi, joining. (#ios-driver)
