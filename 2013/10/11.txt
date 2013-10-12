@@ -76,3 +76,8 @@
 [2013-10-11 15:00:07] admc, quitting. (Ping timeout: 272 seconds)
 [2013-10-11 16:59:06] admc1, quitting. (Quit: Leaving.)
 [2013-10-11 16:59:57] admc, joining. (#ios-driver)
+[2013-10-11 17:00:40] admc, quitting. (Client Quit)
+[2013-10-11 17:01:37] admc, joining. (#ios-driver)
+[2013-10-11 17:02:52] jlipps, quitting. (Quit: Leaving.)
+[2013-10-11 17:03:27] admc, quitting. (Client Quit)
+[2013-10-11 17:04:24] admc, joining. (#ios-driver)
