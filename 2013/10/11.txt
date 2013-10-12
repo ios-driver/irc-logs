@@ -74,3 +74,5 @@
 [2013-10-11 14:57:34] joevans, quitting. (Quit: joevans)
 [2013-10-11 14:59:35] joevans, joining. (#ios-driver)
 [2013-10-11 15:00:07] admc, quitting. (Ping timeout: 272 seconds)
+[2013-10-11 16:59:06] admc1, quitting. (Quit: Leaving.)
+[2013-10-11 16:59:57] admc, joining. (#ios-driver)
