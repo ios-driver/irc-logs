@@ -91,3 +91,4 @@
 [2013-10-11 18:45:28] admc, quitting. (Client Quit)
 [2013-10-11 19:47:00] chhsiung, joining. (#ios-driver)
 [2013-10-11 20:55:19] admc, joining. (#ios-driver)
+[2013-10-11 21:07:48] chhsiung, quitting. (Quit: Leaving.)
