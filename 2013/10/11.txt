@@ -86,3 +86,5 @@
 [2013-10-11 18:05:21] joevans, quitting. (Quit: joevans)
 [2013-10-11 18:21:09] smccarthy, joining. (#ios-driver)
 [2013-10-11 18:22:10] smccarthy, quitting. (Remote host closed the connection)
+[2013-10-11 18:41:17] admc, quitting. (Quit: Leaving.)
+[2013-10-11 18:42:01] admc, joining. (#ios-driver)
