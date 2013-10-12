@@ -92,3 +92,4 @@
 [2013-10-11 19:47:00] chhsiung, joining. (#ios-driver)
 [2013-10-11 20:55:19] admc, joining. (#ios-driver)
 [2013-10-11 21:07:48] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-11 21:41:54] admc, quitting. (Quit: Leaving.)
