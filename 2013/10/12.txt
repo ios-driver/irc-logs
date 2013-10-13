@@ -10,3 +10,5 @@
 [2013-10-12 15:15:19] jlipps, joining. (#ios-driver)
 [2013-10-12 15:43:02] smccarthy, joining. (#ios-driver)
 [2013-10-12 15:59:28] jlipps, quitting. (Quit: Leaving.)
+[2013-10-12 17:08:57] jlipps, joining. (#ios-driver)
+[2013-10-12 17:09:54] jlipps, quitting. (Client Quit)
