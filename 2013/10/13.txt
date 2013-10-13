@@ -1,1 +1,2 @@
 [2013-10-13 00:06:35] smccarthy, quitting. (Read error: Connection reset by peer)
+[2013-10-13 08:07:19] smccarthy, joining. (#ios-driver)
