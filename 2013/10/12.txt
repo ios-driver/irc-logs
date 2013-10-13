@@ -16,3 +16,4 @@
 [2013-10-12 20:13:03] avinpr, quitting. (Remote host closed the connection)
 [2013-10-12 20:30:11] nirvdrum_, joining. (#ios-driver)
 [2013-10-12 20:30:23] nirvdrum_, quitting. (Remote host closed the connection)
+[2013-10-12 20:52:49] nirvdrum, quitting. (Ping timeout: 272 seconds)
