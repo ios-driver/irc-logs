@@ -39,3 +39,6 @@
 [2013-10-14 12:43:04] nirvdrum, quitting. (Read error: Connection reset by peer)
 [2013-10-14 13:16:48] admc, joining. (#ios-driver)
 [2013-10-14 13:17:53] admc, quitting. (Client Quit)
+[2013-10-14 13:21:09] admc, joining. (#ios-driver)
+[2013-10-14 13:21:46] admc, quitting. (Client Quit)
+[2013-10-14 13:21:58] admc, joining. (#ios-driver)
