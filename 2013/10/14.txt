@@ -53,3 +53,8 @@
 [2013-10-14 14:34:22] santiycr, quitting. (Quit: Leaving.)
 [2013-10-14 15:37:53] jevans_, joining. (#ios-driver)
 [2013-10-14 15:39:40] jevans_, changing nick to joevans.
+[2013-10-14 15:45:14] ios-driver-git, joining. (#ios-driver)
+[2013-10-14 15:45:14] ios-driver-git: [ios-driver] jasone pushed 1 new commit to dev: http://git.io/uEvAPQ
+[2013-10-14 15:45:14] ios-driver-git: ios-driver/dev a36e790 Jason Evans: Reduce log level for success cases in IOSServlet's getResponse()....
+[2013-10-14 15:45:14] ios-driver-git, leaving. (#ios-driver)
+[2013-10-14 15:48:21] jlipps, joining. (#ios-driver)
