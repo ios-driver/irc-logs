@@ -18,3 +18,4 @@
 [2013-10-14 07:27:44] smccarthy, joining. (#ios-driver)
 [2013-10-14 08:02:09] nirvdrum, joining. (#ios-driver)
 [2013-10-14 08:14:21] elstfi, joining. (#ios-driver)
+[2013-10-14 08:18:42] gdennis, joining. (#ios-driver)
