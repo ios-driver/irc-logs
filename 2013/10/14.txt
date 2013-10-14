@@ -46,3 +46,5 @@
 [2013-10-14 13:34:06] admc, quitting. (Read error: Connection reset by peer)
 [2013-10-14 13:34:07] admc1, joining. (#ios-driver)
 [2013-10-14 13:39:01] jlipps, quitting. (Quit: Leaving.)
+[2013-10-14 13:40:11] jlipps, joining. (#ios-driver)
+[2013-10-14 13:41:13] jlipps, quitting. (Client Quit)
