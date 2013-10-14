@@ -9,3 +9,4 @@
 [2013-10-14 04:03:47] operatiay, joining. (#ios-driver)
 [2013-10-14 04:28:48] elstfi, joining. (#ios-driver)
 [2013-10-14 04:35:05] elstfi, quitting. (Quit: Leaving.)
+[2013-10-14 05:08:22] operatiay, quitting. (Remote host closed the connection)
