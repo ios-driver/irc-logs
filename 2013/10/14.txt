@@ -60,3 +60,4 @@
 [2013-10-14 15:48:21] jlipps, joining. (#ios-driver)
 [2013-10-14 15:57:18] jlipps, quitting. (Quit: Leaving.)
 [2013-10-14 16:05:59] jlipps, joining. (#ios-driver)
+[2013-10-14 16:21:43] nirvdrum, quitting. (Ping timeout: 246 seconds)
