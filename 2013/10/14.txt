@@ -42,3 +42,6 @@
 [2013-10-14 13:21:09] admc, joining. (#ios-driver)
 [2013-10-14 13:21:46] admc, quitting. (Client Quit)
 [2013-10-14 13:21:58] admc, joining. (#ios-driver)
+[2013-10-14 13:31:07] gdennis, quitting. (Quit: gdennis)
+[2013-10-14 13:34:06] admc, quitting. (Read error: Connection reset by peer)
+[2013-10-14 13:34:07] admc1, joining. (#ios-driver)
