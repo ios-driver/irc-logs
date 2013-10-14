@@ -10,3 +10,4 @@
 [2013-10-13 19:51:56] nirvdrum, joining. (#ios-driver)
 [2013-10-13 19:59:38] smccarthy, joining. (#ios-driver)
 [2013-10-13 20:55:49] nirvdrum, quitting. (Ping timeout: 272 seconds)
+[2013-10-13 21:09:40] smccarthy, quitting. (Remote host closed the connection)
