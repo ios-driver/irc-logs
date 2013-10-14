@@ -45,3 +45,4 @@
 [2013-10-14 13:31:07] gdennis, quitting. (Quit: gdennis)
 [2013-10-14 13:34:06] admc, quitting. (Read error: Connection reset by peer)
 [2013-10-14 13:34:07] admc1, joining. (#ios-driver)
+[2013-10-14 13:39:01] jlipps, quitting. (Quit: Leaving.)
