@@ -70,3 +70,5 @@
 [2013-10-14 17:31:24] ios-driver-git: ios-driver/dev d0c554d Jason Evans: Refine application crash report logging....
 [2013-10-14 17:31:24] ios-driver-git, leaving. (#ios-driver)
 [2013-10-14 17:32:58] admc1, joining. (#ios-driver)
+[2013-10-14 17:36:37] admc, quitting. (Ping timeout: 272 seconds)
+[2013-10-14 17:38:19] smccarthy, quitting. (Remote host closed the connection)
