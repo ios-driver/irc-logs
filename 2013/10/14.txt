@@ -82,3 +82,5 @@
 [2013-10-14 18:20:27] santiycr, joining. (#ios-driver)
 [2013-10-14 18:21:30] smccarthy, joining. (#ios-driver)
 [2013-10-14 18:25:37] admc1, quitting. (Quit: Leaving.)
+[2013-10-14 18:51:17] santiycr, quitting. (Quit: Leaving.)
+[2013-10-14 18:53:00] santiycr, joining. (#ios-driver)
