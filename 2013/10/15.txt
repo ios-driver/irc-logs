@@ -90,3 +90,4 @@
 [2013-10-15 16:01:39] lukeis, quitting. (Quit: Leaving.)
 [2013-10-15 16:11:15] smccarthy, quitting. (Remote host closed the connection)
 [2013-10-15 16:12:49] santiycr, quitting. (Quit: Leaving.)
+[2013-10-15 16:22:52] chhsiung, joining. (#ios-driver)
