@@ -86,3 +86,5 @@
 [2013-10-15 15:45:05] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-15 15:47:54] santiycr, joining. (#ios-driver)
 [2013-10-15 15:59:54] santiycr, quitting. (Quit: Leaving.)
+[2013-10-15 16:01:00] santiycr, joining. (#ios-driver)
+[2013-10-15 16:01:39] lukeis, quitting. (Quit: Leaving.)
