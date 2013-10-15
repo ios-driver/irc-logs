@@ -32,3 +32,6 @@
 [2013-10-15 04:53:33] operatiay, quitting. (Ping timeout: 272 seconds)
 [2013-10-15 05:00:05] nirvdrum, joining. (#ios-driver)
 [2013-10-15 06:02:36] operatiay, joining. (#ios-driver)
+[2013-10-15 07:17:26] operatiay, quitting. (Remote host closed the connection)
+[2013-10-15 07:17:58] operatiay, joining. (#ios-driver)
+[2013-10-15 07:19:50] operatiay, quitting. (Read error: Operation timed out)
