@@ -79,3 +79,5 @@
 [2013-10-14 18:12:07] ios-driver-git: [ios-driver] jasone pushed 1 new commit to dev: http://git.io/GdnPoQ
 [2013-10-14 18:12:07] ios-driver-git: ios-driver/dev 62e8d9d Jason Evans: Fix spelling: thrid_party --> third_party
 [2013-10-14 18:12:07] ios-driver-git, leaving. (#ios-driver)
+[2013-10-14 18:20:27] santiycr, joining. (#ios-driver)
+[2013-10-14 18:21:30] smccarthy, joining. (#ios-driver)
