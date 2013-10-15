@@ -24,3 +24,5 @@
 [2013-10-15 03:46:05] elstfi, joining. (#ios-driver)
 [2013-10-15 04:15:00] tesgn, joining. (#ios-driver)
 [2013-10-15 04:16:51] tesgn: Hello good afternoon
+[2013-10-15 04:21:11] elstfi1, joining. (#ios-driver)
+[2013-10-15 04:22:32] elstfi, quitting. (Read error: Operation timed out)
