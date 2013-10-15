@@ -8,3 +8,4 @@
 [2013-10-15 02:07:07] elstfi, joining. (#ios-driver)
 [2013-10-15 02:07:37] elstfi, quitting. (Client Quit)
 [2013-10-15 02:22:13] elstfi, joining. (#ios-driver)
+[2013-10-15 02:29:35] veronica_, joining. (#ios-driver)
