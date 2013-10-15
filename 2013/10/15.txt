@@ -43,3 +43,4 @@
 [2013-10-15 09:25:24] smccarthy, joining. (#ios-driver)
 [2013-10-15 09:32:21] gdennis, joining. (#ios-driver)
 [2013-10-15 09:34:37] jlipps, joining. (#ios-driver)
+[2013-10-15 09:37:46] admc, joining. (#ios-driver)
