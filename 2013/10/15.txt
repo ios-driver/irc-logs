@@ -3,3 +3,7 @@
 [2013-10-15 01:55:18] operatiay, joining. (#ios-driver)
 [2013-10-15 01:55:38] ddary, leaving. (#ios-driver)
 [2013-10-15 02:00:38] admc, quitting. (Quit: Leaving.)
+[2013-10-15 02:05:23] elstfi, joining. (#ios-driver)
+[2013-10-15 02:06:30] elstfi, quitting. (Client Quit)
+[2013-10-15 02:07:07] elstfi, joining. (#ios-driver)
+[2013-10-15 02:07:37] elstfi, quitting. (Client Quit)
