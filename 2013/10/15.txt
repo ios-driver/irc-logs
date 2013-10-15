@@ -11,3 +11,4 @@
 [2013-10-15 02:29:35] veronica_, joining. (#ios-driver)
 [2013-10-15 02:30:35] veronica, quitting. (Ping timeout: 250 seconds)
 [2013-10-15 02:32:37] elstfi1, joining. (#ios-driver)
+[2013-10-15 02:38:34] elstfi, quitting. (Read error: Connection reset by peer)
