@@ -35,3 +35,4 @@
 [2013-10-15 07:17:26] operatiay, quitting. (Remote host closed the connection)
 [2013-10-15 07:17:58] operatiay, joining. (#ios-driver)
 [2013-10-15 07:19:50] operatiay, quitting. (Read error: Operation timed out)
+[2013-10-15 07:38:46] operatiay, joining. (#ios-driver)
