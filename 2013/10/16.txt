@@ -27,3 +27,5 @@
 [2013-10-16 02:43:18] mummana: what shud i do to avoid this exception? Exception in thread "main" org.openqa.selenium.WebDriverException: Cannot find dictionary for en
 [2013-10-16 02:44:33] dgrace: mummana, the exception can be ignored, it means you dont have any localization content in your app
 [2013-10-16 02:44:59] famska: hm, I use only JavaScriptExecutor and TakesScreenshot interfaces...
+[2013-10-16 02:46:29] mummana: yea the app is getting launced in simultor but fails to click a particular element and throws that exception
+[2013-10-16 02:47:18] dgrace: famska, is ios-driver throwing this exception or is it being thrown somewhere else in your framework?
