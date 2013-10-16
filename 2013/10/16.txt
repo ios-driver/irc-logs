@@ -34,3 +34,5 @@
 [2013-10-16 03:05:14] dgrace: not sure. I use selenium 2.35 with ios-driver 0.6.5 and don't see this issue. Also use the TakesScreenshot interface
 [2013-10-16 03:07:58] famska: very strange...(
 [2013-10-16 03:14:48] operatiay, quitting. (Remote host closed the connection)
+[2013-10-16 03:15:20] operatiay, joining. (#ios-driver)
+[2013-10-16 03:16:55] mummana, quitting. (Ping timeout: 250 seconds)
