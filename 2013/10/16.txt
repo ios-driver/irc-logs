@@ -38,3 +38,6 @@
 [2013-10-16 03:16:55] mummana, quitting. (Ping timeout: 250 seconds)
 [2013-10-16 03:20:23] operatiay, quitting. (Ping timeout: 272 seconds)
 [2013-10-16 03:33:36] operatiay, joining. (#ios-driver)
+[2013-10-16 03:37:21] chhsiung, joining. (#ios-driver)
+[2013-10-16 03:38:42] famska: I resolve the issue!!! Build path of project has both 2.33 and 2.35... but project took 2.33 somehow... regardless of maven
+[2013-10-16 03:39:00] famska: i simply delete 2.33 form build path
