@@ -103,3 +103,4 @@
 [2013-10-15 19:14:00] ios-driver-git: ios-driver/dev b643ce7 Jason Evans: Reduce compiler warnings.
 [2013-10-15 19:14:00] ios-driver-git: ios-driver/dev 951f2af Jason Evans: Exit if server port is unavailable....
 [2013-10-15 19:14:00] ios-driver-git, leaving. (#ios-driver)
+[2013-10-15 19:20:36] admc, quitting. (Quit: Leaving.)
