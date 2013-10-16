@@ -88,3 +88,4 @@
 [2013-10-16 14:55:51] santiycr, joining. (#ios-driver)
 [2013-10-16 14:58:33] chhsiung, quitting. (Client Quit)
 [2013-10-16 15:15:10] lukeis, quitting. (Quit: Leaving.)
+[2013-10-16 15:49:35] admc, quitting. (Ping timeout: 260 seconds)
