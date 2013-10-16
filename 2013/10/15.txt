@@ -114,3 +114,4 @@
 [2013-10-15 21:40:47] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-15 21:59:55] nirvdrum, quitting. (Read error: Operation timed out)
 [2013-10-15 22:34:42] chhsiung, joining. (#ios-driver)
+[2013-10-15 22:38:53] chhsiung, quitting. (Ping timeout: 245 seconds)
