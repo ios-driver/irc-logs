@@ -104,3 +104,6 @@
 [2013-10-15 19:14:00] ios-driver-git: ios-driver/dev 951f2af Jason Evans: Exit if server port is unavailable....
 [2013-10-15 19:14:00] ios-driver-git, leaving. (#ios-driver)
 [2013-10-15 19:20:36] admc, quitting. (Quit: Leaving.)
+[2013-10-15 19:41:04] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-15 19:41:09] nirvdrum, joining. (#ios-driver)
+[2013-10-15 19:43:53] jlipps, quitting. (Quit: Leaving.)
