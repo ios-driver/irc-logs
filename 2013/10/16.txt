@@ -31,3 +31,5 @@
 [2013-10-16 02:47:18] dgrace: famska, is ios-driver throwing this exception or is it being thrown somewhere else in your framework?
 [2013-10-16 03:00:33] famska: it throws in: WebDriver driver = DTEWebDriver.getInstance(driverType, PROXY_HOST_NAME, PROXY_HOST_PORT).getWebDriver();     DTEWebDriver extends RemoteWebDriver....
 [2013-10-16 03:00:53] famska: Maybe smt is with RemoteWebDriver
+[2013-10-16 03:05:14] dgrace: not sure. I use selenium 2.35 with ios-driver 0.6.5 and don't see this issue. Also use the TakesScreenshot interface
+[2013-10-16 03:07:58] famska: very strange...(
