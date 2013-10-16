@@ -46,3 +46,4 @@
 [2013-10-16 04:18:39] operatiay, quitting. (Ping timeout: 272 seconds)
 [2013-10-16 04:24:04] chhsiung, joining. (#ios-driver)
 [2013-10-16 04:56:32] famska, quitting. (Quit: Page closed)
+[2013-10-16 05:01:09] chhsiung, quitting. (Quit: Leaving.)
