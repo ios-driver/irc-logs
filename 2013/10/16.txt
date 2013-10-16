@@ -71,3 +71,4 @@
 [2013-10-16 08:35:40] elstfi, quitting. (Ping timeout: 246 seconds)
 [2013-10-16 08:45:45] elstfi1, quitting. (Quit: Leaving.)
 [2013-10-16 08:45:57] elstfi, joining. (#ios-driver)
+[2013-10-16 09:13:53] admc, joining. (#ios-driver)
