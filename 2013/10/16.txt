@@ -44,3 +44,4 @@
 [2013-10-16 03:41:48] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-10-16 04:14:34] operatia_, joining. (#ios-driver)
 [2013-10-16 04:18:39] operatiay, quitting. (Ping timeout: 272 seconds)
+[2013-10-16 04:24:04] chhsiung, joining. (#ios-driver)
