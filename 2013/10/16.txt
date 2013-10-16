@@ -17,3 +17,13 @@
 [2013-10-16 02:38:41] famska: i am using 0.6.5
 [2013-10-16 02:38:47] mummana: hie guys i getting this problem can anyone help me out here?
 [2013-10-16 02:38:50] mummana: INFO APPIOSApplication.canRun  The application doesn't have any content files. Localization related features won't be available.
+[2013-10-16 02:40:11] mummana: ???
+[2013-10-16 02:40:58] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-10-16 02:41:03] famska: I have in my dependecies: artifactId>selenium-java</artifactId> and <artifactId>selenium-support</artifactId>. Both are 2.35 version
+[2013-10-16 02:41:30] dgrace: mmm, 0.6.4 upwards was updated for Selenium 2.35.. Some deprecated interfaces were removed .. Keyboard, Mouse,
+[2013-10-16 02:41:30] dgrace:     TouchScreen
+[2013-10-16 02:42:22] dgrace: are you referencing these deprecated interfaces somewhere else in your code?
+[2013-10-16 02:42:44] mummana: hie dgrace
+[2013-10-16 02:43:18] mummana: what shud i do to avoid this exception? Exception in thread "main" org.openqa.selenium.WebDriverException: Cannot find dictionary for en
+[2013-10-16 02:44:33] dgrace: mummana, the exception can be ignored, it means you dont have any localization content in your app
+[2013-10-16 02:44:59] famska: hm, I use only JavaScriptExecutor and TakesScreenshot interfaces...
