@@ -6,3 +6,14 @@
 [2013-10-16 01:40:33] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-10-16 01:44:09] operatiay, joining. (#ios-driver)
 [2013-10-16 01:46:48] elstfi, joining. (#ios-driver)
+[2013-10-16 02:35:08] operatiay, quitting. (Remote host closed the connection)
+[2013-10-16 02:35:43] operatiay, joining. (#ios-driver)
+[2013-10-16 02:36:04] famska, joining. (#ios-driver)
+[2013-10-16 02:36:49] chhsiung, joining. (#ios-driver)
+[2013-10-16 02:37:20] famska: hello! Maybe smb knows... I change selenium version from 2.33 to 2.35 and now one of my pages says: The type org.openqa.selenium.interactions.HasInputDevices cannot be resolved. It is indirectly referenced from required .class   files
+[2013-10-16 02:37:49] famska: what should I made to resolve this issue
+[2013-10-16 02:38:02] mummana, joining. (#ios-driver)
+[2013-10-16 02:38:15] dgrace: Hi Famska, what version of ios-driver are you using?
+[2013-10-16 02:38:41] famska: i am using 0.6.5
+[2013-10-16 02:38:47] mummana: hie guys i getting this problem can anyone help me out here?
+[2013-10-16 02:38:50] mummana: INFO APPIOSApplication.canRun  The application doesn't have any content files. Localization related features won't be available.
