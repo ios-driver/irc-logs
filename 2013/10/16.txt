@@ -36,3 +36,4 @@
 [2013-10-16 03:14:48] operatiay, quitting. (Remote host closed the connection)
 [2013-10-16 03:15:20] operatiay, joining. (#ios-driver)
 [2013-10-16 03:16:55] mummana, quitting. (Ping timeout: 250 seconds)
+[2013-10-16 03:20:23] operatiay, quitting. (Ping timeout: 272 seconds)
