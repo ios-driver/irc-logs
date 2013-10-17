@@ -60,3 +60,4 @@
 [2013-10-17 15:54:31] nirvdrum, quitting. (Ping timeout: 272 seconds)
 [2013-10-17 15:56:24] admc, joining. (#ios-driver)
 [2013-10-17 15:56:25] admc1, quitting. (Read error: Connection reset by peer)
+[2013-10-17 16:08:33] lukeis, quitting. (Quit: Leaving.)
