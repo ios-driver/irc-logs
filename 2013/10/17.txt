@@ -38,3 +38,4 @@
 [2013-10-17 11:14:26] santiycr, quitting. (Quit: Leaving.)
 [2013-10-17 11:47:33] santiycr, joining. (#ios-driver)
 [2013-10-17 12:38:50] smccarthy, joining. (#ios-driver)
+[2013-10-17 12:52:15] santiycr, quitting. (Quit: Leaving.)
