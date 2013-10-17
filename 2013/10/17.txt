@@ -55,3 +55,5 @@
 [2013-10-17 15:03:46] ios-driver-git, leaving. (#ios-driver)
 [2013-10-17 15:03:46] ios-driver-git: ios-driver/refactor 063c575 rsalvador: Fix invalid warning when deleting sym folders.
 [2013-10-17 15:10:35] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-17 15:30:31] admc1, joining. (#ios-driver)
+[2013-10-17 15:32:56] admc, quitting. (Ping timeout: 245 seconds)
