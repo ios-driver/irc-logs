@@ -96,3 +96,4 @@
 [2013-10-16 17:15:20] santiycr, quitting. (Quit: Leaving.)
 [2013-10-16 18:03:35] chhsiung, joining. (#ios-driver)
 [2013-10-16 18:05:02] admc, quitting. (Quit: Leaving.)
+[2013-10-16 18:24:42] smccarthy, quitting. (Remote host closed the connection)
