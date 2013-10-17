@@ -30,3 +30,4 @@
 [2013-10-17 09:13:12] lukeis, quitting. (Quit: Leaving.)
 [2013-10-17 09:32:06] operatiay, quitting. (Remote host closed the connection)
 [2013-10-17 09:42:37] operatiay, joining. (#ios-driver)
+[2013-10-17 09:59:37] operatiay, quitting. (Remote host closed the connection)
