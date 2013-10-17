@@ -21,3 +21,4 @@
 [2013-10-17 08:02:12] operatiay, quitting. (Remote host closed the connection)
 [2013-10-17 08:11:51] operatiay, joining. (#ios-driver)
 [2013-10-17 08:12:30] lukeis, joining. (#ios-driver)
+[2013-10-17 08:16:33] smccarthy, quitting. (Remote host closed the connection)
