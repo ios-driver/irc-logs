@@ -54,3 +54,4 @@
 [2013-10-17 15:03:46] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/A6bZVw
 [2013-10-17 15:03:46] ios-driver-git, leaving. (#ios-driver)
 [2013-10-17 15:03:46] ios-driver-git: ios-driver/refactor 063c575 rsalvador: Fix invalid warning when deleting sym folders.
+[2013-10-17 15:10:35] chhsiung, quitting. (Quit: Leaving.)
