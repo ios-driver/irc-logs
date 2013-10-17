@@ -14,3 +14,5 @@
 [2013-10-17 06:36:46] gdennis, joining. (#ios-driver)
 [2013-10-17 07:07:49] elstfi, joining. (#ios-driver)
 [2013-10-17 07:10:13] elstfi2, quitting. (Ping timeout: 272 seconds)
+[2013-10-17 07:15:07] elstfi1, joining. (#ios-driver)
+[2013-10-17 07:19:22] elstfi, quitting. (Ping timeout: 272 seconds)
