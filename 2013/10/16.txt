@@ -103,3 +103,7 @@
 [2013-10-16 19:49:39] smccarthy, quitting. (Ping timeout: 272 seconds)
 [2013-10-16 19:52:15] smccarthy, joining. (#ios-driver)
 [2013-10-16 19:55:26] smccarthy2, quitting. (Ping timeout: 240 seconds)
+[2013-10-16 21:26:49] ios-driver-git, joining. (#ios-driver)
+[2013-10-16 21:26:49] ios-driver-git: [ios-driver] jasone pushed 1 new commit to dev: http://git.io/BLvTzQ
+[2013-10-16 21:26:49] ios-driver-git: ios-driver/dev 25030fd Jason Evans: Implement clean shutdown....
+[2013-10-16 21:26:49] ios-driver-git, leaving. (#ios-driver)
