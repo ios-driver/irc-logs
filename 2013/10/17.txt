@@ -1,0 +1,2 @@
+[2013-10-17 01:43:48] operatiay, joining. (#ios-driver)
+[2013-10-17 01:45:00] operatiay, quitting. (Remote host closed the connection)
