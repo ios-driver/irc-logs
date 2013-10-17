@@ -107,3 +107,4 @@
 [2013-10-16 21:26:49] ios-driver-git: [ios-driver] jasone pushed 1 new commit to dev: http://git.io/BLvTzQ
 [2013-10-16 21:26:49] ios-driver-git: ios-driver/dev 25030fd Jason Evans: Implement clean shutdown....
 [2013-10-16 21:26:49] ios-driver-git, leaving. (#ios-driver)
+[2013-10-16 21:44:28] nirvdrum, quitting. (Ping timeout: 240 seconds)
