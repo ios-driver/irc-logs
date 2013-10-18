@@ -24,3 +24,4 @@
 [2013-10-18 09:12:36] lukeis, quitting. (Client Quit)
 [2013-10-18 09:13:15] lukeis, joining. (#ios-driver)
 [2013-10-18 09:50:54] elstfi1, joining. (#ios-driver)
+[2013-10-18 09:55:43] elstfi, quitting. (Ping timeout: 272 seconds)
