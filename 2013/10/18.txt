@@ -43,3 +43,4 @@
 [2013-10-18 13:51:32] gdennis, leaving. (#ios-driver)
 [2013-10-18 13:58:47] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-18 14:00:33] santiycr, joining. (#ios-driver)
+[2013-10-18 14:14:35] admc, joining. (#ios-driver)
