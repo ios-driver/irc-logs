@@ -2,3 +2,6 @@
 [2013-10-18 01:46:30] operatiay, joining. (#ios-driver)
 [2013-10-18 01:47:51] veronica_, joining. (#ios-driver)
 [2013-10-18 01:59:24] admc, quitting. (Quit: Leaving.)
+[2013-10-18 02:06:12] elstfi, joining. (#ios-driver)
+[2013-10-18 02:09:15] operatiay, quitting. (Remote host closed the connection)
+[2013-10-18 02:09:48] operatiay, joining. (#ios-driver)
