@@ -32,3 +32,5 @@
 [2013-10-18 10:47:52] jlipps, joining. (#ios-driver)
 [2013-10-18 11:36:22] admc, quitting. (Quit: Leaving.)
 [2013-10-18 11:43:41] santiycr, quitting. (Quit: Leaving.)
+[2013-10-18 11:50:21] santiycr, joining. (#ios-driver)
+[2013-10-18 11:52:14] santiycr, quitting. (Client Quit)
