@@ -18,3 +18,4 @@
 [2013-10-18 07:00:10] lukeis, joining. (#ios-driver)
 [2013-10-18 07:02:09] smccarthy, joining. (#ios-driver)
 [2013-10-18 07:19:29] lukeis, quitting. (Quit: Leaving.)
+[2013-10-18 08:20:03] lukeis, joining. (#ios-driver)
