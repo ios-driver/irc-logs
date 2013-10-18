@@ -63,3 +63,4 @@
 [2013-10-17 16:08:33] lukeis, quitting. (Quit: Leaving.)
 [2013-10-17 16:10:13] santiycr, quitting. (Quit: Leaving.)
 [2013-10-17 16:45:45] smccarthy, quitting. (Remote host closed the connection)
+[2013-10-17 18:13:23] smccarthy, joining. (#ios-driver)
