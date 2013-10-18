@@ -14,3 +14,4 @@
 [2013-10-18 05:21:58] operatiay, joining. (#ios-driver)
 [2013-10-18 05:26:24] nirvdrum, joining. (#ios-driver)
 [2013-10-18 05:44:46] operatiay, quitting. (Remote host closed the connection)
+[2013-10-18 06:35:51] gdennis, joining. (#ios-driver)
