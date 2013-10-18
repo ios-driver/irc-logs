@@ -30,3 +30,4 @@
 [2013-10-18 10:25:42] admc, joining. (#ios-driver)
 [2013-10-18 10:37:42] chhsiung, joining. (#ios-driver)
 [2013-10-18 10:47:52] jlipps, joining. (#ios-driver)
+[2013-10-18 11:36:22] admc, quitting. (Quit: Leaving.)
