@@ -54,3 +54,4 @@
 [2013-10-18 15:09:07] nirvdrum, quitting. (Ping timeout: 272 seconds)
 [2013-10-18 15:11:18] santiycr, quitting. (Quit: Leaving.)
 [2013-10-18 15:18:41] chhsiung, quitting. (Remote host closed the connection)
+[2013-10-18 15:50:58] lukeis, quitting. (Quit: Leaving.)
