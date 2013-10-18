@@ -35,3 +35,4 @@
 [2013-10-18 11:50:21] santiycr, joining. (#ios-driver)
 [2013-10-18 11:52:14] santiycr, quitting. (Client Quit)
 [2013-10-18 11:58:15] admc, joining. (#ios-driver)
+[2013-10-18 12:29:18] admc, quitting. (Quit: Leaving.)
