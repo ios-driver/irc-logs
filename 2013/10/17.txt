@@ -75,3 +75,4 @@
 [2013-10-17 22:05:26] admc, quitting. (Ping timeout: 245 seconds)
 [2013-10-17 22:05:56] admc, joining. (#ios-driver)
 [2013-10-17 22:16:00] lukeis, quitting. (Quit: Leaving.)
+[2013-10-17 22:29:30] smccarthy, quitting. (Remote host closed the connection)
