@@ -79,3 +79,4 @@
 [2013-10-17 23:10:29] admc1, joining. (#ios-driver)
 [2013-10-17 23:12:53] veronica_, quitting. (Ping timeout: 250 seconds)
 [2013-10-17 23:14:09] admc, quitting. (Ping timeout: 272 seconds)
+[2013-10-17 23:29:11] admc, joining. (#ios-driver)
