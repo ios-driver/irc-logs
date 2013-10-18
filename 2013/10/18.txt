@@ -38,3 +38,4 @@
 [2013-10-18 12:29:18] admc, quitting. (Quit: Leaving.)
 [2013-10-18 12:33:04] jlipps, quitting. (Quit: Leaving.)
 [2013-10-18 12:36:55] jlipps, joining. (#ios-driver)
+[2013-10-18 13:03:36] chhsiung, quitting. (Quit: Leaving.)
