@@ -71,3 +71,4 @@
 [2013-10-17 20:40:47] lukeis, quitting. (Ping timeout: 272 seconds)
 [2013-10-17 20:40:56] lukeis2, changing nick to lukeis.
 [2013-10-17 20:42:06] lukeis1, quitting. (Ping timeout: 245 seconds)
+[2013-10-17 21:48:39] nirvdrum, quitting. (Ping timeout: 272 seconds)
