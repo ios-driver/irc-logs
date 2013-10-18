@@ -1,3 +1,4 @@
 [2013-10-18 01:31:26] freynaud_, quitting. (Ping timeout: 264 seconds)
 [2013-10-18 01:46:30] operatiay, joining. (#ios-driver)
 [2013-10-18 01:47:51] veronica_, joining. (#ios-driver)
+[2013-10-18 01:59:24] admc, quitting. (Quit: Leaving.)
