@@ -63,3 +63,4 @@
 [2013-10-18 16:58:38] santiycr, quitting. (Quit: Leaving.)
 [2013-10-18 17:00:42] santiycr, joining. (#ios-driver)
 [2013-10-18 17:44:20] nirvdrum, joining. (#ios-driver)
+[2013-10-18 17:48:55] jlipps, quitting. (Quit: Leaving.)
