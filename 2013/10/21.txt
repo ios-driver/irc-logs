@@ -39,3 +39,4 @@
 [2013-10-21 08:18:09] dimacus: is that a feature that is planned to be added anytime soon?
 [2013-10-21 08:23:14] operatiay, quitting. (Remote host closed the connection)
 [2013-10-21 08:23:39] nirvdrum, joining. (#ios-driver)
+[2013-10-21 08:32:34] admc, joining. (#ios-driver)
