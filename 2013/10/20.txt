@@ -55,3 +55,6 @@
 [2013-10-20 19:51:03] admc, quitting. (Quit: Leaving.)
 [2013-10-20 19:57:14] admc, joining. (#ios-driver)
 [2013-10-20 19:57:44] admc, quitting. (Client Quit)
+[2013-10-20 20:05:53] malarkey, joining. (#ios-driver)
+[2013-10-20 20:06:03] malarkey: Hey
+[2013-10-20 20:06:20] malarkey: Does ios-driver work with iframes?
