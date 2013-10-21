@@ -58,3 +58,6 @@
 [2013-10-21 09:34:03] admc, joining. (#ios-driver)
 [2013-10-21 09:38:20] admc, quitting. (Ping timeout: 245 seconds)
 [2013-10-21 09:53:47] nirvdrum, quitting. (Ping timeout: 248 seconds)
+[2013-10-21 09:55:16] admc, joining. (#ios-driver)
+[2013-10-21 09:57:14] dimacus, quitting. (Read error: Connection reset by peer)
+[2013-10-21 09:57:35] dimacus, joining. (#ios-driver)
