@@ -62,3 +62,4 @@
 [2013-10-20 20:25:23] AutomatedTester, joining. (#ios-driver)
 [2013-10-20 21:45:40] santiycr, joining. (#ios-driver)
 [2013-10-20 21:59:59] smccarthy, quitting. (Remote host closed the connection)
+[2013-10-20 22:19:30] admc, joining. (#ios-driver)
