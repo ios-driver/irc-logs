@@ -60,3 +60,4 @@
 [2013-10-20 20:06:20] malarkey: Does ios-driver work with iframes?
 [2013-10-20 20:24:53] AutomatedTester, quitting. (Ping timeout: 248 seconds)
 [2013-10-20 20:25:23] AutomatedTester, joining. (#ios-driver)
+[2013-10-20 21:45:40] santiycr, joining. (#ios-driver)
