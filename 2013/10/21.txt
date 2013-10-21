@@ -37,3 +37,5 @@
 [2013-10-21 08:17:26] dimacus: freynaud_: nicegraham ping
 [2013-10-21 08:17:56] dimacus: one of my co-workers claims that ios-driver does not support setting cookies etc...
 [2013-10-21 08:18:09] dimacus: is that a feature that is planned to be added anytime soon?
+[2013-10-21 08:23:14] operatiay, quitting. (Remote host closed the connection)
+[2013-10-21 08:23:39] nirvdrum, joining. (#ios-driver)
