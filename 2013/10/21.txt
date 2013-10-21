@@ -3,3 +3,4 @@
 [2013-10-21 01:48:15] admc, quitting. (Quit: Leaving.)
 [2013-10-21 02:03:04] elstfi, joining. (#ios-driver)
 [2013-10-21 02:19:08] admc, joining. (#ios-driver)
+[2013-10-21 02:27:55] admc, quitting. (Ping timeout: 272 seconds)
