@@ -1,0 +1,1 @@
+[2013-10-21 01:18:08] tesgn, quitting. (Read error: Connection reset by peer)
