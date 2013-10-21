@@ -82,3 +82,4 @@
 [2013-10-21 13:54:09] gdennis, quitting. (Quit: gdennis)
 [2013-10-21 14:27:19] dimacus, quitting. (Quit: Leaving.)
 [2013-10-21 14:54:38] dimacus, joining. (#ios-driver)
+[2013-10-21 14:58:37] dimacus, quitting. (Client Quit)
