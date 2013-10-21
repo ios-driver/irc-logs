@@ -84,3 +84,4 @@
 [2013-10-21 14:54:38] dimacus, joining. (#ios-driver)
 [2013-10-21 14:58:37] dimacus, quitting. (Client Quit)
 [2013-10-21 15:39:01] nirvdrum, quitting. (Ping timeout: 246 seconds)
+[2013-10-21 16:09:37] admc, quitting. (Quit: Leaving.)
