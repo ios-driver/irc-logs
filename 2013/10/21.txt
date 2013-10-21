@@ -61,3 +61,4 @@
 [2013-10-21 09:55:16] admc, joining. (#ios-driver)
 [2013-10-21 09:57:14] dimacus, quitting. (Read error: Connection reset by peer)
 [2013-10-21 09:57:35] dimacus, joining. (#ios-driver)
+[2013-10-21 10:13:10] dimacus, quitting. (Quit: Leaving.)
