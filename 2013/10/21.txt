@@ -69,3 +69,4 @@
 [2013-10-21 10:39:28] admc, joining. (#ios-driver)
 [2013-10-21 10:43:43] admc1, quitting. (Ping timeout: 272 seconds)
 [2013-10-21 10:53:47] elstfi, quitting. (Quit: Leaving.)
+[2013-10-21 11:14:10] dimacus, joining. (#ios-driver)
