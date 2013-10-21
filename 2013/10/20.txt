@@ -64,3 +64,4 @@
 [2013-10-20 21:59:59] smccarthy, quitting. (Remote host closed the connection)
 [2013-10-20 22:19:30] admc, joining. (#ios-driver)
 [2013-10-20 22:22:56] santiycr, quitting. (Quit: Leaving.)
+[2013-10-20 23:25:14] malarkey, quitting. (Quit: Page closed)
