@@ -115,3 +115,4 @@
 [2013-10-22 13:19:21] operatiay, joining. (#ios-driver)
 [2013-10-22 13:20:47] operatiay, quitting. (Remote host closed the connection)
 [2013-10-22 13:37:29] admc, joining. (#ios-driver)
+[2013-10-22 13:45:09] gdennis, leaving. (#ios-driver)
