@@ -92,3 +92,6 @@
 [2013-10-21 16:56:45] admc, quitting. (Quit: Leaving.)
 [2013-10-21 17:03:41] admc, joining. (#ios-driver)
 [2013-10-21 17:13:11] smccarthy, quitting. (Remote host closed the connection)
+[2013-10-21 17:20:55] admc, quitting. (Read error: Connection reset by peer)
+[2013-10-21 17:21:01] admc1, joining. (#ios-driver)
+[2013-10-21 17:22:11] admc1, quitting. (Client Quit)
