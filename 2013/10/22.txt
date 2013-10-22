@@ -113,3 +113,4 @@
 [2013-10-22 12:15:52] admc, quitting. (Quit: Leaving.)
 [2013-10-22 13:14:56] jlipps, joining. (#ios-driver)
 [2013-10-22 13:19:21] operatiay, joining. (#ios-driver)
+[2013-10-22 13:20:47] operatiay, quitting. (Remote host closed the connection)
