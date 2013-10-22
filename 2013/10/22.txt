@@ -74,3 +74,13 @@
 [2013-10-22 08:39:02] nirvdrum: Okay.  So you manually created the VM first then?
 [2013-10-22 08:39:18] freynaud_: it takes about 1 min to build and boot an OSX image
 [2013-10-22 08:39:56] nirvdrum: My question is actually for linux :-P  I was trying to boot an ISO and automate an installation for grid.
+[2013-10-22 08:40:28] nirvdrum: Thanks though.
+[2013-10-22 08:40:50] freynaud_: for that we have a golden VM
+[2013-10-22 08:40:58] freynaud_: with the command center python stuff
+[2013-10-22 08:41:20] freynaud_: we clone from that, and it pulls the scripts from a git repo, and execute them
+[2013-10-22 08:41:24] freynaud_: and build what we need
+[2013-10-22 08:41:33] smccarthy, joining. (#ios-driver)
+[2013-10-22 08:42:00] freynaud_: if you're using vsphere5, I think you can use the execute on guest thing quite efficiently
+[2013-10-22 08:42:45] nirvdrum: I basically want to do what VMWare does on its own where you just specify the hostname, IP, user, etc. and it starts from scratch.
+[2013-10-22 08:43:00] nirvdrum: I'll research a bit more.  Barring that, I'll just create a template and call it a day.
+[2013-10-22 08:44:04] nirvdrum: This is one beast of an API.
