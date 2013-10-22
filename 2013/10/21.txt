@@ -114,3 +114,4 @@
 [2013-10-21 20:31:18] dimacus, quitting. (Client Quit)
 [2013-10-21 20:42:06] dimacus, joining. (#ios-driver)
 [2013-10-21 20:43:49] lukeis, joining. (#ios-driver)
+[2013-10-21 20:52:29] dimacus, quitting. (Quit: Leaving.)
