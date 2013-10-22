@@ -118,3 +118,4 @@
 [2013-10-21 20:57:40] dimacus, joining. (#ios-driver)
 [2013-10-21 20:59:56] dimacus, quitting. (Client Quit)
 [2013-10-21 21:58:20] admc, joining. (#ios-driver)
+[2013-10-21 22:21:46] smccarthy, quitting. (Remote host closed the connection)
