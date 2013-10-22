@@ -11,3 +11,4 @@
 [2013-10-22 02:10:49] operatiay, quitting. (Remote host closed the connection)
 [2013-10-22 02:40:08] admc, quitting. (Quit: Leaving.)
 [2013-10-22 02:51:43] chhsiung, joining. (#ios-driver)
+[2013-10-22 02:55:58] chhsiung, quitting. (Ping timeout: 245 seconds)
