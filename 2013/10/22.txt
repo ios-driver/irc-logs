@@ -65,3 +65,12 @@
 [2013-10-22 08:17:06] lukeis, joining. (#ios-driver)
 [2013-10-22 08:22:46] admc, joining. (#ios-driver)
 [2013-10-22 08:27:51] admc, quitting. (Ping timeout: 272 seconds)
+[2013-10-22 08:36:58] operatiay, joining. (#ios-driver)
+[2013-10-22 08:37:48] nirvdrum: freynaud_, nicegraham, lukeis: Not quite an ios-driver question, but are any of you familiar with the vSphere SDK?
+[2013-10-22 08:38:08] freynaud_: i used it
+[2013-10-22 08:38:18] lukeis: nope
+[2013-10-22 08:38:38] nirvdrum: freynaud_: Do you just clone VMs?  Or do you do unattended installations?
+[2013-10-22 08:38:50] freynaud_: i do linked clone
+[2013-10-22 08:39:02] nirvdrum: Okay.  So you manually created the VM first then?
+[2013-10-22 08:39:18] freynaud_: it takes about 1 min to build and boot an OSX image
+[2013-10-22 08:39:56] nirvdrum: My question is actually for linux :-P  I was trying to boot an ISO and automate an installation for grid.
