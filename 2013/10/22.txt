@@ -93,3 +93,5 @@
 [2013-10-22 09:15:01] operatiay, joining. (#ios-driver)
 [2013-10-22 09:21:35] operatiay: Hello, can anyone give me an update on libimobile situation? since ios-driver is not supporting real devices, we're now considering buying the libimobile license for that. is there something happening on that front?
 [2013-10-22 09:24:09] admc, joining. (#ios-driver)
+[2013-10-22 09:25:28] operatiay: or have I missed some documentation regarding native support?
+[2013-10-22 09:28:41] admc, quitting. (Ping timeout: 265 seconds)
