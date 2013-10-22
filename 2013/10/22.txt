@@ -110,3 +110,4 @@
 [2013-10-22 11:43:56] jlipps, quitting. (Quit: Leaving.)
 [2013-10-22 11:53:17] admc, quitting. (Quit: Leaving.)
 [2013-10-22 11:55:29] admc, joining. (#ios-driver)
+[2013-10-22 12:15:52] admc, quitting. (Quit: Leaving.)
