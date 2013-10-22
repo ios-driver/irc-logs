@@ -86,3 +86,5 @@
 [2013-10-22 08:44:04] nirvdrum: This is one beast of an API.
 [2013-10-22 08:53:29] admc, joining. (#ios-driver)
 [2013-10-22 08:58:09] admc, quitting. (Ping timeout: 272 seconds)
+[2013-10-22 09:00:07] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-22 09:04:45] operatiay, quitting. (Remote host closed the connection)
