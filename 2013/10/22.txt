@@ -43,3 +43,4 @@
 [2013-10-22 06:13:11] dimacus, quitting. (Quit: Leaving.)
 [2013-10-22 06:16:10] dimacus, joining. (#ios-driver)
 [2013-10-22 06:19:54] admc, joining. (#ios-driver)
+[2013-10-22 06:24:10] admc, quitting. (Ping timeout: 245 seconds)
