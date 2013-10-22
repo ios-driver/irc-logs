@@ -89,3 +89,4 @@
 [2013-10-21 16:30:21] admc, quitting. (Quit: Leaving.)
 [2013-10-21 16:33:09] lukeis, quitting. (Quit: Leaving.)
 [2013-10-21 16:34:41] admc, joining. (#ios-driver)
+[2013-10-21 16:56:45] admc, quitting. (Quit: Leaving.)
