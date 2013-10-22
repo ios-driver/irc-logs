@@ -121,3 +121,4 @@
 [2013-10-22 14:37:09] jlipps1, joining. (#ios-driver)
 [2013-10-22 14:38:03] jlipps, quitting. (Read error: Connection reset by peer)
 [2013-10-22 14:52:42] lukeis, quitting. (Quit: Leaving.)
+[2013-10-22 16:22:22] admc1, joining. (#ios-driver)
