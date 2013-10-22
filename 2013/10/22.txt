@@ -58,3 +58,6 @@
 [2013-10-22 07:33:03] operatiay, joining. (#ios-driver)
 [2013-10-22 07:48:12] dimacus, quitting. (Quit: Leaving.)
 [2013-10-22 07:52:01] admc, joining. (#ios-driver)
+[2013-10-22 07:56:14] admc, quitting. (Ping timeout: 240 seconds)
+[2013-10-22 07:56:57] dimacus, joining. (#ios-driver)
+[2013-10-22 07:57:26] dimacus, quitting. (Client Quit)
