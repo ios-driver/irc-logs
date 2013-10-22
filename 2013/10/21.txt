@@ -107,3 +107,5 @@
 [2013-10-21 18:22:24] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-21 18:55:48] smccarthy, joining. (#ios-driver)
 [2013-10-21 19:14:31] admc, quitting. (Quit: Leaving.)
+[2013-10-21 19:16:40] dimacus, joining. (#ios-driver)
+[2013-10-21 19:18:02] chhsiung, joining. (#ios-driver)
