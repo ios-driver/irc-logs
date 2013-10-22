@@ -29,3 +29,5 @@
 [2013-10-22 04:37:09] dimacus, joining. (#ios-driver)
 [2013-10-22 04:39:20] lukeis, quitting. (Quit: Leaving.)
 [2013-10-22 04:48:05] admc, joining. (#ios-driver)
+[2013-10-22 04:52:31] admc, quitting. (Ping timeout: 245 seconds)
+[2013-10-22 04:53:41] chhsiung, joining. (#ios-driver)
