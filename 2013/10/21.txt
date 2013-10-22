@@ -110,3 +110,4 @@
 [2013-10-21 19:16:40] dimacus, joining. (#ios-driver)
 [2013-10-21 19:18:02] chhsiung, joining. (#ios-driver)
 [2013-10-21 20:24:39] dimacus, quitting. (Quit: Leaving.)
+[2013-10-21 20:29:19] dimacus, joining. (#ios-driver)
