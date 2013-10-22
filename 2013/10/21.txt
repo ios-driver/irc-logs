@@ -96,3 +96,4 @@
 [2013-10-21 17:21:01] admc1, joining. (#ios-driver)
 [2013-10-21 17:22:11] admc1, quitting. (Client Quit)
 [2013-10-21 17:25:38] dimacus, joining. (#ios-driver)
+[2013-10-21 17:41:52] chhsiung, quitting. (Quit: Leaving.)
