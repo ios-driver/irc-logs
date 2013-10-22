@@ -49,3 +49,5 @@
 [2013-10-22 06:46:56] operatiay, quitting. (Remote host closed the connection)
 [2013-10-22 06:50:24] gdennis, joining. (#ios-driver)
 [2013-10-22 06:50:34] admc, joining. (#ios-driver)
+[2013-10-22 06:55:28] admc, quitting. (Ping timeout: 265 seconds)
+[2013-10-22 06:58:54] operatiay, joining. (#ios-driver)
