@@ -56,3 +56,4 @@
 [2013-10-22 07:29:16] dimacus, joining. (#ios-driver)
 [2013-10-22 07:30:30] operatiay, quitting. (Remote host closed the connection)
 [2013-10-22 07:33:03] operatiay, joining. (#ios-driver)
+[2013-10-22 07:48:12] dimacus, quitting. (Quit: Leaving.)
