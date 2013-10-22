@@ -84,3 +84,4 @@
 [2013-10-22 08:42:45] nirvdrum: I basically want to do what VMWare does on its own where you just specify the hostname, IP, user, etc. and it starts from scratch.
 [2013-10-22 08:43:00] nirvdrum: I'll research a bit more.  Barring that, I'll just create a template and call it a day.
 [2013-10-22 08:44:04] nirvdrum: This is one beast of an API.
+[2013-10-22 08:53:29] admc, joining. (#ios-driver)
