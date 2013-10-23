@@ -53,3 +53,5 @@
 [2013-10-23 08:48:48] elstfi, quitting. (Client Quit)
 [2013-10-23 08:49:45] elstfi, joining. (#ios-driver)
 [2013-10-23 08:57:56] Shish: looks like -Dmaven.test.skip=true just packages without running the server; new jar still not working with new xcode though :<  will try downgrading~
+[2013-10-23 09:06:38] psp250, joining. (#ios-driver)
+[2013-10-23 09:09:48] operatia_, quitting. (Remote host closed the connection)
