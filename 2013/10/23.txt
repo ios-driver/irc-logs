@@ -63,3 +63,5 @@
 [2013-10-23 09:57:59] admc, joining. (#ios-driver)
 [2013-10-23 10:01:43] gdennis, quitting. (Remote host closed the connection)
 [2013-10-23 10:02:01] gdennis, joining. (#ios-driver)
+[2013-10-23 10:39:04] nicegraham: Shish: you'll need to look at the refactor branch
+[2013-10-23 10:39:18] nicegraham: that's what we're using and it's working on ios7 for us
