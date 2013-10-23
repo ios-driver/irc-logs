@@ -126,3 +126,4 @@
 [2013-10-22 17:41:56] smccarthy, quitting. (Remote host closed the connection)
 [2013-10-22 17:47:53] joevans, quitting. (Quit: joevans)
 [2013-10-22 19:02:13] jlipps1, quitting. (Quit: Leaving.)
+[2013-10-22 20:03:49] smccarthy, joining. (#ios-driver)
