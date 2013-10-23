@@ -33,3 +33,6 @@
 [2013-10-23 07:03:29] operatiay, joining. (#ios-driver)
 [2013-10-23 07:03:35] operatiay, quitting. (Remote host closed the connection)
 [2013-10-23 07:07:17] elstfi, joining. (#ios-driver)
+[2013-10-23 07:15:17] elstfi, quitting. (Quit: Leaving.)
+[2013-10-23 07:16:09] elstfi, joining. (#ios-driver)
+[2013-10-23 07:18:45] elstfi, quitting. (Client Quit)
