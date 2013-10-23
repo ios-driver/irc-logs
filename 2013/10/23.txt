@@ -46,3 +46,5 @@
 [2013-10-23 08:29:16] Shish, joining. (#ios-driver)
 [2013-10-23 08:30:15] Shish: are there any instructions for compiling from source? Trying to get a fresh ios-server.jar, tried download -> mvn compile (works) -> mvn package (seems to run the server, which sits there doing nothing)
 [2013-10-23 08:31:02] Shish: (The original reason for this being to see if Xcode5 support is working at all yet, as it seemed to be discussed without conclusion)
+[2013-10-23 08:40:22] elstfi, quitting. (Quit: Leaving.)
+[2013-10-23 08:40:38] elstfi, joining. (#ios-driver)
