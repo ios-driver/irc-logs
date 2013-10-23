@@ -38,3 +38,4 @@
 [2013-10-23 07:18:45] elstfi, quitting. (Client Quit)
 [2013-10-23 07:35:25] elstfi, joining. (#ios-driver)
 [2013-10-23 07:38:40] operatiay, joining. (#ios-driver)
+[2013-10-23 07:41:01] chhsiung, joining. (#ios-driver)
