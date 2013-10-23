@@ -68,3 +68,4 @@
 [2013-10-23 10:48:21] gdennis, quitting. (Quit: gdennis)
 [2013-10-23 11:26:09] admc, quitting. (Quit: Leaving.)
 [2013-10-23 11:34:53] joevans, joining. (#ios-driver)
+[2013-10-23 11:43:41] admc, joining. (#ios-driver)
