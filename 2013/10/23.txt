@@ -58,3 +58,4 @@
 [2013-10-23 09:10:20] operatiay, joining. (#ios-driver)
 [2013-10-23 09:11:24] operatiay, quitting. (Remote host closed the connection)
 [2013-10-23 09:11:37] operatiay, joining. (#ios-driver)
+[2013-10-23 09:43:31] elstfi, quitting. (Read error: Operation timed out)
