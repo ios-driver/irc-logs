@@ -7,3 +7,8 @@
 [2013-10-24 10:39:45] admc, quitting. (Client Quit)
 [2013-10-24 10:40:58] admc, joining. (#ios-driver)
 [2013-10-24 10:47:43] elstfi, quitting. (Quit: Leaving.)
+[2013-10-24 12:01:38] operatiay, joining. (#ios-driver)
+[2013-10-24 12:03:30] ios-driver-git, joining. (#ios-driver)
+[2013-10-24 12:03:31] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/hJ2CvA
+[2013-10-24 12:03:31] ios-driver-git, leaving. (#ios-driver)
+[2013-10-24 12:03:31] ios-driver-git: ios-driver/refactor a0464ea rsalvador: Allow running sdkVersions older than 7.0.
