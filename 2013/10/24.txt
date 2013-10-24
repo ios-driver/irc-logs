@@ -21,3 +21,7 @@
 [2013-10-24 13:37:19] ios-driver-git, leaving. (#ios-driver)
 [2013-10-24 13:48:54] phasze, joining. (#ios-driver)
 [2013-10-24 13:59:23] gdennis, quitting. (Quit: gdennis)
+[2013-10-24 14:48:53] ios-driver-git, joining. (#ios-driver)
+[2013-10-24 14:48:54] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/6pa-sQ
+[2013-10-24 14:48:54] ios-driver-git: ios-driver/refactor 407cc3f rsalvador: Added instruments_no_delay/5.0.1/51168.
+[2013-10-24 14:48:54] ios-driver-git, leaving. (#ios-driver)
