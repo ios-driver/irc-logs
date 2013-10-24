@@ -1,1 +1,7 @@
 [2013-10-24 08:54:55] ios-driverbot, joining. (#ios-driver)
+[2013-10-24 10:38:52] admc, joining. (#ios-driver)
+[2013-10-24 10:39:00] admc, quitting. (Client Quit)
+[2013-10-24 10:39:17] admc, joining. (#ios-driver)
+[2013-10-24 10:39:27] admc, quitting. (Client Quit)
+[2013-10-24 10:39:45] admc, joining. (#ios-driver)
+[2013-10-24 10:39:45] admc, quitting. (Client Quit)
