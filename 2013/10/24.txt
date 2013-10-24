@@ -12,3 +12,4 @@
 [2013-10-24 12:03:31] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/hJ2CvA
 [2013-10-24 12:03:31] ios-driver-git, leaving. (#ios-driver)
 [2013-10-24 12:03:31] ios-driver-git: ios-driver/refactor a0464ea rsalvador: Allow running sdkVersions older than 7.0.
+[2013-10-24 12:05:58] operatiay, quitting. (Ping timeout: 240 seconds)
