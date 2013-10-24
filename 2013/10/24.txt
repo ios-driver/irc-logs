@@ -20,3 +20,4 @@
 [2013-10-24 13:37:19] ios-driver-git: ios-driver/refactor 0450de5 rsalvador: Make restoring MobileSafari.app more robust.
 [2013-10-24 13:37:19] ios-driver-git, leaving. (#ios-driver)
 [2013-10-24 13:48:54] phasze, joining. (#ios-driver)
+[2013-10-24 13:59:23] gdennis, quitting. (Quit: gdennis)
