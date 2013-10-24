@@ -26,3 +26,4 @@
 [2013-10-24 14:48:54] ios-driver-git: ios-driver/refactor 407cc3f rsalvador: Added instruments_no_delay/5.0.1/51168.
 [2013-10-24 14:48:54] ios-driver-git, leaving. (#ios-driver)
 [2013-10-24 15:37:15] nirvdrum, quitting. (Ping timeout: 248 seconds)
+[2013-10-24 16:03:48] operatiay, joining. (#ios-driver)
