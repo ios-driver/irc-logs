@@ -44,3 +44,7 @@
 [2013-10-25 09:27:32] elstfi, joining. (#ios-driver)
 [2013-10-25 09:35:42] lukeis, joining. (#ios-driver)
 [2013-10-25 10:12:38] elstfi, quitting. (Quit: Leaving.)
+[2013-10-25 10:39:28] ios-driver-git, joining. (#ios-driver)
+[2013-10-25 10:39:29] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/0qj8pQ
+[2013-10-25 10:39:29] ios-driver-git: ios-driver/refactor 06fa4f7 rsalvador: Support for Xcode 5.0.1...
+[2013-10-25 10:39:29] ios-driver-git, leaving. (#ios-driver)
