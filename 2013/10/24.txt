@@ -40,3 +40,4 @@
 [2013-10-24 19:00:01] chhsiung, joining. (#ios-driver)
 [2013-10-24 19:01:10] dawagner, quitting. (Quit: Leaving)
 [2013-10-24 19:11:14] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-24 19:35:36] lukeis, quitting. (Quit: Leaving.)
