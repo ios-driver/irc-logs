@@ -48,3 +48,4 @@
 [2013-10-25 10:39:29] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/0qj8pQ
 [2013-10-25 10:39:29] ios-driver-git: ios-driver/refactor 06fa4f7 rsalvador: Support for Xcode 5.0.1...
 [2013-10-25 10:39:29] ios-driver-git, leaving. (#ios-driver)
+[2013-10-25 12:38:26] gdennis, leaving. (#ios-driver)
