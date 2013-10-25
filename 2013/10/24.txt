@@ -41,3 +41,5 @@
 [2013-10-24 19:01:10] dawagner, quitting. (Quit: Leaving)
 [2013-10-24 19:11:14] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-24 19:35:36] lukeis, quitting. (Quit: Leaving.)
+[2013-10-24 20:05:23] operatiay, joining. (#ios-driver)
+[2013-10-24 20:09:33] operatiay, quitting. (Ping timeout: 240 seconds)
