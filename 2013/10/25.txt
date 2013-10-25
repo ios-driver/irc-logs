@@ -33,3 +33,4 @@
 [2013-10-25 06:36:41] chhsiung, joining. (#ios-driver)
 [2013-10-25 06:40:08] chhsiung, quitting. (Read error: No route to host)
 [2013-10-25 06:54:00] chhsiung, joining. (#ios-driver)
+[2013-10-25 06:57:34] chhsiung, quitting. (Client Quit)
