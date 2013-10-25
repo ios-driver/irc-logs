@@ -57,3 +57,4 @@
 [2013-10-25 14:09:52] operatiay, joining. (#ios-driver)
 [2013-10-25 14:14:08] operatiay, quitting. (Ping timeout: 240 seconds)
 [2013-10-25 15:00:24] lukeis, quitting. (Quit: Leaving.)
+[2013-10-25 15:26:29] admc, quitting. (Quit: Leaving.)
