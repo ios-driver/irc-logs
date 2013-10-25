@@ -50,3 +50,4 @@
 [2013-10-25 10:39:29] ios-driver-git, leaving. (#ios-driver)
 [2013-10-25 12:38:26] gdennis, leaving. (#ios-driver)
 [2013-10-25 13:33:49] admc, joining. (#ios-driver)
+[2013-10-25 13:48:33] admc, quitting. (Quit: Leaving.)
