@@ -34,3 +34,5 @@
 [2013-10-24 18:07:15] admc, joining. (#ios-driver)
 [2013-10-24 18:24:56] nirvdrum, joining. (#ios-driver)
 [2013-10-24 18:25:16] admc, quitting. (Quit: Leaving.)
+[2013-10-24 18:31:11] admc, joining. (#ios-driver)
+[2013-10-24 18:33:33] admc, quitting. (Client Quit)
