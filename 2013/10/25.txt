@@ -51,3 +51,6 @@
 [2013-10-25 12:38:26] gdennis, leaving. (#ios-driver)
 [2013-10-25 13:33:49] admc, joining. (#ios-driver)
 [2013-10-25 13:48:33] admc, quitting. (Quit: Leaving.)
+[2013-10-25 13:51:11] admc, joining. (#ios-driver)
+[2013-10-25 13:51:16] admc, quitting. (Client Quit)
+[2013-10-25 13:51:24] admc, joining. (#ios-driver)
