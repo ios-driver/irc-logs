@@ -40,3 +40,5 @@
 [2013-10-25 08:39:05] smccarthy, joining. (#ios-driver)
 [2013-10-25 08:48:05] elstfi, quitting. (Quit: Leaving.)
 [2013-10-25 08:50:34] elstfi, joining. (#ios-driver)
+[2013-10-25 09:26:31] elstfi, quitting. (Quit: Leaving.)
+[2013-10-25 09:27:32] elstfi, joining. (#ios-driver)
