@@ -81,3 +81,5 @@
 [2013-10-25 21:57:30] admc, joining. (#ios-driver)
 [2013-10-25 22:08:42] joevans, quitting. (Quit: joevans)
 [2013-10-25 22:13:35] operatiay, joining. (#ios-driver)
+[2013-10-25 22:16:23] admc, quitting. (Quit: Leaving.)
+[2013-10-25 22:17:58] operatiay, quitting. (Ping timeout: 246 seconds)
