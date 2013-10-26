@@ -69,3 +69,7 @@
 [2013-10-25 17:01:16] ios-driver-git, leaving. (#ios-driver)
 [2013-10-25 17:01:16] ios-driver-git: ios-driver/dev 8e51686 Jason Evans: Use JSTemplate where relevant in server/command/web/*.java .
 [2013-10-25 17:01:16] ios-driver-git: ios-driver/dev ecf37e9 Jason Evans: Fix spelling errors that affect internal APIs.
+[2013-10-25 17:10:44] ios-driver-git, joining. (#ios-driver)
+[2013-10-25 17:10:44] ios-driver-git: [ios-driver] jasone pushed 1 new commit to dev: http://git.io/no_fug
+[2013-10-25 17:10:44] ios-driver-git: ios-driver/dev ac4bd91 Jason Evans: Revert unintended changes to default logging levels.
+[2013-10-25 17:10:44] ios-driver-git, leaving. (#ios-driver)
