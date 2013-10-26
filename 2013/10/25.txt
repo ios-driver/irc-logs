@@ -74,3 +74,4 @@
 [2013-10-25 17:10:44] ios-driver-git: ios-driver/dev ac4bd91 Jason Evans: Revert unintended changes to default logging levels.
 [2013-10-25 17:10:44] ios-driver-git, leaving. (#ios-driver)
 [2013-10-25 17:20:35] smccarthy, quitting. (Remote host closed the connection)
+[2013-10-25 18:31:32] admc, quitting. (Quit: Leaving.)
