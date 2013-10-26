@@ -62,3 +62,10 @@
 [2013-10-25 16:12:04] admc, quitting. (Quit: Leaving.)
 [2013-10-25 16:34:26] admc, joining. (#ios-driver)
 [2013-10-25 16:49:54] admc, quitting. (Quit: Leaving.)
+[2013-10-25 17:00:55] admc, joining. (#ios-driver)
+[2013-10-25 17:01:16] ios-driver-git, joining. (#ios-driver)
+[2013-10-25 17:01:16] ios-driver-git: [ios-driver] jasone pushed 4 new commits to dev: http://git.io/0R6GRw
+[2013-10-25 17:01:16] ios-driver-git: ios-driver/dev 3b5bdbc Jason Evans: Miscellaneous whitespace/comment fixes.
+[2013-10-25 17:01:16] ios-driver-git, leaving. (#ios-driver)
+[2013-10-25 17:01:16] ios-driver-git: ios-driver/dev 8e51686 Jason Evans: Use JSTemplate where relevant in server/command/web/*.java .
+[2013-10-25 17:01:16] ios-driver-git: ios-driver/dev ecf37e9 Jason Evans: Fix spelling errors that affect internal APIs.
