@@ -5,3 +5,5 @@
 [2013-10-26 09:34:49] nirvdrum, joining. (#ios-driver)
 [2013-10-26 11:01:08] admc, joining. (#ios-driver)
 [2013-10-26 12:08:04] admc, quitting. (Quit: Leaving.)
+[2013-10-26 12:19:30] smccarthy, joining. (#ios-driver)
+[2013-10-26 12:19:33] Guest21064, quitting. (Ping timeout: 250 seconds)
