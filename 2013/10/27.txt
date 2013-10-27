@@ -4,3 +4,4 @@
 [2013-10-27 06:39:01] psp250, quitting. (Quit: Leaving)
 [2013-10-27 08:10:25] elstfi, joining. (#ios-driver)
 [2013-10-27 09:14:09] elstfi, quitting. (Quit: Leaving.)
+[2013-10-27 09:17:15] smccarthy, joining. (#ios-driver)
