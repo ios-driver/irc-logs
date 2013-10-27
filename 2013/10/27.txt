@@ -1,3 +1,4 @@
 [2013-10-27 05:54:49] psp250, joining. (#ios-driver)
 [2013-10-27 06:26:47] operatiay, joining. (#ios-driver)
 [2013-10-27 06:31:08] operatiay, quitting. (Ping timeout: 240 seconds)
+[2013-10-27 06:39:01] psp250, quitting. (Quit: Leaving)
