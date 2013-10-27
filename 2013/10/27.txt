@@ -11,3 +11,4 @@
 [2013-10-27 11:54:27] smccarthy, quitting. (Remote host closed the connection)
 [2013-10-27 12:40:35] admc, quitting. (Quit: Leaving.)
 [2013-10-27 14:30:46] operatiay, joining. (#ios-driver)
+[2013-10-27 14:35:49] operatiay, quitting. (Ping timeout: 272 seconds)
