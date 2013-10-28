@@ -42,3 +42,6 @@
 [2013-10-28 09:34:12] gdennis, quitting. (Remote host closed the connection)
 [2013-10-28 09:37:33] elstfi, joining. (#ios-driver)
 [2013-10-28 10:09:20] elstfi1, joining. (#ios-driver)
+[2013-10-28 10:11:56] elstfi, quitting. (Ping timeout: 260 seconds)
+[2013-10-28 10:12:51] gdennis, joining. (#ios-driver)
+[2013-10-28 10:13:43] joevans, joining. (#ios-driver)
