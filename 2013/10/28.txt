@@ -33,3 +33,4 @@
 [2013-10-28 08:41:54] lukeis, joining. (#ios-driver)
 [2013-10-28 08:42:28] operatiay, quitting. (Ping timeout: 240 seconds)
 [2013-10-28 08:50:58] phasze: in my attempts to set up my environment to run this I can get to /hub/status on the localhost but I don't see anything under "supportedApps
+[2013-10-28 09:00:09] elstfi, joining. (#ios-driver)
