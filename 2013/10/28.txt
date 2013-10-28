@@ -52,3 +52,4 @@
 [2013-10-28 12:21:57] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-28 12:24:42] chhsiung, joining. (#ios-driver)
 [2013-10-28 13:54:32] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-28 13:58:47] chhsiung, joining. (#ios-driver)
