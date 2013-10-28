@@ -45,3 +45,4 @@
 [2013-10-28 10:11:56] elstfi, quitting. (Ping timeout: 260 seconds)
 [2013-10-28 10:12:51] gdennis, joining. (#ios-driver)
 [2013-10-28 10:13:43] joevans, joining. (#ios-driver)
+[2013-10-28 10:25:00] nirvdrum, quitting. (Ping timeout: 260 seconds)
