@@ -23,3 +23,4 @@
 [2013-10-28 07:35:05] nirvdrum, joining. (#ios-driver)
 [2013-10-28 07:37:15] elstfi, quitting. (Ping timeout: 248 seconds)
 [2013-10-28 07:46:40] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-28 07:59:16] chhsiung, joining. (#ios-driver)
