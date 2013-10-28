@@ -66,3 +66,8 @@
 [2013-10-28 16:28:01] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/9EE4Tg
 [2013-10-28 16:28:01] ios-driver-git: ios-driver/refactor 39181c3 rsalvador: Wait after refresh to avoid "RemoteExceptionException: Inspected frame...
 [2013-10-28 16:28:01] ios-driver-git, leaving. (#ios-driver)
+[2013-10-28 16:31:42] ios-driver-git, joining. (#ios-driver)
+[2013-10-28 16:31:42] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/sVQkaA
+[2013-10-28 16:31:42] ios-driver-git, leaving. (#ios-driver)
+[2013-10-28 16:31:42] ios-driver-git: ios-driver/refactor bb55c04 rsalvador: Handle Keys.RETURN/ENTER cases in RemoteWebElement.setValueAtoms()
+[2013-10-28 16:33:27] joevans, quitting. (Quit: joevans)
