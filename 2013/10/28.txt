@@ -36,3 +36,4 @@
 [2013-10-28 09:00:09] elstfi, joining. (#ios-driver)
 [2013-10-28 09:08:52] phasze: ah got it, needed "-simulators"
 [2013-10-28 09:10:24] admc, joining. (#ios-driver)
+[2013-10-28 09:28:13] admc, quitting. (Quit: Leaving.)
