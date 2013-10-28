@@ -26,3 +26,4 @@
 [2013-10-28 07:59:16] chhsiung, joining. (#ios-driver)
 [2013-10-28 08:01:20] elstfi1, quitting. (Quit: Leaving.)
 [2013-10-28 08:01:54] chhsiung, quitting. (Client Quit)
+[2013-10-28 08:26:12] gdennis, joining. (#ios-driver)
