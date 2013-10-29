@@ -17,3 +17,4 @@
 [2013-10-29 05:52:39] elstfi, quitting. (Quit: Leaving.)
 [2013-10-29 06:29:18] Guest7564: Hello guys, may be somebody can help me.  I am working with hybrid app, so I have to switch between Native and Web view. When I execute this line: driver.getWebDriver().switchTo().window("Native"); (getWebDriver() returns RemoteWebDriver) I get the exception in ios-server console: 'org.openqa.selenium.WebDriverException: Cannot find session :sessionId on the sesver...' .  In fact, switching between windows works - I can  access
 [2013-10-29 06:29:45] Guest7564: I am wondering is it normal to have this exection ?
+[2013-10-29 06:30:20] Guest7564: *exception
