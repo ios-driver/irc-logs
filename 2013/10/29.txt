@@ -29,3 +29,4 @@
 [2013-10-29 08:45:25] gdennis, joining. (#ios-driver)
 [2013-10-29 08:49:49] chhsiung, joining. (#ios-driver)
 [2013-10-29 08:49:53] operatiay, quitting. (Remote host closed the connection)
+[2013-10-29 08:58:26] chhsiung, quitting. (Quit: Leaving.)
