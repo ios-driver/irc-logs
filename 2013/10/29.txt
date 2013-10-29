@@ -23,3 +23,5 @@
 [2013-10-29 07:54:00] lukeis, joining. (#ios-driver)
 [2013-10-29 08:02:31] elstfi, quitting. (Quit: Leaving.)
 [2013-10-29 08:10:56] elstfi, joining. (#ios-driver)
+[2013-10-29 08:27:24] smccarthy, joining. (#ios-driver)
+[2013-10-29 08:27:32] joevans, quitting. (Read error: Connection reset by peer)
