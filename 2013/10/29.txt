@@ -26,3 +26,6 @@
 [2013-10-29 08:27:24] smccarthy, joining. (#ios-driver)
 [2013-10-29 08:27:32] joevans, quitting. (Read error: Connection reset by peer)
 [2013-10-29 08:33:58] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-29 08:45:25] gdennis, joining. (#ios-driver)
+[2013-10-29 08:49:49] chhsiung, joining. (#ios-driver)
+[2013-10-29 08:49:53] operatiay, quitting. (Remote host closed the connection)
