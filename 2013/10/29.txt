@@ -3,3 +3,4 @@
 [2013-10-29 00:48:52] operatiay, quitting. (Ping timeout: 246 seconds)
 [2013-10-29 02:41:01] operatiay, joining. (#ios-driver)
 [2013-10-29 02:55:52] elstfi, joining. (#ios-driver)
+[2013-10-29 03:24:09] elstfi, quitting. (Quit: Leaving.)
