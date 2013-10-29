@@ -79,3 +79,5 @@
 [2013-10-28 17:58:53] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-10-28 18:04:53] chhsiung, joining. (#ios-driver)
 [2013-10-28 19:33:48] joevans, joining. (#ios-driver)
+[2013-10-28 19:47:00] joevans, quitting. (Read error: Connection reset by peer)
+[2013-10-28 19:47:40] joevans, joining. (#ios-driver)
