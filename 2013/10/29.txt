@@ -21,3 +21,4 @@
 [2013-10-29 07:28:31] elstfi, joining. (#ios-driver)
 [2013-10-29 07:50:45] operatiay, joining. (#ios-driver)
 [2013-10-29 07:54:00] lukeis, joining. (#ios-driver)
+[2013-10-29 08:02:31] elstfi, quitting. (Quit: Leaving.)
