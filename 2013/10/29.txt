@@ -30,3 +30,5 @@
 [2013-10-29 08:49:49] chhsiung, joining. (#ios-driver)
 [2013-10-29 08:49:53] operatiay, quitting. (Remote host closed the connection)
 [2013-10-29 08:58:26] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-29 10:00:38] elstfi1, joining. (#ios-driver)
+[2013-10-29 10:04:09] elstfi, quitting. (Ping timeout: 272 seconds)
