@@ -71,3 +71,4 @@
 [2013-10-28 16:31:42] ios-driver-git, leaving. (#ios-driver)
 [2013-10-28 16:31:42] ios-driver-git: ios-driver/refactor bb55c04 rsalvador: Handle Keys.RETURN/ENTER cases in RemoteWebElement.setValueAtoms()
 [2013-10-28 16:33:27] joevans, quitting. (Quit: joevans)
+[2013-10-28 17:05:57] nirvdrum, quitting. (Ping timeout: 248 seconds)
