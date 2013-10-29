@@ -68,3 +68,5 @@
 [2013-10-29 16:09:18] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-10-29 16:14:24] Hammertime38, joining. (#ios-driver)
 [2013-10-29 16:14:58] Hammertime38, quitting. (Remote host closed the connection)
+[2013-10-29 16:36:34] chhsiung, joining. (#ios-driver)
+[2013-10-29 16:37:27] smccarthy, quitting. (Remote host closed the connection)
