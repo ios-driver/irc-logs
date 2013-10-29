@@ -60,3 +60,4 @@
 [2013-10-29 14:07:36] phasze, quitting. (*.net *.split)
 [2013-10-29 14:10:45] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-29 14:14:30] phasze, joining. (#ios-driver)
+[2013-10-29 14:56:58] chhsiung, joining. (#ios-driver)
