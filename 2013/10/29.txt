@@ -8,3 +8,4 @@
 [2013-10-29 03:25:17] elstfi, joining. (#ios-driver)
 [2013-10-29 03:27:15] chhsiung, joining. (#ios-driver)
 [2013-10-29 03:58:36] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-29 04:06:08] chhsiung, joining. (#ios-driver)
