@@ -7,3 +7,4 @@
 [2013-10-29 03:25:07] chhsiung, quitting. (Read error: Connection reset by peer)
 [2013-10-29 03:25:17] elstfi, joining. (#ios-driver)
 [2013-10-29 03:27:15] chhsiung, joining. (#ios-driver)
+[2013-10-29 03:58:36] chhsiung, quitting. (Quit: Leaving.)
