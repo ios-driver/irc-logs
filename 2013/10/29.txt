@@ -50,3 +50,4 @@
 [2013-10-29 10:59:37] admc1, quitting. (Ping timeout: 246 seconds)
 [2013-10-29 11:29:49] elstfi, quitting. (Quit: Leaving.)
 [2013-10-29 12:12:01] admc, quitting. (Quit: Leaving.)
+[2013-10-29 12:55:43] smccarthy, quitting. (Remote host closed the connection)
