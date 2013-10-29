@@ -48,3 +48,4 @@
 [2013-10-29 10:55:24] admc, quitting. (Read error: Connection reset by peer)
 [2013-10-29 10:55:37] admc, joining. (#ios-driver)
 [2013-10-29 10:59:37] admc1, quitting. (Ping timeout: 246 seconds)
+[2013-10-29 11:29:49] elstfi, quitting. (Quit: Leaving.)
