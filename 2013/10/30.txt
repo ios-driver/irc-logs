@@ -60,3 +60,6 @@
 [2013-10-30 09:03:35] dogface, joining. (#ios-driver)
 [2013-10-30 09:10:40] dogface, quitting. (Ping timeout: 264 seconds)
 [2013-10-30 09:10:59] famska, quitting. (Quit: Page closed)
+[2013-10-30 09:42:26] operatiay, quitting. (Remote host closed the connection)
+[2013-10-30 09:42:59] operatiay, joining. (#ios-driver)
+[2013-10-30 09:43:01] elstfi1, quitting. (Quit: Leaving.)
