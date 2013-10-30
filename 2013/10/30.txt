@@ -8,3 +8,5 @@
 [2013-10-30 01:34:56] famska: Locally test continue to execute, but on Hudson it leads to terminate the job
 [2013-10-30 01:49:52] chhsiung, joining. (#ios-driver)
 [2013-10-30 01:53:53] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-10-30 02:20:26] chhsiung, joining. (#ios-driver)
+[2013-10-30 02:24:43] chhsiung, quitting. (Ping timeout: 245 seconds)
