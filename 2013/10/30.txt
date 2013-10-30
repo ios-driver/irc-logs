@@ -57,3 +57,4 @@
 [2013-10-30 08:52:21] lukeis, joining. (#ios-driver)
 [2013-10-30 08:53:38] elstfi1, joining. (#ios-driver)
 [2013-10-30 08:56:35] elstfi, quitting. (Ping timeout: 272 seconds)
+[2013-10-30 09:03:35] dogface, joining. (#ios-driver)
