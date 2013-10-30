@@ -58,3 +58,5 @@
 [2013-10-30 08:53:38] elstfi1, joining. (#ios-driver)
 [2013-10-30 08:56:35] elstfi, quitting. (Ping timeout: 272 seconds)
 [2013-10-30 09:03:35] dogface, joining. (#ios-driver)
+[2013-10-30 09:10:40] dogface, quitting. (Ping timeout: 264 seconds)
+[2013-10-30 09:10:59] famska, quitting. (Quit: Page closed)
