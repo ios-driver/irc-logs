@@ -52,3 +52,5 @@
 [2013-10-30 07:49:37] dawagner, quitting. (Quit: Leaving)
 [2013-10-30 08:04:05] chhsiung, joining. (#ios-driver)
 [2013-10-30 08:12:34] elstfi, quitting. (Quit: Leaving.)
+[2013-10-30 08:15:08] gdennis, joining. (#ios-driver)
+[2013-10-30 08:16:12] elstfi, joining. (#ios-driver)
