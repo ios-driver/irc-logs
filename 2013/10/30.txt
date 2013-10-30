@@ -47,3 +47,6 @@
 [2013-10-30 07:30:31] nirvdrum, joining. (#ios-driver)
 [2013-10-30 07:42:34] webunion, joining. (#ios-driver)
 [2013-10-30 07:43:19] dawagner, joining. (#ios-driver)
+[2013-10-30 07:48:10] operatiay, joining. (#ios-driver)
+[2013-10-30 07:48:31] webunion, quitting. (Remote host closed the connection)
+[2013-10-30 07:49:37] dawagner, quitting. (Quit: Leaving)
