@@ -72,3 +72,4 @@
 [2013-10-30 11:51:16] admc, quitting. (Quit: Leaving.)
 [2013-10-30 12:02:31] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-30 12:03:24] chhsiung, joining. (#ios-driver)
+[2013-10-30 12:12:37] lukeis, quitting. (Quit: Leaving.)
