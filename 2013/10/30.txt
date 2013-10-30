@@ -44,3 +44,4 @@
 [2013-10-30 07:17:42] elstfi, quitting. (Quit: Leaving.)
 [2013-10-30 07:25:22] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-30 07:28:40] elstfi, joining. (#ios-driver)
+[2013-10-30 07:30:31] nirvdrum, joining. (#ios-driver)
