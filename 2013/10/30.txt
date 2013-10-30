@@ -4,3 +4,5 @@
 [2013-10-30 01:23:28] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-10-30 01:26:51] admc, quitting. (Quit: Leaving.)
 [2013-10-30 01:29:12] famska, joining. (#ios-driver)
+[2013-10-30 01:34:08] famska: Hey! Could anybody help me with this error: org.openqa.selenium.WebDriverException: Cannot find session :sessionId on the sesver. It appears when I use method driver.switchto().window("Native") or driver.switchto().window("Web")
+[2013-10-30 01:34:56] famska: Locally test continue to execute, but on Hudson it leads to terminate the job
