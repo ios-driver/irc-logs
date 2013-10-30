@@ -50,3 +50,4 @@
 [2013-10-30 07:48:10] operatiay, joining. (#ios-driver)
 [2013-10-30 07:48:31] webunion, quitting. (Remote host closed the connection)
 [2013-10-30 07:49:37] dawagner, quitting. (Quit: Leaving)
+[2013-10-30 08:04:05] chhsiung, joining. (#ios-driver)
