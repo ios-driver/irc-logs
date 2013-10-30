@@ -77,3 +77,4 @@
 [2013-10-29 17:21:40] admc1, changing nick to admc.
 [2013-10-29 17:37:06] chhsiung, joining. (#ios-driver)
 [2013-10-29 17:41:23] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-10-29 18:07:13] chhsiung, joining. (#ios-driver)
