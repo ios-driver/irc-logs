@@ -90,3 +90,4 @@
 [2013-10-29 20:28:04] chhsiung, joining. (#ios-driver)
 [2013-10-29 21:34:11] smccarthy, quitting. (Remote host closed the connection)
 [2013-10-29 23:02:04] admc, joining. (#ios-driver)
+[2013-10-29 23:17:24] chhsiung, quitting. (Quit: Leaving.)
