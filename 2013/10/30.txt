@@ -37,3 +37,4 @@
 [2013-10-30 05:47:21] Shish, leaving. (#ios-driver)
 [2013-10-30 06:14:39] operatiay, quitting. (Remote host closed the connection)
 [2013-10-30 06:15:01] operatiay, joining. (#ios-driver)
+[2013-10-30 07:08:25] elstfi, joining. (#ios-driver)
