@@ -44,3 +44,5 @@
 [2013-10-31 15:12:34] chhsiung, joining. (#ios-driver)
 [2013-10-31 15:13:39] chhsiung, quitting. (Client Quit)
 [2013-10-31 15:14:21] lukeis, quitting. (Quit: Leaving.)
+[2013-10-31 15:33:22] admc, quitting. (Remote host closed the connection)
+[2013-10-31 15:33:32] admc, joining. (#ios-driver)
