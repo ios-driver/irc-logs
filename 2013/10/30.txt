@@ -105,3 +105,4 @@
 [2013-10-30 20:06:13] admc, joining. (#ios-driver)
 [2013-10-30 20:19:27] admc, quitting. (Quit: Leaving.)
 [2013-10-30 20:21:30] admc, joining. (#ios-driver)
+[2013-10-30 20:42:11] admc, quitting. (Quit: Leaving.)
