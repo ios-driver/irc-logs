@@ -41,3 +41,6 @@
 [2013-10-31 14:07:50] joevans, joining. (#ios-driver)
 [2013-10-31 14:36:14] psp250, quitting. (Remote host closed the connection)
 [2013-10-31 15:03:22] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-31 15:12:34] chhsiung, joining. (#ios-driver)
+[2013-10-31 15:13:39] chhsiung, quitting. (Client Quit)
+[2013-10-31 15:14:21] lukeis, quitting. (Quit: Leaving.)
