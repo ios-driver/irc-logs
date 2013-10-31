@@ -32,3 +32,5 @@
 [2013-10-31 09:43:04] admc, joining. (#ios-driver)
 [2013-10-31 10:16:46] admc, quitting. (Quit: Leaving.)
 [2013-10-31 10:29:27] chhsiung, joining. (#ios-driver)
+[2013-10-31 10:49:17] operatiay, quitting. (Remote host closed the connection)
+[2013-10-31 10:49:49] operatiay, joining. (#ios-driver)
