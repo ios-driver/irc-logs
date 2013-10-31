@@ -109,3 +109,4 @@
 [2013-10-30 21:47:28] operatiay, joining. (#ios-driver)
 [2013-10-30 21:51:42] operatiay, quitting. (Ping timeout: 246 seconds)
 [2013-10-30 23:48:48] operatiay, joining. (#ios-driver)
+[2013-10-30 23:53:03] operatiay, quitting. (Ping timeout: 245 seconds)
