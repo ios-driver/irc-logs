@@ -10,3 +10,5 @@
 [2013-10-31 04:39:28] operatiay, quitting. (Ping timeout: 240 seconds)
 [2013-10-31 04:48:54] operatiay, joining. (#ios-driver)
 [2013-10-31 04:52:57] elstfi, quitting. (Ping timeout: 272 seconds)
+[2013-10-31 05:05:38] operatiay, quitting. (Remote host closed the connection)
+[2013-10-31 05:06:12] operatiay, joining. (#ios-driver)
