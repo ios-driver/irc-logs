@@ -20,3 +20,4 @@
 [2013-10-31 05:46:07] psp250_, quitting. (Remote host closed the connection)
 [2013-10-31 05:50:25] nirvdrum, joining. (#ios-driver)
 [2013-10-31 07:05:48] elstfi, quitting. (Quit: Leaving.)
+[2013-10-31 07:21:48] elstfi, joining. (#ios-driver)
