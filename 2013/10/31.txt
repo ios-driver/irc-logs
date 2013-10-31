@@ -29,3 +29,4 @@
 [2013-10-31 09:22:49] operatiay, quitting. (Remote host closed the connection)
 [2013-10-31 09:23:20] operatiay, joining. (#ios-driver)
 [2013-10-31 09:32:21] smccarthy, joining. (#ios-driver)
+[2013-10-31 09:43:04] admc, joining. (#ios-driver)
