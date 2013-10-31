@@ -16,3 +16,5 @@
 [2013-10-31 05:17:18] elstfi, joining. (#ios-driver)
 [2013-10-31 05:25:03] operatiay, joining. (#ios-driver)
 [2013-10-31 05:41:44] nirvdrum, quitting. (Ping timeout: 256 seconds)
+[2013-10-31 05:45:34] psp250_, joining. (#ios-driver)
+[2013-10-31 05:46:07] psp250_, quitting. (Remote host closed the connection)
