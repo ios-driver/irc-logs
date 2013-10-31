@@ -95,3 +95,4 @@
 [2013-10-30 15:33:25] ios-driverbot, joining. (#ios-driver)
 [2013-10-30 15:47:57] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-30 16:04:11] lukeis, quitting. (Quit: Leaving.)
+[2013-10-30 17:46:06] operatiay, joining. (#ios-driver)
