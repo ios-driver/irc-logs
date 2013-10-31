@@ -21,3 +21,4 @@
 [2013-10-31 05:50:25] nirvdrum, joining. (#ios-driver)
 [2013-10-31 07:05:48] elstfi, quitting. (Quit: Leaving.)
 [2013-10-31 07:21:48] elstfi, joining. (#ios-driver)
+[2013-10-31 08:09:48] admc, joining. (#ios-driver)
