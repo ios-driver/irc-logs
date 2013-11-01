@@ -55,3 +55,4 @@
 [2013-10-31 18:26:14] ios-driver-git, leaving. (#ios-driver)
 [2013-10-31 18:53:03] operatiay, joining. (#ios-driver)
 [2013-10-31 18:57:41] operatiay, quitting. (Ping timeout: 268 seconds)
+[2013-10-31 19:03:08] joevans, quitting. (Quit: joevans)
