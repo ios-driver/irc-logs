@@ -53,3 +53,4 @@
 [2013-10-31 18:26:14] ios-driver-git: [ios-driver] jasone pushed 1 new commit to refactor: http://git.io/Gq_tHA
 [2013-10-31 18:26:14] ios-driver-git: ios-driver/refactor 9ec068d Jason Evans: Merge branch 'dev' into refactor...
 [2013-10-31 18:26:14] ios-driver-git, leaving. (#ios-driver)
+[2013-10-31 18:53:03] operatiay, joining. (#ios-driver)
