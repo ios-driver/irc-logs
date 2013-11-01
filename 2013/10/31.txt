@@ -66,3 +66,4 @@
 [2013-10-31 22:53:12] nirvdrum, quitting. (Ping timeout: 246 seconds)
 [2013-10-31 22:54:46] operatiay, joining. (#ios-driver)
 [2013-10-31 22:59:25] operatiay, quitting. (Ping timeout: 268 seconds)
+[2013-10-31 23:09:30] Guest7564, quitting. (Quit: Page closed)
