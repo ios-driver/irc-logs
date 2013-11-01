@@ -33,3 +33,4 @@
 [2013-11-01 09:12:39] chhsiung, quitting. (Client Quit)
 [2013-11-01 09:16:07] smccarthy, joining. (#ios-driver)
 [2013-11-01 09:16:32] lukeis, joining. (#ios-driver)
+[2013-11-01 09:41:08] chhsiung, joining. (#ios-driver)
