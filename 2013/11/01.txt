@@ -39,3 +39,4 @@
 [2013-11-01 11:06:33] admc, joining. (#ios-driver)
 [2013-11-01 11:12:54] elstfi, quitting. (Quit: Leaving.)
 [2013-11-01 12:27:35] admc, quitting. (Quit: Leaving.)
+[2013-11-01 13:34:51] psp250, quitting. (Quit: Leaving)
