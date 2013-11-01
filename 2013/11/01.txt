@@ -36,3 +36,4 @@
 [2013-11-01 09:41:08] chhsiung, joining. (#ios-driver)
 [2013-11-01 10:03:18] operatiay, joining. (#ios-driver)
 [2013-11-01 10:07:51] operatiay, quitting. (Ping timeout: 260 seconds)
+[2013-11-01 11:06:33] admc, joining. (#ios-driver)
