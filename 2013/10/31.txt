@@ -49,3 +49,7 @@
 [2013-10-31 16:51:37] operatiay, joining. (#ios-driver)
 [2013-10-31 16:56:27] operatiay, quitting. (Ping timeout: 260 seconds)
 [2013-10-31 18:01:28] admc, quitting. (Quit: Leaving.)
+[2013-10-31 18:26:13] ios-driver-git, joining. (#ios-driver)
+[2013-10-31 18:26:14] ios-driver-git: [ios-driver] jasone pushed 1 new commit to refactor: http://git.io/Gq_tHA
+[2013-10-31 18:26:14] ios-driver-git: ios-driver/refactor 9ec068d Jason Evans: Merge branch 'dev' into refactor...
+[2013-10-31 18:26:14] ios-driver-git, leaving. (#ios-driver)
