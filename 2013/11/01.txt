@@ -6,3 +6,5 @@
 [2013-11-01 01:48:53] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-11-01 01:49:03] elstfi1, joining. (#ios-driver)
 [2013-11-01 01:50:41] phasze1, joining. (#ios-driver)
+[2013-11-01 01:58:34] elstfi, quitting. (*.net *.split)
+[2013-11-01 01:58:34] phasze, quitting. (*.net *.split)
