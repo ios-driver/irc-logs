@@ -28,3 +28,4 @@
 [2013-11-01 07:38:56] chhsiung, joining. (#ios-driver)
 [2013-11-01 07:45:14] chhsiung, quitting. (Quit: Leaving.)
 [2013-11-01 07:58:21] chhsiung, joining. (#ios-driver)
+[2013-11-01 08:01:04] chhsiung, quitting. (Client Quit)
