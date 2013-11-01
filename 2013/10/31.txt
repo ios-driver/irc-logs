@@ -47,3 +47,4 @@
 [2013-10-31 15:33:22] admc, quitting. (Remote host closed the connection)
 [2013-10-31 15:33:32] admc, joining. (#ios-driver)
 [2013-10-31 16:51:37] operatiay, joining. (#ios-driver)
+[2013-10-31 16:56:27] operatiay, quitting. (Ping timeout: 260 seconds)
