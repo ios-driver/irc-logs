@@ -42,3 +42,4 @@
 [2013-11-01 13:34:51] psp250, quitting. (Quit: Leaving)
 [2013-11-01 13:39:21] joevans, joining. (#ios-driver)
 [2013-11-01 13:43:38] admc, joining. (#ios-driver)
+[2013-11-01 13:57:53] gdennis, quitting. (Quit: gdennis)
