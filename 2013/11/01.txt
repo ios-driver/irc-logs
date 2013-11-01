@@ -8,3 +8,4 @@
 [2013-11-01 01:50:41] phasze1, joining. (#ios-driver)
 [2013-11-01 01:58:34] elstfi, quitting. (*.net *.split)
 [2013-11-01 01:58:34] phasze, quitting. (*.net *.split)
+[2013-11-01 02:36:25] operatiay, joining. (#ios-driver)
