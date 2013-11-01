@@ -58,3 +58,4 @@
 [2013-10-31 19:03:08] joevans, quitting. (Quit: joevans)
 [2013-10-31 19:22:32] chhsiung, joining. (#ios-driver)
 [2013-10-31 19:42:38] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-31 22:03:35] chhsiung, joining. (#ios-driver)
