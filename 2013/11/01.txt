@@ -48,3 +48,4 @@
 [2013-11-01 14:36:41] admc, quitting. (Read error: Connection reset by peer)
 [2013-11-01 14:36:45] admc1, joining. (#ios-driver)
 [2013-11-01 15:13:50] nirvdrum, quitting. (Read error: Operation timed out)
+[2013-11-01 15:57:56] nirvdrum, joining. (#ios-driver)
