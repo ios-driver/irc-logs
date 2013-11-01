@@ -44,3 +44,4 @@
 [2013-11-01 13:43:38] admc, joining. (#ios-driver)
 [2013-11-01 13:57:53] gdennis, quitting. (Quit: gdennis)
 [2013-11-01 14:04:52] operatiay, joining. (#ios-driver)
+[2013-11-01 14:09:02] operatiay, quitting. (Ping timeout: 240 seconds)
