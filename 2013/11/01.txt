@@ -67,3 +67,4 @@
 [2013-11-01 22:37:09] nirvdrum, quitting. (Ping timeout: 272 seconds)
 [2013-11-01 22:58:33] jlipps, joining. (#ios-driver)
 [2013-11-01 23:03:13] jlipps, quitting. (Ping timeout: 272 seconds)
+[2013-11-01 23:40:51] admc, joining. (#ios-driver)
