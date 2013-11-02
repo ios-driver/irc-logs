@@ -26,3 +26,4 @@
 [2013-11-02 09:58:35] admc, quitting. (Quit: Leaving.)
 [2013-11-02 10:12:59] operatiay, joining. (#ios-driver)
 [2013-11-02 10:15:33] operatiay, quitting. (Read error: Operation timed out)
+[2013-11-02 10:43:15] chhsiung, joining. (#ios-driver)
