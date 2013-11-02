@@ -17,3 +17,4 @@
 [2013-11-02 08:37:56] nirvdrum, quitting. (Ping timeout: 272 seconds)
 [2013-11-02 08:42:10] chhsiung, joining. (#ios-driver)
 [2013-11-02 08:43:03] smccarthy, joining. (#ios-driver)
+[2013-11-02 08:46:23] chhsiung, quitting. (Ping timeout: 245 seconds)
