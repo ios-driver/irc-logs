@@ -30,3 +30,5 @@
 [2013-11-03 11:24:18] operatiay, joining. (#ios-driver)
 [2013-11-03 11:28:51] operatiay, quitting. (Ping timeout: 246 seconds)
 [2013-11-03 11:58:54] chhsiung, joining. (#ios-driver)
+[2013-11-03 12:01:39] smccarthy, joining. (#ios-driver)
+[2013-11-03 12:03:03] chhsiung, quitting. (Ping timeout: 245 seconds)
