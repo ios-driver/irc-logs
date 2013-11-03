@@ -35,3 +35,4 @@
 [2013-11-03 13:02:51] admc, quitting. (Quit: Leaving.)
 [2013-11-03 13:03:07] admc, joining. (#ios-driver)
 [2013-11-03 13:32:23] nirvdrum, joining. (#ios-driver)
+[2013-11-03 14:59:40] chhsiung, joining. (#ios-driver)
