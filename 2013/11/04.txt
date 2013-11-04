@@ -79,3 +79,4 @@
 [2013-11-04 13:25:48] operatiay, quitting. (Ping timeout: 260 seconds)
 [2013-11-04 13:49:39] jlipps, quitting. (Quit: Leaving.)
 [2013-11-04 13:50:28] jlipps, joining. (#ios-driver)
+[2013-11-04 13:58:33] chhsiung, quitting. (Quit: Leaving.)
