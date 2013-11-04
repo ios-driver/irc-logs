@@ -76,3 +76,4 @@
 [2013-11-04 13:22:45] dgrace, quitting. (Remote host closed the connection)
 [2013-11-04 13:22:45] freynaud_, quitting. (Remote host closed the connection)
 [2013-11-04 13:22:46] nicegraham, quitting. (Remote host closed the connection)
+[2013-11-04 13:25:48] operatiay, quitting. (Ping timeout: 260 seconds)
