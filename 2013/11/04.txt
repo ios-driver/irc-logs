@@ -65,3 +65,4 @@
 [2013-11-04 11:59:22] chhsiung, quitting. (Quit: Leaving.)
 [2013-11-04 12:23:02] chhsiung, joining. (#ios-driver)
 [2013-11-04 12:26:59] elstfi, quitting. (Quit: Leaving.)
+[2013-11-04 12:31:50] santiycr, quitting. (Quit: Leaving.)
