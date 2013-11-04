@@ -45,3 +45,4 @@
 [2013-11-04 09:13:42] operatiay, joining. (#ios-driver)
 [2013-11-04 09:14:40] elstfi, joining. (#ios-driver)
 [2013-11-04 09:38:35] operatiay, quitting. (Remote host closed the connection)
+[2013-11-04 09:43:40] phasze1, changing nick to phasze.
