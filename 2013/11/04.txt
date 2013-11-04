@@ -80,3 +80,5 @@
 [2013-11-04 13:49:39] jlipps, quitting. (Quit: Leaving.)
 [2013-11-04 13:50:28] jlipps, joining. (#ios-driver)
 [2013-11-04 13:58:33] chhsiung, quitting. (Quit: Leaving.)
+[2013-11-04 14:02:41] santiycr, quitting. (Quit: Leaving.)
+[2013-11-04 14:04:07] santiycr, joining. (#ios-driver)
