@@ -11,3 +11,4 @@
 [2013-11-04 02:23:53] chhsiung, quitting. (Read error: No route to host)
 [2013-11-04 02:40:45] elstfi, quitting. (Quit: Leaving.)
 [2013-11-04 02:44:06] elstfi, joining. (#ios-driver)
+[2013-11-04 02:50:55] chhsiung, joining. (#ios-driver)
