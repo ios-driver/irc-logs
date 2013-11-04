@@ -48,3 +48,4 @@
 [2013-11-03 19:13:23] chhsiung, quitting. (Quit: Leaving.)
 [2013-11-03 19:47:38] nirvdrum, quitting. (Ping timeout: 245 seconds)
 [2013-11-03 20:18:29] chhsiung, joining. (#ios-driver)
+[2013-11-03 20:22:38] chhsiung, quitting. (Ping timeout: 245 seconds)
