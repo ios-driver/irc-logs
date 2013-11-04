@@ -54,3 +54,7 @@
 [2013-11-04 11:03:07] elstfi, quitting. (Quit: Leaving.)
 [2013-11-04 11:11:28] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2013-11-04 11:38:58] nirvdrum, joining. (#ios-driver)
+[2013-11-04 11:44:11] santiycr, quitting. (Quit: Leaving.)
+[2013-11-04 11:44:19] santiycr, joining. (#ios-driver)
+[2013-11-04 11:44:30] santiycr, quitting. (Client Quit)
+[2013-11-04 11:44:39] santiycr, joining. (#ios-driver)
