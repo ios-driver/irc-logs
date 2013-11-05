@@ -59,3 +59,4 @@
 [2013-11-05 13:53:13] admc, quitting. (Quit: Leaving.)
 [2013-11-05 14:03:00] gdennis, quitting. (Quit: gdennis)
 [2013-11-05 15:02:43] admc, joining. (#ios-driver)
+[2013-11-05 15:08:23] santiycr, quitting. (Quit: Leaving.)
