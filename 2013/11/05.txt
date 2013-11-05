@@ -38,3 +38,5 @@
 [2013-11-05 08:43:45] lukeis, joining. (#ios-driver)
 [2013-11-05 08:44:26] elstfi, quitting. (Quit: Leaving.)
 [2013-11-05 08:47:55] elstfi, joining. (#ios-driver)
+[2013-11-05 09:11:35] chhsiung, quitting. (Quit: Leaving.)
+[2013-11-05 09:12:33] chhsiung, joining. (#ios-driver)
