@@ -3,3 +3,4 @@
 [2013-11-05 00:18:24] lukeis1, quitting. (Client Quit)
 [2013-11-05 00:19:41] lukeis, quitting. (Ping timeout: 268 seconds)
 [2013-11-05 00:46:05] admc, quitting. (Quit: Leaving.)
+[2013-11-05 01:26:21] operatiay, joining. (#ios-driver)
