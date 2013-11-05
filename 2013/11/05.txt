@@ -15,3 +15,5 @@
 [2013-11-05 01:32:42] ios-driver-git: ios-driver/gh-pages cf619bb Graham Abell: changing H values
 [2013-11-05 01:34:45] operatiay, joining. (#ios-driver)
 [2013-11-05 02:22:37] elstfi, joining. (#ios-driver)
+[2013-11-05 03:18:16] elstfi, quitting. (Quit: Leaving.)
+[2013-11-05 03:18:28] elstfi, joining. (#ios-driver)
