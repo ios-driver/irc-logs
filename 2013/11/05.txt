@@ -46,3 +46,4 @@
 [2013-11-05 10:47:23] elstfi, joining. (#ios-driver)
 [2013-11-05 10:48:43] elstfi1, quitting. (Read error: Operation timed out)
 [2013-11-05 10:57:31] elstfi, quitting. (Quit: Leaving.)
+[2013-11-05 11:33:53] operatiay, joining. (#ios-driver)
