@@ -4,3 +4,13 @@
 [2013-11-05 00:19:41] lukeis, quitting. (Ping timeout: 268 seconds)
 [2013-11-05 00:46:05] admc, quitting. (Quit: Leaving.)
 [2013-11-05 01:26:21] operatiay, joining. (#ios-driver)
+[2013-11-05 01:30:20] ios-driver-git, joining. (#ios-driver)
+[2013-11-05 01:30:20] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to gh-pages: http://git.io/DFqx3w
+[2013-11-05 01:30:20] ios-driver-git, leaving. (#ios-driver)
+[2013-11-05 01:30:20] ios-driver-git: ios-driver/gh-pages f1d558e Graham Abell: adding more help for dev tools access popup
+[2013-11-05 01:31:01] operatiay, quitting. (Ping timeout: 260 seconds)
+[2013-11-05 01:32:42] ios-driver-git, joining. (#ios-driver)
+[2013-11-05 01:32:42] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to gh-pages: http://git.io/5BrP3w
+[2013-11-05 01:32:42] ios-driver-git, leaving. (#ios-driver)
+[2013-11-05 01:32:42] ios-driver-git: ios-driver/gh-pages cf619bb Graham Abell: changing H values
+[2013-11-05 01:34:45] operatiay, joining. (#ios-driver)
