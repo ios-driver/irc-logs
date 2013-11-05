@@ -96,3 +96,4 @@
 [2013-11-04 16:15:01] nirvdrum, quitting. (Ping timeout: 245 seconds)
 [2013-11-04 16:16:50] admc, quitting. (Ping timeout: 268 seconds)
 [2013-11-04 16:24:42] nicegraham, joining. (#ios-driver)
+[2013-11-04 16:31:06] smccarthy, quitting. (Remote host closed the connection)
