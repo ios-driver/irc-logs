@@ -25,3 +25,4 @@
 [2013-11-05 05:27:28] elstfi, joining. (#ios-driver)
 [2013-11-05 05:57:29] elstfi, quitting. (Quit: Leaving.)
 [2013-11-05 05:58:09] nirvdrum, joining. (#ios-driver)
+[2013-11-05 06:08:26] chhsiung, joining. (#ios-driver)
