@@ -33,3 +33,4 @@
 [2013-11-05 07:31:40] operatiay, quitting. (Remote host closed the connection)
 [2013-11-05 07:32:16] operatiay, joining. (#ios-driver)
 [2013-11-05 07:36:26] operatiay, quitting. (Ping timeout: 240 seconds)
+[2013-11-05 07:48:53] smccarthy, joining. (#ios-driver)
