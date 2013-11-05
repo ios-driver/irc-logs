@@ -35,3 +35,5 @@
 [2013-11-05 07:36:26] operatiay, quitting. (Ping timeout: 240 seconds)
 [2013-11-05 07:48:53] smccarthy, joining. (#ios-driver)
 [2013-11-05 08:31:43] elstfi, joining. (#ios-driver)
+[2013-11-05 08:43:45] lukeis, joining. (#ios-driver)
+[2013-11-05 08:44:26] elstfi, quitting. (Quit: Leaving.)
