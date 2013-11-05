@@ -111,3 +111,4 @@
 [2013-11-04 18:36:10] chhsiung1, quitting. (Client Quit)
 [2013-11-04 18:56:31] santiycr, quitting. (Quit: Leaving.)
 [2013-11-04 18:56:40] santiycr, joining. (#ios-driver)
+[2013-11-04 19:07:32] santiycr, leaving. (#ios-driver)
