@@ -10,3 +10,4 @@
 [2013-11-06 04:25:14] admc, quitting. (Quit: Leaving.)
 [2013-11-06 04:55:43] operatiay, quitting. ()
 [2013-11-06 04:57:13] elstfi, quitting. (Quit: Leaving.)
+[2013-11-06 05:08:52] elstfi, joining. (#ios-driver)
