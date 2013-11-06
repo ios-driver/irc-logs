@@ -39,3 +39,4 @@
 [2013-11-06 11:41:35] admc, quitting. (Quit: Leaving.)
 [2013-11-06 12:22:13] admc, joining. (#ios-driver)
 [2013-11-06 12:34:51] chhsiung, quitting. (Quit: Leaving.)
+[2013-11-06 12:37:59] admc, quitting. (Quit: Leaving.)
