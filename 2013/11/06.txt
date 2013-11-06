@@ -32,3 +32,4 @@
 [2013-11-06 10:25:05] nicegraham, quitting. (Remote host closed the connection)
 [2013-11-06 10:25:06] freynaud_, quitting. (Remote host closed the connection)
 [2013-11-06 10:25:06] dgrace, quitting. (Remote host closed the connection)
+[2013-11-06 11:01:45] nicegraham, joining. (#ios-driver)
