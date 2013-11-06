@@ -50,3 +50,4 @@
 [2013-11-06 13:21:13] gdennis, quitting. (Quit: gdennis)
 [2013-11-06 13:24:06] admc, joining. (#ios-driver)
 [2013-11-06 13:30:24] admc, quitting. (Quit: Leaving.)
+[2013-11-06 14:03:56] admc, joining. (#ios-driver)
