@@ -68,3 +68,4 @@
 [2013-11-05 15:57:00] chhsiung, joining. (#ios-driver)
 [2013-11-05 16:02:48] smccarthy, quitting. (Remote host closed the connection)
 [2013-11-05 16:03:13] lukeis, quitting. (Quit: Leaving.)
+[2013-11-05 16:09:25] chhsiung, quitting. (Quit: Leaving.)
