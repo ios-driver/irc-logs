@@ -3,3 +3,5 @@
 [2013-11-06 01:41:23] operatiay, joining. (#ios-driver)
 [2013-11-06 01:57:37] phasze, quitting. (Ping timeout: 272 seconds)
 [2013-11-06 02:15:58] elstfi, joining. (#ios-driver)
+[2013-11-06 02:20:56] operatiay, quitting. (Remote host closed the connection)
+[2013-11-06 02:21:30] operatiay, joining. (#ios-driver)
