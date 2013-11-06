@@ -25,3 +25,4 @@
 [2013-11-06 08:20:50] lukeis, joining. (#ios-driver)
 [2013-11-06 08:32:34] elstfi2, quitting. (Quit: Leaving.)
 [2013-11-06 08:45:01] elstfi, joining. (#ios-driver)
+[2013-11-06 09:11:50] psp250, quitting. (Quit: Leaving)
