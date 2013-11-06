@@ -13,3 +13,5 @@
 [2013-11-06 05:08:52] elstfi, joining. (#ios-driver)
 [2013-11-06 05:19:36] psp250, joining. (#ios-driver)
 [2013-11-06 06:20:39] gdennis, joining. (#ios-driver)
+[2013-11-06 06:25:56] elstfi, quitting. (Quit: Leaving.)
+[2013-11-06 06:27:50] elstfi, joining. (#ios-driver)
