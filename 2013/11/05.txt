@@ -70,3 +70,4 @@
 [2013-11-05 16:03:13] lukeis, quitting. (Quit: Leaving.)
 [2013-11-05 16:09:25] chhsiung, quitting. (Quit: Leaving.)
 [2013-11-05 16:44:28] admc1, changing nick to admc.
+[2013-11-05 17:04:14] chhsiung, joining. (#ios-driver)
