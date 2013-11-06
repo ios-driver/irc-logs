@@ -8,3 +8,5 @@
 [2013-11-06 02:26:15] operatiay, quitting. (Ping timeout: 260 seconds)
 [2013-11-06 03:43:02] operatiay, joining. (#ios-driver)
 [2013-11-06 04:25:14] admc, quitting. (Quit: Leaving.)
+[2013-11-06 04:55:43] operatiay, quitting. ()
+[2013-11-06 04:57:13] elstfi, quitting. (Quit: Leaving.)
