@@ -23,3 +23,5 @@
 [2013-11-07 03:58:39] chhsiung, joining. (#ios-driver)
 [2013-11-07 04:06:36] elstfi, joining. (#ios-driver)
 [2013-11-07 04:14:32] jevans, joining. (#ios-driver)
+[2013-11-07 04:21:48] joevans, quitting. (*.net *.split)
+[2013-11-07 04:21:48] jevans, changing nick to joevans.
