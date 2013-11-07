@@ -64,3 +64,4 @@
 [2013-11-07 12:37:34] ios-driver-git: ios-driver/refactor 61bd9ad rsalvador: Merge branch 'refactor' of https://github.com/ios-driver/ios-driver.git into refactor
 [2013-11-07 12:37:34] ios-driver-git, leaving. (#ios-driver)
 [2013-11-07 13:23:23] santiycr, joining. (#ios-driver)
+[2013-11-07 13:39:02] santiycr, quitting. (Quit: Leaving.)
