@@ -25,3 +25,4 @@
 [2013-11-07 04:14:32] jevans, joining. (#ios-driver)
 [2013-11-07 04:21:48] joevans, quitting. (*.net *.split)
 [2013-11-07 04:21:48] jevans, changing nick to joevans.
+[2013-11-07 04:48:37] elstfi, quitting. (Ping timeout: 248 seconds)
