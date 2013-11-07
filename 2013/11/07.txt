@@ -50,3 +50,5 @@
 [2013-11-07 11:02:16] smccarthy, joining. (#ios-driver)
 [2013-11-07 11:26:53] chhsiung, quitting. (Quit: Leaving.)
 [2013-11-07 11:27:48] chhsiung, joining. (#ios-driver)
+[2013-11-07 11:38:18] jlipps, joining. (#ios-driver)
+[2013-11-07 11:38:25] jlipps, quitting. (Client Quit)
