@@ -52,3 +52,8 @@
 [2013-11-07 11:27:48] chhsiung, joining. (#ios-driver)
 [2013-11-07 11:38:18] jlipps, joining. (#ios-driver)
 [2013-11-07 11:38:25] jlipps, quitting. (Client Quit)
+[2013-11-07 12:28:36] ios-driver-git, joining. (#ios-driver)
+[2013-11-07 12:28:37] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to refactor: http://git.io/bKlbTA
+[2013-11-07 12:28:37] ios-driver-git: ios-driver/refactor ad71dff Luke Inman-Semerau: selenium project got updated with the tasks, no need to apply a local change to it
+[2013-11-07 12:28:37] ios-driver-git, leaving. (#ios-driver)
+[2013-11-07 12:29:06] lukeis: look I committed something in ios-driver again ;) (ok, one-off… back to selendroid…)
