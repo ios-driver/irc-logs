@@ -57,3 +57,9 @@
 [2013-11-07 12:28:37] ios-driver-git: ios-driver/refactor ad71dff Luke Inman-Semerau: selenium project got updated with the tasks, no need to apply a local change to it
 [2013-11-07 12:28:37] ios-driver-git, leaving. (#ios-driver)
 [2013-11-07 12:29:06] lukeis: look I committed something in ios-driver again ;) (ok, one-off… back to selendroid…)
+[2013-11-07 12:37:34] ios-driver-git, joining. (#ios-driver)
+[2013-11-07 12:37:34] ios-driver-git: [ios-driver] rsalvador pushed 3 new commits to refactor: http://git.io/yI6jSQ
+[2013-11-07 12:37:34] ios-driver-git: ios-driver/refactor 0b374ab rsalvador: Complain about missing exiledSDKs directory only if needed.
+[2013-11-07 12:37:34] ios-driver-git: ios-driver/refactor 4196147 rsalvador: Added -trustStore to allow adding a TrustStore for the simulator.
+[2013-11-07 12:37:34] ios-driver-git: ios-driver/refactor 61bd9ad rsalvador: Merge branch 'refactor' of https://github.com/ios-driver/ios-driver.git into refactor
+[2013-11-07 12:37:34] ios-driver-git, leaving. (#ios-driver)
