@@ -57,3 +57,4 @@
 [2013-11-06 16:22:59] ios-driver-git: ios-driver/refactor 5aa94c1 Jason Evans: Refactor SimulatorSettings to handle bugfix SDK versions....
 [2013-11-06 16:22:59] ios-driver-git, leaving. (#ios-driver)
 [2013-11-06 17:18:56] chhsiung, quitting. (Quit: Leaving.)
+[2013-11-06 17:24:33] admc, quitting. (Quit: Leaving.)
