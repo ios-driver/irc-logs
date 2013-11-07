@@ -27,3 +27,4 @@
 [2013-11-07 04:21:48] jevans, changing nick to joevans.
 [2013-11-07 04:48:37] elstfi, quitting. (Ping timeout: 248 seconds)
 [2013-11-07 04:57:34] elstfi, joining. (#ios-driver)
+[2013-11-07 06:04:04] elstfi, quitting. (Quit: Leaving.)
