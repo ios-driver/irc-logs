@@ -35,3 +35,4 @@
 [2013-11-07 07:59:14] lukeis, joining. (#ios-driver)
 [2013-11-07 08:00:39] chhsiung, quitting. (Quit: Leaving.)
 [2013-11-07 08:01:36] chhsiung, joining. (#ios-driver)
+[2013-11-07 08:06:14] chhsiung, quitting. (Client Quit)
