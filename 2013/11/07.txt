@@ -32,3 +32,4 @@
 [2013-11-07 07:08:20] chhsiung, quitting. (Quit: Leaving.)
 [2013-11-07 07:21:58] gdennis, joining. (#ios-driver)
 [2013-11-07 07:36:13] chhsiung, joining. (#ios-driver)
+[2013-11-07 07:59:14] lukeis, joining. (#ios-driver)
