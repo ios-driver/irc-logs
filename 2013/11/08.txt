@@ -1,3 +1,10 @@
 [2013-11-08 00:49:52] chhsiung, joining. (#ios-driver)
 [2013-11-08 00:53:53] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-11-08 01:19:57] chhsiung, joining. (#ios-driver)
+[2013-11-08 01:24:04] ios-driver-git, joining. (#ios-driver)
+[2013-11-08 01:24:04] ios-driver-git: [ios-driver] jasone pushed 5 new commits to refactor: http://git.io/oekVpw
+[2013-11-08 01:24:05] ios-driver-git: ios-driver/refactor b856399 Jason Evans: Improve inspector reliability....
+[2013-11-08 01:24:05] ios-driver-git, leaving. (#ios-driver)
+[2013-11-08 01:24:05] ios-driver-git: ios-driver/refactor 7de09e2 Jason Evans: Improve inspector's localization support....
+[2013-11-08 01:24:05] ios-driver-git: ios-driver/refactor eaff6ed Jason Evans: Make shutdown cleanup more robust....
+[2013-11-08 01:24:18] chhsiung, quitting. (Ping timeout: 245 seconds)
