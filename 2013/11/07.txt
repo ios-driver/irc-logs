@@ -80,3 +80,4 @@
 [2013-11-07 22:17:57] chhsiung, quitting. (Quit: Leaving.)
 [2013-11-07 22:48:46] chhsiung, joining. (#ios-driver)
 [2013-11-07 22:53:03] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-11-07 23:38:48] admc, joining. (#ios-driver)
