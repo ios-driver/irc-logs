@@ -77,3 +77,4 @@
 [2013-11-07 20:32:37] chhsiung, joining. (#ios-driver)
 [2013-11-07 21:08:15] lukeis, joining. (#ios-driver)
 [2013-11-07 22:05:25] lukeis, quitting. (Quit: Leaving.)
+[2013-11-07 22:17:57] chhsiung, quitting. (Quit: Leaving.)
