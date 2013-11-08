@@ -25,3 +25,4 @@
 [2013-11-08 10:08:18] chhsiung1, joining. (#ios-driver)
 [2013-11-08 10:08:18] chhsiung, quitting. (Read error: Connection reset by peer)
 [2013-11-08 10:15:41] lukeis, joining. (#ios-driver)
+[2013-11-08 10:24:34] elstfi, quitting. (Quit: Leaving.)
