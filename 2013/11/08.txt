@@ -47,3 +47,7 @@
 [2013-11-08 17:14:00] jlipps, quitting. (Quit: Leaving.)
 [2013-11-08 17:25:30] lukeis, quitting. (Quit: Leaving.)
 [2013-11-08 18:16:19] admc, quitting. (Quit: Leaving.)
+[2013-11-08 19:26:35] ios-driver-git, joining. (#ios-driver)
+[2013-11-08 19:26:35] ios-driver-git: [ios-driver] jasone pushed 1 new commit to refactor: http://git.io/EK1FzA
+[2013-11-08 19:26:35] ios-driver-git: ios-driver/refactor 8ff5d69 Jason Evans: Fix DeviceVariation API incompatibility....
+[2013-11-08 19:26:35] ios-driver-git, leaving. (#ios-driver)
