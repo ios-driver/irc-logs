@@ -51,3 +51,8 @@
 [2013-11-08 19:26:35] ios-driver-git: [ios-driver] jasone pushed 1 new commit to refactor: http://git.io/EK1FzA
 [2013-11-08 19:26:35] ios-driver-git: ios-driver/refactor 8ff5d69 Jason Evans: Fix DeviceVariation API incompatibility....
 [2013-11-08 19:26:35] ios-driver-git, leaving. (#ios-driver)
+[2013-11-08 19:51:25] ios-driver-git, joining. (#ios-driver)
+[2013-11-08 19:51:25] ios-driver-git: [ios-driver] jasone pushed 2 new commits to refactor: http://git.io/NIju2Q
+[2013-11-08 19:51:25] ios-driver-git: ios-driver/refactor 2234790 Jason Evans: Always ignore killall errors....
+[2013-11-08 19:51:25] ios-driver-git: ios-driver/refactor 952bb30 Jason Evans: Miscellaneous cleanup.
+[2013-11-08 19:51:25] ios-driver-git, leaving. (#ios-driver)
