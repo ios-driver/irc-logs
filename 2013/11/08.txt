@@ -45,3 +45,4 @@
 [2013-11-08 16:30:14] chhsiung, joining. (#ios-driver)
 [2013-11-08 16:40:42] chhsiung, quitting. (Quit: Leaving.)
 [2013-11-08 17:14:00] jlipps, quitting. (Quit: Leaving.)
+[2013-11-08 17:25:30] lukeis, quitting. (Quit: Leaving.)
