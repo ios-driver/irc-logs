@@ -10,3 +10,4 @@
 [2013-11-09 07:28:34] chhsiung, quitting. (Client Quit)
 [2013-11-09 10:35:35] smccarthy, joining. (#ios-driver)
 [2013-11-09 11:05:16] smccarthy, quitting. (Ping timeout: 264 seconds)
+[2013-11-09 19:09:30] chhsiung, joining. (#ios-driver)
