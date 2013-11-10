@@ -3,3 +3,4 @@
 [2013-11-10 02:05:10] admc, quitting. (Quit: Leaving.)
 [2013-11-10 02:18:08] admc, joining. (#ios-driver)
 [2013-11-10 02:52:29] admc, quitting. (Quit: Leaving.)
+[2013-11-10 03:19:30] chhsiung, joining. (#ios-driver)
