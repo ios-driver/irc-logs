@@ -21,3 +21,4 @@
 [2013-11-11 05:25:26] elstfi, quitting. (Quit: Leaving.)
 [2013-11-11 05:32:58] elstfi, joining. (#ios-driver)
 [2013-11-11 06:03:52] elstfi1, joining. (#ios-driver)
+[2013-11-11 06:06:50] elstfi, quitting. (Ping timeout: 264 seconds)
