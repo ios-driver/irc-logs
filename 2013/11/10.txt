@@ -32,3 +32,4 @@
 [2013-11-10 20:18:14] jlipps, quitting. (Ping timeout: 264 seconds)
 [2013-11-10 22:07:04] nirvdrum, quitting. (Ping timeout: 264 seconds)
 [2013-11-10 22:13:14] chhsiung, quitting. (Quit: Leaving.)
+[2013-11-10 22:44:27] chhsiung, joining. (#ios-driver)
