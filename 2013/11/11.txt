@@ -44,3 +44,4 @@
 [2013-11-11 12:40:44] dawagner, quitting. (Quit: Leaving)
 [2013-11-11 12:41:12] admc, quitting. (Read error: Connection reset by peer)
 [2013-11-11 12:41:18] admc1, joining. (#ios-driver)
+[2013-11-11 12:47:32] admc1, quitting. (Quit: Leaving.)
