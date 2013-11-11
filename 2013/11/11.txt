@@ -16,3 +16,4 @@
 [2013-11-11 03:24:36] elstfi, quitting. (Quit: Leaving.)
 [2013-11-11 03:27:13] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-11-11 03:40:27] elstfi, joining. (#ios-driver)
+[2013-11-11 03:53:40] chhsiung, joining. (#ios-driver)
