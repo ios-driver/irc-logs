@@ -36,3 +36,4 @@
 [2013-11-11 09:41:56] santiycr, joining. (#ios-driver)
 [2013-11-11 10:38:49] elstfi, quitting. (Quit: Leaving.)
 [2013-11-11 10:47:17] admc, joining. (#ios-driver)
+[2013-11-11 11:30:36] nicegraham, quitting. (Quit: Connection closed for inactivity)
