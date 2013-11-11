@@ -39,3 +39,4 @@
 [2013-11-11 11:30:36] nicegraham, quitting. (Quit: Connection closed for inactivity)
 [2013-11-11 11:43:57] admc, quitting. (Quit: Leaving.)
 [2013-11-11 12:24:08] santiycr, quitting. (Quit: Leaving.)
+[2013-11-11 12:25:53] admc, joining. (#ios-driver)
