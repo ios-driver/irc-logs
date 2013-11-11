@@ -1,1 +1,2 @@
 [2013-11-11 00:20:01] chhsiung, joining. (#ios-driver)
+[2013-11-11 00:24:18] chhsiung, quitting. (Ping timeout: 245 seconds)
