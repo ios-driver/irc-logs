@@ -31,3 +31,4 @@
 [2013-11-11 08:23:44] lukeis, joining. (#ios-driver)
 [2013-11-11 09:05:06] elstfi, joining. (#ios-driver)
 [2013-11-11 09:07:26] elstfi1, quitting. (Ping timeout: 264 seconds)
+[2013-11-11 09:25:02] joevans, joining. (#ios-driver)
