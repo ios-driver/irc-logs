@@ -46,3 +46,6 @@
 [2013-11-11 12:41:18] admc1, joining. (#ios-driver)
 [2013-11-11 12:47:32] admc1, quitting. (Quit: Leaving.)
 [2013-11-11 13:17:21] admc, joining. (#ios-driver)
+[2013-11-11 13:21:29] santiycr, joining. (#ios-driver)
+[2013-11-11 13:21:33] santiycr, quitting. (Client Quit)
+[2013-11-11 13:23:07] santiycr, joining. (#ios-driver)
