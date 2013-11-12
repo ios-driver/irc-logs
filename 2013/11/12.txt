@@ -19,3 +19,4 @@
 [2013-11-12 11:33:30] elstfi, quitting. (Quit: Leaving.)
 [2013-11-12 11:33:35] freynaud_, quitting. (Quit: Connection closed for inactivity)
 [2013-11-12 12:00:38] jlipps, joining. (#ios-driver)
+[2013-11-12 12:07:58] admc1, joining. (#ios-driver)
