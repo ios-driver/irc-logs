@@ -16,3 +16,5 @@
 [2013-11-12 10:11:32] elstfi1, quitting. (Ping timeout: 246 seconds)
 [2013-11-12 10:14:18] admc, quitting. (Quit: Leaving.)
 [2013-11-12 10:43:37] admc, joining. (#ios-driver)
+[2013-11-12 11:33:30] elstfi, quitting. (Quit: Leaving.)
+[2013-11-12 11:33:35] freynaud_, quitting. (Quit: Connection closed for inactivity)
