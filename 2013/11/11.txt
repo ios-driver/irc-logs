@@ -62,3 +62,4 @@
 [2013-11-11 19:13:49] dgrace, quitting. (Quit: Connection closed for inactivity)
 [2013-11-11 22:16:36] admc, joining. (#ios-driver)
 [2013-11-11 22:59:52] admc, quitting. (Quit: Leaving.)
+[2013-11-11 23:31:42] admc, joining. (#ios-driver)
