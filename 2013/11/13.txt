@@ -21,3 +21,4 @@
 [2013-11-13 07:53:51] jlipps, quitting. (Quit: Leaving.)
 [2013-11-13 08:05:11] elstfi, quitting. (Quit: Leaving.)
 [2013-11-13 08:06:31] jlipps, joining. (#ios-driver)
+[2013-11-13 08:25:45] lukeis, joining. (#ios-driver)
