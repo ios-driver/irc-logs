@@ -17,3 +17,4 @@
 [2013-11-13 07:34:27] jlipps, joining. (#ios-driver)
 [2013-11-13 07:42:36] smccarthy, joining. (#ios-driver)
 [2013-11-13 07:43:08] elstfi, quitting. (Read error: Connection reset by peer)
+[2013-11-13 07:45:43] elstfi, joining. (#ios-driver)
