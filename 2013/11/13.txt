@@ -23,3 +23,5 @@
 [2013-11-13 08:06:31] jlipps, joining. (#ios-driver)
 [2013-11-13 08:25:45] lukeis, joining. (#ios-driver)
 [2013-11-13 08:33:15] elstfi, joining. (#ios-driver)
+[2013-11-13 08:36:37] jlipps, quitting. (Read error: Connection reset by peer)
+[2013-11-13 08:36:44] jlipps, joining. (#ios-driver)
