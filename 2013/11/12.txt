@@ -50,3 +50,5 @@
 [2013-11-12 20:51:55] lukeis, quitting. (Ping timeout: 244 seconds)
 [2013-11-12 20:52:18] lukeis, joining. (#ios-driver)
 [2013-11-12 20:54:45] lukeis2, quitting. (Ping timeout: 272 seconds)
+[2013-11-12 20:55:25] lukeis1, joining. (#ios-driver)
+[2013-11-12 20:58:06] lukeis, quitting. (Ping timeout: 246 seconds)
