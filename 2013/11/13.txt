@@ -65,3 +65,7 @@
 [2013-11-13 11:44:15] smohanat: ?
 [2013-11-13 11:45:28] lukeis: yes
 [2013-11-13 11:45:37] smohanat: k thx, let me give that a try
+[2013-11-13 11:53:41] smohanat: whats the exact command to get the submodule
+[2013-11-13 11:54:19] smohanat: # On branch refactor
+[2013-11-13 11:54:20] smohanat: nothing to commit, working directory clean
+[2013-11-13 11:54:29] jlipps, quitting. (Quit: Leaving.)
