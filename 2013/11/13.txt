@@ -40,3 +40,26 @@
 [2013-11-13 11:33:22] smohanat: anyone knows if ios-driver works with xcode5 and ios7 yet
 [2013-11-13 11:33:29] smohanat: i am having the instrument crash on startup
 [2013-11-13 11:36:09] lukeis: are you using the 'refactor' branch?
+[2013-11-13 11:40:07] smohanat: I am not, using the latest binary
+[2013-11-13 11:40:32] smohanat: but i tried to use the refactor branch but i do not see a ios-server binary there
+[2013-11-13 11:40:37] smohanat: do i have to build it?
+[2013-11-13 11:40:39] lukeis: ok, then you'll need to clone the project, checkout the refactor branch and build it yourself if you want to work in ios7
+[2013-11-13 11:40:44] smohanat: I am pretty new to all this
+[2013-11-13 11:41:09] smohanat: oh,  do i need to build it on a MaC machine?
+[2013-11-13 11:41:26] smohanat: Thanks for the help, really appreciate it
+[2013-11-13 11:41:29] lukeis: don't think so… but you need to run it on a mac ;)
+[2013-11-13 11:41:37] smohanat: :)
+[2013-11-13 11:42:00] smohanat: because i asked, i downloaded the src zip from refactor branch and when i did maven clean install
+[2013-11-13 11:42:32] smohanat: i got smohanat@yow-lp1ow:~/Downloads/ios-driver-refactor/ios-driver-refactor$ mvn clean install
+[2013-11-13 11:42:33] smohanat: [INFO] Scanning for projects...
+[2013-11-13 11:42:34] smohanat: [INFO] ------------------------------------------------------------------------
+[2013-11-13 11:42:36] smohanat: [ERROR] FATAL ERROR
+[2013-11-13 11:42:37] smohanat: [INFO] ------------------------------------------------------------------------
+[2013-11-13 11:42:39] smohanat: [INFO] Error building POM (may not be this project's POM).
+[2013-11-13 11:42:40] smohanat: Project ID: unknown
+[2013-11-13 11:42:41] smohanat: Reason: Could not find the model file '/home/smohanat/Downloads/ios-driver-refactor/ios-driver-refactor/libimobiledevice-wrapper/pom.xml'. for project unknown
+[2013-11-13 11:42:42] smohanat: [INFO] ------------------------------------------------------------------------
+[2013-11-13 11:43:17] lukeis: you need to get the submodule too
+[2013-11-13 11:43:32] lukeis: clone; git submodule --init --update
+[2013-11-13 11:44:14] smohanat: ok, so u would recommend using git
+[2013-11-13 11:44:15] smohanat: ?
