@@ -19,3 +19,5 @@
 [2013-11-13 07:43:08] elstfi, quitting. (Read error: Connection reset by peer)
 [2013-11-13 07:45:43] elstfi, joining. (#ios-driver)
 [2013-11-13 07:53:51] jlipps, quitting. (Quit: Leaving.)
+[2013-11-13 08:05:11] elstfi, quitting. (Quit: Leaving.)
+[2013-11-13 08:06:31] jlipps, joining. (#ios-driver)
