@@ -131,3 +131,4 @@
 [2013-11-13 13:21:13] smohanat: HI
 [2013-11-13 13:22:05] smohanat: anyone got  xcode5 and mobileSafari on simulator to work with ios-driver build from refactor branch?
 [2013-11-13 13:22:21] smohanat: I tried hard, but no success,  instrument crashes at start
+[2013-11-13 13:48:06] santiycr, quitting. (Quit: Leaving.)
