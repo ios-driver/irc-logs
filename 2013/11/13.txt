@@ -63,3 +63,5 @@
 [2013-11-13 11:43:32] lukeis: clone; git submodule --init --update
 [2013-11-13 11:44:14] smohanat: ok, so u would recommend using git
 [2013-11-13 11:44:15] smohanat: ?
+[2013-11-13 11:45:28] lukeis: yes
+[2013-11-13 11:45:37] smohanat: k thx, let me give that a try
