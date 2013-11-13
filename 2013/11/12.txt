@@ -39,3 +39,4 @@
 [2013-11-12 17:41:26] admc, quitting. (Client Quit)
 [2013-11-12 17:44:58] admc, joining. (#ios-driver)
 [2013-11-12 18:09:09] jlipps, quitting. (Quit: Leaving.)
+[2013-11-12 18:19:53] admc, quitting. (Quit: Leaving.)
