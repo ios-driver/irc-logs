@@ -69,3 +69,31 @@
 [2013-11-13 11:54:19] smohanat: # On branch refactor
 [2013-11-13 11:54:20] smohanat: nothing to commit, working directory clean
 [2013-11-13 11:54:29] jlipps, quitting. (Quit: Leaving.)
+[2013-11-13 11:55:22] lukeis: `git submodule init`  then `git submodule update`
+[2013-11-13 11:56:44] smohanat: thx a lot that did it, it seems
+[2013-11-13 11:57:04] smohanat: after that, i did mvn clean install
+[2013-11-13 11:57:09] smohanat: lots of downloading is taking place
+[2013-11-13 11:57:25] smohanat: seems dependent jars are being download
+[2013-11-13 11:57:30] smohanat: and the tests are running
+[2013-11-13 11:57:50] lukeis: yeah, you can -DskipTests=true  ;)
+[2013-11-13 11:58:07] smohanat: Reactor Summary:
+[2013-11-13 11:58:07] smohanat: [INFO] ------------------------------------------------------------------------
+[2013-11-13 11:58:09] smohanat: [INFO] IOS automation ........................................ SUCCESS [7.571s]
+[2013-11-13 11:58:10] smohanat: [INFO] Unnamed - org.uiautomation:ios-common:jar:0.6.5 ....... SUCCESS [12.741s]
+[2013-11-13 11:58:12] smohanat: [INFO] Unnamed - org.uiautomation:ios-client:jar:0.6.5 ....... SUCCESS [2.595s]
+[2013-11-13 11:58:13] lukeis: also you likely just wanted mvn package (not install, unless you really wanted it)
+[2013-11-13 11:58:13] smohanat: [INFO] Unnamed - org.uiautomation:libimobiledevice-wrapper:jar:1.0-SNAPSHOT  SUCCESS [12.646s]
+[2013-11-13 11:58:15] smohanat: [INFO] Unnamed - org.uiautomation:ios-server:jar:0.6.5 ....... SUCCESS [20.385s]
+[2013-11-13 11:58:16] smohanat: [INFO] Unnamed - org.uiautomation:ios-selenium-tests:jar:0.6.5  SUCCESS [2.319s]
+[2013-11-13 11:58:18] smohanat: [INFO] Unnamed - org.uiautomation:ios-grid:jar:0.6.5 ......... SUCCESS [18.808s]
+[2013-11-13 11:58:19] smohanat: [INFO] ------------------------------------------------------------------------
+[2013-11-13 11:58:21] smohanat: [INFO] ------------------------------------------------------------------------
+[2013-11-13 11:58:22] smohanat: [INFO] BUILD SUCCESSFUL
+[2013-11-13 11:58:24] smohanat: [INFO] ------------------------------------------------------------------------
+[2013-11-13 11:58:25] smohanat: [INFO] Total time: 1 minute 17 seconds
+[2013-11-13 11:58:27] smohanat: [INFO] Finished at: Wed Nov 13 14:57:48 EST 2013
+[2013-11-13 11:58:28] smohanat: [INFO] Final Memory: 82M/407M
+[2013-11-13 11:58:28] smohanat: awesome thx a lot for your help.
+[2013-11-13 11:58:31] smohanat: are u a dev on ios-driver
+[2013-11-13 11:58:50] lukeis: former ;)  used to work on it a bunch, but now I mainly work on android (selendroid)
+[2013-11-13 11:59:08] smohanat: oh cool. have a good one
