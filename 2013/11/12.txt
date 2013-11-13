@@ -55,3 +55,4 @@
 [2013-11-12 21:01:56] lukeis1, changing nick to lukeis.
 [2013-11-12 21:16:26] smccarthy, joining. (#ios-driver)
 [2013-11-12 21:18:31] lukeis1, joining. (#ios-driver)
+[2013-11-12 21:20:20] lukeis, quitting. (Ping timeout: 244 seconds)
