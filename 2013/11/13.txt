@@ -97,3 +97,4 @@
 [2013-11-13 11:58:31] smohanat: are u a dev on ios-driver
 [2013-11-13 11:58:50] lukeis: former ;)  used to work on it a bunch, but now I mainly work on android (selendroid)
 [2013-11-13 11:59:08] smohanat: oh cool. have a good one
+[2013-11-13 12:14:42] nirvdrum, quitting. (Remote host closed the connection)
