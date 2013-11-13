@@ -39,3 +39,4 @@
 [2013-11-13 11:32:49] smohanat: Hi
 [2013-11-13 11:33:22] smohanat: anyone knows if ios-driver works with xcode5 and ios7 yet
 [2013-11-13 11:33:29] smohanat: i am having the instrument crash on startup
+[2013-11-13 11:36:09] lukeis: are you using the 'refactor' branch?
