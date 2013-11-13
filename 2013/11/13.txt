@@ -31,3 +31,4 @@
 [2013-11-13 09:41:18] elstfi, quitting. (Quit: Leaving.)
 [2013-11-13 09:53:14] santiycr, joining. (#ios-driver)
 [2013-11-13 09:53:26] admc, quitting. (Quit: Leaving.)
+[2013-11-13 10:03:54] joevans, joining. (#ios-driver)
