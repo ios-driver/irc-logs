@@ -35,3 +35,7 @@
 [2013-11-13 10:06:43] jcam, joining. (#ios-driver)
 [2013-11-13 10:20:29] santiycr, quitting. (Quit: Leaving.)
 [2013-11-13 10:39:51] santiycr, joining. (#ios-driver)
+[2013-11-13 11:32:37] smohanat, joining. (#ios-driver)
+[2013-11-13 11:32:49] smohanat: Hi
+[2013-11-13 11:33:22] smohanat: anyone knows if ios-driver works with xcode5 and ios7 yet
+[2013-11-13 11:33:29] smohanat: i am having the instrument crash on startup
