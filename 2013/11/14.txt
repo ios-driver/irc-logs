@@ -20,3 +20,4 @@
 [2013-11-14 08:20:17] smohanat, quitting. (Quit: smohanat)
 [2013-11-14 08:23:26] admc, quitting. (Quit: Leaving.)
 [2013-11-14 08:33:33] lukeis, joining. (#ios-driver)
+[2013-11-14 08:35:30] smccarthy, joining. (#ios-driver)
