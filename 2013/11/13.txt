@@ -159,3 +159,5 @@
 [2013-11-13 23:18:09] otis23: i posted my problem @ http://stackoverflow.com/questions/19971189/selenium-ios-driver-0-6-5-doesnt-start-safari
 [2013-11-13 23:19:48] elstfi, quitting. (Quit: Leaving.)
 [2013-11-13 23:20:32] lukeis, quitting. (Quit: Leaving.)
+[2013-11-13 23:50:30] otis23, quitting. ()
+[2013-11-13 23:52:40] otis23, joining. (#ios-driver)
