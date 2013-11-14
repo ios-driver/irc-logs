@@ -15,3 +15,5 @@
 [2013-11-14 07:10:19] elstfi, quitting. (Ping timeout: 244 seconds)
 [2013-11-14 07:11:01] elstfi, joining. (#ios-driver)
 [2013-11-14 07:50:24] admc, joining. (#ios-driver)
+[2013-11-14 08:16:10] smohanat: whats the best way to completely remove Xcode and reinstall
+[2013-11-14 08:16:19] smohanat: i know deleting the .app is not good enough
