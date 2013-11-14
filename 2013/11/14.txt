@@ -3,3 +3,5 @@
 [2013-11-14 01:41:41] elstfi, joining. (#ios-driver)
 [2013-11-14 02:31:04] elstfi1, joining. (#ios-driver)
 [2013-11-14 02:31:05] elstfi, quitting. (Read error: Connection reset by peer)
+[2013-11-14 02:38:48] elstfi1, quitting. (Quit: Leaving.)
+[2013-11-14 02:39:02] elstfi, joining. (#ios-driver)
