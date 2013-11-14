@@ -154,3 +154,7 @@
 [2013-11-13 22:26:34] admc, quitting. (Quit: Leaving.)
 [2013-11-13 23:10:19] elstfi, joining. (#ios-driver)
 [2013-11-13 23:14:35] otis23, joining. (#ios-driver)
+[2013-11-13 23:15:34] otis23: hi :> somebody awake in here?
+[2013-11-13 23:17:35] otis23: i've a problem with starting safari on the simulator
+[2013-11-13 23:18:09] otis23: i posted my problem @ http://stackoverflow.com/questions/19971189/selenium-ios-driver-0-6-5-doesnt-start-safari
+[2013-11-13 23:19:48] elstfi, quitting. (Quit: Leaving.)
