@@ -145,3 +145,5 @@
 [2013-11-13 19:44:40] admc, joining. (#ios-driver)
 [2013-11-13 19:46:11] lukeis, joining. (#ios-driver)
 [2013-11-13 19:47:56] lukeis1, joining. (#ios-driver)
+[2013-11-13 19:50:27] lukeis, quitting. (Ping timeout: 246 seconds)
+[2013-11-13 19:54:08] lukeis1, changing nick to lukeis.
