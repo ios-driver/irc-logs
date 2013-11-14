@@ -19,3 +19,4 @@
 [2013-11-14 08:16:19] smohanat: i know deleting the .app is not good enough
 [2013-11-14 08:20:17] smohanat, quitting. (Quit: smohanat)
 [2013-11-14 08:23:26] admc, quitting. (Quit: Leaving.)
+[2013-11-14 08:33:33] lukeis, joining. (#ios-driver)
