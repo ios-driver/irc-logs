@@ -152,3 +152,5 @@
 [2013-11-13 20:24:54] santiycr, quitting. (Client Quit)
 [2013-11-13 22:07:12] smccarthy, quitting. (Remote host closed the connection)
 [2013-11-13 22:26:34] admc, quitting. (Quit: Leaving.)
+[2013-11-13 23:10:19] elstfi, joining. (#ios-driver)
+[2013-11-13 23:14:35] otis23, joining. (#ios-driver)
