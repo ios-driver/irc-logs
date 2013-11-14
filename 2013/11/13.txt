@@ -135,3 +135,4 @@
 [2013-11-13 14:32:02] joevans: What version of Xcode are you using?  5.0.1 has a regression that makes instruments totally unusable.
 [2013-11-13 14:37:48] smohanat, quitting. (Quit: smohanat)
 [2013-11-13 15:02:31] psp250, quitting. (Quit: Leaving)
+[2013-11-13 16:03:11] lukeis, quitting. (Quit: Leaving.)
