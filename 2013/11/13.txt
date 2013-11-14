@@ -138,3 +138,4 @@
 [2013-11-13 16:03:11] lukeis, quitting. (Quit: Leaving.)
 [2013-11-13 16:25:21] admc, joining. (#ios-driver)
 [2013-11-13 16:51:15] santiycr, joining. (#ios-driver)
+[2013-11-13 17:21:01] admc, quitting. (Quit: Leaving.)
