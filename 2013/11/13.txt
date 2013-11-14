@@ -143,3 +143,5 @@
 [2013-11-13 18:05:26] joevans, quitting. (Quit: joevans)
 [2013-11-13 19:42:13] admc, quitting. (Quit: Leaving.)
 [2013-11-13 19:44:40] admc, joining. (#ios-driver)
+[2013-11-13 19:46:11] lukeis, joining. (#ios-driver)
+[2013-11-13 19:47:56] lukeis1, joining. (#ios-driver)
