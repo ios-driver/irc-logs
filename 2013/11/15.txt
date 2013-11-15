@@ -16,3 +16,4 @@
 [2013-11-15 08:36:52] elstfi, quitting. (Quit: Leaving.)
 [2013-11-15 08:43:14] elstfi, joining. (#ios-driver)
 [2013-11-15 08:59:04] smccarthy2, quitting. (Read error: Connection reset by peer)
+[2013-11-15 09:10:15] elstfi, quitting. (Quit: Leaving.)
