@@ -42,3 +42,6 @@
 [2013-11-14 16:30:54] admc, quitting. (Ping timeout: 246 seconds)
 [2013-11-14 16:56:03] santiycr, quitting. (Quit: Leaving.)
 [2013-11-14 17:33:18] santiycr, joining. (#ios-driver)
+[2013-11-14 17:48:55] jtreminio, joining. (#ios-driver)
+[2013-11-14 17:48:59] jtreminio: hell ofriends
+[2013-11-14 17:49:35] admc1, quitting. (Quit: Leaving.)
