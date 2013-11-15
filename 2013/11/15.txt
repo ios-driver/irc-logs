@@ -8,3 +8,4 @@
 [2013-11-15 05:32:36] admc, quitting. (Ping timeout: 272 seconds)
 [2013-11-15 05:51:20] nirvdrum, joining. (#ios-driver)
 [2013-11-15 07:14:29] elstfi, joining. (#ios-driver)
+[2013-11-15 07:23:38] gdennis, joining. (#ios-driver)
