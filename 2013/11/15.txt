@@ -4,3 +4,4 @@
 [2013-11-15 03:36:10] elstfi, quitting. (Quit: Leaving.)
 [2013-11-15 03:51:52] elstfi, joining. (#ios-driver)
 [2013-11-15 04:44:24] elstfi, quitting. (Quit: Leaving.)
+[2013-11-15 05:27:41] admc, joining. (#ios-driver)
