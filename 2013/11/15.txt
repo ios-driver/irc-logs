@@ -31,3 +31,4 @@
 [2013-11-15 14:20:50] admc, quitting. (Quit: Leaving.)
 [2013-11-15 16:21:07] smccarthy2, quitting. (Remote host closed the connection)
 [2013-11-15 18:22:54] santiycr, quitting. (Quit: Leaving.)
+[2013-11-15 22:30:43] lukeis, quitting. (Quit: Leaving.)
