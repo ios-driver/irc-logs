@@ -30,3 +30,4 @@
 [2013-11-15 13:08:25] gdennis, leaving. (#ios-driver)
 [2013-11-15 14:20:50] admc, quitting. (Quit: Leaving.)
 [2013-11-15 16:21:07] smccarthy2, quitting. (Remote host closed the connection)
+[2013-11-15 18:22:54] santiycr, quitting. (Quit: Leaving.)
