@@ -6,3 +6,4 @@
 [2013-11-16 11:01:04] smccarthy, quitting. (Remote host closed the connection)
 [2013-11-16 11:57:49] admc, joining. (#ios-driver)
 [2013-11-16 12:16:32] admc, quitting. (Quit: Leaving.)
+[2013-11-16 16:03:13] admc, joining. (#ios-driver)
