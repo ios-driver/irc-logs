@@ -3,3 +3,4 @@
 [2013-11-17 01:00:47] admc, quitting. (Client Quit)
 [2013-11-17 01:19:22] admc, joining. (#ios-driver)
 [2013-11-17 01:22:01] admc, quitting. (Client Quit)
+[2013-11-17 13:17:15] nirvdrum, joining. (#ios-driver)
