@@ -87,3 +87,5 @@
 [2013-11-18 13:17:03] admc, quitting. (Ping timeout: 272 seconds)
 [2013-11-18 13:19:41] santiycr, quitting. (Ping timeout: 272 seconds)
 [2013-11-18 13:28:55] operatiay, joining. (#ios-driver)
+[2013-11-18 13:43:47] operatiay, quitting. (Remote host closed the connection)
+[2013-11-18 13:44:07] santiycr, joining. (#ios-driver)
