@@ -32,3 +32,7 @@
 [2013-11-18 04:14:26] operatiay: :) that sounds like something is happening
 [2013-11-18 04:14:52] nicegraham: it is, I just checked he's there next week
 [2013-11-18 04:14:54] operatiay: may I come back to you after those 2 weeks for an update? or is there another way to get updated on the issue?
+[2013-11-18 04:15:16] nicegraham: as soon as I know I'll update the issue, the problem was I had no concrete info on it
+[2013-11-18 04:15:44] operatiay: our problem is namely that the newest app is not running on simulator, so we're stuck and cannot do any progress
+[2013-11-18 04:16:07] operatiay: thank you! so we'll stick to ios-driver then :)
+[2013-11-18 04:16:31] nicegraham: why wont it run on sim?
