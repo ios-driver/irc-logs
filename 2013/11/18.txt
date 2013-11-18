@@ -11,3 +11,24 @@
 [2013-11-18 04:09:40] nicegraham: operatiay: yes
 [2013-11-18 04:09:47] nicegraham: we are still working on it
 [2013-11-18 04:09:52] nicegraham: the refactor branch is most up to date
+[2013-11-18 04:10:06] nicegraham: I think there'll be a public release in the next week or so
+[2013-11-18 04:10:22] nicegraham: which contains updates for ios7 as well as some general maintenance and bug fixes
+[2013-11-18 04:10:38] operatiay: thanks. I've opened a question in the git without any response from the developers for over a months... it's about support for real devices...
+[2013-11-18 04:10:49] nicegraham: that's still an issue
+[2013-11-18 04:10:58] nicegraham: which freynaud has been working on
+[2013-11-18 04:11:18] nicegraham: if we don't make positive progress with libimobiledevice
+[2013-11-18 04:11:19] operatiay: is there an easy way to enable it if we buy the license for the library separately?
+[2013-11-18 04:11:29] nicegraham: we'll revert to uiautomation directly more than likely
+[2013-11-18 04:11:50] nicegraham: the problem is they haven't figured out the licensing in general
+[2013-11-18 04:11:54] nicegraham: without them doing htat
+[2013-11-18 04:11:57] operatiay: ok. that's at least a sign that the project is not going to die without libimobiledevice
+[2013-11-18 04:11:59] nicegraham: we can't use it and it's not available
+[2013-11-18 04:12:13] nicegraham: no, we'll figure it out one way or another
+[2013-11-18 04:12:24] nicegraham: but progress has been way slower than we had hoped
+[2013-11-18 04:12:45] operatiay: in our project we need to make a decision, what to use for automation. for this we need something like a time schedule...
+[2013-11-18 04:13:01] nicegraham: I hope we'll have some concrete news in teh next couple of weeks on that
+[2013-11-18 04:13:48] nicegraham: the owner of libimobile is visiting freynaud this week or next I believe
+[2013-11-18 04:13:59] nicegraham: and we should know at the end of that trip what's happening
+[2013-11-18 04:14:26] operatiay: :) that sounds like something is happening
+[2013-11-18 04:14:52] nicegraham: it is, I just checked he's there next week
+[2013-11-18 04:14:54] operatiay: may I come back to you after those 2 weeks for an update? or is there another way to get updated on the issue?
