@@ -53,3 +53,4 @@
 [2013-11-18 07:22:37] operatiay, joining. (#ios-driver)
 [2013-11-18 07:32:28] gdennis, joining. (#ios-driver)
 [2013-11-18 07:50:10] nirvdrum, joining. (#ios-driver)
+[2013-11-18 08:14:39] operatiay, quitting. (Remote host closed the connection)
