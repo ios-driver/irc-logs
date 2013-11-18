@@ -49,3 +49,4 @@
 [2013-11-18 05:57:19] operatiay, joining. (#ios-driver)
 [2013-11-18 06:15:58] elstfi, joining. (#ios-driver)
 [2013-11-18 07:05:50] smccarthy, joining. (#ios-driver)
+[2013-11-18 07:15:11] operatiay, quitting. (Remote host closed the connection)
