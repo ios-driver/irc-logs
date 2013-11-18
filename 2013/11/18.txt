@@ -4,3 +4,4 @@
 [2013-11-18 01:49:30] admc, quitting. (Quit: Leaving.)
 [2013-11-18 02:09:15] elstfi, quitting. (Quit: Leaving.)
 [2013-11-18 02:14:15] elstfi, joining. (#ios-driver)
+[2013-11-18 03:16:21] operatiay: :nicegraham, is someone still working on ios-driver?
