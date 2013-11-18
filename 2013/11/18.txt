@@ -37,3 +37,5 @@
 [2013-11-18 04:16:07] operatiay: thank you! so we'll stick to ios-driver then :)
 [2013-11-18 04:16:31] nicegraham: why wont it run on sim?
 [2013-11-18 04:29:18] elstfi, quitting. (Quit: Leaving.)
+[2013-11-18 04:32:10] operatiay, quitting. (Remote host closed the connection)
+[2013-11-18 04:32:10] anonymo, quitting. (Quit: Page closed)
