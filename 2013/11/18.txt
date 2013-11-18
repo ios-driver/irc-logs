@@ -66,3 +66,5 @@
 [2013-11-18 09:53:17] operatiay, quitting. (Remote host closed the connection)
 [2013-11-18 10:14:20] santiycr, joining. (#ios-driver)
 [2013-11-18 10:34:50] elstfi, quitting. (Quit: Leaving.)
+[2013-11-18 10:43:17] santiycr, quitting. (Quit: Leaving.)
+[2013-11-18 10:43:27] santiycr, joining. (#ios-driver)
