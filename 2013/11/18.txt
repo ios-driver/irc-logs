@@ -36,3 +36,4 @@
 [2013-11-18 04:15:44] operatiay: our problem is namely that the newest app is not running on simulator, so we're stuck and cannot do any progress
 [2013-11-18 04:16:07] operatiay: thank you! so we'll stick to ios-driver then :)
 [2013-11-18 04:16:31] nicegraham: why wont it run on sim?
+[2013-11-18 04:29:18] elstfi, quitting. (Quit: Leaving.)
