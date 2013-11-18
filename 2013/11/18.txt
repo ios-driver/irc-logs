@@ -63,3 +63,4 @@
 [2013-11-18 09:26:37] operatiay, joining. (#ios-driver)
 [2013-11-18 09:26:38] operatiay, quitting. (Read error: Connection reset by peer)
 [2013-11-18 09:26:51] operatiay, joining. (#ios-driver)
+[2013-11-18 09:53:17] operatiay, quitting. (Remote host closed the connection)
