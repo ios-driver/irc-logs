@@ -96,3 +96,5 @@
 [2013-11-18 14:15:20] joevans, quitting. (Quit: joevans)
 [2013-11-18 14:35:52] admc, quitting. (Quit: Leaving.)
 [2013-11-18 14:38:38] admc, joining. (#ios-driver)
+[2013-11-18 15:33:58] admc, quitting. (Read error: Connection reset by peer)
+[2013-11-18 15:34:01] admc1, joining. (#ios-driver)
