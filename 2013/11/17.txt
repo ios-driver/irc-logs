@@ -8,3 +8,4 @@
 [2013-11-17 13:35:45] nicegraham, joining. (#ios-driver)
 [2013-11-17 14:36:43] admc, joining. (#ios-driver)
 [2013-11-17 15:08:02] admc, quitting. (Quit: Leaving.)
+[2013-11-17 22:17:11] admc, joining. (#ios-driver)
