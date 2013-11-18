@@ -39,3 +39,5 @@
 [2013-11-18 04:29:18] elstfi, quitting. (Quit: Leaving.)
 [2013-11-18 04:32:10] operatiay, quitting. (Remote host closed the connection)
 [2013-11-18 04:32:10] anonymo, quitting. (Quit: Page closed)
+[2013-11-18 04:38:59] operatiay, joining. (#ios-driver)
+[2013-11-18 04:39:44] operatiay: there are some 3rd party libraries, which are not supporting the intel architecture
