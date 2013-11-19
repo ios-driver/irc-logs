@@ -42,3 +42,4 @@
 [2013-11-19 14:43:15] joevans, joining. (#ios-driver)
 [2013-11-19 14:47:00] lukeis, quitting. (Quit: Leaving.)
 [2013-11-19 15:21:49] operatiay, joining. (#ios-driver)
+[2013-11-19 15:26:31] operatiay, quitting. (Ping timeout: 246 seconds)
