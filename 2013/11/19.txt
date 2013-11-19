@@ -31,3 +31,4 @@
 [2013-11-19 11:16:47] admc, joining. (#ios-driver)
 [2013-11-19 11:22:02] santiycr, joining. (#ios-driver)
 [2013-11-19 11:48:11] dgrace, joining. (#ios-driver)
+[2013-11-19 12:31:19] santiycr, quitting. (Quit: Leaving.)
