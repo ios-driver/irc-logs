@@ -111,3 +111,4 @@
 [2013-11-18 21:45:00] nirvdrum, quitting. (Ping timeout: 245 seconds)
 [2013-11-18 21:46:54] operatiay, joining. (#ios-driver)
 [2013-11-18 21:52:04] operatiay, quitting. (Ping timeout: 264 seconds)
+[2013-11-18 23:15:15] admc, joining. (#ios-driver)
