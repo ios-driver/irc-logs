@@ -37,3 +37,4 @@
 [2013-11-19 13:15:30] lukeis, joining. (#ios-driver)
 [2013-11-19 13:16:08] gdennis, leaving. (#ios-driver)
 [2013-11-19 13:17:58] santiycr, joining. (#ios-driver)
+[2013-11-19 13:21:13] operatiay, quitting. (Remote host closed the connection)
