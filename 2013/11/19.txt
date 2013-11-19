@@ -40,3 +40,4 @@
 [2013-11-19 13:21:13] operatiay, quitting. (Remote host closed the connection)
 [2013-11-19 13:53:23] admc, joining. (#ios-driver)
 [2013-11-19 14:43:15] joevans, joining. (#ios-driver)
+[2013-11-19 14:47:00] lukeis, quitting. (Quit: Leaving.)
