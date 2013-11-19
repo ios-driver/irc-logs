@@ -22,3 +22,4 @@
 [2013-11-19 08:46:39] lukeis, joining. (#ios-driver)
 [2013-11-19 09:05:01] lukeis, quitting. (Ping timeout: 246 seconds)
 [2013-11-19 09:08:06] lukeis, joining. (#ios-driver)
+[2013-11-19 09:37:00] operatiay, quitting. (Remote host closed the connection)
