@@ -37,3 +37,4 @@
 [2013-11-20 09:52:49] nirvdrum, quitting. (Remote host closed the connection)
 [2013-11-20 10:02:16] lukeis, joining. (#ios-driver)
 [2013-11-20 10:21:29] nirvdrum, joining. (#ios-driver)
+[2013-11-20 10:26:25] nirvdrum, quitting. (Ping timeout: 252 seconds)
