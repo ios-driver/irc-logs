@@ -1,1 +1,3 @@
 [2013-11-20 00:02:32] jlipps, quitting. (Quit: Leaving.)
+[2013-11-20 00:26:50] jlipps, joining. (#ios-driver)
+[2013-11-20 00:28:07] jlipps, quitting. (Client Quit)
