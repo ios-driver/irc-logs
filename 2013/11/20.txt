@@ -55,3 +55,4 @@
 [2013-11-20 13:08:48] admc, joining. (#ios-driver)
 [2013-11-20 13:08:55] operatiay, joining. (#ios-driver)
 [2013-11-20 13:10:36] santiycr, joining. (#ios-driver)
+[2013-11-20 13:23:59] operatiay, quitting. (Remote host closed the connection)
