@@ -10,3 +10,4 @@
 [2013-11-20 03:56:53] elstfi, joining. (#ios-driver)
 [2013-11-20 04:08:21] elstfi, quitting. (Quit: Leaving.)
 [2013-11-20 04:46:30] operatia_, joining. (#ios-driver)
+[2013-11-20 04:50:15] operatiay, quitting. (Ping timeout: 246 seconds)
