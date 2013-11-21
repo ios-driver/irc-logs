@@ -47,3 +47,4 @@
 [2013-11-21 11:30:08] ios-driver-git: [ios-driver] jasone pushed 1 new commit to refactor: http://git.io/yPfBNA
 [2013-11-21 11:30:08] ios-driver-git: ios-driver/refactor f32108f Jason Evans: Update instruments-without-delay build to include universal binary.
 [2013-11-21 11:30:08] ios-driver-git, leaving. (#ios-driver)
+[2013-11-21 11:49:36] admc, joining. (#ios-driver)
