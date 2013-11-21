@@ -26,3 +26,4 @@
 [2013-11-21 07:00:09] elstfi1, quitting. (Quit: Leaving.)
 [2013-11-21 07:03:39] elstfi, joining. (#ios-driver)
 [2013-11-21 07:07:51] elstfi, quitting. (Client Quit)
+[2013-11-21 07:13:45] operatiay, joining. (#ios-driver)
