@@ -65,3 +65,5 @@
 [2013-11-20 14:58:48] santiycr, quitting. (Quit: Leaving.)
 [2013-11-20 15:24:35] operatiay, joining. (#ios-driver)
 [2013-11-20 15:29:33] operatiay, quitting. (Ping timeout: 272 seconds)
+[2013-11-20 16:31:26] admc, quitting. (Quit: Leaving.)
+[2013-11-20 16:31:33] admc, joining. (#ios-driver)
