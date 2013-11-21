@@ -79,3 +79,4 @@
 [2013-11-20 17:40:35] smccarthy, quitting. (Remote host closed the connection)
 [2013-11-20 17:58:39] lukeis, quitting. (Ping timeout: 272 seconds)
 [2013-11-20 18:08:06] joevans, quitting. (Quit: joevans)
+[2013-11-20 19:26:29] operatiay, joining. (#ios-driver)
