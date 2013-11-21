@@ -37,3 +37,5 @@
 [2013-11-21 09:50:45] elstfi, quitting. (Quit: Leaving.)
 [2013-11-21 09:50:56] santiycr, quitting. (Quit: Leaving.)
 [2013-11-21 09:54:23] santiycr, joining. (#ios-driver)
+[2013-11-21 09:55:28] elstfi, joining. (#ios-driver)
+[2013-11-21 09:55:51] santiycr, quitting. (Client Quit)
