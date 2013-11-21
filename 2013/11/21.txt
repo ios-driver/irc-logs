@@ -50,3 +50,4 @@
 [2013-11-21 11:49:36] admc, joining. (#ios-driver)
 [2013-11-21 12:23:51] lukeis, joining. (#ios-driver)
 [2013-11-21 13:19:56] operatiay, joining. (#ios-driver)
+[2013-11-21 13:34:45] operatiay, quitting. (Remote host closed the connection)
