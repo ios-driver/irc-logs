@@ -52,3 +52,5 @@
 [2013-11-21 13:19:56] operatiay, joining. (#ios-driver)
 [2013-11-21 13:34:45] operatiay, quitting. (Remote host closed the connection)
 [2013-11-21 13:52:17] gdennis, quitting. (Quit: gdennis)
+[2013-11-21 14:26:37] elstfi, joining. (#ios-driver)
+[2013-11-21 14:27:05] elstfi, quitting. (Client Quit)
