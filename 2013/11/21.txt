@@ -30,3 +30,4 @@
 [2013-11-21 07:17:18] operatiay, quitting. (Read error: Operation timed out)
 [2013-11-21 07:17:50] elstfi, joining. (#ios-driver)
 [2013-11-21 07:45:00] smccarthy, joining. (#ios-driver)
+[2013-11-21 08:53:10] lukeis, joining. (#ios-driver)
