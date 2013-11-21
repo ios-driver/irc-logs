@@ -82,3 +82,6 @@
 [2013-11-20 19:26:29] operatiay, joining. (#ios-driver)
 [2013-11-20 19:30:51] operatiay, quitting. (Ping timeout: 246 seconds)
 [2013-11-20 21:43:40] lukeis, joining. (#ios-driver)
+[2013-11-20 22:40:44] lukeis1, joining. (#ios-driver)
+[2013-11-20 22:41:03] lukeis1, leaving. (#ios-driver)
+[2013-11-20 22:42:46] lukeis, quitting. (Ping timeout: 272 seconds)
