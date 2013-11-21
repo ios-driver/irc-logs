@@ -74,3 +74,4 @@
 [2013-11-20 17:10:38] ios-driver-git, leaving. (#ios-driver)
 [2013-11-20 17:13:16] santiycr, joining. (#ios-driver)
 [2013-11-20 17:13:45] santiycr, quitting. (Client Quit)
+[2013-11-20 17:21:48] nirvdrum, quitting. (Ping timeout: 245 seconds)
