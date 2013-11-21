@@ -55,3 +55,4 @@
 [2013-11-21 14:26:37] elstfi, joining. (#ios-driver)
 [2013-11-21 14:27:05] elstfi, quitting. (Client Quit)
 [2013-11-21 14:39:10] lukeis, quitting. (Ping timeout: 245 seconds)
+[2013-11-21 14:43:24] santiycr, quitting. (Quit: Leaving.)
