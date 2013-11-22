@@ -67,3 +67,5 @@
 [2013-11-21 19:36:54] santiycr, quitting. (Quit: Leaving.)
 [2013-11-21 19:40:07] lukeis, joining. (#ios-driver)
 [2013-11-21 19:40:21] lukeis, leaving. (#ios-driver)
+[2013-11-21 19:52:44] lukeis1, joining. (#ios-driver)
+[2013-11-21 19:52:50] lukeis1, quitting. (Client Quit)
