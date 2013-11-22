@@ -71,3 +71,4 @@
 [2013-11-21 19:52:50] lukeis1, quitting. (Client Quit)
 [2013-11-21 21:37:53] operatiay, joining. (#ios-driver)
 [2013-11-21 21:42:29] operatiay, quitting. (Ping timeout: 248 seconds)
+[2013-11-21 23:17:38] nirvdrum, quitting. (Ping timeout: 265 seconds)
