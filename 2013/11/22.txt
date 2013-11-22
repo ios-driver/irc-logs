@@ -47,3 +47,4 @@
 [2013-11-22 15:03:29] admc, quitting. (Ping timeout: 246 seconds)
 [2013-11-22 15:15:45] santiycr, joining. (#ios-driver)
 [2013-11-22 15:49:30] smccarthy, quitting. (Remote host closed the connection)
+[2013-11-22 15:50:21] lukeis, quitting. (Quit: Leaving.)
