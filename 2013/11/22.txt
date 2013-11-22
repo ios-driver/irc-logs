@@ -33,3 +33,5 @@
 [2013-11-22 13:25:09] admc1, quitting. (Quit: Leaving.)
 [2013-11-22 13:26:25] santiycr, joining. (#ios-driver)
 [2013-11-22 13:27:46] gdennis, quitting. (Quit: gdennis)
+[2013-11-22 13:34:38] admc, joining. (#ios-driver)
+[2013-11-22 13:34:56] admc, quitting. (Client Quit)
