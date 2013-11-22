@@ -5,3 +5,4 @@
 [2013-11-22 02:54:26] operatiay, quitting. ()
 [2013-11-22 03:13:10] elstfi, quitting. (Quit: Leaving.)
 [2013-11-22 03:28:31] elstfi, joining. (#ios-driver)
+[2013-11-22 05:07:20] elstfi, quitting. (Quit: Leaving.)
