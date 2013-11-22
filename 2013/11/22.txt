@@ -12,3 +12,4 @@
 [2013-11-22 06:28:41] nirvdrum, joining. (#ios-driver)
 [2013-11-22 06:50:54] gdennis, joining. (#ios-driver)
 [2013-11-22 07:57:31] smccarthy, joining. (#ios-driver)
+[2013-11-22 08:11:08] elstfi, quitting. (Quit: Leaving.)
