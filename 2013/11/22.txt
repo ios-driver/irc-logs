@@ -55,3 +55,4 @@
 [2013-11-22 17:43:01] santiycr, quitting. (Ping timeout: 248 seconds)
 [2013-11-22 17:57:04] admc1, quitting. (Quit: Leaving.)
 [2013-11-22 18:11:42] joevans, quitting. (Quit: joevans)
+[2013-11-22 18:18:06] admc, joining. (#ios-driver)
