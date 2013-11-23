@@ -59,3 +59,5 @@
 [2013-11-22 18:20:26] admc, quitting. (Client Quit)
 [2013-11-22 18:39:21] santiycr, joining. (#ios-driver)
 [2013-11-22 18:43:54] santiycr, quitting. (Ping timeout: 265 seconds)
+[2013-11-22 20:16:17] santiycr, joining. (#ios-driver)
+[2013-11-22 20:16:24] santiycr, quitting. (Client Quit)
