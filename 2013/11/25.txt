@@ -35,3 +35,9 @@
 [2013-11-25 08:37:34] joevans, joining. (#ios-driver)
 [2013-11-25 09:01:11] lukeis, joining. (#ios-driver)
 [2013-11-25 10:20:04] santiycr, joining. (#ios-driver)
+[2013-11-25 11:00:47] ios-driver-git, joining. (#ios-driver)
+[2013-11-25 11:00:47] ios-driver-git: [ios-driver] rsalvador pushed 3 new commits to refactor: http://git.io/G79T_g
+[2013-11-25 11:00:47] ios-driver-git: ios-driver/refactor 0c8227f rsalvador: Add capability to set the simulator scale.
+[2013-11-25 11:00:47] ios-driver-git: ios-driver/refactor 167c5cb rsalvador: Reduce logging level for some very verbose webkit messages.
+[2013-11-25 11:00:47] ios-driver-git: ios-driver/refactor 083ae28 rsalvador: Use default device variation that is compatible with the current SDK.
+[2013-11-25 11:00:48] ios-driver-git, leaving. (#ios-driver)
