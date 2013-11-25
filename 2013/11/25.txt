@@ -41,3 +41,5 @@
 [2013-11-25 11:00:47] ios-driver-git: ios-driver/refactor 167c5cb rsalvador: Reduce logging level for some very verbose webkit messages.
 [2013-11-25 11:00:47] ios-driver-git: ios-driver/refactor 083ae28 rsalvador: Use default device variation that is compatible with the current SDK.
 [2013-11-25 11:00:48] ios-driver-git, leaving. (#ios-driver)
+[2013-11-25 13:00:29] santiycr, quitting. (Quit: Leaving.)
+[2013-11-25 13:03:39] gdennis, quitting. (Quit: gdennis)
