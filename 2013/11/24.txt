@@ -10,3 +10,5 @@
 [2013-11-24 19:11:47] nirvdrum, joining. (#ios-driver)
 [2013-11-24 21:19:41] smccarthy2, quitting. (Remote host closed the connection)
 [2013-11-24 21:52:40] nirvdrum, quitting. (Ping timeout: 264 seconds)
+[2013-11-24 23:20:45] Hammertime38, joining. (#ios-driver)
+[2013-11-24 23:21:54] Hammertime38, quitting. (Client Quit)
