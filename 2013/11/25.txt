@@ -26,3 +26,6 @@
 [2013-11-25 06:00:32] Krishnan: sigh! I should have asked 2 hrs back itself
 [2013-11-25 06:00:34] Krishnan: :-|
 [2013-11-25 06:32:03] Krishnan, quitting. (Quit: Page closed)
+[2013-11-25 06:52:54] gdennis, joining. (#ios-driver)
+[2013-11-25 06:53:20] gdennis, quitting. (Client Quit)
+[2013-11-25 06:53:38] gdennis, joining. (#ios-driver)
