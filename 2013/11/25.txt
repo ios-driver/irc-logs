@@ -49,3 +49,4 @@
 [2013-11-25 13:58:30] ios-driver-git, leaving. (#ios-driver)
 [2013-11-25 13:58:30] ios-driver-git: ios-driver/refactor b1f849e rsalvador: Show in the log the applications added by the FolderMonitor.
 [2013-11-25 15:01:39] santiycr, quitting. (Quit: Leaving.)
+[2013-11-25 15:14:10] santiycr, joining. (#ios-driver)
