@@ -1,3 +1,23 @@
 [2013-11-25 02:41:43] ddary, joining. (#ios-driver)
 [2013-11-25 03:01:30] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-11-25 03:06:04] ddary, joining. (#ios-driver)
+[2013-11-25 05:55:15] Krishnan, joining. (#ios-driver)
+[2013-11-25 05:55:24] Krishnan: hi
+[2013-11-25 05:55:43] Krishnan: I have a real silly/dumb question.. Can someone please help me ?
+[2013-11-25 05:56:26] Krishnan: basically trying to figure out how do I invoke the inspector... : http://ios-driver.github.io/ios-driver/inspector.html
+[2013-11-25 05:56:50] nicegraham: you just need to breakpoint your test
+[2013-11-25 05:56:58] nicegraham: and then hit the inspector url in your browser
+[2013-11-25 05:57:13] nicegraham: there's only a single thread so if you don't breakpoint you can't load the inspector
+[2013-11-25 05:57:27] Krishnan: I have setup a breakpoint in XCode and i see xcode is right now stopped and waiting for me to resume
+[2013-11-25 05:57:41] Krishnan: but everytime I load http://localhost:5555/inspector
+[2013-11-25 05:57:43] Krishnan: I see errors
+[2013-11-25 05:57:54] Krishnan: java.lang.NullPointerException 	at org.uiautomation.ios.inspector.controllers.SessionGuesserController.canHandle(SessionGuesserController.java:43)
+[2013-11-25 05:57:55] nicegraham: not in xcode
+[2013-11-25 05:57:59] nicegraham: in your test code
+[2013-11-25 05:58:11] nicegraham: so eclipse or intellij
+[2013-11-25 05:58:25] Krishnan: LOL !! I knew I was doing a real dumb thing !
+[2013-11-25 05:58:29] Krishnan: darn !!!
+[2013-11-25 05:58:40] Krishnan: all the while I was putting up breakpoints in Xcode :-|
+[2013-11-25 05:58:48] Krishnan: ^^embarrassed^^
+[2013-11-25 05:58:51] nicegraham: that'd be a problem
+[2013-11-25 05:58:53] nicegraham: no worreis
