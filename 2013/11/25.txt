@@ -33,3 +33,4 @@
 [2013-11-25 07:39:18] nirvdrum, joining. (#ios-driver)
 [2013-11-25 07:40:42] smccarthy, joining. (#ios-driver)
 [2013-11-25 08:37:34] joevans, joining. (#ios-driver)
+[2013-11-25 09:01:11] lukeis, joining. (#ios-driver)
