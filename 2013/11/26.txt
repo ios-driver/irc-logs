@@ -14,3 +14,5 @@
 [2013-11-26 13:26:32] santiycr, joining. (#ios-driver)
 [2013-11-26 13:44:29] santiycr, quitting. (Quit: Leaving.)
 [2013-11-26 13:48:59] santiycr, joining. (#ios-driver)
+[2013-11-26 14:40:07] AutomatedTester, quitting. (Changing host)
+[2013-11-26 14:40:07] AutomatedTester, joining. (#ios-driver)
