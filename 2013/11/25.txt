@@ -55,3 +55,8 @@
 [2013-11-25 15:50:55] smccarthy, quitting. (Remote host closed the connection)
 [2013-11-25 16:04:23] lukeis, quitting. (Quit: Leaving.)
 [2013-11-25 16:39:12] nirvdrum, quitting. (Ping timeout: 246 seconds)
+[2013-11-25 16:42:39] santiycr, quitting. (Quit: Leaving.)
+[2013-11-25 16:44:34] ios-driver-git, joining. (#ios-driver)
+[2013-11-25 16:44:35] ios-driver-git, leaving. (#ios-driver)
+[2013-11-25 16:44:35] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/g8VTFA
+[2013-11-25 16:44:35] ios-driver-git: ios-driver/refactor aaaac9d rsalvador: IOSServer was not being stopped because initialized was never set.
