@@ -61,3 +61,4 @@
 [2013-11-25 16:44:35] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/g8VTFA
 [2013-11-25 16:44:35] ios-driver-git: ios-driver/refactor aaaac9d rsalvador: IOSServer was not being stopped because initialized was never set.
 [2013-11-25 16:52:07] santiycr, joining. (#ios-driver)
+[2013-11-25 17:31:36] smccarthy, joining. (#ios-driver)
