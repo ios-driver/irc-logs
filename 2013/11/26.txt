@@ -8,3 +8,5 @@
 [2013-11-26 09:32:28] joevans, joining. (#ios-driver)
 [2013-11-26 09:38:35] lukeis, joining. (#ios-driver)
 [2013-11-26 11:38:09] santiycr, joining. (#ios-driver)
+[2013-11-26 11:45:58] dawagner, joining. (#ios-driver)
+[2013-11-26 11:46:07] dawagner, quitting. (Client Quit)
