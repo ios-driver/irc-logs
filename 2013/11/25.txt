@@ -72,3 +72,11 @@
 [2013-11-25 20:16:19] nirvdrum, joining. (#ios-driver)
 [2013-11-25 20:27:00] santiycr, quitting. (Quit: Leaving.)
 [2013-11-25 21:51:46] smccarthy, quitting. (Remote host closed the connection)
+[2013-11-25 23:55:44] Krishnan, joining. (#ios-driver)
+[2013-11-25 23:55:49] Krishnan: Hi
+[2013-11-25 23:56:19] Krishnan: I have been having problems with getting the inspector to work.. I keep getting an NPE on the console every time i try to invoke the inspector
+[2013-11-25 23:56:26] Krishnan: was wondering if someone could please help
+[2013-11-25 23:57:23] Krishnan: Am using the sample code provided in http://ios-driver.github.io/ios-driver/native.html
+[2013-11-25 23:57:42] Krishnan: I did setup a break point in eclipse right after the RWD gets instantiated...
+[2013-11-25 23:57:54] Krishnan: but even after that i can't get the inspector to show me the elements..
+[2013-11-25 23:58:07] Krishnan: is there something else that am missing here ?
