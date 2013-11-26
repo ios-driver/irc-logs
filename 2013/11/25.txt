@@ -54,3 +54,4 @@
 [2013-11-25 15:39:05] santiycr, joining. (#ios-driver)
 [2013-11-25 15:50:55] smccarthy, quitting. (Remote host closed the connection)
 [2013-11-25 16:04:23] lukeis, quitting. (Quit: Leaving.)
+[2013-11-25 16:39:12] nirvdrum, quitting. (Ping timeout: 246 seconds)
