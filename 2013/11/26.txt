@@ -11,3 +11,4 @@
 [2013-11-26 11:45:58] dawagner, joining. (#ios-driver)
 [2013-11-26 11:46:07] dawagner, quitting. (Client Quit)
 [2013-11-26 11:59:16] santiycr, quitting. (Quit: Leaving.)
+[2013-11-26 13:26:32] santiycr, joining. (#ios-driver)
