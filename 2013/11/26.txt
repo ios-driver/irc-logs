@@ -1,0 +1,5 @@
+[2013-11-26 00:50:00] ios-driver-git, joining. (#ios-driver)
+[2013-11-26 00:50:00] ios-driver-git: [ios-driver] freynaud created stale (+2 new commits): http://git.io/GNj0tw
+[2013-11-26 00:50:00] ios-driver-git: ios-driver/stale 4ba5632 freynaud: example test of where stale is problematic. The current, not ideal proxy to find out stale is to scroll to element.
+[2013-11-26 00:50:00] ios-driver-git: ios-driver/stale bffd7d2 freynaud: record when the server is initialized so that it tears down everything properly.
+[2013-11-26 00:50:00] ios-driver-git, leaving. (#ios-driver)
