@@ -4,3 +4,4 @@
 [2013-11-26 00:50:00] ios-driver-git: ios-driver/stale bffd7d2 freynaud: record when the server is initialized so that it tears down everything properly.
 [2013-11-26 00:50:00] ios-driver-git, leaving. (#ios-driver)
 [2013-11-26 04:30:33] Krishnan, leaving. (#ios-driver)
+[2013-11-26 06:54:17] smccarthy, joining. (#ios-driver)
