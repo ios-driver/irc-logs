@@ -65,3 +65,4 @@
 [2013-11-25 18:21:00] joevans, quitting. (Quit: joevans)
 [2013-11-25 19:03:06] santiycr, quitting. (Quit: Leaving.)
 [2013-11-25 19:04:08] santiycr, joining. (#ios-driver)
+[2013-11-25 19:11:04] nirvdrum, joining. (#ios-driver)
