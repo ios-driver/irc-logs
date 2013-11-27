@@ -3,3 +3,7 @@
 [2013-11-27 02:27:12] ios-driver-git, leaving. (#ios-driver)
 [2013-11-27 03:00:08] ddary, joining. (#ios-driver)
 [2013-11-27 03:23:59] ddary, quitting. (Quit: ddary)
+[2013-11-27 05:08:49] ios-driver-git, joining. (#ios-driver)
+[2013-11-27 05:08:49] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/MiIMlw
+[2013-11-27 05:08:49] ios-driver-git: ios-driver/dev 50d5d94 Graham Abell: reverting to previous sub module version
+[2013-11-27 05:08:49] ios-driver-git, leaving. (#ios-driver)
