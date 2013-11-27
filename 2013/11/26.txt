@@ -19,3 +19,7 @@
 [2013-11-26 14:55:24] santiycr, quitting. (Quit: Leaving.)
 [2013-11-26 14:58:33] santiycr, joining. (#ios-driver)
 [2013-11-26 16:03:40] lukeis, quitting. (Quit: Leaving.)
+[2013-11-26 17:09:52] ios-driver-git, joining. (#ios-driver)
+[2013-11-26 17:09:52] ios-driver-git, leaving. (#ios-driver)
+[2013-11-26 17:09:52] ios-driver-git: ios-driver/refactor 10679f9 rsalvador: Support for Xcode 5.0.2.
+[2013-11-26 17:09:53] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/2YoOEw
