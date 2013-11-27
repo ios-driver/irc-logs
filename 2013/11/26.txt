@@ -26,3 +26,6 @@
 [2013-11-26 18:07:10] joevans, quitting. (Quit: joevans)
 [2013-11-26 18:59:05] santiycr, quitting. (Quit: Leaving.)
 [2013-11-26 21:08:52] nirvdrum, quitting. (Ping timeout: 264 seconds)
+[2013-11-26 21:21:45] ios-driver-git, joining. (#ios-driver)
+[2013-11-26 21:21:46] ios-driver-git, leaving. (#ios-driver)
+[2013-11-26 21:21:46] ios-driver-git: [ios-driver] wrightt opened pull request #176: Added "performance" log (wrightt). (dev...topic/perflog) http://git.io/JdlG3w
