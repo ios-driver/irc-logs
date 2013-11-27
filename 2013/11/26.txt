@@ -29,3 +29,4 @@
 [2013-11-26 21:21:45] ios-driver-git, joining. (#ios-driver)
 [2013-11-26 21:21:46] ios-driver-git, leaving. (#ios-driver)
 [2013-11-26 21:21:46] ios-driver-git: [ios-driver] wrightt opened pull request #176: Added "performance" log (wrightt). (dev...topic/perflog) http://git.io/JdlG3w
+[2013-11-26 21:53:02] smccarthy, quitting. (Remote host closed the connection)
