@@ -17,3 +17,4 @@
 [2013-11-27 07:56:07] operatiay, quitting. (Remote host closed the connection)
 [2013-11-27 08:09:23] lukeis, joining. (#ios-driver)
 [2013-11-27 09:16:16] operatiay, joining. (#ios-driver)
+[2013-11-27 09:46:28] operatiay, quitting. (Remote host closed the connection)
