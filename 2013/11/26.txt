@@ -33,3 +33,6 @@
 [2013-11-26 23:31:02] santiycr, joining. (#ios-driver)
 [2013-11-26 23:37:47] santiycr1, joining. (#ios-driver)
 [2013-11-26 23:37:50] santiycr, quitting. (Ping timeout: 240 seconds)
+[2013-11-26 23:50:33] santiycr1, quitting. (Read error: Connection reset by peer)
+[2013-11-26 23:50:35] santiycr, joining. (#ios-driver)
+[2013-11-26 23:54:01] santiycr, quitting. (Client Quit)
