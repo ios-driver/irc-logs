@@ -22,3 +22,4 @@
 [2013-11-27 10:24:32] lukeis, quitting. (Quit: Leaving.)
 [2013-11-27 11:39:58] lukeis, joining. (#ios-driver)
 [2013-11-27 11:56:04] admc, joining. (#ios-driver)
+[2013-11-27 12:47:40] admc, quitting. (Quit: Leaving.)
