@@ -30,3 +30,4 @@
 [2013-11-27 13:23:56] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/OySizA
 [2013-11-27 13:23:56] ios-driver-git: ios-driver/refactor e4ce453 rsalvador: Fixed timeout tests.
 [2013-11-27 13:23:56] ios-driver-git, leaving. (#ios-driver)
+[2013-11-27 13:56:11] operatiay, joining. (#ios-driver)
