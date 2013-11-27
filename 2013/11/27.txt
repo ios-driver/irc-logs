@@ -38,3 +38,4 @@
 [2013-11-27 14:22:08] Taconut: I guess not. If anybody sees this, look at issue #177 on the github repo. I put some info on a problem I'm having there
 [2013-11-27 14:22:36] Taconut: Sorry wrong issue #
 [2013-11-27 14:22:41] Taconut, quitting. (Client Quit)
+[2013-11-27 15:35:11] santiycr, quitting. (Quit: Leaving.)
