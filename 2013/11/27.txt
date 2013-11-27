@@ -25,3 +25,4 @@
 [2013-11-27 12:47:40] admc, quitting. (Quit: Leaving.)
 [2013-11-27 12:52:25] santiycr, quitting. (Quit: Leaving.)
 [2013-11-27 13:06:25] lukeis, quitting. (Quit: Leaving.)
+[2013-11-27 13:11:25] santiycr, joining. (#ios-driver)
