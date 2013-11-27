@@ -32,3 +32,5 @@
 [2013-11-27 13:23:56] ios-driver-git, leaving. (#ios-driver)
 [2013-11-27 13:56:11] operatiay, joining. (#ios-driver)
 [2013-11-27 14:11:04] operatiay, quitting. (Remote host closed the connection)
+[2013-11-27 14:19:35] Taconut, joining. (#ios-driver)
+[2013-11-27 14:19:47] Taconut: Hello? Anybody here?
