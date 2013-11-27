@@ -26,3 +26,7 @@
 [2013-11-27 12:52:25] santiycr, quitting. (Quit: Leaving.)
 [2013-11-27 13:06:25] lukeis, quitting. (Quit: Leaving.)
 [2013-11-27 13:11:25] santiycr, joining. (#ios-driver)
+[2013-11-27 13:23:55] ios-driver-git, joining. (#ios-driver)
+[2013-11-27 13:23:56] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/OySizA
+[2013-11-27 13:23:56] ios-driver-git: ios-driver/refactor e4ce453 rsalvador: Fixed timeout tests.
+[2013-11-27 13:23:56] ios-driver-git, leaving. (#ios-driver)
