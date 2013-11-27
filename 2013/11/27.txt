@@ -11,3 +11,4 @@
 [2013-11-27 05:14:03] dgrace, quitting. (Remote host closed the connection)
 [2013-11-27 05:33:51] nirvdrum, joining. (#ios-driver)
 [2013-11-27 05:36:54] nicegraham, joining. (#ios-driver)
+[2013-11-27 05:42:14] dgrace, joining. (#ios-driver)
