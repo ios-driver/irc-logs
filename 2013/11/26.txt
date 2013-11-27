@@ -25,3 +25,4 @@
 [2013-11-26 17:09:53] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/2YoOEw
 [2013-11-26 18:07:10] joevans, quitting. (Quit: joevans)
 [2013-11-26 18:59:05] santiycr, quitting. (Quit: Leaving.)
+[2013-11-26 21:08:52] nirvdrum, quitting. (Ping timeout: 264 seconds)
