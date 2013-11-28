@@ -14,3 +14,4 @@
 [2013-11-28 10:10:31] Taconut: Thanks
 [2013-11-28 10:10:37] Taconut, quitting. (Client Quit)
 [2013-11-28 10:18:55] dgrace, quitting. (Quit: Connection closed for inactivity)
+[2013-11-28 10:55:44] smccarthy, quitting. (Remote host closed the connection)
