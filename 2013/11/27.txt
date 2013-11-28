@@ -39,3 +39,5 @@
 [2013-11-27 14:22:36] Taconut: Sorry wrong issue #
 [2013-11-27 14:22:41] Taconut, quitting. (Client Quit)
 [2013-11-27 15:35:11] santiycr, quitting. (Quit: Leaving.)
+[2013-11-27 15:56:17] admc, joining. (#ios-driver)
+[2013-11-27 15:56:20] admc, quitting. (Remote host closed the connection)
