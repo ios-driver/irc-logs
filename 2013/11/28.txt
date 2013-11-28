@@ -7,3 +7,9 @@
 [2013-11-28 10:09:34] nicegraham: if it's in relation to the issue you logged
 [2013-11-28 10:09:41] nicegraham: you'll need to talk to freynaud
 [2013-11-28 10:09:54] Taconut: How could I contact him?
+[2013-11-28 10:10:12] nicegraham: he'll see the issue
+[2013-11-28 10:10:18] Taconut: K
+[2013-11-28 10:10:21] nicegraham: but you can tag him in the issue if you want
+[2013-11-28 10:10:27] Taconut: Ok
+[2013-11-28 10:10:31] Taconut: Thanks
+[2013-11-28 10:10:37] Taconut, quitting. (Client Quit)
