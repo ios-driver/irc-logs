@@ -2,3 +2,8 @@
 [2013-11-28 01:27:42] admc, quitting. (Quit: Leaving.)
 [2013-11-28 02:10:46] operatiay, quitting. ()
 [2013-11-28 07:12:08] smccarthy, joining. (#ios-driver)
+[2013-11-28 10:07:25] Taconut, joining. (#ios-driver)
+[2013-11-28 10:08:44] Taconut: I have a question pertaining your program. Is there anyone here who could assist me?
+[2013-11-28 10:09:34] nicegraham: if it's in relation to the issue you logged
+[2013-11-28 10:09:41] nicegraham: you'll need to talk to freynaud
+[2013-11-28 10:09:54] Taconut: How could I contact him?
