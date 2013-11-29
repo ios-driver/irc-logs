@@ -1,1 +1,5 @@
 [2013-11-29 01:19:27] ios-driverbot_, joining. (#ios-driver)
+[2013-11-29 01:25:45] AutomatedTester_, joining. (#ios-driver)
+[2013-11-29 01:26:56] AutomatedTester, quitting. (*.net *.split)
+[2013-11-29 01:26:57] ios-driverbot, quitting. (*.net *.split)
+[2013-11-29 01:26:57] AutomatedTester_, changing nick to AutomatedTester.
