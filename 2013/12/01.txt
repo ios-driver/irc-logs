@@ -1,1 +1,2 @@
 [2013-12-01 01:46:36] admc, quitting. (Quit: Leaving.)
+[2013-12-01 12:11:39] smccarthy, joining. (#ios-driver)
