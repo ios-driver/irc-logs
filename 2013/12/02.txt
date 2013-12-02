@@ -20,3 +20,9 @@
 [2013-12-02 06:36:08] nirvdrum: You wrote to me around 4:30.
 [2013-12-02 06:44:35] nicegraham: so we did overlap actually. I was in the office at 7 but didn't check irc until after 9 :)
 [2013-12-02 06:44:49] nirvdrum: Heh.
+[2013-12-02 06:45:27] nirvdrum: Then I just left my laptop open because I had a long-running shell that I didn't load up in screen.
+[2013-12-02 06:47:46] nicegraham: are you still on your linux machine?
+[2013-12-02 06:47:52] nicegraham: tempted to go back to apple?
+[2013-12-02 06:49:26] nirvdrum: I am still on it.  I'm torn between the next Linux Mint update and Windows, actually.
+[2013-12-02 06:49:54] nicegraham: windows?! I'm surprosed
+[2013-12-02 06:49:56] nirvdrum: I really want to get a dictation-style coding practice down.  And Dragon on Windows works far better than Dragon on Mac.
