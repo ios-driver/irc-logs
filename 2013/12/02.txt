@@ -10,3 +10,4 @@
 [2013-12-02 03:02:28] elstfi, joining. (#ios-driver)
 [2013-12-02 03:17:28] elstfi, quitting. (Quit: Leaving.)
 [2013-12-02 03:48:03] elstfi, joining. (#ios-driver)
+[2013-12-02 04:40:19] elstfi, quitting. (Quit: Leaving.)
