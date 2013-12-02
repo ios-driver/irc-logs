@@ -44,3 +44,4 @@
 [2013-12-02 09:28:00] ios-driver-git, leaving. (#ios-driver)
 [2013-12-02 09:28:00] ios-driver-git: ios-driver/refactor bf7b2c1 rsalvador: Do not use builtin ios-logging.properties if...
 [2013-12-02 09:39:08] elstfi, quitting. (Quit: Leaving.)
+[2013-12-02 09:58:08] elstfi, joining. (#ios-driver)
