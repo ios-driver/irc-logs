@@ -26,3 +26,11 @@
 [2013-12-02 06:49:26] nirvdrum: I am still on it.  I'm torn between the next Linux Mint update and Windows, actually.
 [2013-12-02 06:49:54] nicegraham: windows?! I'm surprosed
 [2013-12-02 06:49:56] nirvdrum: I really want to get a dictation-style coding practice down.  And Dragon on Windows works far better than Dragon on Mac.
+[2013-12-02 06:50:26] nicegraham: how well does that work?
+[2013-12-02 06:50:28] nirvdrum: And IntelliJ now has a way to connect to VMs and execute code over there.  So I can still use Linux in a VM for things that are just too hard in Windows.
+[2013-12-02 06:50:44] nirvdrum: My initial forays suggest it could work really well.
+[2013-12-02 06:50:49] nicegraham: with all the punctuation etc
+[2013-12-02 06:50:56] nicegraham: that's interesting
+[2013-12-02 06:51:03] nirvdrum: There's a project out there that allows you to define your own grammar in Python.  That helps substantially.
+[2013-12-02 06:51:23] nirvdrum: http://ergoemacs.org/emacs/using_voice_to_code.html
+[2013-12-02 06:52:16] elstfi, quitting. (Quit: Leaving.)
