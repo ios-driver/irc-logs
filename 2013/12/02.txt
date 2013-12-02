@@ -51,3 +51,4 @@
 [2013-12-02 10:55:50] nirvdrum, quitting. (Ping timeout: 245 seconds)
 [2013-12-02 11:09:04] nirvdrum, joining. (#ios-driver)
 [2013-12-02 11:41:17] admc, quitting. (Quit: Leaving.)
+[2013-12-02 11:58:24] santiycr, joining. (#ios-driver)
