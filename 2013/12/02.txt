@@ -34,3 +34,5 @@
 [2013-12-02 06:51:03] nirvdrum: There's a project out there that allows you to define your own grammar in Python.  That helps substantially.
 [2013-12-02 06:51:23] nirvdrum: http://ergoemacs.org/emacs/using_voice_to_code.html
 [2013-12-02 06:52:16] elstfi, quitting. (Quit: Leaving.)
+[2013-12-02 07:46:32] smccarthy, joining. (#ios-driver)
+[2013-12-02 07:47:22] elstfi, joining. (#ios-driver)
