@@ -1,1 +1,2 @@
 [2013-12-02 00:50:25] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2013-12-02 00:58:04] ddary, joining. (#ios-driver)
