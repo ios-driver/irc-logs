@@ -15,3 +15,4 @@
 [2013-12-03 09:22:23] lrvick, quitting. (Ping timeout: 260 seconds)
 [2013-12-03 09:54:22] admc, quitting. (Quit: Leaving.)
 [2013-12-03 09:54:38] admc, joining. (#ios-driver)
+[2013-12-03 09:59:11] admc, quitting. (Ping timeout: 260 seconds)
