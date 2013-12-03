@@ -25,3 +25,4 @@
 [2013-12-03 13:24:17] smccarthy, joining. (#ios-driver)
 [2013-12-03 14:03:29] jlipps, joining. (#ios-driver)
 [2013-12-03 14:07:07] lrvick, quitting. (Ping timeout: 260 seconds)
+[2013-12-03 14:14:34] santiycr, joining. (#ios-driver)
