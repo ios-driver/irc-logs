@@ -27,3 +27,4 @@
 [2013-12-03 14:07:07] lrvick, quitting. (Ping timeout: 260 seconds)
 [2013-12-03 14:14:34] santiycr, joining. (#ios-driver)
 [2013-12-03 14:55:31] santiycr, quitting. (Ping timeout: 260 seconds)
+[2013-12-03 15:05:55] santiycr, joining. (#ios-driver)
