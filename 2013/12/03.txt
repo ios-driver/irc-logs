@@ -7,3 +7,4 @@
 [2013-12-03 05:02:08] elstfi, quitting. (Read error: Operation timed out)
 [2013-12-03 05:59:55] elstfi, joining. (#ios-driver)
 [2013-12-03 06:02:25] elstfi1, quitting. (Ping timeout: 272 seconds)
+[2013-12-03 08:02:23] nirvdrum, joining. (#ios-driver)
