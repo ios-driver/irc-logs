@@ -78,3 +78,4 @@
 [2013-12-02 17:22:22] admc, quitting. (Client Quit)
 [2013-12-02 17:33:53] smccarthy, joining. (#ios-driver)
 [2013-12-02 19:56:16] jlipps, joining. (#ios-driver)
+[2013-12-02 20:02:27] nirvdrum, quitting. (Ping timeout: 260 seconds)
