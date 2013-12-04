@@ -60,3 +60,17 @@
 [2013-12-04 11:24:11] gdennis: do you have any details/specifics on the licensing issues? Is it access to the instruments code?
 [2013-12-04 11:24:29] gdennis: we're curious :)
 [2013-12-04 11:24:44] gdennis1, quitting. (Ping timeout: 272 seconds)
+[2013-12-04 11:25:19] nicegraham: no, instruments is grand
+[2013-12-04 11:25:48] nicegraham: we were using libimbobiledevice because it was more robust and provided more control of the devices
+[2013-12-04 11:26:12] nicegraham: I think the owner of that that library is trying to commercialize at least part of it
+[2013-12-04 11:26:24] nicegraham: so it's a bit up in the air
+[2013-12-04 11:26:56] nicegraham: I think we're going to continue to provide support for it but it will be up to individuals to get a licence agreement for libimobiledevice
+[2013-12-04 11:27:13] nicegraham: and I have no idea on costs for that I'm afraid
+[2013-12-04 11:27:21] gdennis: isn't current libimobiledevice LGPL?
+[2013-12-04 11:27:32] nicegraham: that's the last I heard at least, freynaud could comment further
+[2013-12-04 11:27:37] nicegraham: parts of it are
+[2013-12-04 11:27:56] nicegraham: there was work to add more functionality to aid ios-driver
+[2013-12-04 11:28:03] nicegraham: and I think that's where the problem is
+[2013-12-04 11:28:15] nicegraham: those changes aren't public
+[2013-12-04 11:29:25] gdennis: any idea what those changes enable specifically? and whether it comes into play if there is only a need to drive Safari?
+[2013-12-04 11:29:51] nicegraham: no, afaik it still won't enable safari
