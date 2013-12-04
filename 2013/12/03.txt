@@ -41,3 +41,4 @@
 [2013-12-03 20:05:17] jlipps, quitting. (Quit: Leaving.)
 [2013-12-03 20:16:00] santiycr, quitting. (Quit: Leaving.)
 [2013-12-03 20:40:38] lrvick, quitting. (Ping timeout: 246 seconds)
+[2013-12-03 21:32:21] smccarthy, quitting. (Remote host closed the connection)
