@@ -1,0 +1,6 @@
+[2013-12-04 00:44:17] ios-driver-git, joining. (#ios-driver)
+[2013-12-04 00:44:17] ios-driver-git: ios-driver/dev f406d84 Darragh Grace: ios-grid - fixing typo in sessionLimitReached()
+[2013-12-04 00:44:17] ios-driver-git: ios-driver/dev 8e8c42b Darragh Grace: fixing reboot logic for IOSRemoteProxy
+[2013-12-04 00:44:17] ios-driver-git: ios-driver/dev 773e950 Graham Abell: Merge branch 'dev' of github.com:nicegraham/ios-driver into dev
+[2013-12-04 00:44:17] ios-driver-git: [ios-driver] nicegraham pushed 3 new commits to dev: http://git.io/dTlKiA
+[2013-12-04 00:44:17] ios-driver-git, leaving. (#ios-driver)
