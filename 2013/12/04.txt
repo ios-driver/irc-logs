@@ -99,3 +99,6 @@
 [2013-12-04 13:53:46] santiycr, joining. (#ios-driver)
 [2013-12-04 13:59:23] admc, quitting. (Quit: Leaving.)
 [2013-12-04 13:59:49] admc, joining. (#ios-driver)
+[2013-12-04 14:00:08] admc, quitting. (Client Quit)
+[2013-12-04 14:00:34] admc, joining. (#ios-driver)
+[2013-12-04 14:03:12] lukeis, joining. (#ios-driver)
