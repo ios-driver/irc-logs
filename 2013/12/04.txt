@@ -94,3 +94,5 @@
 [2013-12-04 13:29:31] admc, quitting. (Client Quit)
 [2013-12-04 13:29:48] admc, joining. (#ios-driver)
 [2013-12-04 13:40:23] admc, quitting. (Quit: Leaving.)
+[2013-12-04 13:45:32] admc, joining. (#ios-driver)
+[2013-12-04 13:46:04] gdennis, quitting. (Ping timeout: 250 seconds)
