@@ -45,3 +45,6 @@
 [2013-12-04 11:07:30] santiycr, quitting. (Quit: Leaving.)
 [2013-12-04 11:08:02] lukeis1, changing nick to lukeis.
 [2013-12-04 11:09:29] gdennis1, joining. (#ios-driver)
+[2013-12-04 11:11:29] admc1, joining. (#ios-driver)
+[2013-12-04 11:13:18] admc2, joining. (#ios-driver)
+[2013-12-04 11:13:44] admc, quitting. (Read error: Connection reset by peer)
