@@ -110,3 +110,4 @@
 [2013-12-04 15:00:50] santiycr, joining. (#ios-driver)
 [2013-12-04 15:01:06] santiycr, quitting. (Client Quit)
 [2013-12-04 15:03:48] santiycr, joining. (#ios-driver)
+[2013-12-04 15:21:44] admc, quitting. (Quit: Leaving.)
