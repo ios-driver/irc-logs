@@ -5,3 +5,5 @@
 [2013-12-04 00:44:17] ios-driver-git: [ios-driver] nicegraham pushed 3 new commits to dev: http://git.io/dTlKiA
 [2013-12-04 00:44:17] ios-driver-git, leaving. (#ios-driver)
 [2013-12-04 00:49:20] admc, joining. (#ios-driver)
+[2013-12-04 00:50:26] admc, quitting. (Client Quit)
+[2013-12-04 00:53:50] admc, joining. (#ios-driver)
