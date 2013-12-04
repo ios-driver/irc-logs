@@ -48,3 +48,8 @@
 [2013-12-04 11:11:29] admc1, joining. (#ios-driver)
 [2013-12-04 11:13:18] admc2, joining. (#ios-driver)
 [2013-12-04 11:13:44] admc, quitting. (Read error: Connection reset by peer)
+[2013-12-04 11:15:49] admc1, quitting. (Ping timeout: 246 seconds)
+[2013-12-04 11:16:19] admc, joining. (#ios-driver)
+[2013-12-04 11:17:52] admc2, quitting. (Ping timeout: 250 seconds)
+[2013-12-04 11:18:34] lrvick1, joining. (#ios-driver)
+[2013-12-04 11:19:16] gdennis1: before I give it a whirl myself, what is the current state of real device support from ios-driver? stable? known to not be working? a little buggy?
