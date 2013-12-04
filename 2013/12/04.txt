@@ -79,3 +79,6 @@
 [2013-12-04 11:35:13] nicegraham: i'm pretty sure he has it working
 [2013-12-04 11:36:15] nicegraham: sorry - if you mean mobilesafari on real device I don't think he has that working
 [2013-12-04 11:36:25] nicegraham: lmd integration he has working
+[2013-12-04 12:27:17] gdennis: nicegraham: should have said earlier — thanks for the info!
+[2013-12-04 12:27:26] nicegraham: no problem
+[2013-12-04 12:27:33] nicegraham: sorry it's not more positive right now :)
