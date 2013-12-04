@@ -41,3 +41,7 @@
 [2013-12-04 10:31:32] santiycr, joining. (#ios-driver)
 [2013-12-04 10:51:46] admc, joining. (#ios-driver)
 [2013-12-04 11:04:52] lukeis1, joining. (#ios-driver)
+[2013-12-04 11:05:25] lukeis, quitting. (Ping timeout: 245 seconds)
+[2013-12-04 11:07:30] santiycr, quitting. (Quit: Leaving.)
+[2013-12-04 11:08:02] lukeis1, changing nick to lukeis.
+[2013-12-04 11:09:29] gdennis1, joining. (#ios-driver)
