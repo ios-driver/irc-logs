@@ -74,3 +74,4 @@
 [2013-12-04 11:28:15] nicegraham: those changes aren't public
 [2013-12-04 11:29:25] gdennis: any idea what those changes enable specifically? and whether it comes into play if there is only a need to drive Safari?
 [2013-12-04 11:29:51] nicegraham: no, afaik it still won't enable safari
+[2013-12-04 11:34:49] gdennis: if I want details on what specifically needs to be completed, would freynaud know or do I need to talk to the limd devs?
