@@ -8,3 +8,5 @@
 [2013-12-04 00:50:26] admc, quitting. (Client Quit)
 [2013-12-04 00:53:50] admc, joining. (#ios-driver)
 [2013-12-04 01:04:34] nicegraham_, joining. (#ios-driver)
+[2013-12-04 01:12:17] nicegraham, quitting. (*.net *.split)
+[2013-12-04 01:12:21] nicegraham_, changing nick to nicegraham.
