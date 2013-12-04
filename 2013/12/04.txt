@@ -31,3 +31,4 @@
 [2013-12-04 08:08:37] elstfi, quitting. (Quit: Leaving.)
 [2013-12-04 08:20:13] elstfi, joining. (#ios-driver)
 [2013-12-04 08:38:03] lukeis, joining. (#ios-driver)
+[2013-12-04 08:53:52] elstfi, quitting. (Quit: Leaving.)
