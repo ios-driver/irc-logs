@@ -89,3 +89,7 @@
 [2013-12-04 13:02:39] lukeis1, quitting. (Client Quit)
 [2013-12-04 13:03:30] lukeis, quitting. (Ping timeout: 252 seconds)
 [2013-12-04 13:05:55] admc, joining. (#ios-driver)
+[2013-12-04 13:28:11] admc, quitting. (Quit: Leaving.)
+[2013-12-04 13:28:52] admc, joining. (#ios-driver)
+[2013-12-04 13:29:31] admc, quitting. (Client Quit)
+[2013-12-04 13:29:48] admc, joining. (#ios-driver)
