@@ -25,3 +25,4 @@
 [2013-12-04 06:22:56] nirvdrum, quitting. (Remote host closed the connection)
 [2013-12-04 06:44:03] elstfi, quitting. (Quit: Leaving.)
 [2013-12-04 07:00:23] elstfi, joining. (#ios-driver)
+[2013-12-04 07:11:34] dgrace, joining. (#ios-driver)
