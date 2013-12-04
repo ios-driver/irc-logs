@@ -53,3 +53,10 @@
 [2013-12-04 11:17:52] admc2, quitting. (Ping timeout: 250 seconds)
 [2013-12-04 11:18:34] lrvick1, joining. (#ios-driver)
 [2013-12-04 11:19:16] gdennis1: before I give it a whirl myself, what is the current state of real device support from ios-driver? stable? known to not be working? a little buggy?
+[2013-12-04 11:21:47] gdennis, joining. (#ios-driver)
+[2013-12-04 11:22:02] nicegraham: gdennis1: it's broken
+[2013-12-04 11:22:30] nicegraham: the licencing thing has been ongoing
+[2013-12-04 11:22:47] nicegraham: I think at this point we are focusing efforts on simulators
+[2013-12-04 11:24:11] gdennis: do you have any details/specifics on the licensing issues? Is it access to the instruments code?
+[2013-12-04 11:24:29] gdennis: we're curious :)
+[2013-12-04 11:24:44] gdennis1, quitting. (Ping timeout: 272 seconds)
