@@ -38,3 +38,4 @@
 [2013-12-05 12:48:05] mobiletester, joining. (#ios-driver)
 [2013-12-05 12:50:20] smccarthy2, quitting. (Remote host closed the connection)
 [2013-12-05 12:50:59] smccarthy, joining. (#ios-driver)
+[2013-12-05 13:18:09] admc, joining. (#ios-driver)
