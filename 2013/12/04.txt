@@ -122,3 +122,4 @@
 [2013-12-04 23:27:20] admc, joining. (#ios-driver)
 [2013-12-04 23:28:31] admc, quitting. (Client Quit)
 [2013-12-04 23:29:47] admc, joining. (#ios-driver)
+[2013-12-04 23:53:36] elstfi, joining. (#ios-driver)
