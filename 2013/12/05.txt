@@ -7,3 +7,7 @@
 [2013-12-05 07:39:04] smccarthy, joining. (#ios-driver)
 [2013-12-05 07:51:32] lukeis, joining. (#ios-driver)
 [2013-12-05 08:58:19] elstfi, quitting. (Quit: Leaving.)
+[2013-12-05 09:01:49] ios-driver-git, joining. (#ios-driver)
+[2013-12-05 09:01:50] ios-driver-git, leaving. (#ios-driver)
+[2013-12-05 09:01:50] ios-driver-git: [ios-driver] federicoviscomi created issue82 (+1 new commit): http://git.io/rpv9FA
+[2013-12-05 09:01:50] ios-driver-git: ios-driver/issue82 34fce65 Federico: fixed issue 82. did not run other tests though
