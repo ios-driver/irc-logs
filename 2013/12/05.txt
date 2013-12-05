@@ -11,3 +11,8 @@
 [2013-12-05 09:01:50] ios-driver-git, leaving. (#ios-driver)
 [2013-12-05 09:01:50] ios-driver-git: [ios-driver] federicoviscomi created issue82 (+1 new commit): http://git.io/rpv9FA
 [2013-12-05 09:01:50] ios-driver-git: ios-driver/issue82 34fce65 Federico: fixed issue 82. did not run other tests though
+[2013-12-05 09:09:06] ios-driver-git, joining. (#ios-driver)
+[2013-12-05 09:09:06] ios-driver-git: ios-driver/issue82 9071bcf Federico: fixed issue #82. did not run other tests though
+[2013-12-05 09:09:06] ios-driver-git, leaving. (#ios-driver)
+[2013-12-05 09:09:06] ios-driver-git: [ios-driver] federicoviscomi pushed 2 new commits to issue82: http://git.io/-n_3BA
+[2013-12-05 09:09:06] ios-driver-git: ios-driver/issue82 5f63cfb Federico Viscomi: Merge branch 'issue82' of https://github.com/ios-driver/ios-driver into issue82
