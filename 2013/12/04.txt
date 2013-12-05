@@ -117,3 +117,4 @@
 [2013-12-04 18:28:52] admc, joining. (#ios-driver)
 [2013-12-04 18:36:31] admc, quitting. (Quit: Leaving.)
 [2013-12-04 19:36:43] santiycr, quitting. (Quit: Leaving.)
+[2013-12-04 21:10:55] smccarthy, quitting. (Remote host closed the connection)
