@@ -6,3 +6,4 @@
 [2013-12-05 07:27:47] nirvdrum, joining. (#ios-driver)
 [2013-12-05 07:39:04] smccarthy, joining. (#ios-driver)
 [2013-12-05 07:51:32] lukeis, joining. (#ios-driver)
+[2013-12-05 08:58:19] elstfi, quitting. (Quit: Leaving.)
