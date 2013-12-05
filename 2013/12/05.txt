@@ -21,3 +21,5 @@
 [2013-12-05 09:19:08] ios-driver-git: [ios-driver] federicoviscomi opened pull request #180: Issue82 (dev...issue82) http://git.io/V_XsGQ
 [2013-12-05 09:19:08] ios-driver-git, leaving. (#ios-driver)
 [2013-12-05 09:19:55] elstfi, quitting. (Quit: Leaving.)
+[2013-12-05 10:00:48] smccarthy2, joining. (#ios-driver)
+[2013-12-05 10:04:14] smccarthy, quitting. (Ping timeout: 240 seconds)
