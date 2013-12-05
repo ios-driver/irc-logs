@@ -16,3 +16,4 @@
 [2013-12-05 09:09:06] ios-driver-git, leaving. (#ios-driver)
 [2013-12-05 09:09:06] ios-driver-git: [ios-driver] federicoviscomi pushed 2 new commits to issue82: http://git.io/-n_3BA
 [2013-12-05 09:09:06] ios-driver-git: ios-driver/issue82 5f63cfb Federico Viscomi: Merge branch 'issue82' of https://github.com/ios-driver/ios-driver into issue82
+[2013-12-05 09:14:50] elstfi, joining. (#ios-driver)
