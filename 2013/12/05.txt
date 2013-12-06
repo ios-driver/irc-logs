@@ -44,3 +44,8 @@
 [2013-12-05 14:38:15] santiycr, joining. (#ios-driver)
 [2013-12-05 15:01:30] admc, joining. (#ios-driver)
 [2013-12-05 15:48:29] smccarthy, quitting. (Remote host closed the connection)
+[2013-12-05 16:06:57] ios-driver-git, joining. (#ios-driver)
+[2013-12-05 16:06:57] ios-driver-git: [ios-driver] jasone pushed 1 new commit to refactor: http://git.io/ZgLJig
+[2013-12-05 16:06:57] ios-driver-git: ios-driver/refactor 1ad8ccd Jason Evans: Avoid scrolling prior to attribute query....
+[2013-12-05 16:06:57] ios-driver-git, leaving. (#ios-driver)
+[2013-12-05 16:07:38] joevans, joining. (#ios-driver)
