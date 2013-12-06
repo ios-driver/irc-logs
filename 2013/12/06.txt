@@ -21,3 +21,4 @@
 [2013-12-06 07:10:40] elstfi, quitting. (Read error: Connection reset by peer)
 [2013-12-06 07:58:15] nirvdrum, joining. (#ios-driver)
 [2013-12-06 08:47:36] elstfi, joining. (#ios-driver)
+[2013-12-06 09:12:11] elstfi, quitting. (Quit: Leaving.)
