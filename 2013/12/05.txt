@@ -50,3 +50,4 @@
 [2013-12-05 16:06:57] ios-driver-git, leaving. (#ios-driver)
 [2013-12-05 16:07:38] joevans, joining. (#ios-driver)
 [2013-12-05 16:16:47] mobiletester, quitting. (Quit: Page closed)
+[2013-12-05 16:43:33] lukeis, quitting. (Quit: Leaving.)
