@@ -18,3 +18,4 @@
 [2013-12-06 06:02:48] elstfi, quitting. (Read error: Connection reset by peer)
 [2013-12-06 06:07:06] elstfi1, quitting. (Ping timeout: 250 seconds)
 [2013-12-06 06:08:02] elstfi, joining. (#ios-driver)
+[2013-12-06 07:10:40] elstfi, quitting. (Read error: Connection reset by peer)
