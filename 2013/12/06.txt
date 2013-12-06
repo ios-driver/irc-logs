@@ -1,1 +1,2 @@
 [2013-12-06 00:27:29] ios-driverbot__, joining. (#ios-driver)
+[2013-12-06 00:34:55] ios-driverbot_, quitting. (Ping timeout: 260 seconds)
