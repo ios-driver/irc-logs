@@ -3,3 +3,4 @@
 [2013-12-06 00:42:57] admc1, quitting. (Quit: Leaving.)
 [2013-12-06 02:01:36] elstfi, joining. (#ios-driver)
 [2013-12-06 02:39:31] smccarthy, quitting. (Remote host closed the connection)
+[2013-12-06 03:28:31] elstfi1, joining. (#ios-driver)
