@@ -59,3 +59,4 @@
 [2013-12-05 17:47:58] jlipps, quitting. (Client Quit)
 [2013-12-05 17:49:57] smccarthy, joining. (#ios-driver)
 [2013-12-05 18:07:51] admc, quitting. (Quit: Leaving.)
+[2013-12-05 18:27:18] joevans, quitting. (Quit: joevans)
