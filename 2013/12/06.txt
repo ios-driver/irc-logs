@@ -137,3 +137,7 @@
 [2013-12-06 12:24:29] lukeis: to build that app in iOS is extremely simple :)
 [2013-12-06 12:24:52] nicegraham: i hate xcode
 [2013-12-06 12:24:57] nicegraham: *hate*
+[2013-12-06 12:25:10] lukeis: if you need me to sign it with my company's distribution profile, I can do that (so it can be installed on any device)
+[2013-12-06 12:25:44] nicegraham: would we need to do that if we're bundling it?
+[2013-12-06 12:26:04] nicegraham: it would have to be the instruments version
+[2013-12-06 12:26:05] lukeis: if you want it to be installed on random user X's real device, yes.
