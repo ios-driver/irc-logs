@@ -80,3 +80,29 @@
 [2013-12-06 12:09:38] nicegraham: as you pointed out - we live in opposite land, I'd like that :)
 [2013-12-06 12:09:44] nicegraham: selendroid
 [2013-12-06 12:09:51] jack090: ahh
+[2013-12-06 12:10:06] nicegraham: our sister project of sorts I guess
+[2013-12-06 12:10:15] jack090: yea my emulators keep crashing with the .apk for webdriver
+[2013-12-06 12:10:27] lukeis: yeah, use selendroid ;)
+[2013-12-06 12:10:51] jack090: does selendroid run chrome or default "browser" for droid?
+[2013-12-06 12:11:02] lukeis: although how one uses it to run a "browser" needs to be documented
+[2013-12-06 12:11:14] lukeis: selendroid controls an app
+[2013-12-06 12:11:19] jack090: correct
+[2013-12-06 12:11:21] lukeis: and webviews in that app
+[2013-12-06 12:11:33] jack090: I got all the way through getting it setup
+[2013-12-06 12:11:43] jack090: but could never get it to open the default browser installed
+[2013-12-06 12:11:44] lukeis: if you have a "simple" app that is just a webview (like webdriver.apk) then you can control it with selendroid
+[2013-12-06 12:11:54] lukeis: can't open default browser
+[2013-12-06 12:12:26] jack090: Specifically I'm looking at testing our web app that is javascript and html5
+[2013-12-06 12:12:29] lukeis: how to do this exactly needs to get documented ;)
+[2013-12-06 12:12:44] jack090: I don't mind that's it's not the browser as long as it uses the same javascript engine
+[2013-12-06 12:13:11] jack090: perhaps I could be a guinea pig then
+[2013-12-06 12:13:16] lukeis: it's very close to the same thing… just like how MobileSafari and a WebView in iOS are the "same thing"
+[2013-12-06 12:13:26] lukeis: (they aren't by the way exactly the same thing)
+[2013-12-06 12:13:35] jack090: correct
+[2013-12-06 12:13:50] jack090: I'm primarily looking for functionality being the same etc...
+[2013-12-06 12:14:06] jack090: does the app load... does it crash.. does it look ok..
+[2013-12-06 12:14:17] jack090: do pages render correctly...
+[2013-12-06 12:14:24] jack090: webview would probably suffice
+[2013-12-06 12:14:38] jack090: Lukeis do you have a link to the webview app example?
+[2013-12-06 12:14:53] lukeis: i haven't been able to do a good job at automating the use case of "does it render correctly" in Mobile
+[2013-12-06 12:14:54] jack090: If so I could probably write up some directions for the cause
