@@ -106,3 +106,13 @@
 [2013-12-06 12:14:38] jack090: Lukeis do you have a link to the webview app example?
 [2013-12-06 12:14:53] lukeis: i haven't been able to do a good job at automating the use case of "does it render correctly" in Mobile
 [2013-12-06 12:14:54] jack090: If so I could probably write up some directions for the cause
+[2013-12-06 12:15:09] lukeis: no, i don't… it needs to get created :)
+[2013-12-06 12:15:16] jack090: well i'm processing from a remote webdriver
+[2013-12-06 12:15:29] jack090: all the processing is happening remotely
+[2013-12-06 12:16:26] jack090: Do you have a simple webview app created? I don't need instructions *yet* I can help write those up
+[2013-12-06 12:16:44] gdennis, leaving. (#ios-driver)
+[2013-12-06 12:18:45] lukeis: no, i don't have the app created (but it's not hugely difficult to create)
+[2013-12-06 12:19:18] nicegraham: lukeis: would a webview in a container be enough?
+[2013-12-06 12:19:26] lukeis: yep
+[2013-12-06 12:19:52] lukeis: the dumber the app, the easier it will be to automate ;)
+[2013-12-06 12:19:56] nicegraham: so no need to implement any hooks for driver.get() or anything
