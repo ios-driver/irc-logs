@@ -49,3 +49,34 @@
 [2013-12-06 11:45:08] lukeis: not sure why ;)
 [2013-12-06 11:45:20] nicegraham: cos tomorrow will involve many pints
 [2013-12-06 12:04:58] jack090: lolz
+[2013-12-06 12:05:29] jack090: Hey you guys might know I've been working with upgrading to the latest IO7
+[2013-12-06 12:05:37] nicegraham: eah
+[2013-12-06 12:05:50] jack090: I assume I'm going to build from dev branch?
+[2013-12-06 12:05:58] nicegraham: nope
+[2013-12-06 12:05:59] jack090: release branch doesn't seem to want to run :-)
+[2013-12-06 12:06:00] nicegraham: refactor
+[2013-12-06 12:06:14] jack090: so no support yet for IOS7
+[2013-12-06 12:06:16] jack090: ?
+[2013-12-06 12:06:29] nicegraham: there is, on the refactor branch
+[2013-12-06 12:06:33] nicegraham: refactor for ios7 :)
+[2013-12-06 12:06:36] jack090: ohh
+[2013-12-06 12:06:52] nicegraham: It's working good for us
+[2013-12-06 12:07:08] jack090: pretty stable?
+[2013-12-06 12:07:13] nicegraham: but some unit tests are still failing which is where there hasn't been a proper release
+[2013-12-06 12:07:22] nicegraham: as I say, yes for us
+[2013-12-06 12:07:28] nicegraham: but some people seem to have struggled
+[2013-12-06 12:07:36] lukeis: roman is ironing out some minor kinks in it for us to run ios7 on saucelabs still, but as I understand it, it works ;)
+[2013-12-06 12:07:40] nicegraham: but it's hard to know how much of that may be user error
+[2013-12-06 12:07:52] jack090: Great
+[2013-12-06 12:08:00] nicegraham: ah, so you've been driving that eh lukeis?
+[2013-12-06 12:08:00] jack090: I'm mostly using safari web testing
+[2013-12-06 12:08:05] nicegraham: I'm liking the commits :)
+[2013-12-06 12:08:10] nicegraham: buy that man a beer
+[2013-12-06 12:08:25] nicegraham: well, there were some commits improving that today in fact
+[2013-12-06 12:08:29] lukeis: nicegraham: i'm not driving anything :) roman's on my team and he's in charge of ios
+[2013-12-06 12:08:46] nicegraham: self starter, even better :)
+[2013-12-06 12:09:07] lukeis: i got the short stick? why i'm mainly on android now
+[2013-12-06 12:09:29] jack090: wait wait wait... Android?
+[2013-12-06 12:09:38] nicegraham: as you pointed out - we live in opposite land, I'd like that :)
+[2013-12-06 12:09:44] nicegraham: selendroid
+[2013-12-06 12:09:51] jack090: ahh
