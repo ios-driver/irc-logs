@@ -32,3 +32,4 @@
 [2013-12-06 09:50:54] ios-driver-git: ios-driver/refactor c84df75 rsalvador: Make safari startup more robust on iOS 7....
 [2013-12-06 10:23:53] smccarthy, joining. (#ios-driver)
 [2013-12-06 10:51:30] elstfi, quitting. (Quit: Leaving.)
+[2013-12-06 11:12:13] admc, joining. (#ios-driver)
