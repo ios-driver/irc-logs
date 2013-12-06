@@ -116,3 +116,24 @@
 [2013-12-06 12:19:26] lukeis: yep
 [2013-12-06 12:19:52] lukeis: the dumber the app, the easier it will be to automate ;)
 [2013-12-06 12:19:56] nicegraham: so no need to implement any hooks for driver.get() or anything
+[2013-12-06 12:20:04] nicegraham: the webview handles that
+[2013-12-06 12:20:40] lukeis: driver.get() endpoint should be implemented in ios-driver / selendroid (i think it is)
+[2013-12-06 12:20:50] nicegraham: yeah it is
+[2013-12-06 12:21:25] lukeis: for selendroid all one needs to do once the app is started / connected to is to driver.switchTo().window("WEBVIEW")
+[2013-12-06 12:22:00] lukeis: we can / should bundle the sample webview app and implicitly make that call for "AndroidDriver" users
+[2013-12-06 12:22:07] lukeis: (on my todo list)
+[2013-12-06 12:22:30] nicegraham: looks like you might get a pr from jack090 :)
+[2013-12-06 12:22:53] lukeis: so selendroid will eventually bundle the 'simple' webview app and install / use it when requested
+[2013-12-06 12:23:05] santiycr, quitting. (Quit: Leaving.)
+[2013-12-06 12:23:08] jack090: music to my ears
+[2013-12-06 12:23:18] nicegraham: we should probably do the same for ios on real device
+[2013-12-06 12:23:22] lukeis: yes
+[2013-12-06 12:23:26] lukeis: yes you should ;)
+[2013-12-06 12:23:33] jack090: selendroid was what I was planning on
+[2013-12-06 12:23:39] jack090: but ran into issues
+[2013-12-06 12:23:44] nicegraham: I can get the app made no bother
+[2013-12-06 12:24:07] nicegraham: the ios team should be less busy, app gone for final submission today - go live on Tuesday
+[2013-12-06 12:24:27] santiycr, joining. (#ios-driver)
+[2013-12-06 12:24:29] lukeis: to build that app in iOS is extremely simple :)
+[2013-12-06 12:24:52] nicegraham: i hate xcode
+[2013-12-06 12:24:57] nicegraham: *hate*
