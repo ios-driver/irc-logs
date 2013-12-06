@@ -141,3 +141,16 @@
 [2013-12-06 12:25:44] nicegraham: would we need to do that if we're bundling it?
 [2013-12-06 12:26:04] nicegraham: it would have to be the instruments version
 [2013-12-06 12:26:05] lukeis: if you want it to be installed on random user X's real device, yes.
+[2013-12-06 12:30:35] jack090: I guess I better go get selendroid installed :-)
+[2013-12-06 12:31:09] nicegraham: glad the ios-driver channel could help you reach that conclusion :)
+[2013-12-06 12:31:14] lukeis: jack090: next week I should be able to spend some time / document how one can get started
+[2013-12-06 12:31:15] lukeis: heh
+[2013-12-06 12:31:26] lukeis: jack090: there is a #selendroid channel :)
+[2013-12-06 12:31:55] nicegraham: laters lukeis, have a good weekend mate
+[2013-12-06 12:32:08] lukeis: thx, you too!
+[2013-12-06 12:32:26] lukeis: and of course there's also #selenium  :)
+[2013-12-06 12:33:06] jack090: :-D
+[2013-12-06 12:33:35] jack090: that's for all help
+[2013-12-06 12:33:39] jack090: er.. thanks
+[2013-12-06 12:33:41] jack090: not that's
+[2013-12-06 12:33:59] lukeis: :)
