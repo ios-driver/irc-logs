@@ -11,3 +11,4 @@
 [2013-12-06 05:01:26] snyxius8, quitting. (Client Quit)
 [2013-12-06 05:02:25] arun, joining. (#ios-driver)
 [2013-12-06 05:04:16] arun: hi
+[2013-12-06 05:05:42] arun, quitting. (Client Quit)
