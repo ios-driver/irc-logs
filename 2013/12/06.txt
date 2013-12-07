@@ -180,3 +180,4 @@
 [2013-12-06 18:12:35] lukeis, quitting. (Quit: Leaving.)
 [2013-12-06 18:33:54] admc, joining. (#ios-driver)
 [2013-12-06 18:37:07] admc, quitting. (Client Quit)
+[2013-12-06 21:18:26] smccarthy, quitting. (Remote host closed the connection)
