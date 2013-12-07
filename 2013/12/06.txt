@@ -169,3 +169,4 @@
 [2013-12-06 16:10:08] ios-driver-git, leaving. (#ios-driver)
 [2013-12-06 16:33:03] admc, quitting. (Quit: Leaving.)
 [2013-12-06 16:50:39] santiycr, quitting. (Quit: Leaving.)
+[2013-12-06 17:17:30] admc, joining. (#ios-driver)
