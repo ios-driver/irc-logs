@@ -167,3 +167,4 @@
 [2013-12-06 16:10:08] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/EIdASQ
 [2013-12-06 16:10:08] ios-driver-git: ios-driver/refactor 7d8d898 rsalvador: Calculate the exact sdk version using xcodebuild.
 [2013-12-06 16:10:08] ios-driver-git, leaving. (#ios-driver)
+[2013-12-06 16:33:03] admc, quitting. (Quit: Leaving.)
