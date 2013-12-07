@@ -1,2 +1,3 @@
 [2013-12-07 07:42:15] nirvdrum, quitting. (*.net *.split)
 [2013-12-07 08:08:04] nirvdrum, joining. (#ios-driver)
+[2013-12-07 08:54:32] smccarthy, joining. (#ios-driver)
