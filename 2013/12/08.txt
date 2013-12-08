@@ -1,3 +1,4 @@
 [2013-12-08 06:12:28] nirvdrum, quitting. (Read error: Operation timed out)
 [2013-12-08 10:05:44] smccarthy, joining. (#ios-driver)
 [2013-12-08 11:05:51] smccarthy, quitting. (Remote host closed the connection)
+[2013-12-08 12:55:33] admc, joining. (#ios-driver)
