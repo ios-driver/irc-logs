@@ -85,3 +85,5 @@
 [2013-12-09 11:43:34] nicegraham: just wanted to check and make sure we weren't reverting
 [2013-12-09 11:45:20] lukeis: lunch time, then meeting… back in an hour+ :)
 [2013-12-09 11:45:37] nicegraham: bon appetit
+[2013-12-09 11:59:00] santiycr, quitting. (Read error: Connection reset by peer)
+[2013-12-09 11:59:03] santiycr1, joining. (#ios-driver)
