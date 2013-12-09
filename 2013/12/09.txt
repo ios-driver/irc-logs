@@ -10,3 +10,4 @@
 [2013-12-09 06:18:36] elstfi, joining. (#ios-driver)
 [2013-12-09 06:42:23] smccarthy, quitting. (Remote host closed the connection)
 [2013-12-09 06:43:55] elstfi, quitting. (Quit: Leaving.)
+[2013-12-09 06:53:39] elstfi, joining. (#ios-driver)
