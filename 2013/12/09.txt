@@ -87,3 +87,6 @@
 [2013-12-09 11:45:37] nicegraham: bon appetit
 [2013-12-09 11:59:00] santiycr, quitting. (Read error: Connection reset by peer)
 [2013-12-09 11:59:03] santiycr1, joining. (#ios-driver)
+[2013-12-09 12:08:48] gdennis: another noob question, sorry
+[2013-12-09 12:09:01] gdennis: trying to run a simple webdriver test against the simulator
+[2013-12-09 12:09:27] gdennis: I get this error from ios-server: WARNING DefaultCommandListener.stderr  2013-12-09 15:04:48.466 instruments[13260:507] -[__NSCFConstantString isEqualToNumber:]: unrecognized selector sent to instance 0x7fff784addb0
