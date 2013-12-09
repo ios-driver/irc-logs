@@ -64,3 +64,22 @@
 [2013-12-09 11:23:02] ios-driver-git: ios-driver/java6 9aff33e rsalvador: Removed FolderMonitor and commented out references.
 [2013-12-09 11:23:02] ios-driver-git, leaving. (#ios-driver)
 [2013-12-09 11:24:40] admc, quitting. (Quit: Leaving.)
+[2013-12-09 11:41:06] nicegraham: lukeis: yt?
+[2013-12-09 11:41:13] lukeis: yes
+[2013-12-09 11:41:18] nicegraham: good good
+[2013-12-09 11:41:24] lukeis: ;)
+[2013-12-09 11:41:32] lukeis: you survive the weekend I see
+[2013-12-09 11:41:33] nicegraham: what's the story with the java 6 branch do you know?
+[2013-12-09 11:41:35] nicegraham: I did
+[2013-12-09 11:41:43] nicegraham: they had DOUBLE Pints at the game
+[2013-12-09 11:42:02] lukeis: oh, saucelabs doesn't have java 7 installed… so we keep needing to build it for java6 to install there
+[2013-12-09 11:42:23] nicegraham: https://twitter.com/LeinsterTickets/status/409401148932911104/photo/1
+[2013-12-09 11:42:26] nicegraham: ugh
+[2013-12-09 11:42:28] nicegraham: ok
+[2013-12-09 11:42:43] nicegraham: they're not interesting in moving on?
+[2013-12-09 11:42:43] lukeis: yeah, i saw that RT… thought it was you :)
+[2013-12-09 11:42:56] nicegraham: not the best photo to be fair
+[2013-12-09 11:42:57] lukeis: they will… eventually...
+[2013-12-09 11:43:01] nicegraham: but the pints!
+[2013-12-09 11:43:06] lukeis: heh :)
+[2013-12-09 11:43:34] nicegraham: just wanted to check and make sure we weren't reverting
