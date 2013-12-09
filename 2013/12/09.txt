@@ -59,3 +59,8 @@
 [2013-12-09 10:53:50] ios-driver-git: [ios-driver] rsalvador created java6 (+1 new commit): http://git.io/b6YdBg
 [2013-12-09 10:53:50] ios-driver-git, leaving. (#ios-driver)
 [2013-12-09 10:55:12] elstfi, quitting. (Quit: Leaving.)
+[2013-12-09 11:23:02] ios-driver-git, joining. (#ios-driver)
+[2013-12-09 11:23:02] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to java6: http://git.io/0Uw3AA
+[2013-12-09 11:23:02] ios-driver-git: ios-driver/java6 9aff33e rsalvador: Removed FolderMonitor and commented out references.
+[2013-12-09 11:23:02] ios-driver-git, leaving. (#ios-driver)
+[2013-12-09 11:24:40] admc, quitting. (Quit: Leaving.)
