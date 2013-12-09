@@ -147,3 +147,17 @@
 [2013-12-09 13:32:23] ios-driver-git: ios-driver/java6 b784440 rsalvador: Fixing travis java6 compiler errors (3)
 [2013-12-09 13:34:02] nicegraham: hey rsalvador
 [2013-12-09 13:34:13] nicegraham: I've seen your reply there
+[2013-12-09 13:36:29] rsalvador: it is just to be able to run on Sauce, but I uploaded the branch just in case somebody else needs it also and to see if travis can build ok with java6
+[2013-12-09 13:36:45] jack090, quitting. (Ping timeout: 250 seconds)
+[2013-12-09 13:37:08] nicegraham: yeah, that's cool
+[2013-12-09 13:37:17] nicegraham: good work on the ios7 updates btw
+[2013-12-09 13:37:21] nicegraham: great to see them going in
+[2013-12-09 13:38:10] nicegraham: I didn't realise travis only had 6 installed
+[2013-12-09 13:38:26] nicegraham: freynaud is planning to do the CI inside ebay on some physical machines
+[2013-12-09 13:38:36] rsalvador: travis uses SauceLabs machines for objective-c projects and they only have java6
+[2013-12-09 13:38:36] nicegraham: so he can also validate on ophysical devices
+[2013-12-09 13:38:46] nicegraham: I knew they used sauce
+[2013-12-09 13:39:02] rsalvador: now travis compiled, but it got stuck at: 13:35:23.482 instruments[1445:707] Failed to connect to local pid watcher service: (os/kern) failure
+[2013-12-09 13:39:07] nicegraham: but they've made changes to their images before for us
+[2013-12-09 13:39:31] nicegraham: are they on mavericks?
+[2013-12-09 13:40:00] rsalvador: they are moving to mavericks, but I don't think their production machines are on mavericks yhet
