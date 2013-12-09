@@ -16,3 +16,4 @@
 [2013-12-09 08:09:26] jack090_, joining. (#ios-driver)
 [2013-12-09 08:11:56] joevans, joining. (#ios-driver)
 [2013-12-09 08:29:04] gdennis, joining. (#ios-driver)
+[2013-12-09 08:35:40] gdennis: running through the ios-driver setup instructions: why would my application under test not appear in the list of supported apps in the webdriver /status response?
