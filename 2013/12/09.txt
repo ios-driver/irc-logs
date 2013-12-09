@@ -40,3 +40,7 @@
 [2013-12-09 09:49:31] smccarthy, joining. (#ios-driver)
 [2013-12-09 09:59:30] santiycr, joining. (#ios-driver)
 [2013-12-09 10:05:35] admc, joining. (#ios-driver)
+[2013-12-09 10:21:23] jack090_: Any idea when the refactor branch will go official?
+[2013-12-09 10:22:17] nicegraham: soon
+[2013-12-09 10:22:22] nicegraham: when all the unit tests pass
+[2013-12-09 10:22:30] nicegraham: freynaud has been working on that
