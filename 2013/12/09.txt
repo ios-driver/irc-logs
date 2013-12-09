@@ -44,3 +44,12 @@
 [2013-12-09 10:22:17] nicegraham: soon
 [2013-12-09 10:22:22] nicegraham: when all the unit tests pass
 [2013-12-09 10:22:30] nicegraham: freynaud has been working on that
+[2013-12-09 10:26:47] jack090_: ahh
+[2013-12-09 10:26:56] jack090_: do we have eta on that?
+[2013-12-09 10:27:01] jack090_: like maybe a week or two
+[2013-12-09 10:27:03] nicegraham: nope
+[2013-12-09 10:27:08] jack090_: or a month +?
+[2013-12-09 10:27:17] nicegraham: feel free to contribute some fixes to speed it up :)
+[2013-12-09 10:27:42] jack090_: :-D I actually might
+[2013-12-09 10:27:57] jack090_: lukeis got me started on selendroid though
+[2013-12-09 10:28:06] jack090_: I get to beat my head against a wall first on that :-)
