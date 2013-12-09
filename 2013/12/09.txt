@@ -90,3 +90,19 @@
 [2013-12-09 12:08:48] gdennis: another noob question, sorry
 [2013-12-09 12:09:01] gdennis: trying to run a simple webdriver test against the simulator
 [2013-12-09 12:09:27] gdennis: I get this error from ios-server: WARNING DefaultCommandListener.stderr  2013-12-09 15:04:48.466 instruments[13260:507] -[__NSCFConstantString isEqualToNumber:]: unrecognized selector sent to instance 0x7fff784addb0
+[2013-12-09 12:10:42] nicegraham: what language?
+[2013-12-09 12:10:46] gdennis: java
+[2013-12-09 12:11:20] nicegraham: I don't know really
+[2013-12-09 12:11:30] nicegraham: at what point do you get that?
+[2013-12-09 12:12:25] gdennis: creating a new RemoteWebDriver
+[2013-12-09 12:12:44] nicegraham: ok, what do you capabilities look like?
+[2013-12-09 12:13:10] gdennis: DesiredCapabilities safari = IOSCapabilities.iphone("Safari");
+[2013-12-09 12:13:12] gdennis: safari.setCapability(IOSCapabilities.SIMULATOR, true);
+[2013-12-09 12:13:33] admc, joining. (#ios-driver)
+[2013-12-09 12:14:00] nicegraham: on ios7 right?
+[2013-12-09 12:14:04] gdennis: yes
+[2013-12-09 12:14:12] nicegraham: have you had it working at all to date?
+[2013-12-09 12:14:20] gdennis: no, this is my first attempt
+[2013-12-09 12:14:36] nicegraham: I have a feeling this is something to do with ios7
+[2013-12-09 12:14:40] nicegraham: but I'm not sure what
+[2013-12-09 12:14:47] nicegraham: I'm pretty sure someone else has posted something similar
