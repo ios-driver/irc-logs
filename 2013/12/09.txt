@@ -212,3 +212,4 @@
 [2013-12-09 13:59:32] gdennis, leaving. (#ios-driver)
 [2013-12-09 13:59:36] admc1, quitting. (Quit: Leaving.)
 [2013-12-09 14:10:21] santiycr, joining. (#ios-driver)
+[2013-12-09 14:17:55] admc, joining. (#ios-driver)
