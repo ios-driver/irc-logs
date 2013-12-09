@@ -58,3 +58,4 @@
 [2013-12-09 10:53:50] ios-driver-git: ios-driver/java6 8b1eba0 rsalvador: Java 6 compatible version.
 [2013-12-09 10:53:50] ios-driver-git: [ios-driver] rsalvador created java6 (+1 new commit): http://git.io/b6YdBg
 [2013-12-09 10:53:50] ios-driver-git, leaving. (#ios-driver)
+[2013-12-09 10:55:12] elstfi, quitting. (Quit: Leaving.)
