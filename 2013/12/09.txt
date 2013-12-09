@@ -20,3 +20,9 @@
 [2013-12-09 08:50:06] lukeis, joining. (#ios-driver)
 [2013-12-09 09:16:11] nicegraham: gdennis: have to set the -simulators flag on startup?
 [2013-12-09 09:16:41] nicegraham: is it either specifically named using -aut or in the folder ios-driver is monitoring?
+[2013-12-09 09:31:02] ios-driver-git, joining. (#ios-driver)
+[2013-12-09 09:31:02] ios-driver-git: ios-driver/refactor 20d9f98 rsalvador: Support native events for iOS 7.
+[2013-12-09 09:31:02] ios-driver-git: ios-driver/refactor 745388c rsalvador: Tune logging.
+[2013-12-09 09:31:02] ios-driver-git: ios-driver/refactor 0d5a652 rsalvador: Handle special keys in iOS 7.
+[2013-12-09 09:31:02] ios-driver-git, leaving. (#ios-driver)
+[2013-12-09 09:31:02] ios-driver-git: [ios-driver] rsalvador pushed 4 new commits to refactor: http://git.io/kE7BlA
