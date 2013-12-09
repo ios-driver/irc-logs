@@ -106,3 +106,10 @@
 [2013-12-09 12:14:36] nicegraham: I have a feeling this is something to do with ios7
 [2013-12-09 12:14:40] nicegraham: but I'm not sure what
 [2013-12-09 12:14:47] nicegraham: I'm pretty sure someone else has posted something similar
+[2013-12-09 12:15:20] nicegraham: https://github.com/ios-driver/ios-driver/issues/174
+[2013-12-09 12:16:56] gdennis: ok, also preceding noob question, should I be expected to start the simulator in advance of running the test?
+[2013-12-09 12:17:25] gdennis: i've been starting it Xcode > Open Developer Tool > IOS Simulator
+[2013-12-09 12:17:54] nicegraham: no, it shouldn't be running
+[2013-12-09 12:18:21] gdennis: do I need XCode at least open?
+[2013-12-09 12:18:44] nicegraham: nope
+[2013-12-09 12:19:15] gdennis: ok, these were things I was just trying because of the earlier error, good to know they are not necessary
