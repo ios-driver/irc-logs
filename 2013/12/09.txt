@@ -18,3 +18,5 @@
 [2013-12-09 08:29:04] gdennis, joining. (#ios-driver)
 [2013-12-09 08:35:40] gdennis: running through the ios-driver setup instructions: why would my application under test not appear in the list of supported apps in the webdriver /status response?
 [2013-12-09 08:50:06] lukeis, joining. (#ios-driver)
+[2013-12-09 09:16:11] nicegraham: gdennis: have to set the -simulators flag on startup?
+[2013-12-09 09:16:41] nicegraham: is it either specifically named using -aut or in the folder ios-driver is monitoring?
