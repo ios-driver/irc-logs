@@ -125,3 +125,5 @@
 [2013-12-09 12:29:05] gdennis: yeah, UI_SDK_VERSION is the string "sdkVersion"
 [2013-12-09 12:29:12] gdennis: thanks
 [2013-12-09 12:29:57] nicegraham: I don't know why there's a UI there...
+[2013-12-09 12:31:22] nicegraham: yeha, that looks like it
+[2013-12-09 12:31:29] gdennis: oh, there's a getSdkVersion and setSdkVersion convenience method for it, too
