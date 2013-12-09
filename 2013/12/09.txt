@@ -119,3 +119,9 @@
 [2013-12-09 12:22:11] nicegraham: and the permissions set
 [2013-12-09 12:22:20] nicegraham: and of course the sdks available
 [2013-12-09 12:24:56] gdennis: and if I have all those, is the capability I'm looking for UI_VERSION or something else?
+[2013-12-09 12:28:12] nicegraham: er, no I think it's sdk version or something
+[2013-12-09 12:28:32] gdennis: ok, there is UI_SDK_VERSION
+[2013-12-09 12:28:37] nicegraham: there should be a constant for it in IOSCapabilities.SDK something something
+[2013-12-09 12:29:05] gdennis: yeah, UI_SDK_VERSION is the string "sdkVersion"
+[2013-12-09 12:29:12] gdennis: thanks
+[2013-12-09 12:29:57] nicegraham: I don't know why there's a UI there...
