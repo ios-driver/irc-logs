@@ -7,3 +7,4 @@
 [2013-12-08 14:13:05] smccarthy, joining. (#ios-driver)
 [2013-12-08 15:07:34] admc, quitting. (Quit: Leaving.)
 [2013-12-08 15:33:39] smccarthy, quitting. (Remote host closed the connection)
+[2013-12-08 16:15:46] intermedica, joining. (#ios-driver)
