@@ -141,3 +141,9 @@
 [2013-12-09 13:22:37] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to java6: http://git.io/dv2Tzg
 [2013-12-09 13:23:15] rsalvador, joining. (#ios-driver)
 [2013-12-09 13:24:54] lukeis: rsalvador: :log
+[2013-12-09 13:32:23] ios-driver-git, joining. (#ios-driver)
+[2013-12-09 13:32:23] ios-driver-git, leaving. (#ios-driver)
+[2013-12-09 13:32:23] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to java6: http://git.io/Gxojlg
+[2013-12-09 13:32:23] ios-driver-git: ios-driver/java6 b784440 rsalvador: Fixing travis java6 compiler errors (3)
+[2013-12-09 13:34:02] nicegraham: hey rsalvador
+[2013-12-09 13:34:13] nicegraham: I've seen your reply there
