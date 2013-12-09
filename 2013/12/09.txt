@@ -218,3 +218,5 @@
 [2013-12-09 15:30:34] santiycr, joining. (#ios-driver)
 [2013-12-09 15:34:27] smccarthy, quitting. (Remote host closed the connection)
 [2013-12-09 15:34:59] smccarthy, joining. (#ios-driver)
+[2013-12-09 15:35:28] smccarthy, quitting. (Read error: Connection reset by peer)
+[2013-12-09 15:35:52] smccarthy, joining. (#ios-driver)
