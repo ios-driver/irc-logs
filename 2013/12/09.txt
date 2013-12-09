@@ -26,3 +26,14 @@
 [2013-12-09 09:31:02] ios-driver-git: ios-driver/refactor 0d5a652 rsalvador: Handle special keys in iOS 7.
 [2013-12-09 09:31:02] ios-driver-git, leaving. (#ios-driver)
 [2013-12-09 09:31:02] ios-driver-git: [ios-driver] rsalvador pushed 4 new commits to refactor: http://git.io/kE7BlA
+[2013-12-09 09:41:59] gdennis: nicegraham: yes, -simulators did the trick
+[2013-12-09 09:42:14] nicegraham: cool
+[2013-12-09 09:42:27] gdennis: nicegraham: should that be part of the setup instructions now?
+[2013-12-09 09:42:36] gdennis: or was I missing something else that should have enabled that by default?
+[2013-12-09 09:43:06] nicegraham: it should be in the setup instructions
+[2013-12-09 09:43:13] nicegraham: they haven't been updated in a while
+[2013-12-09 09:43:22] nicegraham: the console tells you when it's not enabled though
+[2013-12-09 09:43:31] nicegraham: maybe that message could be clearer too
+[2013-12-09 09:43:45] nicegraham: as in "you won't have access to the simulator without this"
+[2013-12-09 09:44:06] nicegraham: or we switch the default behaviour to being on
+[2013-12-09 09:44:13] nicegraham: which we probably should :)
