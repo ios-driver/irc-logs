@@ -10,3 +10,4 @@
 [2013-12-08 16:15:46] intermedica, joining. (#ios-driver)
 [2013-12-08 16:23:02] dgrace, quitting. (Ping timeout: 264 seconds)
 [2013-12-08 16:23:26] dgrace, joining. (#ios-driver)
+[2013-12-08 18:05:39] smccarthy, joining. (#ios-driver)
