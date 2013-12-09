@@ -131,3 +131,7 @@
 [2013-12-09 12:46:47] admc1, joining. (#ios-driver)
 [2013-12-09 12:47:26] santiycr1, quitting. (Quit: Leaving.)
 [2013-12-09 13:06:42] jack090, joining. (#ios-driver)
+[2013-12-09 13:17:45] ios-driver-git: ios-driver/java6 9bcc57c rsalvador: Fixing travis java6 compiler errors.
+[2013-12-09 13:17:45] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to java6: http://git.io/dWUVyQ
+[2013-12-09 13:17:45] ios-driver-git, joining. (#ios-driver)
+[2013-12-09 13:17:45] ios-driver-git, leaving. (#ios-driver)
