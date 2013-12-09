@@ -1,1 +1,2 @@
 [2013-12-09 01:05:15] admc, quitting. (Quit: Leaving.)
+[2013-12-09 01:49:16] elstfi, joining. (#ios-driver)
