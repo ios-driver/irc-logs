@@ -161,3 +161,16 @@
 [2013-12-09 13:39:07] nicegraham: but they've made changes to their images before for us
 [2013-12-09 13:39:31] nicegraham: are they on mavericks?
 [2013-12-09 13:40:00] rsalvador: they are moving to mavericks, but I don't think their production machines are on mavericks yhet
+[2013-12-09 13:41:01] nicegraham: I don't know why that's a problem so
+[2013-12-09 13:41:11] lukeis: yeah, what sauce gives TravisCI and what sauce gives 'selenium tests' in their cloud are two separate images
+[2013-12-09 13:41:18] nicegraham: but we had tests running on there before
+[2013-12-09 13:41:56] nicegraham: like they actually ran - they didn't all pass
+[2013-12-09 13:42:04] nicegraham: but they compiled and started running
+[2013-12-09 13:42:11] nicegraham: and I'm pretty sure that was post move to ios 7
+[2013-12-09 13:42:18] nicegraham: ugh, java 7 even :)
+[2013-12-09 13:43:10] rsalvador: maybe they also have some machines with java7 for travis and sometimes we get the java7 one?
+[2013-12-09 13:43:27] nicegraham: i do'nt know.. but I'm asking in their channel :)
+[2013-12-09 13:44:09] lukeis: travisCI machines with OSX have java7
+[2013-12-09 13:44:30] lukeis: you guys not listening to me? :)
+[2013-12-09 13:44:51] AutomatedTester: nicegraham: I have asked one of the founders for you
+[2013-12-09 13:45:00] nicegraham: well you know more them than they do so :)
