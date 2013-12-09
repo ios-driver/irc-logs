@@ -214,3 +214,7 @@
 [2013-12-09 14:10:21] santiycr, joining. (#ios-driver)
 [2013-12-09 14:17:55] admc, joining. (#ios-driver)
 [2013-12-09 14:29:22] phasze: nicegraham: it's missing stuff from the source when I downloaded as zip. namely org.uiautomation.iosdriver
+[2013-12-09 15:30:19] santiycr, quitting. (Read error: Connection reset by peer)
+[2013-12-09 15:30:34] santiycr, joining. (#ios-driver)
+[2013-12-09 15:34:27] smccarthy, quitting. (Remote host closed the connection)
+[2013-12-09 15:34:59] smccarthy, joining. (#ios-driver)
