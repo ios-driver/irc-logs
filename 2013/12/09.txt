@@ -127,3 +127,6 @@
 [2013-12-09 12:29:57] nicegraham: I don't know why there's a UI there...
 [2013-12-09 12:31:22] nicegraham: yeha, that looks like it
 [2013-12-09 12:31:29] gdennis: oh, there's a getSdkVersion and setSdkVersion convenience method for it, too
+[2013-12-09 12:46:42] admc, quitting. (Read error: Connection reset by peer)
+[2013-12-09 12:46:47] admc1, joining. (#ios-driver)
+[2013-12-09 12:47:26] santiycr1, quitting. (Quit: Leaving.)
