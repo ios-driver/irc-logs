@@ -113,3 +113,9 @@
 [2013-12-09 12:18:21] gdennis: do I need XCode at least open?
 [2013-12-09 12:18:44] nicegraham: nope
 [2013-12-09 12:19:15] gdennis: ok, these were things I was just trying because of the earlier error, good to know they are not necessary
+[2013-12-09 12:21:48] gdennis: nicegraham: and can I change the iOS version chosen using the DesiredCaps?
+[2013-12-09 12:21:56] nicegraham: you can
+[2013-12-09 12:22:06] nicegraham: but you need to ahve the exiled sdk folder created
+[2013-12-09 12:22:11] nicegraham: and the permissions set
+[2013-12-09 12:22:20] nicegraham: and of course the sdks available
+[2013-12-09 12:24:56] gdennis: and if I have all those, is the capability I'm looking for UI_VERSION or something else?
