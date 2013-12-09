@@ -174,3 +174,34 @@
 [2013-12-09 13:44:30] lukeis: you guys not listening to me? :)
 [2013-12-09 13:44:51] AutomatedTester: nicegraham: I have asked one of the founders for you
 [2013-12-09 13:45:00] nicegraham: well you know more them than they do so :)
+[2013-12-09 13:45:12] nicegraham: saw that AutomatedTester, thanks for the accelerator :)
+[2013-12-09 13:45:36] phasze, joining. (#ios-driver)
+[2013-12-09 13:46:33] phasze: downloaded refactor branch (via download from zip) and compiled via "mvn package"
+[2013-12-09 13:46:53] AutomatedTester: phasze: I am sorry they forced you to use mvn
+[2013-12-09 13:47:07] nicegraham: hah
+[2013-12-09 13:47:07] phasze: I already had it installed from another thing hehe
+[2013-12-09 13:47:14] nicegraham: you boys and your mvn hate
+[2013-12-09 13:47:33] AutomatedTester: nicegraham: I dont have a fat pipe like most offices do
+[2013-12-09 13:47:38] lukeis: heh, AutomatedTester do you even know java? ;)
+[2013-12-09 13:47:43] phasze: first launched and connected to grid just fine
+[2013-12-09 13:47:53] phasze: now when I do "-beta" I get an exception :(
+[2013-12-09 13:47:57] AutomatedTester: lukeis: Bro... do you even Java?
+[2013-12-09 13:47:58] nicegraham: yeah, that's broken
+[2013-12-09 13:48:03] lukeis: :-D
+[2013-12-09 13:48:05] phasze: :'(
+[2013-12-09 13:48:20] nicegraham: i know
+[2013-12-09 13:48:24] phasze: is it working in any branch? :S
+[2013-12-09 13:48:37] nicegraham: er 0.6.0 I think
+[2013-12-09 13:48:44] phasze: on OS X 10.9?
+[2013-12-09 13:48:47] AutomatedTester: lukeis: I dont advertise I know Java but I do
+[2013-12-09 13:48:53] nicegraham: that shouldn't matter
+[2013-12-09 13:49:01] nicegraham: but it won't work well with ios7
+[2013-12-09 13:49:04] phasze: alright, so I should grab 0.6.0 then
+[2013-12-09 13:49:06] phasze: oh
+[2013-12-09 13:49:07] phasze: dang
+[2013-12-09 13:49:18] nicegraham: since that's on the refactor brnach and beta is broken there
+[2013-12-09 13:49:18] phasze: work well or work? :P
+[2013-12-09 13:49:23] nicegraham: I don't know
+[2013-12-09 13:49:29] nicegraham: you'll have to suck it and see :)
+[2013-12-09 13:49:35] phasze: lovely....
+[2013-12-09 13:49:46] nicegraham: exciting
