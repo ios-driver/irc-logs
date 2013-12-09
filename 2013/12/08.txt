@@ -12,3 +12,4 @@
 [2013-12-08 16:23:26] dgrace, joining. (#ios-driver)
 [2013-12-08 18:05:39] smccarthy, joining. (#ios-driver)
 [2013-12-08 18:44:08] intermedica, quitting. (Remote host closed the connection)
+[2013-12-08 22:01:52] smccarthy, quitting. (Remote host closed the connection)
