@@ -37,3 +37,4 @@
 [2013-12-09 09:43:45] nicegraham: as in "you won't have access to the simulator without this"
 [2013-12-09 09:44:06] nicegraham: or we switch the default behaviour to being on
 [2013-12-09 09:44:13] nicegraham: which we probably should :)
+[2013-12-09 09:49:31] smccarthy, joining. (#ios-driver)
