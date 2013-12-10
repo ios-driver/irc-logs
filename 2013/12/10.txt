@@ -35,3 +35,6 @@
 [2013-12-10 08:30:47] lukeis, joining. (#ios-driver)
 [2013-12-10 08:44:23] rsalvador, quitting. (Quit: Leaving.)
 [2013-12-10 08:49:46] Phasze: nicegraham: Hmm, same thing. I'm just trying to build in intellij.  Should I be building another way?
+[2013-12-10 08:52:00] smccarthy, joining. (#ios-driver)
+[2013-12-10 08:54:02] nicegraham: you'll need maven installed
+[2013-12-10 08:54:09] nicegraham: and pull the dependencies
