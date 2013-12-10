@@ -130,3 +130,4 @@
 [2013-12-10 12:08:13] Phasze: the tests passed when I built it
 [2013-12-10 12:08:19] jack090: and almost ready to release but the unit tests fail apparently
 [2013-12-10 12:08:29] jack090: hrm.. better then what I got then
+[2013-12-10 12:28:05] jack090, quitting. (*.net *.split)
