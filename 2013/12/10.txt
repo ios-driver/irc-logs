@@ -24,3 +24,4 @@
 [2013-12-10 07:41:17] elstfi1, quitting. (Quit: Leaving.)
 [2013-12-10 07:42:54] elstfi, joining. (#ios-driver)
 [2013-12-10 07:58:54] santiycr, quitting. (Quit: Leaving.)
+[2013-12-10 08:04:18] phasze1, changing nick to Phasze.
