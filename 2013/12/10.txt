@@ -113,3 +113,20 @@
 [2013-12-10 12:04:13] jack090: yea 0.6.5 which is the full download release version doesn't work yet with IOS7 yet
 [2013-12-10 12:04:18] jack090: the refactor branch does apparently
 [2013-12-10 12:04:52] Phasze: kk, launching with "-simulators" and testing
+[2013-12-10 12:05:06] jack090: it'll prob blow up somewhere else
+[2013-12-10 12:06:07] Phasze: yeah, whenever I try and set that CFBundleName it crashes
+[2013-12-10 12:06:22] Phasze: and by crashes I mean throws the error
+[2013-12-10 12:06:54] santiycr1, joining. (#ios-driver)
+[2013-12-10 12:06:54] santiycr, quitting. (Read error: Connection reset by peer)
+[2013-12-10 12:06:56] jack090: are you testing web or app?
+[2013-12-10 12:07:01] Phasze: app
+[2013-12-10 12:07:06] Phasze: just trying to get the sample app working
+[2013-12-10 12:07:18] jack090: I'm trying to get safari to work
+[2013-12-10 12:07:27] jack090: but IOS7 has given me grief
+[2013-12-10 12:07:52] jack090: When you built using Maven of the refactor branch did it try and run tests?
+[2013-12-10 12:07:54] jack090: mine did
+[2013-12-10 12:08:01] jack090: but the tests bombed
+[2013-12-10 12:08:04] jack090: they are working on it now
+[2013-12-10 12:08:13] Phasze: the tests passed when I built it
+[2013-12-10 12:08:19] jack090: and almost ready to release but the unit tests fail apparently
+[2013-12-10 12:08:29] jack090: hrm.. better then what I got then
