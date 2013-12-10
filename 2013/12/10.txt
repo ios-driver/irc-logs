@@ -80,3 +80,9 @@
 [2013-12-10 11:14:31] elstfi1, joining. (#ios-driver)
 [2013-12-10 11:14:31] rsalvador, joining. (#ios-driver)
 [2013-12-10 11:14:43] rsalvador1, quitting. (Read error: Connection reset by peer)
+[2013-12-10 11:16:00] elstfi2, joining. (#ios-driver)
+[2013-12-10 11:16:05] elstfi, quitting. (Read error: Connection reset by peer)
+[2013-12-10 11:16:16] jack090: Is the refactor branch fail on the "tests"?
+[2013-12-10 11:16:25] jack090: er.. failing
+[2013-12-10 11:17:48] jack090: nicegraham did you say that it was suppose to fail?
+[2013-12-10 11:19:00] elstfi1, quitting. (Ping timeout: 260 seconds)
