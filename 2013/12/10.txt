@@ -63,3 +63,4 @@
 [2013-12-10 09:19:59] Phasze: java(2304,0x139658000) malloc: *** error for object 0xf000000000000000: pointer being freed was not allocated
 [2013-12-10 09:19:59] Phasze: *** set a breakpoint in malloc_error_break to debug
 [2013-12-10 09:19:59] Phasze: Abort trap: 6
+[2013-12-10 09:20:14] Phasze: whoops, sorry about the multi-line spam
