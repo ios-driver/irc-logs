@@ -55,3 +55,5 @@
 [2013-12-10 09:04:22] Phasze: I clicked on "404e9e5" and it looks like it did
 [2013-12-10 09:04:35] lukeis: ok, then you'll download it separately ;)
 [2013-12-10 09:04:57] Phasze: hehe, now to transfer files to mac and test it out
+[2013-12-10 09:12:01] elstfi, quitting. (Quit: Leaving.)
+[2013-12-10 09:13:58] elstfi, joining. (#ios-driver)
