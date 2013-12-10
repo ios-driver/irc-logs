@@ -68,3 +68,5 @@
 [2013-12-10 09:46:52] santiycr, quitting. (Quit: Leaving.)
 [2013-12-10 09:59:05] elstfi, joining. (#ios-driver)
 [2013-12-10 10:06:41] santiycr, joining. (#ios-driver)
+[2013-12-10 10:12:56] jack090, joining. (#ios-driver)
+[2013-12-10 10:13:34] jack090: I'm having a brain fart what's the command to get Maven to build?
