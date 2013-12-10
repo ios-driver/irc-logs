@@ -47,3 +47,11 @@
 [2013-12-10 08:57:14] nicegraham: git submodule update
 [2013-12-10 08:58:45] Phasze: cannot read from remote repository :(
 [2013-12-10 08:58:52] Phasze: may not have access or may not exist
+[2013-12-10 09:01:24] lukeis: do you have a github account? have you setup your ssh keys?
+[2013-12-10 09:02:22] Phasze: I do have an account, though I don't know about any ssh keys
+[2013-12-10 09:03:53] Phasze: I'll just manually grab from here: https://github.com/ios-driver/ios-driver/tree/0.6.0
+[2013-12-10 09:03:53] lukeis: https://help.github.com/articles/generating-ssh-keys
+[2013-12-10 09:04:09] lukeis: that won't get the submodule i believe
+[2013-12-10 09:04:22] Phasze: I clicked on "404e9e5" and it looks like it did
+[2013-12-10 09:04:35] lukeis: ok, then you'll download it separately ;)
+[2013-12-10 09:04:57] Phasze: hehe, now to transfer files to mac and test it out
