@@ -64,3 +64,5 @@
 [2013-12-10 09:19:59] Phasze: *** set a breakpoint in malloc_error_break to debug
 [2013-12-10 09:19:59] Phasze: Abort trap: 6
 [2013-12-10 09:20:14] Phasze: whoops, sorry about the multi-line spam
+[2013-12-10 09:45:28] elstfi, quitting. (Quit: Leaving.)
+[2013-12-10 09:46:52] santiycr, quitting. (Quit: Leaving.)
