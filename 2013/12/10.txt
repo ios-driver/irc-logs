@@ -38,3 +38,12 @@
 [2013-12-10 08:52:00] smccarthy, joining. (#ios-driver)
 [2013-12-10 08:54:02] nicegraham: you'll need maven installed
 [2013-12-10 08:54:09] nicegraham: and pull the dependencies
+[2013-12-10 08:55:03] Phasze: so clone, navigate inside, checkout tag, and "mvn package"?
+[2013-12-10 08:55:10] nicegraham: yep
+[2013-12-10 08:56:23] Phasze: complains about that libimobile-java/pom.xml file not being there since that folder is empty
+[2013-12-10 08:56:47] Phasze: guess it didn't get included with the clone/checkout
+[2013-12-10 08:57:06] nicegraham: you shoudl do
+[2013-12-10 08:57:10] nicegraham: git submodule init
+[2013-12-10 08:57:14] nicegraham: git submodule update
+[2013-12-10 08:58:45] Phasze: cannot read from remote repository :(
+[2013-12-10 08:58:52] Phasze: may not have access or may not exist
