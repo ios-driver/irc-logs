@@ -139,3 +139,5 @@
 [2013-12-10 13:08:26] jack090: yea
 [2013-12-10 13:08:38] jack090: I'm blowing up trying to get IO7 to work
 [2013-12-10 13:08:57] jack090: ls
+[2013-12-10 13:10:57] jack090: the dreaded java.lang.NullPointerException
+[2013-12-10 13:12:54] santiycr, joining. (#ios-driver)
