@@ -27,3 +27,5 @@
 [2013-12-10 08:04:18] phasze1, changing nick to Phasze.
 [2013-12-10 08:08:35] rsalvador, joining. (#ios-driver)
 [2013-12-10 08:16:21] santiycr, joining. (#ios-driver)
+[2013-12-10 08:29:18] Phasze: nicegraham: I still get those same errors about org.uiautomation.iosdriver
+[2013-12-10 08:29:25] Phasze: maybe the .zip download isn't getting everything....
