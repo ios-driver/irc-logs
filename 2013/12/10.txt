@@ -34,3 +34,4 @@
 [2013-12-10 08:30:13] nicegraham: and then build
 [2013-12-10 08:30:47] lukeis, joining. (#ios-driver)
 [2013-12-10 08:44:23] rsalvador, quitting. (Quit: Leaving.)
+[2013-12-10 08:49:46] Phasze: nicegraham: Hmm, same thing. I'm just trying to build in intellij.  Should I be building another way?
