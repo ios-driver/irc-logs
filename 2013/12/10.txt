@@ -136,3 +136,6 @@
 [2013-12-10 12:58:10] santiycr1, quitting. (Quit: Leaving.)
 [2013-12-10 13:01:37] jack090: anyone alive?
 [2013-12-10 13:03:42] Phasze: just the ones with unsolved mysteries
+[2013-12-10 13:08:26] jack090: yea
+[2013-12-10 13:08:38] jack090: I'm blowing up trying to get IO7 to work
+[2013-12-10 13:08:57] jack090: ls
