@@ -237,3 +237,4 @@
 [2013-12-09 17:44:40] rsalvador1, joining. (#ios-driver)
 [2013-12-09 17:44:49] rsalvador1, leaving. (#ios-driver)
 [2013-12-09 18:09:48] admc, quitting. (Quit: Leaving.)
+[2013-12-09 19:50:20] santiycr, joining. (#ios-driver)
