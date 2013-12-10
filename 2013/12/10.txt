@@ -89,3 +89,6 @@
 [2013-12-10 11:22:33] elstfi2, quitting. (Quit: Leaving.)
 [2013-12-10 11:47:51] admc, quitting. (Quit: Leaving.)
 [2013-12-10 11:52:18] Phasze: getting an error trying to run a test from .NET in grid:  http://pastebin.com/UpyEs3XZ
+[2013-12-10 11:57:08] jack090: Phasze you using the release version?
+[2013-12-10 11:57:26] jack090: DesiredCapabilities capability = DesiredCapabilities.Ipad();
+[2013-12-10 11:59:28] Phasze: jack090: tried release and refactor
