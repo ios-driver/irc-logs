@@ -88,3 +88,4 @@
 [2013-12-10 11:19:00] elstfi1, quitting. (Ping timeout: 260 seconds)
 [2013-12-10 11:22:33] elstfi2, quitting. (Quit: Leaving.)
 [2013-12-10 11:47:51] admc, quitting. (Quit: Leaving.)
+[2013-12-10 11:52:18] Phasze: getting an error trying to run a test from .NET in grid:  http://pastebin.com/UpyEs3XZ
