@@ -1,1 +1,2 @@
 [2013-12-10 00:22:57] nicegraham: phasze1: just download the tag from github so and compile it
+[2013-12-10 02:01:58] admc, quitting. (Quit: Leaving.)
