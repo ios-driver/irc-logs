@@ -234,3 +234,5 @@
 [2013-12-09 17:13:49] admc, joining. (#ios-driver)
 [2013-12-09 17:18:35] rsalvador1, leaving. (#ios-driver)
 [2013-12-09 17:21:37] smccarthy, quitting. (Remote host closed the connection)
+[2013-12-09 17:44:40] rsalvador1, joining. (#ios-driver)
+[2013-12-09 17:44:49] rsalvador1, leaving. (#ios-driver)
