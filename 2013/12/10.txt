@@ -75,3 +75,4 @@
 [2013-12-10 10:42:22] elstfi, quitting. (Read error: Operation timed out)
 [2013-12-10 10:56:15] rsalvador1, joining. (#ios-driver)
 [2013-12-10 10:56:25] rsalvador, quitting. (Read error: Connection reset by peer)
+[2013-12-10 11:04:33] elstfi1, quitting. (Quit: Leaving.)
