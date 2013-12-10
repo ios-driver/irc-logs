@@ -67,3 +67,4 @@
 [2013-12-10 09:45:28] elstfi, quitting. (Quit: Leaving.)
 [2013-12-10 09:46:52] santiycr, quitting. (Quit: Leaving.)
 [2013-12-10 09:59:05] elstfi, joining. (#ios-driver)
+[2013-12-10 10:06:41] santiycr, joining. (#ios-driver)
