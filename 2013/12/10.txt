@@ -3,3 +3,4 @@
 [2013-12-10 02:25:02] elstfi, joining. (#ios-driver)
 [2013-12-10 03:02:57] elstfi1, joining. (#ios-driver)
 [2013-12-10 03:05:09] elstfi, quitting. (Ping timeout: 248 seconds)
+[2013-12-10 03:24:38] elstfi, joining. (#ios-driver)
