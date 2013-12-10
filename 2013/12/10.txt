@@ -77,3 +77,6 @@
 [2013-12-10 10:56:25] rsalvador, quitting. (Read error: Connection reset by peer)
 [2013-12-10 11:04:33] elstfi1, quitting. (Quit: Leaving.)
 [2013-12-10 11:08:55] elstfi, joining. (#ios-driver)
+[2013-12-10 11:14:31] elstfi1, joining. (#ios-driver)
+[2013-12-10 11:14:31] rsalvador, joining. (#ios-driver)
+[2013-12-10 11:14:43] rsalvador1, quitting. (Read error: Connection reset by peer)
