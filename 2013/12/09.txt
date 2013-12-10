@@ -225,3 +225,4 @@
 [2013-12-09 15:52:04] smccarthy, joining. (#ios-driver)
 [2013-12-09 15:54:08] rsalvador, leaving. (#ios-driver)
 [2013-12-09 16:02:21] lukeis, quitting. (Quit: Leaving.)
+[2013-12-09 16:34:48] santiycr, quitting. (Quit: Leaving.)
