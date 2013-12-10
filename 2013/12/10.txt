@@ -10,3 +10,5 @@
 [2013-12-10 03:56:48] santiycr, joining. (#ios-driver)
 [2013-12-10 04:43:16] elstfi2, quitting. (Quit: Leaving.)
 [2013-12-10 05:17:23] elstfi, joining. (#ios-driver)
+[2013-12-10 06:26:58] santiycr, quitting. (Quit: Leaving.)
+[2013-12-10 06:27:27] santiycr, joining. (#ios-driver)
