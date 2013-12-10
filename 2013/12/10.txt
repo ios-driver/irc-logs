@@ -141,3 +141,4 @@
 [2013-12-10 13:08:57] jack090: ls
 [2013-12-10 13:10:57] jack090: the dreaded java.lang.NullPointerException
 [2013-12-10 13:12:54] santiycr, joining. (#ios-driver)
+[2013-12-10 13:24:16] psp250, quitting. (Quit: Leaving)
