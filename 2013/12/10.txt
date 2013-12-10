@@ -146,3 +146,4 @@
 [2013-12-10 13:28:38] admc, quitting. (Quit: Leaving.)
 [2013-12-10 13:44:56] jlipps, joining. (#ios-driver)
 [2013-12-10 13:53:57] rsalvador, quitting. (Quit: Leaving.)
+[2013-12-10 13:55:38] rsalvador, joining. (#ios-driver)
