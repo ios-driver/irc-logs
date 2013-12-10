@@ -92,3 +92,24 @@
 [2013-12-10 11:57:08] jack090: Phasze you using the release version?
 [2013-12-10 11:57:26] jack090: DesiredCapabilities capability = DesiredCapabilities.Ipad();
 [2013-12-10 11:59:28] Phasze: jack090: tried release and refactor
+[2013-12-10 12:00:11] jack090: protected IWebDriver = new RemoteWebDriver(new URI("http://hostname:5555/wd/hub"), capability);
+[2013-12-10 12:00:44] jack090: i had problems when I would use 444
+[2013-12-10 12:00:46] jack090: er.. 4444
+[2013-12-10 12:01:10] Phasze: the ios-driver is connected through 5555
+[2013-12-10 12:01:10] jack090: I use 5555 but my startup of ios-driver accounts for that
+[2013-12-10 12:01:19] Phasze: the hub uses 4444
+[2013-12-10 12:01:47] jack090: take the hub out of it first
+[2013-12-10 12:02:02] jack090: I use a similar setup in C#
+[2013-12-10 12:02:10] jack090: oh yeah are you using IOS7?
+[2013-12-10 12:02:15] Phasze: yup
+[2013-12-10 12:02:23] jack090: hrm. yea I'm having problems with it too
+[2013-12-10 12:02:26] jack090: hehe
+[2013-12-10 12:02:53] jack090: I have the release version working with the old xcode and old ios 6
+[2013-12-10 12:03:01] jack090: it won't work at all with the new IO7
+[2013-12-10 12:03:09] jack090: but the refactor branch I'm working on now
+[2013-12-10 12:03:32] Phasze: to work with ios7?
+[2013-12-10 12:03:32] jack090: do you have -simulators
+[2013-12-10 12:04:09] Phasze: I haven't set the flag, maybe I should
+[2013-12-10 12:04:13] jack090: yea 0.6.5 which is the full download release version doesn't work yet with IOS7 yet
+[2013-12-10 12:04:18] jack090: the refactor branch does apparently
+[2013-12-10 12:04:52] Phasze: kk, launching with "-simulators" and testing
