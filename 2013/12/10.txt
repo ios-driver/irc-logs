@@ -29,3 +29,7 @@
 [2013-12-10 08:16:21] santiycr, joining. (#ios-driver)
 [2013-12-10 08:29:18] Phasze: nicegraham: I still get those same errors about org.uiautomation.iosdriver
 [2013-12-10 08:29:25] Phasze: maybe the .zip download isn't getting everything....
+[2013-12-10 08:30:03] nicegraham: git tag -l
+[2013-12-10 08:30:09] nicegraham: git checkout tags/<tag_name>
+[2013-12-10 08:30:13] nicegraham: and then build
+[2013-12-10 08:30:47] lukeis, joining. (#ios-driver)
