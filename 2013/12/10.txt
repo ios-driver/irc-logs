@@ -21,3 +21,5 @@
 [2013-12-10 07:31:47] gdennis, quitting. (Quit: gdennis)
 [2013-12-10 07:34:15] gdennis, joining. (#ios-driver)
 [2013-12-10 07:37:45] gdennis, quitting. (Client Quit)
+[2013-12-10 07:41:17] elstfi1, quitting. (Quit: Leaving.)
+[2013-12-10 07:42:54] elstfi, joining. (#ios-driver)
