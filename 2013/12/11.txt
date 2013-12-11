@@ -312,3 +312,4 @@
 [2013-12-11 13:32:31] admc, quitting. (Ping timeout: 272 seconds)
 [2013-12-11 13:55:13] knorrium, quitting. (Quit: knorrium)
 [2013-12-11 14:00:48] knorrium, joining. (#ios-driver)
+[2013-12-11 14:12:00] jack090: anyone around?
