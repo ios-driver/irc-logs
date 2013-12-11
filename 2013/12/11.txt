@@ -237,3 +237,14 @@
 [2013-12-11 12:23:49] jack090: just throws a java.nullpointer
 [2013-12-11 12:24:21] nicegraham: lukeis: ^?
 [2013-12-11 12:25:00] jack090: I'll dump it all to gist 1 sec.
+[2013-12-11 12:26:07] lukeis: nicegraham: he's in C# … i'll be only able to help *so* much ;)
+[2013-12-11 12:26:25] nicegraham: but should that not work? DesiredCapabilities.IPhone()
+[2013-12-11 12:26:37] admc, joining. (#ios-driver)
+[2013-12-11 12:26:44] lukeis: it should, i made it work long ago… what you may have done since then ;) that's another story
+[2013-12-11 12:27:03] lukeis: nicegraham: (remember when your co-worker broke it once?)
+[2013-12-11 12:27:29] jack090: https://gist.github.com/anonymous/7917856
+[2013-12-11 12:27:33] nicegraham: not really... how did we break c#?
+[2013-12-11 12:28:19] nicegraham: that's not the NPE i thought you were talking about
+[2013-12-11 12:28:26] jack090: if it works in java it probably should work in C# no?
+[2013-12-11 12:29:19] jack090: the gist I posted https://gist.github.com/anonymous/7917856 is what I get when I use DesiredCapabilities.IPhone()
+[2013-12-11 12:29:55] nicegraham: what language are you using?
