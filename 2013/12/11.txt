@@ -202,3 +202,15 @@
 [2013-12-11 12:09:23] lukeis: iphone driver could only take full canvas shots because of a trick that could be done in objc
 [2013-12-11 12:09:35] nicegraham: and there can be rendering differences
 [2013-12-11 12:09:47] lukeis: well, both should be tested
+[2013-12-11 12:10:13] lukeis: having your website work in safari is good, but should also work in a webview… you know if you like getting linked to in twitter or FB
+[2013-12-11 12:10:41] nicegraham: nah, not interested :)
+[2013-12-11 12:10:59] *lukeis saw a few users complaining about iphonedriver a while ago because it didn't render "correctly" there, but did in mobile safari :)'
+[2013-12-11 12:11:20] nicegraham: ah, bless them
+[2013-12-11 12:11:58] lukeis: i still couldn't convince them it wasn't iphonedriver's fault ;)
+[2013-12-11 12:12:13] nicegraham: the poor unfortunate gobshites
+[2013-12-11 12:13:06] jack090: meh... who uses facebook anyways :-)
+[2013-12-11 12:13:33] jack090: It's not like social media isn't anything than a fad... /sarcasm
+[2013-12-11 12:13:39] lukeis: :)
+[2013-12-11 12:13:44] jack090: er.. more than a fad
+[2013-12-11 12:14:16] lukeis: I think a certain founder of this web driving software might use the Book Face sometimes
+[2013-12-11 12:14:44] jack090: okies.. I've gotten a lot further now so now the iphone simulator loads and safari opens... it's returning an error saying Requested value 'IOS' was not found.
