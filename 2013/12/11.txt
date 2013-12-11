@@ -17,3 +17,4 @@
 [2013-12-11 10:22:45] lukeis, quitting. (Read error: Connection reset by peer)
 [2013-12-11 10:22:58] lukeis1, changing nick to lukeis.
 [2013-12-11 10:24:22] knorrium, quitting. (Ping timeout: 246 seconds)
+[2013-12-11 10:26:59] knorrium, joining. (#ios-driver)
