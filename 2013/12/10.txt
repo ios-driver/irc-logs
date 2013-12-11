@@ -165,3 +165,4 @@
 [2013-12-10 20:24:53] ios-driverbot__, quitting. (Ping timeout: 264 seconds)
 [2013-12-10 20:35:42] knorrium, quitting. (Quit: knorrium)
 [2013-12-10 22:26:56] rsalvador, joining. (#ios-driver)
+[2013-12-10 23:14:51] rsalvador, leaving. (#ios-driver)
