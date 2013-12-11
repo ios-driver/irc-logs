@@ -275,3 +275,12 @@
 [2013-12-11 12:39:14] jack090: correct
 [2013-12-11 12:39:33] jack090: then I get ArgumentException was unhandled: Requested value 'IOS' was not found.
 [2013-12-11 12:39:59] nicegraham: in your c# code?
+[2013-12-11 12:40:24] gdennis1, joining. (#ios-driver)
+[2013-12-11 12:40:26] nicegraham: does sim open and safari load?
+[2013-12-11 12:40:34] nicegraham: does it navigate to the url?
+[2013-12-11 12:41:19] jack090: doesn't get any further
+[2013-12-11 12:41:33] jack090: driver.Navigate().GoToUrl(baseURL); isn't even getting hit
+[2013-12-11 12:41:51] jack090: yes simulator is open and safari is loading
+[2013-12-11 12:41:59] jack090: but it dies after that
+[2013-12-11 12:42:25] jack090: i think i'm using older version of selenium (2.24) let me upgrade
+[2013-12-11 12:44:48] nicegraham: ok, I just ran a bunch of the safari tests and they ran for me here
