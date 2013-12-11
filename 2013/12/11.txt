@@ -284,3 +284,8 @@
 [2013-12-11 12:41:59] jack090: but it dies after that
 [2013-12-11 12:42:25] jack090: i think i'm using older version of selenium (2.24) let me upgrade
 [2013-12-11 12:44:48] nicegraham: ok, I just ran a bunch of the safari tests and they ran for me here
+[2013-12-11 12:45:22] jack090: https://gist.github.com/anonymous/7918144
+[2013-12-11 12:45:33] jack090: I guess it helps if I scroll up more
+[2013-12-11 12:45:41] jack090: using macbook air so it's a tiny screen
+[2013-12-11 12:45:43] jack090: :-)
+[2013-12-11 12:49:15] nicegraham: OK
