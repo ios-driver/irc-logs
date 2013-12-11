@@ -248,3 +248,19 @@
 [2013-12-11 12:28:26] jack090: if it works in java it probably should work in C# no?
 [2013-12-11 12:29:19] jack090: the gist I posted https://gist.github.com/anonymous/7917856 is what I get when I use DesiredCapabilities.IPhone()
 [2013-12-11 12:29:55] nicegraham: what language are you using?
+[2013-12-11 12:30:02] jack090: C#
+[2013-12-11 12:30:23] nicegraham: no, english / german or whatever?
+[2013-12-11 12:30:33] jack090: oh lol
+[2013-12-11 12:30:35] jack090: just english
+[2013-12-11 12:30:52] jack090: since I'm from Tennessee it's more like engrish
+[2013-12-11 12:30:58] nicegraham: https://github.com/ios-driver/ios-driver/blob/refactor/server/src/main/java/org/uiautomation/ios/server/application/AppleLanguage.java#L347
+[2013-12-11 12:32:35] jack090: ?? this code works btw on previous xcode/IOS 6
+[2013-12-11 12:32:46] nicegraham: can you add this line capability.SetCapability("language", "English"); ?
+[2013-12-11 12:32:47] jack090: that's why I'm really confused
+[2013-12-11 12:32:50] nicegraham: and try again
+[2013-12-11 12:33:03] jack090: sure 1 sec.
+[2013-12-11 12:33:45] jack090: capability.SetCapability("version", "7.0");             capability.SetCapability("CFBundleName", "Safari");             capability.SetCapability("device", "iphone");             capability.SetCapability("language", "en");
+[2013-12-11 12:33:48] jack090: if I run all that
+[2013-12-11 12:34:01] jack090: it loads all the way up and then gives me an error
+[2013-12-11 12:34:20] nicegraham: yeah, but change en -> English
+[2013-12-11 12:34:26] nicegraham: I want to see if that helps
