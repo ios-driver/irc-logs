@@ -184,3 +184,21 @@
 [2013-12-11 12:02:24] nicegraham: though I think that's their misuse of it as agains the core product
 [2013-12-11 12:02:36] jack090: It worked in IOS 6
 [2013-12-11 12:02:39] nicegraham: by "something"?
+[2013-12-11 12:05:10] jack090: hehe you were saying nirvdrum has a solution for screenshots
+[2013-12-11 12:05:18] jack090: did it break with the refactor?
+[2013-12-11 12:06:06] nirvdrum: I haven't tried the refactor branch.  Whatever commit I have checked out has been working for me.  nicegraham and I are getting along.  If I do a pull, I risk putting that in jeopardy.
+[2013-12-11 12:06:34] nicegraham: hehe
+[2013-12-11 12:06:49] nicegraham: we always get on nirvdrum
+[2013-12-11 12:07:05] jack090: I just referenced (ITakesScreenshot)
+[2013-12-11 12:07:11] knorrium: jack090: no, screenshots are working, but you get a screenshot of the full *area* (status bar, safari buttons etc)
+[2013-12-11 12:07:13] nicegraham: are you using ios7? I didn't think much worked on ios7 without refactor
+[2013-12-11 12:07:33] knorrium: I was just whining because iPhoneDriver is able to take full page screenshots, because it's not really using safari but a webview
+[2013-12-11 12:07:59] nicegraham: create a webview app
+[2013-12-11 12:08:09] jack090: well the webview technically is using safari right?
+[2013-12-11 12:08:10] jack090: :-D
+[2013-12-11 12:08:15] nicegraham: actually, I think it's probably doing something else... lukeis?
+[2013-12-11 12:08:46] jack090: I would assume it's using the same engine under the hood
+[2013-12-11 12:09:21] nicegraham: http://stackoverflow.com/questions/3496505/differences-between-uiwebview-and-mobile-safari
+[2013-12-11 12:09:23] lukeis: iphone driver could only take full canvas shots because of a trick that could be done in objc
+[2013-12-11 12:09:35] nicegraham: and there can be rendering differences
+[2013-12-11 12:09:47] lukeis: well, both should be tested
