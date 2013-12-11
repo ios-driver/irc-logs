@@ -12,3 +12,4 @@
 [2013-12-11 09:46:36] rsalvador: :log
 [2013-12-11 09:47:04] rsalvador: did anybody get ios-driver working with OSX 10.9?
 [2013-12-11 09:47:40] lukeis: nicegraham: ^ :)
+[2013-12-11 10:04:07] admc, joining. (#ios-driver)
