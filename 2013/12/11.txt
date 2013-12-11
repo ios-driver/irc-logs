@@ -108,3 +108,9 @@
 [2013-12-11 11:21:05] jack090: hrm.. ok let me check that
 [2013-12-11 11:21:30] knorrium: I got some null pointer exceptions as well but I don't have it on my buffer anymore
 [2013-12-11 11:21:52] knorrium: then eventually I figured it out by trying different desired capabilities settings
+[2013-12-11 11:25:47] jack090: IWebDriver driver = new RemoteWebDriver(new Uri("http://qpmauto05:5555/wd/hub"), DesiredCapabilities.IPhone());
+[2013-12-11 11:25:52] jack090: that's what I'm using
+[2013-12-11 11:25:54] jack090: then it dies
+[2013-12-11 11:26:52] jack090: let me do C# equiv that you have
+[2013-12-11 11:29:14] knorrium: I guess the cfbundlename part is the most important, otherwise it won't know if you want to launch safari or any other app
+[2013-12-11 11:29:29] knorrium: and then cause the null pointer exception maybe?
