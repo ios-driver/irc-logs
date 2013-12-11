@@ -18,3 +18,15 @@
 [2013-12-11 10:22:58] lukeis1, changing nick to lukeis.
 [2013-12-11 10:24:22] knorrium, quitting. (Ping timeout: 246 seconds)
 [2013-12-11 10:26:59] knorrium, joining. (#ios-driver)
+[2013-12-11 10:35:30] jack090: Yea I'm having problems getting it working
+[2013-12-11 10:35:35] knorrium: rsalvador: I was able to get it running using the refactor brach
+[2013-12-11 10:36:02] jack090: I used the refactor branch but I get iOS Simulator failed to install the application
+[2013-12-11 10:36:11] jack090: I'm trying to use mobile safari.
+[2013-12-11 10:36:48] rsalvador: oh, we are trying to use safari, so is OSX 10.9 with safari
+[2013-12-11 10:37:05] knorrium: that's what I got running
+[2013-12-11 10:37:34] knorrium: sudo chmod a+rw /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Applications
+[2013-12-11 10:37:36] rsalvador: did you have to make any changes to the refactor branch code?
+[2013-12-11 10:37:40] knorrium: sudo chmod -R a+rw /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Applications/MobileSafari.app
+[2013-12-11 10:37:53] rsalvador: thx!
+[2013-12-11 10:38:04] knorrium: and java -jar ios-server-0.6.5-jar-with-dependencies.jar -simulators
+[2013-12-11 10:39:23] knorrium: https://gist.github.com/knorrium/7915988 if you wanna launch it using ruby
