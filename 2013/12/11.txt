@@ -51,3 +51,9 @@
 [2013-12-11 10:54:29] rsalvador1: will have to debug more, but thanks for letting me know it should work on 10.9
 [2013-12-11 10:54:51] knorrium: knorrium: have you authorized the terminal app to control your system?
 [2013-12-11 10:54:51] knorrium: [10:52am] knorrium: system preferences -> security -> privacy -> accessibility
+[2013-12-11 10:56:00] rsalvador1: thx, I'll check that out
+[2013-12-11 10:57:12] jack090: so when I got the refactor branch and built with mvn clean install -DskipTests
+[2013-12-11 10:57:55] jack090: i then run java -jar ios-server....jar -port 7777 -simulators
+[2013-12-11 10:58:18] jack090: then I connect with remote webdriver from different pc it blows up with java.null pointer exception
+[2013-12-11 10:58:33] jack090: sorry not direct copy and paste (i'm using different pc to type this)
+[2013-12-11 10:58:53] jack090: something along the lines of BaseCommandHandler.java:104
