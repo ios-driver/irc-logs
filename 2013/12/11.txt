@@ -137,3 +137,34 @@
 [2013-12-11 11:53:33] lukeis: (unless someone broke it… again...)
 [2013-12-11 11:53:35] jack090: It's launching IOS Simulator and Safari Opens
 [2013-12-11 11:54:43] jack090: lukeis: I had to specifically use the following: capability.SetCapability("version", "7.0");             capability.SetCapability("CFBundleName", "Safari");             capability.SetCapability("device", "iphone");             capability.SetCapability("language", "en");
+[2013-12-11 11:55:10] knorrium: jack090: you should be able to navigate to some url now
+[2013-12-11 11:55:22] lukeis: ok… i blame nicegraham ;)
+[2013-12-11 11:55:32] nicegraham: what what
+[2013-12-11 11:55:52] knorrium: I wanna help on the documentation once I figure everything out :)
+[2013-12-11 11:55:57] lukeis: "DesiredCapabilites.IPHONE" as the only thing passed in *should* work :)
+[2013-12-11 11:56:08] nicegraham: knorrium: that would be awesome :)
+[2013-12-11 11:56:15] knorrium: I just started using ios-driver yesterday after I found out that iPhoneDriver was removed from the selenium codebase
+[2013-12-11 11:56:25] nicegraham: yeah, the default app is safari i'm pretty sure
+[2013-12-11 11:56:37] lukeis: knorrium: removal from HEAD, doesn't mean it's "gone" :)
+[2013-12-11 11:56:55] knorrium: lukeis: yeah, i forked it and reverted those changes in my repo :P
+[2013-12-11 11:56:55] nicegraham: what is bot cross posting?!
+[2013-12-11 11:56:59] lukeis: heh, ios-driverbot___ you should pay attention to another repo ;)
+[2013-12-11 11:57:14] lukeis: nicegraham: HEAD
+[2013-12-11 11:57:26] lukeis: it's a feature
+[2013-12-11 11:57:33] nicegraham: user error
+[2013-12-11 11:57:33] lukeis: but reading the wrong repo
+[2013-12-11 11:57:36] knorrium: I really need the full page screenshots, even if it's not really safari
+[2013-12-11 11:57:55] nicegraham: i think nirvdrum has a solution
+[2013-12-11 11:57:59] nicegraham: or hack
+[2013-12-11 11:58:04] knorrium: he said he stitches manually
+[2013-12-11 11:58:19] lukeis: 'manually' is a relative term
+[2013-12-11 11:58:21] nicegraham: if by manually you mean script :)
+[2013-12-11 11:58:31] nirvdrum: Yeah.  I mean, it's done with code.
+[2013-12-11 11:58:35] nirvdrum: And it works on any site.
+[2013-12-11 11:58:36] lukeis: screenshot, scroll, screenshot, scroll, repeat
+[2013-12-11 11:58:50] nirvdrum: lukeis: It's a bit more annoying than that.  But, yeah.
+[2013-12-11 11:58:57] lukeis: i can imagine
+[2013-12-11 11:59:15] nirvdrum: Device pixel ratios and such.
+[2013-12-11 11:59:34] nirvdrum: Plus the address bar has different behaviors on iPhone and iPad, with different heights.
+[2013-12-11 11:59:44] lukeis: knorrium: or you could just outsource to mogotest to get the full page screenshots ;)
+[2013-12-11 11:59:46] nicegraham: and it changed again in ios7 right?
