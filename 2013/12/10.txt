@@ -152,3 +152,6 @@
 [2013-12-10 15:24:11] jack090: allo?
 [2013-12-10 15:25:39] smccarthy, quitting. (Remote host closed the connection)
 [2013-12-10 15:38:38] jack090, quitting. (Quit: Page closed)
+[2013-12-10 17:14:11] rsalvador1, joining. (#ios-driver)
+[2013-12-10 17:14:11] rsalvador, quitting. (Read error: Connection reset by peer)
+[2013-12-10 17:14:16] rsalvador1, quitting. (Client Quit)
