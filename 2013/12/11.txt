@@ -103,3 +103,8 @@
 [2013-12-11 11:19:04] jack090: er... sorry let me clarify everything you said I have as well
 [2013-12-11 11:19:17] jack090: when I connect from remote webdriver is when I get the java null pointer
 [2013-12-11 11:19:54] knorrium: that's why I'm thinking that there might be a problem with the way you are creating the remote webdriver instance
+[2013-12-11 11:20:54] knorrium: the only way I got it to work was passing CFBundleName and the language
+[2013-12-11 11:21:03] gdennis: anyone know if freynaud is on holiday?
+[2013-12-11 11:21:05] jack090: hrm.. ok let me check that
+[2013-12-11 11:21:30] knorrium: I got some null pointer exceptions as well but I don't have it on my buffer anymore
+[2013-12-11 11:21:52] knorrium: then eventually I figured it out by trying different desired capabilities settings
