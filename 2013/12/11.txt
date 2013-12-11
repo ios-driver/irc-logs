@@ -115,3 +115,12 @@
 [2013-12-11 11:29:14] knorrium: I guess the cfbundlename part is the most important, otherwise it won't know if you want to launch safari or any other app
 [2013-12-11 11:29:29] knorrium: and then cause the null pointer exception maybe?
 [2013-12-11 11:30:31] gdennis, quitting. (Quit: Leaving.)
+[2013-12-11 11:36:56] jack090: it's slightly different in C#
+[2013-12-11 11:37:01] jack090: it's an Object
+[2013-12-11 11:37:10] jack090: capability.SetCapability(CapabilityType.BrowserName, "Safari");
+[2013-12-11 11:37:17] jack090: it's giving me different errors now
+[2013-12-11 11:37:23] jack090: so maybe this is the right track :-)
+[2013-12-11 11:37:45] jack090: I don't have a cfbundlename
+[2013-12-11 11:38:07] knorrium: I don't know how to define that in C#
+[2013-12-11 11:38:22] jack090: http://stackoverflow.com/questions/6901426/selenium-grid2-and-c-sharp-howto-setup-and-run
+[2013-12-11 11:38:50] jack090: I've never had to use special capabilities outside of just defining DesiredCapabilities.IPhone()
