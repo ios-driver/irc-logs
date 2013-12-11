@@ -86,3 +86,20 @@
 [2013-12-11 11:13:58] jack090: i'm getting /Applications/Xcode/app/Contents/Developer
 [2013-12-11 11:14:01] jack090: let me check
 [2013-12-11 11:14:45] jack090: seems to be version 5.0.2
+[2013-12-11 11:15:42] jack090: 5.0.1 is what ios-driver is showing
+[2013-12-11 11:15:51] jack090: but launching xcode shows 5.0.2 as the version
+[2013-12-11 11:16:54] knorrium: hm, I just double checked here and ios-driver says it's using instruments 5.0.1 but xcode install 5.0.2
+[2013-12-11 11:16:59] gdennis, quitting. (Quit: Leaving.)
+[2013-12-11 11:17:16] jack090: in xcode-> prefs -> Locations I have Command Line TOols: Xcode 5.0.2
+[2013-12-11 11:17:24] gdennis, joining. (#ios-driver)
+[2013-12-11 11:17:34] jack090: so it appears latest version is setup
+[2013-12-11 11:17:45] jack090: let me try more simplified way of connecting
+[2013-12-11 11:17:54] knorrium: it says it's using iOS 7 and that safari and hybrid apps are supported
+[2013-12-11 11:18:01] jack090: I've got a semi-elaborate way of connecting to my machines
+[2013-12-11 11:18:05] knorrium: then lists safari 6.0, 6.1 and 7.0
+[2013-12-11 11:18:41] jack090: I have 6.1 and 7.0
+[2013-12-11 11:18:48] jack090: (6.0 isn't installed on this box)
+[2013-12-11 11:18:54] jack090: it says it's all listed
+[2013-12-11 11:19:04] jack090: er... sorry let me clarify everything you said I have as well
+[2013-12-11 11:19:17] jack090: when I connect from remote webdriver is when I get the java null pointer
+[2013-12-11 11:19:54] knorrium: that's why I'm thinking that there might be a problem with the way you are creating the remote webdriver instance
