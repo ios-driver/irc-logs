@@ -41,3 +41,13 @@
 [2013-12-11 10:44:44] nicegraham: :)
 [2013-12-11 10:46:08] rsalvador: I see this error when trying to run: 41:19:799 WARNING DefaultCommandListener.stderr /var/folders/bl/1800rz_j7blcqx8pthyrq59h 2013-12-11 10:41:19.798 instruments[532:507] Failed to connect to local pid watcher service: (os/kern) failure
 [2013-12-11 10:49:27] jack090: I keep getting java null pointer exception :-(
+[2013-12-11 10:50:14] knorrium: rsalvador: what xcode version are you using?
+[2013-12-11 10:50:41] knorrium: 5.0 and 5.0.1 were completely screwed up for instruments
+[2013-12-11 10:50:44] rsalvador: 5.0.2
+[2013-12-11 10:51:53] knorrium: have you authorized the terminal app to control your system?
+[2013-12-11 10:52:25] knorrium: system preferences -> security -> privacy -> accessibility
+[2013-12-11 10:52:56] rsalvador, quitting. (Read error: Connection reset by peer)
+[2013-12-11 10:53:02] rsalvador1, joining. (#ios-driver)
+[2013-12-11 10:54:29] rsalvador1: will have to debug more, but thanks for letting me know it should work on 10.9
+[2013-12-11 10:54:51] knorrium: knorrium: have you authorized the terminal app to control your system?
+[2013-12-11 10:54:51] knorrium: [10:52am] knorrium: system preferences -> security -> privacy -> accessibility
