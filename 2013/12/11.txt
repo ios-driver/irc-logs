@@ -302,3 +302,4 @@
 [2013-12-11 12:52:17] jack090: it now opens
 [2013-12-11 12:52:26] jack090: but safari isn't launched
 [2013-12-11 12:52:39] jack090: and now i get a timeout
+[2013-12-11 13:04:53] jack090: ok so i think i got it semi working :-0
