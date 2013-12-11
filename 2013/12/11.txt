@@ -57,3 +57,14 @@
 [2013-12-11 10:58:18] jack090: then I connect with remote webdriver from different pc it blows up with java.null pointer exception
 [2013-12-11 10:58:33] jack090: sorry not direct copy and paste (i'm using different pc to type this)
 [2013-12-11 10:58:53] jack090: something along the lines of BaseCommandHandler.java:104
+[2013-12-11 11:00:16] knorrium: jack090: how are you instantiating the remote webdriver?
+[2013-12-11 11:00:48] jack090: I'm using C# running on remote pc
+[2013-12-11 11:01:03] admc, quitting. (Read error: Connection reset by peer)
+[2013-12-11 11:01:07] jack090: but it works with the release version of ios-driver
+[2013-12-11 11:01:17] jack090: but this is a 2nd machine running ios7
+[2013-12-11 11:01:21] admc, joining. (#ios-driver)
+[2013-12-11 11:01:49] jack090: replicated on a 3rd machine as well
+[2013-12-11 11:02:54] jack090: funny thing now when it loads up with simulators it has CFBundleVersion=8536.25,/var/root/.ios-driver/safariCopies/safari-6.1.app
+[2013-12-11 11:03:13] jack090: after I ran the sudo commands you posted they had the /var/root added to them
+[2013-12-11 11:03:27] jack090: before it was just CFBundleVersion=...
+[2013-12-11 11:04:36] knorrium: did you see my ruby snippet with the desired capabilities object?
