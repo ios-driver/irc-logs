@@ -168,3 +168,19 @@
 [2013-12-11 11:59:34] nirvdrum: Plus the address bar has different behaviors on iPhone and iPad, with different heights.
 [2013-12-11 11:59:44] lukeis: knorrium: or you could just outsource to mogotest to get the full page screenshots ;)
 [2013-12-11 11:59:46] nicegraham: and it changed again in ios7 right?
+[2013-12-11 12:00:05] knorrium: lukeis: I wish I could :P
+[2013-12-11 12:00:09] jack090: knorrium: it actually blows up but at least it's launching Safari :-) before it was a java.nullpointer exception
+[2013-12-11 12:00:19] nicegraham: nirvdrum wishes you coudl too :)
+[2013-12-11 12:00:27] jack090: I have something wired up to get screenshots
+[2013-12-11 12:00:49] nirvdrum: If I get around to it, I'll write a blog post on this some day.
+[2013-12-11 12:00:59] *lukeis is glad his company doesn't have weird reliances on full canvas screenshots :)'
+[2013-12-11 12:01:19] nirvdrum: If you want to see your site . . .
+[2013-12-11 12:01:30] lukeis: i don't wanna see it :)
+[2013-12-11 12:01:35] nicegraham: noone does
+[2013-12-11 12:01:44] nicegraham: ;P
+[2013-12-11 12:01:49] lukeis: ;)
+[2013-12-11 12:02:09] nicegraham: we're using "remedy farce" as it's apparently been renamed internally
+[2013-12-11 12:02:17] jack090: did something break in the screenshot "stuff" in the refactor branch?
+[2013-12-11 12:02:24] nicegraham: though I think that's their misuse of it as agains the core product
+[2013-12-11 12:02:36] jack090: It worked in IOS 6
+[2013-12-11 12:02:39] nicegraham: by "something"?
