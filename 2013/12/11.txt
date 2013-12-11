@@ -264,3 +264,14 @@
 [2013-12-11 12:34:01] jack090: it loads all the way up and then gives me an error
 [2013-12-11 12:34:20] nicegraham: yeah, but change en -> English
 [2013-12-11 12:34:26] nicegraham: I want to see if that helps
+[2013-12-11 12:36:41] jack090: i get the same exact error as before
+[2013-12-11 12:36:45] jack090: but it did get futher
+[2013-12-11 12:36:48] jack090: no java null pointer
+[2013-12-11 12:37:48] nicegraham: so it's not the same error?
+[2013-12-11 12:38:06] jack090: correct
+[2013-12-11 12:38:18] jack090: https://gist.github.com/anonymous/7918017
+[2013-12-11 12:38:31] jack090: that's what I get on ios-driver
+[2013-12-11 12:38:40] nicegraham: that looks good to me :)
+[2013-12-11 12:39:14] jack090: correct
+[2013-12-11 12:39:33] jack090: then I get ArgumentException was unhandled: Requested value 'IOS' was not found.
+[2013-12-11 12:39:59] nicegraham: in your c# code?
