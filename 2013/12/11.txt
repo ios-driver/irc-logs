@@ -30,3 +30,12 @@
 [2013-12-11 10:37:53] rsalvador: thx!
 [2013-12-11 10:38:04] knorrium: and java -jar ios-server-0.6.5-jar-with-dependencies.jar -simulators
 [2013-12-11 10:39:23] knorrium: https://gist.github.com/knorrium/7915988 if you wanna launch it using ruby
+[2013-12-11 10:42:57] nicegraham: rsalvador: yeah
+[2013-12-11 10:43:02] nicegraham: it's working for me
+[2013-12-11 10:44:00] jack090: when building refactor branch does the tests fail?
+[2013-12-11 10:44:13] nicegraham: some tests fail
+[2013-12-11 10:44:28] nicegraham: safari tests only I think
+[2013-12-11 10:44:30] jack090: so best to skip them?
+[2013-12-11 10:44:38] nicegraham: yep
+[2013-12-11 10:44:43] nicegraham: or fix them and PR
+[2013-12-11 10:44:44] nicegraham: :)
