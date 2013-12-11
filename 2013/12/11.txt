@@ -227,3 +227,13 @@
 [2013-12-11 12:18:25] nicegraham: but you already have a session if the simulator and safari have started
 [2013-12-11 12:18:37] jack090: yes safari is started
 [2013-12-11 12:18:49] jack090: it's erroring out on my declaration
+[2013-12-11 12:20:05] jack090: https://gist.github.com/anonymous/7917719
+[2013-12-11 12:20:14] jack090: there's my code it's blowing up on my remotewebdriver call
+[2013-12-11 12:20:39] nicegraham: can you sout capabilities.toString()
+[2013-12-11 12:22:34] jack090: hehe I can examine objects but not exactly easy for me to dump them from the debugger. One sec.
+[2013-12-11 12:22:58] nicegraham: instead of new DesiredCapabilites can you use DesiredCapabilities.IPhone()
+[2013-12-11 12:23:04] nicegraham: and then set your overrides
+[2013-12-11 12:23:42] jack090: doesn't work
+[2013-12-11 12:23:49] jack090: just throws a java.nullpointer
+[2013-12-11 12:24:21] nicegraham: lukeis: ^?
+[2013-12-11 12:25:00] jack090: I'll dump it all to gist 1 sec.
