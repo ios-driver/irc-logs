@@ -68,3 +68,21 @@
 [2013-12-11 11:03:13] jack090: after I ran the sudo commands you posted they had the /var/root added to them
 [2013-12-11 11:03:27] jack090: before it was just CFBundleVersion=...
 [2013-12-11 11:04:36] knorrium: did you see my ruby snippet with the desired capabilities object?
+[2013-12-11 11:10:23] jack090: yup let me try something really quick
+[2013-12-11 11:11:35] jack090: what instruments version should I be using?
+[2013-12-11 11:11:42] jack090: it's 5.0.1
+[2013-12-11 11:11:48] jack090: is what is being shown
+[2013-12-11 11:11:55] knorrium: 5.0.2
+[2013-12-11 11:12:06] jack090: would that cause errors?
+[2013-12-11 11:12:09] rsalvador, joining. (#ios-driver)
+[2013-12-11 11:12:18] rsalvador1, quitting. (Read error: Connection reset by peer)
+[2013-12-11 11:12:21] knorrium: I believe so, apple fixed a bunch of stuff on 5.0.2
+[2013-12-11 11:12:29] jack090: How do I change the instruments version to be 5.0.2? I have xcode 5.0.2
+[2013-12-11 11:12:39] knorrium: especially with instruments in the command line
+[2013-12-11 11:12:50] knorrium: if you do a sudo xcode-select -p
+[2013-12-11 11:12:56] knorrium: does it print the path to 5.0.1?
+[2013-12-11 11:12:57] gdennis, joining. (#ios-driver)
+[2013-12-11 11:13:44] knorrium: if it does, do a sudo xcode-select -s path_to_502
+[2013-12-11 11:13:58] jack090: i'm getting /Applications/Xcode/app/Contents/Developer
+[2013-12-11 11:14:01] jack090: let me check
+[2013-12-11 11:14:45] jack090: seems to be version 5.0.2
