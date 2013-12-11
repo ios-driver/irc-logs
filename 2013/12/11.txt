@@ -114,3 +114,4 @@
 [2013-12-11 11:26:52] jack090: let me do C# equiv that you have
 [2013-12-11 11:29:14] knorrium: I guess the cfbundlename part is the most important, otherwise it won't know if you want to launch safari or any other app
 [2013-12-11 11:29:29] knorrium: and then cause the null pointer exception maybe?
+[2013-12-11 11:30:31] gdennis, quitting. (Quit: Leaving.)
