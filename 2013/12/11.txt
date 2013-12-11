@@ -1,0 +1,1 @@
+[2013-12-11 00:19:32] admc, quitting. (Read error: Connection reset by peer)
