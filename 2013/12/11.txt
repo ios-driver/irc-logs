@@ -214,3 +214,16 @@
 [2013-12-11 12:13:44] jack090: er.. more than a fad
 [2013-12-11 12:14:16] lukeis: I think a certain founder of this web driving software might use the Book Face sometimes
 [2013-12-11 12:14:44] jack090: okies.. I've gotten a lot further now so now the iphone simulator loads and safari opens... it's returning an error saying Requested value 'IOS' was not found.
+[2013-12-11 12:15:04] *lukeis continues to blame nicegraham ;)'
+[2013-12-11 12:15:32] jack090: it's at least erroring on the code side vs. the ios-driver side
+[2013-12-11 12:15:39] nicegraham: what says IOS isn't available?
+[2013-12-11 12:16:26] lukeis: jack090: :gist the whole stacktrace
+[2013-12-11 12:16:35] nirvdrum: I think the issue is the webview uses the same rendering engine but a different JS engine.
+[2013-12-11 12:16:50] jack090: my debug window in visual studio is saying that :-)
+[2013-12-11 12:17:21] lukeis: what about in the ios-driver server?
+[2013-12-11 12:17:39] nicegraham: I don't know where you're requesting "IOS"
+[2013-12-11 12:17:56] nicegraham: I expect your client is just returning an error thrown by ios-driver
+[2013-12-11 12:17:59] jack090: I'm not :-)
+[2013-12-11 12:18:25] nicegraham: but you already have a session if the simulator and safari have started
+[2013-12-11 12:18:37] jack090: yes safari is started
+[2013-12-11 12:18:49] jack090: it's erroring out on my declaration
