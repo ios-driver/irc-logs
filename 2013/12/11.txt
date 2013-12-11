@@ -303,3 +303,6 @@
 [2013-12-11 12:52:26] jack090: but safari isn't launched
 [2013-12-11 12:52:39] jack090: and now i get a timeout
 [2013-12-11 13:04:53] jack090: ok so i think i got it semi working :-0
+[2013-12-11 13:05:44] jack090: yup i'm working now
+[2013-12-11 13:06:34] jack090: nicegraham thanks for all the help it was permissions issue. BTW I think you have the have capability.SetCapability("language", "en"); in order for the iphonedrive to work.
+[2013-12-11 13:06:38] jack090: driver
