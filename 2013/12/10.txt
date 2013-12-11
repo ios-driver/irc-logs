@@ -158,3 +158,4 @@
 [2013-12-10 17:40:32] rsalvador, joining. (#ios-driver)
 [2013-12-10 17:40:53] rsalvador, leaving. (#ios-driver)
 [2013-12-10 17:44:58] knorrium, quitting. (Quit: knorrium)
+[2013-12-10 18:41:09] knorrium, joining. (#ios-driver)
