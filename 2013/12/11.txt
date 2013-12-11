@@ -314,3 +314,4 @@
 [2013-12-11 14:00:48] knorrium, joining. (#ios-driver)
 [2013-12-11 14:12:00] jack090: anyone around?
 [2013-12-11 14:19:31] jlipps, joining. (#ios-driver)
+[2013-12-11 15:07:09] admc1, quitting. (Quit: Leaving.)
