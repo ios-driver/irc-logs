@@ -39,3 +39,5 @@
 [2013-12-11 10:44:38] nicegraham: yep
 [2013-12-11 10:44:43] nicegraham: or fix them and PR
 [2013-12-11 10:44:44] nicegraham: :)
+[2013-12-11 10:46:08] rsalvador: I see this error when trying to run: 41:19:799 WARNING DefaultCommandListener.stderr /var/folders/bl/1800rz_j7blcqx8pthyrq59h 2013-12-11 10:41:19.798 instruments[532:507] Failed to connect to local pid watcher service: (os/kern) failure
+[2013-12-11 10:49:27] jack090: I keep getting java null pointer exception :-(
