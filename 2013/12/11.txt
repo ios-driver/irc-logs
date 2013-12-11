@@ -289,3 +289,16 @@
 [2013-12-11 12:45:41] jack090: using macbook air so it's a tiny screen
 [2013-12-11 12:45:43] jack090: :-)
 [2013-12-11 12:49:15] nicegraham: OK
+[2013-12-11 12:50:11] nicegraham: sudo chmod -R a+rw /Users/admin/Desktop/ios-driver/server/target/applications
+[2013-12-11 12:50:38] gdennis, quitting. (Quit: gdennis)
+[2013-12-11 12:50:50] nicegraham: or something like that
+[2013-12-11 12:50:58] nicegraham: it's a permissions error from what I can see
+[2013-12-11 12:51:12] nicegraham: it's trying to lock the file and can't
+[2013-12-11 12:51:22] nicegraham: either that or something else has it locked
+[2013-12-11 12:51:39] gdennis1, quitting. (Quit: Leaving.)
+[2013-12-11 12:51:59] *nicegraham is done for the day'
+[2013-12-11 12:52:03] nicegraham: laters all
+[2013-12-11 12:52:13] jack090: c-ya
+[2013-12-11 12:52:17] jack090: it now opens
+[2013-12-11 12:52:26] jack090: but safari isn't launched
+[2013-12-11 12:52:39] jack090: and now i get a timeout
