@@ -244,3 +244,6 @@
 [2013-12-12 13:23:53] jack090: I don't use CFBundleName for C# so i'm not sure
 [2013-12-12 13:24:18] Phasze: it's in there by default.
 [2013-12-12 13:24:31] Phasze: by in there I mean in the grid console
+[2013-12-12 13:30:15] Phasze: This is all I  have while trying to initialize
+[2013-12-12 13:30:15] Phasze:  driver = new RemoteWebDriver(new Uri("http://10.252.200.117:4444/wd/hub"), test);
+[2013-12-12 13:30:15] Phasze: var test = DesiredCapabilities.IPad();
