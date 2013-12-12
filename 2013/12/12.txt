@@ -298,3 +298,5 @@
 [2013-12-12 14:50:13] jack090, quitting. (Quit: Page closed)
 [2013-12-12 14:53:40] Phasze: Grrr, exception is always thrown with error: "Cannot cast null to DeviceType"
 [2013-12-12 14:54:25] Phasze: and on the ios-driver the exception "driver.version: unknown"
+[2013-12-12 14:55:08] Phasze: errr, actually it's the same "WebDriverException: Cannot cast null to DeviceType"
+[2013-12-12 14:59:13] Phasze: lukeis: did you get this working for him? https://github.com/ios-driver/ios-driver/issues/2
