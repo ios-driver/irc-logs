@@ -1,2 +1,6 @@
 [2013-12-12 01:34:08] admc, quitting. (Quit: Leaving.)
 [2013-12-12 06:13:42] smccarthy, joining. (#ios-driver)
+[2013-12-12 06:38:17] ios-driver-git, joining. (#ios-driver)
+[2013-12-12 06:38:17] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to refactor: http://git.io/fxkY1g
+[2013-12-12 06:38:17] ios-driver-git, leaving. (#ios-driver)
+[2013-12-12 06:38:17] ios-driver-git: ios-driver/refactor 5bc8f8e Darragh Grace: fix for null pointer error if CFBBundleIconFiles not present in expected format
