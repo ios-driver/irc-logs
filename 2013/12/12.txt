@@ -295,3 +295,6 @@
 [2013-12-12 14:14:56] Phasze: hmmm
 [2013-12-12 14:15:04] Phasze: nicegraham? :)
 [2013-12-12 14:46:08] Phasze: maybe I should use the IOSRemoteProxy...
+[2013-12-12 14:50:13] jack090, quitting. (Quit: Page closed)
+[2013-12-12 14:53:40] Phasze: Grrr, exception is always thrown with error: "Cannot cast null to DeviceType"
+[2013-12-12 14:54:25] Phasze: and on the ios-driver the exception "driver.version: unknown"
