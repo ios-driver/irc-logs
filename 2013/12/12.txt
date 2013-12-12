@@ -28,3 +28,22 @@
 [2013-12-12 08:33:40] nicegraham: make sure all the permissions are ok
 [2013-12-12 08:33:49] nicegraham: that you can launch it manually
 [2013-12-12 08:33:55] nicegraham: etc etc
+[2013-12-12 08:35:05] jack090: yea I can't launch it manually
+[2013-12-12 08:35:07] jack090: it just crashes
+[2013-12-12 08:35:16] jack090: when ios-driver launches it's not even there
+[2013-12-12 08:35:49] nicegraham: i haven't seen that
+[2013-12-12 08:37:11] jack090: I guess I'll just let this machine run 6.1
+[2013-12-12 08:37:13] jack090: :-)
+[2013-12-12 08:37:26] jack090: I don't have the energy to fight it today :-)
+[2013-12-12 08:37:47] jack090: I do have this stuff written down in my company wiki
+[2013-12-12 08:37:57] nicegraham: make sure if you are using ios7 that you're on 5.0.2 or whatever the latest xcode is
+[2013-12-12 08:38:12] nicegraham: cool, maybe update our wiki too? :)
+[2013-12-12 08:38:19] lukeis, joining. (#ios-driver)
+[2013-12-12 08:38:26] nicegraham: you could create an ios7 section or add to the faw
+[2013-12-12 08:38:28] nicegraham: faq
+[2013-12-12 08:38:51] jack090: I approached it from someone who doesn't know anything
+[2013-12-12 08:38:58] jack090: screenshots etc..
+[2013-12-12 08:39:07] nicegraham: sounds very nice! :)
+[2013-12-12 08:39:37] nicegraham: the docs are on the gh-pages branch
+[2013-12-12 08:39:47] jack090: It's ok :-) I more or less have people working in our company who have never used a mac or linux
+[2013-12-12 08:39:48] nicegraham: so a pull request thre would be awesome
