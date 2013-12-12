@@ -317,3 +317,4 @@
 [2013-12-11 15:07:09] admc1, quitting. (Quit: Leaving.)
 [2013-12-11 15:41:24] Phasze: get that ios7 grid working yet jack090? ;)
 [2013-12-11 15:56:48] admc, joining. (#ios-driver)
+[2013-12-11 16:07:00] lukeis, quitting. (Read error: Operation timed out)
