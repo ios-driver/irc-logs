@@ -314,3 +314,12 @@
 [2013-12-12 15:04:29] lukeis: we have it "working" :)
 [2013-12-12 15:04:31] Phasze: if there had been documentation beforehand saying, "for ios7 you need the refactor branch"
 [2013-12-12 15:04:42] Phasze: "for .NET you need to set language to "en"
+[2013-12-12 15:05:04] Phasze: and now I'm stuck again on this latest error lol
+[2013-12-12 15:05:13] Phasze: and by lol I mean *tear*
+[2013-12-12 15:05:27] lukeis: there should be a traceback saying the line number the NPE is coming from right?
+[2013-12-12 15:05:40] Phasze: yeah, got a whole stack trace
+[2013-12-12 15:06:02] Phasze: org.uiautomation.ios.communication.device.DeviceType.valueOf(deviceType.java:43)
+[2013-12-12 15:06:14] Phasze: that's just the first line of the like 30
+[2013-12-12 15:06:19] lukeis: :gist
+[2013-12-12 15:08:05] Phasze: haha, it won't let me paste there on the mac
+[2013-12-12 15:08:45] Phasze: http://pastebin.com/eU80DJKK
