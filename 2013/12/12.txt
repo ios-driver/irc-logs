@@ -22,3 +22,9 @@
 [2013-12-12 08:29:02] jack090: (Btw I got it working on a different machine and this is the other pc i'm trying to get working
 [2013-12-12 08:29:20] rsalvador, joining. (#ios-driver)
 [2013-12-12 08:29:25] nicegraham: so it's config on this new machine?
+[2013-12-12 08:31:34] jack090: This is a new PC that I'm trying to get working
+[2013-12-12 08:31:51] jack090: the other one we worked with yesterday is up and running
+[2013-12-12 08:33:29] nicegraham: I don't know
+[2013-12-12 08:33:40] nicegraham: make sure all the permissions are ok
+[2013-12-12 08:33:49] nicegraham: that you can launch it manually
+[2013-12-12 08:33:55] nicegraham: etc etc
