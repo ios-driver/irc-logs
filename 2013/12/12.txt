@@ -116,3 +116,5 @@
 [2013-12-12 09:23:29] gdennis, joining. (#ios-driver)
 [2013-12-12 09:23:48] gdennis, leaving. (#ios-driver)
 [2013-12-12 09:24:28] gdennis, joining. (#ios-driver)
+[2013-12-12 09:26:04] gdennis, quitting. (Client Quit)
+[2013-12-12 09:26:22] gdennis, joining. (#ios-driver)
