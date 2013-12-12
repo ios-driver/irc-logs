@@ -222,3 +222,9 @@
 [2013-12-12 12:44:22] ios-driver-git, joining. (#ios-driver)
 [2013-12-12 12:44:22] ios-driver-git, leaving. (#ios-driver)
 [2013-12-12 12:44:22] ios-driver-git: [ios-driver] nicegraham closed pull request #183: This is a how-to guide for building from source (gh-pages...gh-pages) http://git.io/cX1Vvg
+[2013-12-12 12:45:03] nicegraham: jack090: that's merged now - thanks!
+[2013-12-12 12:46:06] jack090: np
+[2013-12-12 12:46:24] jack090: I think the learning curve for github was harder then anything I actually did :-)
+[2013-12-12 12:46:49] jack090: It's just a multi-step process as opposed to a right click -> commit
+[2013-12-12 12:47:49] nicegraham: good excuse to learn how to do it
+[2013-12-12 12:48:46] Phasze: so where's that link? ;)
