@@ -79,3 +79,17 @@
 [2013-12-12 08:49:00] jack090: Well I have two things documented
 [2013-12-12 08:49:22] jack090: the first is running standard release version
 [2013-12-12 08:49:25] nicegraham: or mavericks/ios7 specifics added
+[2013-12-12 08:50:16] jack090: the 2nd is how-to-guide to get the refactor branch and then getting up and running. (also have to set language to "en" if using C#)
+[2013-12-12 08:50:37] jack090: not sure how helpful that documentation will be once refactor is released
+[2013-12-12 08:51:08] nicegraham: it could be a general build from github document
+[2013-12-12 08:51:18] nicegraham: not everyone knows how to do it
+[2013-12-12 08:51:22] nicegraham: maven etc
+[2013-12-12 08:51:38] jack090: right. I even have the download/setup of maven
+[2013-12-12 08:51:46] jack090: it might be helpful
+[2013-12-12 08:51:52] nicegraham: all good stuff for others
+[2013-12-12 08:52:06] jack090: I'll make a new tab then?
+[2013-12-12 08:52:20] nicegraham: yeah, why not :)
+[2013-12-12 08:52:58] jack090: something titled "Building Latest Branch" ??
+[2013-12-12 08:53:22] jack090: Need help on the tab title
+[2013-12-12 08:54:16] nicegraham: yeah, or build it yourself
+[2013-12-12 08:54:44] jack090: ok I'm going with Build It Yourself
