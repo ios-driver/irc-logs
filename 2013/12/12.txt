@@ -13,3 +13,12 @@
 [2013-12-12 08:06:37] smccarthy, joining. (#ios-driver)
 [2013-12-12 08:17:28] jack090: nicegraham you around?
 [2013-12-12 08:20:26] nicegraham: jack090: kinda
+[2013-12-12 08:27:43] jack090: ever had safari crash in IOS 7 on startup
+[2013-12-12 08:28:07] jack090: I can load xcode then the simulator
+[2013-12-12 08:28:13] jack090: and IO 6 works fine
+[2013-12-12 08:28:18] jack090: but IOS 7 won't even load
+[2013-12-12 08:28:35] jack090: well the OS loads but safari crashes immediately on startup
+[2013-12-12 08:28:44] jack090: i've deleted xcode and reinstalled it
+[2013-12-12 08:29:02] jack090: (Btw I got it working on a different machine and this is the other pc i'm trying to get working
+[2013-12-12 08:29:20] rsalvador, joining. (#ios-driver)
+[2013-12-12 08:29:25] nicegraham: so it's config on this new machine?
