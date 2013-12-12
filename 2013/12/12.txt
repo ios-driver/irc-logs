@@ -124,3 +124,9 @@
 [2013-12-12 11:03:11] gdennis1, joining. (#ios-driver)
 [2013-12-12 11:06:00] santiycr, quitting. (Quit: Leaving.)
 [2013-12-12 11:11:16] santiycr, joining. (#ios-driver)
+[2013-12-12 11:19:39] jack090: okies nicegraham
+[2013-12-12 11:19:45] jack090: I've got the webpage build
+[2013-12-12 11:19:46] jack090: built
+[2013-12-12 11:19:47] nicegraham: yessah
+[2013-12-12 11:19:57] jack090: going to try and check this sucker in
+[2013-12-12 11:19:59] nicegraham: cool
