@@ -93,3 +93,6 @@
 [2013-12-12 08:53:22] jack090: Need help on the tab title
 [2013-12-12 08:54:16] nicegraham: yeah, or build it yourself
 [2013-12-12 08:54:44] jack090: ok I'm going with Build It Yourself
+[2013-12-12 08:58:57] lukeis: nicegraham: i really hate issue trackers used for non-issues
+[2013-12-12 08:59:17] lukeis: #177 for example ;)
+[2013-12-12 08:59:19] nicegraham: i see that :)
