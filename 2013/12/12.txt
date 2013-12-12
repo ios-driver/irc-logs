@@ -294,3 +294,4 @@
 [2013-12-12 14:14:51] jack090: no idea on that. I've only ran safari
 [2013-12-12 14:14:56] Phasze: hmmm
 [2013-12-12 14:15:04] Phasze: nicegraham? :)
+[2013-12-12 14:46:08] Phasze: maybe I should use the IOSRemoteProxy...
