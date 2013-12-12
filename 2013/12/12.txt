@@ -233,3 +233,5 @@
 [2013-12-12 12:53:31] jack090: under the gh-pages
 [2013-12-12 12:53:33] jack090: branch
 [2013-12-12 12:53:39] jack090: you can open in your local browsers
+[2013-12-12 13:07:52] AutomatedTester, quitting. (Changing host)
+[2013-12-12 13:07:53] AutomatedTester, joining. (#ios-driver)
