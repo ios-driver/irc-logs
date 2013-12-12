@@ -235,3 +235,5 @@
 [2013-12-12 12:53:39] jack090: you can open in your local browsers
 [2013-12-12 13:07:52] AutomatedTester, quitting. (Changing host)
 [2013-12-12 13:07:53] AutomatedTester, joining. (#ios-driver)
+[2013-12-12 13:10:46] Phasze: hmm, so ios-driver needs permissions eh?
+[2013-12-12 13:12:36] nicegraham: everything on macs do
