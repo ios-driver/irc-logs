@@ -272,3 +272,24 @@
 [2013-12-12 14:08:31] jack090: Although a permanent fix would be nice :-)
 [2013-12-12 14:09:22] Phasze: sweet, now to find out why the command is timing out
 [2013-12-12 14:09:32] Phasze: at least it isn't throwing an error in ios-driver anymore hehe
+[2013-12-12 14:11:30] jack090: it's possibly bombing on the app load side
+[2013-12-12 14:11:38] Phasze: yeah
+[2013-12-12 14:11:41] Phasze: it can't start it
+[2013-12-12 14:11:54] jack090: I had the unit tests blow up on me
+[2013-12-12 14:11:56] Phasze: "Automation Instrument ran into an exception while trying to run the script"
+[2013-12-12 14:12:25] jack090: you could try:
+[2013-12-12 14:12:26] jack090: capability.SetCapability("device", "iPad");
+[2013-12-12 14:12:32] jack090: capability.SetCapability("CFBundleName", "Safari");
+[2013-12-12 14:12:38] jack090: capability.SetCapability("version", "7.0");
+[2013-12-12 14:12:44] Phasze: by default it passes device as "ipad"
+[2013-12-12 14:12:54] jack090: correct
+[2013-12-12 14:13:01] jack090: but you could define it by string
+[2013-12-12 14:13:11] jack090: and instead of DesiredCapabilities capability = DesiredCapabilities.IPad();
+[2013-12-12 14:13:24] jack090: use: DesiredCapabilities capability = new DesiredCapabilities();
+[2013-12-12 14:13:40] jack090: just something to try
+[2013-12-12 14:13:52] jack090: and by "Safari" it could be whatever app you're trying to load
+[2013-12-12 14:14:11] Phasze: well, I notice in the grid/console the CFBundleName isn't changed for the iPad option
+[2013-12-12 14:14:16] jack090: I'm not doing actual IOS dev. I'm doing html5/javascript thus I only need safari
+[2013-12-12 14:14:19] Phasze: it's only changed for IOS SImulator
+[2013-12-12 14:14:51] jack090: no idea on that. I've only ran safari
+[2013-12-12 14:14:56] Phasze: hmmm
