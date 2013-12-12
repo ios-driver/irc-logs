@@ -327,3 +327,20 @@
 [2013-12-12 15:12:08] Phasze: 1/2 tempted to just install a java IDE on this bloody slow mac to debug this myself
 [2013-12-12 15:14:20] lukeis: Phasze: are you passing in a desired capability of "device" ?
 [2013-12-12 15:14:58] Phasze: not explicitly
+[2013-12-12 15:15:16] lukeis: do so… should be "iphone" or "ipad" or "ipod"
+[2013-12-12 15:15:43] lukeis: that'll clear up that error
+[2013-12-12 15:16:11] smccarthy2, quitting. (Remote host closed the connection)
+[2013-12-12 15:17:04] Phasze: ok, now errors with no device available
+[2013-12-12 15:17:07] lukeis: the error messaging has (since the beginning of ios-driver) needed to get cleaned up to be more helpful in how to handle it… or added to the faq
+[2013-12-12 15:17:21] lukeis: ok, well, do you have a device connected? :)
+[2013-12-12 15:17:32] Phasze: does this support physical devices now?
+[2013-12-12 15:17:39] lukeis: oh, i don't think so...
+[2013-12-12 15:17:42] Phasze: I was just trying to use the simulator
+[2013-12-12 15:17:57] lukeis: did you pass in the simulator capability?
+[2013-12-12 15:18:03] Phasze: simulator=true
+[2013-12-12 15:18:15] Phasze: I didn't start up with -simulators though
+[2013-12-12 15:18:24] lukeis: ;)
+[2013-12-12 15:18:33] *lukeis hates those flags'
+[2013-12-12 15:19:05] Phasze: another question while you're here, should the browser name now be iPad or IOS Simulator?
+[2013-12-12 15:19:40] lukeis: browserName is not required
+[2013-12-12 15:19:59] Phasze: oh snapple, it's starting up!#@!!@$%!%
