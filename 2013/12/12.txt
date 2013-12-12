@@ -5,3 +5,7 @@
 [2013-12-12 06:38:17] ios-driver-git, leaving. (#ios-driver)
 [2013-12-12 06:38:17] ios-driver-git: ios-driver/refactor 5bc8f8e Darragh Grace: fix for null pointer error if CFBBundleIconFiles not present in expected format
 [2013-12-12 07:03:12] smccarthy, quitting. (Remote host closed the connection)
+[2013-12-12 07:20:49] operatiay, joining. (#ios-driver)
+[2013-12-12 07:21:05] jack090: Phasze I did actually :-)
+[2013-12-12 07:22:15] jack090: it didn't make sense how I did it
+[2013-12-12 07:22:40] jack090: but I ended up using sudo and (it didn't work) then went back without sudo and it worked
