@@ -219,3 +219,6 @@
 [2013-12-12 12:31:03] smccarthy2, joining. (#ios-driver)
 [2013-12-12 12:33:50] smccarthy, quitting. (Ping timeout: 240 seconds)
 [2013-12-12 12:38:07] santiycr, joining. (#ios-driver)
+[2013-12-12 12:44:22] ios-driver-git, joining. (#ios-driver)
+[2013-12-12 12:44:22] ios-driver-git, leaving. (#ios-driver)
+[2013-12-12 12:44:22] ios-driver-git: [ios-driver] nicegraham closed pull request #183: This is a how-to guide for building from source (gh-pages...gh-pages) http://git.io/cX1Vvg
