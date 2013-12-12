@@ -332,3 +332,4 @@
 [2013-12-11 18:19:40] admc, quitting. (Quit: Leaving.)
 [2013-12-11 19:34:56] rsalvador, joining. (#ios-driver)
 [2013-12-11 19:40:14] rsalvador, quitting. (Ping timeout: 240 seconds)
+[2013-12-11 21:59:36] smccarthy, quitting. (Remote host closed the connection)
