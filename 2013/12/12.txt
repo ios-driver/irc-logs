@@ -139,3 +139,9 @@
 [2013-12-12 11:22:12] lukeis: as for other projects… i've never seen that ;)
 [2013-12-12 11:22:33] nicegraham: since I can't remember where it is, let's risk it ;)
 [2013-12-12 11:22:53] lukeis: code is code… docs are docs. don't know why docs need a cla
+[2013-12-12 11:27:46] ios-driver-git, joining. (#ios-driver)
+[2013-12-12 11:27:46] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/6BBZLA
+[2013-12-12 11:27:46] ios-driver-git, leaving. (#ios-driver)
+[2013-12-12 11:27:46] ios-driver-git: ios-driver/dev 8430e39 Graham Abell: adding CLA links
+[2013-12-12 11:29:05] jack090: want me to sign it graham?
+[2013-12-12 11:29:20] jack090: hehe you guys should probably wait to see the crap I wrote before you accept it lol
