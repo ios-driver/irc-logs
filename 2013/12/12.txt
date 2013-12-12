@@ -300,3 +300,17 @@
 [2013-12-12 14:54:25] Phasze: and on the ios-driver the exception "driver.version: unknown"
 [2013-12-12 14:55:08] Phasze: errr, actually it's the same "WebDriverException: Cannot cast null to DeviceType"
 [2013-12-12 14:59:13] Phasze: lukeis: did you get this working for him? https://github.com/ios-driver/ios-driver/issues/2
+[2013-12-12 15:00:03] lukeis: i don't know :)
+[2013-12-12 15:00:10] lukeis: that was eons ago
+[2013-12-12 15:01:52] Phasze: I keep getting that error in C#
+[2013-12-12 15:02:06] Phasze: and setting simulator doesn't fix it :(
+[2013-12-12 15:02:45] Phasze: lukeis: why do you drive me to appium!? :P
+[2013-12-12 15:02:57] lukeis: i do no such thing :)
+[2013-12-12 15:03:17] Phasze: this thing has been such a headache to setup and it's still not working
+[2013-12-12 15:03:19] Phasze: it makes me sad
+[2013-12-12 15:03:28] lukeis: yeah, i hear you there
+[2013-12-12 15:03:52] lukeis: if I was working on iOS I would have spent some time making that nicer
+[2013-12-12 15:04:08] Phasze: I just want it working, or at least some steps lol
+[2013-12-12 15:04:29] lukeis: we have it "working" :)
+[2013-12-12 15:04:31] Phasze: if there had been documentation beforehand saying, "for ios7 you need the refactor branch"
+[2013-12-12 15:04:42] Phasze: "for .NET you need to set language to "en"
