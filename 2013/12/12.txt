@@ -119,3 +119,4 @@
 [2013-12-12 09:26:04] gdennis, quitting. (Client Quit)
 [2013-12-12 09:26:22] gdennis, joining. (#ios-driver)
 [2013-12-12 09:53:55] admc, joining. (#ios-driver)
+[2013-12-12 10:30:47] santiycr, joining. (#ios-driver)
