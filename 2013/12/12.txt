@@ -218,3 +218,4 @@
 [2013-12-12 12:22:57] jack090, joining. (#ios-driver)
 [2013-12-12 12:31:03] smccarthy2, joining. (#ios-driver)
 [2013-12-12 12:33:50] smccarthy, quitting. (Ping timeout: 240 seconds)
+[2013-12-12 12:38:07] santiycr, joining. (#ios-driver)
