@@ -180,3 +180,19 @@
 [2013-12-12 11:48:19] Phasze: how do you get the "iPad" one of the simulators to use your app instead of safari?
 [2013-12-12 11:48:50] jack090: instead of iphone you mean?
 [2013-12-12 11:49:11] Phasze: I'm just trying to get a test running at all lol
+[2013-12-12 11:50:01] Phasze: specifically the InternationalMountains test
+[2013-12-12 11:50:26] jack090: oh you could probably use my guide
+[2013-12-12 11:50:28] jack090: when you build
+[2013-12-12 11:50:34] jack090: you could probably comment out the other tests
+[2013-12-12 11:50:36] jack090: and let maven do it
+[2013-12-12 11:51:01] Phasze: link me your guide
+[2013-12-12 11:51:09] jack090: I think I checked it in
+[2013-12-12 11:51:14] jack090: nicegraham can you see it?
+[2013-12-12 11:51:36] nicegraham: you may have checked it in to your repo
+[2013-12-12 11:51:43] nicegraham: you now need to make a pull request back to us
+[2013-12-12 11:51:57] nicegraham: if you open it in github you should see a pull request button
+[2013-12-12 11:53:06] jack090: hrm.. I can't see the change in gitHub though
+[2013-12-12 11:53:11] jack090: I added a new html file
+[2013-12-12 11:53:53] jack090: duh i'm looking at the main ios-driver
+[2013-12-12 11:53:54] jack090: not my fork
+[2013-12-12 11:54:57] gdennis1, quitting. (Quit: Leaving.)
