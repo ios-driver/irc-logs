@@ -172,3 +172,11 @@
 [2013-12-12 11:43:44] jack090: each node is essentially connected to the hub but I call the nodes directly without the hub
 [2013-12-12 11:43:49] jack090: right
 [2013-12-12 11:44:27] Phasze: do you include -simulators when you start up?
+[2013-12-12 11:45:35] nicegraham: jack090: I'll look at it when you create the pull request
+[2013-12-12 11:46:13] jack090: yes
+[2013-12-12 11:46:19] jack090: ok I'll check it in as-is
+[2013-12-12 11:46:51] jack090: nicegraham you can probably just increase the width of the "master" frame (if you know what I mean) and it'll look fine
+[2013-12-12 11:47:00] jack090: like an additional 50 pixels might do it
+[2013-12-12 11:48:19] Phasze: how do you get the "iPad" one of the simulators to use your app instead of safari?
+[2013-12-12 11:48:50] jack090: instead of iphone you mean?
+[2013-12-12 11:49:11] Phasze: I'm just trying to get a test running at all lol
