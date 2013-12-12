@@ -318,3 +318,5 @@
 [2013-12-11 15:41:24] Phasze: get that ios7 grid working yet jack090? ;)
 [2013-12-11 15:56:48] admc, joining. (#ios-driver)
 [2013-12-11 16:07:00] lukeis, quitting. (Read error: Operation timed out)
+[2013-12-11 16:36:17] admc1, joining. (#ios-driver)
+[2013-12-11 16:37:51] admc, quitting. (Ping timeout: 250 seconds)
