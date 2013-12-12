@@ -323,3 +323,7 @@
 [2013-12-12 15:06:19] lukeis: :gist
 [2013-12-12 15:08:05] Phasze: haha, it won't let me paste there on the mac
 [2013-12-12 15:08:45] Phasze: http://pastebin.com/eU80DJKK
+[2013-12-12 15:10:55] santiycr, quitting. (Quit: Leaving.)
+[2013-12-12 15:12:08] Phasze: 1/2 tempted to just install a java IDE on this bloody slow mac to debug this myself
+[2013-12-12 15:14:20] lukeis: Phasze: are you passing in a desired capability of "device" ?
+[2013-12-12 15:14:58] Phasze: not explicitly
