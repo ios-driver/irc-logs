@@ -228,3 +228,8 @@
 [2013-12-12 12:46:49] jack090: It's just a multi-step process as opposed to a right click -> commit
 [2013-12-12 12:47:49] nicegraham: good excuse to learn how to do it
 [2013-12-12 12:48:46] Phasze: so where's that link? ;)
+[2013-12-12 12:53:13] jack090: https://github.com/ios-driver/ios-driver/blob/gh-pages/building-source.html
+[2013-12-12 12:53:24] jack090: you can see the code
+[2013-12-12 12:53:31] jack090: under the gh-pages
+[2013-12-12 12:53:33] jack090: branch
+[2013-12-12 12:53:39] jack090: you can open in your local browsers
