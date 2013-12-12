@@ -256,3 +256,7 @@
 [2013-12-12 13:38:30] jack090: that should get it rolling
 [2013-12-12 13:38:40] jack090: if it doesn't it's probably a permissions issue
 [2013-12-12 13:38:57] jack090: so go make everything rwx everywhere :-)
+[2013-12-12 14:03:42] jack090: nicegraham is the commits I checked in going to be pushed out to the real site?
+[2013-12-12 14:03:51] nicegraham: they already are
+[2013-12-12 14:04:05] nicegraham: http://ios-driver.github.io/ios-driver/
+[2013-12-12 14:04:45] jack090: I don't see the new header
