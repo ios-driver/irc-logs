@@ -62,3 +62,20 @@
 [2013-12-12 08:44:09] jack090: :-)
 [2013-12-12 08:44:25] jack090: I'm going to take a whirl so be prepare for newb questions
 [2013-12-12 08:44:59] nicegraham: click the fork button on our repo
+[2013-12-12 08:45:09] nicegraham: then git checkout your repo
+[2013-12-12 08:45:16] nicegraham: git checkout gh-pages
+[2013-12-12 08:45:25] nicegraham: you will then have our wiki locally
+[2013-12-12 08:45:29] jack090: yea I have a fork created
+[2013-12-12 08:45:37] nicegraham: you should be able to open the files in your browser
+[2013-12-12 08:45:38] jack090: using the github app
+[2013-12-12 08:45:44] nicegraham: add/make changes
+[2013-12-12 08:45:49] nicegraham: and git add .
+[2013-12-12 08:45:54] nicegraham: git commit
+[2013-12-12 08:45:58] nicegraham: git push
+[2013-12-12 08:46:07] nicegraham: then back in github make the pull request
+[2013-12-12 08:47:54] jack090: do you want this content in the FAQ section?
+[2013-12-12 08:48:47] nicegraham: wherever you think it fits
+[2013-12-12 08:49:00] nicegraham: the installation guide could probably be updated
+[2013-12-12 08:49:00] jack090: Well I have two things documented
+[2013-12-12 08:49:22] jack090: the first is running standard release version
+[2013-12-12 08:49:25] nicegraham: or mavericks/ios7 specifics added
