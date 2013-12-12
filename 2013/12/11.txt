@@ -322,3 +322,4 @@
 [2013-12-11 16:37:51] admc, quitting. (Ping timeout: 250 seconds)
 [2013-12-11 16:46:13] rsalvador, quitting. (Ping timeout: 246 seconds)
 [2013-12-11 16:53:02] knorrium, quitting. (Quit: knorrium)
+[2013-12-11 17:02:02] rsalvador, joining. (#ios-driver)
