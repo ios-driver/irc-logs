@@ -241,3 +241,6 @@
 [2013-12-12 13:17:13] Phasze: lovely, same exception
 [2013-12-12 13:18:01] Phasze: ok, so in the grid console I'm seeing 3 items, iPhone, IOS Simulator, and iPad.  The only one with a proper CFBundleName for the app I'm trying to test is the IOS Simulator
 [2013-12-12 13:18:10] Phasze: is that how it's supposed to be?
+[2013-12-12 13:23:53] jack090: I don't use CFBundleName for C# so i'm not sure
+[2013-12-12 13:24:18] Phasze: it's in there by default.
+[2013-12-12 13:24:31] Phasze: by in there I mean in the grid console
