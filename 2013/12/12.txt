@@ -237,3 +237,7 @@
 [2013-12-12 13:07:53] AutomatedTester, joining. (#ios-driver)
 [2013-12-12 13:10:46] Phasze: hmm, so ios-driver needs permissions eh?
 [2013-12-12 13:12:36] nicegraham: everything on macs do
+[2013-12-12 13:15:27] Phasze: moment of truth
+[2013-12-12 13:17:13] Phasze: lovely, same exception
+[2013-12-12 13:18:01] Phasze: ok, so in the grid console I'm seeing 3 items, iPhone, IOS Simulator, and iPad.  The only one with a proper CFBundleName for the app I'm trying to test is the IOS Simulator
+[2013-12-12 13:18:10] Phasze: is that how it's supposed to be?
