@@ -196,3 +196,16 @@
 [2013-12-12 11:53:53] jack090: duh i'm looking at the main ios-driver
 [2013-12-12 11:53:54] jack090: not my fork
 [2013-12-12 11:54:57] gdennis1, quitting. (Quit: Leaving.)
+[2013-12-12 11:55:08] gdennis1, joining. (#ios-driver)
+[2013-12-12 11:55:57] Phasze: while you're doing that I'll grab the latest refactor commits and compile
+[2013-12-12 11:56:16] jack090: so I can see it in my fork
+[2013-12-12 11:56:16] Phasze: and hope it all works dandy :)
+[2013-12-12 11:56:39] jack090: I just go to Pull Requests?
+[2013-12-12 11:56:47] nicegraham: yeah
+[2013-12-12 11:58:30] ios-driver-git, joining. (#ios-driver)
+[2013-12-12 11:58:30] ios-driver-git, leaving. (#ios-driver)
+[2013-12-12 11:58:30] ios-driver-git: [ios-driver] jack090 opened pull request #183: This is a how-to guide for building from source (gh-pages...gh-pages) http://git.io/cX1Vvg
+[2013-12-12 11:58:49] jack090: I guess that worked :-)
+[2013-12-12 11:58:58] jack090: first github commit ever...
+[2013-12-12 11:59:26] gdennis1, quitting. (Ping timeout: 240 seconds)
+[2013-12-12 11:59:36] Phasze: hehe congrats
