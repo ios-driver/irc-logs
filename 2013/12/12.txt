@@ -130,3 +130,12 @@
 [2013-12-12 11:19:47] nicegraham: yessah
 [2013-12-12 11:19:57] jack090: going to try and check this sucker in
 [2013-12-12 11:19:59] nicegraham: cool
+[2013-12-12 11:20:02] nicegraham: do it
+[2013-12-12 11:20:45] nicegraham: lukeis: does jack090 need to sign the cla to contribute to the wiki
+[2013-12-12 11:20:45] nicegraham: ?
+[2013-12-12 11:20:54] nicegraham: :cls
+[2013-12-12 11:20:58] nicegraham: :cla
+[2013-12-12 11:21:50] lukeis: umm, for selenium anything 'complex' to the docs (basically more than a typo or punctuation) simon likes to have it
+[2013-12-12 11:22:12] lukeis: as for other projects… i've never seen that ;)
+[2013-12-12 11:22:33] nicegraham: since I can't remember where it is, let's risk it ;)
+[2013-12-12 11:22:53] lukeis: code is code… docs are docs. don't know why docs need a cla
