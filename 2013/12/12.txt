@@ -150,3 +150,25 @@
 [2013-12-12 11:39:24] jack090: the problem is it looks fine on a PC
 [2013-12-12 11:39:29] jack090: but on the mac it's wrapping
 [2013-12-12 11:39:30] jack090: :-(
+[2013-12-12 11:40:26] Phasze: jack090: you got grid ios-driver working with grid with ios7 right?
+[2013-12-12 11:40:46] jack090: yes on one machine
+[2013-12-12 11:40:46] jack090: :-)
+[2013-12-12 11:40:59] Phasze: which branch/download?
+[2013-12-12 11:41:04] jack090: refactor
+[2013-12-12 11:41:14] jack090: and I have the documentation too
+[2013-12-12 11:41:15] jack090: :-)
+[2013-12-12 11:41:25] Phasze: documentation?
+[2013-12-12 11:41:45] jack090: but the styling of the ios-driver html pages has my new tab wrapping in all the wrong places
+[2013-12-12 11:41:54] Phasze: oh lol
+[2013-12-12 11:41:58] jack090: Yea I wrote up a how-to guide for building from scratch
+[2013-12-12 11:42:10] Phasze: so I can get it to connect to grid, but when I try and run a test it throws an exception :(
+[2013-12-12 11:42:18] jack090: Looks good on my windows pc but looks awful on the mac
+[2013-12-12 11:42:36] jack090: I never had luck out of selenium grid
+[2013-12-12 11:42:43] jack090: I have a hub running
+[2013-12-12 11:42:52] jack090: but I wrote a framework that does load balancing etc...
+[2013-12-12 11:43:04] jack090: I have my own "grid" so to speak
+[2013-12-12 11:43:24] Phasze: yeah I kind of did that
+[2013-12-12 11:43:29] Phasze: but still use grid as the main framework
+[2013-12-12 11:43:44] jack090: each node is essentially connected to the hub but I call the nodes directly without the hub
+[2013-12-12 11:43:49] jack090: right
+[2013-12-12 11:44:27] Phasze: do you include -simulators when you start up?
