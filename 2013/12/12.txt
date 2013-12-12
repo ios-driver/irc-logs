@@ -145,3 +145,8 @@
 [2013-12-12 11:27:46] ios-driver-git: ios-driver/dev 8430e39 Graham Abell: adding CLA links
 [2013-12-12 11:29:05] jack090: want me to sign it graham?
 [2013-12-12 11:29:20] jack090: hehe you guys should probably wait to see the crap I wrote before you accept it lol
+[2013-12-12 11:38:49] jack090: argh
+[2013-12-12 11:39:12] jack090: so I made a new tab in the javascript/properties.js
+[2013-12-12 11:39:24] jack090: the problem is it looks fine on a PC
+[2013-12-12 11:39:29] jack090: but on the mac it's wrapping
+[2013-12-12 11:39:30] jack090: :-(
