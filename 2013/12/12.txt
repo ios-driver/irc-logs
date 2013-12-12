@@ -9,3 +9,5 @@
 [2013-12-12 07:21:05] jack090: Phasze I did actually :-)
 [2013-12-12 07:22:15] jack090: it didn't make sense how I did it
 [2013-12-12 07:22:40] jack090: but I ended up using sudo and (it didn't work) then went back without sudo and it worked
+[2013-12-12 08:06:11] nirvdrum, quitting. (Ping timeout: 246 seconds)
+[2013-12-12 08:06:37] smccarthy, joining. (#ios-driver)
