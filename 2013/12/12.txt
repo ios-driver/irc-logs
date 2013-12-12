@@ -360,3 +360,4 @@
 [2013-12-12 15:23:30] Phasze: time to go back through the ios-driver international app instructions hehe
 [2013-12-12 15:30:37] admc, quitting. (Read error: Connection reset by peer)
 [2013-12-12 15:33:35] lukeis, quitting. (Quit: Leaving.)
+[2013-12-12 15:36:00] admc, joining. (#ios-driver)
