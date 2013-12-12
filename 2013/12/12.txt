@@ -260,3 +260,15 @@
 [2013-12-12 14:03:51] nicegraham: they already are
 [2013-12-12 14:04:05] nicegraham: http://ios-driver.github.io/ios-driver/
 [2013-12-12 14:04:45] jack090: I don't see the new header
+[2013-12-12 14:05:07] jack090: oh yea...
+[2013-12-12 14:05:12] jack090: Building isn't at the end :-)
+[2013-12-12 14:05:13] nicegraham: ctrl / cmd + refresh
+[2013-12-12 14:05:20] nicegraham: yeah, I moved it up
+[2013-12-12 14:05:47] Phasze: jack090: wow....this whole bloody time I think it was that language thing throwing the error....
+[2013-12-12 14:06:10] jack090: http://ios-driver.github.io/ios-driver/building-source.html
+[2013-12-12 14:07:08] jack090: Phasze did the lines I wrote fix ya?
+[2013-12-12 14:07:27] jack090: yea I had nicegraham help with my debugging and he looked it up and found it was the language
+[2013-12-12 14:07:32] jack090: kudos should go to him
+[2013-12-12 14:08:31] jack090: Although a permanent fix would be nice :-)
+[2013-12-12 14:09:22] Phasze: sweet, now to find out why the command is timing out
+[2013-12-12 14:09:32] Phasze: at least it isn't throwing an error in ios-driver anymore hehe
