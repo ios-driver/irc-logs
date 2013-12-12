@@ -47,3 +47,18 @@
 [2013-12-12 08:39:37] nicegraham: the docs are on the gh-pages branch
 [2013-12-12 08:39:47] jack090: It's ok :-) I more or less have people working in our company who have never used a mac or linux
 [2013-12-12 08:39:48] nicegraham: so a pull request thre would be awesome
+[2013-12-12 08:40:23] jack090: where's the ios-driver wiki?
+[2013-12-12 08:40:59] nicegraham: on the gh-pages branch
+[2013-12-12 08:41:29] nicegraham: https://github.com/ios-driver/ios-driver/tree/gh-pages
+[2013-12-12 08:42:11] nicegraham: the wiki itself is here
+[2013-12-12 08:42:12] nicegraham: http://ios-driver.github.io/ios-driver/
+[2013-12-12 08:42:24] nicegraham: once you update that branch the content updates
+[2013-12-12 08:42:43] jack090: sorry I was looking for actually wiki I had my "blonde" moment
+[2013-12-12 08:42:49] jack090: er.. actual wiki
+[2013-12-12 08:43:34] jack090: new to the world of git :-) I'm use to jira/visual studio
+[2013-12-12 08:43:58] nicegraham: we use jira/stash too
+[2013-12-12 08:44:03] nicegraham: but intellij and java
+[2013-12-12 08:44:06] jack090: bear with me
+[2013-12-12 08:44:09] jack090: :-)
+[2013-12-12 08:44:25] jack090: I'm going to take a whirl so be prepare for newb questions
+[2013-12-12 08:44:59] nicegraham: click the fork button on our repo
