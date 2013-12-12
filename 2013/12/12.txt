@@ -344,3 +344,17 @@
 [2013-12-12 15:19:05] Phasze: another question while you're here, should the browser name now be iPad or IOS Simulator?
 [2013-12-12 15:19:40] lukeis: browserName is not required
 [2013-12-12 15:19:59] Phasze: oh snapple, it's starting up!#@!!@$%!%
+[2013-12-12 15:20:05] Phasze: I love you so much right now
+[2013-12-12 15:20:09] lukeis: don't change a thing ;)
+[2013-12-12 15:20:31] Phasze: now, iOS simulator failed to install the app
+[2013-12-12 15:20:43] Phasze: hehe, don't even know if I built it properly
+[2013-12-12 15:20:50] lukeis: are you testing an app?
+[2013-12-12 15:20:53] Phasze: yeah
+[2013-12-12 15:21:02] lukeis: you have the simulator build then? :)
+[2013-12-12 15:21:07] Phasze: trying to just do that InternationalMountains app
+[2013-12-12 15:21:14] lukeis: ah, ok
+[2013-12-12 15:21:30] *lukeis hasn't tested a 'real' app yet using it'
+[2013-12-12 15:21:40] Phasze: yeah, our app is next on the list
+[2013-12-12 15:21:41] lukeis: well, i think we do, but not me personally
+[2013-12-12 15:21:43] Phasze: as soon as I get this one working
+[2013-12-12 15:23:30] Phasze: time to go back through the ios-driver international app instructions hehe
