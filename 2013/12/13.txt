@@ -33,3 +33,4 @@
 [2013-12-13 12:27:41] rsalvador1, joining. (#ios-driver)
 [2013-12-13 12:27:41] rsalvador, quitting. (Read error: Connection reset by peer)
 [2013-12-13 12:30:45] psp250, joining. (#ios-driver)
+[2013-12-13 12:43:54] santiycr, quitting. (Quit: Leaving.)
