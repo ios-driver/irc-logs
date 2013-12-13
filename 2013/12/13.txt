@@ -3,3 +3,4 @@
 [2013-12-13 03:56:40] operatiay, quitting. (Remote host closed the connection)
 [2013-12-13 04:25:36] operatiay, joining. (#ios-driver)
 [2013-12-13 04:59:12] operatiay, quitting. (Remote host closed the connection)
+[2013-12-13 07:51:26] smccarthy, joining. (#ios-driver)
