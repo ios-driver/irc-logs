@@ -37,3 +37,4 @@
 [2013-12-13 12:47:50] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2013-12-13 13:03:31] psp250, quitting. (Quit: Leaving)
 [2013-12-13 13:03:43] admc, joining. (#ios-driver)
+[2013-12-13 13:22:59] operatiay, joining. (#ios-driver)
