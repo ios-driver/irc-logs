@@ -9,3 +9,5 @@
 [2013-12-13 08:37:03] AutomatedTester, quitting. (*.net *.split)
 [2013-12-13 08:39:42] AutomatedTester, joining. (#ios-driver)
 [2013-12-13 08:52:48] rsalvador, quitting. (Quit: Leaving.)
+[2013-12-13 09:25:51] jlipps, joining. (#ios-driver)
+[2013-12-13 09:27:10] rsalvador, joining. (#ios-driver)
