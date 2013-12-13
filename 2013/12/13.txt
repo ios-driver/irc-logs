@@ -30,3 +30,5 @@
 [2013-12-13 11:47:31] rsalvador1, quitting. (Quit: Leaving.)
 [2013-12-13 11:47:49] rsalvador, joining. (#ios-driver)
 [2013-12-13 11:50:37] admc, quitting. (Quit: Leaving.)
+[2013-12-13 12:27:41] rsalvador1, joining. (#ios-driver)
+[2013-12-13 12:27:41] rsalvador, quitting. (Read error: Connection reset by peer)
