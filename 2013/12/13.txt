@@ -5,3 +5,6 @@
 [2013-12-13 04:59:12] operatiay, quitting. (Remote host closed the connection)
 [2013-12-13 07:51:26] smccarthy, joining. (#ios-driver)
 [2013-12-13 08:13:48] rsalvador, joining. (#ios-driver)
+[2013-12-13 08:35:03] lukeis, joining. (#ios-driver)
+[2013-12-13 08:37:03] AutomatedTester, quitting. (*.net *.split)
+[2013-12-13 08:39:42] AutomatedTester, joining. (#ios-driver)
