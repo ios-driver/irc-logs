@@ -41,3 +41,5 @@
 [2013-12-13 13:37:55] operatiay, quitting. (Remote host closed the connection)
 [2013-12-13 13:55:09] rsalvador, joining. (#ios-driver)
 [2013-12-13 13:55:09] rsalvador1, quitting. (Read error: Connection reset by peer)
+[2013-12-13 14:03:32] admc, quitting. (Quit: Leaving.)
+[2013-12-13 14:03:49] gdennis, leaving. (#ios-driver)
