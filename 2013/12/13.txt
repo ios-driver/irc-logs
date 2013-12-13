@@ -14,3 +14,4 @@
 [2013-12-13 09:37:32] santiycr, joining. (#ios-driver)
 [2013-12-13 09:56:17] lukeis: nicegraham: lol at #185
 [2013-12-13 09:56:43] lukeis: oh users...
+[2013-12-13 10:19:24] jlipps: an appium question in ios-driver? nice
