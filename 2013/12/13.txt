@@ -16,3 +16,4 @@
 [2013-12-13 09:56:43] lukeis: oh users...
 [2013-12-13 10:19:24] jlipps: an appium question in ios-driver? nice
 [2013-12-13 10:43:09] admc, joining. (#ios-driver)
+[2013-12-13 10:49:01] santiycr, quitting. (Ping timeout: 246 seconds)
