@@ -25,3 +25,5 @@
 [2013-12-13 11:14:06] rsalvador, quitting. (Read error: Connection reset by peer)
 [2013-12-13 11:14:13] rsalvador, joining. (#ios-driver)
 [2013-12-13 11:23:44] Phasze: ok, so when I attempt to create the RemoteWebDriver Object I see the IOS Simulator start, brings up a black screen then eventually goes away.  Any ideas?
+[2013-12-13 11:30:11] rsalvador1, joining. (#ios-driver)
+[2013-12-13 11:30:15] rsalvador, quitting. (Read error: Connection reset by peer)
