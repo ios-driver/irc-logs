@@ -61,3 +61,5 @@
 [2013-12-13 17:05:40] admc1, quitting. (Quit: Leaving.)
 [2013-12-13 17:56:19] rsalvador, joining. (#ios-driver)
 [2013-12-13 17:57:38] rsalvador, quitting. (Client Quit)
+[2013-12-13 19:40:27] operatiay, joining. (#ios-driver)
+[2013-12-13 19:44:38] operatiay, quitting. (Ping timeout: 240 seconds)
