@@ -11,3 +11,5 @@
 [2013-12-14 09:51:06] operatiay, quitting. (Ping timeout: 252 seconds)
 [2013-12-14 09:52:03] smccarthy, joining. (#ios-driver)
 [2013-12-14 10:05:34] jlipps, quitting. (Ping timeout: 263 seconds)
+[2013-12-14 10:27:22] jlipps, joining. (#ios-driver)
+[2013-12-14 10:28:56] jlipps, quitting. (Client Quit)
