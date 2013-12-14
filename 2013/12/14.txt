@@ -7,3 +7,4 @@
 [2013-12-14 07:45:13] operatiay, joining. (#ios-driver)
 [2013-12-14 07:49:51] operatiay, quitting. (Ping timeout: 245 seconds)
 [2013-12-14 09:05:03] jlipps, joining. (#ios-driver)
+[2013-12-14 09:46:42] operatiay, joining. (#ios-driver)
