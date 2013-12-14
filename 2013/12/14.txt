@@ -14,3 +14,4 @@
 [2013-12-14 10:27:22] jlipps, joining. (#ios-driver)
 [2013-12-14 10:28:56] jlipps, quitting. (Client Quit)
 [2013-12-14 12:32:37] admc, joining. (#ios-driver)
+[2013-12-14 12:56:02] smccarthy, quitting. (Remote host closed the connection)
