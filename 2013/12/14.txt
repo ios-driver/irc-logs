@@ -4,3 +4,5 @@
 [2013-12-14 02:05:12] admc, quitting. (Client Quit)
 [2013-12-14 03:43:43] operatiay, joining. (#ios-driver)
 [2013-12-14 03:46:51] operatiay, quitting. (Read error: Operation timed out)
+[2013-12-14 07:45:13] operatiay, joining. (#ios-driver)
+[2013-12-14 07:49:51] operatiay, quitting. (Ping timeout: 245 seconds)
