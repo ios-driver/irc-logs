@@ -21,3 +21,4 @@
 [2013-12-14 17:49:46] operatiay, joining. (#ios-driver)
 [2013-12-14 17:53:31] operatiay, quitting. (Read error: Operation timed out)
 [2013-12-14 17:58:01] admc, joining. (#ios-driver)
+[2013-12-14 18:08:05] admc, quitting. (Quit: Leaving.)
