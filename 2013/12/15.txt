@@ -1,2 +1,3 @@
 [2013-12-15 01:53:26] operatiay, joining. (#ios-driver)
 [2013-12-15 01:56:36] operatiay, quitting. (Read error: Operation timed out)
+[2013-12-15 05:54:35] operatiay, joining. (#ios-driver)
