@@ -34,3 +34,4 @@
 [2013-12-16 09:23:16] blazevic, joining. (#ios-driver)
 [2013-12-16 09:26:12] blazevic, quitting. (Remote host closed the connection)
 [2013-12-16 09:30:04] rsalvador, joining. (#ios-driver)
+[2013-12-16 09:48:45] admc, quitting. (Quit: Leaving.)
