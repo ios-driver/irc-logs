@@ -48,3 +48,7 @@
 [2013-12-16 11:01:57] tursun, quitting. (Ping timeout: 248 seconds)
 [2013-12-16 11:04:28] lukeis1, joining. (#ios-driver)
 [2013-12-16 11:07:51] lukeis, quitting. (Ping timeout: 240 seconds)
+[2013-12-16 11:10:12] jack090, joining. (#ios-driver)
+[2013-12-16 11:10:25] jack090: join /selenium
+[2013-12-16 11:10:30] jack090: poop
+[2013-12-16 11:10:48] jack090: I mean dang
