@@ -20,3 +20,4 @@
 [2013-12-15 18:03:45] operatiay, quitting. (Read error: Operation timed out)
 [2013-12-15 18:16:02] smccarthy, joining. (#ios-driver)
 [2013-12-15 20:43:08] smccarthy, quitting. (Remote host closed the connection)
+[2013-12-15 21:05:08] admc, joining. (#ios-driver)
