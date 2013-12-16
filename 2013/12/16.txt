@@ -5,3 +5,4 @@
 [2013-12-16 02:04:08] admc, joining. (#ios-driver)
 [2013-12-16 02:25:38] admc, quitting. (Quit: Leaving.)
 [2013-12-16 03:24:41] operatiay, quitting. (Remote host closed the connection)
+[2013-12-16 03:45:11] operatiay, joining. (#ios-driver)
