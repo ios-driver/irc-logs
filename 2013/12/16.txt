@@ -178,3 +178,7 @@
 [2013-12-16 15:33:10] jack090, leaving. (#ios-driver)
 [2013-12-16 15:33:58] smohanat: thx for your help
 [2013-12-16 15:35:04] admc, joining. (#ios-driver)
+[2013-12-16 15:42:49] ios-driver-git, joining. (#ios-driver)
+[2013-12-16 15:42:49] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/JNHb7Q
+[2013-12-16 15:42:49] ios-driver-git, leaving. (#ios-driver)
+[2013-12-16 15:42:49] ios-driver-git: ios-driver/refactor f556e76 rsalvador: Add more build info in the starting messages.
