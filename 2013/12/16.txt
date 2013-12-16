@@ -11,3 +11,4 @@
 [2013-12-16 06:20:56] pupsiktalk, joining. (#ios-driver)
 [2013-12-16 06:27:36] operatiay, joining. (#ios-driver)
 [2013-12-16 06:28:26] distors, joining. (#ios-driver)
+[2013-12-16 06:34:47] pupsiktalk, quitting. (Remote host closed the connection)
