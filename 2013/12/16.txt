@@ -126,3 +126,14 @@
 [2013-12-16 15:12:58] AutomatedTester: and you can run the simulator fine normally?
 [2013-12-16 15:13:08] jack090: what language you using to connect?
 [2013-12-16 15:18:24] admc, quitting. (Ping timeout: 250 seconds)
+[2013-12-16 15:20:40] jack090: smohanat I created a guide for dummies to get IOS 7 and ios-driver working: http://ios-driver.github.io/ios-driver/building-source.html
+[2013-12-16 15:20:55] jack090: if you follow that it usually works just fine
+[2013-12-16 15:21:09] smohanat: thx
+[2013-12-16 15:21:12] jack090: if your using C# you have to declare language "english"
+[2013-12-16 15:21:12] smohanat: let me look at it
+[2013-12-16 15:21:16] jack090: or it'll blow up on you
+[2013-12-16 15:21:29] smohanat: no i am using java
+[2013-12-16 15:22:52] smohanat: this is great, let me try this thanks.  so u are saying Xcode 5.02, ios7 simulator is works with ios-driver now after i build from the refactor branch?
+[2013-12-16 15:23:07] smohanat: @jack090
+[2013-12-16 15:24:46] jack090: yes
+[2013-12-16 15:24:52] jack090: Follow that guide and it'll work
