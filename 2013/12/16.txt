@@ -17,3 +17,6 @@
 [2013-12-16 07:37:17] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2013-12-16 07:39:45] operatiay, quitting. ()
 [2013-12-16 08:02:09] gdennis, joining. (#ios-driver)
+[2013-12-16 08:18:23] gdennis, quitting. (*.net *.split)
+[2013-12-16 08:18:25] Phasze, quitting. (*.net *.split)
+[2013-12-16 08:18:27] nirvdrum_, quitting. (*.net *.split)
