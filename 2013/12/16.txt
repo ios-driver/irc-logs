@@ -64,3 +64,7 @@
 [2013-12-16 12:02:35] rsalvador, joining. (#ios-driver)
 [2013-12-16 12:02:35] rsalvador1, quitting. (Read error: Connection reset by peer)
 [2013-12-16 12:20:56] admc, joining. (#ios-driver)
+[2013-12-16 12:28:05] ios-driver-git, joining. (#ios-driver)
+[2013-12-16 12:28:06] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/zZk3OA
+[2013-12-16 12:28:06] ios-driver-git: ios-driver/refactor f00d32f rsalvador: Do not require end '/' in "http://localhost:4444/inspector/"
+[2013-12-16 12:28:06] ios-driver-git, leaving. (#ios-driver)
