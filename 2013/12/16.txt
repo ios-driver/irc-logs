@@ -24,3 +24,6 @@
 [2013-12-16 08:21:31] gdennis, joining. (#ios-driver)
 [2013-12-16 08:21:31] Phasze, joining. (#ios-driver)
 [2013-12-16 08:21:31] nirvdrum_, joining. (#ios-driver)
+[2013-12-16 08:42:07] rsalvador, joining. (#ios-driver)
+[2013-12-16 08:43:58] rsalvador1, joining. (#ios-driver)
+[2013-12-16 08:44:53] lukeis, joining. (#ios-driver)
