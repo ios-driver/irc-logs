@@ -14,3 +14,5 @@
 [2013-12-16 06:34:47] pupsiktalk, quitting. (Remote host closed the connection)
 [2013-12-16 06:37:27] distors, quitting. (Ping timeout: 240 seconds)
 [2013-12-16 06:59:44] nirvdrum_, joining. (#ios-driver)
+[2013-12-16 07:37:17] nirvdrum, quitting. (Ping timeout: 240 seconds)
+[2013-12-16 07:39:45] operatiay, quitting. ()
