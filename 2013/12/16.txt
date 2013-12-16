@@ -52,3 +52,5 @@
 [2013-12-16 11:10:25] jack090: join /selenium
 [2013-12-16 11:10:30] jack090: poop
 [2013-12-16 11:10:48] jack090: I mean dang
+[2013-12-16 11:38:15] santiycr1, quitting. (Ping timeout: 240 seconds)
+[2013-12-16 11:38:31] santiycr, joining. (#ios-driver)
