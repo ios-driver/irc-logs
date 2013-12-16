@@ -20,3 +20,7 @@
 [2013-12-16 08:18:23] gdennis, quitting. (*.net *.split)
 [2013-12-16 08:18:25] Phasze, quitting. (*.net *.split)
 [2013-12-16 08:18:27] nirvdrum_, quitting. (*.net *.split)
+[2013-12-16 08:21:31] smccarthy, joining. (#ios-driver)
+[2013-12-16 08:21:31] gdennis, joining. (#ios-driver)
+[2013-12-16 08:21:31] Phasze, joining. (#ios-driver)
+[2013-12-16 08:21:31] nirvdrum_, joining. (#ios-driver)
