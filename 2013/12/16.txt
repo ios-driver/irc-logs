@@ -4,3 +4,4 @@
 [2013-12-16 02:00:00] admc, quitting. (Read error: Connection reset by peer)
 [2013-12-16 02:04:08] admc, joining. (#ios-driver)
 [2013-12-16 02:25:38] admc, quitting. (Quit: Leaving.)
+[2013-12-16 03:24:41] operatiay, quitting. (Remote host closed the connection)
