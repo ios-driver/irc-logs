@@ -68,3 +68,4 @@
 [2013-12-16 12:28:06] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/zZk3OA
 [2013-12-16 12:28:06] ios-driver-git: ios-driver/refactor f00d32f rsalvador: Do not require end '/' in "http://localhost:4444/inspector/"
 [2013-12-16 12:28:06] ios-driver-git, leaving. (#ios-driver)
+[2013-12-16 12:49:50] admc, quitting. (Quit: Leaving.)
