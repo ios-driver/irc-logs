@@ -121,3 +121,7 @@
 [2013-12-16 14:58:44] AutomatedTester: woah... not heard of pastebin?
 [2013-12-16 15:05:28] lukeis1, changing nick to lukeis.
 [2013-12-16 15:06:08] smohanat: sorry
+[2013-12-16 15:11:44] AutomatedTester: smohanat: I dont know iOSDriver but did you get this error instantly?
+[2013-12-16 15:12:20] smohanat: when i tried to launch the simulator for iPhone to run automation i get this from the ios-driver
+[2013-12-16 15:12:58] AutomatedTester: and you can run the simulator fine normally?
+[2013-12-16 15:13:08] jack090: what language you using to connect?
