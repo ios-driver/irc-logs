@@ -125,3 +125,4 @@
 [2013-12-16 15:12:20] smohanat: when i tried to launch the simulator for iPhone to run automation i get this from the ios-driver
 [2013-12-16 15:12:58] AutomatedTester: and you can run the simulator fine normally?
 [2013-12-16 15:13:08] jack090: what language you using to connect?
+[2013-12-16 15:18:24] admc, quitting. (Ping timeout: 250 seconds)
