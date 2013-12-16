@@ -42,3 +42,8 @@
 [2013-12-16 10:49:55] yasiukevich, quitting. (Remote host closed the connection)
 [2013-12-16 10:54:52] tursun, joining. (#ios-driver)
 [2013-12-16 10:58:09] santiycr1, joining. (#ios-driver)
+[2013-12-16 11:00:03] santiycr, quitting. (Ping timeout: 246 seconds)
+[2013-12-16 11:00:54] lukeis, quitting. (Read error: Connection reset by peer)
+[2013-12-16 11:01:06] lukeis, joining. (#ios-driver)
+[2013-12-16 11:01:57] tursun, quitting. (Ping timeout: 248 seconds)
+[2013-12-16 11:04:28] lukeis1, joining. (#ios-driver)
