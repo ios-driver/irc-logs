@@ -28,3 +28,5 @@
 [2013-12-16 08:43:58] rsalvador1, joining. (#ios-driver)
 [2013-12-16 08:44:53] lukeis, joining. (#ios-driver)
 [2013-12-16 08:46:39] rsalvador, quitting. (Ping timeout: 250 seconds)
+[2013-12-16 08:55:26] santiycr, joining. (#ios-driver)
+[2013-12-16 08:57:36] rsalvador1, quitting. (Ping timeout: 246 seconds)
