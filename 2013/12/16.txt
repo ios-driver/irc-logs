@@ -119,3 +119,5 @@
 [2013-12-16 14:58:30] smohanat: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/2d215072-5007-41ca-a552-fbbd5d5814aa9075183781147831717.tmp	2013-12-16 17:56:18.105 instruments[38838:707] Automation Instrument ran into an exception while trying to run the script.  NSInternalInconsistencyException
 [2013-12-16 14:58:31] smohanat: trying to run the ios-driver simulator mobile safari to do some automation
 [2013-12-16 14:58:44] AutomatedTester: woah... not heard of pastebin?
+[2013-12-16 15:05:28] lukeis1, changing nick to lukeis.
+[2013-12-16 15:06:08] smohanat: sorry
