@@ -77,3 +77,5 @@
 [2013-12-16 13:29:42] nirvdrum_, changing nick to nirvdrum.
 [2013-12-16 13:32:35] admc, joining. (#ios-driver)
 [2013-12-16 14:14:12] lukeis1, joining. (#ios-driver)
+[2013-12-16 14:15:33] lukeis, quitting. (Ping timeout: 250 seconds)
+[2013-12-16 14:16:49] admc, quitting. (Quit: Leaving.)
