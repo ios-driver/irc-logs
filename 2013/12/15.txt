@@ -17,3 +17,4 @@
 [2013-12-15 16:44:55] puskay, joining. (#ios-driver)
 [2013-12-15 16:45:21] puskay, quitting. (Read error: Connection reset by peer)
 [2013-12-15 17:59:40] operatiay, joining. (#ios-driver)
+[2013-12-15 18:03:45] operatiay, quitting. (Read error: Operation timed out)
