@@ -166,3 +166,14 @@
 [2013-12-16 15:29:26] jack090: and manually download it (save it)
 [2013-12-16 15:29:31] smohanat: k
 [2013-12-16 15:29:48] jack090: as far as uninstalling xcode off your system you can probably find a guide to do it
+[2013-12-16 15:30:01] jack090: the machine I had major problems on I just clean wiped and put mavericks back on it
+[2013-12-16 15:30:03] smohanat: i will do that thx
+[2013-12-16 15:30:12] smohanat: thx
+[2013-12-16 15:30:21] jack090: it wasn't worth my time to investigate since it was a "grid" machine
+[2013-12-16 15:30:30] jack090: aka only going to run my simulators for my grid
+[2013-12-16 15:31:17] jack090: but yea if you use the refactor branch it'll get you up and running using mavericks OS X and Xcode 5.0.2 and IOS 7.03
+[2013-12-16 15:31:30] jack090: I think those versions I typed are correct :-)
+[2013-12-16 15:33:01] jack090: anywho I got to run for the day
+[2013-12-16 15:33:07] jack090: I'll be on tomorrow if you have more questions
+[2013-12-16 15:33:10] jack090, leaving. (#ios-driver)
+[2013-12-16 15:33:58] smohanat: thx for your help
