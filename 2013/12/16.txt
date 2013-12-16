@@ -137,3 +137,32 @@
 [2013-12-16 15:23:07] smohanat: @jack090
 [2013-12-16 15:24:46] jack090: yes
 [2013-12-16 15:24:52] jack090: Follow that guide and it'll work
+[2013-12-16 15:25:05] smohanat: thx really appreciate your link here.
+[2013-12-16 15:25:07] jack090: I'm running IOS 7 for ipad/iphone (whichever I specify)
+[2013-12-16 15:25:15] smohanat: simulator?
+[2013-12-16 15:25:15] jack090: it's on the main ios-driver site now
+[2013-12-16 15:25:22] jack090: it's the "building" tab
+[2013-12-16 15:25:28] smohanat: k cool
+[2013-12-16 15:25:28] jack090: yes
+[2013-12-16 15:25:35] smohanat: awesome
+[2013-12-16 15:25:48] jack090: the simulator can be controlled by specifying .iphone() or .ipad()
+[2013-12-16 15:25:57] jack090: well obviously use the real capitalization
+[2013-12-16 15:26:15] smohanat: k
+[2013-12-16 15:26:46] jack090: btw smohanat
+[2013-12-16 15:26:57] smohanat: yes
+[2013-12-16 15:27:07] jack090: I had a problem when I had a machine that had a bad xcode/simulator
+[2013-12-16 15:27:12] jack090: I had to reinstall xcode
+[2013-12-16 15:27:21] jack090: but I have used it for 3 machines
+[2013-12-16 15:27:23] jack090: and all worked except that
+[2013-12-16 15:27:38] smohanat: umm,  I might be in that category,  i have had xcdoe uninstall re installed few times now
+[2013-12-16 15:28:00] smohanat: i usually just delta the xcode.app,  but i think this might not be a good clean uninstall
+[2013-12-16 15:28:22] smohanat: any recommended way to delete Xcode fully and install xcode5.02?
+[2013-12-16 15:28:41] jack090: uhm...
+[2013-12-16 15:28:49] jack090: first I would get xcode from the developer page
+[2013-12-16 15:28:51] jack090: and download the .dmg
+[2013-12-16 15:29:12] jack090: https://developer.apple.com/
+[2013-12-16 15:29:15] jack090: click member center
+[2013-12-16 15:29:19] jack090: and find xcode
+[2013-12-16 15:29:26] jack090: and manually download it (save it)
+[2013-12-16 15:29:31] smohanat: k
+[2013-12-16 15:29:48] jack090: as far as uninstalling xcode off your system you can probably find a guide to do it
