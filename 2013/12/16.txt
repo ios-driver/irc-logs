@@ -85,3 +85,37 @@
 [2013-12-16 14:37:22] smohanat: Hi
 [2013-12-16 14:39:07] smohanat: anyone here
 [2013-12-16 14:52:28] admc, joining. (#ios-driver)
+[2013-12-16 14:57:40] smohanat: can anyone see what i am doing worn
+[2013-12-16 14:57:42] smohanat: wrong
+[2013-12-16 14:57:48] smohanat: sudo java -jar ios-server-0.6.5-jar-with-dependencies.jar -hub http://127.0.0.1:4444/grid/register -host 127.0.0.1 -simulators
+[2013-12-16 14:57:49] smohanat: 55:39:051 INFO ApplicationStore.<init>  App archive folder:/Users/smohanat/selenium-node-iOS/applications
+[2013-12-16 14:57:50] smohanat: 55:39:914 INFO IOSServer.initDriver
+[2013-12-16 14:57:51] smohanat: Beta features enabled (enabled by -beta flag ): false
+[2013-12-16 14:57:53] smohanat: Simulator enabled (enabled by -simulators flag): true
+[2013-12-16 14:57:54] smohanat: Inspector: http://0.0.0.0:5555/inspector/
+[2013-12-16 14:57:56] smohanat: Tests can access the server at http://0.0.0.0:5555/wd/hub
+[2013-12-16 14:57:57] smohanat: Server status: http://0.0.0.0:5555/wd/hub/status
+[2013-12-16 14:57:59] smohanat: Connected devices: http://0.0.0.0:5555/wd/hub/devices/all
+[2013-12-16 14:58:00] smohanat: Applications: http://0.0.0.0:5555/wd/hub/applications/all
+[2013-12-16 14:58:02] smohanat: Capabilities: http://0.0.0.0:5555/wd/hub/capabilities/all
+[2013-12-16 14:58:03] smohanat: Monitoring '/Users/smohanat/selenium-node-iOS/applications' for new applications
+[2013-12-16 14:58:05] smohanat: Archived apps: /Users/smohanat/selenium-node-iOS/applications
+[2013-12-16 14:58:06] smohanat: Using Xcode install : /Applications/Xcode.app
+[2013-12-16 14:58:08] smohanat: Using IOS version 7.0
+[2013-12-16 14:58:09] smohanat: iOS >= 6.0. Safari and hybrid apps are supported.
+[2013-12-16 14:58:11] smohanat: Applications :
+[2013-12-16 14:58:12] smohanat: ---------------
+[2013-12-16 14:58:14] smohanat: 	CFBundleName=Safari,CFBundleVersion=9537.53
+[2013-12-16 14:58:15] smohanat: 2013-12-16 17:55:39.972:INFO::jetty-7.x.y-SNAPSHOT
+[2013-12-16 14:58:17] smohanat: 2013-12-16 17:55:40.032:INFO::Started SelectChannelConnector@0.0.0.0:5555
+[2013-12-16 14:58:18] smohanat: 56:16:682 WARNING SimulatorSettings.getSimulateDeviceValue  Non-retina iPhone not supported starting with SDK 7.0; substituting 3.5-inch retina iPhone
+[2013-12-16 14:58:20] smohanat: 56:18:101 WARNING DefaultCommandListener.stderr  /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/5.0.1/51168/instruments -t /Applications/Xcode.app/Contents/Applications/Instruments.app/Contents/PlugIns/AutomationInstrument.bundle/Contents/Resources/Automation.tracetemplate /var/root/.ios-driver/safariCopies/safari-7.0.app -e UIASCRIPT /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/uiamasterscript3357132239049933007.js -e UIARESULTSPATH
+[2013-12-16 14:58:21] smohanat: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/2d215072-5007-41ca-a552-fbbd5d5814aa9075183781147831717.tmp	2013-12-16 17:56:18.099 instruments[38838:707] -[__NSCFConstantString isEqualToNumber:]: unrecognized selector sent to instance 0x7fff71bfe4e0
+[2013-12-16 14:58:23] smohanat: 56:18:102 WARNING DefaultCommandListener.stderr  /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/5.0.1/51168/instruments -t /Applications/Xcode.app/Contents/Applications/Instruments.app/Contents/PlugIns/AutomationInstrument.bundle/Contents/Resources/Automation.tracetemplate /var/root/.ios-driver/safariCopies/safari-7.0.app -e UIASCRIPT /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/uiamasterscript3357132239049933007.js -e UIARESULTSPATH
+[2013-12-16 14:58:24] smohanat: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/2d215072-5007-41ca-a552-fbbd5d5814aa9075183781147831717.tmp	2013-12-16 17:56:18.101 instruments[38838:707] Exception during preparation: -[__NSCFConstantString isEqualToNumber:]: unrecognized selector sent to instance 0x7fff71bfe4e0
+[2013-12-16 14:58:26] smohanat: 56:18:105 WARNING DefaultCommandListener.stderr  /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/5.0.1/51168/instruments -t /Applications/Xcode.app/Contents/Applications/Instruments.app/Contents/PlugIns/AutomationInstrument.bundle/Contents/Resources/Automation.tracetemplate /var/root/.ios-driver/safariCopies/safari-7.0.app -e UIASCRIPT /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/uiamasterscript3357132239049933007.js -e UIARESULTSPATH
+[2013-12-16 14:58:27] smohanat: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/2d215072-5007-41ca-a552-fbbd5d5814aa9075183781147831717.tmp	2013-12-16 17:56:18.104 instruments[38838:707] *** Assertion failure in -[UIAInstrument _startAgentForApp:withPID:], /SourceCache/AutomationInstrument/AutomationInstrument-1000/Classes/UIAInstrument-Simulator.m:116
+[2013-12-16 14:58:29] smohanat: 56:18:105 WARNING DefaultCommandListener.stderr  /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/5.0.1/51168/instruments -t /Applications/Xcode.app/Contents/Applications/Instruments.app/Contents/PlugIns/AutomationInstrument.bundle/Contents/Resources/Automation.tracetemplate /var/root/.ios-driver/safariCopies/safari-7.0.app -e UIASCRIPT /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/uiamasterscript3357132239049933007.js -e UIARESULTSPATH
+[2013-12-16 14:58:30] smohanat: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/2d215072-5007-41ca-a552-fbbd5d5814aa9075183781147831717.tmp	2013-12-16 17:56:18.105 instruments[38838:707] Automation Instrument ran into an exception while trying to run the script.  NSInternalInconsistencyException
+[2013-12-16 14:58:31] smohanat: trying to run the ios-driver simulator mobile safari to do some automation
+[2013-12-16 14:58:44] AutomatedTester: woah... not heard of pastebin?
