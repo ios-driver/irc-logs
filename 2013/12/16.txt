@@ -38,3 +38,5 @@
 [2013-12-16 10:28:15] eugenstud, joining. (#ios-driver)
 [2013-12-16 10:30:39] eugenstud, quitting. (Remote host closed the connection)
 [2013-12-16 10:39:48] admc, joining. (#ios-driver)
+[2013-12-16 10:48:10] yasiukevich, joining. (#ios-driver)
+[2013-12-16 10:49:55] yasiukevich, quitting. (Remote host closed the connection)
