@@ -107,3 +107,9 @@
 [2013-12-17 11:43:00] Phasze: http://pastebin.com/GMQRAbrU  any ideas?  Just starts up, launches the app, and shuts down :(
 [2013-12-17 11:44:15] rsalvador: jlipps: for iOS 7 we have been running only on simulators, no devices
 [2013-12-17 11:44:54] jlipps: rsalvador:  yes, but even with simulators i'm seeing instruments totally fail in a variety of situations
+[2013-12-17 11:45:31] rsalvador: it is working ok now at least for our tests, had to do quite a few changes to ios-driver though, all changes are in the "refactor" branch
+[2013-12-17 11:46:05] nicegraham: we're still seeing random crashes when running on grid
+[2013-12-17 11:46:12] nicegraham: it's not so bad running locally
+[2013-12-17 11:47:45] smohanat_, joining. (#ios-driver)
+[2013-12-17 11:48:53] smohanat, quitting. (Ping timeout: 252 seconds)
+[2013-12-17 11:48:55] smohanat_, changing nick to smohanat.
