@@ -168,3 +168,6 @@
 [2013-12-17 14:28:05] jlipps: we use its shim, but we don't use it as an instruments replacement
 [2013-12-17 14:28:28] jlipps: didn't realize it even came with an instruments replacement
 [2013-12-17 14:29:41] jlipps: yeah, that doesn't work for me either. weird.
+[2013-12-17 14:30:09] jlipps: it'd be interesting to get my hands on the ios-driver copy and see if it's different somehow than what i've built from i-w-d source
+[2013-12-17 14:30:11] jlipps: anyway, off to lunch, thanks
+[2013-12-17 14:32:15] smohanat_, quitting. (Ping timeout: 260 seconds)
