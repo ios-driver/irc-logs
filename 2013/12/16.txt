@@ -185,3 +185,4 @@
 [2013-12-16 15:45:52] smccarthy, quitting. (Remote host closed the connection)
 [2013-12-16 16:02:49] lukeis, quitting. (Quit: Leaving.)
 [2013-12-16 16:07:58] rsalvador, quitting. (Quit: Leaving.)
+[2013-12-16 16:23:04] smohanat, quitting. (Quit: smohanat)
