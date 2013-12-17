@@ -30,3 +30,4 @@
 [2013-12-17 07:45:51] smohanat: org.openqa.selenium.SessionNotCreatedException: not a matching DeviceType string: Retina4
 [2013-12-17 07:49:51] nirvdrum: Try changing the variation instead?
 [2013-12-17 07:54:57] smohanat: variation?
+[2013-12-17 07:58:13] rsalvador, joining. (#ios-driver)
