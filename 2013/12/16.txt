@@ -186,3 +186,5 @@
 [2013-12-16 16:02:49] lukeis, quitting. (Quit: Leaving.)
 [2013-12-16 16:07:58] rsalvador, quitting. (Quit: Leaving.)
 [2013-12-16 16:23:04] smohanat, quitting. (Quit: smohanat)
+[2013-12-16 16:32:18] rsalvador, joining. (#ios-driver)
+[2013-12-16 16:34:02] rsalvador1, joining. (#ios-driver)
