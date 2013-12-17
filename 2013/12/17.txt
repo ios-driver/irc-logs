@@ -160,3 +160,11 @@
 [2013-12-17 14:21:13] rsalvador: if you run ios-driver with FINE logging you'll see the command used
 [2013-12-17 14:21:31] jlipps: i don't even have ios-driver. do you have that output handy somewhere rsalvador?
 [2013-12-17 14:23:25] rsalvador:   /var/folders/c8/13qd1h6d4wv4thwr39y8gtdsj04fxm/T/5.0.1/51168/instruments -t /Applications/Xcode.app/Contents/Applications/Instruments.app/Contents/PlugIns/AutomationInstrument.bundle/Contents/Resources/Automation.tracetemplate /Users/rsalvador/.ios-driver/safariCopies/safari-7.0.app -e UIASCRIPT /var/folders/c8/13qd1h6d4wv4thwr39y8gtdsj04fxm/T/uiamasterscript8433115647713193850.js -e UIARESULTSPATH /var/folders/c8/13qd1h6d4wv4thwr39y8gtdsj04fxm/T/dc8
+[2013-12-17 14:25:47] jlipps: what is that instruments?
+[2013-12-17 14:26:03] rsalvador: the no-delay one
+[2013-12-17 14:27:46] jlipps: you mean from instruments-without-delay?
+[2013-12-17 14:27:53] rsalvador: right
+[2013-12-17 14:27:55] jlipps: hmm
+[2013-12-17 14:28:05] jlipps: we use its shim, but we don't use it as an instruments replacement
+[2013-12-17 14:28:28] jlipps: didn't realize it even came with an instruments replacement
+[2013-12-17 14:29:41] jlipps: yeah, that doesn't work for me either. weird.
