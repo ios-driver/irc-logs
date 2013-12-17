@@ -32,3 +32,6 @@
 [2013-12-17 07:54:57] smohanat: variation?
 [2013-12-17 07:58:13] rsalvador, joining. (#ios-driver)
 [2013-12-17 08:01:39] smccarthy, joining. (#ios-driver)
+[2013-12-17 08:10:37] smohanat: can anyone help me getting ios7 simulator and mile saferi working
+[2013-12-17 08:10:40] smohanat: safari
+[2013-12-17 08:11:48] smohanat: org.openqa.selenium.WebDriverException: Cannot cast class org.json.JSONObject={"platform":"MAC","browserName":"iPhone","version":""} to DeviceType
