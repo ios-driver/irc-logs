@@ -103,3 +103,7 @@
 [2013-12-17 11:39:03] nicegraham: yeah
 [2013-12-17 11:39:43] jlipps: on github they still show a GPL
 [2013-12-17 11:39:54] nicegraham: for parts of it, it is
+[2013-12-17 11:40:15] nicegraham: but freynaud was working on a lot of new stuff with martin and that can't be oss'd
+[2013-12-17 11:43:00] Phasze: http://pastebin.com/GMQRAbrU  any ideas?  Just starts up, launches the app, and shuts down :(
+[2013-12-17 11:44:15] rsalvador: jlipps: for iOS 7 we have been running only on simulators, no devices
+[2013-12-17 11:44:54] jlipps: rsalvador:  yes, but even with simulators i'm seeing instruments totally fail in a variety of situations
