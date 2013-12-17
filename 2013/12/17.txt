@@ -149,3 +149,5 @@
 [2013-12-17 13:43:23] suvlad, quitting. (K-Lined)
 [2013-12-17 13:55:30] jlipps, quitting. (Quit: Leaving.)
 [2013-12-17 13:55:41] jlipps, joining. (#ios-driver)
+[2013-12-17 14:01:41] smohanat, quitting. (Read error: Connection reset by peer)
+[2013-12-17 14:01:46] smohanat_, joining. (#ios-driver)
