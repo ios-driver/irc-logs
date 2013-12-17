@@ -184,3 +184,28 @@
 [2013-12-17 14:53:24] AutomatedTester: :D
 [2013-12-17 14:54:30] Phasze: AutomatedTester: do you have a link to that app?
 [2013-12-17 14:54:44] AutomatedTester: no, I was joking around
+[2013-12-17 14:55:05] AutomatedTester: since a hill isnt as steep as a mountain and plain is flatter still
+[2013-12-17 14:55:09] Phasze: I curse you.....
+[2013-12-17 14:55:18] AutomatedTester: "so the up ramp isnt so steep?"
+[2013-12-17 14:55:27] Phasze: this thing is driving me crazy
+[2013-12-17 14:55:35] Phasze: all the little loopholes I've had to jump through
+[2013-12-17 14:55:38] Phasze: and it's still not working yet
+[2013-12-17 14:55:44] AutomatedTester: have you told grid about it?
+[2013-12-17 14:56:00] Phasze: told grid about it?
+[2013-12-17 14:56:11] AutomatedTester: about iOSDriver?
+[2013-12-17 14:56:15] AutomatedTester: do you need to do that
+[2013-12-17 14:56:19] Phasze: 0.o
+[2013-12-17 14:56:30] Phasze: what do you mean?
+[2013-12-17 14:56:52] AutomatedTester: I have no idea how iOS Driver joins grid but with the old AndroidDriver and iWebDriver you needed to tell grid about the end point
+[2013-12-17 14:57:35] Phasze: I can see it registered in grid/console
+[2013-12-17 14:57:39] AutomatedTester: ok
+[2013-12-17 14:57:46] Phasze: does that mean it knows about it?
+[2013-12-17 14:57:51] AutomatedTester: yes
+[2013-12-17 14:58:14] Phasze: alright, so yes, yes I have told grid about it
+[2013-12-17 14:58:41] Phasze: I start the RemoteWebDriver() request
+[2013-12-17 14:58:48] Phasze: the IOS Simulator starts up
+[2013-12-17 14:58:53] Phasze: the app launches
+[2013-12-17 14:58:55] Phasze: the app closes
+[2013-12-17 14:59:01] Phasze: IOS Simulator closes
+[2013-12-17 14:59:06] Phasze: and the call times out eventually
+[2013-12-17 14:59:35] Phasze: and I weep
