@@ -56,3 +56,7 @@
 [2013-12-17 09:06:04] ios-driver-git, leaving. (#ios-driver)
 [2013-12-17 09:06:04] ios-driver-git: ios-driver/refactor 70df18e rsalvador: Optimize expensive logging calls.
 [2013-12-17 09:06:04] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/otzXyQ
+[2013-12-17 09:15:20] ios-driver-git, joining. (#ios-driver)
+[2013-12-17 09:15:20] ios-driver-git, leaving. (#ios-driver)
+[2013-12-17 09:15:20] ios-driver-git: ios-driver/refactor 8dddf3d rsalvador: Suggest compatible variation in the no compatible variation error.
+[2013-12-17 09:15:20] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/rl1J4w
