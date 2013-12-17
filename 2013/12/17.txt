@@ -77,3 +77,4 @@
 [2013-12-17 11:23:07] Phasze: Hmmmm
 [2013-12-17 11:23:28] rsalvador, joining. (#ios-driver)
 [2013-12-17 11:23:44] rsalvador: :log
+[2013-12-17 11:26:39] rsalvador1, quitting. (Ping timeout: 240 seconds)
