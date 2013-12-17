@@ -10,3 +10,11 @@
 [2013-12-17 06:27:52] smohanat: anyone knows what this error means  "org.openqa.selenium.WebDriverException: iPhone incompatible with SDK 7.0"
 [2013-12-17 06:28:12] smohanat: I am using the driver built from the refactor branch
 [2013-12-17 07:12:05] smohanat: can someone point me to how to set the desiredCapabilities for a retina iPhone device simulator
+[2013-12-17 07:35:57] nirvdrum: Set the device to "Retina4"
+[2013-12-17 07:36:13] nirvdrum: Or "Retina35" if you want to target the 4S.
+[2013-12-17 07:38:38] smohanat: thx
+[2013-12-17 07:39:24] smohanat: DesiredCapabilities safariIphone = IOSCapabilities.iphone("Safari");
+[2013-12-17 07:39:25] smohanat: 		safariIphone.setCapability(IOSCapabilities.SIMULATOR, true);
+[2013-12-17 07:39:26] smohanat: 		safariIphone.setCapability(IOSCapabilities.DEVICE, "Retina4");
+[2013-12-17 07:39:34] nirvdrum: They're the names you see in the device selection menu in the simulator.
+[2013-12-17 07:39:52] smohanat: what i have pated above looks ok?
