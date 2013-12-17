@@ -47,3 +47,4 @@
 [2013-12-17 08:36:04] smohanat, quitting. (Ping timeout: 275 seconds)
 [2013-12-17 08:36:04] smohanat_, changing nick to smohanat.
 [2013-12-17 08:37:06] lukeis, joining. (#ios-driver)
+[2013-12-17 08:55:50] rsalvador, joining. (#ios-driver)
