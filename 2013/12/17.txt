@@ -48,3 +48,7 @@
 [2013-12-17 08:36:04] smohanat_, changing nick to smohanat.
 [2013-12-17 08:37:06] lukeis, joining. (#ios-driver)
 [2013-12-17 08:55:50] rsalvador, joining. (#ios-driver)
+[2013-12-17 09:04:58] ios-driver-git, joining. (#ios-driver)
+[2013-12-17 09:04:58] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/pxrulg
+[2013-12-17 09:04:58] ios-driver-git, leaving. (#ios-driver)
+[2013-12-17 09:04:58] ios-driver-git: ios-driver/refactor dd33b22 rsalvador: Increase timeout in DefaultMessageHandler from 5 to 10 secs...
