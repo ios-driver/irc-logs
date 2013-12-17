@@ -175,3 +175,12 @@
 [2013-12-17 14:36:45] smccarthy, joining. (#ios-driver)
 [2013-12-17 14:38:00] smccarthy, quitting. (Remote host closed the connection)
 [2013-12-17 14:38:34] smccarthy, joining. (#ios-driver)
+[2013-12-17 14:51:52] Phasze: has anyone gotten this InternationalMountains app working for testing on ios7?
+[2013-12-17 14:51:55] Phasze: also with grid
+[2013-12-17 14:52:02] Phasze: bloody can't get this to work :(
+[2013-12-17 14:52:50] AutomatedTester: Phasze: maybe try the InternationalHills or InternationalPlains app first so the up ramp isnt so steep?
+[2013-12-17 14:52:58] *AutomatedTester gets his coat and leaves'
+[2013-12-17 14:53:10] Phasze: you tell me this then leave me? :P
+[2013-12-17 14:53:24] AutomatedTester: :D
+[2013-12-17 14:54:30] Phasze: AutomatedTester: do you have a link to that app?
+[2013-12-17 14:54:44] AutomatedTester: no, I was joking around
