@@ -144,3 +144,4 @@
 [2013-12-17 13:07:13] jlipps: rsalvador:  interesting. i'll give it a shot. i know i tried running instruments on its own that way too.
 [2013-12-17 13:11:01] admc1, quitting. (Read error: Connection reset by peer)
 [2013-12-17 13:11:30] admc, joining. (#ios-driver)
+[2013-12-17 13:25:42] admc, quitting. (Quit: Leaving.)
