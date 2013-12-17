@@ -199,3 +199,5 @@
 [2013-12-16 17:27:42] admc1, quitting. (Client Quit)
 [2013-12-16 17:28:54] rsalvador1, quitting. (Ping timeout: 252 seconds)
 [2013-12-16 17:30:19] admc, quitting. (Ping timeout: 260 seconds)
+[2013-12-16 17:35:11] rsalvador, joining. (#ios-driver)
+[2013-12-16 17:39:09] rsalvador, leaving. (#ios-driver)
