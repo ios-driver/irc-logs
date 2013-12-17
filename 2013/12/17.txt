@@ -62,3 +62,5 @@
 [2013-12-17 09:15:20] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/rl1J4w
 [2013-12-17 10:45:51] admc, joining. (#ios-driver)
 [2013-12-17 10:47:35] gdennis, quitting. (Remote host closed the connection)
+[2013-12-17 10:55:51] smccarthy2, joining. (#ios-driver)
+[2013-12-17 10:58:48] smccarthy, quitting. (Ping timeout: 250 seconds)
