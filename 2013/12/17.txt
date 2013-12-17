@@ -18,3 +18,12 @@
 [2013-12-17 07:39:26] smohanat: 		safariIphone.setCapability(IOSCapabilities.DEVICE, "Retina4");
 [2013-12-17 07:39:34] nirvdrum: They're the names you see in the device selection menu in the simulator.
 [2013-12-17 07:39:52] smohanat: what i have pated above looks ok?
+[2013-12-17 07:40:35] nirvdrum: I believe the attribute is called Variation.
+[2013-12-17 07:40:49] nirvdrum: But I don't use the Java bindings.  So I don't know if that maps correctly internally.
+[2013-12-17 07:41:03] smohanat: k thx
+[2013-12-17 07:41:19] smohanat: Let me give this a try,
+[2013-12-17 07:41:45] smohanat: is there any specie files/folders i need to delete after moving to the new refactor branch ios-server driver
+[2013-12-17 07:42:01] smohanat: someone was mentioning a corrupted plist file can cause issues
+[2013-12-17 07:42:36] nirvdrum: I haven't tried the branch out, so I can't say.
+[2013-12-17 07:42:45] nirvdrum: nicegraham or lukeis would be people to ask.
+[2013-12-17 07:43:56] smohanat: thx
