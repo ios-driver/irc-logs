@@ -113,3 +113,20 @@
 [2013-12-17 11:47:45] smohanat_, joining. (#ios-driver)
 [2013-12-17 11:48:53] smohanat, quitting. (Ping timeout: 252 seconds)
 [2013-12-17 11:48:55] smohanat_, changing nick to smohanat.
+[2013-12-17 11:50:11] jlipps: rsalvador:  yeah seems to be related somehow to system resources. on my own system i get one flake in 10. on our sauce vms it seems more like 1 in 3
+[2013-12-17 11:50:37] jlipps: we mitigate that by requeueing vms if it flakes, so it doesn't affect our users test results so much
+[2013-12-17 11:50:41] jlipps: but it's driving me crazy :-)
+[2013-12-17 11:50:53] nicegraham: jlipps: we've seen the same - we've dropped the number of vms per physical machine
+[2013-12-17 11:50:59] nicegraham: we're down to one now :(
+[2013-12-17 11:51:02] rsalvador: the optimization in the refactor branch from this morning seems to have fixed the flakiness on sauce vms
+[2013-12-17 11:51:13] Phasze: nicegraham: random crashes?  Like what I just saw?
+[2013-12-17 11:51:24] Phasze: any errors given?
+[2013-12-17 11:51:41] nicegraham: safari crashes on launch
+[2013-12-17 11:51:44] nicegraham: that type of thing
+[2013-12-17 11:52:04] nicegraham: our native apps seem less affected
+[2013-12-17 11:52:07] jlipps: rsalvador:  what kinds of optimization are we talking about? how is refactoring ios-driver code possibly related to instruments flakiness?
+[2013-12-17 11:52:13] Phasze: hmm
+[2013-12-17 11:52:49] jlipps: btw, can ios-driver launch safari on ios7? we haven't been able to using the built-in instruments so far. at least not the same way we were with ios6
+[2013-12-17 11:53:00] nicegraham: yeah
+[2013-12-17 11:53:19] nicegraham: I think rsalvador fixed that
+[2013-12-17 11:54:10] rsalvador: cpu/memory optimization, I guess that stress less the VMs and makes it less likelly to crash
