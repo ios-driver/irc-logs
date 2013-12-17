@@ -145,3 +145,4 @@
 [2013-12-17 13:11:01] admc1, quitting. (Read error: Connection reset by peer)
 [2013-12-17 13:11:30] admc, joining. (#ios-driver)
 [2013-12-17 13:25:42] admc, quitting. (Quit: Leaving.)
+[2013-12-17 13:33:04] suvlad, joining. (#ios-driver)
