@@ -151,3 +151,7 @@
 [2013-12-17 13:55:41] jlipps, joining. (#ios-driver)
 [2013-12-17 14:01:41] smohanat, quitting. (Read error: Connection reset by peer)
 [2013-12-17 14:01:46] smohanat_, joining. (#ios-driver)
+[2013-12-17 14:17:59] jlipps: rsalvador:  yeah, copying MobileSafari.app out doesn't seem to help me at all
+[2013-12-17 14:18:39] rsalvador: weird, it works for ios-driver
+[2013-12-17 14:18:53] jlipps: i get "iphone simulator failed to install the application"
+[2013-12-17 14:19:27] lukeis: start using ios-driver?   :-P
