@@ -9,3 +9,4 @@
 [2013-12-17 06:20:50] smohanat, joining. (#ios-driver)
 [2013-12-17 06:27:52] smohanat: anyone knows what this error means  "org.openqa.selenium.WebDriverException: iPhone incompatible with SDK 7.0"
 [2013-12-17 06:28:12] smohanat: I am using the driver built from the refactor branch
+[2013-12-17 07:12:05] smohanat: can someone point me to how to set the desiredCapabilities for a retina iPhone device simulator
