@@ -194,3 +194,4 @@
 [2013-12-16 17:08:52] smccarthy, joining. (#ios-driver)
 [2013-12-16 17:13:21] jlipps, quitting. (Quit: Leaving.)
 [2013-12-16 17:19:48] admc1, quitting. (Quit: Leaving.)
+[2013-12-16 17:23:16] admc, joining. (#ios-driver)
