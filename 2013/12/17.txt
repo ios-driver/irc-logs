@@ -155,3 +155,8 @@
 [2013-12-17 14:18:39] rsalvador: weird, it works for ios-driver
 [2013-12-17 14:18:53] jlipps: i get "iphone simulator failed to install the application"
 [2013-12-17 14:19:27] lukeis: start using ios-driver?   :-P
+[2013-12-17 14:20:30] jlipps: haha
+[2013-12-17 14:20:48] jlipps: well now i'm just curious. you guys must be launching instruments differently than we are
+[2013-12-17 14:21:13] rsalvador: if you run ios-driver with FINE logging you'll see the command used
+[2013-12-17 14:21:31] jlipps: i don't even have ios-driver. do you have that output handy somewhere rsalvador?
+[2013-12-17 14:23:25] rsalvador:   /var/folders/c8/13qd1h6d4wv4thwr39y8gtdsj04fxm/T/5.0.1/51168/instruments -t /Applications/Xcode.app/Contents/Applications/Instruments.app/Contents/PlugIns/AutomationInstrument.bundle/Contents/Resources/Automation.tracetemplate /Users/rsalvador/.ios-driver/safariCopies/safari-7.0.app -e UIASCRIPT /var/folders/c8/13qd1h6d4wv4thwr39y8gtdsj04fxm/T/uiamasterscript8433115647713193850.js -e UIARESULTSPATH /var/folders/c8/13qd1h6d4wv4thwr39y8gtdsj04fxm/T/dc8
