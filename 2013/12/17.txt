@@ -71,3 +71,9 @@
 [2013-12-17 11:00:51] ios-driver-git, leaving. (#ios-driver)
 [2013-12-17 11:08:57] rsalvador1, joining. (#ios-driver)
 [2013-12-17 11:08:58] rsalvador, quitting. (Read error: Connection reset by peer)
+[2013-12-17 11:20:31] Phasze: lukeis: Does refactor work with xcode 5.0.2?
+[2013-12-17 11:21:24] *lukeis has no idea… rsalvador1? do you know?'
+[2013-12-17 11:22:20] rsalvador1: yes, refactor works with Xcode 5.0.2
+[2013-12-17 11:23:07] Phasze: Hmmmm
+[2013-12-17 11:23:28] rsalvador, joining. (#ios-driver)
+[2013-12-17 11:23:44] rsalvador: :log
