@@ -69,3 +69,5 @@
 [2013-12-17 11:00:50] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/7RaHDw
 [2013-12-17 11:00:50] ios-driver-git: ios-driver/refactor b9727e5 rsalvador: Increased default page load timeout from 30 to 60 secs...
 [2013-12-17 11:00:51] ios-driver-git, leaving. (#ios-driver)
+[2013-12-17 11:08:57] rsalvador1, joining. (#ios-driver)
+[2013-12-17 11:08:58] rsalvador, quitting. (Read error: Connection reset by peer)
