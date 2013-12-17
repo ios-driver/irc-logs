@@ -31,3 +31,4 @@
 [2013-12-17 07:49:51] nirvdrum: Try changing the variation instead?
 [2013-12-17 07:54:57] smohanat: variation?
 [2013-12-17 07:58:13] rsalvador, joining. (#ios-driver)
+[2013-12-17 08:01:39] smccarthy, joining. (#ios-driver)
