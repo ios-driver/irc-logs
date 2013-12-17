@@ -205,3 +205,4 @@
 [2013-12-16 18:57:33] smohanat, quitting. (Quit: smohanat)
 [2013-12-16 19:06:40] nirvdrum, quitting. (Ping timeout: 245 seconds)
 [2013-12-16 21:53:07] smccarthy, quitting. (Remote host closed the connection)
+[2013-12-16 23:56:26] admc, joining. (#ios-driver)
