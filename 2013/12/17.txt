@@ -138,3 +138,4 @@
 [2013-12-17 12:07:07] jlipps: rsalvador:  interesting. we do copy the app out of the path, but still doesn't work for us
 [2013-12-17 12:08:04] rsalvador: do you use instruments?, if so you can try running the resulting instruments command and see why it fails in one case and not in the other
 [2013-12-17 12:08:42] rsalvador: if you run the instruments command that ios-driver executes you'll see it works if safari.app is moved out and doesn't work if it is not moved out
+[2013-12-17 12:56:23] admc, joining. (#ios-driver)
