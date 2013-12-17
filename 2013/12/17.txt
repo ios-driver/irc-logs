@@ -35,3 +35,9 @@
 [2013-12-17 08:10:37] smohanat: can anyone help me getting ios7 simulator and mile saferi working
 [2013-12-17 08:10:40] smohanat: safari
 [2013-12-17 08:11:48] smohanat: org.openqa.selenium.WebDriverException: Cannot cast class org.json.JSONObject={"platform":"MAC","browserName":"iPhone","version":""} to DeviceType
+[2013-12-17 08:20:59] nicegraham: smohanat: https://github.com/ios-driver/ios-driver/blob/dev/common/src/main/java/org/uiautomation/ios/communication/device/DeviceVariation.java?source=cc#L20
+[2013-12-17 08:21:19] nicegraham: and you should be setting the variation to one of those
+[2013-12-17 08:21:28] smohanat: thx
+[2013-12-17 08:21:37] nicegraham: safariIphone.setCapability("variation", "Retina4");
+[2013-12-17 08:21:41] smohanat: let me look at the link
+[2013-12-17 08:23:16] nicegraham: https://github.com/ios-driver/ios-driver/blob/refactor/common/src/main/java/org/uiautomation/ios/IOSCapabilities.java?source=cc#L47
