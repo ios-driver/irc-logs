@@ -134,3 +134,4 @@
 [2013-12-17 11:57:17] jlipps: rsalvador:  nice! how did you get around the "cannot install app" issue?
 [2013-12-17 11:58:52] rsalvador: had to move the safari app out of the installation dir: https://github.com/ios-driver/ios-driver/commit/05a37fb04ffae236af1843affaa2546ef6cc6ada
 [2013-12-17 11:59:08] rsalvador: there where other changes later on, see the commits in the "refactor" branch
+[2013-12-17 12:03:12] Phasze: Ah, eventually I get a popup that says, "Simulator session timed out."
