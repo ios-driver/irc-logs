@@ -7,3 +7,5 @@
 [2013-12-17 06:17:08] admc, joining. (#ios-driver)
 [2013-12-17 06:17:12] admc, quitting. (Client Quit)
 [2013-12-17 06:20:50] smohanat, joining. (#ios-driver)
+[2013-12-17 06:27:52] smohanat: anyone knows what this error means  "org.openqa.selenium.WebDriverException: iPhone incompatible with SDK 7.0"
+[2013-12-17 06:28:12] smohanat: I am using the driver built from the refactor branch
