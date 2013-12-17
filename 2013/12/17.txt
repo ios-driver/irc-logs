@@ -64,3 +64,8 @@
 [2013-12-17 10:47:35] gdennis, quitting. (Remote host closed the connection)
 [2013-12-17 10:55:51] smccarthy2, joining. (#ios-driver)
 [2013-12-17 10:58:48] smccarthy, quitting. (Ping timeout: 250 seconds)
+[2013-12-17 11:00:16] Phasze: Does the refactor branch work on xcode 5.0.2?
+[2013-12-17 11:00:50] ios-driver-git, joining. (#ios-driver)
+[2013-12-17 11:00:50] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/7RaHDw
+[2013-12-17 11:00:50] ios-driver-git: ios-driver/refactor b9727e5 rsalvador: Increased default page load timeout from 30 to 60 secs...
+[2013-12-17 11:00:51] ios-driver-git, leaving. (#ios-driver)
