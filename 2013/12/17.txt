@@ -41,3 +41,5 @@
 [2013-12-17 08:21:37] nicegraham: safariIphone.setCapability("variation", "Retina4");
 [2013-12-17 08:21:41] smohanat: let me look at the link
 [2013-12-17 08:23:16] nicegraham: https://github.com/ios-driver/ios-driver/blob/refactor/common/src/main/java/org/uiautomation/ios/IOSCapabilities.java?source=cc#L47
+[2013-12-17 08:25:11] smohanat: thx
+[2013-12-17 08:26:18] rsalvador, quitting. (Quit: Leaving.)
