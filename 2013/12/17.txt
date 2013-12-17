@@ -27,3 +27,5 @@
 [2013-12-17 07:42:36] nirvdrum: I haven't tried the branch out, so I can't say.
 [2013-12-17 07:42:45] nirvdrum: nicegraham or lukeis would be people to ask.
 [2013-12-17 07:43:56] smohanat: thx
+[2013-12-17 07:45:51] smohanat: org.openqa.selenium.SessionNotCreatedException: not a matching DeviceType string: Retina4
+[2013-12-17 07:49:51] nirvdrum: Try changing the variation instead?
