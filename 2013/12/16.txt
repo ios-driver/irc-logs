@@ -183,3 +183,4 @@
 [2013-12-16 15:42:49] ios-driver-git, leaving. (#ios-driver)
 [2013-12-16 15:42:49] ios-driver-git: ios-driver/refactor f556e76 rsalvador: Add more build info in the starting messages.
 [2013-12-16 15:45:52] smccarthy, quitting. (Remote host closed the connection)
+[2013-12-16 16:02:49] lukeis, quitting. (Quit: Leaving.)
