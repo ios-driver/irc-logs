@@ -147,3 +147,5 @@
 [2013-12-17 13:25:42] admc, quitting. (Quit: Leaving.)
 [2013-12-17 13:33:04] suvlad, joining. (#ios-driver)
 [2013-12-17 13:43:23] suvlad, quitting. (K-Lined)
+[2013-12-17 13:55:30] jlipps, quitting. (Quit: Leaving.)
+[2013-12-17 13:55:41] jlipps, joining. (#ios-driver)
