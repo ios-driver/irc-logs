@@ -140,3 +140,5 @@
 [2013-12-17 12:08:42] rsalvador: if you run the instruments command that ios-driver executes you'll see it works if safari.app is moved out and doesn't work if it is not moved out
 [2013-12-17 12:56:23] admc, joining. (#ios-driver)
 [2013-12-17 13:03:29] admc1, joining. (#ios-driver)
+[2013-12-17 13:05:38] admc, quitting. (Ping timeout: 264 seconds)
+[2013-12-17 13:07:13] jlipps: rsalvador:  interesting. i'll give it a shot. i know i tried running instruments on its own that way too.
