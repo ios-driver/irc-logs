@@ -171,3 +171,7 @@
 [2013-12-17 14:30:09] jlipps: it'd be interesting to get my hands on the ios-driver copy and see if it's different somehow than what i've built from i-w-d source
 [2013-12-17 14:30:11] jlipps: anyway, off to lunch, thanks
 [2013-12-17 14:32:15] smohanat_, quitting. (Ping timeout: 260 seconds)
+[2013-12-17 14:36:15] smccarthy2, quitting. (Read error: Connection reset by peer)
+[2013-12-17 14:36:45] smccarthy, joining. (#ios-driver)
+[2013-12-17 14:38:00] smccarthy, quitting. (Remote host closed the connection)
+[2013-12-17 14:38:34] smccarthy, joining. (#ios-driver)
