@@ -223,3 +223,5 @@
 [2013-12-17 17:39:54] rsalvador, quitting. (Client Quit)
 [2013-12-17 17:40:34] smccarthy, joining. (#ios-driver)
 [2013-12-17 18:19:26] jlipps, quitting. (Quit: Leaving.)
+[2013-12-17 19:03:40] jlipps, joining. (#ios-driver)
+[2013-12-17 19:03:47] jlipps, quitting. (Client Quit)
