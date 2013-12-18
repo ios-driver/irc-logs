@@ -157,3 +157,12 @@
 [2013-12-18 12:22:45] rsalvador1, joining. (#ios-driver)
 [2013-12-18 12:22:45] rsalvador, quitting. (Read error: Connection reset by peer)
 [2013-12-18 12:38:19] santiycr, quitting. (Quit: Leaving.)
+[2013-12-18 12:41:42] jack090: hey phasze try using sudo
+[2013-12-18 12:41:56] jack090: still get errors?
+[2013-12-18 12:42:01] Phasze: sudo java -jar etc...?
+[2013-12-18 12:42:18] jack090: yea
+[2013-12-18 12:42:44] jack090: also try changing port around
+[2013-12-18 12:42:49] jack090: maybe use like 7777
+[2013-12-18 12:42:53] jack090: instead of 5555
+[2013-12-18 12:43:12] Phasze: aight, trying sudo now
+[2013-12-18 12:43:28] jack090: I run selenium server on mine for the browsers in addition so I have to use different ports
