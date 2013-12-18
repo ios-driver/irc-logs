@@ -127,3 +127,4 @@
 [2013-12-18 09:09:37] jack090: I remember that's what they say in documentation somewhere
 [2013-12-18 09:09:44] jack090: or when it loads up or something
 [2013-12-18 09:11:01] rsalvador1, quitting. (Ping timeout: 248 seconds)
+[2013-12-18 09:16:45] smohanat, quitting. (Quit: smohanat)
