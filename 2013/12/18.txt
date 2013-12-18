@@ -2,3 +2,9 @@
 [2013-12-18 00:41:38] admc, quitting. (Read error: Connection reset by peer)
 [2013-12-18 00:47:07] admc, joining. (#ios-driver)
 [2013-12-18 01:59:05] admc, quitting. (Quit: Leaving.)
+[2013-12-18 02:20:24] ios-driver-git, joining. (#ios-driver)
+[2013-12-18 02:20:25] ios-driver-git: ios-driver/dev a51655e freynaud: Merge remote-tracking branch 'origin/dev' into refactor...
+[2013-12-18 02:20:25] ios-driver-git: ios-driver/dev 587f455 freynaud: adding missing setter
+[2013-12-18 02:20:25] ios-driver-git: [ios-driver] freynaud pushed 13 new commits to dev: http://git.io/KXot-A
+[2013-12-18 02:20:25] ios-driver-git: ios-driver/dev 5e3a70b freynaud: finishing refactoring
+[2013-12-18 02:20:25] ios-driver-git, leaving. (#ios-driver)
