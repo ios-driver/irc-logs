@@ -214,3 +214,4 @@
 [2013-12-18 13:19:33] jack090: and followed the "building" guide
 [2013-12-18 13:19:45] jack090: and it started working (at least for safari)
 [2013-12-18 13:19:50] jack090: I didn't try the app's
+[2013-12-18 13:28:36] smccarthy2, joining. (#ios-driver)
