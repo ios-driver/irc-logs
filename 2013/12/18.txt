@@ -29,3 +29,4 @@
 [2013-12-18 06:01:49] ios-driver-git, leaving. (#ios-driver)
 [2013-12-18 06:01:49] ios-driver-git: [ios-driver] freynaud deleted issue82 at ae70133: http://git.io/rnayaA
 [2013-12-18 06:03:18] smohanat, joining. (#ios-driver)
+[2013-12-18 06:31:19] santiycr, joining. (#ios-driver)
