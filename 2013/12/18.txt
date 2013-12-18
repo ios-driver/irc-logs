@@ -218,3 +218,5 @@
 [2013-12-18 13:32:10] smccarthy, quitting. (Ping timeout: 250 seconds)
 [2013-12-18 14:14:12] jack090, quitting. (Quit: Page closed)
 [2013-12-18 14:40:19] smccarthy2, quitting. (Remote host closed the connection)
+[2013-12-18 14:57:12] admc1, joining. (#ios-driver)
+[2013-12-18 14:58:00] admc, quitting. (Ping timeout: 252 seconds)
