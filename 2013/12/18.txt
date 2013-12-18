@@ -8,3 +8,6 @@
 [2013-12-18 02:20:25] ios-driver-git: [ios-driver] freynaud pushed 13 new commits to dev: http://git.io/KXot-A
 [2013-12-18 02:20:25] ios-driver-git: ios-driver/dev 5e3a70b freynaud: finishing refactoring
 [2013-12-18 02:20:25] ios-driver-git, leaving. (#ios-driver)
+[2013-12-18 02:33:02] ios-driver-git, joining. (#ios-driver)
+[2013-12-18 02:33:02] ios-driver-git: [ios-driver] freynaud closed pull request #180: Issue82 (dev...issue82) http://git.io/V_XsGQ
+[2013-12-18 02:33:02] ios-driver-git, leaving. (#ios-driver)
