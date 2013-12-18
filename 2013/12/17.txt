@@ -221,3 +221,4 @@
 [2013-12-17 17:22:13] rsalvador, quitting. (Ping timeout: 245 seconds)
 [2013-12-17 17:39:31] rsalvador, joining. (#ios-driver)
 [2013-12-17 17:39:54] rsalvador, quitting. (Client Quit)
+[2013-12-17 17:40:34] smccarthy, joining. (#ios-driver)
