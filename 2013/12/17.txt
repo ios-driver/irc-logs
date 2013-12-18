@@ -225,3 +225,4 @@
 [2013-12-17 18:19:26] jlipps, quitting. (Quit: Leaving.)
 [2013-12-17 19:03:40] jlipps, joining. (#ios-driver)
 [2013-12-17 19:03:47] jlipps, quitting. (Client Quit)
+[2013-12-17 19:27:46] admc, quitting. (Quit: Leaving.)
