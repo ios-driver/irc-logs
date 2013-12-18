@@ -173,3 +173,24 @@
 [2013-12-18 13:09:38] jack090: what os you running?
 [2013-12-18 13:09:42] jack090: maverick?
 [2013-12-18 13:09:47] jack090: or mountain lion
+[2013-12-18 13:10:06] Phasze: 10.9.1
+[2013-12-18 13:10:14] Phasze: whatever one that is
+[2013-12-18 13:11:54] lukeis: mavericks ;)
+[2013-12-18 13:12:27] jack090: so have you tried safari?
+[2013-12-18 13:12:29] lukeis: we're using mountain lion… don't have mavericks… so that could be another issue :)
+[2013-12-18 13:12:59] lukeis: (our IT dept. has not yet blessed mavericks for install anywhere)
+[2013-12-18 13:13:12] jack090: phasze I had to wipe my system clean earlier
+[2013-12-18 13:13:18] AutomatedTester: lukeis: neither has ours
+[2013-12-18 13:13:20] AutomatedTester: I think...
+[2013-12-18 13:13:27] AutomatedTester: but there are some who have updated anyway
+[2013-12-18 13:13:34] lukeis: we have a date though!… Jan. 6 i believe
+[2013-12-18 13:13:41] Phasze: jack090: wipe it clean?  reformat?
+[2013-12-18 13:13:43] jack090: I'm running Mavericks etc..
+[2013-12-18 13:13:50] jack090: yea I had a machine that just wouldn't work
+[2013-12-18 13:13:55] jack090: I think I saw similar errors
+[2013-12-18 13:13:58] lukeis: AutomatedTester: they blocked the update here :)
+[2013-12-18 13:14:10] AutomatedTester: They wouldnt do that here
+[2013-12-18 13:14:14] jack090: but I don't want to send you on a wild goose chase
+[2013-12-18 13:14:39] jack090: I have 3 macs and 2 worked just fine
+[2013-12-18 13:14:44] jack090: and 1 wouldn't work until I formatted it
+[2013-12-18 13:15:00] jack090: 2 have mavericks and 1 is on mountain lion
