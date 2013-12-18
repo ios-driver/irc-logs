@@ -139,3 +139,5 @@
 [2013-12-18 10:09:10] rsalvador: I have been using iOS 7 for safari only, but when I run the tests using "mvn clean verify" I see that many tests also launch the apps and pass
 [2013-12-18 10:11:13] Phasze: ah, mvn tests
 [2013-12-18 10:12:54] dgrace, joining. (#ios-driver)
+[2013-12-18 10:20:25] rsalvador: yes, any target that will run tests
+[2013-12-18 10:21:05] Phasze: is there anything else that needs to be passed to launch ios 6.1 instead of 7?  Right now I'm trying to just pass sdkVersion but it still launches 7.0.3 for some reason
