@@ -218,3 +218,4 @@
 [2013-12-17 16:03:04] admc, quitting. (Read error: Connection reset by peer)
 [2013-12-17 16:03:10] admc, joining. (#ios-driver)
 [2013-12-17 16:11:52] smccarthy, quitting. (Remote host closed the connection)
+[2013-12-17 17:22:13] rsalvador, quitting. (Ping timeout: 245 seconds)
