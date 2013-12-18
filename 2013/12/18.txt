@@ -14,3 +14,10 @@
 [2013-12-18 03:39:11] santiycr, joining. (#ios-driver)
 [2013-12-18 03:50:43] santiycr1, joining. (#ios-driver)
 [2013-12-18 03:53:23] santiycr, quitting. (Ping timeout: 265 seconds)
+[2013-12-18 05:52:17] santiycr1, quitting. (Quit: Leaving.)
+[2013-12-18 05:53:09] nirvdrum, joining. (#ios-driver)
+[2013-12-18 05:53:33] ios-driver-git, joining. (#ios-driver)
+[2013-12-18 05:53:33] ios-driver-git: [ios-driver] federicoviscomi pushed 1 new commit to dev: http://git.io/DngvOg
+[2013-12-18 05:53:33] ios-driver-git: ios-driver/dev 4b8952d Federico Viscomi: fixed issue 184
+[2013-12-18 05:53:33] ios-driver-git, leaving. (#ios-driver)
+[2013-12-18 05:53:58] santiycr, joining. (#ios-driver)
