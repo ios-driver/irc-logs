@@ -44,3 +44,4 @@
 [2013-12-18 08:08:39] nicegraham: btw - glad you got it working
 [2013-12-18 08:08:56] smohanat: yes will do it on the bug before i close it
 [2013-12-18 08:13:01] santiycr, joining. (#ios-driver)
+[2013-12-18 08:15:48] Phasze, leaving. (#ios-driver)
