@@ -134,3 +134,6 @@
 [2013-12-18 09:38:45] smccarthy, joining. (#ios-driver)
 [2013-12-18 09:56:44] dgrace, quitting. (*.net *.split)
 [2013-12-18 10:01:37] rsalvador: Most tests are passing now in the "refactor" branch with iOS 7, those include app tests in addition of safari. Try: mvn clean verify
+[2013-12-18 10:06:55] Phasze: rsalvador: app tests!? How you do this thing!?
+[2013-12-18 10:07:46] Phasze: maybe I need the latest refactor branch, mine currently starts the simulator, launches the app, closes the app, and closes the simulator
+[2013-12-18 10:09:10] rsalvador: I have been using iOS 7 for safari only, but when I run the tests using "mvn clean verify" I see that many tests also launch the apps and pass
