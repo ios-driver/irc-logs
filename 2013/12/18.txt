@@ -25,3 +25,7 @@
 [2013-12-18 05:58:43] ios-driver-git: [ios-driver] freynaud force-pushed dev from 4b8952d to fe5dc21: http://git.io/9xKjng
 [2013-12-18 05:58:43] ios-driver-git, joining. (#ios-driver)
 [2013-12-18 05:58:43] ios-driver-git, leaving. (#ios-driver)
+[2013-12-18 06:01:48] ios-driver-git, joining. (#ios-driver)
+[2013-12-18 06:01:49] ios-driver-git, leaving. (#ios-driver)
+[2013-12-18 06:01:49] ios-driver-git: [ios-driver] freynaud deleted issue82 at ae70133: http://git.io/rnayaA
+[2013-12-18 06:03:18] smohanat, joining. (#ios-driver)
