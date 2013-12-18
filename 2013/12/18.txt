@@ -132,3 +132,4 @@
 [2013-12-18 09:31:07] rsalvador, joining. (#ios-driver)
 [2013-12-18 09:38:11] smccarthy2, quitting. (Remote host closed the connection)
 [2013-12-18 09:38:45] smccarthy, joining. (#ios-driver)
+[2013-12-18 09:56:44] dgrace, quitting. (*.net *.split)
