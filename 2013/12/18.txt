@@ -61,3 +61,26 @@
 [2013-12-18 08:46:28] Phasze: and eventually my "new RemoteWebDriver()" call times out
 [2013-12-18 08:49:32] jack090: ohh yea
 [2013-12-18 08:49:48] jack090: I could never get the test "apps" when you build with maven to work
+[2013-12-18 08:50:02] jack090: I had to do -DskipTests
+[2013-12-18 08:50:05] Phasze: built with xcode
+[2013-12-18 08:50:26] jack090: can you manually open the app?
+[2013-12-18 08:50:37] Phasze: yup
+[2013-12-18 08:50:45] jack090: I would file a bug phasze
+[2013-12-18 08:50:57] jack090: I think someone was working on getting the "tests" when building to pass
+[2013-12-18 08:51:00] Phasze: if I could find anyone else who has even tried this......
+[2013-12-18 08:51:23] Phasze: it's just the bloody InternationalMountains test app
+[2013-12-18 08:51:32] jack090: I can get safari to work
+[2013-12-18 08:51:37] jack090: but haven't tried any apps
+[2013-12-18 08:51:55] Phasze: and apparently neither has anybody else who frequents this room :P
+[2013-12-18 08:52:14] Phasze: I keep hoping lukeis will have the answer some day for me ;)
+[2013-12-18 08:52:39] jack090: you could always use 6.1
+[2013-12-18 08:52:42] jack090: for the time being :-)
+[2013-12-18 08:52:44] lukeis: heh, you know i don't do iOS stuff anymore right? :-D  (I work on android full time basically)
+[2013-12-18 08:52:59] Phasze: that won't stop me from hoping!
+[2013-12-18 08:53:28] jack090: lukeis has to save his patience for me when I spam him for help on android
+[2013-12-18 08:53:31] Phasze: lukeis: what are you using for android automation anyway, appium?
+[2013-12-18 08:53:52] lukeis: no ;)
+[2013-12-18 08:53:54] lukeis: selendroid
+[2013-12-18 08:53:56] Phasze: maybe I should just switch to appium for ios....
+[2013-12-18 08:54:33] lukeis: from conversations yesterday in here, ios7 support is flakey there
+[2013-12-18 08:54:42] Phasze: :S
