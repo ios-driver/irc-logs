@@ -144,3 +144,5 @@
 [2013-12-18 10:37:54] Phasze: ah, got it working but I'm still plagued with the same issue of starting the app and closing right after....
 [2013-12-18 10:39:43] Phasze: I do have a better except this time though: http://pastebin.com/S3rY0qCJ
 [2013-12-18 11:22:35] santiycr, quitting. (Quit: Leaving.)
+[2013-12-18 11:30:45] rsalvador1, joining. (#ios-driver)
+[2013-12-18 11:30:45] rsalvador, quitting. (Read error: Connection reset by peer)
