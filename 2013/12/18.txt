@@ -146,3 +146,8 @@
 [2013-12-18 11:22:35] santiycr, quitting. (Quit: Leaving.)
 [2013-12-18 11:30:45] rsalvador1, joining. (#ios-driver)
 [2013-12-18 11:30:45] rsalvador, quitting. (Read error: Connection reset by peer)
+[2013-12-18 11:42:51] rsalvador, joining. (#ios-driver)
+[2013-12-18 11:42:51] rsalvador, quitting. (Read error: Connection reset by peer)
+[2013-12-18 11:42:51] rsalvador1, quitting. (Read error: Connection reset by peer)
+[2013-12-18 11:43:03] rsalvador, joining. (#ios-driver)
+[2013-12-18 11:44:18] santiycr, joining. (#ios-driver)
