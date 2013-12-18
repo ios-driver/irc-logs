@@ -216,3 +216,4 @@
 [2013-12-18 13:19:50] jack090: I didn't try the app's
 [2013-12-18 13:28:36] smccarthy2, joining. (#ios-driver)
 [2013-12-18 13:32:10] smccarthy, quitting. (Ping timeout: 250 seconds)
+[2013-12-18 14:14:12] jack090, quitting. (Quit: Page closed)
