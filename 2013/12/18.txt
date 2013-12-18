@@ -112,3 +112,7 @@
 [2013-12-18 08:59:32] jack090: then switch to ios7 when it gets more attention
 [2013-12-18 08:59:37] lukeis: if you really really care about the iron mountain app, I would first try and see if you can load it in xcode and build / deploy it ;)
 [2013-12-18 08:59:52] Phasze: that's where I did build it :P
+[2013-12-18 09:00:11] lukeis: ok then ;)
+[2013-12-18 09:00:57] Phasze: now I'm getting simulator session timed out today, just lovely
+[2013-12-18 09:02:35] smccarthy2, joining. (#ios-driver)
+[2013-12-18 09:03:47] Phasze: is there a quick way to get ios6.1 from xcode?
