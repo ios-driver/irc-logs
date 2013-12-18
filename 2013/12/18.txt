@@ -12,3 +12,5 @@
 [2013-12-18 02:33:02] ios-driver-git: [ios-driver] freynaud closed pull request #180: Issue82 (dev...issue82) http://git.io/V_XsGQ
 [2013-12-18 02:33:02] ios-driver-git, leaving. (#ios-driver)
 [2013-12-18 03:39:11] santiycr, joining. (#ios-driver)
+[2013-12-18 03:50:43] santiycr1, joining. (#ios-driver)
+[2013-12-18 03:53:23] santiycr, quitting. (Ping timeout: 265 seconds)
