@@ -167,3 +167,9 @@
 [2013-12-18 12:43:12] Phasze: aight, trying sudo now
 [2013-12-18 12:43:28] jack090: I run selenium server on mine for the browsers in addition so I have to use different ports
 [2013-12-18 12:48:42] admc, joining. (#ios-driver)
+[2013-12-18 13:09:01] Phasze: jack090: hmm, lots of simulator session timeouts still
+[2013-12-18 13:09:08] Phasze: both sudo and different port
+[2013-12-18 13:09:13] Phasze: maybe I just need a faster mac lol
+[2013-12-18 13:09:38] jack090: what os you running?
+[2013-12-18 13:09:42] jack090: maverick?
+[2013-12-18 13:09:47] jack090: or mountain lion
