@@ -54,3 +54,10 @@
 [2013-12-18 08:44:08] Phasze: sup jack090
 [2013-12-18 08:44:37] jack090: not much just playing configuration manager at my job today :-(
 [2013-12-18 08:44:52] jack090: I hate slapping developers around
+[2013-12-18 08:45:10] Phasze: lol, I just wish this bloody InternationalMountains app would work on grid....
+[2013-12-18 08:45:29] jack090: where's it blowing up at?
+[2013-12-18 08:46:00] Phasze: on launch
+[2013-12-18 08:46:12] Phasze: it starts up the IOS Simulator, starts the app, closes the app, then closes the simulator
+[2013-12-18 08:46:28] Phasze: and eventually my "new RemoteWebDriver()" call times out
+[2013-12-18 08:49:32] jack090: ohh yea
+[2013-12-18 08:49:48] jack090: I could never get the test "apps" when you build with maven to work
