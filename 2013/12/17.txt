@@ -213,3 +213,7 @@
 [2013-12-17 15:10:38] admc, quitting. (Client Quit)
 [2013-12-17 15:12:43] admc, joining. (#ios-driver)
 [2013-12-17 15:45:04] admc, quitting. (Quit: Leaving.)
+[2013-12-17 16:02:46] lukeis, quitting. (Quit: Leaving.)
+[2013-12-17 16:02:58] admc, joining. (#ios-driver)
+[2013-12-17 16:03:04] admc, quitting. (Read error: Connection reset by peer)
+[2013-12-17 16:03:10] admc, joining. (#ios-driver)
