@@ -49,3 +49,8 @@
 [2013-12-18 08:27:31] smccarthy, joining. (#ios-driver)
 [2013-12-18 08:27:49] lukeis, joining. (#ios-driver)
 [2013-12-18 08:32:46] Phasze, joining. (#ios-driver)
+[2013-12-18 08:43:37] jack090, joining. (#ios-driver)
+[2013-12-18 08:44:02] jack090: hello all
+[2013-12-18 08:44:08] Phasze: sup jack090
+[2013-12-18 08:44:37] jack090: not much just playing configuration manager at my job today :-(
+[2013-12-18 08:44:52] jack090: I hate slapping developers around
