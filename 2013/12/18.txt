@@ -84,3 +84,31 @@
 [2013-12-18 08:53:56] Phasze: maybe I should just switch to appium for ios....
 [2013-12-18 08:54:33] lukeis: from conversations yesterday in here, ios7 support is flakey there
 [2013-12-18 08:54:42] Phasze: :S
+[2013-12-18 08:55:05] Phasze: so you're saying I should just go to 6.1 anyway ? :P
+[2013-12-18 08:55:12] jack090: yea 6.1 works just fine
+[2013-12-18 08:55:14] lukeis: nope
+[2013-12-18 08:55:19] lukeis: but yeah
+[2013-12-18 08:55:32] Phasze: *searches for download link on this silly mac*
+[2013-12-18 08:55:45] jack090: for use the release version of ios-driver
+[2013-12-18 08:55:51] lukeis: you know others *do* have ios-driver working right?
+[2013-12-18 08:55:53] jack090: er..
+[2013-12-18 08:55:57] lukeis: for ios7
+[2013-12-18 08:56:04] Phasze: direct me to them lukeis
+[2013-12-18 08:56:24] jack090: I have it working on IOS7 using safari
+[2013-12-18 08:56:25] lukeis: you're using simulators though right?
+[2013-12-18 08:56:31] Phasze: yup
+[2013-12-18 08:56:34] Phasze: I have to apparently
+[2013-12-18 08:56:44] lukeis: yeah, seemingly
+[2013-12-18 08:57:08] lukeis: have you tried using your company's app rather than the iron mountain thing?
+[2013-12-18 08:57:22] Phasze: I just requested the .ipa or .app file
+[2013-12-18 08:57:24] lukeis: i doubt anyone else has tried to make it run in ios7
+[2013-12-18 08:57:35] jack090: i could never get the app's working when building with Maven
+[2013-12-18 08:57:57] lukeis: i only ever saw in run in ios6
+[2013-12-18 08:58:47] jack090: same lukeis
+[2013-12-18 08:58:51] Phasze: I was hoping to have a working test app before moving onto ours, but I may as well try ours heh
+[2013-12-18 08:58:54] jack090: I think it works on IO6
+[2013-12-18 08:59:12] jack090: phasze I would write your tests using the release version
+[2013-12-18 08:59:18] jack090: do everything you got to do
+[2013-12-18 08:59:32] jack090: then switch to ios7 when it gets more attention
+[2013-12-18 08:59:37] lukeis: if you really really care about the iron mountain app, I would first try and see if you can load it in xcode and build / deploy it ;)
+[2013-12-18 08:59:52] Phasze: that's where I did build it :P
