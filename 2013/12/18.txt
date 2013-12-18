@@ -39,3 +39,7 @@
 [2013-12-18 07:59:42] smohanat: Happy Holidays
 [2013-12-18 08:00:02] smohanat: I will close the couple of bugs i opned
 [2013-12-18 08:03:11] rsalvador, joining. (#ios-driver)
+[2013-12-18 08:08:22] rsalvador, leaving. (#ios-driver)
+[2013-12-18 08:08:31] nicegraham: smohanat: can you add whatever details fixed it for you - for others?
+[2013-12-18 08:08:39] nicegraham: btw - glad you got it working
+[2013-12-18 08:08:56] smohanat: yes will do it on the bug before i close it
