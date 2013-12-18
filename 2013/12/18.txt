@@ -133,3 +133,4 @@
 [2013-12-18 09:38:11] smccarthy2, quitting. (Remote host closed the connection)
 [2013-12-18 09:38:45] smccarthy, joining. (#ios-driver)
 [2013-12-18 09:56:44] dgrace, quitting. (*.net *.split)
+[2013-12-18 10:01:37] rsalvador: Most tests are passing now in the "refactor" branch with iOS 7, those include app tests in addition of safari. Try: mvn clean verify
