@@ -71,3 +71,5 @@
 [2013-12-19 13:11:26] jack090_: sorry was in a meeting :-)
 [2013-12-19 13:44:11] admc, quitting. (Quit: Leaving.)
 [2013-12-19 13:47:44] admc, joining. (#ios-driver)
+[2013-12-19 14:20:10] admc, quitting. (Quit: Leaving.)
+[2013-12-19 14:23:34] admc, joining. (#ios-driver)
