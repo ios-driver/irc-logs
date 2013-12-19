@@ -40,3 +40,5 @@
 [2013-12-19 09:19:20] jack090: I think this is it
 [2013-12-19 09:19:31] jack090: I'll come up with the exact commands and add them to our documentation
 [2013-12-19 09:19:56] nicegraham: cheers
+[2013-12-19 09:20:14] nicegraham: thers a piece on the faq page for that info
+[2013-12-19 09:20:33] jack090: kk I'll make sure it gets put there
