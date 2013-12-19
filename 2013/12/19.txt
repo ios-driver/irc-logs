@@ -4,3 +4,4 @@
 [2013-12-19 01:39:59] ios-driver-git: ios-driver/dev c9488c1 Federico Viscomi: fixed issue 184
 [2013-12-19 01:39:59] ios-driver-git, leaving. (#ios-driver)
 [2013-12-19 01:39:59] ios-driver-git: ios-driver/dev 282e135 freynaud: adding a session timeout for the tests
+[2013-12-19 05:45:23] nirvdrum, joining. (#ios-driver)
