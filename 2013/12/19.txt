@@ -8,3 +8,4 @@
 [2013-12-19 06:21:43] freynaud, quitting. (Read error: Connection reset by peer)
 [2013-12-19 06:23:26] freynaud, joining. (#ios-driver)
 [2013-12-19 07:35:28] ddary, joining. (#ios-driver)
+[2013-12-19 07:40:42] freynaud, quitting. (Ping timeout: 250 seconds)
