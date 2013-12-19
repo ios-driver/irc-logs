@@ -12,3 +12,4 @@
 [2013-12-19 08:14:19] smccarthy, joining. (#ios-driver)
 [2013-12-19 08:21:10] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-12-19 08:27:56] jack090, joining. (#ios-driver)
+[2013-12-19 08:44:19] rsalvador, joining. (#ios-driver)
