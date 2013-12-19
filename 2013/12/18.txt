@@ -231,3 +231,4 @@
 [2013-12-18 21:10:53] smccarthy, quitting. (Remote host closed the connection)
 [2013-12-18 22:07:53] nirvdrum, joining. (#ios-driver)
 [2013-12-18 22:22:15] nirvdrum, quitting. (Ping timeout: 260 seconds)
+[2013-12-18 23:03:44] admc, quitting. (Quit: Leaving.)
