@@ -57,3 +57,5 @@
 [2013-12-19 11:13:20] jack090: hrm.. it's dieing on my SendKeys command to an Iphone driver
 [2013-12-19 11:13:33] jack090: works fine on Ipad
 [2013-12-19 11:14:39] admc, joining. (#ios-driver)
+[2013-12-19 11:31:28] admc, quitting. (Quit: Leaving.)
+[2013-12-19 11:34:09] jack090, quitting. (Ping timeout: 272 seconds)
