@@ -70,3 +70,4 @@
 [2013-12-19 13:11:20] jack090_: nicegraham: Yes it was Safari
 [2013-12-19 13:11:26] jack090_: sorry was in a meeting :-)
 [2013-12-19 13:44:11] admc, quitting. (Quit: Leaving.)
+[2013-12-19 13:47:44] admc, joining. (#ios-driver)
