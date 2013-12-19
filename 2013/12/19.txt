@@ -67,3 +67,5 @@
 [2013-12-19 12:09:54] freynaud, joining. (#ios-driver)
 [2013-12-19 12:15:42] freynaud, quitting. (Quit: freynaud)
 [2013-12-19 12:30:41] admc, joining. (#ios-driver)
+[2013-12-19 13:11:20] jack090_: nicegraham: Yes it was Safari
+[2013-12-19 13:11:26] jack090_: sorry was in a meeting :-)
