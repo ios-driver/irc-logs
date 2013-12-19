@@ -73,3 +73,4 @@
 [2013-12-19 13:47:44] admc, joining. (#ios-driver)
 [2013-12-19 14:20:10] admc, quitting. (Quit: Leaving.)
 [2013-12-19 14:23:34] admc, joining. (#ios-driver)
+[2013-12-19 15:04:03] smccarthy, quitting. (Ping timeout: 272 seconds)
