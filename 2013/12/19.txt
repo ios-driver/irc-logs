@@ -54,3 +54,6 @@
 [2013-12-19 11:04:11] jack090: I'll wait and see if I get prompted later tonight
 [2013-12-19 11:09:15] admc, quitting. (Read error: Connection reset by peer)
 [2013-12-19 11:09:52] jack090: nicegraham have you ever had a message like this: tap point is not within the bounds of the screen?
+[2013-12-19 11:13:20] jack090: hrm.. it's dieing on my SendKeys command to an Iphone driver
+[2013-12-19 11:13:33] jack090: works fine on Ipad
+[2013-12-19 11:14:39] admc, joining. (#ios-driver)
