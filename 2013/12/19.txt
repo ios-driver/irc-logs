@@ -52,3 +52,5 @@
 [2013-12-19 11:03:42] jack090: I think that is what does it
 [2013-12-19 11:03:58] jack090: I don't want to put that in the documentation yet as I don't know 100% if it takes care of it
 [2013-12-19 11:04:11] jack090: I'll wait and see if I get prompted later tonight
+[2013-12-19 11:09:15] admc, quitting. (Read error: Connection reset by peer)
+[2013-12-19 11:09:52] jack090: nicegraham have you ever had a message like this: tap point is not within the bounds of the screen?
