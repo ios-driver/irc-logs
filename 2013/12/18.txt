@@ -223,3 +223,4 @@
 [2013-12-18 15:40:16] admc1, quitting. (Quit: Leaving.)
 [2013-12-18 15:59:08] lukeis, quitting. (Quit: Leaving.)
 [2013-12-18 16:35:09] admc, joining. (#ios-driver)
+[2013-12-18 16:51:07] rsalvador1, quitting. (Quit: Leaving.)
