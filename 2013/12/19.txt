@@ -47,3 +47,4 @@
 [2013-12-19 09:34:26] freynaud, joining. (#ios-driver)
 [2013-12-19 09:39:18] freynaud, quitting. (Client Quit)
 [2013-12-19 09:53:46] rsalvador: I don't know
+[2013-12-19 10:34:15] admc, joining. (#ios-driver)
