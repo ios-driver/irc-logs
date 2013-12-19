@@ -1,1 +1,6 @@
 [2013-12-19 01:30:04] freynaud, joining. (#ios-driver)
+[2013-12-19 01:39:59] ios-driver-git, joining. (#ios-driver)
+[2013-12-19 01:39:59] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to dev: http://git.io/QhgTnA
+[2013-12-19 01:39:59] ios-driver-git: ios-driver/dev c9488c1 Federico Viscomi: fixed issue 184
+[2013-12-19 01:39:59] ios-driver-git, leaving. (#ios-driver)
+[2013-12-19 01:39:59] ios-driver-git: ios-driver/dev 282e135 freynaud: adding a session timeout for the tests
