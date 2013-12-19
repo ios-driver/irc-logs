@@ -48,3 +48,7 @@
 [2013-12-19 09:39:18] freynaud, quitting. (Client Quit)
 [2013-12-19 09:53:46] rsalvador: I don't know
 [2013-12-19 10:34:15] admc, joining. (#ios-driver)
+[2013-12-19 11:03:37] jack090: sudo security authorizationdb write system.privilege.taskport allow
+[2013-12-19 11:03:42] jack090: I think that is what does it
+[2013-12-19 11:03:58] jack090: I don't want to put that in the documentation yet as I don't know 100% if it takes care of it
+[2013-12-19 11:04:11] jack090: I'll wait and see if I get prompted later tonight
