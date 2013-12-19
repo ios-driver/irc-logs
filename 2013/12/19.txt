@@ -60,3 +60,4 @@
 [2013-12-19 11:31:28] admc, quitting. (Quit: Leaving.)
 [2013-12-19 11:34:09] jack090, quitting. (Ping timeout: 272 seconds)
 [2013-12-19 11:38:42] jack090_, joining. (#ios-driver)
+[2013-12-19 11:49:09] Phasze, leaving. (#ios-driver)
