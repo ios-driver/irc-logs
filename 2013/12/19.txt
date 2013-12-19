@@ -64,3 +64,4 @@
 [2013-12-19 11:52:17] nicegraham: jack090: safari?
 [2013-12-19 11:53:06] nicegraham: freynaud told me something changed with the url bar and it wasn't being accounted for in the coordinate calculations - it might be related
 [2013-12-19 11:57:16] Phasze, joining. (#ios-driver)
+[2013-12-19 12:09:54] freynaud, joining. (#ios-driver)
