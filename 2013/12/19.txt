@@ -61,3 +61,5 @@
 [2013-12-19 11:34:09] jack090, quitting. (Ping timeout: 272 seconds)
 [2013-12-19 11:38:42] jack090_, joining. (#ios-driver)
 [2013-12-19 11:49:09] Phasze, leaving. (#ios-driver)
+[2013-12-19 11:52:17] nicegraham: jack090: safari?
+[2013-12-19 11:53:06] nicegraham: freynaud told me something changed with the url bar and it wasn't being accounted for in the coordinate calculations - it might be related
