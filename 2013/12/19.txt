@@ -16,3 +16,27 @@
 [2013-12-19 08:51:29] jack090: hello everyone
 [2013-12-19 08:54:55] nicegraham: hey
 [2013-12-19 08:56:09] lukeis, joining. (#ios-driver)
+[2013-12-19 09:16:53] jack090: nicegraham do you remember what I need to do to make the prompt asking for a password to run ios-driver?
+[2013-12-19 09:17:06] jack090: er.. when a test starts (aka at night when I'm not around)
+[2013-12-19 09:17:07] nicegraham: to make it go away?
+[2013-12-19 09:17:10] jack090: yea
+[2013-12-19 09:17:18] jack090: to make sure it has permissions all the time
+[2013-12-19 09:17:18] nicegraham: are you on mavericks?
+[2013-12-19 09:17:20] jack090: yuo
+[2013-12-19 09:17:22] jack090: yup
+[2013-12-19 09:17:26] nicegraham: then no
+[2013-12-19 09:17:30] jack090: :-(
+[2013-12-19 09:17:30] nicegraham: it's changed
+[2013-12-19 09:17:33] jack090: boo
+[2013-12-19 09:17:38] nicegraham: it used to the authorization file
+[2013-12-19 09:17:40] jack090: I did it on mountain lion
+[2013-12-19 09:17:49] nicegraham: but now there's a db somewhere apparently
+[2013-12-19 09:17:49] jack090: yea that's what I did
+[2013-12-19 09:18:03] jack090: hrm.. I'll look it up
+[2013-12-19 09:18:08] nicegraham: rsalvador: do you know?
+[2013-12-19 09:18:09] jack090: I definitely need it
+[2013-12-19 09:18:19] nicegraham: freynaud knows but he's not on...
+[2013-12-19 09:19:15] jack090: http://www.afp548.com/2013/10/22/modifying-the-os-x-mavericks-authorization-database/
+[2013-12-19 09:19:20] jack090: I think this is it
+[2013-12-19 09:19:31] jack090: I'll come up with the exact commands and add them to our documentation
+[2013-12-19 09:19:56] nicegraham: cheers
