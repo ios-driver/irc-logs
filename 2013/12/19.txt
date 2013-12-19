@@ -42,3 +42,6 @@
 [2013-12-19 09:19:56] nicegraham: cheers
 [2013-12-19 09:20:14] nicegraham: thers a piece on the faq page for that info
 [2013-12-19 09:20:33] jack090: kk I'll make sure it gets put there
+[2013-12-19 09:31:51] nirvdrum, quitting. (Ping timeout: 240 seconds)
+[2013-12-19 09:32:24] nirvdrum, joining. (#ios-driver)
+[2013-12-19 09:34:26] freynaud, joining. (#ios-driver)
