@@ -3,3 +3,5 @@
 [2013-12-20 01:08:14] phasze, quitting. (Ping timeout: 240 seconds)
 [2013-12-20 01:11:25] phasze, joining. (#ios-driver)
 [2013-12-20 01:29:41] admc1, quitting. (Quit: Leaving.)
+[2013-12-20 02:10:12] phasze1, joining. (#ios-driver)
+[2013-12-20 02:11:02] phasze, quitting. (Ping timeout: 240 seconds)
