@@ -10,3 +10,4 @@
 [2013-12-20 04:10:45] dgrace, leaving. (#ios-driver)
 [2013-12-20 06:28:17] smccarthy, joining. (#ios-driver)
 [2013-12-20 07:36:24] rsalvador, joining. (#ios-driver)
+[2013-12-20 07:48:40] nirvdrum, joining. (#ios-driver)
