@@ -12,3 +12,4 @@
 [2013-12-20 07:36:24] rsalvador, joining. (#ios-driver)
 [2013-12-20 07:48:40] nirvdrum, joining. (#ios-driver)
 [2013-12-20 08:25:48] lukeis, joining. (#ios-driver)
+[2013-12-20 09:03:18] admc, joining. (#ios-driver)
