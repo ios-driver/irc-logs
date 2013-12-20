@@ -1,2 +1,3 @@
 [2013-12-20 00:20:36] admc1, joining. (#ios-driver)
 [2013-12-20 00:20:37] admc, quitting. (Read error: Connection reset by peer)
+[2013-12-20 01:08:14] phasze, quitting. (Ping timeout: 240 seconds)
