@@ -88,3 +88,5 @@
 [2013-12-19 20:42:14] admc, quitting. (Quit: Leaving.)
 [2013-12-19 21:02:31] admc, joining. (#ios-driver)
 [2013-12-19 21:26:49] admc, quitting. (Quit: Leaving.)
+[2013-12-19 21:36:05] nirvdrum, quitting. (Ping timeout: 272 seconds)
+[2013-12-19 21:39:06] admc, joining. (#ios-driver)
