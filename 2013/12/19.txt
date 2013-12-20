@@ -91,3 +91,4 @@
 [2013-12-19 21:36:05] nirvdrum, quitting. (Ping timeout: 272 seconds)
 [2013-12-19 21:39:06] admc, joining. (#ios-driver)
 [2013-12-19 22:01:43] smccarthy, quitting. (Remote host closed the connection)
+[2013-12-19 23:54:40] Phasze, quitting. (Read error: Connection reset by peer)
