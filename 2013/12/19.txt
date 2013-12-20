@@ -82,3 +82,4 @@
 [2013-12-19 16:23:07] admc, quitting. (Client Quit)
 [2013-12-19 17:01:32] admc, joining. (#ios-driver)
 [2013-12-19 18:20:12] admc, quitting. (Quit: Leaving.)
+[2013-12-19 18:51:06] rsalvador, quitting. (Ping timeout: 252 seconds)
