@@ -19,3 +19,4 @@
 [2013-12-20 12:04:25] santiycr, joining. (#ios-driver)
 [2013-12-20 12:20:16] smccarthy, quitting. (Remote host closed the connection)
 [2013-12-20 12:35:13] admc, joining. (#ios-driver)
+[2013-12-20 12:43:22] rsalvador, joining. (#ios-driver)
