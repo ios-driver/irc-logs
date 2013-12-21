@@ -5,3 +5,4 @@
 [2013-12-21 08:21:05] smccarthy, joining. (#ios-driver)
 [2013-12-21 09:10:41] santiycr, joining. (#ios-driver)
 [2013-12-21 09:11:39] santiycr, quitting. (Client Quit)
+[2013-12-21 10:41:05] nirvdrum, quitting. (Read error: No route to host)
