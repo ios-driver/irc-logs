@@ -2,3 +2,4 @@
 [2013-12-21 05:50:19] santiycr, quitting. (Quit: Leaving.)
 [2013-12-21 06:24:37] santiycr, joining. (#ios-driver)
 [2013-12-21 06:35:49] santiycr, quitting. (Quit: Leaving.)
+[2013-12-21 08:21:05] smccarthy, joining. (#ios-driver)
