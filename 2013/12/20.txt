@@ -38,3 +38,5 @@
 [2013-12-20 17:11:52] nirvdrum, joining. (#ios-driver)
 [2013-12-20 17:24:22] santiycr, quitting. (Quit: Leaving.)
 [2013-12-20 17:58:49] smccarthy, joining. (#ios-driver)
+[2013-12-20 20:00:34] smccarthy, quitting. (Remote host closed the connection)
+[2013-12-20 20:01:57] smccarthy, joining. (#ios-driver)
