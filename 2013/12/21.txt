@@ -10,3 +10,4 @@
 [2013-12-21 15:30:34] phasze, quitting. (Read error: Connection reset by peer)
 [2013-12-21 15:31:30] phasze, joining. (#ios-driver)
 [2013-12-21 17:03:33] admc, joining. (#ios-driver)
+[2013-12-21 17:25:15] admc, quitting. (Quit: Leaving.)
