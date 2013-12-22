@@ -7,3 +7,4 @@
 [2013-12-22 11:37:19] freynaud, joining. (#ios-driver)
 [2013-12-22 11:39:32] freynaud, quitting. (Client Quit)
 [2013-12-22 11:49:11] nicegraham, quitting. (Ping timeout: 246 seconds)
+[2013-12-22 11:50:30] nicegraham, joining. (#ios-driver)
