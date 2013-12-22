@@ -1,2 +1,3 @@
 [2013-12-22 01:58:26] dgrace, joining. (#ios-driver)
 [2013-12-22 01:58:40] dgrace, leaving. (#ios-driver)
+[2013-12-22 09:14:24] freynaud, joining. (#ios-driver)
