@@ -2,3 +2,4 @@
 [2013-12-22 01:58:40] dgrace, leaving. (#ios-driver)
 [2013-12-22 09:14:24] freynaud, joining. (#ios-driver)
 [2013-12-22 09:15:21] freynaud, quitting. (Client Quit)
+[2013-12-22 10:43:47] admc, joining. (#ios-driver)
