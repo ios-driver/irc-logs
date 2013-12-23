@@ -10,3 +10,4 @@
 [2013-12-22 11:50:30] nicegraham, joining. (#ios-driver)
 [2013-12-22 18:13:09] nirvdrum, joining. (#ios-driver)
 [2013-12-22 23:08:59] nirvdrum, quitting. (Ping timeout: 260 seconds)
+[2013-12-22 23:39:49] admc, joining. (#ios-driver)
