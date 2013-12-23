@@ -11,3 +11,5 @@
 [2013-12-23 11:26:23] admc, quitting. (*.net *.split)
 [2013-12-23 11:26:23] psp250, quitting. (*.net *.split)
 [2013-12-23 11:26:24] nirvdrum, quitting. (*.net *.split)
+[2013-12-23 11:33:28] nirvdrum, joining. (#ios-driver)
+[2013-12-23 11:34:59] psp250, joining. (#ios-driver)
