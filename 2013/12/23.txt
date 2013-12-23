@@ -8,3 +8,6 @@
 [2013-12-23 08:49:06] santiycr, quitting. (Client Quit)
 [2013-12-23 10:51:17] admc, joining. (#ios-driver)
 [2013-12-23 11:18:13] admc1, joining. (#ios-driver)
+[2013-12-23 11:26:23] admc, quitting. (*.net *.split)
+[2013-12-23 11:26:23] psp250, quitting. (*.net *.split)
+[2013-12-23 11:26:24] nirvdrum, quitting. (*.net *.split)
