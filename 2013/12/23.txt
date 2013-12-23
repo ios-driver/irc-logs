@@ -4,3 +4,5 @@
 [2013-12-23 06:53:16] smccarthy, joining. (#ios-driver)
 [2013-12-23 07:28:07] nirvdrum, joining. (#ios-driver)
 [2013-12-23 08:07:40] psp250, joining. (#ios-driver)
+[2013-12-23 08:48:36] santiycr, joining. (#ios-driver)
+[2013-12-23 08:49:06] santiycr, quitting. (Client Quit)
