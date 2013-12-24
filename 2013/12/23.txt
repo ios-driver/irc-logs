@@ -22,3 +22,4 @@
 [2013-12-23 16:35:25] nirvdrum, joining. (#ios-driver)
 [2013-12-23 17:02:46] admc1, joining. (#ios-driver)
 [2013-12-23 17:05:50] admc, quitting. (Ping timeout: 240 seconds)
+[2013-12-23 17:18:04] admc1, quitting. (Quit: Leaving.)
