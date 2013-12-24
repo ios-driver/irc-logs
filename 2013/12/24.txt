@@ -5,3 +5,4 @@
 [2013-12-24 02:44:52] admc, quitting. (Quit: Leaving.)
 [2013-12-24 06:28:49] smccarthy, joining. (#ios-driver)
 [2013-12-24 06:46:43] nirvdrum, joining. (#ios-driver)
+[2013-12-24 09:16:44] psp250, quitting. (Ping timeout: 260 seconds)
