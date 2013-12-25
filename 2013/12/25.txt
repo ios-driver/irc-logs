@@ -1,2 +1,3 @@
 [2013-12-25 01:18:21] freynaud, joining. (#ios-driver)
 [2013-12-25 01:24:06] freynaud, quitting. (Quit: freynaud)
+[2013-12-25 09:41:40] smccarthy, joining. (#ios-driver)
