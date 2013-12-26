@@ -23,3 +23,5 @@
 [2013-12-26 15:01:54] santiycr, quitting. (Quit: Leaving.)
 [2013-12-26 15:17:29] santiycr, joining. (#ios-driver)
 [2013-12-26 15:18:35] santiycr1, joining. (#ios-driver)
+[2013-12-26 15:21:50] santiycr, quitting. (Ping timeout: 240 seconds)
+[2013-12-26 15:22:47] santiycr1, quitting. (Client Quit)
