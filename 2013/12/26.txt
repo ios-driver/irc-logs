@@ -16,3 +16,7 @@
 [2013-12-26 14:44:48] santiycr, joining. (#ios-driver)
 [2013-12-26 14:51:23] santiycr, quitting. (Read error: Connection reset by peer)
 [2013-12-26 14:51:36] santiycr, joining. (#ios-driver)
+[2013-12-26 14:55:36] santiycr, quitting. (Read error: Connection reset by peer)
+[2013-12-26 14:55:49] santiycr, joining. (#ios-driver)
+[2013-12-26 14:56:05] santiycr, quitting. (Read error: Connection reset by peer)
+[2013-12-26 14:56:20] santiycr, joining. (#ios-driver)
