@@ -5,3 +5,4 @@
 [2013-12-27 00:43:49] rsalvador, joining. (#ios-driver)
 [2013-12-27 00:48:53] rsalvador, quitting. (Quit: Leaving.)
 [2013-12-27 00:49:13] rsalvador, joining. (#ios-driver)
+[2013-12-27 01:32:13] rsalvador: :log
