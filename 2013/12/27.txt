@@ -46,3 +46,4 @@
 [2013-12-27 11:53:59] freynaud, joining. (#ios-driver)
 [2013-12-27 11:59:50] freynaud, quitting. (Ping timeout: 240 seconds)
 [2013-12-27 12:09:07] santiycr, quitting. (Quit: Leaving.)
+[2013-12-27 12:13:20] santiycr, joining. (#ios-driver)
