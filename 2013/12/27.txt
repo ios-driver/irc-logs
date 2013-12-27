@@ -22,3 +22,5 @@
 [2013-12-27 05:49:42] nirvdrum, joining. (#ios-driver)
 [2013-12-27 05:51:23] rsalvador1, leaving. (#ios-driver)
 [2013-12-27 06:11:20] rsalvador, joining. (#ios-driver)
+[2013-12-27 06:26:24] rsalvador1, joining. (#ios-driver)
+[2013-12-27 06:29:03] rsalvador, quitting. (Ping timeout: 240 seconds)
