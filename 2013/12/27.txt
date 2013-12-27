@@ -38,3 +38,4 @@
 [2013-12-27 08:42:02] rsalvador, leaving. (#ios-driver)
 [2013-12-27 09:04:14] rsalvador1, joining. (#ios-driver)
 [2013-12-27 09:12:45] rsalvador1, leaving. (#ios-driver)
+[2013-12-27 09:56:42] santiycr, joining. (#ios-driver)
