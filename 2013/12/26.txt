@@ -26,3 +26,6 @@
 [2013-12-26 15:21:50] santiycr, quitting. (Ping timeout: 240 seconds)
 [2013-12-26 15:22:47] santiycr1, quitting. (Client Quit)
 [2013-12-26 16:56:59] smccarthy, quitting. (Ping timeout: 252 seconds)
+[2013-12-26 20:28:32] nicegraham_, joining. (#ios-driver)
+[2013-12-26 20:29:25] nicegraham, quitting. (Ping timeout: 240 seconds)
+[2013-12-26 20:29:30] nicegraham_, changing nick to nicegraham.
