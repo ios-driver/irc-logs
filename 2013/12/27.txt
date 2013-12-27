@@ -6,3 +6,7 @@
 [2013-12-27 00:48:53] rsalvador, quitting. (Quit: Leaving.)
 [2013-12-27 00:49:13] rsalvador, joining. (#ios-driver)
 [2013-12-27 01:32:13] rsalvador: :log
+[2013-12-27 03:33:36] rsalvador, quitting. (Quit: Leaving.)
+[2013-12-27 03:34:06] rsalvador, joining. (#ios-driver)
+[2013-12-27 03:34:31] rsalvador1, joining. (#ios-driver)
+[2013-12-27 03:34:38] rsalvador, quitting. (Read error: Connection reset by peer)
