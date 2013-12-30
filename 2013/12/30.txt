@@ -1,2 +1,6 @@
 [2013-12-30 00:04:27] rsalvador, joining. (#ios-driver)
 [2013-12-30 00:06:00] rsalvador, leaving. (#ios-driver)
+[2013-12-30 02:50:31] rsalvador, joining. (#ios-driver)
+[2013-12-30 02:50:43] rsalvador, quitting. (Client Quit)
+[2013-12-30 02:51:05] rsalvador, joining. (#ios-driver)
+[2013-12-30 02:51:22] rsalvador, leaving. (#ios-driver)
