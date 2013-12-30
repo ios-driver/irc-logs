@@ -8,3 +8,5 @@
 [2013-12-30 05:46:06] rsalvador, leaving. (#ios-driver)
 [2013-12-30 06:42:40] jack090, joining. (#ios-driver)
 [2013-12-30 07:16:15] smccarthy, joining. (#ios-driver)
+[2013-12-30 07:38:13] jack090, quitting. (Ping timeout: 272 seconds)
+[2013-12-30 07:38:27] jack090, joining. (#ios-driver)
