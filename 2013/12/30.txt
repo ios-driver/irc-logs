@@ -34,3 +34,5 @@
 [2013-12-30 13:31:02] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to refactor: http://git.io/fKDaOg
 [2013-12-30 13:31:02] ios-driver-git, leaving. (#ios-driver)
 [2013-12-30 13:31:02] ios-driver-git: ios-driver/refactor 3367728 Luke Inman-Semerau: updating the selenium atoms and removing a few references to ones that aren't in the selenium project anymore and aren't used in ios-driver either
+[2013-12-30 14:03:28] smccarthy2, quitting. (Remote host closed the connection)
+[2013-12-30 14:04:54] smccarthy, joining. (#ios-driver)
