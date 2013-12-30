@@ -30,3 +30,7 @@
 [2013-12-30 12:04:29] smccarthy, quitting. (Ping timeout: 272 seconds)
 [2013-12-30 12:06:59] rsalvador, quitting. (Ping timeout: 260 seconds)
 [2013-12-30 12:24:10] rsalvador, joining. (#ios-driver)
+[2013-12-30 13:31:02] ios-driver-git, joining. (#ios-driver)
+[2013-12-30 13:31:02] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to refactor: http://git.io/fKDaOg
+[2013-12-30 13:31:02] ios-driver-git, leaving. (#ios-driver)
+[2013-12-30 13:31:02] ios-driver-git: ios-driver/refactor 3367728 Luke Inman-Semerau: updating the selenium atoms and removing a few references to ones that aren't in the selenium project anymore and aren't used in ios-driver either
