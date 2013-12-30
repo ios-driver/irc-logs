@@ -17,3 +17,4 @@
 [2013-12-30 09:08:17] rsalvador, leaving. (#ios-driver)
 [2013-12-30 09:53:17] smccarthy2, quitting. (Remote host closed the connection)
 [2013-12-30 09:53:52] smccarthy, joining. (#ios-driver)
+[2013-12-30 10:14:52] elenag, joining. (#ios-driver)
