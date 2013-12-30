@@ -6,3 +6,4 @@
 [2013-12-30 02:51:22] rsalvador, leaving. (#ios-driver)
 [2013-12-30 05:45:14] rsalvador, joining. (#ios-driver)
 [2013-12-30 05:46:06] rsalvador, leaving. (#ios-driver)
+[2013-12-30 06:42:40] jack090, joining. (#ios-driver)
