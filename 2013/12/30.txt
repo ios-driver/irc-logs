@@ -25,3 +25,6 @@
 [2013-12-30 10:25:21] dmedvedskiy, joining. (#ios-driver)
 [2013-12-30 10:27:34] dmedvedskiy, quitting. (Remote host closed the connection)
 [2013-12-30 11:25:35] rsalvador, quitting. (Ping timeout: 246 seconds)
+[2013-12-30 12:00:40] smccarthy2, joining. (#ios-driver)
+[2013-12-30 12:01:12] rsalvador, joining. (#ios-driver)
+[2013-12-30 12:04:29] smccarthy, quitting. (Ping timeout: 272 seconds)
