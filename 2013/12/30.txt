@@ -43,3 +43,4 @@
 [2013-12-30 16:28:56] smccarthy, joining. (#ios-driver)
 [2013-12-30 18:19:59] clearwaterru, joining. (#ios-driver)
 [2013-12-30 18:29:01] clearwaterru, quitting. (Remote host closed the connection)
+[2013-12-30 19:29:51] nirvdrum, quitting. (Read error: Connection reset by peer)
