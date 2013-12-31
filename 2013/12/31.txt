@@ -1,3 +1,4 @@
 [2013-12-31 07:27:16] smccarthy, joining. (#ios-driver)
 [2013-12-31 07:49:19] niktoshka, joining. (#ios-driver)
 [2013-12-31 08:01:42] niktoshka, quitting. (K-Lined)
+[2013-12-31 13:49:16] jack090, quitting. (Quit: Page closed)
