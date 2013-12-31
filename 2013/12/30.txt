@@ -42,3 +42,4 @@
 [2013-12-30 15:21:22] rsalvador, quitting. (Quit: Leaving.)
 [2013-12-30 16:28:56] smccarthy, joining. (#ios-driver)
 [2013-12-30 18:19:59] clearwaterru, joining. (#ios-driver)
+[2013-12-30 18:29:01] clearwaterru, quitting. (Remote host closed the connection)
