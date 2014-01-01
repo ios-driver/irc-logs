@@ -4,3 +4,4 @@
 [2013-12-31 13:49:16] jack090, quitting. (Quit: Page closed)
 [2013-12-31 14:57:18] santiycr, joining. (#ios-driver)
 [2013-12-31 15:06:43] santiycr, quitting. (Quit: Leaving.)
+[2013-12-31 20:34:45] smccarthy, quitting. (Remote host closed the connection)
