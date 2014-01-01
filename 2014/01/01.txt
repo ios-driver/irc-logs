@@ -1,3 +1,4 @@
 [2014-01-01 11:11:44] smccarthy, joining. (#ios-driver)
 [2014-01-01 11:58:20] phasze, quitting. (*.net *.split)
 [2014-01-01 11:58:58] phasze, joining. (#ios-driver)
+[2014-01-01 14:56:27] admc, joining. (#ios-driver)
