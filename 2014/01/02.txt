@@ -1,3 +1,8 @@
 [2014-01-02 00:37:49] rsalvador, joining. (#ios-driver)
 [2014-01-02 00:38:09] rsalvador, leaving. (#ios-driver)
 [2014-01-02 02:31:13] rsalvador, joining. (#ios-driver)
+[2014-01-02 02:48:11] ios-driver-git, joining. (#ios-driver)
+[2014-01-02 02:48:11] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/lOD9WQ
+[2014-01-02 02:48:11] ios-driver-git: ios-driver/refactor a3db138 rsalvador: Fixed GET_SIZE in IosAtoms.java
+[2014-01-02 02:48:11] ios-driver-git, leaving. (#ios-driver)
+[2014-01-02 02:49:33] rsalvador, leaving. (#ios-driver)
