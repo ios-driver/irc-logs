@@ -46,3 +46,7 @@
 [2014-01-02 09:56:10] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to refactor: http://git.io/GL_KfQ
 [2014-01-02 09:56:10] ios-driver-git: ios-driver/refactor e98e1c6 Luke Inman-Semerau: fixing get_element_size build target in selenium and adding updating the atom accordingly....
 [2014-01-02 09:56:10] ios-driver-git, leaving. (#ios-driver)
+[2014-01-02 10:56:21] jlipps, joining. (#ios-driver)
+[2014-01-02 10:56:43] gdennis1, joining. (#ios-driver)
+[2014-01-02 10:57:13] gdennis, quitting. (Ping timeout: 272 seconds)
+[2014-01-02 10:57:24] gdennis1, quitting. (Client Quit)
