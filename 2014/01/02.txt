@@ -62,3 +62,4 @@
 [2014-01-02 14:18:45] nicegraham, quitting. (Ping timeout: 245 seconds)
 [2014-01-02 14:20:40] nicegraham_, joining. (#ios-driver)
 [2014-01-02 14:27:51] santiycr, quitting. (Quit: Leaving.)
+[2014-01-02 14:51:42] santiycr, joining. (#ios-driver)
