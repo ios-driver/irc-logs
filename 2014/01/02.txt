@@ -42,3 +42,7 @@
 [2014-01-02 08:14:14] gdennis, joining. (#ios-driver)
 [2014-01-02 08:26:52] lukeis, joining. (#ios-driver)
 [2014-01-02 08:29:23] AutomatedTester: nirvdrum: I am everywhere
+[2014-01-02 09:56:10] ios-driver-git, joining. (#ios-driver)
+[2014-01-02 09:56:10] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to refactor: http://git.io/GL_KfQ
+[2014-01-02 09:56:10] ios-driver-git: ios-driver/refactor e98e1c6 Luke Inman-Semerau: fixing get_element_size build target in selenium and adding updating the atom accordingly....
+[2014-01-02 09:56:10] ios-driver-git, leaving. (#ios-driver)
