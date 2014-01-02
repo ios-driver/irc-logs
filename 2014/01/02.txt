@@ -59,3 +59,4 @@
 [2014-01-02 12:36:38] rsalvador, quitting. (Ping timeout: 240 seconds)
 [2014-01-02 12:41:40] rsalvador1, leaving. (#ios-driver)
 [2014-01-02 13:34:13] admc, joining. (#ios-driver)
+[2014-01-02 14:18:45] nicegraham, quitting. (Ping timeout: 245 seconds)
