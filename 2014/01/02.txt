@@ -17,3 +17,28 @@
 [2014-01-02 07:39:21] AutomatedTester: nicegraham: no, my brickpi isnt making the motors move
 [2014-01-02 07:39:36] AutomatedTester: so don't know if its the brick pi or the motors
 [2014-01-02 07:39:46] AutomatedTester: I have 2 motors and neither work :(
+[2014-01-02 07:40:07] nicegraham: Can you apply power directly?
+[2014-01-02 07:40:29] nicegraham: Or throw a multimeter on the output?
+[2014-01-02 07:40:42] AutomatedTester: I dont have a multimeter
+[2014-01-02 07:40:59] AutomatedTester: and I could apply power directly. Just need a battery for it
+[2014-01-02 07:41:14] *nicegraham sees a multimeter in AutomatedTester future...'
+[2014-01-02 07:41:33] AutomatedTester: :D
+[2014-01-02 07:41:52] AutomatedTester: nicegraham: I got my first arduino set this break too so definitely need one
+[2014-01-02 07:42:23] nicegraham: Yeah, you always need one in anything electronics related
+[2014-01-02 07:42:45] AutomatedTester: I also see a soldering kit in my future too
+[2014-01-02 07:42:57] nicegraham: Yeah, that too
+[2014-01-02 07:43:29] nicegraham: I saw something on Kickstarter the other day for bending and stripping wires for breadboards
+[2014-01-02 07:43:53] nicegraham: I got loads of soldering practice with the copter
+[2014-01-02 07:45:14] AutomatedTester: I have been watching adafruit videos and want to do wearables
+[2014-01-02 07:45:22] AutomatedTester: that looks like a lot of fun
+[2014-01-02 07:47:32] nicegraham: Anything particular in mind
+[2014-01-02 07:50:11] AutomatedTester: well a few ideas but want to get to grips with arduinos to see if I am crazy
+[2014-01-02 07:50:22] AutomatedTester: but GPS is going to be involved
+[2014-01-02 07:50:26] AutomatedTester: and LEDs
+[2014-01-02 07:50:33] AutomatedTester: and gaming ;)
+[2014-01-02 07:51:03] nicegraham: Cool, I just led'd up the copter over Christmas
+[2014-01-02 07:51:56] AutomatedTester: oooo
+[2014-01-02 08:06:43] nirvdrum: What is AutomatedTester doing in here?!?!
+[2014-01-02 08:14:14] gdennis, joining. (#ios-driver)
+[2014-01-02 08:26:52] lukeis, joining. (#ios-driver)
+[2014-01-02 08:29:23] AutomatedTester: nirvdrum: I am everywhere
