@@ -52,3 +52,4 @@
 [2014-01-02 10:57:24] gdennis1, quitting. (Client Quit)
 [2014-01-02 11:10:51] jack090, joining. (#ios-driver)
 [2014-01-02 11:24:06] santiycr, joining. (#ios-driver)
+[2014-01-02 12:21:48] jlipps, quitting. (Quit: Leaving.)
