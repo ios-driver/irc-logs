@@ -1,2 +1,3 @@
 [2014-01-03 00:05:40] rsalvador, joining. (#ios-driver)
 [2014-01-03 00:05:49] rsalvador, leaving. (#ios-driver)
+[2014-01-03 02:48:02] rsalvador, joining. (#ios-driver)
