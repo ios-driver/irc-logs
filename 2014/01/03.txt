@@ -17,3 +17,6 @@
 [2014-01-03 10:46:07] smccarthy, joining. (#ios-driver)
 [2014-01-03 11:06:32] ios-driverbot, joining. (#ios-driver)
 [2014-01-03 11:09:27] rsalvador, joining. (#ios-driver)
+[2014-01-03 11:12:52] rsalvador1, joining. (#ios-driver)
+[2014-01-03 11:13:01] admc, quitting. (Quit: Leaving.)
+[2014-01-03 11:14:05] rsalvador1, leaving. (#ios-driver)
