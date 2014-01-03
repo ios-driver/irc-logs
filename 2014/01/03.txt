@@ -14,3 +14,4 @@
 [2014-01-03 10:02:26] admc, joining. (#ios-driver)
 [2014-01-03 10:08:13] santiycr, joining. (#ios-driver)
 [2014-01-03 10:20:08] lukeis, joining. (#ios-driver)
+[2014-01-03 10:46:07] smccarthy, joining. (#ios-driver)
