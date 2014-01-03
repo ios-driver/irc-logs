@@ -39,3 +39,4 @@
 [2014-01-03 15:06:19] santiycr, quitting. (Client Quit)
 [2014-01-03 15:06:28] santiycr, joining. (#ios-driver)
 [2014-01-03 15:07:21] jlipps, quitting. (Quit: Leaving.)
+[2014-01-03 15:11:39] jlipps, joining. (#ios-driver)
