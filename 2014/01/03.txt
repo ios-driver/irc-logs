@@ -21,3 +21,4 @@
 [2014-01-03 11:13:01] admc, quitting. (Quit: Leaving.)
 [2014-01-03 11:14:05] rsalvador1, leaving. (#ios-driver)
 [2014-01-03 11:15:16] rsalvador, quitting. (Ping timeout: 260 seconds)
+[2014-01-03 11:33:54] jlipps, joining. (#ios-driver)
