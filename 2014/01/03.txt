@@ -36,3 +36,6 @@
 [2014-01-03 14:46:58] admc, quitting. (Quit: Leaving.)
 [2014-01-03 14:49:42] santiycr, quitting. (Quit: Leaving.)
 [2014-01-03 15:01:30] santiycr, joining. (#ios-driver)
+[2014-01-03 15:06:19] santiycr, quitting. (Client Quit)
+[2014-01-03 15:06:28] santiycr, joining. (#ios-driver)
+[2014-01-03 15:07:21] jlipps, quitting. (Quit: Leaving.)
