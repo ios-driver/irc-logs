@@ -10,3 +10,4 @@
 [2014-01-03 09:23:56] smccarthy, quitting. (Read error: Connection reset by peer)
 [2014-01-03 09:34:25] phasze: Holy sweet mother of sasafrass
 [2014-01-03 09:34:42] phasze: after I reformatted this silly Mac the native test works...
+[2014-01-03 09:54:18] lukeis, quitting. (Quit: Leaving.)
