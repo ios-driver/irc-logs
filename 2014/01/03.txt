@@ -6,3 +6,4 @@
 [2014-01-03 05:51:08] rsalvador, leaving. (#ios-driver)
 [2014-01-03 05:59:33] nirvdrum, joining. (#ios-driver)
 [2014-01-03 07:53:03] smccarthy, joining. (#ios-driver)
+[2014-01-03 08:06:25] lukeis, joining. (#ios-driver)
