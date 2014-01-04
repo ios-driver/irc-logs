@@ -8,3 +8,5 @@
 [2014-01-04 01:54:01] AutomatedTester, joining. (#ios-driver)
 [2014-01-04 07:22:02] rsalvador, joining. (#ios-driver)
 [2014-01-04 07:25:08] rsalvador, quitting. (Client Quit)
+[2014-01-04 07:55:08] rsalvador, joining. (#ios-driver)
+[2014-01-04 07:55:46] smccarthy, joining. (#ios-driver)
