@@ -7,3 +7,4 @@
 [2014-01-04 01:32:10] phasze, joining. (#ios-driver)
 [2014-01-04 01:54:01] AutomatedTester, joining. (#ios-driver)
 [2014-01-04 07:22:02] rsalvador, joining. (#ios-driver)
+[2014-01-04 07:25:08] rsalvador, quitting. (Client Quit)
