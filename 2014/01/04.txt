@@ -1,1 +1,4 @@
 [2014-01-04 00:03:57] admc, joining. (#ios-driver)
+[2014-01-04 00:46:44] admc, quitting. (Quit: Leaving.)
+[2014-01-04 00:47:28] admc, joining. (#ios-driver)
+[2014-01-04 00:47:29] admc, quitting. (Remote host closed the connection)
