@@ -13,3 +13,4 @@
 [2014-01-04 08:00:17] rsalvador, quitting. (Ping timeout: 272 seconds)
 [2014-01-04 09:27:26] smccarthy, quitting. (Ping timeout: 272 seconds)
 [2014-01-04 09:29:27] smccarthy, joining. (#ios-driver)
+[2014-01-04 12:11:17] admc, joining. (#ios-driver)
