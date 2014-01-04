@@ -2,3 +2,5 @@
 [2014-01-04 00:46:44] admc, quitting. (Quit: Leaving.)
 [2014-01-04 00:47:28] admc, joining. (#ios-driver)
 [2014-01-04 00:47:29] admc, quitting. (Remote host closed the connection)
+[2014-01-04 01:10:08] phasze, quitting. (*.net *.split)
+[2014-01-04 01:10:12] AutomatedTester, quitting. (*.net *.split)
