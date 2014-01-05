@@ -8,3 +8,5 @@
 [2014-01-05 12:18:15] phasze, quitting. (Ping timeout: 264 seconds)
 [2014-01-05 12:18:30] phasze, joining. (#ios-driver)
 [2014-01-05 12:18:47] nirvdrum_, quitting. (*.net *.split)
+[2014-01-05 12:21:24] admc, joining. (#ios-driver)
+[2014-01-05 12:24:07] admc, quitting. (Client Quit)
