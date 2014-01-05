@@ -5,3 +5,6 @@
 [2014-01-05 11:53:38] nirvdrum_, joining. (#ios-driver)
 [2014-01-05 11:57:48] nirvdrum, quitting. (Ping timeout: 260 seconds)
 [2014-01-05 12:12:30] nirvdrum__, joining. (#ios-driver)
+[2014-01-05 12:18:15] phasze, quitting. (Ping timeout: 264 seconds)
+[2014-01-05 12:18:30] phasze, joining. (#ios-driver)
+[2014-01-05 12:18:47] nirvdrum_, quitting. (*.net *.split)
