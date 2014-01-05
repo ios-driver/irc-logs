@@ -3,3 +3,4 @@
 [2014-01-05 08:34:20] nirvdrum, joining. (#ios-driver)
 [2014-01-05 09:05:37] admc, quitting. (Quit: Leaving.)
 [2014-01-05 11:53:38] nirvdrum_, joining. (#ios-driver)
+[2014-01-05 11:57:48] nirvdrum, quitting. (Ping timeout: 260 seconds)
