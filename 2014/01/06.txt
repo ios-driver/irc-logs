@@ -29,3 +29,5 @@
 [2014-01-06 14:53:09] santiycr, joining. (#ios-driver)
 [2014-01-06 15:05:29] lukeis, quitting. (Read error: Connection reset by peer)
 [2014-01-06 15:05:43] lukeis, joining. (#ios-driver)
+[2014-01-06 15:11:01] admc1, quitting. (Ping timeout: 248 seconds)
+[2014-01-06 15:11:18] smccarthy2, quitting. (Remote host closed the connection)
