@@ -27,3 +27,5 @@
 [2014-01-06 14:47:55] AutomatedTester: I guess there might be enough power if you only use the 9v on the brickpi
 [2014-01-06 14:48:11] AutomatedTester: anyway... can finish off my logo turtle now
 [2014-01-06 14:53:09] santiycr, joining. (#ios-driver)
+[2014-01-06 15:05:29] lukeis, quitting. (Read error: Connection reset by peer)
+[2014-01-06 15:05:43] lukeis, joining. (#ios-driver)
