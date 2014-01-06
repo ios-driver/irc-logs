@@ -20,3 +20,4 @@
 [2014-01-05 12:38:51] nirvdrum__, joining. (#ios-driver)
 [2014-01-05 12:38:51] nicegraham_, joining. (#ios-driver)
 [2014-01-05 12:38:51] AutomatedTester, joining. (#ios-driver)
+[2014-01-05 16:50:51] admc, joining. (#ios-driver)
