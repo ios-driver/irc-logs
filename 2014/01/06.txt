@@ -20,3 +20,6 @@
 [2014-01-06 14:15:19] santiycr, joining. (#ios-driver)
 [2014-01-06 14:35:04] AutomatedTester: nicegraham_: got my brickpi working!
 [2014-01-06 14:38:58] nicegraham_: Slick, what was the problem?
+[2014-01-06 14:42:42] AutomatedTester: the brick pi needs its own power
+[2014-01-06 14:42:50] AutomatedTester: not enough juice from the rpi
+[2014-01-06 14:43:16] AutomatedTester: nicegraham_: https://twitter.com/AutomatedTester/status/420323784563113985
