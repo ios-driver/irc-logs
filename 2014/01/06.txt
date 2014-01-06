@@ -23,3 +23,6 @@
 [2014-01-06 14:42:42] AutomatedTester: the brick pi needs its own power
 [2014-01-06 14:42:50] AutomatedTester: not enough juice from the rpi
 [2014-01-06 14:43:16] AutomatedTester: nicegraham_: https://twitter.com/AutomatedTester/status/420323784563113985
+[2014-01-06 14:45:23] santiycr, quitting. (Quit: Leaving.)
+[2014-01-06 14:47:55] AutomatedTester: I guess there might be enough power if you only use the 9v on the brickpi
+[2014-01-06 14:48:11] AutomatedTester: anyway... can finish off my logo turtle now
