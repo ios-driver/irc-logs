@@ -54,3 +54,4 @@
 [2014-01-06 20:07:10] nirvdrum, joining. (#ios-driver)
 [2014-01-06 20:55:31] jlipps, quitting. (Quit: Leaving.)
 [2014-01-06 21:12:35] admc2, quitting. (Quit: Leaving.)
+[2014-01-06 21:19:13] smccarthy, quitting. (Remote host closed the connection)
