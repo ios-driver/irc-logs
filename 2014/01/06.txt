@@ -52,3 +52,4 @@
 [2014-01-06 18:12:19] admc, quitting. (Ping timeout: 260 seconds)
 [2014-01-06 18:12:21] admc1, quitting. (Ping timeout: 248 seconds)
 [2014-01-06 20:07:10] nirvdrum, joining. (#ios-driver)
+[2014-01-06 20:55:31] jlipps, quitting. (Quit: Leaving.)
