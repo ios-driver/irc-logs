@@ -11,3 +11,5 @@
 [2014-01-07 04:53:04] ios-driver-git: [ios-driver] freynaud force-pushed build from 5435d2d to 45c7da1: http://git.io/y7Fn0Q
 [2014-01-07 04:53:04] ios-driver-git: ios-driver/build 45c7da1 freynaud: adding real time logging for instruments.
 [2014-01-07 04:53:04] ios-driver-git, leaving. (#ios-driver)
+[2014-01-07 05:48:07] nirvdrum, joining. (#ios-driver)
+[2014-01-07 05:48:49] nirvdrum, quitting. (Remote host closed the connection)
