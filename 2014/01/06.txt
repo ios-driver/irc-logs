@@ -37,3 +37,5 @@
 [2014-01-06 15:43:55] admc, joining. (#ios-driver)
 [2014-01-06 15:47:59] lukeis, quitting. (Quit: Leaving.)
 [2014-01-06 15:58:13] santiycr, quitting. (Quit: Leaving.)
+[2014-01-06 16:01:07] admc1, joining. (#ios-driver)
+[2014-01-06 16:02:51] admc, quitting. (*.net *.split)
