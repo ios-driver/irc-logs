@@ -14,3 +14,4 @@
 [2014-01-07 05:48:07] nirvdrum, joining. (#ios-driver)
 [2014-01-07 05:48:49] nirvdrum, quitting. (Remote host closed the connection)
 [2014-01-07 05:53:10] nirvdrum, joining. (#ios-driver)
+[2014-01-07 06:01:07] nicegraham_: AutomateTester: you on the conf call today?
