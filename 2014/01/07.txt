@@ -16,3 +16,4 @@
 [2014-01-07 05:53:10] nirvdrum, joining. (#ios-driver)
 [2014-01-07 06:01:07] nicegraham_: AutomateTester: you on the conf call today?
 [2014-01-07 06:43:27] nicegraham_: AutomatedTester: you on the conf call today?
+[2014-01-07 07:15:11] dawagner, joining. (#ios-driver)
