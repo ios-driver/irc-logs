@@ -48,3 +48,4 @@
 [2014-01-07 15:10:30] smccarthy, quitting. (Remote host closed the connection)
 [2014-01-07 15:10:48] admc, joining. (#ios-driver)
 [2014-01-07 15:14:32] admc, quitting. (Client Quit)
+[2014-01-07 15:18:25] santiycr, joining. (#ios-driver)
