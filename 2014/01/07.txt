@@ -23,3 +23,4 @@
 [2014-01-07 07:43:56] nicegraham_: 16:00 UTC which is the same as GMT by the looks of it
 [2014-01-07 07:44:09] nicegraham_: I assume it's the same dial in details as last time, haven't seen any updates
 [2014-01-07 07:45:29] nicegraham_, changing nick to nicegraham.
+[2014-01-07 08:38:32] lukeis, joining. (#ios-driver)
