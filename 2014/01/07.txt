@@ -34,3 +34,6 @@
 [2014-01-07 11:52:32] admc, joining. (#ios-driver)
 [2014-01-07 11:55:55] gdennis: Xcode7/iOS7 support is still in the refactor branch and working, correct?
 [2014-01-07 11:56:10] gdennis: er, Xcode5 that is
+[2014-01-07 12:25:55] lukeis, quitting. (Quit: Leaving.)
+[2014-01-07 12:28:03] santiycr, quitting. (Quit: Leaving.)
+[2014-01-07 12:29:38] santiycr, joining. (#ios-driver)
