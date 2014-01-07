@@ -18,3 +18,7 @@
 [2014-01-07 06:43:27] nicegraham_: AutomatedTester: you on the conf call today?
 [2014-01-07 07:15:11] dawagner, joining. (#ios-driver)
 [2014-01-07 07:35:54] smccarthy, joining. (#ios-driver)
+[2014-01-07 07:43:36] AutomatedTester: nicegraham_: what time is it?
+[2014-01-07 07:43:42] nicegraham_: 4 I think
+[2014-01-07 07:43:56] nicegraham_: 16:00 UTC which is the same as GMT by the looks of it
+[2014-01-07 07:44:09] nicegraham_: I assume it's the same dial in details as last time, haven't seen any updates
