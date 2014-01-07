@@ -3,3 +3,7 @@
 [2014-01-07 00:34:21] admc, quitting. (Quit: Leaving.)
 [2014-01-07 00:45:32] admc, joining. (#ios-driver)
 [2014-01-07 00:46:31] admc, quitting. (Client Quit)
+[2014-01-07 04:40:45] ios-driver-git, joining. (#ios-driver)
+[2014-01-07 04:40:45] ios-driver-git: [ios-driver] freynaud created build (+1 new commit): http://git.io/2crZ1Q
+[2014-01-07 04:40:45] ios-driver-git: ios-driver/build 5435d2d freynaud: adding real time logging for instruments.
+[2014-01-07 04:40:45] ios-driver-git, leaving. (#ios-driver)
