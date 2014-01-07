@@ -13,3 +13,4 @@
 [2014-01-07 04:53:04] ios-driver-git, leaving. (#ios-driver)
 [2014-01-07 05:48:07] nirvdrum, joining. (#ios-driver)
 [2014-01-07 05:48:49] nirvdrum, quitting. (Remote host closed the connection)
+[2014-01-07 05:53:10] nirvdrum, joining. (#ios-driver)
