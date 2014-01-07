@@ -32,3 +32,5 @@
 [2014-01-07 11:24:25] santiycr, quitting. (Quit: Leaving.)
 [2014-01-07 11:31:27] santiycr, joining. (#ios-driver)
 [2014-01-07 11:52:32] admc, joining. (#ios-driver)
+[2014-01-07 11:55:55] gdennis: Xcode7/iOS7 support is still in the refactor branch and working, correct?
+[2014-01-07 11:56:10] gdennis: er, Xcode5 that is
