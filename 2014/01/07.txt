@@ -1,2 +1,3 @@
 [2014-01-07 00:17:01] rsalvador, joining. (#ios-driver)
 [2014-01-07 00:18:35] rsalvador, quitting. (Client Quit)
+[2014-01-07 00:34:21] admc, quitting. (Quit: Leaving.)
