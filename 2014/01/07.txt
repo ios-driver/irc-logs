@@ -43,3 +43,4 @@
 [2014-01-07 13:43:08] nicegraham: gdennis: check the commit history but I'm pretty sure freynaud merged all the changes down on to dev
 [2014-01-07 13:43:24] nicegraham: seems like he's working on"build" now - no idea what on :)
 [2014-01-07 13:52:42] jlipps, quitting. (Quit: Leaving.)
+[2014-01-07 13:58:09] jlipps, joining. (#ios-driver)
