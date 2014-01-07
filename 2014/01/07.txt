@@ -25,3 +25,4 @@
 [2014-01-07 07:45:29] nicegraham_, changing nick to nicegraham.
 [2014-01-07 08:38:32] lukeis, joining. (#ios-driver)
 [2014-01-07 09:22:56] jlipps, joining. (#ios-driver)
+[2014-01-07 10:10:32] santiycr, joining. (#ios-driver)
