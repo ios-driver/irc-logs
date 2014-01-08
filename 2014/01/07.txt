@@ -50,3 +50,4 @@
 [2014-01-07 15:14:32] admc, quitting. (Client Quit)
 [2014-01-07 15:18:25] santiycr, joining. (#ios-driver)
 [2014-01-07 15:54:58] dawagner, quitting. (Quit: Leaving)
+[2014-01-07 15:58:12] santiycr, quitting. (Quit: Leaving.)
