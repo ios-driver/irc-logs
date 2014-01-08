@@ -12,3 +12,6 @@
 [2014-01-08 11:21:54] freynaud: lukeis: do you know if you're using native or atoms for mobile safari click ?
 [2014-01-08 11:22:05] freynaud: tests are failing for safari + ios7 for clicks
 [2014-01-08 11:22:12] freynaud: offsets calculations are wrong
+[2014-01-08 11:27:22] lukeis: atoms i believe, roman was working on the offsets (thought he had it working)
+[2014-01-08 11:28:20] lukeis: although I got an email not too long ago that the new atoms made more 'selenium' tests pass, but more salesforce ones fail (so we're not yet using the updated atoms I checked in)
+[2014-01-08 11:29:17] jlipps, joining. (#ios-driver)
