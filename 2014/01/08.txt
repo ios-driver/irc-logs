@@ -25,3 +25,4 @@
 [2014-01-08 12:59:36] phasze: is the native inspector working for ios7?
 [2014-01-08 13:02:08] admc, joining. (#ios-driver)
 [2014-01-08 13:07:08] phasze: I can't seem to select anything with the inspector even though it shows the view
+[2014-01-08 13:23:37] santiycr, joining. (#ios-driver)
