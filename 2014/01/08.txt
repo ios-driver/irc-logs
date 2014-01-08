@@ -7,3 +7,5 @@
 [2014-01-08 08:19:15] phasze, quitting. (Read error: Connection reset by peer)
 [2014-01-08 08:27:48] lukeis, joining. (#ios-driver)
 [2014-01-08 09:29:18] freynaud, joining. (#ios-driver)
+[2014-01-08 11:16:34] ios-driverbot, joining. (#ios-driver)
+[2014-01-08 11:17:55] freynaud, joining. (#ios-driver)
