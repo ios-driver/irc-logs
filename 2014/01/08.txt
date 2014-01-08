@@ -27,3 +27,5 @@
 [2014-01-08 13:07:08] phasze: I can't seem to select anything with the inspector even though it shows the view
 [2014-01-08 13:23:37] santiycr, joining. (#ios-driver)
 [2014-01-08 13:26:59] admc, quitting. (Quit: Leaving.)
+[2014-01-08 13:35:33] santiycr, quitting. (Quit: Leaving.)
+[2014-01-08 13:38:05] admc, joining. (#ios-driver)
