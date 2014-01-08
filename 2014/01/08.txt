@@ -23,3 +23,4 @@
 [2014-01-08 12:34:53] santiycr, quitting. (Quit: Leaving.)
 [2014-01-08 12:59:07] phasze, joining. (#ios-driver)
 [2014-01-08 12:59:36] phasze: is the native inspector working for ios7?
+[2014-01-08 13:02:08] admc, joining. (#ios-driver)
