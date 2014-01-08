@@ -57,3 +57,6 @@
 [2014-01-07 16:41:10] admc, quitting. (Quit: Leaving.)
 [2014-01-07 16:48:07] jlipps, quitting. (Remote host closed the connection)
 [2014-01-07 16:58:02] jlipps, joining. (#ios-driver)
+[2014-01-07 17:02:43] admc, joining. (#ios-driver)
+[2014-01-07 17:02:51] admc, quitting. (Read error: Connection reset by peer)
+[2014-01-07 17:02:59] admc, joining. (#ios-driver)
