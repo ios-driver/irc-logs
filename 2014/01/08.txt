@@ -36,3 +36,4 @@
 [2014-01-08 14:21:51] smccarthy, quitting. (Remote host closed the connection)
 [2014-01-08 14:44:36] santiycr, quitting. (Quit: Leaving.)
 [2014-01-08 14:44:50] admc, quitting. (Quit: Leaving.)
+[2014-01-08 14:48:11] santiycr, joining. (#ios-driver)
