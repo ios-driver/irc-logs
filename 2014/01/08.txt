@@ -56,3 +56,5 @@
 [2014-01-08 18:57:05] admc, quitting. (Quit: Leaving.)
 [2014-01-08 19:00:43] admc, joining. (#ios-driver)
 [2014-01-08 19:04:02] admc, quitting. (Client Quit)
+[2014-01-08 19:35:19] admc, joining. (#ios-driver)
+[2014-01-08 19:38:43] admc, quitting. (Client Quit)
