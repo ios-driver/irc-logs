@@ -14,3 +14,8 @@
 [2014-01-09 06:31:49] rsalvador, joining. (#ios-driver)
 [2014-01-09 06:34:31] rsalvador: :log
 [2014-01-09 06:38:17] rsalvador: freynaud: for our internal tests we are using atoms for clicks, but with my last checking in the "refactor" branch I got all but 2 selenium tests passing, the 2 failures looked more like setup problems, I am rerunning now
+[2014-01-09 07:10:45] rsalvador: freynaud: the reason there were 2 failures yesterday is because a bunch of tests got skipped, for the selenium tests I get 16 failures out of 212 tests run
+[2014-01-09 07:12:53] ios-driver-git, joining. (#ios-driver)
+[2014-01-09 07:12:53] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/13PaCA
+[2014-01-09 07:12:53] ios-driver-git: ios-driver/refactor c2ef03b rsalvador: Make sure the WebbitAppServer is always closed in tearDown().
+[2014-01-09 07:12:54] ios-driver-git, leaving. (#ios-driver)
