@@ -40,3 +40,4 @@
 [2014-01-09 11:13:14] gdennis: 08:33:774 WARNING DefaultCommandListener.stderr  /var/folders/00/0qjnr000h01000cxqpysvccm	2014-01-09 14:08:33.773 instruments[18435:507] Automation Instrument ran into an exception while trying to run the script.  NSInternalInconsistencyException
 [2014-01-09 11:20:28] gdennis: nvm, deleting my old safariCopies worked
 [2014-01-09 11:28:12] freynaud, quitting. (Quit: freynaud)
+[2014-01-09 12:34:50] jlipps, quitting. (Quit: Leaving.)
