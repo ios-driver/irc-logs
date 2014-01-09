@@ -32,3 +32,9 @@
 [2014-01-09 10:15:24] jlipps, joining. (#ios-driver)
 [2014-01-09 10:57:40] gdennis, joining. (#ios-driver)
 [2014-01-09 11:09:46] gdennis: freynaud: I'm working from the refactor branch, and I'll seeing lots of warnings from ios server about isEqualToNumber being an invalid selector, in a simple Java WebDriver test.
+[2014-01-09 11:10:49] dawagner, joining. (#ios-driver)
+[2014-01-09 11:12:58] gdennis: these are my errors:
+[2014-01-09 11:13:02] gdennis: 08:33:771 WARNING DefaultCommandListener.stderr  /var/folders/00/0qjnr000h01000cxqpysvccm	2014-01-09 14:08:33.770 instruments[18435:507] -[__NSCFConstantString isEqualToNumber:]: unrecognized selector sent to instance 0x7fff7d285d90
+[2014-01-09 11:13:06] gdennis: 08:33:771 WARNING DefaultCommandListener.stderr  /var/folders/00/0qjnr000h01000cxqpysvccm	2014-01-09 14:08:33.771 instruments[18435:507] Exception during preparation: -[__NSCFConstantString isEqualToNumber:]: unrecognized selector sent to instance 0x7fff7d285d90
+[2014-01-09 11:13:10] gdennis: 08:33:773 WARNING DefaultCommandListener.stderr  /var/folders/00/0qjnr000h01000cxqpysvccm	2014-01-09 14:08:33.773 instruments[18435:507] *** Assertion failure in -[UIAInstrument _startAgentForApp:withPID:], /SourceCache/AutomationInstrument/AutomationInstrument-1000/Classes/UIAInstrument-Simulator.m:116
+[2014-01-09 11:13:14] gdennis: 08:33:774 WARNING DefaultCommandListener.stderr  /var/folders/00/0qjnr000h01000cxqpysvccm	2014-01-09 14:08:33.773 instruments[18435:507] Automation Instrument ran into an exception while trying to run the script.  NSInternalInconsistencyException
