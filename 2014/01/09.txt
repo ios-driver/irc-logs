@@ -31,3 +31,4 @@
 [2014-01-09 10:05:13] rsalvador, joining. (#ios-driver)
 [2014-01-09 10:15:24] jlipps, joining. (#ios-driver)
 [2014-01-09 10:57:40] gdennis, joining. (#ios-driver)
+[2014-01-09 11:09:46] gdennis: freynaud: I'm working from the refactor branch, and I'll seeing lots of warnings from ios server about isEqualToNumber being an invalid selector, in a simple Java WebDriver test.
