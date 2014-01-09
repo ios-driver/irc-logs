@@ -3,3 +3,4 @@
 [2014-01-09 00:30:50] freynaud, joining. (#ios-driver)
 [2014-01-09 00:33:46] admc, quitting. (Quit: Leaving.)
 [2014-01-09 01:03:28] freynaud, quitting. (Quit: freynaud)
+[2014-01-09 01:06:27] freynaud, joining. (#ios-driver)
