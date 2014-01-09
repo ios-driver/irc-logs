@@ -13,3 +13,4 @@
 [2014-01-09 06:31:14] smccarthy, joining. (#ios-driver)
 [2014-01-09 06:31:49] rsalvador, joining. (#ios-driver)
 [2014-01-09 06:34:31] rsalvador: :log
+[2014-01-09 06:38:17] rsalvador: freynaud: for our internal tests we are using atoms for clicks, but with my last checking in the "refactor" branch I got all but 2 selenium tests passing, the 2 failures looked more like setup problems, I am rerunning now
