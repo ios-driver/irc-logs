@@ -41,3 +41,4 @@
 [2014-01-09 11:20:28] gdennis: nvm, deleting my old safariCopies worked
 [2014-01-09 11:28:12] freynaud, quitting. (Quit: freynaud)
 [2014-01-09 12:34:50] jlipps, quitting. (Quit: Leaving.)
+[2014-01-09 13:00:58] gdennis, leaving. (#ios-driver)
