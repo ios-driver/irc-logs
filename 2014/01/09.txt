@@ -30,3 +30,4 @@
 [2014-01-09 10:03:38] rsalvador, quitting. (Ping timeout: 252 seconds)
 [2014-01-09 10:05:13] rsalvador, joining. (#ios-driver)
 [2014-01-09 10:15:24] jlipps, joining. (#ios-driver)
+[2014-01-09 10:57:40] gdennis, joining. (#ios-driver)
