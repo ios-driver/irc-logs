@@ -19,3 +19,5 @@
 [2014-01-09 07:12:53] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to refactor: http://git.io/13PaCA
 [2014-01-09 07:12:53] ios-driver-git: ios-driver/refactor c2ef03b rsalvador: Make sure the WebbitAppServer is always closed in tearDown().
 [2014-01-09 07:12:54] ios-driver-git, leaving. (#ios-driver)
+[2014-01-09 07:53:23] freynaud: i work in dev
+[2014-01-09 07:53:39] freynaud: rebase if you have a chance
