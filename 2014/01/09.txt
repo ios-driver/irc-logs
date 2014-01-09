@@ -21,3 +21,4 @@
 [2014-01-09 07:12:54] ios-driver-git, leaving. (#ios-driver)
 [2014-01-09 07:53:23] freynaud: i work in dev
 [2014-01-09 07:53:39] freynaud: rebase if you have a chance
+[2014-01-09 08:27:07] admc, joining. (#ios-driver)
