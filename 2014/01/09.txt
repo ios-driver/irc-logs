@@ -10,3 +10,6 @@
 [2014-01-09 03:16:27] freynaud_, joining. (#ios-driver)
 [2014-01-09 03:16:27] freynaud_, changing nick to freynaud.
 [2014-01-09 05:46:56] nirvdrum, joining. (#ios-driver)
+[2014-01-09 06:31:14] smccarthy, joining. (#ios-driver)
+[2014-01-09 06:31:49] rsalvador, joining. (#ios-driver)
+[2014-01-09 06:34:31] rsalvador: :log
