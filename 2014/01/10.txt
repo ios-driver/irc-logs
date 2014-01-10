@@ -27,3 +27,4 @@
 [2014-01-10 11:30:57] rsalvador, quitting. (Ping timeout: 245 seconds)
 [2014-01-10 11:53:18] nirvdrum, joining. (#ios-driver)
 [2014-01-10 11:54:56] admc, joining. (#ios-driver)
+[2014-01-10 12:24:12] phasze: anyone tried the ios7 native inspector?
