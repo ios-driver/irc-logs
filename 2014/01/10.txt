@@ -21,3 +21,6 @@
 [2014-01-10 09:57:24] rsalvador, joining. (#ios-driver)
 [2014-01-10 10:47:34] rsalvador, leaving. (#ios-driver)
 [2014-01-10 11:21:22] admc, joining. (#ios-driver)
+[2014-01-10 11:25:20] rsalvador, joining. (#ios-driver)
+[2014-01-10 11:25:37] phasze1, changing nick to phasze.
+[2014-01-10 11:27:08] admc, quitting. (Quit: Leaving.)
