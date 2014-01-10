@@ -5,3 +5,4 @@
 [2014-01-10 03:50:37] rsalvador, joining. (#ios-driver)
 [2014-01-10 05:14:03] ddary, joining. (#ios-driver)
 [2014-01-10 05:40:59] nirvdrum, joining. (#ios-driver)
+[2014-01-10 07:13:17] smccarthy, joining. (#ios-driver)
