@@ -9,3 +9,5 @@
 [2014-01-10 07:23:27] nirvdrum, quitting. (Ping timeout: 245 seconds)
 [2014-01-10 07:28:02] freynaud, quitting. (Quit: freynaud)
 [2014-01-10 07:51:50] smccarthy, quitting. (Ping timeout: 264 seconds)
+[2014-01-10 08:03:27] rsalvador, quitting. (Ping timeout: 245 seconds)
+[2014-01-10 08:04:50] rsalvador, joining. (#ios-driver)
