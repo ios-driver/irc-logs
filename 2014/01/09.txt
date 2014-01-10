@@ -58,3 +58,6 @@
 [2014-01-09 21:38:30] smccarthy, quitting. (Remote host closed the connection)
 [2014-01-09 22:52:09] jlipps, joining. (#ios-driver)
 [2014-01-09 23:08:01] jlipps, quitting. (Quit: Leaving.)
+[2014-01-09 23:33:11] admc, joining. (#ios-driver)
+[2014-01-09 23:34:25] admc, quitting. (Client Quit)
+[2014-01-09 23:34:59] admc, joining. (#ios-driver)
