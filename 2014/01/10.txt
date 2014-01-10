@@ -28,3 +28,5 @@
 [2014-01-10 11:53:18] nirvdrum, joining. (#ios-driver)
 [2014-01-10 11:54:56] admc, joining. (#ios-driver)
 [2014-01-10 12:24:12] phasze: anyone tried the ios7 native inspector?
+[2014-01-10 12:27:01] dawagner, joining. (#ios-driver)
+[2014-01-10 12:29:14] rsalvador, joining. (#ios-driver)
