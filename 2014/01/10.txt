@@ -3,3 +3,4 @@
 [2014-01-10 00:12:03] freynaud, joining. (#ios-driver)
 [2014-01-10 00:37:23] admc, quitting. (Quit: Leaving.)
 [2014-01-10 03:50:37] rsalvador, joining. (#ios-driver)
+[2014-01-10 05:14:03] ddary, joining. (#ios-driver)
