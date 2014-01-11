@@ -33,3 +33,4 @@
 [2014-01-10 12:30:58] rsalvador, leaving. (#ios-driver)
 [2014-01-10 12:38:44] phasze: oh, works on chrome just not safari
 [2014-01-10 15:09:59] dawagner, quitting. (Quit: Leaving)
+[2014-01-10 16:24:01] smccarthy2, joining. (#ios-driver)
