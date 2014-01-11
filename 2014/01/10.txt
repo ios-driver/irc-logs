@@ -37,3 +37,4 @@
 [2014-01-10 16:27:12] smccarthy, quitting. (Ping timeout: 245 seconds)
 [2014-01-10 16:39:18] lukeis, quitting. (Ping timeout: 272 seconds)
 [2014-01-10 16:43:06] nirvdrum, quitting. (Ping timeout: 272 seconds)
+[2014-01-10 17:46:37] smccarthy2, quitting. (Remote host closed the connection)
