@@ -16,3 +16,4 @@
 [2014-01-12 03:47:43] nicegraham, joining. (#ios-driver)
 [2014-01-12 06:41:55] nirvdrum, joining. (#ios-driver)
 [2014-01-12 07:23:05] smccarthy, joining. (#ios-driver)
+[2014-01-12 09:55:21] admc, joining. (#ios-driver)
