@@ -6,3 +6,4 @@
 [2014-01-11 18:04:26] admc, quitting. (Quit: Leaving.)
 [2014-01-11 18:06:29] admc, joining. (#ios-driver)
 [2014-01-11 18:06:50] admc, quitting. (Client Quit)
+[2014-01-11 18:25:07] nirvdrum, quitting. (Ping timeout: 245 seconds)
