@@ -12,3 +12,5 @@
 [2014-01-12 02:10:46] admc, quitting. (Client Quit)
 [2014-01-12 03:08:07] dgrace, quitting. (*.net *.split)
 [2014-01-12 03:08:08] nicegraham, quitting. (*.net *.split)
+[2014-01-12 03:47:43] dgrace, joining. (#ios-driver)
+[2014-01-12 03:47:43] nicegraham, joining. (#ios-driver)
