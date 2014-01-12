@@ -6,3 +6,5 @@
 [2014-01-12 00:45:54] admc, quitting. (Remote host closed the connection)
 [2014-01-12 00:47:20] admc, joining. (#ios-driver)
 [2014-01-12 00:47:21] admc, quitting. (Client Quit)
+[2014-01-12 01:01:51] admc, joining. (#ios-driver)
+[2014-01-12 01:04:17] admc, quitting. (Client Quit)
