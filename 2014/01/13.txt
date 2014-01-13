@@ -32,3 +32,8 @@
 [2014-01-13 11:36:37] jlipps1, joining. (#ios-driver)
 [2014-01-13 11:36:45] santiycr1, joining. (#ios-driver)
 [2014-01-13 11:37:55] santiycr2, joining. (#ios-driver)
+[2014-01-13 11:40:02] jlipps, quitting. (Ping timeout: 252 seconds)
+[2014-01-13 11:40:03] santiycr, quitting. (Ping timeout: 272 seconds)
+[2014-01-13 11:40:15] jlipps, joining. (#ios-driver)
+[2014-01-13 11:41:25] santiycr1, quitting. (Ping timeout: 248 seconds)
+[2014-01-13 11:43:02] jlipps1, quitting. (Ping timeout: 245 seconds)
