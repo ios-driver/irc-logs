@@ -38,3 +38,5 @@
 [2014-01-13 11:41:25] santiycr1, quitting. (Ping timeout: 248 seconds)
 [2014-01-13 11:43:02] jlipps1, quitting. (Ping timeout: 245 seconds)
 [2014-01-13 12:18:29] admc, joining. (#ios-driver)
+[2014-01-13 12:29:04] admc1, joining. (#ios-driver)
+[2014-01-13 12:29:14] admc1, quitting. (Client Quit)
