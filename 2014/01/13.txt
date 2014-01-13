@@ -28,3 +28,4 @@
 [2014-01-13 10:44:32] nirvdrum, joining. (#ios-driver)
 [2014-01-13 11:02:50] nirvdrum: I keep seeing errors about not being able to install the application while running the "refactor" tests.  Known issue?
 [2014-01-13 11:27:39] admc, quitting. (Quit: Leaving.)
+[2014-01-13 11:30:37] gdennis, joining. (#ios-driver)
