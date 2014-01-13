@@ -10,3 +10,4 @@
 [2014-01-13 08:51:59] psp250, joining. (#ios-driver)
 [2014-01-13 08:58:34] nirvdrum: I've fallen a bit behind.  Do I need the refactor branch for XCode 5 / iOS 7?
 [2014-01-13 08:58:47] nirvdrum: Or does dev work as well?
+[2014-01-13 09:02:09] psp250, quitting. (Remote host closed the connection)
