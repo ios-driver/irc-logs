@@ -73,3 +73,4 @@
 [2014-01-13 14:27:41] nirvdrum: I'd have never thought that would work.
 [2014-01-13 14:51:42] nirvdrum: nicegraham: I'd love to pick your brain if you have some time when our work hours overlap.
 [2014-01-13 15:05:32] santiycr, quitting. (Quit: Leaving.)
+[2014-01-13 15:22:05] santiycr, joining. (#ios-driver)
