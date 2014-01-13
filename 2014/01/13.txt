@@ -15,3 +15,7 @@
 [2014-01-13 09:28:33] nirvdrum: lukeis: I've fallen a bit behind. Do I need the refactor branch for XCode 5 / iOS 7? Or does dev work as well?
 [2014-01-13 09:29:16] lukeis: all i know is my co-worker is primarily using the refactor branch (and that works on xcode5 / ios7 )
 [2014-01-13 09:29:44] lukeis: (my coworker being roman salvador)
+[2014-01-13 09:31:26] nirvdrum: Ahh.
+[2014-01-13 09:31:34] nirvdrum: I saw him around but had no clue who he was.
+[2014-01-13 09:32:09] lukeis: :) he's on my team (along with jim)
+[2014-01-13 09:33:07] nirvdrum: Jim's going to land himself on a No Fly list soon :-P
