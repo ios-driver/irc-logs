@@ -42,3 +42,12 @@
 [2014-01-13 12:29:14] admc1, quitting. (Client Quit)
 [2014-01-13 12:31:18] admc, quitting. (Ping timeout: 276 seconds)
 [2014-01-13 12:33:17] gdennis, leaving. (#ios-driver)
+[2014-01-13 12:40:10] nirvdrum: Ugh.
+[2014-01-13 12:40:27] nirvdrum: Does the inspector work on the refactor branch?
+[2014-01-13 12:40:37] nirvdrum: Or should I expect it to raise an NPE?
+[2014-01-13 12:41:12] santiycr2, quitting. (Quit: Leaving.)
+[2014-01-13 12:41:54] lukeis: nirvdrum: not sure… roman is telling me to revert the atoms push I did (which I will shortly) maybe try checking out this rev: b9727e58d8c840ab82b73bae333be235697fac37
+[2014-01-13 12:42:25] lukeis: (which is the one before the atoms change)
+[2014-01-13 12:43:25] nirvdrum: I'll give that a shot.  Thanks.
+[2014-01-13 12:44:18] AutomatedTester: nicegraham: started building the lego things around my brickpi on the weekend
+[2014-01-13 12:44:24] AutomatedTester: and getting the code going
