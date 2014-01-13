@@ -23,3 +23,5 @@
 [2014-01-12 19:39:39] freynaud, quitting. (Ping timeout: 252 seconds)
 [2014-01-12 21:06:29] smccarthy, quitting. (Remote host closed the connection)
 [2014-01-12 21:08:03] admc, quitting. (Quit: Leaving.)
+[2014-01-12 22:27:07] nirvdrum, quitting. (Ping timeout: 272 seconds)
+[2014-01-12 22:27:15] admc, joining. (#ios-driver)
