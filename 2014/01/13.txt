@@ -62,3 +62,6 @@
 [2014-01-13 13:04:23] santiycr, joining. (#ios-driver)
 [2014-01-13 13:04:28] admc, joining. (#ios-driver)
 [2014-01-13 13:35:41] gdennis, joining. (#ios-driver)
+[2014-01-13 13:56:38] nirvdrum: lukeis: That wasn't it.  It seems the inspector has a null session and thus can't get the screenshot.
+[2014-01-13 13:59:27] gdennis, leaving. (#ios-driver)
+[2014-01-13 14:00:00] lukeis: ok :) but I had to do that anyways… since it was breaking other things ;)
