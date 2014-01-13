@@ -61,3 +61,4 @@
 [2014-01-13 12:49:06] ios-driver-git: ios-driver/refactor 81cefa1 Luke Inman-Semerau: Revert "updating the selenium atoms and removing a few references to ones that aren't in the selenium project anymore and aren't used in ios-driver either"...
 [2014-01-13 13:04:23] santiycr, joining. (#ios-driver)
 [2014-01-13 13:04:28] admc, joining. (#ios-driver)
+[2014-01-13 13:35:41] gdennis, joining. (#ios-driver)
