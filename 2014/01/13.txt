@@ -7,3 +7,4 @@
 [2014-01-13 07:16:14] rsalvador, leaving. (#ios-driver)
 [2014-01-13 07:58:31] smccarthy, joining. (#ios-driver)
 [2014-01-13 07:58:33] psp250, quitting. (Remote host closed the connection)
+[2014-01-13 08:51:59] psp250, joining. (#ios-driver)
