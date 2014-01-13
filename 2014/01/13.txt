@@ -22,3 +22,4 @@
 [2014-01-13 09:59:32] admc, joining. (#ios-driver)
 [2014-01-13 10:12:05] rsalvador, joining. (#ios-driver)
 [2014-01-13 10:13:09] rsalvador, leaving. (#ios-driver)
+[2014-01-13 10:15:28] nirvdrum, quitting. (Ping timeout: 272 seconds)
