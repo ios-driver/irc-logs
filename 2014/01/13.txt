@@ -3,3 +3,4 @@
 [2014-01-13 05:37:27] smccarthy, joining. (#ios-driver)
 [2014-01-13 06:28:07] rsalvador, joining. (#ios-driver)
 [2014-01-13 06:28:15] rsalvador: :log
+[2014-01-13 06:44:54] smccarthy, quitting. (Remote host closed the connection)
