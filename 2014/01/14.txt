@@ -16,3 +16,14 @@
 [2014-01-14 05:48:36] rsalvador, joining. (#ios-driver)
 [2014-01-14 05:52:53] nirvdrum: rsalvador: lukeis indicated I might be able to bug you.  I'm trying to load up a native app in the inspector on the refactor branch and almost immediately NPE because no sessions exist.  Is that to be expected?
 [2014-01-14 05:52:58] nirvdrum: Or rather, is that a known issue?
+[2014-01-14 05:55:10] rsalvador: not that I know, you should probably try to debug the problem
+[2014-01-14 05:55:49] nirvdrum: Will do.
+[2014-01-14 05:56:19] nirvdrum: It was annoying to get the far since there's so much exception wrapping.
+[2014-01-14 05:58:36] nicegraham: nirvdrum: it works for us
+[2014-01-14 05:58:58] nicegraham: there was a bug that you needed a trailing slash but I thought that got fixed
+[2014-01-14 05:59:09] nicegraham: worth throwing one in in case though
+[2014-01-14 05:59:22] admc, joining. (#ios-driver)
+[2014-01-14 05:59:27] nirvdrum: I thought I had tried that.  I'll give it a shot when this Mac Mini comes back up.
+[2014-01-14 05:59:42] nicegraham: was that what you wanted to ask me about?
+[2014-01-14 05:59:42] nirvdrum: Since upgrading to Mavericks, it doesn't like to wake up  :-/
+[2014-01-14 05:59:57] nicegraham: we haven't upgraded our nodes
