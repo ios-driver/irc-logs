@@ -103,3 +103,5 @@
 [2014-01-14 07:17:21] rsalvador: also use Xcode 5.0.2, 5.0.1 had lots of problems
 [2014-01-14 07:24:36] nirvdrum: Fantastic.  Mobile Safari is working now.  Thanks a lot rsalvador.
 [2014-01-14 07:24:58] nirvdrum: I'm seeing those "Take Control" prompts again.  But maybe the upgrade just overwrote those mods I made.
+[2014-01-14 07:27:33] nicegraham: it's not in the /etc/auth file anymore
+[2014-01-14 07:27:36] nicegraham: there's a DB apparently
