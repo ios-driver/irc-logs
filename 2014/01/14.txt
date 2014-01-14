@@ -48,3 +48,8 @@
 [2014-01-14 06:10:56] nirvdrum: I need to create a session from a client first, don't I?
 [2014-01-14 06:28:45] nicegraham: yeah, and then breakpoint it
 [2014-01-14 06:28:53] nicegraham: nirvdrum ^
+[2014-01-14 06:46:39] nirvdrum: It looks like starting mobile safari broke.
+[2014-01-14 06:48:15] nicegraham: on the copy?
+[2014-01-14 06:48:33] nirvdrum: Or maybe it never worked when -aut is used.
+[2014-01-14 06:48:48] nirvdrum: But when I try to test safari it wants to test the -aut option.
+[2014-01-14 06:49:38] nicegraham: rsalvador ^ ?
