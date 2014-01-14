@@ -117,3 +117,10 @@
 [2014-01-14 07:59:44] admc, joining. (#ios-driver)
 [2014-01-14 07:59:44] nirvdrum: nicegraham: See, you think I joke about how every time I look to update ios-driver, whatever I had working previously is now broken.
 [2014-01-14 07:59:52] nirvdrum: The price of progress I suppose.
+[2014-01-14 08:00:04] nicegraham: a lot of that is Apple's doing!
+[2014-01-14 08:00:49] nicegraham: each new version of every part comes with a free bag of pain
+[2014-01-14 08:01:57] nirvdrum: Don't blame Apple for upgrading to Java 7!
+[2014-01-14 08:02:12] nicegraham: haha
+[2014-01-14 08:02:29] *nicegraham wonders if he'll ever forgive'
+[2014-01-14 08:02:45] nirvdrum: Well, Oracle finally fixed that bug, so now I'm just having fun.
+[2014-01-14 08:04:33] admc, quitting. (Ping timeout: 276 seconds)
