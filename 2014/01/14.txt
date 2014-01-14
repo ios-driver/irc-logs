@@ -41,3 +41,6 @@
 [2014-01-14 06:03:52] nicegraham: I know freynaud created a chef recipe to set up a vm correctly
 [2014-01-14 06:04:18] admc, quitting. (Ping timeout: 276 seconds)
 [2014-01-14 06:04:22] nicegraham: he's on skype
+[2014-01-14 06:05:04] nirvdrum: Bah.  This seems to redirect to http://localhost:5555/inspector/session/null/home
+[2014-01-14 06:05:10] nirvdrum: And falls apart at that point.
+[2014-01-14 06:05:52] nicegraham: unless it's mavericks related, but I don't know why that would be the case
