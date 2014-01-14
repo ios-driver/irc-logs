@@ -89,3 +89,4 @@
 [2014-01-13 20:21:11] jlipps, joining. (#ios-driver)
 [2014-01-13 20:26:02] jlipps, quitting. (Client Quit)
 [2014-01-13 20:33:42] santiycr, joining. (#ios-driver)
+[2014-01-13 21:15:15] smccarthy, quitting. (Remote host closed the connection)
