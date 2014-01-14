@@ -65,3 +65,12 @@
 [2014-01-14 06:59:34] nirvdrum: I don't know who Jason Evans is, but he seemed to have blown it away.
 [2014-01-14 06:59:47] nirvdrum: d31b6f8
 [2014-01-14 06:59:49] admc, joining. (#ios-driver)
+[2014-01-14 07:00:58] nirvdrum: https://github.com/ios-driver/ios-driver/commit/d31b6f8
+[2014-01-14 07:01:12] nirvdrum: Yeap.  That broke the definition of IOSCapabilities#getLanguage.
+[2014-01-14 07:02:04] nicegraham: he's at facebook I'm pretty sure
+[2014-01-14 07:02:29] nirvdrum: If that change wasn't intentional, the rest of that conflict resolution in that merge should probably be checked.
+[2014-01-14 07:02:34] nirvdrum: If it was intentional, I'd love to know why.
+[2014-01-14 07:02:56] nicegraham: he was primarily tidying up the JS as far as I remember
+[2014-01-14 07:03:25] nirvdrum: That's fine.  But there were 8 Java files that conflicted according to that message.
+[2014-01-14 07:03:35] nirvdrum: And this change would have been a trivial one to catch.
+[2014-01-14 07:04:10] admc, quitting. (Ping timeout: 245 seconds)
