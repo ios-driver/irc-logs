@@ -105,3 +105,4 @@
 [2014-01-14 07:24:58] nirvdrum: I'm seeing those "Take Control" prompts again.  But maybe the upgrade just overwrote those mods I made.
 [2014-01-14 07:27:33] nicegraham: it's not in the /etc/auth file anymore
 [2014-01-14 07:27:36] nicegraham: there's a DB apparently
+[2014-01-14 07:38:57] nirvdrum: Cute.
