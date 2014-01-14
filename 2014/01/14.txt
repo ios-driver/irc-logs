@@ -165,3 +165,4 @@
 [2014-01-14 14:53:48] psp250, quitting. (Quit: Leaving)
 [2014-01-14 15:28:45] rsalvador, joining. (#ios-driver)
 [2014-01-14 15:28:46] rsalvador, quitting. (Client Quit)
+[2014-01-14 15:41:53] santiycr, quitting. (Quit: Leaving.)
