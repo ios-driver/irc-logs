@@ -133,3 +133,5 @@
 [2014-01-14 09:50:38] psp250, joining. (#ios-driver)
 [2014-01-14 10:00:59] jlipps, quitting. (Quit: Leaving.)
 [2014-01-14 10:27:35] admc, quitting. (Quit: Leaving.)
+[2014-01-14 10:54:21] jlipps, joining. (#ios-driver)
+[2014-01-14 10:54:28] jlipps, quitting. (Client Quit)
