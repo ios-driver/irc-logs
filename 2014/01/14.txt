@@ -27,3 +27,17 @@
 [2014-01-14 05:59:42] nicegraham: was that what you wanted to ask me about?
 [2014-01-14 05:59:42] nirvdrum: Since upgrading to Mavericks, it doesn't like to wake up  :-/
 [2014-01-14 05:59:57] nicegraham: we haven't upgraded our nodes
+[2014-01-14 06:00:17] nirvdrum: Ahh.  I thought you needed to for XCode.  I guess I was wrong.
+[2014-01-14 06:00:42] nirvdrum: nicegraham: I was mostly just looking for help loading up a native app.  I've only done Mobile Safari up until now.
+[2014-01-14 06:00:46] nicegraham: no, we're up to date on xcode and the sdks but left that on mountain lion
+[2014-01-14 06:00:58] nicegraham: oh right, you got it going obviously
+[2014-01-14 06:01:17] nirvdrum: And the test suite had all sorts of problems related to installing the app.
+[2014-01-14 06:01:22] nirvdrum: So maybe my installation is just borked.
+[2014-01-14 06:02:42] nirvdrum: nicegraham: Does the test suite work pass for you?
+[2014-01-14 06:02:46] nirvdrum: (refactor branch)
+[2014-01-14 06:03:08] nicegraham: there are some failures
+[2014-01-14 06:03:27] nicegraham: there was changes in mavericks to do with auth and stuff
+[2014-01-14 06:03:37] nicegraham: which we haven't had to deal with yet
+[2014-01-14 06:03:52] nicegraham: I know freynaud created a chef recipe to set up a vm correctly
+[2014-01-14 06:04:18] admc, quitting. (Ping timeout: 276 seconds)
+[2014-01-14 06:04:22] nicegraham: he's on skype
