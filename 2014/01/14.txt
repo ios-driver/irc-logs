@@ -46,3 +46,5 @@
 [2014-01-14 06:05:52] nicegraham: unless it's mavericks related, but I don't know why that would be the case
 [2014-01-14 06:10:47] nirvdrum: Oh, wow.  I think I'm a moron.
 [2014-01-14 06:10:56] nirvdrum: I need to create a session from a client first, don't I?
+[2014-01-14 06:28:45] nicegraham: yeah, and then breakpoint it
+[2014-01-14 06:28:53] nicegraham: nirvdrum ^
