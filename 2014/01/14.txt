@@ -159,3 +159,4 @@
 [2014-01-14 13:54:24] ios-driver-git: ios-driver/refactor f1f9019 tmckinless: Changing getLanguage to return default language when none has been specified.
 [2014-01-14 13:54:44] nicegraham: nirvdrum: ^ reverting that change
 [2014-01-14 13:55:19] nirvdrum: nicegraham: Thanks.  I was going to commit it, but got wrapped up in other things.  I'll revert my local change.
+[2014-01-14 14:39:43] admc1, joining. (#ios-driver)
