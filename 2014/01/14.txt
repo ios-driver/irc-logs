@@ -58,3 +58,10 @@
 [2014-01-14 06:54:36] rsalvador: for safari you don't need -aut, just -simulators
 [2014-01-14 06:54:40] nirvdrum: Okay.  The problem with Safari is the code I added to default the language & locale seems to be gone.
 [2014-01-14 06:54:45] nirvdrum: Or it's not executed any longer.
+[2014-01-14 06:55:06] nirvdrum: Which means this breaks all Selenium clients not using IOSCapabilities.
+[2014-01-14 06:55:18] nirvdrum: Which basically means everything that isn't Java.
+[2014-01-14 06:57:38] rsalvador: I think it defaults to the uk
+[2014-01-14 06:58:42] rsalvador: the log sometimes given an indication of what is wrong
+[2014-01-14 06:59:34] nirvdrum: I don't know who Jason Evans is, but he seemed to have blown it away.
+[2014-01-14 06:59:47] nirvdrum: d31b6f8
+[2014-01-14 06:59:49] admc, joining. (#ios-driver)
