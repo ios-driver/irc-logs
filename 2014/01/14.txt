@@ -3,3 +3,4 @@
 [2014-01-14 00:37:25] admc, quitting. (Ping timeout: 248 seconds)
 [2014-01-14 00:57:21] admc, joining. (#ios-driver)
 [2014-01-14 01:02:55] admc, quitting. (Ping timeout: 245 seconds)
+[2014-01-14 01:18:28] nicegraham: AutomatedTester: looking good!
