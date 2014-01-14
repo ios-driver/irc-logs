@@ -140,3 +140,16 @@
 [2014-01-14 12:53:09] rsalvador, quitting. (Ping timeout: 276 seconds)
 [2014-01-14 12:58:55] santiycr, quitting. (Quit: Leaving.)
 [2014-01-14 13:03:32] santiycr, joining. (#ios-driver)
+[2014-01-14 13:40:53] nicegraham: https://gist.github.com/jimevans/8425934
+[2014-01-14 13:41:13] nicegraham: lukeis: cool, we get the fancy gisting too :)
+[2014-01-14 13:41:33] lukeis: huh?
+[2014-01-14 13:41:55] AutomatedTester: nicegraham: FYI, I can run my brickpi, raspberry pi and a mindstorm servo off 1 9v battery
+[2014-01-14 13:42:08] nicegraham: i thought it was the bot, maybe it's irccloud?
+[2014-01-14 13:42:16] nicegraham: that's handy!
+[2014-01-14 13:42:27] nicegraham: how many watts does it draw?
+[2014-01-14 13:42:37] AutomatedTester: havent checked yet
+[2014-01-14 13:42:50] AutomatedTester: just plugged one is with no USB and it all worked
+[2014-01-14 13:43:03] AutomatedTester: including my usb wifi dongle on the rpi
+[2014-01-14 13:44:13] nicegraham: lukeis: https://dl.dropboxusercontent.com/u/564974/gist.png
+[2014-01-14 13:44:35] lukeis: oh, that's nice
+[2014-01-14 13:44:45] nicegraham: yeah, it's very handy
