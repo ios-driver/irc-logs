@@ -139,3 +139,4 @@
 [2014-01-14 12:21:07] santiycr, joining. (#ios-driver)
 [2014-01-14 12:53:09] rsalvador, quitting. (Ping timeout: 276 seconds)
 [2014-01-14 12:58:55] santiycr, quitting. (Quit: Leaving.)
+[2014-01-14 13:03:32] santiycr, joining. (#ios-driver)
