@@ -153,3 +153,8 @@
 [2014-01-14 13:44:13] nicegraham: lukeis: https://dl.dropboxusercontent.com/u/564974/gist.png
 [2014-01-14 13:44:35] lukeis: oh, that's nice
 [2014-01-14 13:44:45] nicegraham: yeah, it's very handy
+[2014-01-14 13:54:23] ios-driver-git, joining. (#ios-driver)
+[2014-01-14 13:54:23] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to refactor: http://git.io/AuYhhw
+[2014-01-14 13:54:24] ios-driver-git, leaving. (#ios-driver)
+[2014-01-14 13:54:24] ios-driver-git: ios-driver/refactor f1f9019 tmckinless: Changing getLanguage to return default language when none has been specified.
+[2014-01-14 13:54:44] nicegraham: nirvdrum: ^ reverting that change
