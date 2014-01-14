@@ -101,3 +101,5 @@
 [2014-01-14 07:14:42] rsalvador: SauceLabs uses Mavericks and safari is working ok there, make sure you remove any old safari copies in ~/.ios-driver and that you change the permissions on some directories as specified in the log output messages
 [2014-01-14 07:15:47] nirvdrum: Thanks.  I'll try cleaning that up.
 [2014-01-14 07:17:21] rsalvador: also use Xcode 5.0.2, 5.0.1 had lots of problems
+[2014-01-14 07:24:36] nirvdrum: Fantastic.  Mobile Safari is working now.  Thanks a lot rsalvador.
+[2014-01-14 07:24:58] nirvdrum: I'm seeing those "Take Control" prompts again.  But maybe the upgrade just overwrote those mods I made.
