@@ -83,3 +83,4 @@
 [2014-01-13 16:19:07] admc1, quitting. (Ping timeout: 246 seconds)
 [2014-01-13 17:13:38] jlipps, quitting. (Quit: Leaving.)
 [2014-01-13 17:31:23] AutomatedTester: nicegraham: https://twitter.com/AutomatedTester/status/422902647184953345
+[2014-01-13 17:42:43] santiycr, quitting. (Quit: Leaving.)
