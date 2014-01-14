@@ -85,3 +85,4 @@
 [2014-01-13 17:31:23] AutomatedTester: nicegraham: https://twitter.com/AutomatedTester/status/422902647184953345
 [2014-01-13 17:42:43] santiycr, quitting. (Quit: Leaving.)
 [2014-01-13 18:14:39] admc, quitting. (Quit: Leaving.)
+[2014-01-13 19:12:11] smccarthy, joining. (#ios-driver)
