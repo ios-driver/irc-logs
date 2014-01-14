@@ -106,3 +106,14 @@
 [2014-01-14 07:27:33] nicegraham: it's not in the /etc/auth file anymore
 [2014-01-14 07:27:36] nicegraham: there's a DB apparently
 [2014-01-14 07:38:57] nirvdrum: Cute.
+[2014-01-14 07:56:39] nicegraham: nirvdrum: looks like the language change is the only dodgy bit
+[2014-01-14 07:56:47] nicegraham: in the conflict merge files anyway
+[2014-01-14 07:57:14] nicegraham: he also created a new screenshot service that seems to be working ok
+[2014-01-14 07:57:29] nirvdrum: nicegraham: Thanks.  I didn't want to cry wolf.  But I figured it was worth checking.
+[2014-01-14 07:57:52] nirvdrum: nicegraham: Are you telling me the rotation stuff isn't there any more? :-P
+[2014-01-14 07:58:05] nicegraham: yeah, for sure - I'd say he made the change on purpose
+[2014-01-14 07:58:18] nicegraham: but I don't know for what reason
+[2014-01-14 07:58:26] nicegraham: I think that's still there :)
+[2014-01-14 07:59:44] admc, joining. (#ios-driver)
+[2014-01-14 07:59:44] nirvdrum: nicegraham: See, you think I joke about how every time I look to update ios-driver, whatever I had working previously is now broken.
+[2014-01-14 07:59:52] nirvdrum: The price of progress I suppose.
