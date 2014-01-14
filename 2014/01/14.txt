@@ -53,3 +53,8 @@
 [2014-01-14 06:48:33] nirvdrum: Or maybe it never worked when -aut is used.
 [2014-01-14 06:48:48] nirvdrum: But when I try to test safari it wants to test the -aut option.
 [2014-01-14 06:49:38] nicegraham: rsalvador ^ ?
+[2014-01-14 06:53:30] rsalvador: I don't understand why or what is not working for nirvdrum. With the refactor branch I can run both native apps and safari apps on iOS 7, I don't have Mavericks yet though
+[2014-01-14 06:54:05] rsalvador: ios-driver doesn't usually give good diagnostic messages when is invoked with the wrong flags or if something is broken
+[2014-01-14 06:54:36] rsalvador: for safari you don't need -aut, just -simulators
+[2014-01-14 06:54:40] nirvdrum: Okay.  The problem with Safari is the code I added to default the language & locale seems to be gone.
+[2014-01-14 06:54:45] nirvdrum: Or it's not executed any longer.
