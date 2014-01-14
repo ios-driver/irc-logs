@@ -131,3 +131,4 @@
 [2014-01-14 09:09:26] lukeis, joining. (#ios-driver)
 [2014-01-14 09:45:47] admc, joining. (#ios-driver)
 [2014-01-14 09:50:38] psp250, joining. (#ios-driver)
+[2014-01-14 10:00:59] jlipps, quitting. (Quit: Leaving.)
