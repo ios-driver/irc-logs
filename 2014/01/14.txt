@@ -163,3 +163,5 @@
 [2014-01-14 14:42:03] admc, quitting. (Ping timeout: 260 seconds)
 [2014-01-14 14:50:51] smccarthy, quitting. (Remote host closed the connection)
 [2014-01-14 14:53:48] psp250, quitting. (Quit: Leaving)
+[2014-01-14 15:28:45] rsalvador, joining. (#ios-driver)
+[2014-01-14 15:28:46] rsalvador, quitting. (Client Quit)
