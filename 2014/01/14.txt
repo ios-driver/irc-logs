@@ -74,3 +74,13 @@
 [2014-01-14 07:03:25] nirvdrum: That's fine.  But there were 8 Java files that conflicted according to that message.
 [2014-01-14 07:03:35] nirvdrum: And this change would have been a trivial one to catch.
 [2014-01-14 07:04:10] admc, quitting. (Ping timeout: 245 seconds)
+[2014-01-14 07:07:25] nicegraham: except our unit tests use ioscapabilities...
+[2014-01-14 07:08:10] nirvdrum: Our unit tests lack a great deal of coverage for any client not using IOSCapabilities directly, unfortunately.
+[2014-01-14 07:08:30] nicegraham: I've asked one of the lads to review that commit
+[2014-01-14 07:08:39] nirvdrum: I agree a test should have caught this.  I disagree that lack of tests mean resolve a merge conflict however you see fit.
+[2014-01-14 07:09:05] nicegraham: yeah, valid point
+[2014-01-14 07:09:12] nicegraham: in the absence
+[2014-01-14 07:09:22] nirvdrum: Anyway.  Re-adding that getLanguage change is working again from the Ruby side.
+[2014-01-14 07:09:24] nicegraham: ..of CI though it's harder
+[2014-01-14 07:09:38] nicegraham: and he has push rights so there was no pull request
+[2014-01-14 07:09:41] nirvdrum: nicegraham: All the more reason to go through your merge conflicts with a fine-toothed comb :-)
