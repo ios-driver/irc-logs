@@ -99,3 +99,5 @@
 [2014-01-14 07:12:55] nirvdrum: And I still haven't gotten the simulator to start up at all with an app.
 [2014-01-14 07:13:11] nirvdrum: But I'm getting closer.
 [2014-01-14 07:14:42] rsalvador: SauceLabs uses Mavericks and safari is working ok there, make sure you remove any old safari copies in ~/.ios-driver and that you change the permissions on some directories as specified in the log output messages
+[2014-01-14 07:15:47] nirvdrum: Thanks.  I'll try cleaning that up.
+[2014-01-14 07:17:21] rsalvador: also use Xcode 5.0.2, 5.0.1 had lots of problems
