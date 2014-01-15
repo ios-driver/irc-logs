@@ -5,3 +5,7 @@
 [2014-01-15 06:05:32] nirvdrum, joining. (#ios-driver)
 [2014-01-15 07:38:56] nirvdrum, quitting. (Read error: Connection reset by peer)
 [2014-01-15 07:39:15] nirvdrum, joining. (#ios-driver)
+[2014-01-15 07:51:06] ddary__, joining. (#ios-driver)
+[2014-01-15 07:52:31] phasze: "instruments" occasionaly asks for permission to run when I run native tests, any way to fix that?
+[2014-01-15 07:54:09] nirvdrum: phasze: Take a look at the project's .travis.yml.  Running those steps in pre-Mavericks worked for me.
+[2014-01-15 07:54:21] ddary__, leaving. (#ios-driver)
