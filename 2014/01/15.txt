@@ -27,3 +27,11 @@
 [2014-01-15 08:10:51] lukeis, joining. (#ios-driver)
 [2014-01-15 08:23:47] nicegraham: phasze: no, that added the setting for pre mavericks
 [2014-01-15 08:24:41] nicegraham: nirvdrum, phasze: I think this covers it http://www.afp548.com/2013/10/22/modifying-the-os-x-mavericks-authorization-database/
+[2014-01-15 08:25:10] phasze: nirvdrum: so what exactly do I have to do?
+[2014-01-15 08:25:35] nicegraham: when you find out can you document it somewhere? :)
+[2014-01-15 08:25:42] phasze: lol
+[2014-01-15 08:25:48] phasze: and by nirvdrum I mean nicegraham :P
+[2014-01-15 08:26:07] phasze: lol, I really don't know macs at all
+[2014-01-15 08:26:17] phasze: this could take me a long time
+[2014-01-15 08:28:51] phasze: nicegraham: so what permissions were added to etc/authorization?
+[2014-01-15 08:29:02] phasze: system.privilege.taskport?
