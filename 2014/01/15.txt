@@ -134,3 +134,4 @@
 [2014-01-15 15:17:08] nicegraham, quitting. (Ping timeout: 245 seconds)
 [2014-01-15 15:17:12] nicegraham_, changing nick to nicegraham.
 [2014-01-15 15:28:02] smccarthy, quitting. (Remote host closed the connection)
+[2014-01-15 15:50:10] santiycr, quitting. (Quit: Leaving.)
