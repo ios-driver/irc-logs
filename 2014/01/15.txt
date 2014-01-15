@@ -83,3 +83,17 @@
 [2014-01-15 14:01:33] lukeis: new member to the ios-driver team? On your team freynaud_?
 [2014-01-15 14:04:18] nicegraham: dunno lukeis
 [2014-01-15 14:04:36] nicegraham: possibly fb since the only other repo they seem to have in their profile is xctool
+[2014-01-15 14:06:06] lukeis: saw that… but who else has admin privileges to allow someone to push to the ios-driver repo?
+[2014-01-15 14:06:29] lukeis: (and it was 'just' a pull request) :)
+[2014-01-15 14:06:30] nicegraham: dunno, that other fb-er got the rights
+[2014-01-15 14:06:40] lukeis: ah, ok
+[2014-01-15 14:06:47] nicegraham: given them out like candy freynaud is
+[2014-01-15 14:06:48] lukeis: dang FB-ers ;)
+[2014-01-15 14:06:57] lukeis: apparently
+[2014-01-15 14:07:07] nicegraham: don't talk to nirvdrum about it
+[2014-01-15 14:07:20] nicegraham: he was gonna kick some fb ass
+[2014-01-15 14:07:52] nirvdrum: I just object to people breaking things that previously worked.
+[2014-01-15 14:08:43] nicegraham: I'd say we could find some other things you object to
+[2014-01-15 14:08:54] nicegraham: ;P
+[2014-01-15 14:08:57] nirvdrum: Heh.
+[2014-01-15 14:09:41] nirvdrum: I confuse a lot of people.  I'm quite understanding when others don't know how to do something and will always take time to help out, without prejudice.  But if I explain it 3 times and you're just not listening, then I become quite agitated.
