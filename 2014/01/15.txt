@@ -60,3 +60,4 @@
 [2014-01-15 11:30:24] ios-driver-git: ios-driver/refactor ea69dab tmckinless: Replacing deleteCookies parameter 'domain' with 'url' in line with webkit inspector changes.
 [2014-01-15 11:30:24] ios-driver-git, leaving. (#ios-driver)
 [2014-01-15 11:39:52] admc, quitting. (Quit: Leaving.)
+[2014-01-15 12:05:57] jlipps, quitting. (Quit: Leaving.)
