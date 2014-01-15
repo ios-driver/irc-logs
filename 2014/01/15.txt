@@ -66,3 +66,4 @@
 [2014-01-15 12:34:39] jack090, joining. (#ios-driver)
 [2014-01-15 12:40:37] admc, quitting. (Quit: Leaving.)
 [2014-01-15 12:44:57] rsalvador, leaving. (#ios-driver)
+[2014-01-15 12:50:57] dawagner, joining. (#ios-driver)
