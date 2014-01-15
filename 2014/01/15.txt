@@ -73,3 +73,9 @@
 [2014-01-15 13:21:25] admc, quitting. (Read error: Connection reset by peer)
 [2014-01-15 13:21:30] admc1, joining. (#ios-driver)
 [2014-01-15 13:49:26] admc1, quitting. (Quit: Leaving.)
+[2014-01-15 13:51:40] admc, joining. (#ios-driver)
+[2014-01-15 13:51:50] ios-driver-git, joining. (#ios-driver)
+[2014-01-15 13:51:51] ios-driver-git: [ios-driver] kcoons pushed 1 new commit to refactor: http://git.io/NzzqdQ
+[2014-01-15 13:51:51] ios-driver-git: ios-driver/refactor 19d4da2 Katie Coons: Provide defaults for log element tree bools
+[2014-01-15 13:51:51] ios-driver-git, leaving. (#ios-driver)
+[2014-01-15 13:54:38] admc, quitting. (Client Quit)
