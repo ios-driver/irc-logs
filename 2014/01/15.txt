@@ -20,3 +20,4 @@
 [2014-01-15 07:58:43] phasze: hmm
 [2014-01-15 07:58:46] nirvdrum: I don't know if anyone's investigated how to do it or not.
 [2014-01-15 07:58:50] nirvdrum: But, try it and see.
+[2014-01-15 08:03:22] phasze: nirvdrum: heh, yeah. /etc/authorization doesn't exist for me
