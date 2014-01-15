@@ -63,3 +63,4 @@
 [2014-01-15 12:05:57] jlipps, quitting. (Quit: Leaving.)
 [2014-01-15 12:18:40] jlipps, joining. (#ios-driver)
 [2014-01-15 12:27:02] admc, joining. (#ios-driver)
+[2014-01-15 12:34:39] jack090, joining. (#ios-driver)
