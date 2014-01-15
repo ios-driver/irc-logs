@@ -9,3 +9,14 @@
 [2014-01-15 07:52:31] phasze: "instruments" occasionaly asks for permission to run when I run native tests, any way to fix that?
 [2014-01-15 07:54:09] nirvdrum: phasze: Take a look at the project's .travis.yml.  Running those steps in pre-Mavericks worked for me.
 [2014-01-15 07:54:21] ddary__, leaving. (#ios-driver)
+[2014-01-15 07:55:02] phasze: pre-maverick is before 10.9 right?
+[2014-01-15 07:55:06] phasze: I'm running 10.9.1
+[2014-01-15 07:55:50] nirvdrum: Yeah.  Then some of those steps will help, but Apple changed some internal stuff.
+[2014-01-15 07:56:29] phasze: nirvdrum: I take it I need the source to see the projects .travis.yml?
+[2014-01-15 07:56:55] nirvdrum: A web browser will suffice :-)
+[2014-01-15 07:56:59] nirvdrum: https://github.com/ios-driver/ios-driver/blob/dev/.travis.yml
+[2014-01-15 07:57:41] phasze: awesome, I'll run those commands and fix up any I need to, thanks nirvdrum!
+[2014-01-15 07:58:33] nirvdrum: In particular, nicegraham indicated the /etc/authorization file doesn't contain one of the permission bits you'd need to tweak now.
+[2014-01-15 07:58:43] phasze: hmm
+[2014-01-15 07:58:46] nirvdrum: I don't know if anyone's investigated how to do it or not.
+[2014-01-15 07:58:50] nirvdrum: But, try it and see.
