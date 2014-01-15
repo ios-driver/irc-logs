@@ -104,3 +104,6 @@
 [2014-01-15 14:21:03] jack090, quitting. (Ping timeout: 272 seconds)
 [2014-01-15 14:27:25] santiycr, quitting. (Quit: Leaving.)
 [2014-01-15 14:29:52] santiycr, joining. (#ios-driver)
+[2014-01-15 14:36:46] admc, joining. (#ios-driver)
+[2014-01-15 14:36:56] admc, quitting. (Read error: Connection reset by peer)
+[2014-01-15 14:37:00] admc1, joining. (#ios-driver)
