@@ -182,3 +182,6 @@
 [2014-01-14 22:48:36] admc, joining. (#ios-driver)
 [2014-01-14 22:49:49] admc, quitting. (Client Quit)
 [2014-01-14 22:50:57] admc, joining. (#ios-driver)
+[2014-01-14 23:36:17] nicegraham: Jerry_: git submodule init
+[2014-01-14 23:36:21] nicegraham: git submodule update
+[2014-01-14 23:36:41] nicegraham: from the root directory
