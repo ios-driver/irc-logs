@@ -178,3 +178,4 @@
 [2014-01-14 16:36:39] nirvdrum, quitting. (Ping timeout: 252 seconds)
 [2014-01-14 16:42:31] nirvdrum, joining. (#ios-driver)
 [2014-01-14 17:52:13] santiycr, quitting. (Quit: Leaving.)
+[2014-01-14 21:32:33] nirvdrum, quitting. (Ping timeout: 252 seconds)
