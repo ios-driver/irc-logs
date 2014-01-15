@@ -49,3 +49,9 @@
 [2014-01-15 11:09:18] rsalvador, leaving. (#ios-driver)
 [2014-01-15 11:09:40] rsalvador, joining. (#ios-driver)
 [2014-01-15 11:09:49] Jerry_: One more annoying question: if I want the simulator's Safari to make requests through an HTTP proxy, is there an easy way to go about this that doesn't involve setting a system-wide proxy?  I tried passing -Dhttp.proxyHost and -Dhttp.proxyPort to Java when I launched the server, but this seemed to be ignored by the simulator.
+[2014-01-15 11:11:15] nicegraham: it's a pain
+[2014-01-15 11:11:19] nicegraham: we use cntlm
+[2014-01-15 11:11:44] nicegraham: we have everything going through that and then we forward it to whatever proxy we want
+[2014-01-15 11:12:02] nirvdrum: I set a system-wide proxy.  I'm not a fan.
+[2014-01-15 11:12:30] nicegraham: we weren't able to figure out to do it programmatically in the simulator
+[2014-01-15 11:13:27] Jerry_: Got it.  Well, at least that will save me hours of banging my head against it in ignorance.  Thank you very much for the help!
