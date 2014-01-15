@@ -97,3 +97,7 @@
 [2014-01-15 14:08:54] nicegraham: ;P
 [2014-01-15 14:08:57] nirvdrum: Heh.
 [2014-01-15 14:09:41] nirvdrum: I confuse a lot of people.  I'm quite understanding when others don't know how to do something and will always take time to help out, without prejudice.  But if I explain it 3 times and you're just not listening, then I become quite agitated.
+[2014-01-15 14:10:02] nirvdrum: Or if you know you don't know, but act like you do, and thus merge shit at will, I get annoyed.
+[2014-01-15 14:10:20] nirvdrum: Willful ignorance I suppose.  Or perhaps neglect.
+[2014-01-15 14:11:10] nicegraham: just not giving a shit
+[2014-01-15 14:12:23] nicegraham: anyway back to the original question - i don't know how that person can push direct to the repo
