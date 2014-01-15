@@ -1,3 +1,4 @@
 [2014-01-15 00:33:52] admc, quitting. (Quit: Leaving.)
 [2014-01-15 01:15:43] Jerry_, quitting. (Ping timeout: 272 seconds)
 [2014-01-15 01:52:43] freynaud_, joining. (#ios-driver)
+[2014-01-15 05:03:58] ios-driverbot_, joining. (#ios-driver)
