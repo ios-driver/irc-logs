@@ -55,3 +55,7 @@
 [2014-01-15 11:12:02] nirvdrum: I set a system-wide proxy.  I'm not a fan.
 [2014-01-15 11:12:30] nicegraham: we weren't able to figure out to do it programmatically in the simulator
 [2014-01-15 11:13:27] Jerry_: Got it.  Well, at least that will save me hours of banging my head against it in ignorance.  Thank you very much for the help!
+[2014-01-15 11:30:24] ios-driver-git, joining. (#ios-driver)
+[2014-01-15 11:30:24] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to refactor: http://git.io/hh7VxQ
+[2014-01-15 11:30:24] ios-driver-git: ios-driver/refactor ea69dab tmckinless: Replacing deleteCookies parameter 'domain' with 'url' in line with webkit inspector changes.
+[2014-01-15 11:30:24] ios-driver-git, leaving. (#ios-driver)
