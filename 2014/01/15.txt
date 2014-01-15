@@ -102,3 +102,5 @@
 [2014-01-15 14:11:10] nicegraham: just not giving a shit
 [2014-01-15 14:12:23] nicegraham: anyway back to the original question - i don't know how that person can push direct to the repo
 [2014-01-15 14:21:03] jack090, quitting. (Ping timeout: 272 seconds)
+[2014-01-15 14:27:25] santiycr, quitting. (Quit: Leaving.)
+[2014-01-15 14:29:52] santiycr, joining. (#ios-driver)
