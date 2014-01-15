@@ -43,3 +43,4 @@
 [2014-01-15 10:42:02] nicegraham: AutomatedTester: latest Make magazine has a couple of pages of sensors
 [2014-01-15 10:42:16] nicegraham: plus how to led up your trainers :)
 [2014-01-15 10:42:28] jlipps, joining. (#ios-driver)
+[2014-01-15 10:50:10] rsalvador, joining. (#ios-driver)
