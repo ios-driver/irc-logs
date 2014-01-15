@@ -107,3 +107,9 @@
 [2014-01-15 14:36:46] admc, joining. (#ios-driver)
 [2014-01-15 14:36:56] admc, quitting. (Read error: Connection reset by peer)
 [2014-01-15 14:37:00] admc1, joining. (#ios-driver)
+[2014-01-15 15:09:36] AutomatedTester: lukeis: is that new member detronizator_ ?
+[2014-01-15 15:09:39] dawagner, quitting. (Quit: Leaving)
+[2014-01-15 15:09:43] AutomatedTester: on freynaud_'s team
+[2014-01-15 15:09:48] lukeis: no
+[2014-01-15 15:09:55] lukeis: i know detro ;)
+[2014-01-15 15:09:56] AutomatedTester: also lukeis, soup?
