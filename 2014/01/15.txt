@@ -79,3 +79,4 @@
 [2014-01-15 13:51:51] ios-driver-git: ios-driver/refactor 19d4da2 Katie Coons: Provide defaults for log element tree bools
 [2014-01-15 13:51:51] ios-driver-git, leaving. (#ios-driver)
 [2014-01-15 13:54:38] admc, quitting. (Client Quit)
+[2014-01-15 13:56:55] santiycr, joining. (#ios-driver)
