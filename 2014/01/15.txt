@@ -80,3 +80,6 @@
 [2014-01-15 13:51:51] ios-driver-git, leaving. (#ios-driver)
 [2014-01-15 13:54:38] admc, quitting. (Client Quit)
 [2014-01-15 13:56:55] santiycr, joining. (#ios-driver)
+[2014-01-15 14:01:33] lukeis: new member to the ios-driver team? On your team freynaud_?
+[2014-01-15 14:04:18] nicegraham: dunno lukeis
+[2014-01-15 14:04:36] nicegraham: possibly fb since the only other repo they seem to have in their profile is xctool
