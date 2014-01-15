@@ -175,3 +175,4 @@
 [2014-01-14 16:18:11] Jerry_: Which I thought meant cloning the repository, checking out the branch, and then just running "mvn clean install".
 [2014-01-14 16:18:33] Jerry_: But I get an error about ios-driver/libimobiledevice-wrapper/pom.xml not existing when I try that.
 [2014-01-14 16:18:57] Jerry_: I assume I'm just missing some incredibly simple first step...but I haven't been able to figure out what it is.  :-(
+[2014-01-14 16:36:39] nirvdrum, quitting. (Ping timeout: 252 seconds)
