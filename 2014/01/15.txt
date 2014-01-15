@@ -37,3 +37,4 @@
 [2014-01-15 08:29:02] phasze: system.privilege.taskport?
 [2014-01-15 08:37:52] phasze: do I need to give everyone permission to write/read taskport?
 [2014-01-15 08:37:59] rsalvador, joining. (#ios-driver)
+[2014-01-15 08:44:37] phasze: Also, occasionally the ipad simulator will shutdown randomly, not sure why
