@@ -25,3 +25,5 @@
 [2014-01-15 08:08:23] phasze: looks like that creates it
 [2014-01-15 08:08:34] smccarthy, joining. (#ios-driver)
 [2014-01-15 08:10:51] lukeis, joining. (#ios-driver)
+[2014-01-15 08:23:47] nicegraham: phasze: no, that added the setting for pre mavericks
+[2014-01-15 08:24:41] nicegraham: nirvdrum, phasze: I think this covers it http://www.afp548.com/2013/10/22/modifying-the-os-x-mavericks-authorization-database/
