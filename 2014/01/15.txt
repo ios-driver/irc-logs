@@ -38,3 +38,4 @@
 [2014-01-15 08:37:52] phasze: do I need to give everyone permission to write/read taskport?
 [2014-01-15 08:37:59] rsalvador, joining. (#ios-driver)
 [2014-01-15 08:44:37] phasze: Also, occasionally the ipad simulator will shutdown randomly, not sure why
+[2014-01-15 09:49:37] admc, joining. (#ios-driver)
