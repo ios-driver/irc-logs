@@ -35,3 +35,5 @@
 [2014-01-15 08:26:17] phasze: this could take me a long time
 [2014-01-15 08:28:51] phasze: nicegraham: so what permissions were added to etc/authorization?
 [2014-01-15 08:29:02] phasze: system.privilege.taskport?
+[2014-01-15 08:37:52] phasze: do I need to give everyone permission to write/read taskport?
+[2014-01-15 08:37:59] rsalvador, joining. (#ios-driver)
