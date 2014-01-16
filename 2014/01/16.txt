@@ -4,3 +4,4 @@
 [2014-01-16 00:20:42] freynaud_: I asked her to pop up on irc and introduce herself
 [2014-01-16 03:32:12] mide, joining. (#ios-driver)
 [2014-01-16 03:33:27] mide, leaving. (#ios-driver)
+[2014-01-16 04:19:54] nirvdrum, joining. (#ios-driver)
