@@ -12,3 +12,5 @@
 [2014-01-16 08:09:06] lukeis, joining. (#ios-driver)
 [2014-01-16 08:09:53] smccarthy, joining. (#ios-driver)
 [2014-01-16 08:41:18] admc, joining. (#ios-driver)
+[2014-01-16 08:53:13] admc, quitting. (Read error: Connection reset by peer)
+[2014-01-16 08:53:44] jlipps, joining. (#ios-driver)
