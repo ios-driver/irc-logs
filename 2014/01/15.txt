@@ -143,3 +143,4 @@
 [2014-01-15 17:43:08] santiycr, quitting. (Quit: Leaving.)
 [2014-01-15 18:13:43] admc, quitting. (Quit: Leaving.)
 [2014-01-15 18:56:33] Jerry_, quitting. (Ping timeout: 272 seconds)
+[2014-01-15 19:34:24] nirvdrum, quitting. (Read error: Operation timed out)
