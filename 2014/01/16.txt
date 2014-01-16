@@ -7,3 +7,5 @@
 [2014-01-16 04:19:54] nirvdrum, joining. (#ios-driver)
 [2014-01-16 05:05:33] nirvdrum, quitting. (Remote host closed the connection)
 [2014-01-16 07:37:38] nirvdrum, joining. (#ios-driver)
+[2014-01-16 07:40:42] nirvdrum, quitting. (Remote host closed the connection)
+[2014-01-16 07:42:09] nirvdrum, joining. (#ios-driver)
