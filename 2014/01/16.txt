@@ -27,3 +27,4 @@
 [2014-01-16 12:16:34] jlipps, quitting. (Quit: Leaving.)
 [2014-01-16 12:17:43] jlipps, joining. (#ios-driver)
 [2014-01-16 14:05:51] gdennis, leaving. (#ios-driver)
+[2014-01-16 15:33:20] smccarthy, quitting. (Remote host closed the connection)
