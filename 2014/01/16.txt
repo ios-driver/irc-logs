@@ -17,3 +17,4 @@
 [2014-01-16 08:56:02] admc, joining. (#ios-driver)
 [2014-01-16 09:20:10] admc, quitting. (Quit: Leaving.)
 [2014-01-16 09:41:39] phasze: anyone else suffer from a native IOS app starting then the simulator randomly shutting down and not returning a failure to grid?
+[2014-01-16 10:43:55] santiycr, joining. (#ios-driver)
