@@ -47,3 +47,8 @@
 [2014-01-17 03:07:19] ios-driver-git, joining. (#ios-driver)
 [2014-01-17 03:07:19] ios-driver-git: [ios-driver] nicegraham opened pull request #203: Refactor merge onto dev (dev...refactor) http://git.io/3B-qGw
 [2014-01-17 03:07:19] ios-driver-git, leaving. (#ios-driver)
+[2014-01-17 03:10:29] effederico, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2014-01-17 03:11:22] ios-driver-git, joining. (#ios-driver)
+[2014-01-17 03:11:23] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/TSmkEg
+[2014-01-17 03:11:23] ios-driver-git: ios-driver/build eb7137a freynaud: jenkins prefers upper case
+[2014-01-17 03:11:23] ios-driver-git, leaving. (#ios-driver)
