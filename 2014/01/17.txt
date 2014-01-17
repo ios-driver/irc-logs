@@ -130,3 +130,6 @@
 [2014-01-17 08:14:48] ios-driver-git: ios-driver/build 0406a8f freynaud: adding listener
 [2014-01-17 08:14:48] ios-driver-git, leaving. (#ios-driver)
 [2014-01-17 08:24:56] nirvdrum, quitting. (Ping timeout: 260 seconds)
+[2014-01-17 08:30:04] nirvdrum, joining. (#ios-driver)
+[2014-01-17 08:31:39] lukeis, joining. (#ios-driver)
+[2014-01-17 08:33:55] fviscomi, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
