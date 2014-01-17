@@ -180,3 +180,4 @@
 [2014-01-17 14:53:07] smccarthy, quitting. (Remote host closed the connection)
 [2014-01-17 14:53:11] jlipps, joining. (#ios-driver)
 [2014-01-17 14:55:31] jlipps, quitting. (Client Quit)
+[2014-01-17 15:12:32] santiycr, joining. (#ios-driver)
