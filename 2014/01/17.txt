@@ -145,3 +145,10 @@
 [2014-01-17 11:37:01] lukeis, joining. (#ios-driver)
 [2014-01-17 11:38:57] admc, quitting. (Quit: Leaving.)
 [2014-01-17 12:26:33] santiycr, joining. (#ios-driver)
+[2014-01-17 12:36:13] zoidberg123, joining. (#ios-driver)
+[2014-01-17 12:36:13] zoidberg123: hi there. i am running ios-server from refactor branch
+[2014-01-17 12:36:14] zoidberg123: and when i run my remotewebdriver tests, the node opens the simulator, but the simulator eventually times out
+[2014-01-17 12:36:18] zoidberg123: the simulator just displays a black screen. it doesn't even open safari
+[2014-01-17 12:36:20] zoidberg123: any ideas?
+[2014-01-17 12:36:29] zoidberg123: i have done all the chmod permission changes
+[2014-01-17 12:36:46] zoidberg123: and also removed .ios-driver directory before restarting the server
