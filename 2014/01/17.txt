@@ -56,3 +56,20 @@
 [2014-01-17 03:16:39] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/gUPLzg
 [2014-01-17 03:16:39] ios-driver-git: ios-driver/build bae674d freynaud: if all is empty, logic is wrong
 [2014-01-17 03:16:39] ios-driver-git, leaving. (#ios-driver)
+[2014-01-17 03:41:34] ios-driver-git, joining. (#ios-driver)
+[2014-01-17 03:41:34] ios-driver-git: [ios-driver] nicegraham pushed 2 new commits to dev: http://git.io/PirPlA
+[2014-01-17 03:41:34] ios-driver-git: ios-driver/dev 7f6dfb7 Graham Abell: Merge branch 'dev' into refactor...
+[2014-01-17 03:41:34] ios-driver-git: ios-driver/dev 0f22e76 Graham Abell: Merge branch 'dev' of github.com:ios-driver/ios-driver into dev...
+[2014-01-17 03:41:34] ios-driver-git, leaving. (#ios-driver)
+[2014-01-17 03:42:58] ios-driver-git, joining. (#ios-driver)
+[2014-01-17 03:42:58] ios-driver-git: [ios-driver] nicegraham closed pull request #203: Refactor merge onto dev (dev...refactor) http://git.io/3B-qGw
+[2014-01-17 03:42:58] ios-driver-git, leaving. (#ios-driver)
+[2014-01-17 03:43:37] ios-driver-git, joining. (#ios-driver)
+[2014-01-17 03:43:37] ios-driver-git: [ios-driver] nicegraham opened pull request #204: Provide defaults for log element tree bools (dev...refactor) http://git.io/JCDZ-A
+[2014-01-17 03:43:37] ios-driver-git, leaving. (#ios-driver)
+[2014-01-17 03:43:47] ios-driver-git, joining. (#ios-driver)
+[2014-01-17 03:43:47] ios-driver-git: [ios-driver] nicegraham pushed 1 new commit to dev: http://git.io/nj0xcA
+[2014-01-17 03:43:47] ios-driver-git: ios-driver/dev bc00fd9 Graham Abell: Merge pull request #204 from ios-driver/refactor...
+[2014-01-17 03:43:47] ios-driver-git, leaving. (#ios-driver)
+[2014-01-17 03:44:22] nicegraham: freynaud_: as far as I'm concerned refactor can be deleted now. Any objections?
+[2014-01-17 03:44:41] freynaud_: if you merged everything, no problem for me
