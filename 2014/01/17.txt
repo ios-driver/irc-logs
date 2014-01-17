@@ -152,3 +152,9 @@
 [2014-01-17 12:36:20] zoidberg123: any ideas?
 [2014-01-17 12:36:29] zoidberg123: i have done all the chmod permission changes
 [2014-01-17 12:36:46] zoidberg123: and also removed .ios-driver directory before restarting the server
+[2014-01-17 12:45:07] admc, joining. (#ios-driver)
+[2014-01-17 12:46:28] zoidberg123: hi admc, are you ios-driver dev/support? can i ask u a question?
+[2014-01-17 12:47:22] admc: hi zoidberg123 sadly, I don't actually know that much about ios-driver
+[2014-01-17 12:47:29] zoidberg123: ah ok np
+[2014-01-17 12:47:32] admc: i just like all the people involved, so I hang out like a groupie
+[2014-01-17 12:47:32] admc: sorry
