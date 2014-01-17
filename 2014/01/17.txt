@@ -170,3 +170,4 @@
 [2014-01-17 13:04:35] lukeis, leaving. (#ios-driver)
 [2014-01-17 13:04:35] zoidberg123: because if i manually try to access it, it does not get launched properly
 [2014-01-17 13:04:45] zoidberg123: while other apps on the simulator (like Maps.app) are fine
+[2014-01-17 13:24:25] zoidberg123, quitting. (Quit: leaving)
