@@ -129,3 +129,4 @@
 [2014-01-17 08:14:48] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/PJWi6g
 [2014-01-17 08:14:48] ios-driver-git: ios-driver/build 0406a8f freynaud: adding listener
 [2014-01-17 08:14:48] ios-driver-git, leaving. (#ios-driver)
+[2014-01-17 08:24:56] nirvdrum, quitting. (Ping timeout: 260 seconds)
