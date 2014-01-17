@@ -4,3 +4,4 @@
 [2014-01-17 01:33:00] ios-driver-git: ios-driver/build defec4d freynaud: activating the crash test and fixing it.
 [2014-01-17 01:33:00] ios-driver-git: ios-driver/build bc0d012 freynaud: trying to parallelize the build
 [2014-01-17 01:33:00] ios-driver-git, leaving. (#ios-driver)
+[2014-01-17 02:01:28] effederico, joining. (#ios-driver)
