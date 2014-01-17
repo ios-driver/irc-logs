@@ -108,3 +108,4 @@
 [2014-01-17 04:59:27] ios-driver-git: ios-driver/build 24e7fce freynaud: removing sout
 [2014-01-17 04:59:27] ios-driver-git: ios-driver/build e8669e4 freynaud: adding listener for debuggingwq
 [2014-01-17 05:12:32] jlipps, joining. (#ios-driver)
+[2014-01-17 05:26:41] jlipps, quitting. (Quit: Leaving.)
