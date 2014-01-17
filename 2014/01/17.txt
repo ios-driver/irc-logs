@@ -160,3 +160,13 @@
 [2014-01-17 12:47:32] admc: sorry
 [2014-01-17 12:56:09] santiycr, quitting. (Quit: Leaving.)
 [2014-01-17 12:59:20] santiycr, joining. (#ios-driver)
+[2014-01-17 13:00:14] nirvdrum: zoidberg123: Are you upgrading from a previous installation of xcode?
+[2014-01-17 13:02:41] zoidberg123: well i do have 2 versions of xcode
+[2014-01-17 13:02:48] zoidberg123: one is 5.0.2 and the other one is the beta
+[2014-01-17 13:03:03] zoidberg123: but the simulator that gets launched
+[2014-01-17 13:03:19] zoidberg123: is 5.0.2
+[2014-01-17 13:03:39] zoidberg123: not sure if i answered your question...
+[2014-01-17 13:04:20] zoidberg123: i think something is actually wrong with the Safari.app in the simulator
+[2014-01-17 13:04:35] lukeis, leaving. (#ios-driver)
+[2014-01-17 13:04:35] zoidberg123: because if i manually try to access it, it does not get launched properly
+[2014-01-17 13:04:45] zoidberg123: while other apps on the simulator (like Maps.app) are fine
