@@ -36,3 +36,7 @@
 [2014-01-17 02:53:12] nicegraham: but we've updated obviously to get ios7
 [2014-01-17 02:53:34] nicegraham: and I think that is the most likely use case with the way apple versions are picked up
 [2014-01-17 02:53:46] nicegraham: there's never really a long tail of people updating to the latest
+[2014-01-17 03:04:59] ios-driver-git, joining. (#ios-driver)
+[2014-01-17 03:04:59] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/7jL56w
+[2014-01-17 03:04:59] ios-driver-git: ios-driver/build 4669d4c freynaud:  using porp file instead
+[2014-01-17 03:04:59] ios-driver-git, leaving. (#ios-driver)
