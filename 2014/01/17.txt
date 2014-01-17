@@ -102,3 +102,8 @@
 [2014-01-17 04:36:03] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/fU-dIw
 [2014-01-17 04:36:03] ios-driver-git: ios-driver/build 08d81a6 freynaud: 15 sec is enough for instruments to startwq
 [2014-01-17 04:36:03] ios-driver-git, leaving. (#ios-driver)
+[2014-01-17 04:59:27] ios-driver-git, joining. (#ios-driver)
+[2014-01-17 04:59:27] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to build: http://git.io/KMTQJQ
+[2014-01-17 04:59:27] ios-driver-git, leaving. (#ios-driver)
+[2014-01-17 04:59:27] ios-driver-git: ios-driver/build 24e7fce freynaud: removing sout
+[2014-01-17 04:59:27] ios-driver-git: ios-driver/build e8669e4 freynaud: adding listener for debuggingwq
