@@ -125,3 +125,7 @@
 [2014-01-17 08:09:33] ios-driver-git, joining. (#ios-driver)
 [2014-01-17 08:09:33] ios-driver-git, leaving. (#ios-driver)
 [2014-01-17 08:09:33] ios-driver-git: [ios-driver] nicegraham created refactor at 19d4da2 (+0 new commits): http://git.io/ZLRFrA
+[2014-01-17 08:14:48] ios-driver-git, joining. (#ios-driver)
+[2014-01-17 08:14:48] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/PJWi6g
+[2014-01-17 08:14:48] ios-driver-git: ios-driver/build 0406a8f freynaud: adding listener
+[2014-01-17 08:14:48] ios-driver-git, leaving. (#ios-driver)
