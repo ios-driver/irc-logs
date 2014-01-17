@@ -176,3 +176,6 @@
 [2014-01-17 14:41:35] fviscomi, quitting. (Remote host closed the connection)
 [2014-01-17 14:41:50] fviscomi, joining. (#ios-driver)
 [2014-01-17 14:48:33] fviscomi, quitting. (Remote host closed the connection)
+[2014-01-17 14:51:55] jlipps, quitting. (Quit: Leaving.)
+[2014-01-17 14:53:07] smccarthy, quitting. (Remote host closed the connection)
+[2014-01-17 14:53:11] jlipps, joining. (#ios-driver)
