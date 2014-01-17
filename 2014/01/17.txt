@@ -26,3 +26,13 @@
 [2014-01-17 02:48:54] nicegraham: I think we should merge and close it
 [2014-01-17 02:49:10] nicegraham: it's splitting the dev effort
 [2014-01-17 02:49:48] freynaud_: if Luke is ok with it, I'll merge and delete refactor
+[2014-01-17 02:50:49] nicegraham: i'm pretty sure the only reason we were on refactor is because it's where the ios7 updates were
+[2014-01-17 02:50:54] nicegraham: most of those are now on dev
+[2014-01-17 02:51:03] nicegraham: so we just need to merge the differences
+[2014-01-17 02:51:25] freynaud_: do you know if poeple update xcode ?
+[2014-01-17 02:51:39] freynaud_: should ios-driver 7 support both xcode4.6 and 5, or just 5
+[2014-01-17 02:51:49] freynaud_: and ask people to use the old ios-driver for 4.6
+[2014-01-17 02:52:49] nicegraham: *I think* it supports the older ones too
+[2014-01-17 02:53:12] nicegraham: but we've updated obviously to get ios7
+[2014-01-17 02:53:34] nicegraham: and I think that is the most likely use case with the way apple versions are picked up
+[2014-01-17 02:53:46] nicegraham: there's never really a long tail of people updating to the latest
