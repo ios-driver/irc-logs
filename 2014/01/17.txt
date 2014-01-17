@@ -73,3 +73,12 @@
 [2014-01-17 03:43:47] ios-driver-git, leaving. (#ios-driver)
 [2014-01-17 03:44:22] nicegraham: freynaud_: as far as I'm concerned refactor can be deleted now. Any objections?
 [2014-01-17 03:44:41] freynaud_: if you merged everything, no problem for me
+[2014-01-17 03:45:16] nicegraham: yeah, dev is now 33 commits ahead and 0 behind refactor
+[2014-01-17 03:45:47] effederico, joining. (#ios-driver)
+[2014-01-17 03:45:56] freynaud_: cool
+[2014-01-17 03:46:32] effederico, leaving. (#ios-driver)
+[2014-01-17 03:46:44] ios-driver-git, joining. (#ios-driver)
+[2014-01-17 03:46:45] ios-driver-git: [ios-driver] nicegraham deleted refactor at 19d4da2: http://git.io/sWyAag
+[2014-01-17 03:46:45] ios-driver-git, leaving. (#ios-driver)
+[2014-01-17 03:46:51] fviscomi, joining. (#ios-driver)
+[2014-01-17 03:47:15] nicegraham: you're able to restore the branch in the ui anyway, you just need to view the closed PR and there's a restore branch link at the bottom
