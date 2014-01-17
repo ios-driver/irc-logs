@@ -172,3 +172,4 @@
 [2014-01-17 13:04:45] zoidberg123: while other apps on the simulator (like Maps.app) are fine
 [2014-01-17 13:24:25] zoidberg123, quitting. (Quit: leaving)
 [2014-01-17 14:28:05] santiycr, quitting. (Quit: Leaving.)
+[2014-01-17 14:37:18] fviscomi, joining. (#ios-driver)
