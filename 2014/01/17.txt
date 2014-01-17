@@ -13,3 +13,16 @@
 [2014-01-17 02:43:05] freynaud_: when did he do that ?
 [2014-01-17 02:43:17] freynaud_: i mainly worked on specific test error
 [2014-01-17 02:43:23] freynaud_: and on the build
+[2014-01-17 02:45:01] nicegraham: he did it on the refactor branch at some stage this week
+[2014-01-17 02:45:05] nicegraham: maybe wednesday
+[2014-01-17 02:45:15] freynaud_: haven't tried that
+[2014-01-17 02:45:35] nicegraham: https://github.com/ios-driver/ios-driver/commit/81cefa1dea6b1bff7f703c03b78f8379fa40bb12
+[2014-01-17 02:45:50] nicegraham: https://github.com/ios-driver/ios-driver/commit/9363323dcae5a7bf5fc0f2d4c62f4a3b5fb72b1b
+[2014-01-17 02:45:55] nicegraham: https://github.com/ios-driver/ios-driver/commit/a001e83c51be7ddaf628ae8d7fc0d0352fa91394
+[2014-01-17 02:47:22] freynaud_: I'd like to finish the CI first
+[2014-01-17 02:47:29] freynaud_: and let it find the failing tests
+[2014-01-17 02:47:39] freynaud_: any reason from your side to keep working on refactor ?
+[2014-01-17 02:47:46] freynaud_: or can we merge to dev ?
+[2014-01-17 02:48:54] nicegraham: I think we should merge and close it
+[2014-01-17 02:49:10] nicegraham: it's splitting the dev effort
+[2014-01-17 02:49:48] freynaud_: if Luke is ok with it, I'll merge and delete refactor
