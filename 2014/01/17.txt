@@ -40,3 +40,10 @@
 [2014-01-17 03:04:59] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/7jL56w
 [2014-01-17 03:04:59] ios-driver-git: ios-driver/build 4669d4c freynaud:  using porp file instead
 [2014-01-17 03:04:59] ios-driver-git, leaving. (#ios-driver)
+[2014-01-17 03:05:48] ios-driver-git, joining. (#ios-driver)
+[2014-01-17 03:05:48] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/qYmg8w
+[2014-01-17 03:05:48] ios-driver-git: ios-driver/build 1ed6748 freynaud: prop file ext fix
+[2014-01-17 03:05:48] ios-driver-git, leaving. (#ios-driver)
+[2014-01-17 03:07:19] ios-driver-git, joining. (#ios-driver)
+[2014-01-17 03:07:19] ios-driver-git: [ios-driver] nicegraham opened pull request #203: Refactor merge onto dev (dev...refactor) http://git.io/3B-qGw
+[2014-01-17 03:07:19] ios-driver-git, leaving. (#ios-driver)
