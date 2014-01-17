@@ -94,3 +94,7 @@
 [2014-01-17 04:24:06] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/tNjJig
 [2014-01-17 04:24:06] ios-driver-git: ios-driver/build ec3dbc7 freynaud: adding time out on some flaky testswq
 [2014-01-17 04:24:06] ios-driver-git, leaving. (#ios-driver)
+[2014-01-17 04:30:07] ios-driver-git, joining. (#ios-driver)
+[2014-01-17 04:30:08] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/Y5bSaQ
+[2014-01-17 04:30:08] ios-driver-git: ios-driver/build f963bde freynaud: removing debug listener
+[2014-01-17 04:30:08] ios-driver-git, leaving. (#ios-driver)
