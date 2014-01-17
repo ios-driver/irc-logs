@@ -52,3 +52,7 @@
 [2014-01-17 03:11:23] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/TSmkEg
 [2014-01-17 03:11:23] ios-driver-git: ios-driver/build eb7137a freynaud: jenkins prefers upper case
 [2014-01-17 03:11:23] ios-driver-git, leaving. (#ios-driver)
+[2014-01-17 03:16:39] ios-driver-git, joining. (#ios-driver)
+[2014-01-17 03:16:39] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/gUPLzg
+[2014-01-17 03:16:39] ios-driver-git: ios-driver/build bae674d freynaud: if all is empty, logic is wrong
+[2014-01-17 03:16:39] ios-driver-git, leaving. (#ios-driver)
