@@ -2,3 +2,5 @@
 [2014-01-18 07:49:34] phasze, quitting. (*.net *.split)
 [2014-01-18 07:49:53] smccarthy, joining. (#ios-driver)
 [2014-01-18 07:52:09] phasze, joining. (#ios-driver)
+[2014-01-18 07:56:12] phasze, quitting. (*.net *.split)
+[2014-01-18 07:58:47] phasze, joining. (#ios-driver)
