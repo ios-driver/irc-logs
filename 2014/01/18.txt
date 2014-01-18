@@ -49,3 +49,7 @@
 [2014-01-18 09:58:44] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/H8vKpw
 [2014-01-18 09:58:44] ios-driver-git: ios-driver/build 5ff9ff9 freynaud: moving files
 [2014-01-18 09:58:44] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 11:29:09] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 11:29:10] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/3a88uQ
+[2014-01-18 11:29:10] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 11:29:10] ios-driver-git: ios-driver/build e7bf67f freynaud: generate all files in target
