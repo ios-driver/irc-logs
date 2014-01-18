@@ -125,3 +125,4 @@
 [2014-01-18 13:58:40] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/NEXFvA
 [2014-01-18 13:58:40] ios-driver-git: ios-driver/build c3db2e2 freynaud: debugging session not starting
 [2014-01-18 13:58:40] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 14:12:45] admc, quitting. (Read error: Connection reset by peer)
