@@ -69,3 +69,13 @@
 [2014-01-18 12:39:47] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/KzP94g
 [2014-01-18 12:39:47] ios-driver-git: ios-driver/build 840be1e freynaud: session.quit doesn't fail tests
 [2014-01-18 12:39:47] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 12:51:26] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 12:51:26] ios-driver-git: ios-driver/build 1e1279b freynaud: changing timeouts
+[2014-01-18 12:51:26] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/oEMLWg
+[2014-01-18 12:51:26] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 12:51:26] AutomatedTester: freynaud_: yt?
+[2014-01-18 12:52:26] freynaud, joining. (#ios-driver)
+[2014-01-18 12:54:04] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 12:54:04] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/ABm4Hw
+[2014-01-18 12:54:04] ios-driver-git: ios-driver/build a7a7e02 freynaud: increasing timeout
+[2014-01-18 12:54:04] ios-driver-git, leaving. (#ios-driver)
