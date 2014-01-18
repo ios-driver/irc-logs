@@ -29,3 +29,11 @@
 [2014-01-18 09:09:35] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/eP7TKA
 [2014-01-18 09:09:35] ios-driver-git: ios-driver/build 623e807 freynaud: NPE
 [2014-01-18 09:09:35] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 09:11:07] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 09:11:07] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/dKPJeQ
+[2014-01-18 09:11:07] ios-driver-git: ios-driver/build 4c7860b freynaud: loading files once..
+[2014-01-18 09:11:07] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 09:12:52] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 09:12:53] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/mpiefg
+[2014-01-18 09:12:53] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 09:12:53] ios-driver-git: ios-driver/build 0c77ed4 freynaud: 2 files needed
