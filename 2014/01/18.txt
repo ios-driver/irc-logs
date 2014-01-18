@@ -121,3 +121,7 @@
 [2014-01-18 13:44:19] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/5Ox-Ew
 [2014-01-18 13:44:19] ios-driver-git, leaving. (#ios-driver)
 [2014-01-18 13:44:19] ios-driver-git: ios-driver/build 218220c freynaud: waiting for server to end.wq
+[2014-01-18 13:58:39] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 13:58:40] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/NEXFvA
+[2014-01-18 13:58:40] ios-driver-git: ios-driver/build c3db2e2 freynaud: debugging session not starting
+[2014-01-18 13:58:40] ios-driver-git, leaving. (#ios-driver)
