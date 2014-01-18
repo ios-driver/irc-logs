@@ -4,3 +4,8 @@
 [2014-01-18 07:52:09] phasze, joining. (#ios-driver)
 [2014-01-18 07:56:12] phasze, quitting. (*.net *.split)
 [2014-01-18 07:58:47] phasze, joining. (#ios-driver)
+[2014-01-18 08:39:25] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 08:39:25] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to build: http://git.io/fZeEDA
+[2014-01-18 08:39:25] ios-driver-git: ios-driver/build cc0eadd freynaud: separating out the build stuff
+[2014-01-18 08:39:25] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 08:39:25] ios-driver-git: ios-driver/build c9fb33d freynaud: refactoring build related files
