@@ -9,3 +9,7 @@
 [2014-01-18 08:39:25] ios-driver-git: ios-driver/build cc0eadd freynaud: separating out the build stuff
 [2014-01-18 08:39:25] ios-driver-git, leaving. (#ios-driver)
 [2014-01-18 08:39:25] ios-driver-git: ios-driver/build c9fb33d freynaud: refactoring build related files
+[2014-01-18 08:44:38] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 08:44:38] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/ilno6A
+[2014-01-18 08:44:38] ios-driver-git: ios-driver/build ec2bc5c freynaud: clean import
+[2014-01-18 08:44:38] ios-driver-git, leaving. (#ios-driver)
