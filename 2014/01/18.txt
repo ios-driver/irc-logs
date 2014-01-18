@@ -61,3 +61,7 @@
 [2014-01-18 11:54:40] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/hCv6YA
 [2014-01-18 11:54:40] ios-driver-git: ios-driver/build ebb4f60 freynaud: loading all metrics
 [2014-01-18 11:54:40] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 12:11:12] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 12:11:13] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/Hg6WAQ
+[2014-01-18 12:11:13] ios-driver-git: ios-driver/build 52722f1 freynaud: adding a default 30 sec timeout to the tests
+[2014-01-18 12:11:13] ios-driver-git, leaving. (#ios-driver)
