@@ -159,3 +159,7 @@
 [2014-01-18 15:40:29] ios-driver-git: ios-driver/build e1ad488 freynaud: more session debugging
 [2014-01-18 15:40:29] ios-driver-git, leaving. (#ios-driver)
 [2014-01-18 15:43:46] jlipps, quitting. (Quit: Leaving.)
+[2014-01-18 15:48:48] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 15:48:49] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/7dxOZg
+[2014-01-18 15:48:49] ios-driver-git: ios-driver/build b6546fd freynaud: cleaning up
+[2014-01-18 15:48:49] ios-driver-git, leaving. (#ios-driver)
