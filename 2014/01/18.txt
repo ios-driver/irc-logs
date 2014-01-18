@@ -80,3 +80,15 @@
 [2014-01-18 12:54:04] ios-driver-git: ios-driver/build a7a7e02 freynaud: increasing timeout
 [2014-01-18 12:54:04] ios-driver-git, leaving. (#ios-driver)
 [2014-01-18 13:13:38] admc, joining. (#ios-driver)
+[2014-01-18 13:18:37] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 13:18:38] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to build: http://git.io/7sw2vQ
+[2014-01-18 13:18:38] ios-driver-git: ios-driver/build b6690fc freynaud: bug fix
+[2014-01-18 13:18:38] ios-driver-git: ios-driver/build 4ee61a5 freynaud: testng cleanup
+[2014-01-18 13:18:38] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 13:19:46] phasze, quitting. (*.net *.split)
+[2014-01-18 13:19:46] freynaud, quitting. (*.net *.split)
+[2014-01-18 13:19:49] dgrace, quitting. (*.net *.split)
+[2014-01-18 13:19:53] smccarthy, quitting. (*.net *.split)
+[2014-01-18 13:19:56] admc, quitting. (*.net *.split)
+[2014-01-18 13:19:56] nirvdrum, quitting. (*.net *.split)
+[2014-01-18 13:20:00] freynaud_, quitting. (*.net *.split)
