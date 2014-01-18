@@ -79,3 +79,4 @@
 [2014-01-18 12:54:04] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/ABm4Hw
 [2014-01-18 12:54:04] ios-driver-git: ios-driver/build a7a7e02 freynaud: increasing timeout
 [2014-01-18 12:54:04] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 13:13:38] admc, joining. (#ios-driver)
