@@ -13,3 +13,7 @@
 [2014-01-18 08:44:38] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/ilno6A
 [2014-01-18 08:44:38] ios-driver-git: ios-driver/build ec2bc5c freynaud: clean import
 [2014-01-18 08:44:38] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 08:46:19] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 08:46:19] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/iviEZw
+[2014-01-18 08:46:19] ios-driver-git: ios-driver/build fbef806 freynaud: adding missing files
+[2014-01-18 08:46:19] ios-driver-git, leaving. (#ios-driver)
