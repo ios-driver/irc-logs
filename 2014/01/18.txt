@@ -154,3 +154,8 @@
 [2014-01-18 15:24:46] ios-driver-git: ios-driver/build 282ffc2 freynaud: binding cap to session
 [2014-01-18 15:24:46] ios-driver-git, leaving. (#ios-driver)
 [2014-01-18 15:34:19] jlipps, joining. (#ios-driver)
+[2014-01-18 15:40:28] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 15:40:29] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/sggAkA
+[2014-01-18 15:40:29] ios-driver-git: ios-driver/build e1ad488 freynaud: more session debugging
+[2014-01-18 15:40:29] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 15:43:46] jlipps, quitting. (Quit: Leaving.)
