@@ -149,3 +149,7 @@
 [2014-01-18 15:06:32] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/_h68oQ
 [2014-01-18 15:06:32] ios-driver-git: ios-driver/build 15ba0ad freynaud: more debug
 [2014-01-18 15:06:32] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 15:24:45] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 15:24:46] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/illowQ
+[2014-01-18 15:24:46] ios-driver-git: ios-driver/build 282ffc2 freynaud: binding cap to session
+[2014-01-18 15:24:46] ios-driver-git, leaving. (#ios-driver)
