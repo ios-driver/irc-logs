@@ -127,3 +127,7 @@
 [2014-01-18 13:58:40] ios-driver-git, leaving. (#ios-driver)
 [2014-01-18 14:12:45] admc, quitting. (Read error: Connection reset by peer)
 [2014-01-18 14:18:07] admc, joining. (#ios-driver)
+[2014-01-18 14:20:29] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 14:20:30] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/0Juocg
+[2014-01-18 14:20:30] ios-driver-git: ios-driver/build 903c7fd freynaud: adding order
+[2014-01-18 14:20:30] ios-driver-git, leaving. (#ios-driver)
