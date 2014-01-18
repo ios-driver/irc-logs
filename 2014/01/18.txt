@@ -117,3 +117,7 @@
 [2014-01-18 13:33:35] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/HrOy8g
 [2014-01-18 13:33:36] ios-driver-git: ios-driver/build 63be903 freynaud: removing crash handling for now
 [2014-01-18 13:33:36] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 13:44:19] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 13:44:19] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/5Ox-Ew
+[2014-01-18 13:44:19] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 13:44:19] ios-driver-git: ios-driver/build 218220c freynaud: waiting for server to end.wq
