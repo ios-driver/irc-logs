@@ -217,3 +217,4 @@
 [2014-01-18 17:40:10] smccarthy2, joining. (#ios-driver)
 [2014-01-18 17:41:19] smccarthy, quitting. (Ping timeout: 260 seconds)
 [2014-01-18 19:20:12] admc, quitting. (Quit: Leaving.)
+[2014-01-18 19:34:09] nirvdrum, quitting. (Ping timeout: 272 seconds)
