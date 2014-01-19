@@ -19,3 +19,5 @@
 [2014-01-19 09:53:04] admc, quitting. (Client Quit)
 [2014-01-19 10:50:43] freynaud, joining. (#ios-driver)
 [2014-01-19 11:13:10] freynaud, quitting. (Quit: freynaud)
+[2014-01-19 11:19:41] freynaud, joining. (#ios-driver)
+[2014-01-19 11:19:42] freynaud, quitting. (Read error: Connection reset by peer)
