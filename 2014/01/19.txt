@@ -21,3 +21,5 @@
 [2014-01-19 11:13:10] freynaud, quitting. (Quit: freynaud)
 [2014-01-19 11:19:41] freynaud, joining. (#ios-driver)
 [2014-01-19 11:19:42] freynaud, quitting. (Read error: Connection reset by peer)
+[2014-01-19 11:47:27] freynaud, joining. (#ios-driver)
+[2014-01-19 11:47:36] freynaud, leaving. (#ios-driver)
