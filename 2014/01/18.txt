@@ -214,3 +214,5 @@
 [2014-01-18 17:36:23] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/vnJfaQ
 [2014-01-18 17:36:23] ios-driver-git: ios-driver/build b5344da freynaud: new retry
 [2014-01-18 17:36:23] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 17:40:10] smccarthy2, joining. (#ios-driver)
+[2014-01-18 17:41:19] smccarthy, quitting. (Ping timeout: 260 seconds)
