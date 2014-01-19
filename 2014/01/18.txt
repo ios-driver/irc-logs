@@ -189,3 +189,8 @@
 [2014-01-18 16:52:41] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/hIl6pw
 [2014-01-18 16:52:41] ios-driver-git: ios-driver/build 20d7d3b freynaud: adding param for slow DNS lookup case
 [2014-01-18 16:52:41] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 17:09:52] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 17:09:53] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to build: http://git.io/TtsRMg
+[2014-01-18 17:09:53] ios-driver-git: ios-driver/build b6f4ecf freynaud: less verbose
+[2014-01-18 17:09:53] ios-driver-git: ios-driver/build d2def5c freynaud: adding retry mechanism
+[2014-01-18 17:09:53] ios-driver-git, leaving. (#ios-driver)
