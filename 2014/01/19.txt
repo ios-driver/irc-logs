@@ -14,3 +14,4 @@
 [2014-01-19 08:00:45] freynaud, quitting. (Ping timeout: 272 seconds)
 [2014-01-19 08:00:46] freynaud__, changing nick to freynaud.
 [2014-01-19 08:45:00] smccarthy, joining. (#ios-driver)
+[2014-01-19 09:16:51] freynaud, quitting. (Ping timeout: 272 seconds)
