@@ -168,3 +168,7 @@
 [2014-01-18 15:52:02] ios-driver-git: ios-driver/build 90e285a freynaud: adding logs
 [2014-01-18 15:52:02] ios-driver-git, leaving. (#ios-driver)
 [2014-01-18 15:58:49] admc, quitting. (Quit: Leaving.)
+[2014-01-18 16:06:18] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 16:06:18] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/EtD56g
+[2014-01-18 16:06:18] ios-driver-git: ios-driver/build 8c72cc1 freynaud: more session debug
+[2014-01-18 16:06:18] ios-driver-git, leaving. (#ios-driver)
