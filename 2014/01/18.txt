@@ -206,3 +206,7 @@
 [2014-01-18 17:20:39] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/KXzq-A
 [2014-01-18 17:20:39] ios-driver-git: ios-driver/build 7b2291f freynaud: cleanup
 [2014-01-18 17:20:39] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 17:28:10] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 17:28:11] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/gwDfew
+[2014-01-18 17:28:11] ios-driver-git: ios-driver/build 0c9e57d freynaud: retry fails
+[2014-01-18 17:28:11] ios-driver-git, leaving. (#ios-driver)
