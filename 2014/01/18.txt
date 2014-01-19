@@ -220,3 +220,5 @@
 [2014-01-18 19:34:09] nirvdrum, quitting. (Ping timeout: 272 seconds)
 [2014-01-18 19:40:55] admc, joining. (#ios-driver)
 [2014-01-18 19:40:55] admc, quitting. (Client Quit)
+[2014-01-18 21:03:17] RomAbptTHN, joining. (#ios-driver)
+[2014-01-18 21:03:31] RomAbptTHN, leaving. (#ios-driver)
