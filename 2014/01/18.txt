@@ -180,3 +180,7 @@
 [2014-01-18 16:22:36] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/bZy1Qg
 [2014-01-18 16:22:36] ios-driver-git: ios-driver/build f267ed1 freynaud: bug fix ?
 [2014-01-18 16:22:36] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 16:28:23] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 16:28:24] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/MA8qCA
+[2014-01-18 16:28:24] ios-driver-git: ios-driver/build 4a526d4 freynaud: fix part2
+[2014-01-18 16:28:24] ios-driver-git, leaving. (#ios-driver)
