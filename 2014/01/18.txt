@@ -194,3 +194,11 @@
 [2014-01-18 17:09:53] ios-driver-git: ios-driver/build b6f4ecf freynaud: less verbose
 [2014-01-18 17:09:53] ios-driver-git: ios-driver/build d2def5c freynaud: adding retry mechanism
 [2014-01-18 17:09:53] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 17:11:51] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 17:11:52] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/Dxwz-Q
+[2014-01-18 17:11:52] ios-driver-git, leaving. (#ios-driver)
+[2014-01-18 17:11:52] ios-driver-git: ios-driver/build 8d71dc9 freynaud: adding logs
+[2014-01-18 17:13:54] ios-driver-git, joining. (#ios-driver)
+[2014-01-18 17:13:55] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to build: http://git.io/qh20aQ
+[2014-01-18 17:13:55] ios-driver-git: ios-driver/build 7c59d5a freynaud: adding test back
+[2014-01-18 17:13:55] ios-driver-git, leaving. (#ios-driver)
