@@ -61,3 +61,5 @@
 [2014-01-20 13:38:59] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/_QSoRg
 [2014-01-20 13:38:59] ios-driver-git: ios-driver/dev def53e3 rsalvador: Allow incremental SDK versions in the session capability.
 [2014-01-20 13:39:00] ios-driver-git, leaving. (#ios-driver)
+[2014-01-20 13:42:02] nicegraham: rsalvador: check out the build branch, freynaud has been fixing a lot of session issues he saw when he parallelized the CI build
+[2014-01-20 13:42:09] nicegraham: should be checked in to dev tomorrow maybe
