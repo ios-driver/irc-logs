@@ -15,3 +15,4 @@
 [2014-01-20 07:51:43] oborot, quitting. (Ping timeout: 260 seconds)
 [2014-01-20 07:53:27] skreep, quitting. (Ping timeout: 272 seconds)
 [2014-01-20 08:11:54] rsalvador, joining. (#ios-driver)
+[2014-01-20 08:36:27] santiycr, joining. (#ios-driver)
