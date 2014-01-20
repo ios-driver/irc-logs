@@ -32,3 +32,5 @@
 [2014-01-19 20:01:37] admc, joining. (#ios-driver)
 [2014-01-19 21:13:34] admc, quitting. (Quit: Leaving.)
 [2014-01-19 21:26:21] smccarthy, quitting. (Remote host closed the connection)
+[2014-01-19 21:48:37] freynaud, joining. (#ios-driver)
+[2014-01-19 21:49:44] freynaud, quitting. (Client Quit)
