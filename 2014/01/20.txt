@@ -73,3 +73,4 @@
 [2014-01-20 13:48:29] nicegraham: sounds like he's fixed a lot of them
 [2014-01-20 13:49:07] rsalvador: I think in a run I just did in dev got 17 failures in selenium tests and 22 in the other big set
 [2014-01-20 13:59:20] smccarthy2, joining. (#ios-driver)
+[2014-01-20 14:02:53] smccarthy, quitting. (Ping timeout: 252 seconds)
