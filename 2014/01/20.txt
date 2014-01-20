@@ -78,3 +78,4 @@
 [2014-01-20 14:31:08] rsalvador, quitting. (Ping timeout: 260 seconds)
 [2014-01-20 15:18:35] admc1, joining. (#ios-driver)
 [2014-01-20 15:19:19] admc, quitting. (Read error: Connection reset by peer)
+[2014-01-20 15:36:25] smccarthy2, quitting. (Remote host closed the connection)
