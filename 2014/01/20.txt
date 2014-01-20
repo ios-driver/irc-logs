@@ -55,3 +55,4 @@
 [2014-01-20 12:49:16] ios-driver-git: ios-driver/dev 5810593 rsalvador: Make sure test tear down methods are always executed.
 [2014-01-20 12:55:41] nirvdrum, joining. (#ios-driver)
 [2014-01-20 13:00:44] santiycr, quitting. (Quit: Leaving.)
+[2014-01-20 13:14:44] santiycr, joining. (#ios-driver)
