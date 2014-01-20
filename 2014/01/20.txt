@@ -29,3 +29,4 @@
 [2014-01-20 10:25:23] ios-driver-git, leaving. (#ios-driver)
 [2014-01-20 10:46:44] admc, joining. (#ios-driver)
 [2014-01-20 11:12:25] jlipps, joining. (#ios-driver)
+[2014-01-20 11:25:22] santiycr, quitting. (Quit: Leaving.)
