@@ -38,3 +38,4 @@
 [2014-01-20 11:45:31] sokoil, quitting. (Remote host closed the connection)
 [2014-01-20 12:00:59] admc, joining. (#ios-driver)
 [2014-01-20 12:02:08] admc, quitting. (Client Quit)
+[2014-01-20 12:08:42] santiycr, quitting. (Quit: Leaving.)
