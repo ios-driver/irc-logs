@@ -57,3 +57,7 @@
 [2014-01-20 13:00:44] santiycr, quitting. (Quit: Leaving.)
 [2014-01-20 13:14:44] santiycr, joining. (#ios-driver)
 [2014-01-20 13:15:12] admc, joining. (#ios-driver)
+[2014-01-20 13:38:59] ios-driver-git, joining. (#ios-driver)
+[2014-01-20 13:38:59] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/_QSoRg
+[2014-01-20 13:38:59] ios-driver-git: ios-driver/dev def53e3 rsalvador: Allow incremental SDK versions in the session capability.
+[2014-01-20 13:39:00] ios-driver-git, leaving. (#ios-driver)
