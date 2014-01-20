@@ -35,3 +35,4 @@
 [2014-01-20 11:33:54] rsalvador, leaving. (#ios-driver)
 [2014-01-20 11:35:58] rsalvador, joining. (#ios-driver)
 [2014-01-20 11:43:59] sokoil, joining. (#ios-driver)
+[2014-01-20 11:45:31] sokoil, quitting. (Remote host closed the connection)
