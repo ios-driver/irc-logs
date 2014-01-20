@@ -23,3 +23,7 @@
 [2014-01-20 09:02:34] santiycr, quitting. (Client Quit)
 [2014-01-20 09:08:38] missle, quitting. (Ping timeout: 252 seconds)
 [2014-01-20 10:02:53] santiycr, joining. (#ios-driver)
+[2014-01-20 10:25:22] ios-driver-git, joining. (#ios-driver)
+[2014-01-20 10:25:23] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/bIQjBA
+[2014-01-20 10:25:23] ios-driver-git: ios-driver/dev e520122 rsalvador: Use a default device variation that is compatible with the current SDK.
+[2014-01-20 10:25:23] ios-driver-git, leaving. (#ios-driver)
