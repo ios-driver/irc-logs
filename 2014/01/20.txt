@@ -5,3 +5,4 @@
 [2014-01-20 01:56:57] admc, quitting. (Quit: Leaving.)
 [2014-01-20 02:00:32] dgrace: freynaud_: good morning!
 [2014-01-20 02:00:59] dgrace: Graham tells me you plan on merging your stuff in the build branch to dev today maybe?
+[2014-01-20 07:15:48] rsalvador, joining. (#ios-driver)
