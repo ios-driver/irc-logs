@@ -11,3 +11,6 @@
 [2014-01-20 07:31:42] smccarthy, joining. (#ios-driver)
 [2014-01-20 07:44:39] einstainium, joining. (#ios-driver)
 [2014-01-20 07:46:52] oborot, joining. (#ios-driver)
+[2014-01-20 07:51:27] einstainium, quitting. (Ping timeout: 252 seconds)
+[2014-01-20 07:51:43] oborot, quitting. (Ping timeout: 260 seconds)
+[2014-01-20 07:53:27] skreep, quitting. (Ping timeout: 272 seconds)
