@@ -53,3 +53,4 @@
 [2014-01-20 12:49:16] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/EEnuqQ
 [2014-01-20 12:49:16] ios-driver-git, leaving. (#ios-driver)
 [2014-01-20 12:49:16] ios-driver-git: ios-driver/dev 5810593 rsalvador: Make sure test tear down methods are always executed.
+[2014-01-20 12:55:41] nirvdrum, joining. (#ios-driver)
