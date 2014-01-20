@@ -63,3 +63,12 @@
 [2014-01-20 13:39:00] ios-driver-git, leaving. (#ios-driver)
 [2014-01-20 13:42:02] nicegraham: rsalvador: check out the build branch, freynaud has been fixing a lot of session issues he saw when he parallelized the CI build
 [2014-01-20 13:42:09] nicegraham: should be checked in to dev tomorrow maybe
+[2014-01-20 13:47:38] rsalvador: oh, didn't know there was that branch, I will not touch anything else for now then
+[2014-01-20 13:47:38] ios-driver-git, joining. (#ios-driver)
+[2014-01-20 13:47:38] ios-driver-git: [ios-driver] nicegraham deleted refactor at 19d4da2: http://git.io/sWyAag
+[2014-01-20 13:47:38] ios-driver-git, leaving. (#ios-driver)
+[2014-01-20 13:47:54] nicegraham: he's been focusing on getting the unit tests passing
+[2014-01-20 13:47:59] nicegraham: I think only 10ish are failing now
+[2014-01-20 13:48:15] nicegraham: a lot of the issues were around session creation / orphaned sessions
+[2014-01-20 13:48:29] nicegraham: sounds like he's fixed a lot of them
+[2014-01-20 13:49:07] rsalvador: I think in a run I just did in dev got 17 failures in selenium tests and 22 in the other big set
