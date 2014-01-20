@@ -48,3 +48,8 @@
 [2014-01-20 12:25:58] rsalvador, quitting. (Client Quit)
 [2014-01-20 12:27:40] rsalvador, joining. (#ios-driver)
 [2014-01-20 12:38:31] admc, quitting. (Quit: Leaving.)
+[2014-01-20 12:47:59] nirvdrum, quitting. (Remote host closed the connection)
+[2014-01-20 12:49:15] ios-driver-git, joining. (#ios-driver)
+[2014-01-20 12:49:16] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/EEnuqQ
+[2014-01-20 12:49:16] ios-driver-git, leaving. (#ios-driver)
+[2014-01-20 12:49:16] ios-driver-git: ios-driver/dev 5810593 rsalvador: Make sure test tear down methods are always executed.
