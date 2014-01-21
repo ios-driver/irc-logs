@@ -35,3 +35,5 @@
 [2014-01-21 11:41:12] freynaud, joining. (#ios-driver)
 [2014-01-21 11:41:30] freynaud, quitting. (Client Quit)
 [2014-01-21 11:43:21] admc, quitting. (Quit: Leaving.)
+[2014-01-21 12:06:50] admc, joining. (#ios-driver)
+[2014-01-21 12:07:57] admc, quitting. (Client Quit)
