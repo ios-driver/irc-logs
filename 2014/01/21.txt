@@ -32,3 +32,6 @@
 [2014-01-21 11:00:23] rsalvador, joining. (#ios-driver)
 [2014-01-21 11:14:27] rsalvador1, joining. (#ios-driver)
 [2014-01-21 11:14:27] rsalvador, quitting. (Read error: Connection reset by peer)
+[2014-01-21 11:41:12] freynaud, joining. (#ios-driver)
+[2014-01-21 11:41:30] freynaud, quitting. (Client Quit)
+[2014-01-21 11:43:21] admc, quitting. (Quit: Leaving.)
