@@ -79,3 +79,4 @@
 [2014-01-20 15:18:35] admc1, joining. (#ios-driver)
 [2014-01-20 15:19:19] admc, quitting. (Read error: Connection reset by peer)
 [2014-01-20 15:36:25] smccarthy2, quitting. (Remote host closed the connection)
+[2014-01-20 15:57:16] admc1, quitting. (Quit: Leaving.)
