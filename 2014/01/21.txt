@@ -51,3 +51,4 @@
 [2014-01-21 15:34:02] jlipps, quitting. (Remote host closed the connection)
 [2014-01-21 15:35:09] lukeis, quitting. (Quit: Leaving.)
 [2014-01-21 15:36:01] jlipps, joining. (#ios-driver)
+[2014-01-21 15:50:03] joevans, joining. (#ios-driver)
