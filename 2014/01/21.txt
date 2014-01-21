@@ -49,3 +49,5 @@
 [2014-01-21 15:02:25] admc1, quitting. (Ping timeout: 272 seconds)
 [2014-01-21 15:03:25] admc, joining. (#ios-driver)
 [2014-01-21 15:34:02] jlipps, quitting. (Remote host closed the connection)
+[2014-01-21 15:35:09] lukeis, quitting. (Quit: Leaving.)
+[2014-01-21 15:36:01] jlipps, joining. (#ios-driver)
