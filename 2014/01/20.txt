@@ -85,3 +85,4 @@
 [2014-01-20 16:40:51] admc, joining. (#ios-driver)
 [2014-01-20 16:40:53] admc, quitting. (Read error: Connection reset by peer)
 [2014-01-20 16:40:59] admc, joining. (#ios-driver)
+[2014-01-20 16:45:23] smccarthy, joining. (#ios-driver)
