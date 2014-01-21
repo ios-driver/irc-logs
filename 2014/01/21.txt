@@ -22,3 +22,7 @@
 [2014-01-21 10:09:01] rsalvador1, joining. (#ios-driver)
 [2014-01-21 10:09:01] rsalvador, quitting. (Read error: Connection reset by peer)
 [2014-01-21 10:09:28] surya: HI All, checking if any one has worked on automating hybrid apps. I am kind of stuck when I hit the web view.
+[2014-01-21 10:10:10] rsalvador1, leaving. (#ios-driver)
+[2014-01-21 10:12:08] surya_, joining. (#ios-driver)
+[2014-01-21 10:12:30] surya_: HI All, checking if any one has worked on automating hybrid apps. I am kind of stuck when I hit the web view.
+[2014-01-21 10:14:37] surya, quitting. (Ping timeout: 272 seconds)
