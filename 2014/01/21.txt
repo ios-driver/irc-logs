@@ -3,3 +3,5 @@
 [2014-01-21 01:21:17] admc, quitting. (Quit: Leaving.)
 [2014-01-21 05:14:55] jlipps, joining. (#ios-driver)
 [2014-01-21 05:26:38] jlipps, quitting. (Quit: Leaving.)
+[2014-01-21 05:30:06] jlipps, joining. (#ios-driver)
+[2014-01-21 05:30:25] jlipps, quitting. (Client Quit)
