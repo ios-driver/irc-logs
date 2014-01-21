@@ -28,3 +28,4 @@
 [2014-01-21 10:14:37] surya, quitting. (Ping timeout: 272 seconds)
 [2014-01-21 10:17:27] surya_: hi
 [2014-01-21 10:37:25] surya_, quitting. (Ping timeout: 272 seconds)
+[2014-01-21 10:54:23] admc, joining. (#ios-driver)
