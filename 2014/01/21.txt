@@ -48,3 +48,4 @@
 [2014-01-21 14:44:57] admc, quitting. (Read error: Connection reset by peer)
 [2014-01-21 15:02:25] admc1, quitting. (Ping timeout: 272 seconds)
 [2014-01-21 15:03:25] admc, joining. (#ios-driver)
+[2014-01-21 15:34:02] jlipps, quitting. (Remote host closed the connection)
