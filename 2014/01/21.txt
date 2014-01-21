@@ -11,3 +11,4 @@
 [2014-01-21 08:58:46] lukeis, joining. (#ios-driver)
 [2014-01-21 09:06:39] rsalvador1, joining. (#ios-driver)
 [2014-01-21 09:09:10] rsalvador, quitting. (Ping timeout: 260 seconds)
+[2014-01-21 09:30:47] jlipps, joining. (#ios-driver)
