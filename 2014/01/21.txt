@@ -27,3 +27,4 @@
 [2014-01-21 10:12:30] surya_: HI All, checking if any one has worked on automating hybrid apps. I am kind of stuck when I hit the web view.
 [2014-01-21 10:14:37] surya, quitting. (Ping timeout: 272 seconds)
 [2014-01-21 10:17:27] surya_: hi
+[2014-01-21 10:37:25] surya_, quitting. (Ping timeout: 272 seconds)
