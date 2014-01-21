@@ -14,3 +14,11 @@
 [2014-01-21 09:30:47] jlipps, joining. (#ios-driver)
 [2014-01-21 09:36:49] jlipps, quitting. (Quit: Leaving.)
 [2014-01-21 09:37:07] jlipps, joining. (#ios-driver)
+[2014-01-21 10:05:05] rsalvador, joining. (#ios-driver)
+[2014-01-21 10:05:05] rsalvador1, quitting. (Read error: Connection reset by peer)
+[2014-01-21 10:06:28] ebay, joining. (#ios-driver)
+[2014-01-21 10:07:01] ebay, quitting. (Client Quit)
+[2014-01-21 10:08:08] surya, joining. (#ios-driver)
+[2014-01-21 10:09:01] rsalvador1, joining. (#ios-driver)
+[2014-01-21 10:09:01] rsalvador, quitting. (Read error: Connection reset by peer)
+[2014-01-21 10:09:28] surya: HI All, checking if any one has worked on automating hybrid apps. I am kind of stuck when I hit the web view.
