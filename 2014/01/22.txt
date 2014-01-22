@@ -21,3 +21,4 @@
 [2014-01-22 11:15:45] rsalvador, joining. (#ios-driver)
 [2014-01-22 11:15:46] rsalvador1, quitting. (Read error: Connection reset by peer)
 [2014-01-22 11:19:47] santiycr, joining. (#ios-driver)
+[2014-01-22 11:23:45] santiycr1, quitting. (Ping timeout: 245 seconds)
