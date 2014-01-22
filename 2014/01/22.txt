@@ -49,3 +49,4 @@
 [2014-01-22 15:26:21] admc, quitting. (Quit: Leaving.)
 [2014-01-22 15:30:34] admc, joining. (#ios-driver)
 [2014-01-22 15:34:19] santiycr, quitting. (Quit: Leaving.)
+[2014-01-22 15:44:41] admc, quitting. (Quit: Leaving.)
