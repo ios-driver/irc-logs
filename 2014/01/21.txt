@@ -55,3 +55,4 @@
 [2014-01-21 15:56:23] joevans, leaving. (#ios-driver)
 [2014-01-21 16:43:49] admc, quitting. (Quit: Leaving.)
 [2014-01-21 16:50:40] admc, joining. (#ios-driver)
+[2014-01-21 17:28:05] rsalvador1, quitting. (Ping timeout: 272 seconds)
