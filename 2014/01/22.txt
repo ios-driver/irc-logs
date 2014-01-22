@@ -9,3 +9,4 @@
 [2014-01-22 06:32:51] jlipps, quitting. (Client Quit)
 [2014-01-22 08:32:14] lukeis, joining. (#ios-driver)
 [2014-01-22 08:41:42] rsalvador, joining. (#ios-driver)
+[2014-01-22 09:57:21] smccarthy, joining. (#ios-driver)
