@@ -11,3 +11,5 @@
 [2014-01-22 08:41:42] rsalvador, joining. (#ios-driver)
 [2014-01-22 09:57:21] smccarthy, joining. (#ios-driver)
 [2014-01-22 10:12:16] santiycr, joining. (#ios-driver)
+[2014-01-22 10:33:14] santiycr1, joining. (#ios-driver)
+[2014-01-22 10:34:29] santiycr, quitting. (Ping timeout: 240 seconds)
