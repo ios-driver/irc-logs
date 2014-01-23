@@ -147,3 +147,8 @@
 [2014-01-23 12:28:54] freynaud_: i'll debug later
 [2014-01-23 12:28:59] rsalvador: I am looking at the code, one thing I see is that APPIOSApplication.getContentsAndSettingFolder uses Library/Application Support/iPhone Simulator/7.0.3 both for the 64 and non-64 version, is should instead use 7.0.3-64 for the 64 one
 [2014-01-23 12:29:34] freynaud_: have you had a chance to run the safari tests on the merging branch ? are they ok for you
+[2014-01-23 12:30:09] rsalvador: haven't had a chance, I'll try now, but it takes about 30 minutes and makes my laptop kind of unusable
+[2014-01-23 12:31:42] freynaud_: ok, i'll try to plug that in the ci
+[2014-01-23 12:32:14] freynaud_: it's faster to run, but vms are smaller, so it surfaces the flakiness ...
+[2014-01-23 12:33:43] santiycr, joining. (#ios-driver)
+[2014-01-23 12:34:10] rsalvador: I am running the tests, I'll let you know what I get
