@@ -68,3 +68,5 @@
 [2014-01-23 11:14:18] rsalvador, quitting. (Ping timeout: 245 seconds)
 [2014-01-23 11:18:26] lukeis, joining. (#ios-driver)
 [2014-01-23 11:27:33] rsalvador, joining. (#ios-driver)
+[2014-01-23 11:34:34] freynaud_: rsalvador: Hi
+[2014-01-23 11:34:59] rsalvador: Hi
