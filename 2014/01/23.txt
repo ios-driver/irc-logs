@@ -202,3 +202,4 @@
 [2014-01-23 14:15:02] ios-driver-git: [ios-driver] freynaud deleted inspector_jna at 48c588d: http://git.io/7iWblg
 [2014-01-23 14:15:02] ios-driver-git, leaving. (#ios-driver)
 [2014-01-23 14:15:25] freynaud_: everything is in dev now, and the branches are gone
+[2014-01-23 14:21:57] *lukeis thinks you should go back to just having master again :)'
