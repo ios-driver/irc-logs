@@ -57,3 +57,4 @@
 [2014-01-23 07:03:25] gdennis, joining. (#ios-driver)
 [2014-01-23 07:15:03] gdennis, quitting. (Quit: gdennis)
 [2014-01-23 07:16:18] gdennis, joining. (#ios-driver)
+[2014-01-23 07:53:25] smccarthy, joining. (#ios-driver)
