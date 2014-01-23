@@ -198,3 +198,7 @@
 [2014-01-23 14:14:54] ios-driver-git, joining. (#ios-driver)
 [2014-01-23 14:14:55] ios-driver-git: [ios-driver] freynaud deleted merging at 3b5d18e: http://git.io/ZpWy2w
 [2014-01-23 14:14:55] ios-driver-git, leaving. (#ios-driver)
+[2014-01-23 14:15:02] ios-driver-git, joining. (#ios-driver)
+[2014-01-23 14:15:02] ios-driver-git: [ios-driver] freynaud deleted inspector_jna at 48c588d: http://git.io/7iWblg
+[2014-01-23 14:15:02] ios-driver-git, leaving. (#ios-driver)
+[2014-01-23 14:15:25] freynaud_: everything is in dev now, and the branches are gone
