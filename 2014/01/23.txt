@@ -54,3 +54,4 @@
 [2014-01-23 05:59:48] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to merging: http://git.io/ufpcrw
 [2014-01-23 05:59:48] ios-driver-git: ios-driver/merging b0809bb freynaud: fixing test and adding it back to the suite
 [2014-01-23 05:59:48] ios-driver-git, leaving. (#ios-driver)
+[2014-01-23 07:03:25] gdennis, joining. (#ios-driver)
