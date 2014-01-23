@@ -12,3 +12,12 @@
 [2014-01-23 01:53:41] ios-driver-git: ios-driver/merging 77bebc8 freynaud: shouldn't throw here
 [2014-01-23 01:53:41] ios-driver-git, leaving. (#ios-driver)
 [2014-01-23 02:24:34] fviscomi, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2014-01-23 02:30:20] ios-driver-git, joining. (#ios-driver)
+[2014-01-23 02:30:20] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to merging: http://git.io/ae1q7Q
+[2014-01-23 02:30:20] ios-driver-git: ios-driver/merging 9fe1065 freynaud: it is possible to start an app in a locale not supported.
+[2014-01-23 02:30:20] ios-driver-git: ios-driver/merging b39ffac freynaud: fixing the starting errors for safari. There is still an issue where the default page with about:blank doesn't seem to be loaded, and it uses the base one with apple.It works, but is much slower and accesses the internet.
+[2014-01-23 02:30:20] ios-driver-git, leaving. (#ios-driver)
+[2014-01-23 02:33:47] ios-driver-git, joining. (#ios-driver)
+[2014-01-23 02:33:47] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to merging: http://git.io/ApSqEQ
+[2014-01-23 02:33:47] ios-driver-git: ios-driver/merging afeac57 freynaud: addign a todo. 64 bit preferences isn't done right
+[2014-01-23 02:33:47] ios-driver-git, leaving. (#ios-driver)
