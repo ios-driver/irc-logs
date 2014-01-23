@@ -205,3 +205,8 @@
 [2014-01-23 14:21:57] *lukeis thinks you should go back to just having master again :)'
 [2014-01-23 14:46:20] nirvdrum: freynaud_: I use i7s though.
 [2014-01-23 14:57:30] lukeis, quitting. (Quit: Leaving.)
+[2014-01-23 15:36:48] smccarthy, quitting. (Remote host closed the connection)
+[2014-01-23 15:37:41] ios-driver-git, joining. (#ios-driver)
+[2014-01-23 15:37:41] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/33R7hg
+[2014-01-23 15:37:41] ios-driver-git: ios-driver/dev ec8e663 rsalvador: Device was not being released on SessionNotCreatedExceptions.
+[2014-01-23 15:37:41] ios-driver-git, leaving. (#ios-driver)
