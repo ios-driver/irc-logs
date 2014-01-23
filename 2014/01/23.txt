@@ -11,3 +11,4 @@
 [2014-01-23 01:53:41] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to merging: http://git.io/3rR-3A
 [2014-01-23 01:53:41] ios-driver-git: ios-driver/merging 77bebc8 freynaud: shouldn't throw here
 [2014-01-23 01:53:41] ios-driver-git, leaving. (#ios-driver)
+[2014-01-23 02:24:34] fviscomi, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
