@@ -158,3 +158,8 @@
 [2014-01-23 12:35:29] rsalvador:         at org.testng.TestNG.initializeConfiguration(TestNG.java:907)
 [2014-01-23 12:38:02] freynaud_: how do you run the tests ?
 [2014-01-23 12:39:17] rsalvador: mvn clean verify
+[2014-01-23 12:40:23] freynaud_: that should work
+[2014-01-23 12:40:34] freynaud_: statcollector is in build
+[2014-01-23 12:40:44] freynaud_: which is the first module built normally
+[2014-01-23 12:44:14] santiycr, quitting. (Quit: Leaving.)
+[2014-01-23 12:44:43] freynaud_: hold on
