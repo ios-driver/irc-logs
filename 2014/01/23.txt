@@ -63,3 +63,4 @@
 [2014-01-23 09:10:46] lukeis, quitting. (Quit: Leaving.)
 [2014-01-23 09:41:18] rsalvador: :log
 [2014-01-23 10:04:56] santiycr, joining. (#ios-driver)
+[2014-01-23 10:18:05] santiycr, quitting. (Quit: Leaving.)
