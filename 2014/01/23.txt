@@ -107,3 +107,11 @@
 [2014-01-23 11:43:39] freynaud_: i worked on a CI this week, and had a lot flakiness using slow VMs
 [2014-01-23 11:43:51] freynaud_: most of that should be resolved, that's the merging branch
 [2014-01-23 11:44:14] freynaud_: i only tested native, so safari needs to be checked before it's merge to dev and deleted
+[2014-01-23 11:45:54] nirvdrum: I was trying to test a native app.  Do I have to build the app on the machine I run ios-driver on?  I wasn't able to transfer the .app file and get it to load properly.
+[2014-01-23 11:46:32] freynaud_: nirvdrum: you don't have too. I have my .app checked in and i run them everywhere
+[2014-01-23 11:46:47] freynaud_: you probably need to have the same xcode everywhere
+[2014-01-23 11:46:51] nirvdrum: Hmm . . . I guess I did something wrong.
+[2014-01-23 11:47:16] nirvdrum: And you use the command line tools to build?
+[2014-01-23 11:47:22] freynaud_: i do the same everywhere, i have a setup script that prepares the machine
+[2014-01-23 11:47:35] freynaud_: i usually use xcode
+[2014-01-23 11:47:40] freynaud_: because it's easier
