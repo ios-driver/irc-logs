@@ -115,3 +115,15 @@
 [2014-01-23 11:47:22] freynaud_: i do the same everywhere, i have a setup script that prepares the machine
 [2014-01-23 11:47:35] freynaud_: i usually use xcode
 [2014-01-23 11:47:40] freynaud_: because it's easier
+[2014-01-23 11:50:40] freynaud_: nirvdrum: how do you prepare your machines ? What's the issue with the transfering to another machine
+[2014-01-23 11:51:15] nirvdrum: I don't really have a process.  I was just trying out testing an ios app for a friend.
+[2014-01-23 11:51:29] nirvdrum: And I thought it'd be a good way to learn about the non-Safari side of ios-driver.
+[2014-01-23 11:51:51] nirvdrum: But sometimes my .app was 876 KB, other times it was 11 MB.
+[2014-01-23 11:51:58] nirvdrum: I have no idea what I'm doing.
+[2014-01-23 11:52:13] nirvdrum: But I wanted to learn how to tie all this into a Jenkins process.
+[2014-01-23 11:53:07] freynaud_: i can give you what i have which will do everything but compile your app
+[2014-01-23 11:53:21] freynaud_: compiling the app depends on the dev team. They have magic flags
+[2014-01-23 11:53:40] freynaud_: they should be able to give you how they build
+[2014-01-23 11:53:44] nicegraham: nirvdrum: we use xctool to build as part of jenkins
+[2014-01-23 11:53:50] nicegraham: the facebook version
+[2014-01-23 11:54:02] nicegraham: https://github.com/facebook/xctool
