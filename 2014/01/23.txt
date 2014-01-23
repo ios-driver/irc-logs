@@ -37,3 +37,8 @@
 [2014-01-23 05:06:37] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to merging: http://git.io/Cuzd1g
 [2014-01-23 05:06:37] ios-driver-git: ios-driver/merging 92345ed freynaud: increasing to
 [2014-01-23 05:06:38] ios-driver-git, leaving. (#ios-driver)
+[2014-01-23 05:25:16] nirvdrum, joining. (#ios-driver)
+[2014-01-23 05:26:53] ios-driver-git, joining. (#ios-driver)
+[2014-01-23 05:26:54] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to merging: http://git.io/EkC-qA
+[2014-01-23 05:26:54] ios-driver-git: ios-driver/merging adbd632 freynaud: removing timeout and fixing test
+[2014-01-23 05:26:54] ios-driver-git, leaving. (#ios-driver)
