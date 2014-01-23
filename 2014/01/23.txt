@@ -21,3 +21,7 @@
 [2014-01-23 02:33:47] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to merging: http://git.io/ApSqEQ
 [2014-01-23 02:33:47] ios-driver-git: ios-driver/merging afeac57 freynaud: addign a todo. 64 bit preferences isn't done right
 [2014-01-23 02:33:47] ios-driver-git, leaving. (#ios-driver)
+[2014-01-23 04:30:33] ios-driver-git, joining. (#ios-driver)
+[2014-01-23 04:30:33] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to merging: http://git.io/OID1mg
+[2014-01-23 04:30:33] ios-driver-git: ios-driver/merging 85b2f63 freynaud: removing timeout for method creating the driver. That way it can reach the finally and cleanup
+[2014-01-23 04:30:33] ios-driver-git, leaving. (#ios-driver)
