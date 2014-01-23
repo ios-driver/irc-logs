@@ -54,3 +54,9 @@
 [2014-01-22 15:59:37] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/V_3TIQ
 [2014-01-22 15:59:37] ios-driver-git: ios-driver/dev 5314bab rsalvador: Optimize ClassicCommands.getInstalledSDKs()
 [2014-01-22 15:59:37] ios-driver-git, leaving. (#ios-driver)
+[2014-01-22 16:00:43] ios-driver-git, joining. (#ios-driver)
+[2014-01-22 16:00:43] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/lkSINg
+[2014-01-22 16:00:43] ios-driver-git: ios-driver/dev 27317f0 rsalvador: Dismissing keyboard was clicking a "Done" button in the web page.
+[2014-01-22 16:00:44] ios-driver-git, leaving. (#ios-driver)
+[2014-01-22 16:04:59] lukeis, quitting. (Quit: Leaving.)
+[2014-01-22 16:05:01] admc, joining. (#ios-driver)
