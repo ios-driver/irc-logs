@@ -29,3 +29,7 @@
 [2014-01-23 04:42:24] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to merging: http://git.io/fk5eSQ
 [2014-01-23 04:42:24] ios-driver-git: ios-driver/merging 9b57188 freynaud: removing timeout for methods creating the driver. That way it can reach the finally and cleanup
 [2014-01-23 04:42:24] ios-driver-git, leaving. (#ios-driver)
+[2014-01-23 04:46:11] ios-driver-git, joining. (#ios-driver)
+[2014-01-23 04:46:11] ios-driver-git: [ios-driver] freynaud force-pushed merging from 9b57188 to 169c540: http://git.io/ZtKn8g
+[2014-01-23 04:46:11] ios-driver-git: ios-driver/merging 169c540 freynaud: removing timeout for methods creating the driver. That way it can reach the finally and cleanup
+[2014-01-23 04:46:11] ios-driver-git, leaving. (#ios-driver)
