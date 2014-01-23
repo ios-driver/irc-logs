@@ -6,3 +6,4 @@
 [2014-01-23 00:42:44] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to merging: http://git.io/bVpKGg
 [2014-01-23 00:42:44] ios-driver-git: ios-driver/merging 2062b25 freynaud: after class should work out of the box
 [2014-01-23 00:42:44] ios-driver-git, leaving. (#ios-driver)
+[2014-01-23 01:39:43] fviscomi, joining. (#ios-driver)
