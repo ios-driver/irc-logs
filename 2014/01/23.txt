@@ -182,3 +182,9 @@
 [2014-01-23 14:03:28] ios-driver-git, joining. (#ios-driver)
 [2014-01-23 14:03:28] ios-driver-git: [ios-driver] freynaud merged merging into dev: http://git.io/iYcyaA
 [2014-01-23 14:03:28] ios-driver-git, leaving. (#ios-driver)
+[2014-01-23 14:05:58] nirvdrum: freynaud_: Are you using mac VMs yet?  Or still native machines?
+[2014-01-23 14:06:06] freynaud_: mac vms
+[2014-01-23 14:06:31] freynaud_: native to work on ios-driver, vms to run CI and tests
+[2014-01-23 14:06:52] freynaud_: so far I've needed 4 cores per VMs to have something stable
+[2014-01-23 14:07:17] freynaud_: but I'll try to reduce to 3 or 2 and see the result after the session changes
+[2014-01-23 14:08:56] gdennis, leaving. (#ios-driver)
