@@ -60,3 +60,4 @@
 [2014-01-22 16:00:44] ios-driver-git, leaving. (#ios-driver)
 [2014-01-22 16:04:59] lukeis, quitting. (Quit: Leaving.)
 [2014-01-22 16:05:01] admc, joining. (#ios-driver)
+[2014-01-22 16:11:45] admc, quitting. (Ping timeout: 252 seconds)
