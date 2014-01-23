@@ -50,3 +50,7 @@
 [2014-01-22 15:30:34] admc, joining. (#ios-driver)
 [2014-01-22 15:34:19] santiycr, quitting. (Quit: Leaving.)
 [2014-01-22 15:44:41] admc, quitting. (Quit: Leaving.)
+[2014-01-22 15:59:37] ios-driver-git, joining. (#ios-driver)
+[2014-01-22 15:59:37] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/V_3TIQ
+[2014-01-22 15:59:37] ios-driver-git: ios-driver/dev 5314bab rsalvador: Optimize ClassicCommands.getInstalledSDKs()
+[2014-01-22 15:59:37] ios-driver-git, leaving. (#ios-driver)
