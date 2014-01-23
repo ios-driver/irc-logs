@@ -127,3 +127,10 @@
 [2014-01-23 11:53:44] nicegraham: nirvdrum: we use xctool to build as part of jenkins
 [2014-01-23 11:53:50] nicegraham: the facebook version
 [2014-01-23 11:54:02] nicegraham: https://github.com/facebook/xctool
+[2014-01-23 11:56:01] nirvdrum: nicegraham: Thanks.
+[2014-01-23 11:56:12] nirvdrum: I will check that out.
+[2014-01-23 11:56:25] nirvdrum: freynaud_: That would be appreciated.
+[2014-01-23 11:56:27] nicegraham: dgrace: could give you more details - he set it up
+[2014-01-23 11:56:30] freynaud_: for the setup i use that
+[2014-01-23 11:56:31] freynaud_: https://gist.github.com/freynaud/8585626
+[2014-01-23 11:57:34] freynaud_: i don't need anything else on a branch new VM to start using ios-driver in a jenkins slave
