@@ -91,3 +91,19 @@
 [2014-01-23 11:38:53] rsalvador: ok, I can look into it
 [2014-01-23 11:39:38] freynaud_: fir the 64 bits, my sim folder is /Users/freynaud/Library/Application Support/iPhone Simulator/7.0.3-64
 [2014-01-23 11:39:46] gdennis: is all the latest and greatest code moved all in the dev branch at this point?
+[2014-01-23 11:40:31] freynaud_: gdennis: i worked on the merging branch today.
+[2014-01-23 11:40:50] freynaud_: if rsalvador is happy with how safari behaves there, i'll merge it into dev
+[2014-01-23 11:41:29] ios-driver-git, joining. (#ios-driver)
+[2014-01-23 11:41:29] ios-driver-git: [ios-driver] freynaud deleted build at b5344da: http://git.io/APw7ZQ
+[2014-01-23 11:41:29] ios-driver-git, leaving. (#ios-driver)
+[2014-01-23 11:41:39] ios-driver-git, joining. (#ios-driver)
+[2014-01-23 11:41:39] ios-driver-git: [ios-driver] freynaud deleted stale at 4ba5632: http://git.io/My0G-g
+[2014-01-23 11:41:39] ios-driver-git, leaving. (#ios-driver)
+[2014-01-23 11:42:08] gdennis: freynaud_: thanks! any progress on the ability to specify a script that would start safari?
+[2014-01-23 11:42:30] freynaud_: no, i still have to look into it
+[2014-01-23 11:42:38] nirvdrum: I'm playing catch up again.  Was the refactor branch merged into dev?
+[2014-01-23 11:42:58] freynaud_: nirvdrum: yes. And deleted
+[2014-01-23 11:43:07] nirvdrum: Thanks.
+[2014-01-23 11:43:39] freynaud_: i worked on a CI this week, and had a lot flakiness using slow VMs
+[2014-01-23 11:43:51] freynaud_: most of that should be resolved, that's the merging branch
+[2014-01-23 11:44:14] freynaud_: i only tested native, so safari needs to be checked before it's merge to dev and deleted
