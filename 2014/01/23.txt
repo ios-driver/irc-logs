@@ -70,3 +70,24 @@
 [2014-01-23 11:27:33] rsalvador, joining. (#ios-driver)
 [2014-01-23 11:34:34] freynaud_: rsalvador: Hi
 [2014-01-23 11:34:59] rsalvador: Hi
+[2014-01-23 11:35:19] freynaud_: you did all the changes for safari right ?
+[2014-01-23 11:35:25] rsalvador: yes
+[2014-01-23 11:35:28] freynaud_: cool
+[2014-01-23 11:35:49] freynaud_: i finished merging dev and the changes I made for the native part
+[2014-01-23 11:36:02] freynaud_: it's in the "merging" branch
+[2014-01-23 11:36:25] freynaud_: i only have 4-5 failures now that i'm trying to troubleshoot
+[2014-01-23 11:36:29] freynaud_: for native
+[2014-01-23 11:36:34] rsalvador: great
+[2014-01-23 11:36:47] freynaud_: can you have a look and see if it breaks anything for safari
+[2014-01-23 11:36:55] freynaud_: i also notices a but for safari
+[2014-01-23 11:37:08] rsalvador: sure, what is the bug?
+[2014-01-23 11:37:14] freynaud_: you changed the way it's launched, with the default page going to about:blank
+[2014-01-23 11:37:18] freynaud_: which makes it faster
+[2014-01-23 11:37:43] freynaud_: if you run NewSessionTest#supportApplicationWithMultipleDeviceFamily
+[2014-01-23 11:37:55] rsalvador: it was crashing sometimes with the default page with multiple webviews
+[2014-01-23 11:38:10] freynaud_: same for me, your fix makes it more stable
+[2014-01-23 11:38:19] freynaud_: but it doesn't work for the 64 bits sim
+[2014-01-23 11:38:34] freynaud_: I still see the "old" page with apple and disney
+[2014-01-23 11:38:53] rsalvador: ok, I can look into it
+[2014-01-23 11:39:38] freynaud_: fir the 64 bits, my sim folder is /Users/freynaud/Library/Application Support/iPhone Simulator/7.0.3-64
+[2014-01-23 11:39:46] gdennis: is all the latest and greatest code moved all in the dev branch at this point?
