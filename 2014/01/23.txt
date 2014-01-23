@@ -137,3 +137,13 @@
 [2014-01-23 12:07:03] santiycr, quitting. (Quit: Leaving.)
 [2014-01-23 12:14:27] rsalvador: freynaud_: I am trying the "merging" branch and all NewSessionTest#supportApplicationWithMultipleDeviceFamily tests are passing, the 64-bit iphone has the about:blank. What is the problem that you see?
 [2014-01-23 12:20:37] gdennis: Huh, the refactor branch renamed the atoms to underscore_case but in the dev branch they appear to be renamed back to a hybrid camelCase underscore_case
+[2014-01-23 12:26:14] freynaud_: rsalvador: they pass for me too
+[2014-01-23 12:26:33] freynaud_: but they load your new page for norml version
+[2014-01-23 12:26:37] freynaud_: and the old one for 64 bits
+[2014-01-23 12:27:00] rsalvador: while I watch the tests running I see it loading the new default one for 64 bit also
+[2014-01-23 12:27:01] freynaud_: it clicks on //UIAWindow/UIAScrollView/UIAButton
+[2014-01-23 12:28:25] freynaud_: running them now
+[2014-01-23 12:28:42] freynaud_: same again, I see disney and apple for 64
+[2014-01-23 12:28:54] freynaud_: i'll debug later
+[2014-01-23 12:28:59] rsalvador: I am looking at the code, one thing I see is that APPIOSApplication.getContentsAndSettingFolder uses Library/Application Support/iPhone Simulator/7.0.3 both for the 64 and non-64 version, is should instead use 7.0.3-64 for the 64 one
+[2014-01-23 12:29:34] freynaud_: have you had a chance to run the safari tests on the merging branch ? are they ok for you
