@@ -163,3 +163,11 @@
 [2014-01-23 12:40:44] freynaud_: which is the first module built normally
 [2014-01-23 12:44:14] santiycr, quitting. (Quit: Leaving.)
 [2014-01-23 12:44:43] freynaud_: hold on
+[2014-01-23 12:45:43] rsalvador: I am running again, this time I tried building manually the build project
+[2014-01-23 12:46:04] rsalvador: same problem
+[2014-01-23 12:46:19] ios-driver-git, joining. (#ios-driver)
+[2014-01-23 12:46:19] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to merging: http://git.io/lNTycQ
+[2014-01-23 12:46:19] ios-driver-git: ios-driver/merging 3b5d18e freynaud: projects test phase depend on the build module now
+[2014-01-23 12:46:19] ios-driver-git, leaving. (#ios-driver)
+[2014-01-23 12:46:35] freynaud_: now it should work better
+[2014-01-23 12:49:06] freynaud_: the build module contains some helper to debug long build
