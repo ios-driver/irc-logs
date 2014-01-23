@@ -177,3 +177,4 @@
 [2014-01-23 12:50:59] freynaud_: which print in the console each time somethign starts and finish
 [2014-01-23 12:51:08] freynaud_: to see if something hangs
 [2014-01-23 12:52:01] rsalvador: thx
+[2014-01-23 13:07:28] freynaud_: is safari slower to start than before ?
