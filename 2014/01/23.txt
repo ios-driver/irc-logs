@@ -152,3 +152,9 @@
 [2014-01-23 12:32:14] freynaud_: it's faster to run, but vms are smaller, so it surfaces the flakiness ...
 [2014-01-23 12:33:43] santiycr, joining. (#ios-driver)
 [2014-01-23 12:34:10] rsalvador: I am running the tests, I'll let you know what I get
+[2014-01-23 12:35:27] rsalvador: running the tests fails with:
+[2014-01-23 12:35:28] rsalvador: Caused by: org.testng.TestNGException:
+[2014-01-23 12:35:29] rsalvador: Listener org.uiautomation.ios.utils.StatCollector was not found in project's classpath
+[2014-01-23 12:35:29] rsalvador:         at org.testng.TestNG.initializeConfiguration(TestNG.java:907)
+[2014-01-23 12:38:02] freynaud_: how do you run the tests ?
+[2014-01-23 12:39:17] rsalvador: mvn clean verify
