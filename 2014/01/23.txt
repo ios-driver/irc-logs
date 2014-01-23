@@ -188,3 +188,13 @@
 [2014-01-23 14:06:52] freynaud_: so far I've needed 4 cores per VMs to have something stable
 [2014-01-23 14:07:17] freynaud_: but I'll try to reduce to 3 or 2 and see the result after the session changes
 [2014-01-23 14:08:56] gdennis, leaving. (#ios-driver)
+[2014-01-23 14:10:53] nirvdrum: Interesting.  I get by with 2 cores when doing mobile safari tests.
+[2014-01-23 14:11:45] freynaud_: it crashes for me creating the session
+[2014-01-23 14:11:53] freynaud_: when that is done, the rest goes through
+[2014-01-23 14:12:18] freynaud_: because I'm running the tests for ios-driver, I spend my time creating session
+[2014-01-23 14:12:24] freynaud_: maybe that's why I see it more
+[2014-01-23 14:12:43] freynaud_: if I can use only 2 cores, I can have more VM per mac mini
+[2014-01-23 14:12:48] freynaud_: that would be nice
+[2014-01-23 14:14:54] ios-driver-git, joining. (#ios-driver)
+[2014-01-23 14:14:55] ios-driver-git: [ios-driver] freynaud deleted merging at 3b5d18e: http://git.io/ZpWy2w
+[2014-01-23 14:14:55] ios-driver-git, leaving. (#ios-driver)
