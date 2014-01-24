@@ -46,3 +46,4 @@
 [2014-01-24 13:58:10] gdennis, leaving. (#ios-driver)
 [2014-01-24 14:00:14] lukeis, joining. (#ios-driver)
 [2014-01-24 14:02:07] smccarthy, quitting. (Remote host closed the connection)
+[2014-01-24 14:09:40] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
