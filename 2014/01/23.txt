@@ -244,3 +244,5 @@
 [2014-01-23 18:09:06] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/7HFGvQ
 [2014-01-23 18:09:06] ios-driver-git: ios-driver/dev 48e821b rsalvador: All ElementFindingMultipleDeviceTest tests passing.
 [2014-01-23 18:09:06] ios-driver-git, leaving. (#ios-driver)
+[2014-01-23 18:12:14] nirvdrum, quitting. (Ping timeout: 264 seconds)
+[2014-01-23 18:14:05] nirvdrum, joining. (#ios-driver)
