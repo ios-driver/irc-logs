@@ -7,3 +7,7 @@
 [2014-01-24 07:26:40] jlipps, joining. (#ios-driver)
 [2014-01-24 07:48:46] gdennis, joining. (#ios-driver)
 [2014-01-24 07:55:51] smccarthy, joining. (#ios-driver)
+[2014-01-24 08:01:38] admc, joining. (#ios-driver)
+[2014-01-24 08:01:49] gdennis: FYI: I'm working on bringing real device support for Mobile Safari to ios-driver, while avoiding instruments entirely, to avoid the licensing issues.
+[2014-01-24 08:03:53] gdennis: Question: should I be passing the -beta flag toe ios_server and if so, what should I be doing to avoid the fact that the libimobiledevice dylibs aren't bundled with the code?
+[2014-01-24 08:04:08] gdennis: s/toe/to/
