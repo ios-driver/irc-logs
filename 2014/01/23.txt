@@ -250,3 +250,4 @@
 [2014-01-23 18:25:14] nirvdrum_, joining. (#ios-driver)
 [2014-01-23 18:42:47] jlipps, joining. (#ios-driver)
 [2014-01-23 18:54:43] nirvdrum, quitting. (Quit: Leaving)
+[2014-01-23 19:04:41] admc, quitting. (Quit: Leaving.)
