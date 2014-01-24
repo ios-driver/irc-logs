@@ -21,3 +21,4 @@
 [2014-01-24 08:26:59] smccarthy, quitting. (Ping timeout: 240 seconds)
 [2014-01-24 08:27:30] gdennis: nicegraham: yeah, I chatted with him yesterday about the general plan
 [2014-01-24 08:27:47] nicegraham: ah grand, sorted so :)
+[2014-01-24 08:31:20] gdennis: now I'm actually trying to execute on it :)
