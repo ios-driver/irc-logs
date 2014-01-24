@@ -5,3 +5,4 @@
 [2014-01-24 05:51:25] AutomatedTester, joining. (#ios-driver)
 [2014-01-24 07:04:49] nirvdrum, joining. (#ios-driver)
 [2014-01-24 07:26:40] jlipps, joining. (#ios-driver)
+[2014-01-24 07:48:46] gdennis, joining. (#ios-driver)
