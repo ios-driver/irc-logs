@@ -50,3 +50,5 @@
 [2014-01-24 14:11:53] AutomatedTester, joining. (#ios-driver)
 [2014-01-24 15:12:41] lukeis, quitting. (Quit: Leaving.)
 [2014-01-24 15:33:13] admc, joining. (#ios-driver)
+[2014-01-24 15:37:01] santiycr, quitting. (Quit: Leaving.)
+[2014-01-24 15:38:25] rsalvador, quitting. (Quit: Leaving.)
