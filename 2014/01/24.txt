@@ -12,3 +12,5 @@
 [2014-01-24 08:03:53] gdennis: Question: should I be passing the -beta flag toe ios_server and if so, what should I be doing to avoid the fact that the libimobiledevice dylibs aren't bundled with the code?
 [2014-01-24 08:04:08] gdennis: s/toe/to/
 [2014-01-24 08:09:10] nicegraham: freynaud_: ... ^
+[2014-01-24 08:12:21] gdennis: I suppose I just build them myself and put them in $HOME/libimobiledevice_jna/darwin
+[2014-01-24 08:12:35] gdennis: and everything will work! (crosses fingers)
