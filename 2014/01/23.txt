@@ -221,3 +221,7 @@
 [2014-01-23 17:20:36] admc1, quitting. (Client Quit)
 [2014-01-23 17:27:01] santiycr, quitting. (Quit: Leaving.)
 [2014-01-23 17:28:59] santiycr, joining. (#ios-driver)
+[2014-01-23 17:31:46] phasze1, joining. (#ios-driver)
+[2014-01-23 17:32:58] phasze, quitting. (Ping timeout: 252 seconds)
+[2014-01-23 17:33:00] santiycr1, joining. (#ios-driver)
+[2014-01-23 17:33:15] santiycr, quitting. (Read error: Connection reset by peer)
