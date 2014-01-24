@@ -210,3 +210,4 @@
 [2014-01-23 15:37:41] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/33R7hg
 [2014-01-23 15:37:41] ios-driver-git: ios-driver/dev ec8e663 rsalvador: Device was not being released on SessionNotCreatedExceptions.
 [2014-01-23 15:37:41] ios-driver-git, leaving. (#ios-driver)
+[2014-01-23 15:55:03] rsalvador, quitting. (Ping timeout: 252 seconds)
