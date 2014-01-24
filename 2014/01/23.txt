@@ -211,3 +211,4 @@
 [2014-01-23 15:37:41] ios-driver-git: ios-driver/dev ec8e663 rsalvador: Device was not being released on SessionNotCreatedExceptions.
 [2014-01-23 15:37:41] ios-driver-git, leaving. (#ios-driver)
 [2014-01-23 15:55:03] rsalvador, quitting. (Ping timeout: 252 seconds)
+[2014-01-23 16:17:07] rsalvador, joining. (#ios-driver)
