@@ -232,3 +232,11 @@
 [2014-01-23 17:54:45] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/Q7sUTw
 [2014-01-23 17:54:45] ios-driver-git, leaving. (#ios-driver)
 [2014-01-23 17:54:45] ios-driver-git: ios-driver/dev 5f94490 rsalvador: Fix ipad offset calculation for all orientations.
+[2014-01-23 17:56:02] ios-driver-git, joining. (#ios-driver)
+[2014-01-23 17:56:02] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/64e4KQ
+[2014-01-23 17:56:02] ios-driver-git: ios-driver/dev 2ed1c2e rsalvador: Remove debugging code.
+[2014-01-23 17:56:02] ios-driver-git, leaving. (#ios-driver)
+[2014-01-23 17:57:04] ios-driver-git, joining. (#ios-driver)
+[2014-01-23 17:57:04] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/D8Eepg
+[2014-01-23 17:57:04] ios-driver-git, leaving. (#ios-driver)
+[2014-01-23 17:57:04] ios-driver-git: ios-driver/dev 538ca9c rsalvador: Use the -64 settings folder when using a 64 emulator.
