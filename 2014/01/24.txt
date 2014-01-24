@@ -31,3 +31,5 @@
 [2014-01-24 10:07:54] gdennis: nicegraham: ^ do you know?
 [2014-01-24 10:11:14] gdennis: the git repository has disappeared: http://cgit.sukimashita.com/libimobiledevice-sdk.git/
 [2014-01-24 10:13:39] gdennis: or perhaps never existed?
+[2014-01-24 10:31:26] rsalvador, leaving. (#ios-driver)
+[2014-01-24 10:31:46] rsalvador, joining. (#ios-driver)
