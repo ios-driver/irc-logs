@@ -58,3 +58,4 @@
 [2014-01-24 16:25:26] admc, joining. (#ios-driver)
 [2014-01-24 16:45:16] dawagner, quitting. (Quit: Leaving)
 [2014-01-24 16:55:08] admc, quitting. (Quit: Leaving.)
+[2014-01-24 17:09:27] rsalvador, quitting. (Ping timeout: 260 seconds)
