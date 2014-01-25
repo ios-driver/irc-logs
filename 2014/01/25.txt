@@ -2,3 +2,4 @@
 [2014-01-25 04:22:28] admc, quitting. (Quit: Leaving.)
 [2014-01-25 08:34:06] smccarthy, joining. (#ios-driver)
 [2014-01-25 08:54:50] rsalvador, joining. (#ios-driver)
+[2014-01-25 08:55:04] rsalvador, leaving. (#ios-driver)
