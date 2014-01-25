@@ -4,3 +4,4 @@
 [2014-01-25 08:54:50] rsalvador, joining. (#ios-driver)
 [2014-01-25 08:55:04] rsalvador, leaving. (#ios-driver)
 [2014-01-25 11:55:39] admc, joining. (#ios-driver)
+[2014-01-25 12:14:04] admc, quitting. (Quit: Leaving.)
