@@ -17,3 +17,4 @@
 [2014-01-26 17:29:49] AutomatedTester, joining. (#ios-driver)
 [2014-01-26 19:07:29] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2014-01-26 21:03:53] smccarthy, quitting. (Remote host closed the connection)
+[2014-01-26 22:45:23] admc, joining. (#ios-driver)
