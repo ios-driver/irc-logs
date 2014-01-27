@@ -34,3 +34,5 @@
 [2014-01-27 14:38:13] santiycr, joining. (#ios-driver)
 [2014-01-27 14:55:42] santiycr1, joining. (#ios-driver)
 [2014-01-27 14:59:27] santiycr, quitting. (Ping timeout: 272 seconds)
+[2014-01-27 15:46:26] phasze, joining. (#ios-driver)
+[2014-01-27 15:48:47] phasze1, quitting. (Read error: Connection reset by peer)
