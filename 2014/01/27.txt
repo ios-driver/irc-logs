@@ -4,3 +4,5 @@
 [2014-01-27 07:58:05] smccarthy, joining. (#ios-driver)
 [2014-01-27 08:25:27] lukeis, joining. (#ios-driver)
 [2014-01-27 09:27:47] rsalvador, joining. (#ios-driver)
+[2014-01-27 10:07:52] frankbutt, joining. (#ios-driver)
+[2014-01-27 10:07:53] frankbutt, leaving. (#ios-driver)
