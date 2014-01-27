@@ -21,3 +21,4 @@
 [2014-01-27 12:10:48] santiycr, quitting. (Ping timeout: 252 seconds)
 [2014-01-27 12:22:15] admc, quitting. (Quit: Leaving.)
 [2014-01-27 12:23:03] admc, joining. (#ios-driver)
+[2014-01-27 12:38:24] admc, quitting. (Quit: Leaving.)
