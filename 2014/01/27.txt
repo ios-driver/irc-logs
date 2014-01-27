@@ -18,3 +18,4 @@
 [2014-01-27 11:57:31] admc, joining. (#ios-driver)
 [2014-01-27 12:00:36] smccarthy, quitting. (Remote host closed the connection)
 [2014-01-27 12:06:50] santiycr1, joining. (#ios-driver)
+[2014-01-27 12:10:48] santiycr, quitting. (Ping timeout: 252 seconds)
