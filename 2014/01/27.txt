@@ -8,3 +8,5 @@
 [2014-01-27 10:07:53] frankbutt, leaving. (#ios-driver)
 [2014-01-27 10:36:29] admc, joining. (#ios-driver)
 [2014-01-27 10:52:44] santiycr, joining. (#ios-driver)
+[2014-01-27 11:00:32] santiycr1, joining. (#ios-driver)
+[2014-01-27 11:04:18] santiycr, quitting. (Ping timeout: 245 seconds)
