@@ -45,3 +45,4 @@
 [2014-01-27 17:57:59] rsalvador1, quitting. (Quit: Leaving.)
 [2014-01-27 18:08:08] smccarthy, joining. (#ios-driver)
 [2014-01-27 18:23:37] santiycr1, quitting. (Quit: Leaving.)
+[2014-01-27 18:26:38] santiycr, joining. (#ios-driver)
