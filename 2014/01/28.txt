@@ -23,3 +23,7 @@
 [2014-01-28 13:37:57] admc, joining. (#ios-driver)
 [2014-01-28 13:38:13] admc, quitting. (Client Quit)
 [2014-01-28 13:44:49] gdennis, joining. (#ios-driver)
+[2014-01-28 13:50:09] ios-driver-git, joining. (#ios-driver)
+[2014-01-28 13:50:10] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/pMFZNQ
+[2014-01-28 13:50:10] ios-driver-git, leaving. (#ios-driver)
+[2014-01-28 13:50:10] ios-driver-git: ios-driver/dev cde3889 rsalvador: Fix PageLoadingTest.testShouldBeAbleToNavigateBackInTheBrowserHistory()
