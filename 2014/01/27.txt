@@ -39,3 +39,5 @@
 [2014-01-27 16:01:26] lukeis, quitting. (Quit: Leaving.)
 [2014-01-27 17:07:49] rsalvador, quitting. (Ping timeout: 248 seconds)
 [2014-01-27 17:26:58] admc, quitting. (Quit: Leaving.)
+[2014-01-27 17:36:21] rsalvador, joining. (#ios-driver)
+[2014-01-27 17:36:22] rsalvador, leaving. (#ios-driver)
