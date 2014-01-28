@@ -35,3 +35,4 @@
 [2014-01-28 14:36:20] rsalvador, leaving. (#ios-driver)
 [2014-01-28 14:39:09] AutomatedTester: nicegraham: that is so awesome
 [2014-01-28 14:45:40] rsalvador, joining. (#ios-driver)
+[2014-01-28 14:53:27] admc, joining. (#ios-driver)
