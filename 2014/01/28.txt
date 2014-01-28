@@ -20,3 +20,5 @@
 [2014-01-28 13:15:18] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/BhmerQ
 [2014-01-28 13:15:18] ios-driver-git: ios-driver/dev 2a46a1b rsalvador: Fix FormHandlingTest.testCanUseEnterKeyToSubmitForm()
 [2014-01-28 13:15:18] ios-driver-git, leaving. (#ios-driver)
+[2014-01-28 13:37:57] admc, joining. (#ios-driver)
+[2014-01-28 13:38:13] admc, quitting. (Client Quit)
