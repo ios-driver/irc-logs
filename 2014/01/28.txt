@@ -27,3 +27,4 @@
 [2014-01-28 13:50:10] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/pMFZNQ
 [2014-01-28 13:50:10] ios-driver-git, leaving. (#ios-driver)
 [2014-01-28 13:50:10] ios-driver-git: ios-driver/dev cde3889 rsalvador: Fix PageLoadingTest.testShouldBeAbleToNavigateBackInTheBrowserHistory()
+[2014-01-28 13:59:58] gdennis, quitting. (Quit: gdennis)
