@@ -51,3 +51,4 @@
 [2014-01-28 17:30:21] rsalvador1, joining. (#ios-driver)
 [2014-01-28 17:33:04] rsalvador1, quitting. (Client Quit)
 [2014-01-28 18:07:16] admc, quitting. (Quit: Leaving.)
+[2014-01-28 19:18:37] smccarthy, quitting. (Remote host closed the connection)
