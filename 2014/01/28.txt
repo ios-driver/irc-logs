@@ -43,3 +43,4 @@
 [2014-01-28 16:54:03] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/rzUTyw
 [2014-01-28 16:54:03] ios-driver-git: ios-driver/dev 2365246 rsalvador: Access Keyboard lazily to allow creating TouchActions....
 [2014-01-28 16:54:03] ios-driver-git, leaving. (#ios-driver)
+[2014-01-28 16:57:43] rsalvador, quitting. (Ping timeout: 252 seconds)
