@@ -3,3 +3,4 @@
 [2014-01-29 07:28:49] gdennis, joining. (#ios-driver)
 [2014-01-29 08:49:43] rsalvador, joining. (#ios-driver)
 [2014-01-29 09:57:21] admc, joining. (#ios-driver)
+[2014-01-29 10:33:14] admc, quitting. (Quit: Leaving.)
