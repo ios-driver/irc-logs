@@ -53,3 +53,4 @@
 [2014-01-28 18:07:16] admc, quitting. (Quit: Leaving.)
 [2014-01-28 19:18:37] smccarthy, quitting. (Remote host closed the connection)
 [2014-01-28 20:44:34] nirvdrum, quitting. (Read error: Operation timed out)
+[2014-01-28 22:38:29] admc, joining. (#ios-driver)
