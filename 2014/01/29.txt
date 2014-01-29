@@ -19,3 +19,4 @@
 [2014-01-29 14:29:01] dawagner, quitting. (Quit: Leaving)
 [2014-01-29 14:29:26] dawagner, joining. (#ios-driver)
 [2014-01-29 14:31:48] dawagner, quitting. (Client Quit)
+[2014-01-29 15:49:14] admc, joining. (#ios-driver)
