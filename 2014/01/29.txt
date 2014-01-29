@@ -9,3 +9,4 @@
 [2014-01-29 11:25:45] rsalvador, joining. (#ios-driver)
 [2014-01-29 11:35:19] admc, quitting. (Quit: Leaving.)
 [2014-01-29 12:32:09] nirvdrum: How do you guys deal with the CFBundleVersion changing constantly?  Just parse /wd/hub/status?
+[2014-01-29 14:01:34] dawagner, joining. (#ios-driver)
