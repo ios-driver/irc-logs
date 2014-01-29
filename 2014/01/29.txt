@@ -18,3 +18,4 @@
 [2014-01-29 14:26:27] smccarthy, joining. (#ios-driver)
 [2014-01-29 14:29:01] dawagner, quitting. (Quit: Leaving)
 [2014-01-29 14:29:26] dawagner, joining. (#ios-driver)
+[2014-01-29 14:31:48] dawagner, quitting. (Client Quit)
