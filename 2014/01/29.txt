@@ -10,3 +10,8 @@
 [2014-01-29 11:35:19] admc, quitting. (Quit: Leaving.)
 [2014-01-29 12:32:09] nirvdrum: How do you guys deal with the CFBundleVersion changing constantly?  Just parse /wd/hub/status?
 [2014-01-29 14:01:34] dawagner, joining. (#ios-driver)
+[2014-01-29 14:20:07] freynaud_: nirvdrum: you don't have to specify it
+[2014-01-29 14:20:28] freynaud_: if you don't, it will pick the first one it finds
+[2014-01-29 14:20:43] freynaud_: only the bundename / id is mandatory
+[2014-01-29 14:22:35] nirvdrum: I see that now.  For some reason I thought it was mandatory.
+[2014-01-29 14:22:39] nirvdrum: Thanks.
