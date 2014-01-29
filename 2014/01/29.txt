@@ -15,3 +15,6 @@
 [2014-01-29 14:20:43] freynaud_: only the bundename / id is mandatory
 [2014-01-29 14:22:35] nirvdrum: I see that now.  For some reason I thought it was mandatory.
 [2014-01-29 14:22:39] nirvdrum: Thanks.
+[2014-01-29 14:26:27] smccarthy, joining. (#ios-driver)
+[2014-01-29 14:29:01] dawagner, quitting. (Quit: Leaving)
+[2014-01-29 14:29:26] dawagner, joining. (#ios-driver)
