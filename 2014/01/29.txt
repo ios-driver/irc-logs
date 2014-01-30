@@ -20,3 +20,7 @@
 [2014-01-29 14:29:26] dawagner, joining. (#ios-driver)
 [2014-01-29 14:31:48] dawagner, quitting. (Client Quit)
 [2014-01-29 15:49:14] admc, joining. (#ios-driver)
+[2014-01-29 16:49:09] ios-driver-git, joining. (#ios-driver)
+[2014-01-29 16:49:10] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/OeiMyg
+[2014-01-29 16:49:10] ios-driver-git: ios-driver/dev 10ea99a rsalvador: Refactored uiautomation tests....
+[2014-01-29 16:49:10] ios-driver-git, leaving. (#ios-driver)
