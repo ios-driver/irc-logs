@@ -33,3 +33,4 @@
 [2014-01-29 16:53:16] ios-driver-git: ios-driver/dev 3747b3c rsalvador: Fixed offset calculation for hybrid apps in iOS 7.
 [2014-01-29 16:53:16] ios-driver-git, leaving. (#ios-driver)
 [2014-01-29 17:00:36] smccarthy, quitting. (Remote host closed the connection)
+[2014-01-29 17:32:29] rsalvador, quitting. (Ping timeout: 240 seconds)
