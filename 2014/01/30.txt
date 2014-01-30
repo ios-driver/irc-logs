@@ -21,3 +21,4 @@
 [2014-01-30 15:01:07] jlipps, joining. (#ios-driver)
 [2014-01-30 15:03:19] santiycr, joining. (#ios-driver)
 [2014-01-30 15:04:54] lukeis, joining. (#ios-driver)
+[2014-01-30 15:35:02] nirvdrum, quitting. (Ping timeout: 264 seconds)
