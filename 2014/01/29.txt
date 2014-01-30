@@ -36,3 +36,5 @@
 [2014-01-29 17:32:29] rsalvador, quitting. (Ping timeout: 240 seconds)
 [2014-01-29 18:00:16] rsalvador, joining. (#ios-driver)
 [2014-01-29 18:00:54] rsalvador, quitting. (Client Quit)
+[2014-01-29 18:23:48] admc, quitting. (Quit: Leaving.)
+[2014-01-29 18:23:53] nirvdrum, quitting. (Ping timeout: 245 seconds)
