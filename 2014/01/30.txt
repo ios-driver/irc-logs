@@ -3,3 +3,4 @@
 [2014-01-30 07:23:14] nirvdrum, joining. (#ios-driver)
 [2014-01-30 07:46:21] rsalvador, joining. (#ios-driver)
 [2014-01-30 08:26:45] lukeis, joining. (#ios-driver)
+[2014-01-30 08:38:30] lukeis1, joining. (#ios-driver)
