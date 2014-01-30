@@ -24,3 +24,11 @@
 [2014-01-29 16:49:10] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/OeiMyg
 [2014-01-29 16:49:10] ios-driver-git: ios-driver/dev 10ea99a rsalvador: Refactored uiautomation tests....
 [2014-01-29 16:49:10] ios-driver-git, leaving. (#ios-driver)
+[2014-01-29 16:51:46] ios-driver-git, joining. (#ios-driver)
+[2014-01-29 16:51:46] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/d4IzNA
+[2014-01-29 16:51:46] ios-driver-git: ios-driver/dev c77f8ab rsalvador: Refactored BaseSeleniumTest.java
+[2014-01-29 16:51:46] ios-driver-git, leaving. (#ios-driver)
+[2014-01-29 16:53:16] ios-driver-git, joining. (#ios-driver)
+[2014-01-29 16:53:16] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/7wz17w
+[2014-01-29 16:53:16] ios-driver-git: ios-driver/dev 3747b3c rsalvador: Fixed offset calculation for hybrid apps in iOS 7.
+[2014-01-29 16:53:16] ios-driver-git, leaving. (#ios-driver)
