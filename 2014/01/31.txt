@@ -10,3 +10,6 @@
 [2014-01-31 02:55:39] dgrace: was looking at this
 [2014-01-31 02:55:44] dgrace: https://www.irccloud.com/pastebin/Y4rJHboY
 [2014-01-31 02:56:22] dgrace: but does not seem to do the trick
+[2014-01-31 04:37:31] freynaud_: it should
+[2014-01-31 04:38:22] freynaud_: SET_VALUE and SEND_KEYS both exist
+[2014-01-31 04:38:32] freynaud_: are you sure you're talking to the right one
