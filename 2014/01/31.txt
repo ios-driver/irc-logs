@@ -13,3 +13,6 @@
 [2014-01-31 04:37:31] freynaud_: it should
 [2014-01-31 04:38:22] freynaud_: SET_VALUE and SEND_KEYS both exist
 [2014-01-31 04:38:32] freynaud_: are you sure you're talking to the right one
+[2014-01-31 05:02:59] dgrace: when I use SET_VALUE as above and check the configuration of  CLICK c.getGonfiguration(WebDriverLikeCommand.CLICK), nativeEvents returns true. I need to explicitly setConfiguration for CLICK
+[2014-01-31 05:03:30] dgrace: was hoping I could just use c.setConfiguration(WebDriverLikeCommand.SET_VALUE, "nativeEvents", false); and all the other commands would use nativeEvents as false
+[2014-01-31 05:03:58] dgrace: until I set it back, i.e. got back to the native part of the hybrid app
