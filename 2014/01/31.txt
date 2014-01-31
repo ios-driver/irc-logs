@@ -44,3 +44,4 @@
 [2014-01-31 13:20:42] santiycr1, joining. (#ios-driver)
 [2014-01-31 13:22:55] santiycr, quitting. (Ping timeout: 245 seconds)
 [2014-01-31 13:23:07] santiycr1, changing nick to santiycr.
+[2014-01-31 13:50:18] lukeis, quitting. (Quit: Leaving.)
