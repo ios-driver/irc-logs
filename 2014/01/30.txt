@@ -24,3 +24,4 @@
 [2014-01-30 15:35:02] nirvdrum, quitting. (Ping timeout: 264 seconds)
 [2014-01-30 15:43:58] santiycr, quitting. (Quit: Leaving.)
 [2014-01-30 16:38:53] dawagner, quitting. (Quit: Leaving)
+[2014-01-30 17:20:12] lukeis, quitting. (Quit: Leaving.)
