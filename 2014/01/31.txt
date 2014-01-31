@@ -2,3 +2,7 @@
 [2014-01-31 01:33:07] admc, quitting. (Client Quit)
 [2014-01-31 02:17:06] dgrace: freynaud_: is there a way to query the driver to find out if it is currently using nativeEvents or not?
 [2014-01-31 02:17:16] freynaud_: yes
+[2014-01-31 02:20:10] freynaud_: https://github.com/ios-driver/ios-driver/blob/dev/server/src/test/java/org/uiautomation/ios/e2e/config/AugmenterTest.java#L46
+[2014-01-31 02:20:47] freynaud_: the Configuration interface should give you access to how each command is configured
+[2014-01-31 02:21:50] dgrace: cool, merci beaucoup!
+[2014-01-31 02:22:28] freynaud_: pas de problème
