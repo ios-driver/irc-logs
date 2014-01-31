@@ -26,3 +26,8 @@
 [2014-01-30 16:38:53] dawagner, quitting. (Quit: Leaving)
 [2014-01-30 17:20:12] lukeis, quitting. (Quit: Leaving.)
 [2014-01-30 17:42:14] admc, quitting. (Quit: Leaving.)
+[2014-01-30 17:51:30] ios-driver-git, joining. (#ios-driver)
+[2014-01-30 17:51:30] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/B8f4GQ
+[2014-01-30 17:51:30] ios-driver-git: ios-driver/dev e7463a4 rsalvador: Increase registerUIAScript timeout to 30 secs for slow VMs.
+[2014-01-30 17:51:30] ios-driver-git, leaving. (#ios-driver)
+[2014-01-30 17:54:16] rsalvador, quitting. (Quit: Leaving.)
