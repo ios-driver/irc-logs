@@ -31,3 +31,4 @@
 [2014-01-30 17:51:30] ios-driver-git: ios-driver/dev e7463a4 rsalvador: Increase registerUIAScript timeout to 30 secs for slow VMs.
 [2014-01-30 17:51:30] ios-driver-git, leaving. (#ios-driver)
 [2014-01-30 17:54:16] rsalvador, quitting. (Quit: Leaving.)
+[2014-01-30 19:27:14] admc, joining. (#ios-driver)
