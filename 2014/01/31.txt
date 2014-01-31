@@ -24,3 +24,4 @@
 [2014-01-31 08:08:16] lukeis, joining. (#ios-driver)
 [2014-01-31 08:56:28] jlipps, joining. (#ios-driver)
 [2014-01-31 09:04:10] jlipps, quitting. (Quit: Leaving.)
+[2014-01-31 09:05:49] jlipps, joining. (#ios-driver)
