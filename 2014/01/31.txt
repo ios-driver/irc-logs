@@ -1,2 +1,4 @@
 [2014-01-31 01:31:26] admc, joining. (#ios-driver)
 [2014-01-31 01:33:07] admc, quitting. (Client Quit)
+[2014-01-31 02:17:06] dgrace: freynaud_: is there a way to query the driver to find out if it is currently using nativeEvents or not?
+[2014-01-31 02:17:16] freynaud_: yes
