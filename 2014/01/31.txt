@@ -6,3 +6,7 @@
 [2014-01-31 02:20:47] freynaud_: the Configuration interface should give you access to how each command is configured
 [2014-01-31 02:21:50] dgrace: cool, merci beaucoup!
 [2014-01-31 02:22:28] freynaud_: pas de problème
+[2014-01-31 02:55:24] dgrace: is there a global way to set nativeEvents to say false for all commands, click(), sendkeys() etc?
+[2014-01-31 02:55:39] dgrace: was looking at this
+[2014-01-31 02:55:44] dgrace: https://www.irccloud.com/pastebin/Y4rJHboY
+[2014-01-31 02:56:22] dgrace: but does not seem to do the trick
