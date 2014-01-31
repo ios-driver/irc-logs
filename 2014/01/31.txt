@@ -17,3 +17,4 @@
 [2014-01-31 05:03:30] dgrace: was hoping I could just use c.setConfiguration(WebDriverLikeCommand.SET_VALUE, "nativeEvents", false); and all the other commands would use nativeEvents as false
 [2014-01-31 05:03:58] dgrace: until I set it back, i.e. got back to the native part of the hybrid app
 [2014-01-31 05:10:19] jlipps, joining. (#ios-driver)
+[2014-01-31 05:24:15] jlipps, quitting. (Quit: Leaving.)
