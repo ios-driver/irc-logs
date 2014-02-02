@@ -9,3 +9,4 @@
 [2014-02-01 12:30:57] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-01 12:41:38] jlipps, joining. (#ios-driver)
 [2014-02-01 12:54:10] jlipps, quitting. (Quit: Leaving.)
+[2014-02-01 16:36:49] smccarthy, joining. (#ios-driver)
