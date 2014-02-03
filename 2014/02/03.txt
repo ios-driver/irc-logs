@@ -14,3 +14,7 @@
 [2014-02-03 00:37:21] freynaud_, joining. (#ios-driver)
 [2014-02-03 00:37:21] phasze1, joining. (#ios-driver)
 [2014-02-03 00:37:21] dgrace, joining. (#ios-driver)
+[2014-02-03 00:54:24] AutomatedTester, quitting. (*.net *.split)
+[2014-02-03 00:54:26] dgrace, quitting. (*.net *.split)
+[2014-02-03 00:54:27] phasze1, quitting. (*.net *.split)
+[2014-02-03 00:54:28] freynaud_, quitting. (*.net *.split)
