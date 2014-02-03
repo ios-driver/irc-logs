@@ -75,3 +75,7 @@
 [2014-02-02 22:12:14] ios-driverbot__, joining. (#ios-driver)
 [2014-02-02 22:23:39] ios-driverbot___, joining. (#ios-driver)
 [2014-02-02 22:28:38] ios-driverbot___, joining. (#ios-driver)
+[2014-02-02 23:29:15] AutomatedTester, quitting. (*.net *.split)
+[2014-02-02 23:29:21] dgrace, quitting. (*.net *.split)
+[2014-02-02 23:29:24] phasze1, quitting. (*.net *.split)
+[2014-02-02 23:29:24] freynaud_, quitting. (*.net *.split)
