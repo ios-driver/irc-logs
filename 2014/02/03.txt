@@ -76,3 +76,6 @@
 [2014-02-03 13:02:55] admc, quitting. (Read error: Connection reset by peer)
 [2014-02-03 13:02:57] admc1, joining. (#ios-driver)
 [2014-02-03 13:23:31] jlipps, joining. (#ios-driver)
+[2014-02-03 13:42:13] gdennis, quitting. (Ping timeout: 245 seconds)
+[2014-02-03 13:42:56] smccarthy, quitting. (Quit: Leaving...)
+[2014-02-03 13:44:07] gdennis, joining. (#ios-driver)
