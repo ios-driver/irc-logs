@@ -60,3 +60,4 @@
 [2014-02-03 09:16:16] dawagner, joining. (#ios-driver)
 [2014-02-03 09:17:37] rsalvador, joining. (#ios-driver)
 [2014-02-03 09:20:47] aimeerivers, quitting. (Quit: aimeerivers)
+[2014-02-03 10:20:58] santiycr, joining. (#ios-driver)
