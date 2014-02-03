@@ -39,3 +39,4 @@
 [2014-02-03 06:07:42] AutomatedTester, joining. (#ios-driver)
 [2014-02-03 06:08:14] nicegraham_, quitting. (Changing host)
 [2014-02-03 06:08:14] nicegraham_, joining. (#ios-driver)
+[2014-02-03 06:29:34] nirvdrum, quitting. (Ping timeout: 486 seconds)
