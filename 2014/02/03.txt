@@ -49,3 +49,7 @@
 [2014-02-03 07:37:47] smccarthy2, quitting. (Excess Flood)
 [2014-02-03 07:40:03] smccarthy, quitting. (Ping timeout: 272 seconds)
 [2014-02-03 07:41:02] smccarthy, joining. (#ios-driver)
+[2014-02-03 08:01:26] aimeerivers, joining. (#ios-driver)
+[2014-02-03 08:02:17] aimeerivers: Hello! Anybody here who can help me with the libimobiledevice-sdk dependency for running ios-driver server?
+[2014-02-03 08:03:28] aimeerivers: I'm on OSX Mavericks and installing the libimobiledevice-sdk has led me down an enormous rabbit hole of dependencies such as libusmuxd, libxml-2.0, libplist and libglib2.0-dev
+[2014-02-03 08:03:48] aimeerivers: it's that last one that i'm stuck on now, i don't know how to intall libglib2.0-dev .
