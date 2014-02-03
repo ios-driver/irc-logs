@@ -53,3 +53,4 @@
 [2014-02-03 08:02:17] aimeerivers: Hello! Anybody here who can help me with the libimobiledevice-sdk dependency for running ios-driver server?
 [2014-02-03 08:03:28] aimeerivers: I'm on OSX Mavericks and installing the libimobiledevice-sdk has led me down an enormous rabbit hole of dependencies such as libusmuxd, libxml-2.0, libplist and libglib2.0-dev
 [2014-02-03 08:03:48] aimeerivers: it's that last one that i'm stuck on now, i don't know how to intall libglib2.0-dev .
+[2014-02-03 08:36:32] smccarthy, quitting. (*.net *.split)
