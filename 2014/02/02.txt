@@ -57,3 +57,4 @@
 [2014-02-02 18:34:45] freynaud_, joining. (#ios-driver)
 [2014-02-02 18:34:45] phasze1, joining. (#ios-driver)
 [2014-02-02 18:34:45] nirvdrum, joining. (#ios-driver)
+[2014-02-02 19:36:16] smccarthy2, quitting. (Remote host closed the connection)
