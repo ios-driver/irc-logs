@@ -56,3 +56,4 @@
 [2014-02-03 08:36:32] smccarthy, quitting. (*.net *.split)
 [2014-02-03 08:52:36] phasze, joining. (#ios-driver)
 [2014-02-03 08:59:22] lukeis, joining. (#ios-driver)
+[2014-02-03 09:00:37] smccarthy, joining. (#ios-driver)
