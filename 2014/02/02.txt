@@ -49,3 +49,7 @@
 [2014-02-02 17:55:09] phasze1, joining. (#ios-driver)
 [2014-02-02 17:55:09] nirvdrum, joining. (#ios-driver)
 [2014-02-02 17:55:09] freynaud_, joining. (#ios-driver)
+[2014-02-02 18:28:40] dgrace, quitting. (*.net *.split)
+[2014-02-02 18:28:49] phasze1, quitting. (*.net *.split)
+[2014-02-02 18:28:49] freynaud_, quitting. (*.net *.split)
+[2014-02-02 18:28:49] nirvdrum, quitting. (*.net *.split)
