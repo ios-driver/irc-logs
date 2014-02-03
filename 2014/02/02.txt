@@ -27,3 +27,5 @@
 [2014-02-02 17:08:47] AutomatedTester, quitting. (*.net *.split)
 [2014-02-02 17:08:57] AutomatedTester, joining. (#ios-driver)
 [2014-02-02 17:25:50] AutomatedTester, quitting. (*.net *.split)
+[2014-02-02 17:32:00] dgrace, quitting. (Changing host)
+[2014-02-02 17:32:00] dgrace, joining. (#ios-driver)
