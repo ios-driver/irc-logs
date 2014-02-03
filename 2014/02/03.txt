@@ -31,3 +31,5 @@
 [2014-02-03 03:36:00] AutomatedTester, joining. (#ios-driver)
 [2014-02-03 03:45:58] AutomatedTester, quitting. (Ping timeout: 272 seconds)
 [2014-02-03 04:14:32] phasze, quitting. (Excess Flood)
+[2014-02-03 05:14:00] dgrace, joining. (#ios-driver)
+[2014-02-03 05:14:00] freynaud_, joining. (#ios-driver)
