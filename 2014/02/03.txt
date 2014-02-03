@@ -1,0 +1,4 @@
+[2014-02-03 00:19:35] AutomatedTester, quitting. (*.net *.split)
+[2014-02-03 00:19:43] dgrace, quitting. (*.net *.split)
+[2014-02-03 00:19:48] phasze1, quitting. (*.net *.split)
+[2014-02-03 00:19:52] freynaud_, quitting. (*.net *.split)
