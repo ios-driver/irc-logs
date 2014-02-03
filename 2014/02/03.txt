@@ -47,3 +47,5 @@
 [2014-02-03 07:22:08] AutomatedTester, joining. (#ios-driver)
 [2014-02-03 07:36:01] smccarthy2, joining. (#ios-driver)
 [2014-02-03 07:37:47] smccarthy2, quitting. (Excess Flood)
+[2014-02-03 07:40:03] smccarthy, quitting. (Ping timeout: 272 seconds)
+[2014-02-03 07:41:02] smccarthy, joining. (#ios-driver)
