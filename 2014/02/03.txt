@@ -64,3 +64,4 @@
 [2014-02-03 11:01:56] gdennis: aimeerivers: neither the source nor the binaries for libimobiledevice-sdk have been made available
 [2014-02-03 11:09:21] santiycr1, joining. (#ios-driver)
 [2014-02-03 11:09:58] admc, joining. (#ios-driver)
+[2014-02-03 11:10:45] santiycr, quitting. (Ping timeout: 265 seconds)
