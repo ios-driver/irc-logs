@@ -12,3 +12,7 @@
 [2014-02-02 16:32:38] nicegraham, quitting. (*.net *.split)
 [2014-02-02 16:32:54] phasze, quitting. (*.net *.split)
 [2014-02-02 16:33:55] smccarthy, quitting. (*.net *.split)
+[2014-02-02 16:40:15] dgrace, joining. (#ios-driver)
+[2014-02-02 16:42:31] AutomatedTester, quitting. (*.net *.split)
+[2014-02-02 16:42:31] admc, quitting. (*.net *.split)
+[2014-02-02 16:43:07] phasze1, joining. (#ios-driver)
