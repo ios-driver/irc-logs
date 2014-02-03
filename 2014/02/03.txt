@@ -24,3 +24,6 @@
 [2014-02-03 00:56:31] phasze1, joining. (#ios-driver)
 [2014-02-03 01:27:38] nicegraham_, joining. (#ios-driver)
 [2014-02-03 02:15:10] phasze, joining. (#ios-driver)
+[2014-02-03 02:22:42] dgrace, quitting. (*.net *.split)
+[2014-02-03 02:22:45] phasze1, quitting. (*.net *.split)
+[2014-02-03 02:22:48] freynaud_, quitting. (*.net *.split)
