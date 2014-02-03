@@ -79,3 +79,4 @@
 [2014-02-03 13:42:13] gdennis, quitting. (Ping timeout: 245 seconds)
 [2014-02-03 13:42:56] smccarthy, quitting. (Quit: Leaving...)
 [2014-02-03 13:44:07] gdennis, joining. (#ios-driver)
+[2014-02-03 14:06:59] santiycr, quitting. (Quit: Leaving.)
