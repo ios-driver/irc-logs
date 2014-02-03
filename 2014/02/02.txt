@@ -2,3 +2,4 @@
 [2014-02-02 08:18:24] smccarthy, joining. (#ios-driver)
 [2014-02-02 14:20:19] admc, joining. (#ios-driver)
 [2014-02-02 14:43:54] admc, quitting. (Quit: Leaving.)
+[2014-02-02 16:24:32] ios-driverbot_, quitting. (Ping timeout: 272 seconds)
