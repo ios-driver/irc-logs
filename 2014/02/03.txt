@@ -35,3 +35,7 @@
 [2014-02-03 05:14:00] freynaud_, joining. (#ios-driver)
 [2014-02-03 05:52:29] nirvdrum, joining. (#ios-driver)
 [2014-02-03 05:52:29] AutomatedTester, joining. (#ios-driver)
+[2014-02-03 06:07:09] AutomatedTester, quitting. (Ping timeout: 281 seconds)
+[2014-02-03 06:07:42] AutomatedTester, joining. (#ios-driver)
+[2014-02-03 06:08:14] nicegraham_, quitting. (Changing host)
+[2014-02-03 06:08:14] nicegraham_, joining. (#ios-driver)
