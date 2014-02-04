@@ -91,3 +91,6 @@
 [2014-02-03 17:10:51] dawagner, quitting. (Ping timeout: 265 seconds)
 [2014-02-03 17:15:01] jlipps1, joining. (#ios-driver)
 [2014-02-03 17:17:37] jlipps, quitting. (Ping timeout: 265 seconds)
+[2014-02-03 17:21:48] rsalvador, joining. (#ios-driver)
+[2014-02-03 17:22:47] jlipps1, quitting. (Quit: Leaving.)
+[2014-02-03 17:23:32] rsalvador1, joining. (#ios-driver)
