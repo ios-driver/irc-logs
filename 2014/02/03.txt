@@ -103,3 +103,5 @@
 [2014-02-03 17:45:47] smccarthy, joining. (#ios-driver)
 [2014-02-03 17:53:25] santiycr, quitting. (Quit: Leaving.)
 [2014-02-03 18:19:22] santiycr, joining. (#ios-driver)
+[2014-02-03 18:32:09] santiycr1, joining. (#ios-driver)
+[2014-02-03 18:32:10] santiycr1, quitting. (Client Quit)
