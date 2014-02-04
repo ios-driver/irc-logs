@@ -22,3 +22,4 @@
 [2014-02-04 13:01:38] smccarthy, quitting. (Ping timeout: 272 seconds)
 [2014-02-04 13:12:56] admc, joining. (#ios-driver)
 [2014-02-04 13:23:05] phasze1, changing nick to phasze.
+[2014-02-04 13:29:24] admc, quitting. (Quit: Leaving.)
