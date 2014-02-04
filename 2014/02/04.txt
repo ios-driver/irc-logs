@@ -27,3 +27,5 @@
 [2014-02-04 13:38:13] jlipps, joining. (#ios-driver)
 [2014-02-04 13:52:40] santiycr, joining. (#ios-driver)
 [2014-02-04 13:55:05] admc, joining. (#ios-driver)
+[2014-02-04 14:00:36] gdennis, leaving. (#ios-driver)
+[2014-02-04 14:03:29] nirvdrum: Anyone familiar with "InstrumentsFailedToStartException: Didn't get the capability back." ?
