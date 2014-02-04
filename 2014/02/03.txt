@@ -94,3 +94,4 @@
 [2014-02-03 17:21:48] rsalvador, joining. (#ios-driver)
 [2014-02-03 17:22:47] jlipps1, quitting. (Quit: Leaving.)
 [2014-02-03 17:23:32] rsalvador1, joining. (#ios-driver)
+[2014-02-03 17:26:29] rsalvador, quitting. (Ping timeout: 248 seconds)
