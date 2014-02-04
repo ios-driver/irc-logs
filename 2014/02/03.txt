@@ -89,3 +89,5 @@
 [2014-02-03 17:00:36] admc, joining. (#ios-driver)
 [2014-02-03 17:07:30] danielwh, joining. (#ios-driver)
 [2014-02-03 17:10:51] dawagner, quitting. (Ping timeout: 265 seconds)
+[2014-02-03 17:15:01] jlipps1, joining. (#ios-driver)
+[2014-02-03 17:17:37] jlipps, quitting. (Ping timeout: 265 seconds)
