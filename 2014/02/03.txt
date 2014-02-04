@@ -111,3 +111,4 @@
 [2014-02-03 21:25:49] jlipps, quitting. (Quit: Leaving.)
 [2014-02-03 22:16:59] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2014-02-03 22:31:14] phasze1, joining. (#ios-driver)
+[2014-02-03 22:38:47] phasze, quitting. (*.net *.split)
