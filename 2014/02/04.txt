@@ -29,3 +29,6 @@
 [2014-02-04 13:55:05] admc, joining. (#ios-driver)
 [2014-02-04 14:00:36] gdennis, leaving. (#ios-driver)
 [2014-02-04 14:03:29] nirvdrum: Anyone familiar with "InstrumentsFailedToStartException: Didn't get the capability back." ?
+[2014-02-04 14:06:50] smccarthy2, quitting. (Remote host closed the connection)
+[2014-02-04 14:07:15] santiycr1, joining. (#ios-driver)
+[2014-02-04 14:07:46] smccarthy, joining. (#ios-driver)
