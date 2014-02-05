@@ -30,3 +30,4 @@
 [2014-02-05 11:56:55] Ragnaroek, joining. (#ios-driver)
 [2014-02-05 13:19:37] jlipps, joining. (#ios-driver)
 [2014-02-05 13:30:27] jlipps, quitting. (Quit: Leaving.)
+[2014-02-05 13:38:57] Ragnaroek, quitting. (Remote host closed the connection)
