@@ -33,3 +33,5 @@
 [2014-02-05 13:38:57] Ragnaroek, quitting. (Remote host closed the connection)
 [2014-02-05 13:48:33] jlipps, joining. (#ios-driver)
 [2014-02-05 13:48:40] jlipps, quitting. (Remote host closed the connection)
+[2014-02-05 15:13:29] irc_t1, joining. (#ios-driver)
+[2014-02-05 15:14:13] irc_t1, leaving. (#ios-driver)
