@@ -9,3 +9,5 @@
 [2014-02-05 05:28:55] nirvdrum, joining. (#ios-driver)
 [2014-02-05 05:37:22] smccarthy, joining. (#ios-driver)
 [2014-02-05 05:40:09] Ragnaroek: i'm getting: iPhone variation incompatible with SDK 7.0.3
+[2014-02-05 06:10:27] nirvdrum: Does anyone have any insight on "InstrumentsFailedToStartException: Didn't get the capability back." ?
+[2014-02-05 06:13:15] gdennis, joining. (#ios-driver)
