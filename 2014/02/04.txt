@@ -37,3 +37,4 @@
 [2014-02-04 15:08:07] phasze, joining. (#ios-driver)
 [2014-02-04 15:34:27] lukeis, quitting. (Quit: Leaving.)
 [2014-02-04 16:31:59] smccarthy, quitting. (Remote host closed the connection)
+[2014-02-04 17:31:51] jlipps, quitting. (Quit: Leaving.)
