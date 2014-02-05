@@ -25,3 +25,6 @@
 [2014-02-05 11:24:54] rsalvador, joining. (#ios-driver)
 [2014-02-05 11:28:09] nirvdrum, quitting. (Quit: Leaving)
 [2014-02-05 11:29:15] nirvdrum, joining. (#ios-driver)
+[2014-02-05 11:56:02] rsalvador, quitting. (Quit: Leaving.)
+[2014-02-05 11:56:16] rsalvador, joining. (#ios-driver)
+[2014-02-05 11:56:55] Ragnaroek, joining. (#ios-driver)
