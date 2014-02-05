@@ -14,3 +14,6 @@
 [2014-02-05 07:57:44] admc, joining. (#ios-driver)
 [2014-02-05 08:03:32] admc, quitting. (Quit: Leaving.)
 [2014-02-05 08:32:01] Ragnaroek: works now with the latest dev version
+[2014-02-05 09:29:03] jlipps, joining. (#ios-driver)
+[2014-02-05 09:29:17] jlipps, quitting. (Client Quit)
+[2014-02-05 09:29:31] rsalvador, joining. (#ios-driver)
