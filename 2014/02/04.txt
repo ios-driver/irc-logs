@@ -50,3 +50,4 @@
 [2014-02-04 20:58:03] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-04 21:05:30] jlipps, quitting. (Quit: Leaving.)
 [2014-02-04 21:23:18] admc, quitting. (Quit: Leaving.)
+[2014-02-04 21:25:51] admc, joining. (#ios-driver)
