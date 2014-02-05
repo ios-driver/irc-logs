@@ -8,3 +8,4 @@
 [2014-02-05 02:24:02] Ragnaroek: does io-driver support the iOS 7 simulator?
 [2014-02-05 05:28:55] nirvdrum, joining. (#ios-driver)
 [2014-02-05 05:37:22] smccarthy, joining. (#ios-driver)
+[2014-02-05 05:40:09] Ragnaroek: i'm getting: iPhone variation incompatible with SDK 7.0.3
