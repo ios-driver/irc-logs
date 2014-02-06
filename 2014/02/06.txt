@@ -10,3 +10,4 @@
 [2014-02-06 09:07:21] Ragnaroek, quitting. (Ping timeout: 245 seconds)
 [2014-02-06 11:07:08] ios-driverbot, joining. (#ios-driver)
 [2014-02-06 11:18:05] Ragnaroek, joining. (#ios-driver)
+[2014-02-06 12:17:35] jlipps, joining. (#ios-driver)
