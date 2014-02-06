@@ -37,3 +37,5 @@
 [2014-02-05 15:14:13] irc_t1, leaving. (#ios-driver)
 [2014-02-05 16:03:04] lukeis, quitting. (Quit: Leaving.)
 [2014-02-05 18:14:32] rsalvador, quitting. (Ping timeout: 260 seconds)
+[2014-02-05 18:51:40] rsalvador, joining. (#ios-driver)
+[2014-02-05 18:54:24] rsalvador, quitting. (Client Quit)
