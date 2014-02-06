@@ -2,3 +2,4 @@
 [2014-02-06 05:11:53] nirvdrum, joining. (#ios-driver)
 [2014-02-06 05:41:20] smccarthy, joining. (#ios-driver)
 [2014-02-06 06:19:49] smccarthy, quitting. (Remote host closed the connection)
+[2014-02-06 06:57:04] gdennis, quitting. (Remote host closed the connection)
