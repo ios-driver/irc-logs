@@ -7,3 +7,4 @@
 [2014-02-06 07:48:18] gdennis, joining. (#ios-driver)
 [2014-02-06 08:04:58] rsalvador, joining. (#ios-driver)
 [2014-02-06 08:33:24] lukeis, joining. (#ios-driver)
+[2014-02-06 09:07:21] Ragnaroek, quitting. (Ping timeout: 245 seconds)
