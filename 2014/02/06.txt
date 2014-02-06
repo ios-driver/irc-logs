@@ -14,3 +14,4 @@
 [2014-02-06 13:10:54] gdennis, leaving. (#ios-driver)
 [2014-02-06 13:25:08] rsalvador, leaving. (#ios-driver)
 [2014-02-06 13:25:27] rsalvador, joining. (#ios-driver)
+[2014-02-06 14:44:55] smccarthy2, joining. (#ios-driver)
