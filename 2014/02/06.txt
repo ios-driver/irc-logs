@@ -11,3 +11,4 @@
 [2014-02-06 11:07:08] ios-driverbot, joining. (#ios-driver)
 [2014-02-06 11:18:05] Ragnaroek, joining. (#ios-driver)
 [2014-02-06 12:17:35] jlipps, joining. (#ios-driver)
+[2014-02-06 13:10:54] gdennis, leaving. (#ios-driver)
