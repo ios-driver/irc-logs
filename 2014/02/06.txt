@@ -24,3 +24,4 @@
 [2014-02-06 18:48:46] smccarthy, joining. (#ios-driver)
 [2014-02-06 18:56:51] nirvdrum, quitting. (Ping timeout: 245 seconds)
 [2014-02-06 20:42:00] smccarthy, quitting. (Remote host closed the connection)
+[2014-02-06 23:57:57] Ragnaroek, joining. (#ios-driver)
