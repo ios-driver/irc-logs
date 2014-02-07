@@ -10,3 +10,4 @@
 [2014-02-07 09:00:35] rsalvador, joining. (#ios-driver)
 [2014-02-07 09:14:17] jlipps, quitting. (Remote host closed the connection)
 [2014-02-07 09:47:30] lukeis, joining. (#ios-driver)
+[2014-02-07 13:55:26] gdennis, leaving. (#ios-driver)
