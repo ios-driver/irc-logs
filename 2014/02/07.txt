@@ -3,3 +3,4 @@
 [2014-02-07 06:52:03] Ragnaroek, quitting. (Remote host closed the connection)
 [2014-02-07 07:23:38] smccarthy, joining. (#ios-driver)
 [2014-02-07 07:32:24] gdennis, joining. (#ios-driver)
+[2014-02-07 08:05:55] jlipps, joining. (#ios-driver)
