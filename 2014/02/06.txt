@@ -20,3 +20,4 @@
 [2014-02-06 16:00:17] smccarthy2, quitting. (Remote host closed the connection)
 [2014-02-06 16:04:10] lukeis, quitting. (Quit: Leaving.)
 [2014-02-06 16:45:06] jlipps, quitting. (Quit: Leaving.)
+[2014-02-06 17:32:12] rsalvador, quitting. (Quit: Leaving.)
