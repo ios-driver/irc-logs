@@ -16,3 +16,4 @@
 [2014-02-07 16:34:13] lukeis, quitting. (Quit: Leaving.)
 [2014-02-07 16:58:00] smccarthy, joining. (#ios-driver)
 [2014-02-07 17:07:58] rsalvador, leaving. (#ios-driver)
+[2014-02-07 20:53:37] nirvdrum, joining. (#ios-driver)
