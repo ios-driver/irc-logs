@@ -1,2 +1,3 @@
 [2014-02-08 06:41:50] psp250, joining. (#ios-driver)
 [2014-02-08 07:11:17] nirvdrum, joining. (#ios-driver)
+[2014-02-08 07:15:07] nirvdrum, quitting. (Read error: Connection reset by peer)
