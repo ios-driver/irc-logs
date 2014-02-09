@@ -5,3 +5,4 @@
 [2014-02-08 13:57:27] lukeis, joining. (#ios-driver)
 [2014-02-08 14:11:32] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-08 14:13:38] lukeis, quitting. (Quit: Leaving.)
+[2014-02-08 17:24:00] smccarthy, joining. (#ios-driver)
