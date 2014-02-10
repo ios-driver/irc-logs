@@ -28,3 +28,4 @@
 [2014-02-10 12:04:09] freynaud_, joining. (#ios-driver)
 [2014-02-10 12:04:16] dgrace, joining. (#ios-driver)
 [2014-02-10 12:07:40] santiycr, quitting. (Quit: Leaving.)
+[2014-02-10 12:14:25] santiycr, joining. (#ios-driver)
