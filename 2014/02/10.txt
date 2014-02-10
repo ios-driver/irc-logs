@@ -1,2 +1,4 @@
 [2014-02-10 09:03:06] ios-driverbot, joining. (#ios-driver)
 [2014-02-10 09:17:15] rsalvador, joining. (#ios-driver)
+[2014-02-10 09:30:47] samhorwitz, joining. (#ios-driver)
+[2014-02-10 09:34:53] rsalvador, quitting. (Ping timeout: 246 seconds)
