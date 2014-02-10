@@ -32,3 +32,7 @@
 [2014-02-10 12:15:03] freynaud_: nirvdrum: Didn't get capability back is went instruments crashed
 [2014-02-10 12:15:19] freynaud_: cashed = didn't manage to launch the script in < 30 sec
 [2014-02-10 12:16:15] nirvdrum: weird. It was working one day and then all of a sudden stopped.
+[2014-02-10 12:23:50] samhorwitz: Yeah, it definitely looks to be crashing visually
+[2014-02-10 12:24:19] samhorwitz: The launch of that custom App bundled with ios-driver is obviously failing
+[2014-02-10 12:24:26] samhorwitz: When it launches
+[2014-02-10 12:24:34] samhorwitz: It does the launch animation and hangs halfway in
