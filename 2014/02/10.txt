@@ -17,3 +17,6 @@
 [2014-02-10 10:51:47] rsalvador, quitting. (Read error: Connection reset by peer)
 [2014-02-10 10:52:39] rsalvador1, joining. (#ios-driver)
 [2014-02-10 10:56:19] santiycr, joining. (#ios-driver)
+[2014-02-10 11:20:56] admc, joining. (#ios-driver)
+[2014-02-10 11:23:03] rsalvador1, quitting. (Quit: Leaving.)
+[2014-02-10 11:23:15] rsalvador, joining. (#ios-driver)
