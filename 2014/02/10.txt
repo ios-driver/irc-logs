@@ -41,3 +41,5 @@
 [2014-02-10 12:42:30] admc, quitting. (Client Quit)
 [2014-02-10 12:42:42] admc, joining. (#ios-driver)
 [2014-02-10 12:44:31] admc, quitting. (Client Quit)
+[2014-02-10 12:55:19] nirvdrum, quitting. (Read error: Connection reset by peer)
+[2014-02-10 12:57:41] santiycr, quitting. (Quit: Leaving.)
