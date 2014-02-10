@@ -38,3 +38,6 @@
 [2014-02-10 12:24:34] samhorwitz: It does the launch animation and hangs halfway in
 [2014-02-10 12:26:15] samhorwitz: wait I just realized you are responding to mirvdrum, did you have the same issue?
 [2014-02-10 12:38:12] admc, joining. (#ios-driver)
+[2014-02-10 12:42:30] admc, quitting. (Client Quit)
+[2014-02-10 12:42:42] admc, joining. (#ios-driver)
+[2014-02-10 12:44:31] admc, quitting. (Client Quit)
