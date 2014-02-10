@@ -7,3 +7,5 @@
 [2014-02-10 09:43:04] rsalvador, joining. (#ios-driver)
 [2014-02-10 10:25:11] rsalvador, quitting. (Quit: Leaving.)
 [2014-02-10 10:28:23] rsalvador, joining. (#ios-driver)
+[2014-02-10 10:39:48] samhorwitz: Hey I'm trying to run the tests for ios-driver and I keep getting these weird errors
+[2014-02-10 10:39:51] samhorwitz: WARNING NewSessionNHandler.handle  Couldn't start instrument :Didn't get the capability back.
