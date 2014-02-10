@@ -14,3 +14,5 @@
 [2014-02-10 10:40:34] samhorwitz: Then it seems instruments cant connect and crashes and the tests dont run
 [2014-02-10 10:40:49] samhorwitz: Otherwise, I can build fine and I can run the JAR file fine
 [2014-02-10 10:41:05] samhorwitz: Also the tests worked on Friday when I first built without -DskipTests but now they just dont.
+[2014-02-10 10:51:47] rsalvador, quitting. (Read error: Connection reset by peer)
+[2014-02-10 10:52:39] rsalvador1, joining. (#ios-driver)
