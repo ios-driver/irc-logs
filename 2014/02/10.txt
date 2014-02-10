@@ -23,3 +23,7 @@
 [2014-02-10 11:32:13] admc, quitting. (Quit: Leaving.)
 [2014-02-10 11:52:22] nirvdrum, joining. (#ios-driver)
 [2014-02-10 11:59:05] phasze, joining. (#ios-driver)
+[2014-02-10 12:01:52] dgrace, quitting. (*.net *.split)
+[2014-02-10 12:01:52] freynaud_, quitting. (*.net *.split)
+[2014-02-10 12:04:09] freynaud_, joining. (#ios-driver)
+[2014-02-10 12:04:16] dgrace, joining. (#ios-driver)
