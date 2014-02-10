@@ -29,3 +29,6 @@
 [2014-02-10 12:04:16] dgrace, joining. (#ios-driver)
 [2014-02-10 12:07:40] santiycr, quitting. (Quit: Leaving.)
 [2014-02-10 12:14:25] santiycr, joining. (#ios-driver)
+[2014-02-10 12:15:03] freynaud_: nirvdrum: Didn't get capability back is went instruments crashed
+[2014-02-10 12:15:19] freynaud_: cashed = didn't manage to launch the script in < 30 sec
+[2014-02-10 12:16:15] nirvdrum: weird. It was working one day and then all of a sudden stopped.
