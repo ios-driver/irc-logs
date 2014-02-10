@@ -9,3 +9,8 @@
 [2014-02-10 10:28:23] rsalvador, joining. (#ios-driver)
 [2014-02-10 10:39:48] samhorwitz: Hey I'm trying to run the tests for ios-driver and I keep getting these weird errors
 [2014-02-10 10:39:51] samhorwitz: WARNING NewSessionNHandler.handle  Couldn't start instrument :Didn't get the capability back.
+[2014-02-10 10:40:12] samhorwitz: The simulator starts and then the test application opens halfway and hangs (the "zoom to fit screen
+[2014-02-10 10:40:22] samhorwitz:  " animation plays but stops halway through
+[2014-02-10 10:40:34] samhorwitz: Then it seems instruments cant connect and crashes and the tests dont run
+[2014-02-10 10:40:49] samhorwitz: Otherwise, I can build fine and I can run the JAR file fine
+[2014-02-10 10:41:05] samhorwitz: Also the tests worked on Friday when I first built without -DskipTests but now they just dont.
