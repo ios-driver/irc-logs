@@ -36,3 +36,4 @@
 [2014-02-10 12:24:19] samhorwitz: The launch of that custom App bundled with ios-driver is obviously failing
 [2014-02-10 12:24:26] samhorwitz: When it launches
 [2014-02-10 12:24:34] samhorwitz: It does the launch animation and hangs halfway in
+[2014-02-10 12:26:15] samhorwitz: wait I just realized you are responding to mirvdrum, did you have the same issue?
