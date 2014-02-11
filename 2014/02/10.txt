@@ -64,3 +64,4 @@
 [2014-02-10 16:37:44] kcoons, quitting. (Remote host closed the connection)
 [2014-02-10 16:40:29] kcoons, joining. (#ios-driver)
 [2014-02-10 17:00:53] rsalvador, quitting. (Ping timeout: 248 seconds)
+[2014-02-10 17:19:48] santiycr, quitting. (Quit: Leaving.)
