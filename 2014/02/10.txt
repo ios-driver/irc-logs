@@ -72,3 +72,4 @@
 [2014-02-10 18:33:44] santiycr, quitting. (Quit: Leaving.)
 [2014-02-10 18:42:16] kcoons, quitting. (Quit: kcoons)
 [2014-02-10 19:04:37] kcoons, joining. (#ios-driver)
+[2014-02-10 19:18:02] santiycr, joining. (#ios-driver)
