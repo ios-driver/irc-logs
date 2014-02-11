@@ -75,3 +75,7 @@
 [2014-02-10 19:18:02] santiycr, joining. (#ios-driver)
 [2014-02-10 21:09:56] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-10 22:28:04] kcoons, quitting. (Read error: Operation timed out)
+[2014-02-10 23:12:04] rsalvador, joining. (#ios-driver)
+[2014-02-10 23:12:17] rsalvador, leaving. (#ios-driver)
+[2014-02-10 23:12:34] rsalvador, joining. (#ios-driver)
+[2014-02-10 23:13:57] rsalvador, quitting. (Client Quit)
