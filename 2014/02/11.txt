@@ -24,3 +24,5 @@
 [2014-02-11 13:36:03] samhorwitz, joining. (#ios-driver)
 [2014-02-11 13:39:13] Roy6522, quitting. (Remote host closed the connection)
 [2014-02-11 14:23:12] admc, quitting. (Quit: Leaving.)
+[2014-02-11 15:01:50] rsalvador, quitting. (Ping timeout: 260 seconds)
+[2014-02-11 15:03:06] rsalvador, joining. (#ios-driver)
