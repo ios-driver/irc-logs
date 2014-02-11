@@ -74,3 +74,4 @@
 [2014-02-10 19:04:37] kcoons, joining. (#ios-driver)
 [2014-02-10 19:18:02] santiycr, joining. (#ios-driver)
 [2014-02-10 21:09:56] smccarthy, quitting. (Remote host closed the connection)
+[2014-02-10 22:28:04] kcoons, quitting. (Read error: Operation timed out)
