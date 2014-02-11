@@ -21,3 +21,5 @@
 [2014-02-11 13:12:15] Guest126, changing nick to Roy6522.
 [2014-02-11 13:12:57] Roy6522: Anyone willing to help troubleshoot a few ios-driver issues I'm having?
 [2014-02-11 13:21:11] Roy6522: Bueller?
+[2014-02-11 13:36:03] samhorwitz, joining. (#ios-driver)
+[2014-02-11 13:39:13] Roy6522, quitting. (Remote host closed the connection)
