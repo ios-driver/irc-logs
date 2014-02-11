@@ -6,3 +6,4 @@
 [2014-02-11 09:32:34] rsalvador, joining. (#ios-driver)
 [2014-02-11 09:38:26] admc, quitting. (Quit: Leaving.)
 [2014-02-11 10:28:06] samhorwitz, quitting. (Read error: Operation timed out)
+[2014-02-11 10:31:28] samhorwitz, joining. (#ios-driver)
