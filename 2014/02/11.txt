@@ -14,3 +14,4 @@
 [2014-02-11 12:45:41] admc, quitting. (Quit: Leaving.)
 [2014-02-11 13:00:41] admc, joining. (#ios-driver)
 [2014-02-11 13:03:11] rsalvador, joining. (#ios-driver)
+[2014-02-11 13:07:17] samhorwitz, quitting. (Ping timeout: 248 seconds)
