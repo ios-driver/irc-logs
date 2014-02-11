@@ -59,3 +59,5 @@
 [2014-02-10 16:07:19] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-10 16:24:38] samhorwitz, quitting. (Ping timeout: 265 seconds)
 [2014-02-10 16:26:28] admc, quitting. (Quit: Leaving.)
+[2014-02-10 16:30:14] kcoons, joining. (#ios-driver)
+[2014-02-10 16:33:29] kcoons: Hi all, I'm Katie Coons from Facebook.  François asked me to post here and introduce myself.  I will probably be making a few contributions to the server side of things to help us out using ios-driver here at Facebook.
