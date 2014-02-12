@@ -36,3 +36,5 @@
 [2014-02-11 16:18:01] admc, joining. (#ios-driver)
 [2014-02-11 16:30:53] rsalvador, quitting. (Quit: Leaving.)
 [2014-02-11 16:31:43] rsalvador, joining. (#ios-driver)
+[2014-02-11 16:37:04] dawagner, joining. (#ios-driver)
+[2014-02-11 16:38:47] dawagner, quitting. (Client Quit)
