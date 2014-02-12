@@ -40,3 +40,5 @@
 [2014-02-11 16:38:47] dawagner, quitting. (Client Quit)
 [2014-02-11 16:43:59] santiycr, joining. (#ios-driver)
 [2014-02-11 17:04:28] smccarthy, quitting. (Remote host closed the connection)
+[2014-02-11 17:19:29] jlipps, quitting. (Quit: Leaving.)
+[2014-02-11 17:19:45] jlipps, joining. (#ios-driver)
