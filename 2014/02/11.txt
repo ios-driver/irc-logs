@@ -73,3 +73,4 @@
 [2014-02-11 23:02:44] admc, quitting. (Quit: Leaving.)
 [2014-02-11 23:03:02] admc, joining. (#ios-driver)
 [2014-02-11 23:43:39] Roy6522, joining. (#ios-driver)
+[2014-02-11 23:47:49] Roy6522, quitting. (Ping timeout: 248 seconds)
