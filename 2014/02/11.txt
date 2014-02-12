@@ -69,3 +69,4 @@
 [2014-02-11 21:43:05] Roy6522, joining. (#ios-driver)
 [2014-02-11 21:47:17] Roy6522, quitting. (Ping timeout: 248 seconds)
 [2014-02-11 22:21:59] samhorwitz, joining. (#ios-driver)
+[2014-02-11 22:26:23] samhorwitz, quitting. (Ping timeout: 260 seconds)
