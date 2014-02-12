@@ -48,3 +48,4 @@
 [2014-02-11 17:35:30] rsalvador, joining. (#ios-driver)
 [2014-02-11 17:36:18] rsalvador, quitting. (Client Quit)
 [2014-02-11 17:40:59] Roy6522, joining. (#ios-driver)
+[2014-02-11 17:45:33] Roy6522, quitting. (Ping timeout: 250 seconds)
