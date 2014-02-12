@@ -15,3 +15,4 @@
 [2014-02-12 07:12:10] Roy6522, leaving. (#ios-driver)
 [2014-02-12 07:12:13] Roy6522, joining. (#ios-driver)
 [2014-02-12 07:12:15] Roy6522, leaving. (#ios-driver)
+[2014-02-12 07:40:10] smccarthy, joining. (#ios-driver)
