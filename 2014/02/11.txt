@@ -67,3 +67,4 @@
 [2014-02-11 21:23:39] jlipps, quitting. (Client Quit)
 [2014-02-11 21:38:49] admc, joining. (#ios-driver)
 [2014-02-11 21:43:05] Roy6522, joining. (#ios-driver)
+[2014-02-11 21:47:17] Roy6522, quitting. (Ping timeout: 248 seconds)
