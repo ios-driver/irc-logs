@@ -57,3 +57,15 @@
 [2014-02-13 12:11:51] samuelhorwitz: Yah that makes sense for actually contacting real contributers responsible for changes, but my employer is more concerned with the company's name getting some credit if they let me release work I was paid to do back into the community
 [2014-02-13 12:12:18] samuelhorwitz: I'll include everyone on their in my initial CONTRIBUTORS commit to be edited as desired by contributors
 [2014-02-13 12:12:42] samuelhorwitz: there*
+[2014-02-13 12:15:21] nirvdrum: samuelhorwitz: employers can be fun like that.
+[2014-02-13 12:15:36] samuelhorwitz: haha
+[2014-02-13 12:16:37] nirvdrum: I can empathize with wanting credit. At the same time, there was a lot of ios-driver code you guys didn't have to write ;-)
+[2014-02-13 12:16:54] nirvdrum: but this seems like a small hurdle to clear.
+[2014-02-13 12:17:49] samuelhorwitz: Yeah I agree
+[2014-02-13 12:17:57] samuelhorwitz: My file will include everyone on that link above
+[2014-02-13 12:18:01] samuelhorwitz: before our names
+[2014-02-13 12:18:53] freynaud: we can have a companies contributing page
+[2014-02-13 12:19:00] freynaud: less maintenance than a list of people
+[2014-02-13 12:19:11] freynaud: the list of people you already have from github
+[2014-02-13 12:19:52] samuelhorwitz: If you'd rather have that I'm down
+[2014-02-13 12:19:59] samuelhorwitz: I'd feel bad just having my company's entry there though
