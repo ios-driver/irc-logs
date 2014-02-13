@@ -46,3 +46,4 @@
 [2014-02-12 15:58:27] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/HFq9rA
 [2014-02-12 15:58:27] ios-driver-git: ios-driver/dev dab46b7 rsalvador: Improved diagnostics for env setup problems.
 [2014-02-12 15:58:27] ios-driver-git, leaving. (#ios-driver)
+[2014-02-12 16:11:06] nirvdrum, quitting. (Ping timeout: 245 seconds)
