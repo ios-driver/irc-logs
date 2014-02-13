@@ -119,3 +119,6 @@
 [2014-02-13 12:41:27] samuelhorwitz: cool sounds good
 [2014-02-13 12:42:03] samuelhorwitz: Thanks for your help and sorry again about the requests on behalf of my employer, I know it sounds like I'm asking for adoration before I've even shown anything for it or whatever
 [2014-02-13 12:42:40] rsalvador, joining. (#ios-driver)
+[2014-02-13 12:45:26] rsalvador, quitting. (Client Quit)
+[2014-02-13 12:45:37] rsalvador, joining. (#ios-driver)
+[2014-02-13 12:45:47] lukeis, joining. (#ios-driver)
