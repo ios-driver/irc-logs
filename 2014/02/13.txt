@@ -84,3 +84,17 @@
 [2014-02-13 12:26:17] freynaud: or a wkrdp protocol call for it?
 [2014-02-13 12:27:12] samuelhorwitz: I dont believe there is an atom
 [2014-02-13 12:27:37] samuelhorwitz: It's something specified in the webdriver spec and there were some empty functions and commented out routing bits for it
+[2014-02-13 12:31:31] freynaud: what will the callback be ?
+[2014-02-13 12:31:49] freynaud: JS or can you pass anything in the language binding you use ?
+[2014-02-13 12:32:12] samuelhorwitz: You mean the final argument callback for the executed script?
+[2014-02-13 12:32:20] freynaud: yes
+[2014-02-13 12:32:50] freynaud: i don't have an example in mind or where that would be usefull
+[2014-02-13 12:33:02] freynaud: the protocol is about emulating users
+[2014-02-13 12:33:07] samuelhorwitz: Its a remote object javascript function
+[2014-02-13 12:33:12] freynaud: a user doesn't have callbacks
+[2014-02-13 12:33:34] samuelhorwitz: this is the selenium documentation for the function
+[2014-02-13 12:33:35] samuelhorwitz: http://selenium.googlecode.com/git/docs/api/java/org/openqa/selenium/JavascriptExecutor.html
+[2014-02-13 12:33:53] samuelhorwitz: The issue is that Protractor uses it for booting up and waiting for AngularJS to be ready on the page
+[2014-02-13 12:33:58] samuelhorwitz: I'm not actually using it directly
+[2014-02-13 12:34:08] samuelhorwitz: Thats why the protractor users are all waiting for its implementation
+[2014-02-13 12:34:41] samuelhorwitz: So when you are testing Angularjs with chromedriver or whatever it all works fine but when you use the current ios-driver, it crashes because these methods arent implemented
