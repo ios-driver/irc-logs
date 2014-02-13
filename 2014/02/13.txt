@@ -1,0 +1,6 @@
+[2014-02-13 02:14:29] ios-driver-git, joining. (#ios-driver)
+[2014-02-13 02:14:29] ios-driver-git: [ios-driver] freynaud created saf (+3 new commits): http://git.io/dchHQA
+[2014-02-13 02:14:29] ios-driver-git: ios-driver/saf e24bac6 freynaud: Merge branch 'dev' of github.com:ios-driver/ios-driver into dev
+[2014-02-13 02:14:29] ios-driver-git: ios-driver/saf d698bcc freynaud: updating version number to 0.6.6-SNAPSHOT
+[2014-02-13 02:14:29] ios-driver-git: ios-driver/saf 9103ac1 freynaud: tmp code for safari
+[2014-02-13 02:14:29] ios-driver-git, leaving. (#ios-driver)
