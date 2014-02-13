@@ -49,3 +49,11 @@
 [2014-02-13 12:09:43] freynaud: i don't have nay issue with it
 [2014-02-13 12:09:48] samuelhorwitz: Cool :)
 [2014-02-13 12:09:56] freynaud: i don't think we have a contributor page yet
+[2014-02-13 12:10:04] samuelhorwitz: I just need to tell them I can put their name somewhere and I don't want to clutter the boilerplate code headers
+[2014-02-13 12:10:09] samuelhorwitz: Yeah you guys dont, not that I could find
+[2014-02-13 12:10:19] samuelhorwitz: It would probably be good and I can report back and say I can give them credit
+[2014-02-13 12:10:22] samuelhorwitz: Thank you :)
+[2014-02-13 12:10:51] freynaud: i personally uses https://github.com/ios-driver/ios-driver/graphs/contributors
+[2014-02-13 12:11:51] samuelhorwitz: Yah that makes sense for actually contacting real contributers responsible for changes, but my employer is more concerned with the company's name getting some credit if they let me release work I was paid to do back into the community
+[2014-02-13 12:12:18] samuelhorwitz: I'll include everyone on their in my initial CONTRIBUTORS commit to be edited as desired by contributors
+[2014-02-13 12:12:42] samuelhorwitz: there*
