@@ -5,3 +5,4 @@
 [2014-02-13 02:14:29] ios-driver-git: ios-driver/saf 9103ac1 freynaud: tmp code for safari
 [2014-02-13 02:14:29] ios-driver-git, leaving. (#ios-driver)
 [2014-02-13 05:58:23] smccarthy, joining. (#ios-driver)
+[2014-02-13 06:44:07] jlipps, joining. (#ios-driver)
