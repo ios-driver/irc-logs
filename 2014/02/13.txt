@@ -112,3 +112,10 @@
 [2014-02-13 12:37:22] freynaud: arrays are changed to an object, and you get a reference to it
 [2014-02-13 12:37:29] freynaud: you cannot call .length etc
 [2014-02-13 12:38:59] samuelhorwitz: I will write test cases before I submit a pull request :/ Good point
+[2014-02-13 12:40:17] samuelhorwitz: I'll tell you what, since this stuff is probably going to want to be discussed a bit more, I'll get everything ironed out on my end and create a public fork of my changes I link to on that feature request before I go all out and actually submit a pull request
+[2014-02-13 12:40:50] freynaud: ok
+[2014-02-13 12:40:55] freynaud: sounds like a plan
+[2014-02-13 12:41:17] samuelhorwitz: Since although I'm proud of the fact I got this up and running for Protractor, I feel like I'm probably not experienced enough with the code base to have a perfect final product
+[2014-02-13 12:41:27] samuelhorwitz: cool sounds good
+[2014-02-13 12:42:03] samuelhorwitz: Thanks for your help and sorry again about the requests on behalf of my employer, I know it sounds like I'm asking for adoration before I've even shown anything for it or whatever
+[2014-02-13 12:42:40] rsalvador, joining. (#ios-driver)
