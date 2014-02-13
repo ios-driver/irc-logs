@@ -20,3 +20,12 @@
 [2014-02-13 11:09:02] rsalvador, quitting. (Quit: Leaving.)
 [2014-02-13 11:23:10] rsalvador, joining. (#ios-driver)
 [2014-02-13 11:24:57] jlipps, quitting. (Quit: Leaving.)
+[2014-02-13 11:55:59] admc, joining. (#ios-driver)
+[2014-02-13 11:57:14] samuelhorwitz, joining. (#ios-driver)
+[2014-02-13 11:57:36] samuelhorwitz: Hey all, I have a quick question about contributions and CLAs and stuff
+[2014-02-13 11:58:01] samuelhorwitz: I've been doing some side work on the clock at my company to make ios-driver work with Protractor (the AngularJS testing framework)
+[2014-02-13 11:58:06] samuelhorwitz: Basically executeAsyncScript stuff
+[2014-02-13 11:58:31] samuelhorwitz: Anyway I'm pushing to make my changes open source and make a pull request and all that
+[2014-02-13 11:58:55] samuelhorwitz: My boss is cool with the idea but he's sending the CLA thing to the lawyers to look at and also is concerned if our company will get credit
+[2014-02-13 11:59:41] samuelhorwitz: Since the boilerplate code is just "ios-driver Contributers", would you all be okay if I submitted a pull request including a CONTRIBUTORS file?
+[2014-02-13 11:59:54] samuelhorwitz: I really would like to make this palatable to my employer
