@@ -69,3 +69,13 @@
 [2014-02-13 12:19:11] freynaud: the list of people you already have from github
 [2014-02-13 12:19:52] samuelhorwitz: If you'd rather have that I'm down
 [2014-02-13 12:19:59] samuelhorwitz: I'd feel bad just having my company's entry there though
+[2014-02-13 12:20:05] samuelhorwitz: But I can preface it with a link to the github page
+[2014-02-13 12:21:53] freynaud: what changes have you made btw?
+[2014-02-13 12:23:09] samuelhorwitz: Basically, I have a project in AngularJS
+[2014-02-13 12:23:14] samuelhorwitz: And I wanted to use Protractor with it
+[2014-02-13 12:23:22] samuelhorwitz: so that required some async script execution stuff
+[2014-02-13 12:23:26] samuelhorwitz: https://github.com/ios-driver/ios-driver/issues/172
+[2014-02-13 12:23:35] samuelhorwitz: That was a feature request someone else made about it
+[2014-02-13 12:24:14] samuelhorwitz: Honestly if my stuff is rubbish I don't care if people pick it apart or discard it, it works for me but this is my first dive into webdriver code
+[2014-02-13 12:24:36] samuelhorwitz: I'm making a thing about it because I know other people want these changes and I want my company to let me at least put out what ive done so far
+[2014-02-13 12:24:45] samuelhorwitz: And to do that I need to make sure their demands are met lol
