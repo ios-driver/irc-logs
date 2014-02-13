@@ -30,3 +30,22 @@
 [2014-02-13 11:59:41] samuelhorwitz: Since the boilerplate code is just "ios-driver Contributers", would you all be okay if I submitted a pull request including a CONTRIBUTORS file?
 [2014-02-13 11:59:54] samuelhorwitz: I really would like to make this palatable to my employer
 [2014-02-13 12:00:13] samuelhorwitz: or is there somewhere else the contributors are declared that I am missing
+[2014-02-13 12:05:16] nirvdrum: samuelhorwitz: freynaud_ would be the guy to talk to.  Generally the contributors list is culled from the git authors list :-P
+[2014-02-13 12:05:50] freynaud, joining. (#ios-driver)
+[2014-02-13 12:05:58] nirvdrum: But the CLA isn't about credit.  It's about keeping the project's IP clean, which generally speaking is in your employer's best interest.
+[2014-02-13 12:06:52] freynaud: CLA != contributor list
+[2014-02-13 12:07:11] samuelhorwitz: No, no I know that
+[2014-02-13 12:07:21] samuelhorwitz: I suppose I just mentioned CLA to acknowledge I know I have to have them sign it
+[2014-02-13 12:07:42] samuelhorwitz: I'm just going through the steps of getting approval in general and besides the CLA, my employer wants to have our name somewhere
+[2014-02-13 12:08:32] samuelhorwitz: freynaud, did you get my original question under freynaud_?
+[2014-02-13 12:08:38] freynaud: no
+[2014-02-13 12:08:40] samuelhorwitz: ah okay
+[2014-02-13 12:08:47] freynaud: irc cloud seems down
+[2014-02-13 12:08:49] rsalvador, quitting. (Ping timeout: 252 seconds)
+[2014-02-13 12:08:53] samuelhorwitz: Would it be okay for a pull request to include a CONTRIBUTORS file?
+[2014-02-13 12:09:07] samuelhorwitz: My employeer wants credit and I made some updates on the clock I'm looking to submit back in
+[2014-02-13 12:09:21] freynaud: the clock ?
+[2014-02-13 12:09:27] samuelhorwitz: At work
+[2014-02-13 12:09:43] freynaud: i don't have nay issue with it
+[2014-02-13 12:09:48] samuelhorwitz: Cool :)
+[2014-02-13 12:09:56] freynaud: i don't think we have a contributor page yet
