@@ -79,3 +79,8 @@
 [2014-02-13 12:24:14] samuelhorwitz: Honestly if my stuff is rubbish I don't care if people pick it apart or discard it, it works for me but this is my first dive into webdriver code
 [2014-02-13 12:24:36] samuelhorwitz: I'm making a thing about it because I know other people want these changes and I want my company to let me at least put out what ive done so far
 [2014-02-13 12:24:45] samuelhorwitz: And to do that I need to make sure their demands are met lol
+[2014-02-13 12:25:03] samuelhorwitz: I don't want to come off as sounding grandiose needing my own CONTRIBUTORS file and all of that
+[2014-02-13 12:25:59] freynaud: is there an atom for asyn script ?
+[2014-02-13 12:26:17] freynaud: or a wkrdp protocol call for it?
+[2014-02-13 12:27:12] samuelhorwitz: I dont believe there is an atom
+[2014-02-13 12:27:37] samuelhorwitz: It's something specified in the webdriver spec and there were some empty functions and commented out routing bits for it
