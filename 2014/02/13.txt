@@ -8,3 +8,4 @@
 [2014-02-13 06:44:07] jlipps, joining. (#ios-driver)
 [2014-02-13 06:53:34] jlipps, quitting. (Quit: Leaving.)
 [2014-02-13 07:35:57] nirvdrum, joining. (#ios-driver)
+[2014-02-13 08:25:19] lukeis, joining. (#ios-driver)
