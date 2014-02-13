@@ -98,3 +98,17 @@
 [2014-02-13 12:33:58] samuelhorwitz: I'm not actually using it directly
 [2014-02-13 12:34:08] samuelhorwitz: Thats why the protractor users are all waiting for its implementation
 [2014-02-13 12:34:41] samuelhorwitz: So when you are testing Angularjs with chromedriver or whatever it all works fine but when you use the current ios-driver, it crashes because these methods arent implemented
+[2014-02-13 12:35:49] freynaud: ok
+[2014-02-13 12:35:58] freynaud: first step is to get the CLA signed
+[2014-02-13 12:36:09] samuelhorwitz: yeah
+[2014-02-13 12:36:26] samuelhorwitz: oh and I guess my branch also has a slight change to callbacks for execute script
+[2014-02-13 12:36:35] samuelhorwitz: not callbacks but arguments i mean
+[2014-02-13 12:36:43] samuelhorwitz: You couldnt pass an array as an argument for some reason
+[2014-02-13 12:36:44] samuelhorwitz: now you can
+[2014-02-13 12:36:55] samuelhorwitz: was there any reason for this before? it would just throw an error
+[2014-02-13 12:36:55] freynaud: and the tests pass ?
+[2014-02-13 12:37:07] freynaud: webkit remote protocol doesn't allow arrays
+[2014-02-13 12:37:22] samuelhorwitz: Well I pass them as remote objects
+[2014-02-13 12:37:22] freynaud: arrays are changed to an object, and you get a reference to it
+[2014-02-13 12:37:29] freynaud: you cannot call .length etc
+[2014-02-13 12:38:59] samuelhorwitz: I will write test cases before I submit a pull request :/ Good point
