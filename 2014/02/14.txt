@@ -22,3 +22,5 @@
 [2014-02-14 11:17:19] freynaud_:  mvn clean test -am -pl ios-selenium-tests
 [2014-02-14 11:27:45] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-14 11:51:56] samhorwitz: thanks
+[2014-02-14 11:55:09] rsalvador1, quitting. (Quit: Leaving.)
+[2014-02-14 11:55:22] rsalvador, joining. (#ios-driver)
