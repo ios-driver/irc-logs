@@ -12,3 +12,4 @@
 [2014-02-14 07:27:03] smccarthy, joining. (#ios-driver)
 [2014-02-14 07:27:21] phasze1, quitting. (Ping timeout: 245 seconds)
 [2014-02-14 07:30:03] phasze, joining. (#ios-driver)
+[2014-02-14 07:54:46] samhorwitz, joining. (#ios-driver)
