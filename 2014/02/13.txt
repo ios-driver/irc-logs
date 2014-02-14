@@ -152,3 +152,4 @@
 [2014-02-13 18:34:36] admc, quitting. (Read error: Connection reset by peer)
 [2014-02-13 18:42:28] admc, joining. (#ios-driver)
 [2014-02-13 18:58:31] psp250, quitting. (Ping timeout: 245 seconds)
+[2014-02-13 19:20:22] admc, quitting. (Quit: Leaving.)
