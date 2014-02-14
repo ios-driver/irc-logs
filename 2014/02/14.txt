@@ -35,3 +35,4 @@
 [2014-02-14 15:04:32] admc, quitting. (Client Quit)
 [2014-02-14 15:04:34] rsalvador, joining. (#ios-driver)
 [2014-02-14 15:09:10] rsalvador1, joining. (#ios-driver)
+[2014-02-14 15:12:11] rsalvador, quitting. (Ping timeout: 272 seconds)
