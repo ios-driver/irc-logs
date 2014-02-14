@@ -17,3 +17,5 @@
 [2014-02-14 09:08:48] admc, joining. (#ios-driver)
 [2014-02-14 09:14:10] lukeis, joining. (#ios-driver)
 [2014-02-14 10:03:52] admc, quitting. (Quit: Leaving.)
+[2014-02-14 10:10:54] samhorwitz: hey anyone know how I can execute only the surefire test suite for ios-selenium-tests?
+[2014-02-14 10:11:04] samhorwitz: I don't have much experience with maven or surefire
