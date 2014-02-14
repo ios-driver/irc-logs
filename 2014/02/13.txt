@@ -157,3 +157,4 @@
 [2014-02-13 20:13:52] admc, quitting. (Client Quit)
 [2014-02-13 20:38:08] admc, joining. (#ios-driver)
 [2014-02-13 20:41:40] smccarthy, quitting. (Remote host closed the connection)
+[2014-02-13 21:29:26] nirvdrum, quitting. (Ping timeout: 245 seconds)
