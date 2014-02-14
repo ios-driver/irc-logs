@@ -1,2 +1,5 @@
 [2014-02-14 01:33:47] admc, quitting. (Quit: Leaving.)
 [2014-02-14 05:16:23] nirvdrum, joining. (#ios-driver)
+[2014-02-14 05:35:21] phasze1, joining. (#ios-driver)
+[2014-02-14 05:36:02] phasze2, joining. (#ios-driver)
+[2014-02-14 05:36:20] phasze, quitting. (Ping timeout: 252 seconds)
