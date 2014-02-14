@@ -159,3 +159,4 @@
 [2014-02-13 20:41:40] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-13 21:29:26] nirvdrum, quitting. (Ping timeout: 245 seconds)
 [2014-02-13 22:04:17] samuelhorwitz, quitting. (Ping timeout: 272 seconds)
+[2014-02-13 23:06:16] samuelhorwitz, joining. (#ios-driver)
