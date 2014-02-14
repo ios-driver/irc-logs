@@ -21,3 +21,4 @@
 [2014-02-14 10:11:04] samhorwitz: I don't have much experience with maven or surefire
 [2014-02-14 11:17:19] freynaud_:  mvn clean test -am -pl ios-selenium-tests
 [2014-02-14 11:27:45] smccarthy, quitting. (Remote host closed the connection)
+[2014-02-14 11:51:56] samhorwitz: thanks
