@@ -3,3 +3,4 @@
 [2014-02-14 05:35:21] phasze1, joining. (#ios-driver)
 [2014-02-14 05:36:02] phasze2, joining. (#ios-driver)
 [2014-02-14 05:36:20] phasze, quitting. (Ping timeout: 252 seconds)
+[2014-02-14 05:40:11] phasze1, quitting. (Ping timeout: 260 seconds)
