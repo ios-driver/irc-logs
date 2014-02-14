@@ -148,3 +148,4 @@
 [2014-02-13 17:00:14] admc, quitting. (Quit: Leaving.)
 [2014-02-13 17:00:26] santiycr, quitting. (Quit: Leaving.)
 [2014-02-13 17:47:36] admc, joining. (#ios-driver)
+[2014-02-13 18:11:32] rsalvador, quitting. (Quit: Leaving.)
