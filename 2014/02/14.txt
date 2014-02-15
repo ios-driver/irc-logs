@@ -43,3 +43,6 @@
 [2014-02-14 16:56:03] santiycr1, quitting. (Quit: Leaving.)
 [2014-02-14 16:56:13] santiycr, joining. (#ios-driver)
 [2014-02-14 17:13:25] kcoons, joining. (#ios-driver)
+[2014-02-14 17:22:21] admc, quitting. (Quit: Leaving.)
+[2014-02-14 17:22:34] admc, joining. (#ios-driver)
+[2014-02-14 17:22:39] admc, quitting. (Client Quit)
