@@ -5,3 +5,4 @@
 [2014-02-15 05:21:30] samhorwitz, joining. (#ios-driver)
 [2014-02-15 05:25:51] samhorwitz, quitting. (Ping timeout: 260 seconds)
 [2014-02-15 07:35:28] smccarthy, joining. (#ios-driver)
+[2014-02-15 09:53:17] smccarthy, quitting. (Remote host closed the connection)
