@@ -48,3 +48,4 @@
 [2014-02-14 17:22:39] admc, quitting. (Client Quit)
 [2014-02-14 17:38:26] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-14 17:38:57] rsalvador1, leaving. (#ios-driver)
+[2014-02-14 17:50:44] santiycr, quitting. (Quit: Leaving.)
