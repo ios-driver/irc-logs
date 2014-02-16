@@ -17,3 +17,4 @@
 [2014-02-15 19:09:39] kcoons, quitting. (Ping timeout: 252 seconds)
 [2014-02-15 21:21:49] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-15 23:14:54] kcoons, joining. (#ios-driver)
+[2014-02-15 23:20:48] kcoons, quitting. (Quit: kcoons)
