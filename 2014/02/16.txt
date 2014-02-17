@@ -7,3 +7,4 @@
 [2014-02-16 19:16:41] admc, quitting. (Quit: Leaving.)
 [2014-02-16 20:45:28] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-16 22:50:50] admc, joining. (#ios-driver)
+[2014-02-16 23:30:14] samuelhorwitz, quitting. (Ping timeout: 260 seconds)
