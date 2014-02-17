@@ -1,1 +1,3 @@
 [2014-02-17 00:56:10] admc, quitting. (Quit: Leaving.)
+[2014-02-17 01:26:46] samuelhorwitz, joining. (#ios-driver)
+[2014-02-17 01:27:59] samhorwitz, joining. (#ios-driver)
