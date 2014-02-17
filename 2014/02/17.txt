@@ -15,3 +15,4 @@
 [2014-02-17 09:32:16] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-17 09:55:30] samuelhorwitz, joining. (#ios-driver)
 [2014-02-17 11:43:37] smccarthy, joining. (#ios-driver)
+[2014-02-17 15:39:17] admc, joining. (#ios-driver)
