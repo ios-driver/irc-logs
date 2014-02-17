@@ -10,3 +10,4 @@
 [2014-02-17 05:28:54] samuelhorwitz, joining. (#ios-driver)
 [2014-02-17 05:33:20] samuelhorwitz, quitting. (Ping timeout: 265 seconds)
 [2014-02-17 07:29:02] samuelhorwitz, joining. (#ios-driver)
+[2014-02-17 07:33:31] samuelhorwitz, quitting. (Ping timeout: 245 seconds)
