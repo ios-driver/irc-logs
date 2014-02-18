@@ -7,3 +7,5 @@
 [2014-02-18 09:15:15] rsalvador, joining. (#ios-driver)
 [2014-02-18 10:14:15] admc, joining. (#ios-driver)
 [2014-02-18 10:17:25] santiycr, joining. (#ios-driver)
+[2014-02-18 10:30:02] nirvdrum, joining. (#ios-driver)
+[2014-02-18 10:32:25] jlipps, joining. (#ios-driver)
