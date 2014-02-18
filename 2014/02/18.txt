@@ -13,3 +13,7 @@
 [2014-02-18 12:10:35] admc, quitting. (Quit: Leaving.)
 [2014-02-18 12:25:23] santiycr, joining. (#ios-driver)
 [2014-02-18 12:29:49] santiycr, quitting. (Ping timeout: 265 seconds)
+[2014-02-18 12:31:45] samhorwitz, quitting. (Ping timeout: 265 seconds)
+[2014-02-18 12:31:51] admc, joining. (#ios-driver)
+[2014-02-18 12:33:10] dawagner, joining. (#ios-driver)
+[2014-02-18 12:33:23] dawagner: Does anyone know the magic you need to perform to run more than one iOS simulator at once?
