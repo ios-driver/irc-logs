@@ -17,3 +17,5 @@
 [2014-02-18 12:31:51] admc, joining. (#ios-driver)
 [2014-02-18 12:33:10] dawagner, joining. (#ios-driver)
 [2014-02-18 12:33:23] dawagner: Does anyone know the magic you need to perform to run more than one iOS simulator at once?
+[2014-02-18 12:36:53] santiycr, joining. (#ios-driver)
+[2014-02-18 12:39:45] nirvdrum: dawagner: I believe someone at Facebook is working on that. I don't think it's been pushed the repo yet.
