@@ -10,3 +10,4 @@
 [2014-02-18 10:30:02] nirvdrum, joining. (#ios-driver)
 [2014-02-18 10:32:25] jlipps, joining. (#ios-driver)
 [2014-02-18 12:05:54] santiycr, quitting. (Quit: Leaving.)
+[2014-02-18 12:10:35] admc, quitting. (Quit: Leaving.)
