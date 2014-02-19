@@ -44,3 +44,4 @@
 [2014-02-18 16:49:29] nirvdrum, joining. (#ios-driver)
 [2014-02-18 17:16:13] rsalvador, quitting. (Quit: Leaving.)
 [2014-02-18 17:17:21] rsalvador1, joining. (#ios-driver)
+[2014-02-18 17:26:19] rsalvador1, quitting. (Ping timeout: 260 seconds)
