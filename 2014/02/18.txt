@@ -65,3 +65,4 @@
 [2014-02-18 23:20:02] v101, joining. (#ios-driver)
 [2014-02-18 23:20:03] v101, leaving. (#ios-driver)
 [2014-02-18 23:43:28] admc, joining. (#ios-driver)
+[2014-02-18 23:55:04] admc, quitting. (Read error: Connection reset by peer)
