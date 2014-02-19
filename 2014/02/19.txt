@@ -7,3 +7,9 @@
 [2014-02-19 04:56:58] freynaud_: so I use that directly
 [2014-02-19 05:06:50] jlipps, joining. (#ios-driver)
 [2014-02-19 05:22:27] jlipps, quitting. (Quit: Leaving.)
+[2014-02-19 06:25:10] ios-driver-git, joining. (#ios-driver)
+[2014-02-19 06:25:10] ios-driver-git: [ios-driver] freynaud pushed 3 new commits to saf: http://git.io/rRvP1Q
+[2014-02-19 06:25:10] ios-driver-git: ios-driver/saf a1e3d8d freynaud: cleaning up a bit the NoOp instruments logic
+[2014-02-19 06:25:10] ios-driver-git: ios-driver/saf 836c380 freynaud: updating the libimobile wrapper
+[2014-02-19 06:25:10] ios-driver-git: ios-driver/saf d70230c freynaud: removing last references to libimobile instruments....
+[2014-02-19 06:25:10] ios-driver-git, leaving. (#ios-driver)
