@@ -40,3 +40,5 @@
 [2014-02-18 16:20:17] samhorwitz, quitting. (Ping timeout: 253 seconds)
 [2014-02-18 16:43:04] nirvdrum, quitting. (Read error: Connection reset by peer)
 [2014-02-18 16:44:29] santiycr1, joining. (#ios-driver)
+[2014-02-18 16:47:35] santiycr, quitting. (Ping timeout: 260 seconds)
+[2014-02-18 16:49:29] nirvdrum, joining. (#ios-driver)
