@@ -1,3 +1,4 @@
 [2014-02-19 00:00:27] admc, joining. (#ios-driver)
 [2014-02-19 00:38:29] admc, quitting. (Quit: Leaving.)
 [2014-02-19 03:47:26] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
+[2014-02-19 03:55:42] AutomatedTester, joining. (#ios-driver)
