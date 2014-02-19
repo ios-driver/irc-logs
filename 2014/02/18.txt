@@ -47,3 +47,4 @@
 [2014-02-18 17:26:19] rsalvador1, quitting. (Ping timeout: 260 seconds)
 [2014-02-18 17:30:17] admc, quitting. (Quit: Leaving.)
 [2014-02-18 18:00:17] santiycr1, quitting. (Quit: Leaving.)
+[2014-02-18 18:05:11] nirvdrum, quitting. (Ping timeout: 245 seconds)
