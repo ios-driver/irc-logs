@@ -16,3 +16,4 @@
 [2014-02-19 06:45:14] nirvdrum, joining. (#ios-driver)
 [2014-02-19 06:47:35] gdennis, joining. (#ios-driver)
 [2014-02-19 07:30:20] smccarthy, joining. (#ios-driver)
+[2014-02-19 07:46:55] samhorwitz, joining. (#ios-driver)
