@@ -51,3 +51,7 @@
 [2014-02-18 18:14:10] santiycr, joining. (#ios-driver)
 [2014-02-18 18:14:15] santiycr, quitting. (Client Quit)
 [2014-02-18 18:15:22] santiycr, joining. (#ios-driver)
+[2014-02-18 18:28:19] samuelhorwitz: hey I put up a fork earlier today of my executeAsyncScript code to make ios-driver work with Angular Protractor (and also just conform more to the webdriver spec)
+[2014-02-18 18:28:43] samuelhorwitz: Anyway, although I'm happy with the way it's working for me, I'm a bit concerned I'm missing something paradigm-wise with the whole webdriver code base
+[2014-02-18 18:29:01] samuelhorwitz: Namely with Javascript Atoms
+[2014-02-18 18:29:26] samuelhorwitz: it doesn't look like ios-driver uses any atoms to handle executeScript requests and neither am I using them for my newly implemented executeAsyncScript requests
