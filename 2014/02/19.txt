@@ -5,3 +5,4 @@
 [2014-02-19 04:56:37] freynaud_: samuelhorwitz: executeScript doesn't use atoms
 [2014-02-19 04:56:52] freynaud_: because the webkit remote protocol has an executeScript already
 [2014-02-19 04:56:58] freynaud_: so I use that directly
+[2014-02-19 05:06:50] jlipps, joining. (#ios-driver)
