@@ -13,3 +13,5 @@
 [2014-02-19 06:25:10] ios-driver-git: ios-driver/saf 836c380 freynaud: updating the libimobile wrapper
 [2014-02-19 06:25:10] ios-driver-git: ios-driver/saf d70230c freynaud: removing last references to libimobile instruments....
 [2014-02-19 06:25:10] ios-driver-git, leaving. (#ios-driver)
+[2014-02-19 06:45:14] nirvdrum, joining. (#ios-driver)
+[2014-02-19 06:47:35] gdennis, joining. (#ios-driver)
