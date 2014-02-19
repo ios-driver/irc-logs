@@ -59,3 +59,4 @@
 [2014-02-18 18:31:50] jlipps, quitting. (Quit: Leaving.)
 [2014-02-18 18:32:43] santiycr, quitting. (Quit: Leaving.)
 [2014-02-18 18:32:59] jlipps, joining. (#ios-driver)
+[2014-02-18 19:05:11] jlipps, quitting. (Quit: Leaving.)
