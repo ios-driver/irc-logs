@@ -79,3 +79,5 @@
 [2014-02-20 14:48:42] santiycr, joining. (#ios-driver)
 [2014-02-20 14:50:45] santiycr1, quitting. (Ping timeout: 248 seconds)
 [2014-02-20 14:51:28] smccarthy, joining. (#ios-driver)
+[2014-02-20 15:00:26] rsalvador, quitting. (Quit: Leaving.)
+[2014-02-20 15:00:40] rsalvador, joining. (#ios-driver)
