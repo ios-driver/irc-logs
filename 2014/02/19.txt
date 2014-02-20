@@ -60,3 +60,4 @@
 [2014-02-19 17:58:58] santiycr, quitting. (Quit: Leaving.)
 [2014-02-19 18:07:50] samhorwitz, joining. (#ios-driver)
 [2014-02-19 18:12:21] samhorwitz, quitting. (Ping timeout: 248 seconds)
+[2014-02-19 18:19:07] rsalvador, joining. (#ios-driver)
