@@ -58,3 +58,6 @@
 [2014-02-20 14:00:15] freynaud_, quitting. (*.net *.split)
 [2014-02-20 14:06:30] freynaud_, joining. (#ios-driver)
 [2014-02-20 14:06:31] dgrace, joining. (#ios-driver)
+[2014-02-20 14:10:31] rsalvador, quitting. (Quit: Leaving.)
+[2014-02-20 14:10:42] rsalvador, joining. (#ios-driver)
+[2014-02-20 14:11:12] rsalvador, leaving. (#ios-driver)
