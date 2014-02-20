@@ -70,3 +70,5 @@
 [2014-02-20 14:36:36] rsalvador, quitting. (Quit: Leaving.)
 [2014-02-20 14:36:49] rsalvador, joining. (#ios-driver)
 [2014-02-20 14:37:05] rsalvador, leaving. (#ios-driver)
+[2014-02-20 14:43:33] santiycr, joining. (#ios-driver)
+[2014-02-20 14:44:08] rsalvador, joining. (#ios-driver)
