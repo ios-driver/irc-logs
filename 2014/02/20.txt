@@ -16,3 +16,4 @@
 [2014-02-20 10:24:02] rsalvador, joining. (#ios-driver)
 [2014-02-20 10:31:34] rsalvador, leaving. (#ios-driver)
 [2014-02-20 10:48:05] rsalvador, joining. (#ios-driver)
+[2014-02-20 10:53:14] santiycr, joining. (#ios-driver)
