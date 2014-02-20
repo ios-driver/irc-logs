@@ -49,3 +49,4 @@
 [2014-02-19 14:50:28] admc, quitting. (Quit: Leaving.)
 [2014-02-19 15:28:05] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-19 16:11:36] samhorwitz, quitting. (Ping timeout: 252 seconds)
+[2014-02-19 16:28:18] lukeis, quitting. (Quit: Leaving.)
