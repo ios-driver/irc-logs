@@ -14,3 +14,4 @@
 [2014-02-20 09:53:41] jlipps, joining. (#ios-driver)
 [2014-02-20 10:23:45] rsalvador, quitting. (Quit: Leaving.)
 [2014-02-20 10:24:02] rsalvador, joining. (#ios-driver)
+[2014-02-20 10:31:34] rsalvador, leaving. (#ios-driver)
