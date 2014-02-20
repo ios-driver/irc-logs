@@ -42,3 +42,11 @@
 [2014-02-20 12:43:39] rsalvador, quitting. (Quit: Leaving.)
 [2014-02-20 12:43:50] rsalvador, joining. (#ios-driver)
 [2014-02-20 13:04:09] AutomatedTester_, joining. (#ios-driver)
+[2014-02-20 13:05:16] smccarthy, quitting. (*.net *.split)
+[2014-02-20 13:05:16] AutomatedTester, quitting. (*.net *.split)
+[2014-02-20 13:05:18] dgrace, quitting. (*.net *.split)
+[2014-02-20 13:05:19] santiycr, quitting. (*.net *.split)
+[2014-02-20 13:05:23] AutomatedTester_, changing nick to AutomatedTester.
+[2014-02-20 13:06:04] santiycr, joining. (#ios-driver)
+[2014-02-20 13:07:58] dgrace, joining. (#ios-driver)
+[2014-02-20 13:08:06] rsalvador, leaving. (#ios-driver)
