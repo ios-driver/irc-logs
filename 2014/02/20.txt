@@ -61,3 +61,4 @@
 [2014-02-20 14:10:31] rsalvador, quitting. (Quit: Leaving.)
 [2014-02-20 14:10:42] rsalvador, joining. (#ios-driver)
 [2014-02-20 14:11:12] rsalvador, leaving. (#ios-driver)
+[2014-02-20 14:22:02] rsalvador, joining. (#ios-driver)
