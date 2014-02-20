@@ -70,3 +70,4 @@
 [2014-02-19 21:31:36] samuelhorwitz, quitting. (Quit: Lost terminal)
 [2014-02-19 22:08:25] samhorwitz, joining. (#ios-driver)
 [2014-02-19 22:09:08] admc, quitting. (Read error: Connection reset by peer)
+[2014-02-19 22:12:57] samhorwitz, quitting. (Ping timeout: 252 seconds)
