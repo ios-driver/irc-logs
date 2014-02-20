@@ -65,3 +65,8 @@
 [2014-02-20 14:27:02] freynaud_, quitting. (*.net *.split)
 [2014-02-20 14:32:45] lukeis1, changing nick to lukeis.
 [2014-02-20 14:33:07] dgrace, quitting. (*.net *.split)
+[2014-02-20 14:36:25] freynaud_, joining. (#ios-driver)
+[2014-02-20 14:36:25] dgrace, joining. (#ios-driver)
+[2014-02-20 14:36:36] rsalvador, quitting. (Quit: Leaving.)
+[2014-02-20 14:36:49] rsalvador, joining. (#ios-driver)
+[2014-02-20 14:37:05] rsalvador, leaving. (#ios-driver)
