@@ -37,3 +37,7 @@
 [2014-02-20 12:33:22] jlipps, joining. (#ios-driver)
 [2014-02-20 12:35:51] jlipps1, quitting. (Ping timeout: 260 seconds)
 [2014-02-20 12:39:58] jlipps1, joining. (#ios-driver)
+[2014-02-20 12:42:00] jlipps, quitting. (Ping timeout: 265 seconds)
+[2014-02-20 12:43:04] jlipps1, quitting. (Client Quit)
+[2014-02-20 12:43:39] rsalvador, quitting. (Quit: Leaving.)
+[2014-02-20 12:43:50] rsalvador, joining. (#ios-driver)
