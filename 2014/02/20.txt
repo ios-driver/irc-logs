@@ -88,3 +88,4 @@
 [2014-02-20 16:03:50] rsalvador, quitting. (Quit: Leaving.)
 [2014-02-20 16:03:59] rsalvador, joining. (#ios-driver)
 [2014-02-20 16:08:44] smccarthy, joining. (#ios-driver)
+[2014-02-20 16:16:42] samhorwitz, quitting. (Read error: Operation timed out)
