@@ -85,3 +85,5 @@
 [2014-02-20 15:56:28] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-20 15:57:32] rsalvador, quitting. (Quit: Leaving.)
 [2014-02-20 15:57:41] rsalvador, joining. (#ios-driver)
+[2014-02-20 16:03:50] rsalvador, quitting. (Quit: Leaving.)
+[2014-02-20 16:03:59] rsalvador, joining. (#ios-driver)
