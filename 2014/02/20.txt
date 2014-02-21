@@ -95,3 +95,5 @@
 [2014-02-20 16:45:14] santiycr, quitting. (Ping timeout: 260 seconds)
 [2014-02-20 16:55:53] santiycr1, quitting. (*.net *.split)
 [2014-02-20 16:58:02] santiycr1, joining. (#ios-driver)
+[2014-02-20 17:02:01] santiycr1, quitting. (*.net *.split)
+[2014-02-20 17:02:31] santiycr1, joining. (#ios-driver)
