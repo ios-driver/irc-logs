@@ -1,1 +1,2 @@
 [2014-02-21 00:32:57] admc1, quitting. (Quit: Leaving.)
+[2014-02-21 00:59:19] admc, joining. (#ios-driver)
