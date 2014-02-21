@@ -30,3 +30,4 @@
 [2014-02-21 11:00:04] admc, joining. (#ios-driver)
 [2014-02-21 11:36:34] dgrace, joining. (#ios-driver)
 [2014-02-21 12:23:00] admc, quitting. (Quit: Leaving.)
+[2014-02-21 13:11:46] admc, joining. (#ios-driver)
