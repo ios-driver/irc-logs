@@ -24,3 +24,4 @@
 [2014-02-21 08:55:14] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-21 09:42:28] rsalvador, joining. (#ios-driver)
 [2014-02-21 09:49:24] smccarthy, joining. (#ios-driver)
+[2014-02-21 09:51:23] samhorwitz, quitting. (Quit: Lost terminal)
