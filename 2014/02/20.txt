@@ -91,3 +91,4 @@
 [2014-02-20 16:16:42] samhorwitz, quitting. (Read error: Operation timed out)
 [2014-02-20 16:29:44] santiycr, quitting. (Quit: Leaving.)
 [2014-02-20 16:33:25] santiycr, joining. (#ios-driver)
+[2014-02-20 16:40:53] santiycr1, joining. (#ios-driver)
