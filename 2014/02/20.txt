@@ -110,3 +110,4 @@
 [2014-02-20 19:54:29] rsalvador, quitting. (Quit: Leaving.)
 [2014-02-20 19:54:44] rsalvador, joining. (#ios-driver)
 [2014-02-20 19:56:58] rsalvador, leaving. (#ios-driver)
+[2014-02-20 20:54:00] admc, joining. (#ios-driver)
