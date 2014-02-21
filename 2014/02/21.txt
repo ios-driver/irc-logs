@@ -7,3 +7,4 @@
 [2014-02-21 07:29:40] smccarthy, joining. (#ios-driver)
 [2014-02-21 07:29:53] dgrace, quitting. (Quit: Connection closed for inactivity)
 [2014-02-21 07:47:11] samhorwitz, joining. (#ios-driver)
+[2014-02-21 08:03:56] nirvdrum_, joining. (#ios-driver)
