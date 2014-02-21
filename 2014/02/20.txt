@@ -101,3 +101,4 @@
 [2014-02-20 17:23:53] rsalvador, joining. (#ios-driver)
 [2014-02-20 17:26:27] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-20 17:34:54] admc, joining. (#ios-driver)
+[2014-02-20 17:52:37] rsalvador, quitting. (Ping timeout: 248 seconds)
