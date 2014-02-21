@@ -20,3 +20,4 @@
 [2014-02-21 08:29:49] ios-driver-git: [ios-driver] progressnerd opened pull request #219: Better window handling in ios-driver (saf...greg) http://git.io/Vl-hwA
 [2014-02-21 08:29:49] ios-driver-git, leaving. (#ios-driver)
 [2014-02-21 08:35:28] jlipps, joining. (#ios-driver)
+[2014-02-21 08:54:42] lukeis, joining. (#ios-driver)
