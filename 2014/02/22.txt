@@ -1,3 +1,5 @@
 [2014-02-22 07:09:14] ios-driverbot_, joining. (#ios-driver)
 [2014-02-22 07:13:23] freynaud_, quitting. (Changing host)
 [2014-02-22 07:13:23] freynaud_, joining. (#ios-driver)
+[2014-02-22 07:17:23] ios-driverbot_, quitting. (Ping timeout: 260 seconds)
+[2014-02-22 07:18:07] ios-driverbot__, joining. (#ios-driver)
