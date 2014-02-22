@@ -24,3 +24,4 @@
 [2014-02-22 09:39:38] freynaud_, joining. (#ios-driver)
 [2014-02-22 09:39:38] nicegraham_, joining. (#ios-driver)
 [2014-02-22 09:40:49] rsalvador, joining. (#ios-driver)
+[2014-02-22 09:46:27] ios-driverbot___, quitting. (Ping timeout: 272 seconds)
