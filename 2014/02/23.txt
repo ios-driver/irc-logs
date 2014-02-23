@@ -1,0 +1,2 @@
+[2014-02-23 00:28:39] gdennis, quitting. (Changing host)
+[2014-02-23 00:28:39] gdennis, joining. (#ios-driver)
