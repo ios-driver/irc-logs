@@ -75,3 +75,8 @@
 [2014-02-24 13:57:59] jmartin_, quitting. (Client Quit)
 [2014-02-24 13:58:21] jmartin_, joining. (#ios-driver)
 [2014-02-24 14:05:00] jmartin_, quitting. (Remote host closed the connection)
+[2014-02-24 14:05:19] santiycr, joining. (#ios-driver)
+[2014-02-24 14:06:56] jmartin_, joining. (#ios-driver)
+[2014-02-24 14:08:34] freynaud_: rsalvador: Hi
+[2014-02-24 14:08:46] freynaud_: did you work on the failing test for safari ?
+[2014-02-24 14:08:53] freynaud_: the offset are still off
