@@ -14,3 +14,5 @@
 [2014-02-24 06:08:18] nirvdrum_, joining. (#ios-driver)
 [2014-02-24 06:09:38] nirvdrum, quitting. (Quit: Leaving)
 [2014-02-24 06:24:30] nirvdrum_, changing nick to nirvdrum.
+[2014-02-24 06:31:56] smccarthy, joining. (#ios-driver)
+[2014-02-24 06:31:56] AutomatedTester, joining. (#ios-driver)
