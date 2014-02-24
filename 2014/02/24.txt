@@ -59,3 +59,7 @@
 [2014-02-24 13:00:46] ios-driver-git: ios-driver/dev d942b67 freynaud: tmp code for safari
 [2014-02-24 13:04:40] rsalvador, quitting. (Quit: Leaving.)
 [2014-02-24 13:04:51] rsalvador, joining. (#ios-driver)
+[2014-02-24 13:18:43] ios-driver-git, joining. (#ios-driver)
+[2014-02-24 13:18:43] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/LqCZ9g
+[2014-02-24 13:18:43] ios-driver-git: ios-driver/dev e662b78 freynaud: following selenium naming convention for the server standalone
+[2014-02-24 13:18:43] ios-driver-git, leaving. (#ios-driver)
