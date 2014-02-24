@@ -45,3 +45,5 @@
 [2014-02-24 11:28:39] lukeis, quitting. (Quit: Leaving.)
 [2014-02-24 11:30:41] lukeis, joining. (#ios-driver)
 [2014-02-24 11:54:32] admc, joining. (#ios-driver)
+[2014-02-24 11:56:28] rsalvador1, quitting. (Quit: Leaving.)
+[2014-02-24 11:56:43] rsalvador, joining. (#ios-driver)
