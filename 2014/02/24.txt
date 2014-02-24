@@ -82,3 +82,4 @@
 [2014-02-24 14:08:53] freynaud_: the offset are still off
 [2014-02-24 14:13:07] rsalvador: hi, it has been some time, I don't really remember which things I fixed. I think last thing I fixed were the offsets for iPad
 [2014-02-24 14:19:43] santiycr, quitting. (Quit: Leaving.)
+[2014-02-24 14:22:35] jmartin_, quitting. (Remote host closed the connection)
