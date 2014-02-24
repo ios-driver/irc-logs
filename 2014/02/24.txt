@@ -65,3 +65,6 @@
 [2014-02-24 13:18:43] ios-driver-git, leaving. (#ios-driver)
 [2014-02-24 13:20:53] santiycr, joining. (#ios-driver)
 [2014-02-24 13:32:27] santiycr, quitting. (Ping timeout: 244 seconds)
+[2014-02-24 13:45:07] santiycr, joining. (#ios-driver)
+[2014-02-24 13:46:07] admc, joining. (#ios-driver)
+[2014-02-24 13:49:20] gdennis, leaving. (#ios-driver)
