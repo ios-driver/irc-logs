@@ -1,2 +1,4 @@
 [2014-02-24 00:03:26] admc, quitting. (*.net *.split)
 [2014-02-24 01:09:03] admc1, quitting. (Quit: Leaving.)
+[2014-02-24 01:11:11] admc, joining. (#ios-driver)
+[2014-02-24 01:11:25] admc, quitting. (Client Quit)
