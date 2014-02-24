@@ -84,3 +84,4 @@
 [2014-02-24 14:19:43] santiycr, quitting. (Quit: Leaving.)
 [2014-02-24 14:22:35] jmartin_, quitting. (Remote host closed the connection)
 [2014-02-24 15:04:33] santiycr, joining. (#ios-driver)
+[2014-02-24 15:39:52] jmartin_, joining. (#ios-driver)
