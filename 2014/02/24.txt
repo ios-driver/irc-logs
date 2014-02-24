@@ -74,3 +74,4 @@
 [2014-02-24 13:56:04] jmartin_, joining. (#ios-driver)
 [2014-02-24 13:57:59] jmartin_, quitting. (Client Quit)
 [2014-02-24 13:58:21] jmartin_, joining. (#ios-driver)
+[2014-02-24 14:05:00] jmartin_, quitting. (Remote host closed the connection)
