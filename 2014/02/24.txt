@@ -8,3 +8,4 @@
 [2014-02-24 04:44:18] ios-driver-git: ios-driver/dev 7c7e700 freynaud: adding an automatic retry for the session if it doesn't start in the given time.
 [2014-02-24 04:44:18] ios-driver-git, leaving. (#ios-driver)
 [2014-02-24 04:44:18] ios-driver-git: ios-driver/dev 605ee10 freynaud: making sure instruments is properly killed when the script is interupted.
+[2014-02-24 05:40:43] nicegraham_, quitting. (*.net *.split)
