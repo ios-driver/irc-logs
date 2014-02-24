@@ -80,3 +80,4 @@
 [2014-02-24 14:08:34] freynaud_: rsalvador: Hi
 [2014-02-24 14:08:46] freynaud_: did you work on the failing test for safari ?
 [2014-02-24 14:08:53] freynaud_: the offset are still off
+[2014-02-24 14:13:07] rsalvador: hi, it has been some time, I don't really remember which things I fixed. I think last thing I fixed were the offsets for iPad
