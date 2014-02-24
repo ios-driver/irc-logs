@@ -69,3 +69,8 @@
 [2014-02-24 13:46:07] admc, joining. (#ios-driver)
 [2014-02-24 13:49:20] gdennis, leaving. (#ios-driver)
 [2014-02-24 13:54:41] jmartin_, joining. (#ios-driver)
+[2014-02-24 13:55:30] santiycr, quitting. (Quit: Leaving.)
+[2014-02-24 13:55:45] jmartin_, quitting. (Client Quit)
+[2014-02-24 13:56:04] jmartin_, joining. (#ios-driver)
+[2014-02-24 13:57:59] jmartin_, quitting. (Client Quit)
+[2014-02-24 13:58:21] jmartin_, joining. (#ios-driver)
