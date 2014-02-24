@@ -51,3 +51,11 @@
 [2014-02-24 12:36:04] santiycr, quitting. (Quit: Leaving.)
 [2014-02-24 12:59:23] rsalvador, quitting. (Quit: Leaving.)
 [2014-02-24 12:59:40] rsalvador, joining. (#ios-driver)
+[2014-02-24 13:00:46] ios-driver-git, joining. (#ios-driver)
+[2014-02-24 13:00:46] ios-driver-git: [ios-driver] freynaud pushed 5 new commits to dev: http://git.io/JW2plg
+[2014-02-24 13:00:46] ios-driver-git: ios-driver/dev 550654b freynaud: updating the libimobile wrapper
+[2014-02-24 13:00:46] ios-driver-git, leaving. (#ios-driver)
+[2014-02-24 13:00:46] ios-driver-git: ios-driver/dev 23090b3 freynaud: cleaning up a bit the NoOp instruments logic
+[2014-02-24 13:00:46] ios-driver-git: ios-driver/dev d942b67 freynaud: tmp code for safari
+[2014-02-24 13:04:40] rsalvador, quitting. (Quit: Leaving.)
+[2014-02-24 13:04:51] rsalvador, joining. (#ios-driver)
