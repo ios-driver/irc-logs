@@ -24,3 +24,4 @@
 [2014-02-24 08:32:42] ios-driver-git: ios-driver/dev 8df4305 freynaud: running instruments in the background brakes some alert functionalities
 [2014-02-24 08:32:42] ios-driver-git: ios-driver/dev bd3ee55 freynaud: Merge branch 'dev' of github.com:ios-driver/ios-driver into dev
 [2014-02-24 08:32:42] ios-driver-git, leaving. (#ios-driver)
+[2014-02-24 08:39:35] rsalvador, quitting. (Ping timeout: 246 seconds)
