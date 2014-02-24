@@ -63,3 +63,4 @@
 [2014-02-24 13:18:43] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/LqCZ9g
 [2014-02-24 13:18:43] ios-driver-git: ios-driver/dev e662b78 freynaud: following selenium naming convention for the server standalone
 [2014-02-24 13:18:43] ios-driver-git, leaving. (#ios-driver)
+[2014-02-24 13:20:53] santiycr, joining. (#ios-driver)
