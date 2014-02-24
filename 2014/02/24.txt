@@ -17,3 +17,4 @@
 [2014-02-24 06:31:56] smccarthy, joining. (#ios-driver)
 [2014-02-24 06:31:56] AutomatedTester, joining. (#ios-driver)
 [2014-02-24 08:23:50] rsalvador, joining. (#ios-driver)
+[2014-02-24 08:29:23] lukeis, joining. (#ios-driver)
