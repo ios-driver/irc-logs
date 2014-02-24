@@ -40,3 +40,4 @@
 [2014-02-24 09:50:43] admc, joining. (#ios-driver)
 [2014-02-24 09:52:15] nirvdrum, quitting. (Read error: Connection reset by peer)
 [2014-02-24 10:02:04] nirvdrum, joining. (#ios-driver)
+[2014-02-24 10:22:37] santiycr, joining. (#ios-driver)
