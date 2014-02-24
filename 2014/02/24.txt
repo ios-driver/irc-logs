@@ -25,3 +25,7 @@
 [2014-02-24 08:32:42] ios-driver-git: ios-driver/dev bd3ee55 freynaud: Merge branch 'dev' of github.com:ios-driver/ios-driver into dev
 [2014-02-24 08:32:42] ios-driver-git, leaving. (#ios-driver)
 [2014-02-24 08:39:35] rsalvador, quitting. (Ping timeout: 246 seconds)
+[2014-02-24 08:48:39] ios-driver-git, joining. (#ios-driver)
+[2014-02-24 08:48:39] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/bRn9eg
+[2014-02-24 08:48:39] ios-driver-git, leaving. (#ios-driver)
+[2014-02-24 08:48:39] ios-driver-git: ios-driver/dev 8ca5145 freynaud: kill shouldn't fail
