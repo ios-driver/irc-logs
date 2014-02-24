@@ -18,3 +18,9 @@
 [2014-02-24 06:31:56] AutomatedTester, joining. (#ios-driver)
 [2014-02-24 08:23:50] rsalvador, joining. (#ios-driver)
 [2014-02-24 08:29:23] lukeis, joining. (#ios-driver)
+[2014-02-24 08:32:41] ios-driver-git, joining. (#ios-driver)
+[2014-02-24 08:32:42] ios-driver-git: [ios-driver] freynaud pushed 3 new commits to dev: http://git.io/WHGl8w
+[2014-02-24 08:32:42] ios-driver-git: ios-driver/dev 299ad02 rsalvador: Improved diagnostics for env setup problems.
+[2014-02-24 08:32:42] ios-driver-git: ios-driver/dev 8df4305 freynaud: running instruments in the background brakes some alert functionalities
+[2014-02-24 08:32:42] ios-driver-git: ios-driver/dev bd3ee55 freynaud: Merge branch 'dev' of github.com:ios-driver/ios-driver into dev
+[2014-02-24 08:32:42] ios-driver-git, leaving. (#ios-driver)
