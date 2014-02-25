@@ -23,3 +23,4 @@
 [2014-02-25 11:18:30] jlipps, joining. (#ios-driver)
 [2014-02-25 11:21:14] jlipps1, quitting. (Ping timeout: 264 seconds)
 [2014-02-25 11:53:17] admc, quitting. (Quit: Leaving.)
+[2014-02-25 12:01:28] admc, joining. (#ios-driver)
