@@ -91,3 +91,4 @@
 [2014-02-24 15:52:08] santiycr, joining. (#ios-driver)
 [2014-02-24 16:02:06] lukeis, quitting. (Quit: Leaving.)
 [2014-02-24 16:40:46] rsalvador, leaving. (#ios-driver)
+[2014-02-24 17:04:57] santiycr, quitting. (Read error: Connection reset by peer)
