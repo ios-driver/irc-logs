@@ -100,3 +100,4 @@
 [2014-02-24 17:37:36] rsalvador, quitting. (Quit: Leaving.)
 [2014-02-24 17:37:49] rsalvador, joining. (#ios-driver)
 [2014-02-24 17:37:56] rsalvador, leaving. (#ios-driver)
+[2014-02-24 17:42:50] jlipps, joining. (#ios-driver)
