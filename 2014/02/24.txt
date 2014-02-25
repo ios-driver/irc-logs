@@ -96,3 +96,4 @@
 [2014-02-24 17:11:21] jlipps, quitting. (Quit: Leaving.)
 [2014-02-24 17:19:53] santiycr, joining. (#ios-driver)
 [2014-02-24 17:29:50] rsalvador, joining. (#ios-driver)
+[2014-02-24 17:33:45] admc, joining. (#ios-driver)
