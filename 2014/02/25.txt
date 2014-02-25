@@ -12,3 +12,4 @@
 [2014-02-25 10:38:27] jmartin_, joining. (#ios-driver)
 [2014-02-25 10:40:23] admc, quitting. (Quit: Leaving.)
 [2014-02-25 10:40:41] admc, joining. (#ios-driver)
+[2014-02-25 10:52:47] jlipps1, joining. (#ios-driver)
