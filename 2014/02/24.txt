@@ -89,3 +89,4 @@
 [2014-02-24 15:50:50] santiycr, joining. (#ios-driver)
 [2014-02-24 15:51:56] santiycr, quitting. (Client Quit)
 [2014-02-24 15:52:08] santiycr, joining. (#ios-driver)
+[2014-02-24 16:02:06] lukeis, quitting. (Quit: Leaving.)
