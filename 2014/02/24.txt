@@ -113,3 +113,4 @@
 [2014-02-24 19:23:56] santiycr, joining. (#ios-driver)
 [2014-02-24 19:24:08] santiycr, quitting. (Client Quit)
 [2014-02-24 19:44:24] nirvdrum, quitting. (Ping timeout: 240 seconds)
+[2014-02-24 19:45:05] jmartin_, quitting. (Remote host closed the connection)
