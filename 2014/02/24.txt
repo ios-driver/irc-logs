@@ -118,3 +118,8 @@
 [2014-02-24 20:39:12] smccarthy, quitting. (Ping timeout: 240 seconds)
 [2014-02-24 20:40:06] smccarthy2, quitting. (Read error: Connection reset by peer)
 [2014-02-24 20:40:18] smccarthy, joining. (#ios-driver)
+[2014-02-24 20:50:46] smccarthy, quitting. (Read error: Connection reset by peer)
+[2014-02-24 20:51:12] smccarthy, joining. (#ios-driver)
+[2014-02-24 20:53:22] smccarthy, quitting. (Read error: Connection reset by peer)
+[2014-02-24 20:53:52] smccarthy, joining. (#ios-driver)
+[2014-02-24 20:54:49] smccarthy, quitting. (Read error: Connection reset by peer)
