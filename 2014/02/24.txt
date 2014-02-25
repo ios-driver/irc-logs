@@ -123,3 +123,5 @@
 [2014-02-24 20:53:22] smccarthy, quitting. (Read error: Connection reset by peer)
 [2014-02-24 20:53:52] smccarthy, joining. (#ios-driver)
 [2014-02-24 20:54:49] smccarthy, quitting. (Read error: Connection reset by peer)
+[2014-02-24 22:04:42] santiycr, joining. (#ios-driver)
+[2014-02-24 22:04:43] santiycr, quitting. (Client Quit)
