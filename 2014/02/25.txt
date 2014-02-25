@@ -37,3 +37,7 @@
 [2014-02-25 14:48:47] admc, quitting. (Quit: Leaving.)
 [2014-02-25 14:53:19] nirvdrum, joining. (#ios-driver)
 [2014-02-25 15:04:59] admc, joining. (#ios-driver)
+[2014-02-25 15:13:38] lukeis, quitting. (Quit: Leaving.)
+[2014-02-25 15:13:58] lukeis, joining. (#ios-driver)
+[2014-02-25 15:14:22] lukeis, quitting. (Client Quit)
+[2014-02-25 15:14:41] lukeis, joining. (#ios-driver)
