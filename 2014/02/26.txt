@@ -29,3 +29,4 @@
 [2014-02-26 05:23:45] ios-driver-git: ios-driver/test e84cb7f freynaud: test
 [2014-02-26 05:23:45] ios-driver-git, leaving. (#ios-driver)
 [2014-02-26 06:04:49] nirvdrum, joining. (#ios-driver)
+[2014-02-26 06:14:01] smccarthy, joining. (#ios-driver)
