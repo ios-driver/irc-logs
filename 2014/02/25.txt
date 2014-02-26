@@ -44,3 +44,4 @@
 [2014-02-25 15:57:04] lukeis, quitting. (Ping timeout: 244 seconds)
 [2014-02-25 16:00:33] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-25 16:54:25] nirvdrum, quitting. (Ping timeout: 244 seconds)
+[2014-02-25 18:02:06] rsalvador, quitting. (Ping timeout: 244 seconds)
