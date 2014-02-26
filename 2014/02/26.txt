@@ -40,3 +40,4 @@
 [2014-02-26 07:38:53] ios-driver-git: ios-driver/dev 60091e6 freynaud: fixing window switching on ios7
 [2014-02-26 07:38:54] ios-driver-git, leaving. (#ios-driver)
 [2014-02-26 07:43:33] smccarthy, joining. (#ios-driver)
+[2014-02-26 08:52:59] rsalvador, joining. (#ios-driver)
