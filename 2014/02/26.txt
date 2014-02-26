@@ -52,3 +52,5 @@
 [2014-02-26 10:46:17] rsalvador, quitting. (Quit: Leaving.)
 [2014-02-26 10:46:34] rsalvador, joining. (#ios-driver)
 [2014-02-26 10:48:26] jmartin_, quitting. ()
+[2014-02-26 11:20:32] rsalvador, quitting. (Quit: Leaving.)
+[2014-02-26 11:20:46] rsalvador, joining. (#ios-driver)
