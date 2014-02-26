@@ -65,3 +65,4 @@
 [2014-02-26 12:28:29] ios-driver-git: ios-driver/greg 8004089 Greg Dennis: Use the UUID capability when finding a matching device.
 [2014-02-26 14:13:43] lukeis, quitting. (Quit: Leaving.)
 [2014-02-26 14:13:57] lukeis, joining. (#ios-driver)
+[2014-02-26 15:36:53] smccarthy, quitting. (Remote host closed the connection)
