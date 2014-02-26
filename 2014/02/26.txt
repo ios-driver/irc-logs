@@ -7,3 +7,7 @@
 [2014-02-26 02:15:10] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/d6se_w
 [2014-02-26 02:15:10] ios-driver-git: ios-driver/dev 0cafab8 freynaud: removing the need for the -simulator flag. Making the detection automatic.
 [2014-02-26 02:15:10] ios-driver-git, leaving. (#ios-driver)
+[2014-02-26 02:35:02] ios-driver-git, joining. (#ios-driver)
+[2014-02-26 02:35:02] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/XYBCzQ
+[2014-02-26 02:35:02] ios-driver-git: ios-driver/dev 3ec1d91 freynaud: removing all references to the -simulators flag.
+[2014-02-26 02:35:03] ios-driver-git, leaving. (#ios-driver)
