@@ -11,3 +11,7 @@
 [2014-02-26 02:35:02] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/XYBCzQ
 [2014-02-26 02:35:02] ios-driver-git: ios-driver/dev 3ec1d91 freynaud: removing all references to the -simulators flag.
 [2014-02-26 02:35:03] ios-driver-git, leaving. (#ios-driver)
+[2014-02-26 02:44:46] ios-driver-git, joining. (#ios-driver)
+[2014-02-26 02:44:46] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/pHLejQ
+[2014-02-26 02:44:46] ios-driver-git: ios-driver/dev 059e27a freynaud: adding a more descriptive message when the session creation failed/
+[2014-02-26 02:44:47] ios-driver-git, leaving. (#ios-driver)
