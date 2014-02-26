@@ -54,3 +54,6 @@
 [2014-02-26 10:48:26] jmartin_, quitting. ()
 [2014-02-26 11:20:32] rsalvador, quitting. (Quit: Leaving.)
 [2014-02-26 11:20:46] rsalvador, joining. (#ios-driver)
+[2014-02-26 11:58:39] lukeis, changing nick to 20WABEB8S.
+[2014-02-26 11:58:40] lukeis, joining. (#ios-driver)
+[2014-02-26 11:59:07] lukeis, quitting. (*.net *.split)
