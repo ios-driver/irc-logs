@@ -15,3 +15,7 @@
 [2014-02-26 02:44:46] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/pHLejQ
 [2014-02-26 02:44:46] ios-driver-git: ios-driver/dev 059e27a freynaud: adding a more descriptive message when the session creation failed/
 [2014-02-26 02:44:47] ios-driver-git, leaving. (#ios-driver)
+[2014-02-26 02:49:59] ios-driver-git, joining. (#ios-driver)
+[2014-02-26 02:49:59] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/hL6C6Q
+[2014-02-26 02:49:59] ios-driver-git: ios-driver/dev 26ef95e freynaud: removing debug msg
+[2014-02-26 02:50:00] ios-driver-git, leaving. (#ios-driver)
