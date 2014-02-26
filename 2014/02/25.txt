@@ -45,3 +45,4 @@
 [2014-02-25 16:00:33] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-25 16:54:25] nirvdrum, quitting. (Ping timeout: 244 seconds)
 [2014-02-25 18:02:06] rsalvador, quitting. (Ping timeout: 244 seconds)
+[2014-02-25 19:21:55] jmartin_, quitting. (Remote host closed the connection)
