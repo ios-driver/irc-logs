@@ -31,3 +31,7 @@
 [2014-02-26 06:04:49] nirvdrum, joining. (#ios-driver)
 [2014-02-26 06:14:01] smccarthy, joining. (#ios-driver)
 [2014-02-26 06:33:19] smccarthy, quitting. (Remote host closed the connection)
+[2014-02-26 06:44:18] lukeis, joining. (#ios-driver)
+[2014-02-26 06:44:22] lukeis, quitting. (Client Quit)
+[2014-02-26 06:44:35] lukeis, joining. (#ios-driver)
+[2014-02-26 06:44:35] lukeis, quitting. (Client Quit)
