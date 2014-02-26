@@ -23,3 +23,8 @@
 [2014-02-26 05:09:53] ios-driver-git: [ios-driver] freynaud created test (+1 new commit): http://git.io/mD8LAw
 [2014-02-26 05:09:53] ios-driver-git: ios-driver/test 8209792 freynaud: test
 [2014-02-26 05:09:53] ios-driver-git, leaving. (#ios-driver)
+[2014-02-26 05:23:45] ios-driver-git, joining. (#ios-driver)
+[2014-02-26 05:23:45] ios-driver-git: [ios-driver] freynaud pushed 2 new commits to test: http://git.io/T8roug
+[2014-02-26 05:23:45] ios-driver-git: ios-driver/test 5d2fb48 freynaud: test
+[2014-02-26 05:23:45] ios-driver-git: ios-driver/test e84cb7f freynaud: test
+[2014-02-26 05:23:45] ios-driver-git, leaving. (#ios-driver)
