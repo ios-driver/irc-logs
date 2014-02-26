@@ -35,3 +35,7 @@
 [2014-02-26 06:44:22] lukeis, quitting. (Client Quit)
 [2014-02-26 06:44:35] lukeis, joining. (#ios-driver)
 [2014-02-26 06:44:35] lukeis, quitting. (Client Quit)
+[2014-02-26 07:38:53] ios-driver-git, joining. (#ios-driver)
+[2014-02-26 07:38:53] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/kDGESw
+[2014-02-26 07:38:53] ios-driver-git: ios-driver/dev 60091e6 freynaud: fixing window switching on ios7
+[2014-02-26 07:38:54] ios-driver-git, leaving. (#ios-driver)
