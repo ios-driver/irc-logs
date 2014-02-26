@@ -58,3 +58,4 @@
 [2014-02-26 11:58:40] lukeis, joining. (#ios-driver)
 [2014-02-26 11:59:07] lukeis, quitting. (*.net *.split)
 [2014-02-26 12:01:26] 20WABEB8S, quitting. (Read error: Connection reset by peer)
+[2014-02-26 12:05:18] lukeis, joining. (#ios-driver)
