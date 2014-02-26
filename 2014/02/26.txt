@@ -3,3 +3,7 @@
 [2014-02-26 00:59:44] admc, quitting. (Quit: Leaving.)
 [2014-02-26 01:13:17] admc, joining. (#ios-driver)
 [2014-02-26 01:26:30] admc, quitting. (Quit: Leaving.)
+[2014-02-26 02:15:10] ios-driver-git, joining. (#ios-driver)
+[2014-02-26 02:15:10] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/d6se_w
+[2014-02-26 02:15:10] ios-driver-git: ios-driver/dev 0cafab8 freynaud: removing the need for the -simulator flag. Making the detection automatic.
+[2014-02-26 02:15:10] ios-driver-git, leaving. (#ios-driver)
