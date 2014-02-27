@@ -74,3 +74,4 @@
 [2014-02-26 17:31:29] rsalvador, quitting. (Ping timeout: 240 seconds)
 [2014-02-26 17:50:29] admc, joining. (#ios-driver)
 [2014-02-26 17:54:48] admc, quitting. (Ping timeout: 240 seconds)
+[2014-02-26 18:21:14] lukeis, quitting. (Ping timeout: 264 seconds)
