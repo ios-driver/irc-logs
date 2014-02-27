@@ -6,3 +6,7 @@
 [2014-02-27 05:21:19] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/4OSTPQ
 [2014-02-27 05:21:20] ios-driver-git: ios-driver/dev f6c51f5 freynaud: disabling tests properly
 [2014-02-27 05:21:20] ios-driver-git, leaving. (#ios-driver)
+[2014-02-27 05:54:05] ios-driver-git, joining. (#ios-driver)
+[2014-02-27 05:54:05] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/NXLDJQ
+[2014-02-27 05:54:05] ios-driver-git: ios-driver/dev ad3258d freynaud: sessions are accessed from multiple threads
+[2014-02-27 05:54:05] ios-driver-git, leaving. (#ios-driver)
