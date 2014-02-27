@@ -20,3 +20,5 @@
 [2014-02-27 08:47:34] admc, quitting. (Quit: Leaving.)
 [2014-02-27 09:14:32] rsalvador, quitting. (Quit: Leaving.)
 [2014-02-27 09:14:41] rsalvador, joining. (#ios-driver)
+[2014-02-27 09:43:31] rsalvador, quitting. (Quit: Leaving.)
+[2014-02-27 09:43:46] rsalvador, joining. (#ios-driver)
