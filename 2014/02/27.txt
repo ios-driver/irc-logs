@@ -55,3 +55,4 @@
 [2014-02-27 15:14:01] rsalvador, joining. (#ios-driver)
 [2014-02-27 15:19:54] dgrace, quitting. (Quit: Connection closed for inactivity)
 [2014-02-27 15:22:31] admc, quitting. (Quit: Leaving.)
+[2014-02-27 15:41:44] santiycr1, joining. (#ios-driver)
