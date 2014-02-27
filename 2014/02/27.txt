@@ -1,0 +1,4 @@
+[2014-02-27 04:42:12] ios-driver-git, joining. (#ios-driver)
+[2014-02-27 04:42:12] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/uv1Ovw
+[2014-02-27 04:42:12] ios-driver-git, leaving. (#ios-driver)
+[2014-02-27 04:42:12] ios-driver-git: ios-driver/dev b37471d freynaud: skipping tests that apple broke
