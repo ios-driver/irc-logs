@@ -10,3 +10,4 @@
 [2014-02-27 05:54:05] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/NXLDJQ
 [2014-02-27 05:54:05] ios-driver-git: ios-driver/dev ad3258d freynaud: sessions are accessed from multiple threads
 [2014-02-27 05:54:05] ios-driver-git, leaving. (#ios-driver)
+[2014-02-27 05:58:15] nirvdrum, joining. (#ios-driver)
