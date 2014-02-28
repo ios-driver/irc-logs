@@ -42,3 +42,8 @@
 [2014-02-28 14:04:06] rsalvador1, joining. (#ios-driver)
 [2014-02-28 14:08:36] rsalvador, quitting. (*.net *.split)
 [2014-02-28 14:08:38] lukeis, quitting. (*.net *.split)
+[2014-02-28 14:11:00] rsalvador1, quitting. (Quit: Leaving.)
+[2014-02-28 14:11:09] rsalvador, joining. (#ios-driver)
+[2014-02-28 14:11:10] rsalvador, leaving. (#ios-driver)
+[2014-02-28 14:11:22] admc, joining. (#ios-driver)
+[2014-02-28 14:11:22] santiycr1, joining. (#ios-driver)
