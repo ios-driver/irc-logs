@@ -19,3 +19,5 @@
 [2014-02-28 09:50:45] gdennis, quitting. (Changing host)
 [2014-02-28 09:50:45] gdennis, joining. (#ios-driver)
 [2014-02-28 09:54:16] rsalvador, quitting. (Quit: Leaving.)
+[2014-02-28 09:59:41] gdennis, quitting. (Ping timeout: 240 seconds)
+[2014-02-28 09:59:52] gdennis, joining. (#ios-driver)
