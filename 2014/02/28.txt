@@ -22,3 +22,4 @@
 [2014-02-28 09:59:41] gdennis, quitting. (Ping timeout: 240 seconds)
 [2014-02-28 09:59:52] gdennis, joining. (#ios-driver)
 [2014-02-28 10:31:53] smccarthy, joining. (#ios-driver)
+[2014-02-28 10:53:12] lukeis, quitting. (Ping timeout: 240 seconds)
