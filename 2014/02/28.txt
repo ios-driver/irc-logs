@@ -8,3 +8,8 @@
 [2014-02-28 09:06:56] rsalvador, joining. (#ios-driver)
 [2014-02-28 09:07:17] rsalvador1, joining. (#ios-driver)
 [2014-02-28 09:10:59] rsalvador, quitting. (Ping timeout: 240 seconds)
+[2014-02-28 09:42:44] rsalvador1, quitting. (*.net *.split)
+[2014-02-28 09:42:44] lukeis, quitting. (*.net *.split)
+[2014-02-28 09:42:49] smccarthy, quitting. (*.net *.split)
+[2014-02-28 09:42:50] gdennis, quitting. (*.net *.split)
+[2014-02-28 09:42:50] nirvdrum, quitting. (*.net *.split)
