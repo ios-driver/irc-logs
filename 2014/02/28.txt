@@ -30,3 +30,4 @@
 [2014-02-28 13:25:59] rsalvador, quitting. (Quit: Leaving.)
 [2014-02-28 13:26:12] rsalvador, joining. (#ios-driver)
 [2014-02-28 13:28:55] nirvdrum, joining. (#ios-driver)
+[2014-02-28 13:47:46] santiycr, joining. (#ios-driver)
