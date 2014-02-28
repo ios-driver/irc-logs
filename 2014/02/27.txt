@@ -68,3 +68,4 @@
 [2014-02-27 16:40:37] gdennis, joining. (#ios-driver)
 [2014-02-27 16:40:45] admc, joining. (#ios-driver)
 [2014-02-27 16:44:40] rsalvador, joining. (#ios-driver)
+[2014-02-27 16:47:03] rsalvador1, quitting. (Quit: Leaving.)
