@@ -31,3 +31,7 @@
 [2014-02-28 13:26:12] rsalvador, joining. (#ios-driver)
 [2014-02-28 13:28:55] nirvdrum, joining. (#ios-driver)
 [2014-02-28 13:47:46] santiycr, joining. (#ios-driver)
+[2014-02-28 13:53:19] nirvdrum, quitting. (Ping timeout: 240 seconds)
+[2014-02-28 13:53:20] gdennis, quitting. (Ping timeout: 240 seconds)
+[2014-02-28 13:53:25] gdennis, joining. (#ios-driver)
+[2014-02-28 13:53:39] nirvdrum, joining. (#ios-driver)
