@@ -3,3 +3,4 @@
 [2014-03-01 09:08:26] dgrace, leaving. (#ios-driver)
 [2014-03-01 10:33:22] smccarthy, quitting. (Remote host closed the connection)
 [2014-03-01 10:43:05] smccarthy, joining. (#ios-driver)
+[2014-03-01 11:24:38] admc, joining. (#ios-driver)
