@@ -70,3 +70,4 @@
 [2014-02-28 23:23:02] admc, joining. (#ios-driver)
 [2014-02-28 23:27:13] admc, quitting. (Ping timeout: 240 seconds)
 [2014-02-28 23:44:26] gdennis, quitting. (Ping timeout: 265 seconds)
+[2014-02-28 23:49:56] gdennis, joining. (#ios-driver)
