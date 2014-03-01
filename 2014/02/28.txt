@@ -68,3 +68,4 @@
 [2014-02-28 22:02:44] nirvdrum, joining. (#ios-driver)
 [2014-02-28 22:08:00] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2014-02-28 23:23:02] admc, joining. (#ios-driver)
+[2014-02-28 23:27:13] admc, quitting. (Ping timeout: 240 seconds)
