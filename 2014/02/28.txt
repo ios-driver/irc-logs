@@ -56,3 +56,4 @@
 [2014-02-28 15:31:00] lukeis1, changing nick to lukeis.
 [2014-02-28 16:51:05] lukeis, quitting. (Quit: Leaving.)
 [2014-02-28 17:35:41] smccarthy, joining. (#ios-driver)
+[2014-02-28 17:50:21] admc, joining. (#ios-driver)
