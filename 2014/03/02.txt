@@ -8,3 +8,6 @@
 [2014-03-02 08:05:53] admc, joining. (#ios-driver)
 [2014-03-02 08:10:25] admc, quitting. (Ping timeout: 264 seconds)
 [2014-03-02 11:14:06] admc, joining. (#ios-driver)
+[2014-03-02 12:27:51] smccarthy, quitting. (Read error: Operation timed out)
+[2014-03-02 12:28:16] smccarthy, joining. (#ios-driver)
+[2014-03-02 12:28:19] smccarthy, quitting. (Remote host closed the connection)
