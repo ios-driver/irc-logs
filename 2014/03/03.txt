@@ -24,3 +24,5 @@
 [2014-03-03 13:02:49] lukeis, quitting. (Remote host closed the connection)
 [2014-03-03 13:02:59] admc, quitting. (Ping timeout: 240 seconds)
 [2014-03-03 13:03:59] lukeis, joining. (#ios-driver)
+[2014-03-03 13:11:02] jlipps, joining. (#ios-driver)
+[2014-03-03 13:11:29] admc1, quitting. (Quit: Leaving.)
