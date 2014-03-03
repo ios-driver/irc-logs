@@ -30,3 +30,6 @@
 [2014-03-03 13:54:37] gdennis, leaving. (#ios-driver)
 [2014-03-03 14:06:48] smccarthy, quitting. (Remote host closed the connection)
 [2014-03-03 14:19:04] admc, quitting. (Quit: Leaving.)
+[2014-03-03 14:51:06] admc, joining. (#ios-driver)
+[2014-03-03 14:51:46] mdiwakar, joining. (#ios-driver)
+[2014-03-03 14:54:33] mdiwakar: Hello
