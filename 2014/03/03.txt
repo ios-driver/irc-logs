@@ -19,3 +19,4 @@
 [2014-03-03 11:58:07] admc, quitting. (Client Quit)
 [2014-03-03 12:22:06] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-03 12:22:24] rsalvador, joining. (#ios-driver)
+[2014-03-03 12:58:38] admc, joining. (#ios-driver)
