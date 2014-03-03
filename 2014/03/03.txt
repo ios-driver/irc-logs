@@ -9,3 +9,4 @@
 [2014-03-03 09:18:18] nirvdrum, joining. (#ios-driver)
 [2014-03-03 09:45:00] admc, joining. (#ios-driver)
 [2014-03-03 10:09:54] dgrace, quitting. (Quit: Connection closed for inactivity)
+[2014-03-03 10:13:38] rsalvador, joining. (#ios-driver)
