@@ -34,3 +34,4 @@
 [2014-03-02 21:27:35] keki: because it does say that hybrid support is still in beta
 [2014-03-02 22:28:58] keki, quitting. (Ping timeout: 244 seconds)
 [2014-03-02 22:36:47] keki, joining. (#ios-driver)
+[2014-03-02 22:40:01] keki, quitting. (Remote host closed the connection)
