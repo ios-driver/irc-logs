@@ -20,3 +20,7 @@
 [2014-03-03 12:22:06] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-03 12:22:24] rsalvador, joining. (#ios-driver)
 [2014-03-03 12:58:38] admc, joining. (#ios-driver)
+[2014-03-03 13:02:32] admc1, joining. (#ios-driver)
+[2014-03-03 13:02:49] lukeis, quitting. (Remote host closed the connection)
+[2014-03-03 13:02:59] admc, quitting. (Ping timeout: 240 seconds)
+[2014-03-03 13:03:59] lukeis, joining. (#ios-driver)
