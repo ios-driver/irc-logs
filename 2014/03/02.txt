@@ -26,3 +26,9 @@
 [2014-03-02 20:36:06] admc, joining. (#ios-driver)
 [2014-03-02 20:57:36] smccarthy, quitting. (Remote host closed the connection)
 [2014-03-02 21:24:53] keki, joining. (#ios-driver)
+[2014-03-02 21:25:36] keki: hey guys, trying to test a hybrid app (cordova)
+[2014-03-02 21:26:17] keki: I've got the RemoteWebDriver connecting, and switching to the Web view as per the website instructions
+[2014-03-02 21:26:39] keki: however the WebElements are always returned as null when doing a find
+[2014-03-02 21:27:04] keki: I'm using the latest dev code from github
+[2014-03-02 21:27:21] keki: do I need to run with the -beta flag?
+[2014-03-02 21:27:35] keki: because it does say that hybrid support is still in beta
