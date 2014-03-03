@@ -28,3 +28,4 @@
 [2014-03-03 13:11:29] admc1, quitting. (Quit: Leaving.)
 [2014-03-03 13:17:38] admc, joining. (#ios-driver)
 [2014-03-03 13:54:37] gdennis, leaving. (#ios-driver)
+[2014-03-03 14:06:48] smccarthy, quitting. (Remote host closed the connection)
