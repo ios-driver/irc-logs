@@ -16,3 +16,4 @@
 [2014-03-04 10:06:02] riskanalytics, quitting. (Client Quit)
 [2014-03-04 10:17:58] admc, joining. (#ios-driver)
 [2014-03-04 10:44:27] rsalvador, joining. (#ios-driver)
+[2014-03-04 10:49:38] smccarthy, quitting. (Remote host closed the connection)
