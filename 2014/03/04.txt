@@ -34,3 +34,6 @@
 [2014-03-04 14:26:33] admc, joining. (#ios-driver)
 [2014-03-04 14:29:56] dgrace, quitting. (Quit: Connection closed for inactivity)
 [2014-03-04 14:32:31] admc, quitting. (Quit: Leaving.)
+[2014-03-04 14:49:15] rsalvador, quitting. (Quit: Leaving.)
+[2014-03-04 14:49:27] rsalvador, joining. (#ios-driver)
+[2014-03-04 14:49:53] rsalvador, quitting. (Client Quit)
