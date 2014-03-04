@@ -28,3 +28,4 @@
 [2014-03-04 13:14:43] rsalvador, leaving. (#ios-driver)
 [2014-03-04 13:19:03] rsalvador, joining. (#ios-driver)
 [2014-03-04 13:19:06] lukeis, joining. (#ios-driver)
+[2014-03-04 13:54:52] admc, quitting. (Quit: Leaving.)
