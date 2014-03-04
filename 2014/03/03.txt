@@ -47,3 +47,5 @@
 [2014-03-03 17:36:03] mdiwakar, quitting. (Ping timeout: 245 seconds)
 [2014-03-03 17:42:23] rsalvador, joining. (#ios-driver)
 [2014-03-03 17:46:27] admc, joining. (#ios-driver)
+[2014-03-03 17:54:10] rsalvador, quitting. (Quit: Leaving.)
+[2014-03-03 17:54:22] rsalvador, joining. (#ios-driver)
