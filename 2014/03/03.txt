@@ -34,3 +34,4 @@
 [2014-03-03 14:51:46] mdiwakar, joining. (#ios-driver)
 [2014-03-03 14:54:33] mdiwakar: Hello
 [2014-03-03 15:20:11] mdiwakar: unable to build ios-driver on ad3258d
+[2014-03-03 15:57:57] rsalvador, leaving. (#ios-driver)
