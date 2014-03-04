@@ -12,3 +12,4 @@
 [2014-03-04 09:22:44] jlipps, quitting. (Client Quit)
 [2014-03-04 09:57:20] lukeis, quitting. (Quit: Leaving.)
 [2014-03-04 09:57:37] lukeis, joining. (#ios-driver)
+[2014-03-04 10:04:46] riskanalytics, joining. (#ios-driver)
