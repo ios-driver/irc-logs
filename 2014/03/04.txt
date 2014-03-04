@@ -8,3 +8,5 @@
 [2014-03-04 06:04:57] admc, quitting. (Ping timeout: 252 seconds)
 [2014-03-04 07:33:48] smccarthy, joining. (#ios-driver)
 [2014-03-04 08:28:24] lukeis, joining. (#ios-driver)
+[2014-03-04 09:21:04] jlipps, joining. (#ios-driver)
+[2014-03-04 09:22:44] jlipps, quitting. (Client Quit)
