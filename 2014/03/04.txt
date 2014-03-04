@@ -33,3 +33,4 @@
 [2014-03-04 14:22:35] admc, quitting. (Quit: Leaving.)
 [2014-03-04 14:26:33] admc, joining. (#ios-driver)
 [2014-03-04 14:29:56] dgrace, quitting. (Quit: Connection closed for inactivity)
+[2014-03-04 14:32:31] admc, quitting. (Quit: Leaving.)
