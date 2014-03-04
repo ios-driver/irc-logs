@@ -41,3 +41,4 @@
 [2014-03-04 14:52:19] rsalvador, quitting. (Read error: Connection reset by peer)
 [2014-03-04 15:10:30] admc, joining. (#ios-driver)
 [2014-03-04 15:10:56] admc, quitting. (Client Quit)
+[2014-03-04 15:15:40] nirvdrum, quitting. (Read error: Connection reset by peer)
