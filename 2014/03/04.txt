@@ -63,3 +63,5 @@
 [2014-03-04 18:21:58] jlipps, quitting. (Quit: Leaving.)
 [2014-03-04 18:23:29] jlipps, joining. (#ios-driver)
 [2014-03-04 18:23:43] jlipps1, joining. (#ios-driver)
+[2014-03-04 18:25:36] jlipps1, quitting. (Client Quit)
+[2014-03-04 18:27:59] jlipps, quitting. (Ping timeout: 240 seconds)
