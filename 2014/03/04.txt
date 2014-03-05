@@ -48,3 +48,5 @@
 [2014-03-04 16:03:45] lukeis, quitting. (Quit: Leaving.)
 [2014-03-04 16:03:50] rsalvador, joining. (#ios-driver)
 [2014-03-04 16:06:48] admc, quitting. (Ping timeout: 264 seconds)
+[2014-03-04 16:15:48] geordie, joining. (#ios-driver)
+[2014-03-04 16:18:22] geordie: good place for examples on setting up ios-driver to test rails app with capybara? after i have read http://ios-driver.github.io/ios-driver/index.html?
