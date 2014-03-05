@@ -49,3 +49,6 @@
 [2014-03-05 11:18:03] rsalvador, joining. (#ios-driver)
 [2014-03-05 11:22:37] mdiwakar:   geordie  I am building from dev   built:20140303-1635,sha:ad3258d112
 [2014-03-05 11:24:19] jlipps, quitting. (Quit: Leaving.)
+[2014-03-05 11:25:11] geordie: mdiwakar - sorry. my typo of 'just build' should read 'just built'. i was not telling you to do that. i was saying i just built from dev and am seeing different results than expected.
+[2014-03-05 11:26:47] mdiwakar: geordie:  thanks for reply atleast i am not alone in this room :-)
+[2014-03-05 11:27:11] mdiwakar: mvn clean -am -pl ios-selenium-test I see 7 failures and 440 tests skipped
