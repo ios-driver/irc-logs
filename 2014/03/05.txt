@@ -19,3 +19,6 @@
 [2014-03-05 07:03:56] dgrace: app has some webviews but this page is native
 [2014-03-05 07:04:10] freynaud_: i've never seen that sry
 [2014-03-05 07:04:48] dgrace: no worries, i'll try dig in and figure it out
+[2014-03-05 07:06:06] dgrace: actually if I do a getWindowsHandles() I see some webviews, it's only the native i'm interested in
+[2014-03-05 07:06:28] dgrace: manually clicking in I get maybe double the amount of webviews reported in getWindowsHandles
+[2014-03-05 07:06:33] dgrace: very strange :)
