@@ -22,3 +22,6 @@
 [2014-03-05 07:06:06] dgrace: actually if I do a getWindowsHandles() I see some webviews, it's only the native i'm interested in
 [2014-03-05 07:06:28] dgrace: manually clicking in I get maybe double the amount of webviews reported in getWindowsHandles
 [2014-03-05 07:06:33] dgrace: very strange :)
+[2014-03-05 07:21:31] freynaud_: timing issues ?
+[2014-03-05 07:22:36] smccarthy, joining. (#ios-driver)
+[2014-03-05 07:24:35] dgrace: i'm stepping through the code so I doubt it.
