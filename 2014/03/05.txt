@@ -47,3 +47,5 @@
 [2014-03-05 11:05:20] admc, joining. (#ios-driver)
 [2014-03-05 11:17:43] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-05 11:18:03] rsalvador, joining. (#ios-driver)
+[2014-03-05 11:22:37] mdiwakar:   geordie  I am building from dev   built:20140303-1635,sha:ad3258d112
+[2014-03-05 11:24:19] jlipps, quitting. (Quit: Leaving.)
