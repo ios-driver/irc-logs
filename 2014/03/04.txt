@@ -80,3 +80,4 @@
 [2014-03-04 20:15:04] geordie_, quitting. (Remote host closed the connection)
 [2014-03-04 20:15:11] geordie, quitting. (Ping timeout: 265 seconds)
 [2014-03-04 20:16:02] geordie, joining. (#ios-driver)
+[2014-03-04 21:01:37] geordie, quitting. (Read error: Connection reset by peer)
