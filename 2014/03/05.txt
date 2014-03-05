@@ -56,3 +56,4 @@
 [2014-03-05 11:33:34] nirvdrum: I haven't looked at that in a few weeks. I had to move to a different task in the interim.
 [2014-03-05 11:35:59] admc, quitting. (Quit: Leaving.)
 [2014-03-05 11:41:45] mdiwakar: nirvdrum:  thanks
+[2014-03-05 12:11:07] geordie, quitting. (Remote host closed the connection)
