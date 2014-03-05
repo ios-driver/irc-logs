@@ -57,3 +57,4 @@
 [2014-03-04 17:03:08] geordie, quitting. (Remote host closed the connection)
 [2014-03-04 17:13:05] rsalvador, joining. (#ios-driver)
 [2014-03-04 18:01:20] admc, joining. (#ios-driver)
+[2014-03-04 18:05:40] admc, quitting. (Ping timeout: 252 seconds)
