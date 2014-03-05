@@ -75,3 +75,5 @@
 [2014-03-04 19:35:33] admc, quitting. (Ping timeout: 265 seconds)
 [2014-03-04 19:53:36] geordie, joining. (#ios-driver)
 [2014-03-04 19:57:07] jlipps, quitting. (Quit: Leaving.)
+[2014-03-04 20:11:41] santiycr, joining. (#ios-driver)
+[2014-03-04 20:12:31] geordie_, joining. (#ios-driver)
