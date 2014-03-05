@@ -66,3 +66,5 @@
 [2014-03-04 18:25:36] jlipps1, quitting. (Client Quit)
 [2014-03-04 18:27:59] jlipps, quitting. (Ping timeout: 240 seconds)
 [2014-03-04 18:30:13] admc, quitting. (Quit: Leaving.)
+[2014-03-04 18:37:26] rsalvador, joining. (#ios-driver)
+[2014-03-04 18:37:40] rsalvador, quitting. (Remote host closed the connection)
