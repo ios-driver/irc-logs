@@ -6,3 +6,16 @@
 [2014-03-05 05:44:15] dgrace, joining. (#ios-driver)
 [2014-03-05 05:59:04] admc, joining. (#ios-driver)
 [2014-03-05 06:03:54] admc, quitting. (Ping timeout: 265 seconds)
+[2014-03-05 07:01:11] dgrace: freynaud_: Hey, you there?
+[2014-03-05 07:01:18] freynaud_: yes
+[2014-03-05 07:01:38] dgrace: trying to debug an issue i'm seeing, maybe you have some guidance
+[2014-03-05 07:02:07] dgrace: i have a page where if I use ios-driver to perform a click to open, I don't see all the elements available
+[2014-03-05 07:02:28] dgrace: if I however pause my test and manually click into the page I can see and access everything
+[2014-03-05 07:02:48] dgrace: logElementTree from ios-driver is giving me back different info depending on how I enter the page
+[2014-03-05 07:02:53] dgrace: any ideas?
+[2014-03-05 07:03:31] dgrace: if I do it through instruments I get back same info regardless
+[2014-03-05 07:03:35] freynaud_: native ?
+[2014-03-05 07:03:44] dgrace: yes native
+[2014-03-05 07:03:56] dgrace: app has some webviews but this page is native
+[2014-03-05 07:04:10] freynaud_: i've never seen that sry
+[2014-03-05 07:04:48] dgrace: no worries, i'll try dig in and figure it out
