@@ -40,3 +40,4 @@
 [2014-03-05 10:11:17] geordie, joining. (#ios-driver)
 [2014-03-05 10:13:30] mdiwakar: freynaud_:  TIMEOUT_SEC and MAX_RETRIES values are hard coded in NewSessionNHandler class,
 [2014-03-05 10:14:10] mdiwakar: can we make them as start up params
+[2014-03-05 10:15:29] admc, quitting. (Quit: Leaving.)
