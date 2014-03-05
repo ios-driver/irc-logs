@@ -59,3 +59,4 @@
 [2014-03-05 12:11:07] geordie, quitting. (Remote host closed the connection)
 [2014-03-05 12:19:26] mdiwakar: nicegraham_:  freynaud_   could you please take a look at #221 , I see couple of issues reported on ios 7.0.x  are resolved, however I  am still not able to run ios-selenium-test succesfully. any help is appreciated
 [2014-03-05 12:58:40] geordie, joining. (#ios-driver)
+[2014-03-05 13:11:17] santiycr, joining. (#ios-driver)
