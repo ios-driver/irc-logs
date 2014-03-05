@@ -5,3 +5,4 @@
 [2014-03-05 04:03:33] admc, quitting. (Ping timeout: 265 seconds)
 [2014-03-05 05:44:15] dgrace, joining. (#ios-driver)
 [2014-03-05 05:59:04] admc, joining. (#ios-driver)
+[2014-03-05 06:03:54] admc, quitting. (Ping timeout: 265 seconds)
