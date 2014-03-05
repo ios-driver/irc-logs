@@ -52,3 +52,5 @@
 [2014-03-05 11:25:11] geordie: mdiwakar - sorry. my typo of 'just build' should read 'just built'. i was not telling you to do that. i was saying i just built from dev and am seeing different results than expected.
 [2014-03-05 11:26:47] mdiwakar: geordie:  thanks for reply atleast i am not alone in this room :-)
 [2014-03-05 11:27:11] mdiwakar: mvn clean -am -pl ios-selenium-test I see 7 failures and 440 tests skipped
+[2014-03-05 11:32:56] mdiwakar: nirvdrum: I see you had similar issue reported as 221 ""InstrumentsFailedToStartException: Didn't get the capability back." ?" on 0205, were you able to resolve?
+[2014-03-05 11:33:34] nirvdrum: I haven't looked at that in a few weeks. I had to move to a different task in the interim.
