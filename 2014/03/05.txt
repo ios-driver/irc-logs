@@ -37,3 +37,6 @@
 [2014-03-05 09:51:40] mdiwakar: just wondering if anyone is able to run tests on latest tag ios7.0.3 and  Xcode 5.0.2
 [2014-03-05 09:51:43] mdiwakar: https://github.com/ios-driver/ios-driver/issues/221
 [2014-03-05 10:03:06] nirvdrum, joining. (#ios-driver)
+[2014-03-05 10:11:17] geordie, joining. (#ios-driver)
+[2014-03-05 10:13:30] mdiwakar: freynaud_:  TIMEOUT_SEC and MAX_RETRIES values are hard coded in NewSessionNHandler class,
+[2014-03-05 10:14:10] mdiwakar: can we make them as start up params
