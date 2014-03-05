@@ -82,3 +82,4 @@
 [2014-03-04 20:16:02] geordie, joining. (#ios-driver)
 [2014-03-04 21:01:37] geordie, quitting. (Read error: Connection reset by peer)
 [2014-03-04 21:27:53] jlipps, joining. (#ios-driver)
+[2014-03-04 21:32:05] jlipps, quitting. (Client Quit)
