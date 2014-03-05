@@ -43,3 +43,4 @@
 [2014-03-05 10:15:29] admc, quitting. (Quit: Leaving.)
 [2014-03-05 10:30:40] mdiwakar: am I in right IRC? is this irc just for the folks who are ios-driver developer?
 [2014-03-05 10:32:23] mdiwakar: dont seems to be getting any response here
+[2014-03-05 11:03:42] geordie: just build from dev branch. jar files don't follow the -jar-with-dependencies.jar pattern. i have a SNAPSHOT.jar and a standalone-0.6.6-SNAPSHOT file. is the standalone now the way to run with simulators like the -simulators flag used to be?
