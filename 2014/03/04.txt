@@ -70,3 +70,4 @@
 [2014-03-04 18:37:40] rsalvador, quitting. (Remote host closed the connection)
 [2014-03-04 18:49:56] jlipps, joining. (#ios-driver)
 [2014-03-04 19:10:32] geordie, joining. (#ios-driver)
+[2014-03-04 19:26:29] geordie, quitting. (Ping timeout: 240 seconds)
