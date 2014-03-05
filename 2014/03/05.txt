@@ -33,3 +33,6 @@
 [2014-03-05 09:20:51] rsalvador, joining. (#ios-driver)
 [2014-03-05 09:21:43] gdennis, joining. (#ios-driver)
 [2014-03-05 09:48:50] mdiwakar, joining. (#ios-driver)
+[2014-03-05 09:50:42] mdiwakar: Hi
+[2014-03-05 09:51:40] mdiwakar: just wondering if anyone is able to run tests on latest tag ios7.0.3 and  Xcode 5.0.2
+[2014-03-05 09:51:43] mdiwakar: https://github.com/ios-driver/ios-driver/issues/221
