@@ -61,3 +61,4 @@
 [2014-03-05 12:58:40] geordie, joining. (#ios-driver)
 [2014-03-05 13:11:17] santiycr, joining. (#ios-driver)
 [2014-03-05 13:27:25] geordie, quitting. (Remote host closed the connection)
+[2014-03-05 13:36:28] geordie, joining. (#ios-driver)
