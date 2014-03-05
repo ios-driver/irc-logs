@@ -56,3 +56,4 @@
 [2014-03-04 17:00:53] admc1, quitting. (Quit: Leaving.)
 [2014-03-04 17:03:08] geordie, quitting. (Remote host closed the connection)
 [2014-03-04 17:13:05] rsalvador, joining. (#ios-driver)
+[2014-03-04 18:01:20] admc, joining. (#ios-driver)
