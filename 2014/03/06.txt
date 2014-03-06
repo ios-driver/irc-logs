@@ -59,3 +59,5 @@
 [2014-03-06 14:02:26] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-06 14:02:39] rsalvador, joining. (#ios-driver)
 [2014-03-06 14:54:03] joraspb, joining. (#ios-driver)
+[2014-03-06 15:00:34] lukeis, quitting. (Quit: Leaving.)
+[2014-03-06 15:00:59] joraspb, quitting. (Ping timeout: 240 seconds)
