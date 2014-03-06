@@ -56,3 +56,5 @@
 [2014-03-06 13:29:37] shuraa, quitting. (Ping timeout: 240 seconds)
 [2014-03-06 13:42:59] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-06 13:43:07] rsalvador, joining. (#ios-driver)
+[2014-03-06 14:02:26] rsalvador, quitting. (Quit: Leaving.)
+[2014-03-06 14:02:39] rsalvador, joining. (#ios-driver)
