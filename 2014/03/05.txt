@@ -97,3 +97,4 @@
 [2014-03-05 22:48:18] santiycr, quitting. (Ping timeout: 265 seconds)
 [2014-03-05 23:26:55] admc, quitting. (Quit: Leaving.)
 [2014-03-05 23:34:57] admc, joining. (#ios-driver)
+[2014-03-05 23:59:49] geordie, quitting. (Remote host closed the connection)
