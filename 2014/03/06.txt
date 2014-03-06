@@ -29,3 +29,5 @@
 [2014-03-06 09:38:30] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-06 09:38:45] rsalvador, joining. (#ios-driver)
 [2014-03-06 09:46:41] geordie, quitting. (Remote host closed the connection)
+[2014-03-06 09:51:40] capsilver, quitting. (Remote host closed the connection)
+[2014-03-06 09:53:26] geordie, joining. (#ios-driver)
