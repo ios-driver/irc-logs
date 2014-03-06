@@ -20,3 +20,4 @@
 [2014-03-06 07:50:00] jord: any ideas if its a problem with ios7 simulators? downloading ios6 simulator atm and going to try that.
 [2014-03-06 08:07:55] jord: nope. happening in ios6 too, hmm.
 [2014-03-06 08:21:17] rsalvador, joining. (#ios-driver)
+[2014-03-06 08:34:42] geordie, joining. (#ios-driver)
