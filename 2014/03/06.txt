@@ -35,3 +35,4 @@
 [2014-03-06 10:04:49] admc, quitting. (Ping timeout: 240 seconds)
 [2014-03-06 10:12:23] geordie, quitting. (Remote host closed the connection)
 [2014-03-06 10:29:50] geordie, joining. (#ios-driver)
+[2014-03-06 10:41:34] ladylaw, joining. (#ios-driver)
