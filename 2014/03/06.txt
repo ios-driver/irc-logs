@@ -37,3 +37,4 @@
 [2014-03-06 10:29:50] geordie, joining. (#ios-driver)
 [2014-03-06 10:41:34] ladylaw, joining. (#ios-driver)
 [2014-03-06 10:46:06] ladylaw, quitting. (Ping timeout: 244 seconds)
+[2014-03-06 11:03:41] geordie, quitting. (Quit: Leaving...)
