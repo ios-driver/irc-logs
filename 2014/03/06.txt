@@ -40,3 +40,8 @@
 [2014-03-06 11:03:41] geordie, quitting. (Quit: Leaving...)
 [2014-03-06 11:25:38] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-06 11:25:55] rsalvador, joining. (#ios-driver)
+[2014-03-06 12:01:00] rsalvador, quitting. (Quit: Leaving.)
+[2014-03-06 12:01:11] rsalvador, joining. (#ios-driver)
+[2014-03-06 12:02:03] AutomatedTester_, joining. (#ios-driver)
+[2014-03-06 12:03:27] AutomatedTester, quitting. (Ping timeout: 265 seconds)
+[2014-03-06 12:03:30] AutomatedTester_, changing nick to AutomatedTester.
