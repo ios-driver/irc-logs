@@ -33,3 +33,4 @@
 [2014-03-06 09:53:26] geordie, joining. (#ios-driver)
 [2014-03-06 09:55:59] jord, quitting. (Ping timeout: 244 seconds)
 [2014-03-06 10:04:49] admc, quitting. (Ping timeout: 240 seconds)
+[2014-03-06 10:12:23] geordie, quitting. (Remote host closed the connection)
