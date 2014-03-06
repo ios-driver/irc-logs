@@ -61,3 +61,4 @@
 [2014-03-06 14:54:03] joraspb, joining. (#ios-driver)
 [2014-03-06 15:00:34] lukeis, quitting. (Quit: Leaving.)
 [2014-03-06 15:00:59] joraspb, quitting. (Ping timeout: 240 seconds)
+[2014-03-06 15:24:44] admc, joining. (#ios-driver)
