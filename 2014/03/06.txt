@@ -25,3 +25,4 @@
 [2014-03-06 08:42:21] geordie, quitting. (Remote host closed the connection)
 [2014-03-06 09:01:41] geordie, joining. (#ios-driver)
 [2014-03-06 09:19:00] capsilver, joining. (#ios-driver)
+[2014-03-06 09:34:07] admc, joining. (#ios-driver)
