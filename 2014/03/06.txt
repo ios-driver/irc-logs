@@ -6,3 +6,4 @@
 [2014-03-06 03:13:44] admc, joining. (#ios-driver)
 [2014-03-06 03:18:11] admc, quitting. (Ping timeout: 264 seconds)
 [2014-03-06 03:37:24] geordie, joining. (#ios-driver)
+[2014-03-06 03:42:13] geordie, quitting. (Ping timeout: 253 seconds)
