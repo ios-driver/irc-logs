@@ -1,2 +1,3 @@
 [2014-03-06 01:12:43] admc, quitting. (Quit: Leaving.)
 [2014-03-06 01:48:30] geordie, joining. (#ios-driver)
+[2014-03-06 01:52:59] geordie, quitting. (Ping timeout: 240 seconds)
