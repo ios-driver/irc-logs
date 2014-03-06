@@ -10,3 +10,5 @@
 [2014-03-06 04:37:13] nirvdrum, joining. (#ios-driver)
 [2014-03-06 05:26:17] geordie, joining. (#ios-driver)
 [2014-03-06 05:30:55] geordie, quitting. (Ping timeout: 265 seconds)
+[2014-03-06 07:15:10] geordie, joining. (#ios-driver)
+[2014-03-06 07:19:41] geordie, quitting. (Ping timeout: 265 seconds)
