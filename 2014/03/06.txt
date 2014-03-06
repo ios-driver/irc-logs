@@ -51,3 +51,4 @@
 [2014-03-06 12:42:31] rsalvador, joining. (#ios-driver)
 [2014-03-06 12:45:34] rsalvador, quitting. (Client Quit)
 [2014-03-06 12:45:49] rsalvador, joining. (#ios-driver)
+[2014-03-06 13:01:58] gdennis, quitting. (Quit: gdennis)
