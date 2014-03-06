@@ -38,3 +38,5 @@
 [2014-03-06 10:41:34] ladylaw, joining. (#ios-driver)
 [2014-03-06 10:46:06] ladylaw, quitting. (Ping timeout: 244 seconds)
 [2014-03-06 11:03:41] geordie, quitting. (Quit: Leaving...)
+[2014-03-06 11:25:38] rsalvador, quitting. (Quit: Leaving.)
+[2014-03-06 11:25:55] rsalvador, joining. (#ios-driver)
