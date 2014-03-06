@@ -21,3 +21,4 @@
 [2014-03-06 08:07:55] jord: nope. happening in ios6 too, hmm.
 [2014-03-06 08:21:17] rsalvador, joining. (#ios-driver)
 [2014-03-06 08:34:42] geordie, joining. (#ios-driver)
+[2014-03-06 08:36:53] lukeis, joining. (#ios-driver)
