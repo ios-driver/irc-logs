@@ -45,3 +45,5 @@
 [2014-03-06 12:02:03] AutomatedTester_, joining. (#ios-driver)
 [2014-03-06 12:03:27] AutomatedTester, quitting. (Ping timeout: 265 seconds)
 [2014-03-06 12:03:30] AutomatedTester_, changing nick to AutomatedTester.
+[2014-03-06 12:16:58] rsalvador, quitting. (Quit: Leaving.)
+[2014-03-06 12:17:12] rsalvador, joining. (#ios-driver)
