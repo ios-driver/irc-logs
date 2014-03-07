@@ -37,3 +37,4 @@
 [2014-03-07 11:07:10] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-07 11:07:23] rsalvador, joining. (#ios-driver)
 [2014-03-07 11:38:44] nirvdrum, joining. (#ios-driver)
+[2014-03-07 11:47:09] handicap, joining. (#ios-driver)
