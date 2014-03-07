@@ -77,3 +77,5 @@
 [2014-03-06 17:21:42] rsalvador, joining. (#ios-driver)
 [2014-03-06 18:19:42] nirvdrum_, joining. (#ios-driver)
 [2014-03-06 18:25:03] nirvdrum, quitting. (Ping timeout: 265 seconds)
+[2014-03-06 18:35:33] dgrace, quitting. (*.net *.split)
+[2014-03-06 18:37:22] rsalvador, quitting. (Quit: Leaving.)
