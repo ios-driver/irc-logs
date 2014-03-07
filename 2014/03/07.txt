@@ -1,3 +1,4 @@
 [2014-03-07 02:05:59] jord, joining. (#ios-driver)
 [2014-03-07 02:15:20] jord, leaving. (#ios-driver)
 [2014-03-07 02:34:18] 23LAAKYLD, quitting. (Remote host closed the connection)
+[2014-03-07 02:45:20] admc, joining. (#ios-driver)
