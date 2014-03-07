@@ -14,3 +14,5 @@
 [2014-03-07 07:06:18] admc, quitting. (Ping timeout: 240 seconds)
 [2014-03-07 07:25:20] smccarthy, joining. (#ios-driver)
 [2014-03-07 07:46:55] pivosa, joining. (#ios-driver)
+[2014-03-07 08:10:37] lukeis, joining. (#ios-driver)
+[2014-03-07 08:12:08] pivosa, quitting. (Remote host closed the connection)
