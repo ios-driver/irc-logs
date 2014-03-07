@@ -38,3 +38,4 @@
 [2014-03-07 11:07:23] rsalvador, joining. (#ios-driver)
 [2014-03-07 11:38:44] nirvdrum, joining. (#ios-driver)
 [2014-03-07 11:47:09] handicap, joining. (#ios-driver)
+[2014-03-07 12:20:03] gdennis: does ios-driver care about jdk7-only constructs being added to it, like catching multiple exception clauses?
