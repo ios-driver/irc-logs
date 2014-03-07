@@ -20,3 +20,4 @@
 [2014-03-07 08:46:19] rsalvador, joining. (#ios-driver)
 [2014-03-07 08:51:24] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-07 08:51:38] rsalvador, joining. (#ios-driver)
+[2014-03-07 08:57:59] rsalvador, quitting. (Ping timeout: 269 seconds)
