@@ -16,3 +16,4 @@
 [2014-03-07 07:46:55] pivosa, joining. (#ios-driver)
 [2014-03-07 08:10:37] lukeis, joining. (#ios-driver)
 [2014-03-07 08:12:08] pivosa, quitting. (Remote host closed the connection)
+[2014-03-07 08:26:34] nirvdrum, joining. (#ios-driver)
