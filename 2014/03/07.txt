@@ -10,3 +10,4 @@
 [2014-03-07 05:03:06] admc, joining. (#ios-driver)
 [2014-03-07 05:07:25] admc, quitting. (Read error: Operation timed out)
 [2014-03-07 06:11:51] gdennis, joining. (#ios-driver)
+[2014-03-07 07:02:07] admc, joining. (#ios-driver)
