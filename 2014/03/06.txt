@@ -83,3 +83,4 @@
 [2014-03-06 21:02:58] santiycr, quitting. (Quit: Leaving.)
 [2014-03-06 22:19:35] scoba, joining. (#ios-driver)
 [2014-03-06 22:20:52] scoba: Is Graham actually online?
+[2014-03-06 23:08:58] scoba, quitting. (Ping timeout: 245 seconds)
