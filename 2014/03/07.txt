@@ -40,3 +40,4 @@
 [2014-03-07 11:47:09] handicap, joining. (#ios-driver)
 [2014-03-07 12:20:03] gdennis: does ios-driver care about jdk7-only constructs being added to it, like catching multiple exception clauses?
 [2014-03-07 12:28:47] gdennis: nvm: I see it already uses some jdk7 features like java.nio.file
+[2014-03-07 12:44:55] admc, quitting. (Quit: Leaving.)
