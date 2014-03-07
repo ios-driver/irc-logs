@@ -81,3 +81,4 @@
 [2014-03-06 18:37:22] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-06 19:06:11] nirvdrum_, quitting. (Ping timeout: 244 seconds)
 [2014-03-06 21:02:58] santiycr, quitting. (Quit: Leaving.)
+[2014-03-06 22:19:35] scoba, joining. (#ios-driver)
