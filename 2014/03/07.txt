@@ -43,3 +43,4 @@
 [2014-03-07 12:44:55] admc, quitting. (Quit: Leaving.)
 [2014-03-07 12:52:00] handicap, quitting. (K-Lined)
 [2014-03-07 13:30:16] admc, joining. (#ios-driver)
+[2014-03-07 13:42:44] nirvdrum, quitting. (Ping timeout: 252 seconds)
