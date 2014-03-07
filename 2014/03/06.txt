@@ -84,3 +84,5 @@
 [2014-03-06 22:19:35] scoba, joining. (#ios-driver)
 [2014-03-06 22:20:52] scoba: Is Graham actually online?
 [2014-03-06 23:08:58] scoba, quitting. (Ping timeout: 245 seconds)
+[2014-03-06 23:52:39] dgrace, joining. (#ios-driver)
+[2014-03-06 23:52:39] 23LAAKYLD, joining. (#ios-driver)
