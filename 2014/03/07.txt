@@ -63,3 +63,4 @@
 [2014-03-07 19:02:12] dmarr: hi, is it possible to emulate a mobile chrome (ios) experience with this driver?
 [2014-03-07 19:02:30] dmarr: or should i maybe using chromedriver
 [2014-03-07 21:38:24] nirvdrum, joining. (#ios-driver)
+[2014-03-07 22:03:59] nirvdrum, quitting. (Ping timeout: 240 seconds)
