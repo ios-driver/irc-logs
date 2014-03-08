@@ -59,3 +59,6 @@
 [2014-03-07 17:46:10] admc, quitting. (Quit: Leaving.)
 [2014-03-07 17:50:37] admc, joining. (#ios-driver)
 [2014-03-07 18:16:07] admc, quitting. (Quit: Leaving.)
+[2014-03-07 19:01:28] dmarr, joining. (#ios-driver)
+[2014-03-07 19:02:12] dmarr: hi, is it possible to emulate a mobile chrome (ios) experience with this driver?
+[2014-03-07 19:02:30] dmarr: or should i maybe using chromedriver
