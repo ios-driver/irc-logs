@@ -17,3 +17,4 @@
 [2014-03-08 10:37:09] santiycr, quitting. (Ping timeout: 265 seconds)
 [2014-03-08 10:42:28] nirvdrum, quitting. (Ping timeout: 265 seconds)
 [2014-03-08 10:42:33] santiycr1, quitting. (Quit: Leaving.)
+[2014-03-08 12:47:26] smccarthy, quitting. (Remote host closed the connection)
