@@ -3,3 +3,5 @@
 [2014-03-08 00:56:25] nicegraham__, changing nick to nicegraham_.
 [2014-03-08 00:59:51] admc, joining. (#ios-driver)
 [2014-03-08 01:35:42] admc, quitting. (Quit: Leaving.)
+[2014-03-08 02:16:29] Bobba, joining. (#ios-driver)
+[2014-03-08 02:16:39] Bobba, changing nick to Bobbas.
