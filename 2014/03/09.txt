@@ -5,3 +5,4 @@
 [2014-03-09 11:39:25] bonmot, quitting. (K-Lined)
 [2014-03-09 11:45:18] smccarthy, quitting. (Remote host closed the connection)
 [2014-03-09 11:47:23] smccarthy, joining. (#ios-driver)
+[2014-03-09 16:41:59] nirvdrum, joining. (#ios-driver)
