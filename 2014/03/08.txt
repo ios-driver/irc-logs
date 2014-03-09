@@ -21,3 +21,4 @@
 [2014-03-08 13:05:57] jlipps, joining. (#ios-driver)
 [2014-03-08 13:05:57] jlipps, quitting. (Client Quit)
 [2014-03-08 13:49:10] liontgsup, joining. (#ios-driver)
+[2014-03-08 17:16:56] liontgsup, quitting. (Remote host closed the connection)
