@@ -3,3 +3,5 @@
 [2014-03-09 11:04:57] daslexa, quitting. (Remote host closed the connection)
 [2014-03-09 11:27:38] bonmot, joining. (#ios-driver)
 [2014-03-09 11:39:25] bonmot, quitting. (K-Lined)
+[2014-03-09 11:45:18] smccarthy, quitting. (Remote host closed the connection)
+[2014-03-09 11:47:23] smccarthy, joining. (#ios-driver)
