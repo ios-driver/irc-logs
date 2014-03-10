@@ -14,3 +14,4 @@
 [2014-03-10 04:04:25] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/PkDv5w
 [2014-03-10 04:04:25] ios-driver-git, leaving. (#ios-driver)
 [2014-03-10 04:04:25] ios-driver-git: ios-driver/dev fb8461c freynaud: highlight java code in the inspector recorder.
+[2014-03-10 05:28:18] nirvdrum, joining. (#ios-driver)
