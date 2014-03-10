@@ -10,3 +10,7 @@
 [2014-03-10 03:13:15] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/7l3AmQ
 [2014-03-10 03:13:15] ios-driver-git, leaving. (#ios-driver)
 [2014-03-10 03:13:15] ios-driver-git: ios-driver/dev 26fb3d0 freynaud: inspector: removing unused tabs and keeping recording tab closed when recorder isn't used
+[2014-03-10 04:04:25] ios-driver-git, joining. (#ios-driver)
+[2014-03-10 04:04:25] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/PkDv5w
+[2014-03-10 04:04:25] ios-driver-git, leaving. (#ios-driver)
+[2014-03-10 04:04:25] ios-driver-git: ios-driver/dev fb8461c freynaud: highlight java code in the inspector recorder.
