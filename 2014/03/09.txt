@@ -9,3 +9,4 @@
 [2014-03-09 19:27:46] nirvdrum, quitting. (Ping timeout: 264 seconds)
 [2014-03-09 20:24:41] nirvdrum, joining. (#ios-driver)
 [2014-03-09 20:42:46] nirvdrum, quitting. (Ping timeout: 264 seconds)
+[2014-03-09 21:19:55] smccarthy, quitting. (Remote host closed the connection)
