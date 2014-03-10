@@ -16,3 +16,5 @@
 [2014-03-10 04:04:25] ios-driver-git: ios-driver/dev fb8461c freynaud: highlight java code in the inspector recorder.
 [2014-03-10 05:28:18] nirvdrum, joining. (#ios-driver)
 [2014-03-10 08:28:00] smccarthy, joining. (#ios-driver)
+[2014-03-10 08:35:39] rsalvador, joining. (#ios-driver)
+[2014-03-10 08:38:22] rsalvador, leaving. (#ios-driver)
