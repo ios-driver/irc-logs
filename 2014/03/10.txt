@@ -6,3 +6,7 @@
 [2014-03-10 01:27:46] ios-driver-git: [ios-driver] palotas pushed 1 new commit to gh-pages: http://git.io/7VN65Q
 [2014-03-10 01:27:46] ios-driver-git: ios-driver/gh-pages 57c5034 Michael Palotas: fixed typo
 [2014-03-10 01:27:46] ios-driver-git, leaving. (#ios-driver)
+[2014-03-10 03:13:14] ios-driver-git, joining. (#ios-driver)
+[2014-03-10 03:13:15] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/7l3AmQ
+[2014-03-10 03:13:15] ios-driver-git, leaving. (#ios-driver)
+[2014-03-10 03:13:15] ios-driver-git: ios-driver/dev 26fb3d0 freynaud: inspector: removing unused tabs and keeping recording tab closed when recorder isn't used
