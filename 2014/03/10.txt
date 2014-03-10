@@ -31,3 +31,4 @@
 [2014-03-10 10:00:29] rsalvador, joining. (#ios-driver)
 [2014-03-10 10:02:33] rsalvador, leaving. (#ios-driver)
 [2014-03-10 10:26:29] dmarr, quitting. (Remote host closed the connection)
+[2014-03-10 10:38:01] nirvdrum: Any recommendations on a unit testing framework for iOS?
