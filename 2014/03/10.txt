@@ -23,3 +23,6 @@
 [2014-03-10 09:07:29] rsalvador1, leaving. (#ios-driver)
 [2014-03-10 09:11:12] rsalvador, joining. (#ios-driver)
 [2014-03-10 09:18:05] rsalvador, leaving. (#ios-driver)
+[2014-03-10 09:42:36] rsalvador, joining. (#ios-driver)
+[2014-03-10 09:42:49] rsalvador, leaving. (#ios-driver)
+[2014-03-10 09:43:26] rsalvador1, joining. (#ios-driver)
