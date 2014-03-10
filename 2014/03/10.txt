@@ -2,3 +2,7 @@
 [2014-03-10 01:23:22] ios-driver-git: [ios-driver] palotas pushed 1 new commit to gh-pages: http://git.io/VvPaiQ
 [2014-03-10 01:23:22] ios-driver-git: ios-driver/gh-pages 0b4b6b2 Michael Palotas: updated scale page with instructions on running nodes in a grid and how to build the remote proxy
 [2014-03-10 01:23:22] ios-driver-git, leaving. (#ios-driver)
+[2014-03-10 01:27:46] ios-driver-git, joining. (#ios-driver)
+[2014-03-10 01:27:46] ios-driver-git: [ios-driver] palotas pushed 1 new commit to gh-pages: http://git.io/7VN65Q
+[2014-03-10 01:27:46] ios-driver-git: ios-driver/gh-pages 57c5034 Michael Palotas: fixed typo
+[2014-03-10 01:27:46] ios-driver-git, leaving. (#ios-driver)
