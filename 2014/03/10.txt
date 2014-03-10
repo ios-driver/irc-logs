@@ -38,3 +38,4 @@
 [2014-03-10 12:54:33] sharma, joining. (#ios-driver)
 [2014-03-10 13:26:53] sharma, quitting. (Remote host closed the connection)
 [2014-03-10 13:59:10] gdennis, quitting. (Quit: gdennis)
+[2014-03-10 14:11:36] smccarthy2, joining. (#ios-driver)
