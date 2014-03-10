@@ -45,3 +45,4 @@
 [2014-03-10 14:53:41] smccarthy2, quitting. (Remote host closed the connection)
 [2014-03-10 14:54:17] smccarthy, joining. (#ios-driver)
 [2014-03-10 15:04:38] nirvdrum, joining. (#ios-driver)
+[2014-03-10 15:32:43] jlipps, quitting. (Ping timeout: 244 seconds)
