@@ -38,3 +38,4 @@
 [2014-03-11 14:04:50] rsalvador, quitting. (Client Quit)
 [2014-03-11 14:04:54] rsalvador1, joining. (#ios-driver)
 [2014-03-11 14:19:07] lukeis, joining. (#ios-driver)
+[2014-03-11 14:22:46] freynaud__, joining. (#ios-driver)
