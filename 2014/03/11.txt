@@ -20,3 +20,4 @@
 [2014-03-11 11:32:11] ios-driver-git: ios-driver/dev ad328a7 rsalvador: Initial support for iOS 7.1
 [2014-03-11 11:32:11] ios-driver-git, leaving. (#ios-driver)
 [2014-03-11 11:49:05] lukeis, joining. (#ios-driver)
+[2014-03-11 12:15:56] stankobiz, joining. (#ios-driver)
