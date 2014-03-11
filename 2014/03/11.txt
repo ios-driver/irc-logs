@@ -21,3 +21,4 @@
 [2014-03-11 11:32:11] ios-driver-git, leaving. (#ios-driver)
 [2014-03-11 11:49:05] lukeis, joining. (#ios-driver)
 [2014-03-11 12:15:56] stankobiz, joining. (#ios-driver)
+[2014-03-11 12:24:02] stankobiz, quitting. (Remote host closed the connection)
