@@ -10,3 +10,4 @@
 [2014-03-11 10:51:14] lukeis, quitting. (Quit: Leaving.)
 [2014-03-11 10:57:26] rsalvador1, joining. (#ios-driver)
 [2014-03-11 10:57:26] rsalvador, quitting. (Read error: Connection reset by peer)
+[2014-03-11 11:02:48] lukeis, joining. (#ios-driver)
