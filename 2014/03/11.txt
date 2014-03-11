@@ -1,2 +1,4 @@
 [2014-03-11 02:18:20] arhaj, joining. (#ios-driver)
 [2014-03-11 02:37:18] arhaj, quitting. (Ping timeout: 245 seconds)
+[2014-03-11 06:46:24] nirvdrum, joining. (#ios-driver)
+[2014-03-11 06:46:49] gdennis, joining. (#ios-driver)
