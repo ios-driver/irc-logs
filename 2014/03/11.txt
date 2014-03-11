@@ -57,3 +57,4 @@
 [2014-03-11 16:06:13] smccarthy, joining. (#ios-driver)
 [2014-03-11 16:13:45] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-11 16:13:58] rsalvador, joining. (#ios-driver)
+[2014-03-11 16:38:31] santiycr, quitting. (Quit: Leaving.)
