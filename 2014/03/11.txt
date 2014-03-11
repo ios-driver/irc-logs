@@ -30,3 +30,5 @@
 [2014-03-11 13:42:01] kremlins, quitting. (Remote host closed the connection)
 [2014-03-11 13:43:50] toliashka, joining. (#ios-driver)
 [2014-03-11 13:44:29] rsalvador, quitting. (Ping timeout: 240 seconds)
+[2014-03-11 13:45:16] rsalvador, joining. (#ios-driver)
+[2014-03-11 13:47:26] toliashka, quitting. (Remote host closed the connection)
