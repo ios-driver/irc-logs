@@ -48,3 +48,5 @@
 [2014-03-11 14:40:52] nicegraham_, joining. (#ios-driver)
 [2014-03-11 14:49:41] santiycr, quitting. (Quit: Leaving.)
 [2014-03-11 15:12:36] santiycr, joining. (#ios-driver)
+[2014-03-11 15:45:52] smccarthy2, joining. (#ios-driver)
+[2014-03-11 15:49:08] smccarthy, quitting. (Ping timeout: 265 seconds)
