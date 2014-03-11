@@ -25,3 +25,4 @@
 [2014-03-11 12:30:49] lipchanskii, joining. (#ios-driver)
 [2014-03-11 12:42:09] lipchanskii, quitting. (Remote host closed the connection)
 [2014-03-11 12:59:27] santiycr, joining. (#ios-driver)
+[2014-03-11 13:17:54] lukeis, quitting. (Quit: Leaving.)
