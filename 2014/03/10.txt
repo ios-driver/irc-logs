@@ -49,3 +49,4 @@
 [2014-03-10 16:04:27] lukeis, quitting. (Quit: Leaving.)
 [2014-03-10 16:13:36] jlipps, joining. (#ios-driver)
 [2014-03-10 17:04:33] smccarthy, quitting. (Remote host closed the connection)
+[2014-03-10 17:44:50] jlipps, quitting. (Quit: Leaving.)
