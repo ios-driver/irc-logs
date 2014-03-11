@@ -57,3 +57,4 @@
 [2014-03-10 18:54:55] jlipps, quitting. (Quit: Leaving.)
 [2014-03-10 20:41:45] lukeis, joining. (#ios-driver)
 [2014-03-10 20:42:10] lukeis, quitting. (Client Quit)
+[2014-03-10 21:30:49] nirvdrum, quitting. (Ping timeout: 240 seconds)
