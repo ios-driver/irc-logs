@@ -46,3 +46,4 @@
 [2014-03-11 14:39:05] nirvdrum_, quitting. (*.net *.split)
 [2014-03-11 14:39:18] nicegraham_, quitting. (*.net *.split)
 [2014-03-11 14:40:52] nicegraham_, joining. (#ios-driver)
+[2014-03-11 14:49:41] santiycr, quitting. (Quit: Leaving.)
