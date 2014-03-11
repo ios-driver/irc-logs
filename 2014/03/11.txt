@@ -33,3 +33,7 @@
 [2014-03-11 13:45:16] rsalvador, joining. (#ios-driver)
 [2014-03-11 13:47:26] toliashka, quitting. (Remote host closed the connection)
 [2014-03-11 13:55:58] gdennis, leaving. (#ios-driver)
+[2014-03-11 14:01:14] rsalvador, quitting. (Ping timeout: 244 seconds)
+[2014-03-11 14:04:21] rsalvador, joining. (#ios-driver)
+[2014-03-11 14:04:50] rsalvador, quitting. (Client Quit)
+[2014-03-11 14:04:54] rsalvador1, joining. (#ios-driver)
