@@ -54,3 +54,4 @@
 [2014-03-10 18:04:40] jlipps, joining. (#ios-driver)
 [2014-03-10 18:30:06] rsalvador, joining. (#ios-driver)
 [2014-03-10 18:31:27] rsalvador, quitting. (Client Quit)
+[2014-03-10 18:54:55] jlipps, quitting. (Quit: Leaving.)
