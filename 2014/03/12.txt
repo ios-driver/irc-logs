@@ -38,3 +38,5 @@
 [2014-03-12 15:21:26] lukeis, joining. (#ios-driver)
 [2014-03-12 16:01:43] lukeis, quitting. (Quit: Leaving.)
 [2014-03-12 16:04:38] smccarthy, quitting. (Remote host closed the connection)
+[2014-03-12 16:37:12] AutomatedTester, quitting. (Ping timeout: 252 seconds)
+[2014-03-12 16:37:24] AutomatedTester, joining. (#ios-driver)
