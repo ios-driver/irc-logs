@@ -6,3 +6,4 @@
 [2014-03-12 08:42:01] nirvdrum_, quitting. (Ping timeout: 240 seconds)
 [2014-03-12 08:42:25] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2014-03-12 08:47:00] smccarthy, joining. (#ios-driver)
+[2014-03-12 09:16:03] scoba63, quitting. (Ping timeout: 245 seconds)
