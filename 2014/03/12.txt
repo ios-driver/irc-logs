@@ -29,3 +29,4 @@
 [2014-03-12 12:51:24] rsalvador1, quitting. (Read error: Connection reset by peer)
 [2014-03-12 12:52:18] rsalvador, joining. (#ios-driver)
 [2014-03-12 12:54:59] psp250, joining. (#ios-driver)
+[2014-03-12 12:56:27] rsalvador, quitting. (Client Quit)
