@@ -26,3 +26,6 @@
 [2014-03-12 12:47:26] nirvdrum, quitting. (Ping timeout: 246 seconds)
 [2014-03-12 12:48:18] rsalvador1, joining. (#ios-driver)
 [2014-03-12 12:48:19] rsalvador, quitting. (Client Quit)
+[2014-03-12 12:51:24] rsalvador1, quitting. (Read error: Connection reset by peer)
+[2014-03-12 12:52:18] rsalvador, joining. (#ios-driver)
+[2014-03-12 12:54:59] psp250, joining. (#ios-driver)
