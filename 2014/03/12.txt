@@ -3,3 +3,5 @@
 [2014-03-12 08:18:19] scoba63, joining. (#ios-driver)
 [2014-03-12 08:21:16] scoba63: Hi! I tried to build iOS-server with support for Xcode 5.1, and the command line options aren't recognized.
 [2014-03-12 08:21:36] scoba63: Any hints as to what I'm doing wrong?
+[2014-03-12 08:42:01] nirvdrum_, quitting. (Ping timeout: 240 seconds)
+[2014-03-12 08:42:25] nirvdrum, quitting. (Ping timeout: 240 seconds)
