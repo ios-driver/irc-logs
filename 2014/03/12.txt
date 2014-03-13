@@ -50,3 +50,4 @@
 [2014-03-12 19:36:13] jlipps, quitting. (Quit: Leaving.)
 [2014-03-12 19:44:20] nirvdrum, joining. (#ios-driver)
 [2014-03-12 19:47:42] jlipps, joining. (#ios-driver)
+[2014-03-12 19:51:13] jlipps, quitting. (Client Quit)
