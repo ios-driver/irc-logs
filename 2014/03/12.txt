@@ -41,3 +41,4 @@
 [2014-03-12 16:37:12] AutomatedTester, quitting. (Ping timeout: 252 seconds)
 [2014-03-12 16:37:24] AutomatedTester, joining. (#ios-driver)
 [2014-03-12 17:23:38] jlipps, quitting. (Quit: Leaving.)
+[2014-03-12 17:32:27] dmarr, quitting. (Ping timeout: 265 seconds)
