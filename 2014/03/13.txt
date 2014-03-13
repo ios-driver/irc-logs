@@ -11,3 +11,4 @@
 [2014-03-13 09:24:34] lukeis, quitting. (Quit: Leaving.)
 [2014-03-13 09:29:52] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-13 09:30:05] rsalvador, joining. (#ios-driver)
+[2014-03-13 09:39:53] rsalvador, quitting. (Quit: Leaving.)
