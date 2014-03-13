@@ -24,3 +24,5 @@
 [2014-03-13 10:49:14] santiycr, joining. (#ios-driver)
 [2014-03-13 10:49:31] rsalvador, joining. (#ios-driver)
 [2014-03-13 10:53:31] rsalvador1, quitting. (Write error: Broken pipe)
+[2014-03-13 10:58:08] rsalvador, quitting. (Quit: Leaving.)
+[2014-03-13 10:58:16] rsalvador, joining. (#ios-driver)
