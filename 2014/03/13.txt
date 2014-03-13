@@ -43,3 +43,7 @@
 [2014-03-13 12:04:13] nirvdrum, joining. (#ios-driver)
 [2014-03-13 12:15:17] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-13 12:15:34] rsalvador, joining. (#ios-driver)
+[2014-03-13 13:10:39] rsalvador, quitting. (Quit: Leaving.)
+[2014-03-13 13:10:51] rsalvador, joining. (#ios-driver)
+[2014-03-13 13:12:52] rsalvador, quitting. (Client Quit)
+[2014-03-13 13:13:09] rsalvador, joining. (#ios-driver)
