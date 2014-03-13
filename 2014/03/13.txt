@@ -37,3 +37,7 @@
 [2014-03-13 11:57:08] rsalvador, joining. (#ios-driver)
 [2014-03-13 11:59:41] rsalvador, quitting. (Client Quit)
 [2014-03-13 11:59:54] rsalvador, joining. (#ios-driver)
+[2014-03-13 12:01:19] nirvdrum, quitting. (Read error: Connection reset by peer)
+[2014-03-13 12:03:16] rsalvador, quitting. (Client Quit)
+[2014-03-13 12:03:29] rsalvador, joining. (#ios-driver)
+[2014-03-13 12:04:13] nirvdrum, joining. (#ios-driver)
