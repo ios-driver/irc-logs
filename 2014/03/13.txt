@@ -3,3 +3,4 @@
 [2014-03-13 07:00:28] jlipps, quitting. (Quit: Leaving.)
 [2014-03-13 08:24:08] lukeis, joining. (#ios-driver)
 [2014-03-13 08:31:56] smccarthy, joining. (#ios-driver)
+[2014-03-13 08:44:41] rsalvador, joining. (#ios-driver)
