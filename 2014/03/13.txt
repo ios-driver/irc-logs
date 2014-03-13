@@ -33,3 +33,7 @@
 [2014-03-13 11:30:30] jlipps, quitting. (Read error: Connection reset by peer)
 [2014-03-13 11:30:43] jlipps, joining. (#ios-driver)
 [2014-03-13 11:42:46] jlipps, quitting. (Quit: Leaving.)
+[2014-03-13 11:56:56] rsalvador, quitting. (Quit: Leaving.)
+[2014-03-13 11:57:08] rsalvador, joining. (#ios-driver)
+[2014-03-13 11:59:41] rsalvador, quitting. (Client Quit)
+[2014-03-13 11:59:54] rsalvador, joining. (#ios-driver)
