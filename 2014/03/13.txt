@@ -23,3 +23,4 @@
 [2014-03-13 10:40:02] romallen, quitting. (K-Lined)
 [2014-03-13 10:49:14] santiycr, joining. (#ios-driver)
 [2014-03-13 10:49:31] rsalvador, joining. (#ios-driver)
+[2014-03-13 10:53:31] rsalvador1, quitting. (Write error: Broken pipe)
