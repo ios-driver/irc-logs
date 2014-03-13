@@ -46,3 +46,4 @@
 [2014-03-12 17:37:08] freynaud__, joining. (#ios-driver)
 [2014-03-12 17:37:53] dmarr, joining. (#ios-driver)
 [2014-03-12 18:13:39] jlipps, joining. (#ios-driver)
+[2014-03-12 19:04:25] psp250, quitting. (Quit: Leaving)
