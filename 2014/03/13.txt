@@ -8,3 +8,4 @@
 [2014-03-13 08:55:03] rsalvador, joining. (#ios-driver)
 [2014-03-13 08:57:34] rsalvador, quitting. (Client Quit)
 [2014-03-13 08:57:50] rsalvador, joining. (#ios-driver)
+[2014-03-13 09:24:34] lukeis, quitting. (Quit: Leaving.)
