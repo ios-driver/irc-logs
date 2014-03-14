@@ -90,3 +90,4 @@
 [2014-03-13 18:41:05] dmarr, joining. (#ios-driver)
 [2014-03-13 19:04:49] dmarr, quitting. (Ping timeout: 240 seconds)
 [2014-03-13 19:10:01] dmarr, joining. (#ios-driver)
+[2014-03-13 19:57:16] santiycr, quitting. (Quit: Leaving.)
