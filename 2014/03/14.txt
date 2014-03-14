@@ -13,3 +13,6 @@
 [2014-03-14 09:40:30] rsalvador: with the currently committed source you can run ios-driver with Xcode 5.1 / iOS 7.1, I don't know when the next release will be though
 [2014-03-14 09:43:27] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-14 09:43:37] rsalvador, joining. (#ios-driver)
+[2014-03-14 10:06:03] scoba63, quitting. (Ping timeout: 245 seconds)
+[2014-03-14 10:09:09] scoba63, joining. (#ios-driver)
+[2014-03-14 10:09:34] scoba63: When I build the server locally, it fails to recognize the command line options.
