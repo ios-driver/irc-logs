@@ -78,3 +78,7 @@
 [2014-03-13 17:18:55] AutomatedTester_, changing nick to AutomatedTester.
 [2014-03-13 17:50:26] dmarr, quitting. (Ping timeout: 240 seconds)
 [2014-03-13 17:53:32] dmarr, joining. (#ios-driver)
+[2014-03-13 18:00:43] nicegraham__, joining. (#ios-driver)
+[2014-03-13 18:02:06] nicegraham_, quitting. (Ping timeout: 240 seconds)
+[2014-03-13 18:02:06] dmarr, quitting. (Ping timeout: 240 seconds)
+[2014-03-13 18:02:07] nicegraham__, changing nick to nicegraham_.
