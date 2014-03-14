@@ -30,3 +30,4 @@
 [2014-03-14 10:17:12] scoba63: Hmmm.... looks like I may have mis-remembered this option.
 [2014-03-14 10:17:28] scoba63: The correct options appears to be -hub
 [2014-03-14 10:18:11] scoba63: Thanks for your help, and thanks for contributing to this excellent addition to the WebDriver project!
+[2014-03-14 10:20:52] gdennis, joining. (#ios-driver)
