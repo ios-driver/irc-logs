@@ -16,3 +16,11 @@
 [2014-03-14 10:06:03] scoba63, quitting. (Ping timeout: 245 seconds)
 [2014-03-14 10:09:09] scoba63, joining. (#ios-driver)
 [2014-03-14 10:09:34] scoba63: When I build the server locally, it fails to recognize the command line options.
+[2014-03-14 10:10:02] scoba63: Do you have an recommendation for resolving this issue?
+[2014-03-14 10:12:15] rsalvador: which command line options?, what is the error message?
+[2014-03-14 10:12:52] scoba63: None of the options I try are recognized. Let me get the error text...
+[2014-03-14 10:13:42] scoba63: Exception in thread "main" com.beust.jcommander.ParameterException: Unknown option: -simulators
+[2014-03-14 10:14:03] scoba63: Same error for "node"
+[2014-03-14 10:14:08] rsalvador: the -simulators option was removed, retry without that option
+[2014-03-14 10:14:23] scoba63: What about "node"?
+[2014-03-14 10:15:01] rsalvador: I am not familiar with that option
