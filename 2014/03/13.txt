@@ -82,3 +82,4 @@
 [2014-03-13 18:02:06] nicegraham_, quitting. (Ping timeout: 240 seconds)
 [2014-03-13 18:02:06] dmarr, quitting. (Ping timeout: 240 seconds)
 [2014-03-13 18:02:07] nicegraham__, changing nick to nicegraham_.
+[2014-03-13 18:14:07] dmarr, joining. (#ios-driver)
