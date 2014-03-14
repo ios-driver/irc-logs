@@ -10,3 +10,6 @@
 [2014-03-14 09:37:47] lukeis, joining. (#ios-driver)
 [2014-03-14 09:38:05] scoba63: I see rsalvador has committed changes to add support for Xcode 5.1 / iOS 7.1
 [2014-03-14 09:38:41] scoba63: Is this work complete? Will a 0.6.7 release be posted soon?
+[2014-03-14 09:40:30] rsalvador: with the currently committed source you can run ios-driver with Xcode 5.1 / iOS 7.1, I don't know when the next release will be though
+[2014-03-14 09:43:27] rsalvador, quitting. (Quit: Leaving.)
+[2014-03-14 09:43:37] rsalvador, joining. (#ios-driver)
