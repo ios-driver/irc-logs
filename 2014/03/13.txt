@@ -86,3 +86,4 @@
 [2014-03-13 18:25:42] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-13 18:30:32] dmarr, quitting. (Ping timeout: 240 seconds)
 [2014-03-13 18:31:58] dmarr, joining. (#ios-driver)
+[2014-03-13 18:36:52] dmarr, quitting. (Ping timeout: 240 seconds)
