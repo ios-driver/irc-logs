@@ -36,3 +36,4 @@
 [2014-03-14 11:57:16] rsalvador, joining. (#ios-driver)
 [2014-03-14 12:31:09] santiycr, quitting. (Quit: Leaving.)
 [2014-03-14 12:54:23] scoba63, quitting. (Ping timeout: 245 seconds)
+[2014-03-14 13:12:25] santiycr, joining. (#ios-driver)
