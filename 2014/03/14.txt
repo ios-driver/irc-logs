@@ -40,3 +40,6 @@
 [2014-03-14 14:01:42] gdennis, quitting. (Quit: gdennis)
 [2014-03-14 14:57:04] santiycr1, joining. (#ios-driver)
 [2014-03-14 15:00:38] santiycr, quitting. (Ping timeout: 240 seconds)
+[2014-03-14 15:16:02] nirvdrum_, joining. (#ios-driver)
+[2014-03-14 15:18:49] nirvdrum, quitting. (Ping timeout: 240 seconds)
+[2014-03-14 15:19:47] santiycr1, quitting. (Quit: Leaving.)
