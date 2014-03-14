@@ -72,3 +72,7 @@
 [2014-03-13 16:51:20] dmarr, joining. (#ios-driver)
 [2014-03-13 17:10:13] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-13 17:10:27] rsalvador, joining. (#ios-driver)
+[2014-03-13 17:18:27] smccarthy, quitting. (Remote host closed the connection)
+[2014-03-13 17:18:30] AutomatedTester, quitting. (Ping timeout: 240 seconds)
+[2014-03-13 17:18:41] AutomatedTester_, joining. (#ios-driver)
+[2014-03-13 17:18:55] AutomatedTester_, changing nick to AutomatedTester.
