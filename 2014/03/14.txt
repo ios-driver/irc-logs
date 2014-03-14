@@ -3,3 +3,4 @@
 [2014-03-14 06:02:21] nirvdrum, joining. (#ios-driver)
 [2014-03-14 07:21:54] psp250, joining. (#ios-driver)
 [2014-03-14 08:34:28] nirvdrum, quitting. (Quit: Leaving)
+[2014-03-14 08:38:47] smccarthy, joining. (#ios-driver)
