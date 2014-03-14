@@ -76,3 +76,5 @@
 [2014-03-13 17:18:30] AutomatedTester, quitting. (Ping timeout: 240 seconds)
 [2014-03-13 17:18:41] AutomatedTester_, joining. (#ios-driver)
 [2014-03-13 17:18:55] AutomatedTester_, changing nick to AutomatedTester.
+[2014-03-13 17:50:26] dmarr, quitting. (Ping timeout: 240 seconds)
+[2014-03-13 17:53:32] dmarr, joining. (#ios-driver)
