@@ -32,3 +32,5 @@
 [2014-03-14 10:18:11] scoba63: Thanks for your help, and thanks for contributing to this excellent addition to the WebDriver project!
 [2014-03-14 10:20:52] gdennis, joining. (#ios-driver)
 [2014-03-14 11:16:47] santiycr, joining. (#ios-driver)
+[2014-03-14 11:57:02] rsalvador, quitting. (Quit: Leaving.)
+[2014-03-14 11:57:16] rsalvador, joining. (#ios-driver)
