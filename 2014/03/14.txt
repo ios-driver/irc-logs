@@ -43,3 +43,5 @@
 [2014-03-14 15:16:02] nirvdrum_, joining. (#ios-driver)
 [2014-03-14 15:18:49] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2014-03-14 15:19:47] santiycr1, quitting. (Quit: Leaving.)
+[2014-03-14 15:20:25] dmarr, quitting. (Ping timeout: 240 seconds)
+[2014-03-14 15:24:36] dmarr, joining. (#ios-driver)
