@@ -66,3 +66,4 @@
 [2014-03-14 17:22:59] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-14 17:26:10] lukeis, quitting. (*.net *.split)
 [2014-03-14 18:34:26] ios-driverbot___, quitting. (Ping timeout: 246 seconds)
+[2014-03-14 18:54:45] ios-driverbot___, joining. (#ios-driver)
