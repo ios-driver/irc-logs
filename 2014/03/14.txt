@@ -55,3 +55,4 @@
 [2014-03-14 16:28:08] santiycr, joining. (#ios-driver)
 [2014-03-14 16:40:25] ios-driverbot___, quitting. (Ping timeout: 240 seconds)
 [2014-03-14 16:44:46] ios-driverbot___, joining. (#ios-driver)
+[2014-03-14 17:00:59] freynaud__, quitting. (Ping timeout: 246 seconds)
