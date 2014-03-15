@@ -4,3 +4,4 @@
 [2014-03-15 11:49:32] santiycr, joining. (#ios-driver)
 [2014-03-15 11:53:06] smccarthy, quitting. (Remote host closed the connection)
 [2014-03-15 12:35:34] santiycr, quitting. (Quit: Leaving.)
+[2014-03-15 13:27:04] smccarthy, joining. (#ios-driver)
