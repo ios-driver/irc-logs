@@ -70,3 +70,4 @@
 [2014-03-14 21:36:18] nirvdrum_, quitting. (Ping timeout: 255 seconds)
 [2014-03-14 23:19:21] nicegraham_, quitting. (Ping timeout: 255 seconds)
 [2014-03-14 23:20:15] freynaud__, quitting. (Ping timeout: 265 seconds)
+[2014-03-14 23:36:54] nicegraham__, joining. (#ios-driver)
