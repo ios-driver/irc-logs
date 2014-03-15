@@ -6,3 +6,4 @@
 [2014-03-15 12:35:34] santiycr, quitting. (Quit: Leaving.)
 [2014-03-15 13:27:04] smccarthy, joining. (#ios-driver)
 [2014-03-15 13:57:29] nirvdrum, quitting. (Ping timeout: 240 seconds)
+[2014-03-15 16:04:06] smccarthy, quitting. (Remote host closed the connection)
