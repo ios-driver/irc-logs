@@ -64,3 +64,4 @@
 [2014-03-14 17:19:15] santiycr, joining. (#ios-driver)
 [2014-03-14 17:19:23] santiycr, quitting. (Client Quit)
 [2014-03-14 17:22:59] rsalvador, quitting. (Quit: Leaving.)
+[2014-03-14 17:26:10] lukeis, quitting. (*.net *.split)
