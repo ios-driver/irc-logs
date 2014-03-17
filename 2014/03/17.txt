@@ -1,0 +1,4 @@
+[2014-03-17 02:08:23] ios-driver-git, joining. (#ios-driver)
+[2014-03-17 02:08:23] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/y_xpPA
+[2014-03-17 02:08:23] ios-driver-git, leaving. (#ios-driver)
+[2014-03-17 02:08:24] ios-driver-git: ios-driver/dev 8c4c7cf freynaud: adding build script in the repo
