@@ -11,3 +11,4 @@
 [2014-03-17 08:31:27] ios-driver-git: ios-driver/dev 01e597a freynaud: renaming the grid plugin
 [2014-03-17 08:31:27] ios-driver-git, leaving. (#ios-driver)
 [2014-03-17 08:46:04] lukeis, joining. (#ios-driver)
+[2014-03-17 09:15:06] rsalvador, joining. (#ios-driver)
