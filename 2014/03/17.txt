@@ -34,3 +34,4 @@
 [2014-03-17 13:29:09] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to gh-pages: http://git.io/k_tykQ
 [2014-03-17 13:29:09] ios-driver-git, leaving. (#ios-driver)
 [2014-03-17 13:29:09] ios-driver-git: ios-driver/gh-pages 539ab36 freynaud: adding github link on the home page
+[2014-03-17 13:45:05] lukeis, joining. (#ios-driver)
