@@ -6,3 +6,7 @@
 [2014-03-17 07:34:29] gdennis, leaving. (#ios-driver)
 [2014-03-17 07:53:47] nirvdrum, joining. (#ios-driver)
 [2014-03-17 08:26:43] smccarthy, joining. (#ios-driver)
+[2014-03-17 08:31:27] ios-driver-git, joining. (#ios-driver)
+[2014-03-17 08:31:27] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/uzY1Dw
+[2014-03-17 08:31:27] ios-driver-git: ios-driver/dev 01e597a freynaud: renaming the grid plugin
+[2014-03-17 08:31:27] ios-driver-git, leaving. (#ios-driver)
