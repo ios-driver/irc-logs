@@ -18,3 +18,11 @@
 [2014-03-17 12:29:29] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-17 12:31:18] rsalvador, joining. (#ios-driver)
 [2014-03-17 12:51:40] lukeis, quitting. (Quit: Leaving.)
+[2014-03-17 13:22:00] ios-driver-git, joining. (#ios-driver)
+[2014-03-17 13:22:00] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to gh-pages: http://git.io/ISd10Q
+[2014-03-17 13:22:00] ios-driver-git, leaving. (#ios-driver)
+[2014-03-17 13:22:00] ios-driver-git: ios-driver/gh-pages 73982b6 freynaud: cleaning up doc
+[2014-03-17 13:24:10] ios-driver-git, joining. (#ios-driver)
+[2014-03-17 13:24:10] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to gh-pages: http://git.io/WSnKdA
+[2014-03-17 13:24:10] ios-driver-git: ios-driver/gh-pages 4bbcdc3 freynaud: default to index.html
+[2014-03-17 13:24:10] ios-driver-git, leaving. (#ios-driver)
