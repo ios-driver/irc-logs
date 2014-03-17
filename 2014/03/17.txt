@@ -4,3 +4,4 @@
 [2014-03-17 02:08:24] ios-driver-git: ios-driver/dev 8c4c7cf freynaud: adding build script in the repo
 [2014-03-17 07:33:37] gdennis, joining. (#ios-driver)
 [2014-03-17 07:34:29] gdennis, leaving. (#ios-driver)
+[2014-03-17 07:53:47] nirvdrum, joining. (#ios-driver)
