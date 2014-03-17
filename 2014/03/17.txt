@@ -26,3 +26,11 @@
 [2014-03-17 13:24:10] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to gh-pages: http://git.io/WSnKdA
 [2014-03-17 13:24:10] ios-driver-git: ios-driver/gh-pages 4bbcdc3 freynaud: default to index.html
 [2014-03-17 13:24:10] ios-driver-git, leaving. (#ios-driver)
+[2014-03-17 13:27:44] ios-driver-git, joining. (#ios-driver)
+[2014-03-17 13:27:44] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to gh-pages: http://git.io/XQHPnQ
+[2014-03-17 13:27:44] ios-driver-git: ios-driver/gh-pages bdd760f freynaud: adding back github link
+[2014-03-17 13:27:44] ios-driver-git, leaving. (#ios-driver)
+[2014-03-17 13:29:09] ios-driver-git, joining. (#ios-driver)
+[2014-03-17 13:29:09] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to gh-pages: http://git.io/k_tykQ
+[2014-03-17 13:29:09] ios-driver-git, leaving. (#ios-driver)
+[2014-03-17 13:29:09] ios-driver-git: ios-driver/gh-pages 539ab36 freynaud: adding github link on the home page
