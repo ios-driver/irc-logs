@@ -51,3 +51,5 @@
 [2014-03-17 18:28:47] nirvdrum, quitting. (Read error: Connection reset by peer)
 [2014-03-17 18:29:14] nirvdrum, joining. (#ios-driver)
 [2014-03-17 18:29:43] smccarthy, joining. (#ios-driver)
+[2014-03-17 18:50:47] nirvdrum, quitting. (Read error: Connection reset by peer)
+[2014-03-17 18:51:13] nirvdrum, joining. (#ios-driver)
