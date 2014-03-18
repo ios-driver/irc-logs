@@ -20,3 +20,11 @@
 [2014-03-18 13:52:23] lukeis: ?
 [2014-03-18 13:52:39] lukeis: which was solved by using (facebooks) instruments-without-delay
 [2014-03-18 13:52:57] lukeis: and hiya dawagner
+[2014-03-18 13:55:42] dawagner: Hey lukeis
+[2014-03-18 13:55:48] dawagner: Yeah, was it for tapping?
+[2014-03-18 13:56:09] lukeis: for *any* command to the 'server' running
+[2014-03-18 13:56:25] dawagner: Ok cool :) Thanks
+[2014-03-18 13:56:53] lukeis: the 'tapping' one was for iOS standard delay for interacting / detecting what kind of touch event is happening
+[2014-03-18 13:57:11] lukeis: but that's more of a generic issue rather than ios-driver i think...
+[2014-03-18 13:58:19] dawagner: Cool :) Thanks again!
+[2014-03-18 13:59:13] dawagner, quitting. (Quit: This computer has gone to sleep)
