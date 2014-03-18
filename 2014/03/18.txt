@@ -16,3 +16,7 @@
 [2014-03-18 12:22:46] jlipps, joining. (#ios-driver)
 [2014-03-18 13:49:20] dawagner, joining. (#ios-driver)
 [2014-03-18 13:49:34] dawagner: Does anyone remember what the one-second-pause bug freynaud___ was telling me about a while ago was?
+[2014-03-18 13:52:14] lukeis: the instruments delay
+[2014-03-18 13:52:23] lukeis: ?
+[2014-03-18 13:52:39] lukeis: which was solved by using (facebooks) instruments-without-delay
+[2014-03-18 13:52:57] lukeis: and hiya dawagner
