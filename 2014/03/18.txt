@@ -32,3 +32,7 @@
 [2014-03-18 14:03:01] ios-driver-git: [ios-driver] sankarharidasmenon29 closed pull request #229: Java6 (dev...java6) http://git.io/8SSAXQ
 [2014-03-18 14:03:01] ios-driver-git, leaving. (#ios-driver)
 [2014-03-18 15:22:07] jlipps, quitting. (Ping timeout: 264 seconds)
+[2014-03-18 15:31:45] smccarthy2, joining. (#ios-driver)
+[2014-03-18 15:31:54] smccarthy2, quitting. (Read error: Connection reset by peer)
+[2014-03-18 15:32:20] smccarthy2, joining. (#ios-driver)
+[2014-03-18 15:34:49] smccarthy, quitting. (Ping timeout: 240 seconds)
