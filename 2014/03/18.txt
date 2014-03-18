@@ -5,3 +5,4 @@
 [2014-03-18 03:14:11] ios-driver-git, joining. (#ios-driver)
 [2014-03-18 03:14:11] ios-driver-git: [ios-driver] sankarharidasmenon29 opened pull request #229: Java6 (dev...java6) http://git.io/8SSAXQ
 [2014-03-18 03:14:11] ios-driver-git, leaving. (#ios-driver)
+[2014-03-18 05:31:21] nirvdrum, joining. (#ios-driver)
