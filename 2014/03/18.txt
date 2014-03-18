@@ -1,0 +1,4 @@
+[2014-03-18 00:47:26] ios-driver-git, joining. (#ios-driver)
+[2014-03-18 00:47:26] ios-driver-git: ios-driver/gh-pages c6bba36 Michael Palotas: added explanation that 0.6.5 does not support xcode 5
+[2014-03-18 00:47:26] ios-driver-git: [ios-driver] palotas pushed 1 new commit to gh-pages: http://git.io/Cdj_bQ
+[2014-03-18 00:47:27] ios-driver-git, leaving. (#ios-driver)
