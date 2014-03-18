@@ -28,3 +28,6 @@
 [2014-03-18 13:57:11] lukeis: but that's more of a generic issue rather than ios-driver i think...
 [2014-03-18 13:58:19] dawagner: Cool :) Thanks again!
 [2014-03-18 13:59:13] dawagner, quitting. (Quit: This computer has gone to sleep)
+[2014-03-18 14:03:01] ios-driver-git, joining. (#ios-driver)
+[2014-03-18 14:03:01] ios-driver-git: [ios-driver] sankarharidasmenon29 closed pull request #229: Java6 (dev...java6) http://git.io/8SSAXQ
+[2014-03-18 14:03:01] ios-driver-git, leaving. (#ios-driver)
