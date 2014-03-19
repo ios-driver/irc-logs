@@ -12,3 +12,4 @@
 [2014-03-19 09:39:22] ios-driver-git: [ios-driver] rsalvador pushed 2 new commits to dev: http://git.io/6NWKOA
 [2014-03-19 09:39:22] ios-driver-git: ios-driver/dev b9abc17 rsalvador: Minor fault-tolerance + diagnostics changes.
 [2014-03-19 09:39:22] ios-driver-git, leaving. (#ios-driver)
+[2014-03-19 10:25:47] santiycr, joining. (#ios-driver)
