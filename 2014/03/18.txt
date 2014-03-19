@@ -47,3 +47,4 @@
 [2014-03-18 18:37:37] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-18 19:26:25] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2014-03-18 20:24:52] lukeis, joining. (#ios-driver)
+[2014-03-18 23:06:16] lukeis, quitting. (Quit: Leaving.)
