@@ -38,3 +38,6 @@
 [2014-03-19 15:56:06] buritica, quitting. (Remote host closed the connection)
 [2014-03-19 15:56:33] buritica, joining. (#ios-driver)
 [2014-03-19 15:58:49] rsalvador, quitting. (Ping timeout: 240 seconds)
+[2014-03-19 16:01:18] buritica, quitting. (Ping timeout: 264 seconds)
+[2014-03-19 16:01:30] rsalvador, joining. (#ios-driver)
+[2014-03-19 16:04:15] lukeis, quitting. (Quit: Leaving.)
