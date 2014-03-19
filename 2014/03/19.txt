@@ -7,3 +7,8 @@
 [2014-03-19 09:12:38] nirvdrum, quitting. (Read error: Connection reset by peer)
 [2014-03-19 09:22:19] nirvdrum, joining. (#ios-driver)
 [2014-03-19 09:26:17] rsalvador, joining. (#ios-driver)
+[2014-03-19 09:39:22] ios-driver-git, joining. (#ios-driver)
+[2014-03-19 09:39:22] ios-driver-git: ios-driver/dev f74bf07 rsalvador: Merge branch 'dev' of https://github.com/ios-driver/ios-driver.git into dev
+[2014-03-19 09:39:22] ios-driver-git: [ios-driver] rsalvador pushed 2 new commits to dev: http://git.io/6NWKOA
+[2014-03-19 09:39:22] ios-driver-git: ios-driver/dev b9abc17 rsalvador: Minor fault-tolerance + diagnostics changes.
+[2014-03-19 09:39:22] ios-driver-git, leaving. (#ios-driver)
