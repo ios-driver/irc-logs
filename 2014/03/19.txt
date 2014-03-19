@@ -35,3 +35,6 @@
 [2014-03-19 14:32:54] santiycr, joining. (#ios-driver)
 [2014-03-19 15:30:36] santiycr, quitting. (Quit: Leaving.)
 [2014-03-19 15:36:59] santiycr, joining. (#ios-driver)
+[2014-03-19 15:56:06] buritica, quitting. (Remote host closed the connection)
+[2014-03-19 15:56:33] buritica, joining. (#ios-driver)
+[2014-03-19 15:58:49] rsalvador, quitting. (Ping timeout: 240 seconds)
