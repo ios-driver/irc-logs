@@ -19,3 +19,4 @@
 [2014-03-19 12:19:27] santiycr, joining. (#ios-driver)
 [2014-03-19 12:26:23] jlipps, quitting. (Read error: Connection reset by peer)
 [2014-03-19 12:26:45] jlipps, joining. (#ios-driver)
+[2014-03-19 12:53:22] buritica, joining. (#ios-driver)
