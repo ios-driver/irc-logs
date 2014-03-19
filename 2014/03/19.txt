@@ -20,3 +20,7 @@
 [2014-03-19 12:26:23] jlipps, quitting. (Read error: Connection reset by peer)
 [2014-03-19 12:26:45] jlipps, joining. (#ios-driver)
 [2014-03-19 12:53:22] buritica, joining. (#ios-driver)
+[2014-03-19 12:55:48] buritica: hey all
+[2014-03-19 12:55:48] buritica: so I disovered ios-driver last night and I am really excited about it, but have been running into some issues and wanted to know if anyone here was familiar with them
+[2014-03-19 12:55:49] buritica: basically, i'm using https://github.com/admc/wd/ to drive some tests
+[2014-03-19 12:55:49] buritica: everything works great, except when I try to look for an element by css celector
