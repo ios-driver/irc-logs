@@ -71,3 +71,4 @@
 [2014-03-20 10:32:02] lukeis, quitting. (Ping timeout: 265 seconds)
 [2014-03-20 10:34:41] rsalvador, quitting. (Ping timeout: 246 seconds)
 [2014-03-20 10:35:27] rsalvador, joining. (#ios-driver)
+[2014-03-20 10:42:13] lukeis1, changing nick to lukeis.
