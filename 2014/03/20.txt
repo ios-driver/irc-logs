@@ -39,3 +39,7 @@
 [2014-03-20 07:03:52] nirvdrum, joining. (#ios-driver)
 [2014-03-20 07:24:34] buritica, joining. (#ios-driver)
 [2014-03-20 07:29:13] buritica, quitting. (Ping timeout: 240 seconds)
+[2014-03-20 08:13:13] ios-driver-git, joining. (#ios-driver)
+[2014-03-20 08:13:13] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/-8S6LA
+[2014-03-20 08:13:13] ios-driver-git, leaving. (#ios-driver)
+[2014-03-20 08:13:13] ios-driver-git: ios-driver/dev c4fbef6 freynaud: Update the atoms to use the latest version of wgxpath to solve the "concat already define" issue....
