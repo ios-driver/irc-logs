@@ -70,3 +70,4 @@
 [2014-03-19 23:10:29] buritica, quitting. (Ping timeout: 240 seconds)
 [2014-03-19 23:17:26] santiycr, quitting. (Quit: Leaving.)
 [2014-03-19 23:20:16] buritica, joining. (#ios-driver)
+[2014-03-19 23:25:29] buritica, quitting. (Ping timeout: 241 seconds)
