@@ -12,3 +12,4 @@
 [2014-03-20 01:59:19] buritica, joining. (#ios-driver)
 [2014-03-20 02:03:32] buritica_, joining. (#ios-driver)
 [2014-03-20 02:04:01] buritica, quitting. (Ping timeout: 240 seconds)
+[2014-03-20 02:07:59] buritica_, quitting. (Ping timeout: 240 seconds)
