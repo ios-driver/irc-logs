@@ -72,3 +72,5 @@
 [2014-03-20 10:34:41] rsalvador, quitting. (Ping timeout: 246 seconds)
 [2014-03-20 10:35:27] rsalvador, joining. (#ios-driver)
 [2014-03-20 10:42:13] lukeis1, changing nick to lukeis.
+[2014-03-20 10:51:42] ios-driverbot___, quitting. (Ping timeout: 264 seconds)
+[2014-03-20 10:52:12] ios-driverbot___, joining. (#ios-driver)
