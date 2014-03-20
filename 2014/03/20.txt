@@ -15,3 +15,4 @@
 [2014-03-20 02:07:59] buritica_, quitting. (Ping timeout: 240 seconds)
 [2014-03-20 03:00:17] psp250, joining. (#ios-driver)
 [2014-03-20 03:04:21] buritica, joining. (#ios-driver)
+[2014-03-20 03:08:49] buritica, quitting. (Ping timeout: 240 seconds)
