@@ -3,3 +3,4 @@
 [2014-03-20 00:05:42] jlipps, quitting. (Quit: Leaving.)
 [2014-03-20 00:09:03] jlipps, joining. (#ios-driver)
 [2014-03-20 00:15:13] jlipps, quitting. (Quit: Leaving.)
+[2014-03-20 00:33:57] buritica, joining. (#ios-driver)
