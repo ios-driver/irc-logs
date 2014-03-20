@@ -20,3 +20,6 @@
 [2014-03-20 04:09:37] buritica, quitting. (Ping timeout: 240 seconds)
 [2014-03-20 04:13:37] buritica, joining. (#ios-driver)
 [2014-03-20 04:18:01] buritica, quitting. (Ping timeout: 240 seconds)
+[2014-03-20 04:41:35] buritica, joining. (#ios-driver)
+[2014-03-20 04:43:48] buritica_, joining. (#ios-driver)
+[2014-03-20 04:43:56] buritica, quitting. (Read error: Connection reset by peer)
