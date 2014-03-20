@@ -65,3 +65,5 @@
 [2014-03-20 09:10:55] freynaud___: server and 	ios-selenium-tests are the 2 main modules to check
 [2014-03-20 09:24:02] rsalvador: this is great!, thanks a lot for setting this up
 [2014-03-20 09:29:34] buritica, leaving. ("Leaving...")
+[2014-03-20 09:55:20] nirvdrum_, joining. (#ios-driver)
+[2014-03-20 09:57:29] nirvdrum, quitting. (Ping timeout: 269 seconds)
