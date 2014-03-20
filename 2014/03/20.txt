@@ -76,3 +76,4 @@
 [2014-03-20 10:52:12] ios-driverbot___, joining. (#ios-driver)
 [2014-03-20 10:59:54] santiycr, joining. (#ios-driver)
 [2014-03-20 11:17:08] ios-driverbot, joining. (#ios-driver)
+[2014-03-20 11:23:39] jlipps, joining. (#ios-driver)
