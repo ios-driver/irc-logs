@@ -48,3 +48,5 @@
 [2014-03-20 08:20:48] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/eFo8iA
 [2014-03-20 08:20:48] ios-driver-git, leaving. (#ios-driver)
 [2014-03-20 08:27:06] smccarthy, joining. (#ios-driver)
+[2014-03-20 08:30:47] lukeis, joining. (#ios-driver)
+[2014-03-20 08:34:17] rsalvador, joining. (#ios-driver)
