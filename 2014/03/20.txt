@@ -5,3 +5,4 @@
 [2014-03-20 00:15:13] jlipps, quitting. (Quit: Leaving.)
 [2014-03-20 00:33:57] buritica, joining. (#ios-driver)
 [2014-03-20 00:37:59] buritica, quitting. (Ping timeout: 240 seconds)
+[2014-03-20 01:09:39] buritica, joining. (#ios-driver)
