@@ -63,3 +63,4 @@
 [2014-03-20 09:07:53] ios-driver-git: ios-driver/dev 81f5a3d freynaud: checking polling
 [2014-03-20 09:10:26] freynaud___: you can check the result of a commit here : http://ios-driver-ci.ebaystratus.com/
 [2014-03-20 09:10:55] freynaud___: server and 	ios-selenium-tests are the 2 main modules to check
+[2014-03-20 09:24:02] rsalvador: this is great!, thanks a lot for setting this up
