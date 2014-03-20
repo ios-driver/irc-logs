@@ -67,3 +67,6 @@
 [2014-03-20 09:29:34] buritica, leaving. ("Leaving...")
 [2014-03-20 09:55:20] nirvdrum_, joining. (#ios-driver)
 [2014-03-20 09:57:29] nirvdrum, quitting. (Ping timeout: 269 seconds)
+[2014-03-20 10:30:47] lukeis1, joining. (#ios-driver)
+[2014-03-20 10:32:02] lukeis, quitting. (Ping timeout: 265 seconds)
+[2014-03-20 10:34:41] rsalvador, quitting. (Ping timeout: 246 seconds)
