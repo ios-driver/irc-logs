@@ -57,3 +57,7 @@
 [2014-03-20 08:54:31] buritica, joining. (#ios-driver)
 [2014-03-20 08:56:19] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-20 08:56:49] rsalvador, joining. (#ios-driver)
+[2014-03-20 09:07:53] ios-driver-git, joining. (#ios-driver)
+[2014-03-20 09:07:53] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/3RecqQ
+[2014-03-20 09:07:53] ios-driver-git, leaving. (#ios-driver)
+[2014-03-20 09:07:53] ios-driver-git: ios-driver/dev 81f5a3d freynaud: checking polling
