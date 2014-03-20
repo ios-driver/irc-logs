@@ -81,3 +81,4 @@
 [2014-03-20 11:46:35] santiycr, joining. (#ios-driver)
 [2014-03-20 12:43:06] santiycr, quitting. (Quit: Leaving.)
 [2014-03-20 12:49:52] santiycr, joining. (#ios-driver)
+[2014-03-20 13:04:04] dmarr: is casper/ghostdriver still popular?
