@@ -26,3 +26,6 @@
 [2014-03-20 04:48:42] buritica_, quitting. (Ping timeout: 264 seconds)
 [2014-03-20 05:44:32] buritica, joining. (#ios-driver)
 [2014-03-20 05:48:59] buritica, quitting. (Ping timeout: 240 seconds)
+[2014-03-20 06:15:59] buritica, joining. (#ios-driver)
+[2014-03-20 06:18:12] psp250, quitting. (Excess Flood)
+[2014-03-20 06:18:49] psp250, joining. (#ios-driver)
