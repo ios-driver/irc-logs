@@ -85,3 +85,4 @@
 [2014-03-20 13:11:25] santiycr, quitting. (Quit: Leaving.)
 [2014-03-20 13:12:33] santiycr, joining. (#ios-driver)
 [2014-03-20 13:16:44] santiycr, quitting. (Ping timeout: 246 seconds)
+[2014-03-20 13:20:48] nirvdrum_, changing nick to nirvdrum.
