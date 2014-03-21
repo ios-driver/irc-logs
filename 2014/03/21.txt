@@ -28,3 +28,5 @@
 [2014-03-21 14:21:19] nirvdrum, joining. (#ios-driver)
 [2014-03-21 14:28:16] nirvdrum, quitting. (Ping timeout: 265 seconds)
 [2014-03-21 14:41:14] buritica, quitting. (Quit: Leaving...)
+[2014-03-21 14:51:48] buritica, joining. (#ios-driver)
+[2014-03-21 14:52:46] buritica, quitting. (Client Quit)
