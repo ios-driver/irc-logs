@@ -4,3 +4,4 @@
 [2014-03-21 01:26:25] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to gh-pages: http://git.io/RYd2xA
 [2014-03-21 04:16:43] blablub, joining. (#ios-driver)
 [2014-03-21 07:19:17] psp250, quitting. (Ping timeout: 246 seconds)
+[2014-03-21 07:57:37] nirvdrum, joining. (#ios-driver)
