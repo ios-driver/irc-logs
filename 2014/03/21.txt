@@ -5,3 +5,4 @@
 [2014-03-21 04:16:43] blablub, joining. (#ios-driver)
 [2014-03-21 07:19:17] psp250, quitting. (Ping timeout: 246 seconds)
 [2014-03-21 07:57:37] nirvdrum, joining. (#ios-driver)
+[2014-03-21 08:36:45] blablub, quitting. (Quit: Page closed)
