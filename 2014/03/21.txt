@@ -21,3 +21,4 @@
 [2014-03-21 11:47:50] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-21 11:48:04] rsalvador, joining. (#ios-driver)
 [2014-03-21 12:11:45] ios-driverbot, joining. (#ios-driver)
+[2014-03-21 12:54:32] nirvdrum, joining. (#ios-driver)
