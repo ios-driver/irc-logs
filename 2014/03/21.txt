@@ -32,3 +32,4 @@
 [2014-03-21 14:52:46] buritica, quitting. (Client Quit)
 [2014-03-21 15:08:13] lukeis, quitting. (Quit: Leaving.)
 [2014-03-21 15:38:07] nirvdrum, joining. (#ios-driver)
+[2014-03-21 16:05:01] buritica, joining. (#ios-driver)
