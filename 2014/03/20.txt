@@ -99,3 +99,4 @@
 [2014-03-20 18:22:09] santiycr, quitting. (Quit: Leaving.)
 [2014-03-20 18:38:08] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-20 19:06:09] jlipps, quitting. (Quit: Leaving.)
+[2014-03-20 19:23:45] smccarthy, joining. (#ios-driver)
