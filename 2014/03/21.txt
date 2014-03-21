@@ -1,0 +1,4 @@
+[2014-03-21 01:26:25] ios-driver-git, joining. (#ios-driver)
+[2014-03-21 01:26:25] ios-driver-git, leaving. (#ios-driver)
+[2014-03-21 01:26:25] ios-driver-git: ios-driver/gh-pages ded4db8 freynaud: adding some info on testing for real device
+[2014-03-21 01:26:25] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to gh-pages: http://git.io/RYd2xA
