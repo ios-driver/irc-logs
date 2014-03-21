@@ -7,3 +7,5 @@
 [2014-03-21 07:57:37] nirvdrum, joining. (#ios-driver)
 [2014-03-21 08:36:45] blablub, quitting. (Quit: Page closed)
 [2014-03-21 08:42:38] buritica, joining. (#ios-driver)
+[2014-03-21 09:00:46] jlipps, joining. (#ios-driver)
+[2014-03-21 09:03:43] rsalvador, joining. (#ios-driver)
