@@ -15,3 +15,5 @@
 [2014-03-21 10:31:07] nirvdrum, joining. (#ios-driver)
 [2014-03-21 10:39:10] nirvdrum, quitting. (Ping timeout: 265 seconds)
 [2014-03-21 11:05:52] nirvdrum, joining. (#ios-driver)
+[2014-03-21 11:14:40] rsalvador, quitting. (Quit: Leaving.)
+[2014-03-21 11:14:54] rsalvador, joining. (#ios-driver)
