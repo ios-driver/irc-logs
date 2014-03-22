@@ -36,3 +36,4 @@
 [2014-03-21 16:35:36] smccarthy, quitting. (Remote host closed the connection)
 [2014-03-21 16:47:26] buritica, quitting. (Quit: Leaving...)
 [2014-03-21 16:58:15] jlipps, quitting. (Quit: Leaving.)
+[2014-03-21 17:24:39] nirvdrum, quitting. (Ping timeout: 245 seconds)
