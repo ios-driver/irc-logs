@@ -5,3 +5,8 @@
 [2014-03-23 05:43:47] psp250, joining. (#ios-driver)
 [2014-03-23 06:22:14] dmarr, quitting. (Ping timeout: 265 seconds)
 [2014-03-23 06:22:20] dmarr, joining. (#ios-driver)
+[2014-03-23 06:56:44] ios-driver-git, joining. (#ios-driver)
+[2014-03-23 06:56:44] ios-driver-git: [ios-driver] freynaud created real (+2 new commits): http://git.io/_yJhgQ
+[2014-03-23 06:56:44] ios-driver-git: ios-driver/real 7d772fe freynaud: tmp real device
+[2014-03-23 06:56:44] ios-driver-git, leaving. (#ios-driver)
+[2014-03-23 06:56:44] ios-driver-git: ios-driver/real ddc5150 freynaud: updating submodule to load all the libs when launching from a jar
