@@ -11,3 +11,4 @@
 [2014-03-23 06:56:44] ios-driver-git, leaving. (#ios-driver)
 [2014-03-23 06:56:44] ios-driver-git: ios-driver/real ddc5150 freynaud: updating submodule to load all the libs when launching from a jar
 [2014-03-23 07:10:52] nirvdrum, joining. (#ios-driver)
+[2014-03-23 07:24:21] dmarr, quitting. (Ping timeout: 265 seconds)
