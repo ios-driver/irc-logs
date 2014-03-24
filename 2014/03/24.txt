@@ -5,3 +5,4 @@
 [2014-03-24 04:13:55] buritica, quitting. (Remote host closed the connection)
 [2014-03-24 04:14:32] buritica, joining. (#ios-driver)
 [2014-03-24 04:19:24] buritica, quitting. (Ping timeout: 265 seconds)
+[2014-03-24 07:13:36] nirvdrum, joining. (#ios-driver)
