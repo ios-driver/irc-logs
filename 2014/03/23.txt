@@ -14,3 +14,5 @@
 [2014-03-23 07:24:21] dmarr, quitting. (Ping timeout: 265 seconds)
 [2014-03-23 07:28:55] dmarr, joining. (#ios-driver)
 [2014-03-23 08:00:04] smccarthy, joining. (#ios-driver)
+[2014-03-23 17:06:37] psp250, quitting. (Read error: No route to host)
+[2014-03-23 17:07:19] psp250, joining. (#ios-driver)
