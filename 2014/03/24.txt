@@ -27,3 +27,4 @@
 [2014-03-24 12:17:12] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-24 12:19:18] rsalvador, joining. (#ios-driver)
 [2014-03-24 12:42:39] santiycr1, quitting. (Quit: Leaving.)
+[2014-03-24 13:09:44] smccarthy2, quitting. (Remote host closed the connection)
