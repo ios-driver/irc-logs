@@ -21,3 +21,4 @@
 [2014-03-24 10:35:13] santiycr, joining. (#ios-driver)
 [2014-03-24 10:44:17] santiycr1, joining. (#ios-driver)
 [2014-03-24 10:44:34] Huniku, joining. (#ios-driver)
+[2014-03-24 10:47:18] santiycr, quitting. (Ping timeout: 268 seconds)
