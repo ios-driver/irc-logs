@@ -16,3 +16,4 @@
 [2014-03-23 08:00:04] smccarthy, joining. (#ios-driver)
 [2014-03-23 17:06:37] psp250, quitting. (Read error: No route to host)
 [2014-03-23 17:07:19] psp250, joining. (#ios-driver)
+[2014-03-23 19:48:52] smccarthy, quitting. (Remote host closed the connection)
