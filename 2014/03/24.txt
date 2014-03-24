@@ -1,0 +1,4 @@
+[2014-03-24 03:36:28] ios-driver-git, joining. (#ios-driver)
+[2014-03-24 03:36:29] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to real: http://git.io/e9LLxg
+[2014-03-24 03:36:29] ios-driver-git, leaving. (#ios-driver)
+[2014-03-24 03:36:29] ios-driver-git: ios-driver/real cb7c8a1 freynaud:  adding the capability matcher for integration in grid, and some demo classes to show how to use it.
