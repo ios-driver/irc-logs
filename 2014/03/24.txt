@@ -7,3 +7,4 @@
 [2014-03-24 04:19:24] buritica, quitting. (Ping timeout: 265 seconds)
 [2014-03-24 07:13:36] nirvdrum, joining. (#ios-driver)
 [2014-03-24 07:30:57] buritica, joining. (#ios-driver)
+[2014-03-24 07:55:23] buritica, leaving. ("Leaving...")
