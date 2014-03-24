@@ -26,3 +26,4 @@
 [2014-03-24 12:06:28] Huniku, quitting. (Ping timeout: 245 seconds)
 [2014-03-24 12:17:12] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-24 12:19:18] rsalvador, joining. (#ios-driver)
+[2014-03-24 12:42:39] santiycr1, quitting. (Quit: Leaving.)
