@@ -4,3 +4,4 @@
 [2014-03-24 03:36:29] ios-driver-git: ios-driver/real cb7c8a1 freynaud:  adding the capability matcher for integration in grid, and some demo classes to show how to use it.
 [2014-03-24 04:13:55] buritica, quitting. (Remote host closed the connection)
 [2014-03-24 04:14:32] buritica, joining. (#ios-driver)
+[2014-03-24 04:19:24] buritica, quitting. (Ping timeout: 265 seconds)
