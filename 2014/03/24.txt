@@ -9,3 +9,5 @@
 [2014-03-24 07:30:57] buritica, joining. (#ios-driver)
 [2014-03-24 07:55:23] buritica, leaving. ("Leaving...")
 [2014-03-24 08:23:29] lukeis, joining. (#ios-driver)
+[2014-03-24 08:41:31] rsalvador, joining. (#ios-driver)
+[2014-03-24 08:43:53] rsalvador, leaving. (#ios-driver)
