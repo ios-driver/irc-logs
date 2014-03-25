@@ -26,3 +26,10 @@
 [2014-03-25 12:56:22] samuelhorwitz: but not to pollute the thread anymore, whats the best way to only run some of the tests through maven and surefire?
 [2014-03-25 12:56:49] samuelhorwitz: Because right now it is running through everything and I'd like to write my own test cases now for my code without running every test
 [2014-03-25 13:04:59] lukeis: mvn test -Dtest=ClassName#MethodName   should work
+[2014-03-25 13:07:16] samuelhorwitz: Looks like that should work and the reason it isnt for me is my surefire version of 2.12
+[2014-03-25 13:07:16] samuelhorwitz: https://jira.codehaus.org/browse/SUREFIRE-827
+[2014-03-25 13:07:29] samuelhorwitz: blah okay cool
+[2014-03-25 13:09:20] ios-driver-git, joining. (#ios-driver)
+[2014-03-25 13:09:20] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to gh-pages: http://git.io/xMKUyQ
+[2014-03-25 13:09:20] ios-driver-git, leaving. (#ios-driver)
+[2014-03-25 13:09:20] ios-driver-git: ios-driver/gh-pages f2833f5 François Reynaud: Update setup.html...
