@@ -1,0 +1,6 @@
+[2014-03-25 03:30:45] ios-driver-git, joining. (#ios-driver)
+[2014-03-25 03:30:45] ios-driver-git: [ios-driver] freynaud pushed 3 new commits to dev: http://git.io/wHHdVQ
+[2014-03-25 03:30:46] ios-driver-git: ios-driver/dev d257a63 freynaud: tmp real device
+[2014-03-25 03:30:46] ios-driver-git: ios-driver/dev 170d49a freynaud: updating submodule to load all the libs when launching from a jar
+[2014-03-25 03:30:46] ios-driver-git: ios-driver/dev 7e7b650 freynaud:  adding the capability matcher for integration in grid, and some demo classes to show how to use it.
+[2014-03-25 03:30:46] ios-driver-git, leaving. (#ios-driver)
