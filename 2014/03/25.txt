@@ -20,3 +20,8 @@
 [2014-03-25 12:32:01] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to kargo: http://git.io/vtHmLw
 [2014-03-25 12:32:01] ios-driver-git: ios-driver/kargo 2fcc2c0 Samuel Horwitz: Fixing a small bug with frame handling and script execution....
 [2014-03-25 12:32:01] ios-driver-git, leaving. (#ios-driver)
+[2014-03-25 12:55:10] samuelhorwitz, joining. (#ios-driver)
+[2014-03-25 12:55:25] samuelhorwitz: hey freynaud
+[2014-03-25 12:55:47] samuelhorwitz: I just managed to get all the tests to run by dropping the sudo. I updated the thread
+[2014-03-25 12:56:22] samuelhorwitz: but not to pollute the thread anymore, whats the best way to only run some of the tests through maven and surefire?
+[2014-03-25 12:56:49] samuelhorwitz: Because right now it is running through everything and I'd like to write my own test cases now for my code without running every test
