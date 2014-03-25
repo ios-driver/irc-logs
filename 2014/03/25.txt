@@ -44,3 +44,6 @@
 [2014-03-25 13:18:27] freynaud___: samuelhorwitz: in your ide, you should be able to right click
 [2014-03-25 13:28:50] rsalvador, quitting. (Quit: Leaving.)
 [2014-03-25 13:29:04] rsalvador, joining. (#ios-driver)
+[2014-03-25 13:36:48] samuelhorwitz: I use terminal and Sublime, but I think I figured it out
+[2014-03-25 13:36:49] samuelhorwitz: mvn -Dtest=ExecutingJavascriptTests#testCanAccessDocumentAndWindowObjectForFrames test -pl ios-selenium-tests
+[2014-03-25 13:36:57] samuelhorwitz: that works
