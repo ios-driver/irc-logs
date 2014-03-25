@@ -42,3 +42,5 @@
 [2014-03-25 13:13:37] ios-driver-git: ios-driver/gh-pages 9ff55a9 François Reynaud: Update setup.html...
 [2014-03-25 13:13:37] ios-driver-git, leaving. (#ios-driver)
 [2014-03-25 13:18:27] freynaud___: samuelhorwitz: in your ide, you should be able to right click
+[2014-03-25 13:28:50] rsalvador, quitting. (Quit: Leaving.)
+[2014-03-25 13:29:04] rsalvador, joining. (#ios-driver)
