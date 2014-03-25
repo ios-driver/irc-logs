@@ -9,3 +9,4 @@
 [2014-03-25 05:52:21] ios-driver-git: [ios-driver] freynaud created kargo (+1 new commit): http://git.io/PNjwAA
 [2014-03-25 05:52:21] ios-driver-git: ios-driver/kargo fddfc79 Samuel Horwitz: Angular Protractor support added...
 [2014-03-25 05:52:21] ios-driver-git, leaving. (#ios-driver)
+[2014-03-25 08:21:29] lukeis, joining. (#ios-driver)
