@@ -47,3 +47,10 @@
 [2014-03-25 13:36:48] samuelhorwitz: I use terminal and Sublime, but I think I figured it out
 [2014-03-25 13:36:49] samuelhorwitz: mvn -Dtest=ExecutingJavascriptTests#testCanAccessDocumentAndWindowObjectForFrames test -pl ios-selenium-tests
 [2014-03-25 13:36:57] samuelhorwitz: that works
+[2014-03-25 14:10:29] freynaud___: you should download an ide
+[2014-03-25 14:10:35] freynaud___: a bit more pleasant to work with
+[2014-03-25 14:10:40] freynaud___: http://ios-driver-ci.ebaystratus.com/job/ios-selenium-tests/lastCompletedBuild/testngreports/
+[2014-03-25 14:10:55] freynaud___: still 1 error I want to look at, then I'll merge your changes
+[2014-03-25 14:11:44] samuelhorwitz: I'm actually writing some test cases
+[2014-03-25 14:11:53] freynaud___: cool
+[2014-03-25 14:11:59] samuelhorwitz: I'll submit a pull request once I get those pushed
