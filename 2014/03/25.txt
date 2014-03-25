@@ -5,3 +5,7 @@
 [2014-03-25 03:30:46] ios-driver-git: ios-driver/dev 7e7b650 freynaud:  adding the capability matcher for integration in grid, and some demo classes to show how to use it.
 [2014-03-25 03:30:46] ios-driver-git, leaving. (#ios-driver)
 [2014-03-25 05:33:26] nirvdrum, joining. (#ios-driver)
+[2014-03-25 05:52:21] ios-driver-git, joining. (#ios-driver)
+[2014-03-25 05:52:21] ios-driver-git: [ios-driver] freynaud created kargo (+1 new commit): http://git.io/PNjwAA
+[2014-03-25 05:52:21] ios-driver-git: ios-driver/kargo fddfc79 Samuel Horwitz: Angular Protractor support added...
+[2014-03-25 05:52:21] ios-driver-git, leaving. (#ios-driver)
