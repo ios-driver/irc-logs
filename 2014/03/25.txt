@@ -33,3 +33,11 @@
 [2014-03-25 13:09:20] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to gh-pages: http://git.io/xMKUyQ
 [2014-03-25 13:09:20] ios-driver-git, leaving. (#ios-driver)
 [2014-03-25 13:09:20] ios-driver-git: ios-driver/gh-pages f2833f5 François Reynaud: Update setup.html...
+[2014-03-25 13:10:35] ios-driver-git, joining. (#ios-driver)
+[2014-03-25 13:10:35] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/upeXAw
+[2014-03-25 13:10:35] ios-driver-git, leaving. (#ios-driver)
+[2014-03-25 13:10:35] ios-driver-git: ios-driver/dev 4fa7220 freynaud: making safari on real device connect
+[2014-03-25 13:13:37] ios-driver-git, joining. (#ios-driver)
+[2014-03-25 13:13:37] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to gh-pages: http://git.io/8TOj_A
+[2014-03-25 13:13:37] ios-driver-git: ios-driver/gh-pages 9ff55a9 François Reynaud: Update setup.html...
+[2014-03-25 13:13:37] ios-driver-git, leaving. (#ios-driver)
