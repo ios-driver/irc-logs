@@ -62,3 +62,4 @@
 [2014-03-25 15:30:58] ios-driver-git, joining. (#ios-driver)
 [2014-03-25 15:30:58] ios-driver-git: [ios-driver] samuelhorwitz opened pull request #233: AngularJS Protractor Support (dev...dev) http://git.io/iEJ92g
 [2014-03-25 15:30:58] ios-driver-git, leaving. (#ios-driver)
+[2014-03-25 16:04:59] lukeis, quitting. (Quit: Leaving.)
