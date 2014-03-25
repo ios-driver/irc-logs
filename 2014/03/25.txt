@@ -59,3 +59,6 @@
 [2014-03-25 14:16:24] ios-driver-git, leaving. (#ios-driver)
 [2014-03-25 14:16:24] ios-driver-git: ios-driver/dev e1866e9 freynaud: grid links to matcher now
 [2014-03-25 15:00:26] samuelhorwitz, quitting. (Quit: Page closed)
+[2014-03-25 15:30:58] ios-driver-git, joining. (#ios-driver)
+[2014-03-25 15:30:58] ios-driver-git: [ios-driver] samuelhorwitz opened pull request #233: AngularJS Protractor Support (dev...dev) http://git.io/iEJ92g
+[2014-03-25 15:30:58] ios-driver-git, leaving. (#ios-driver)
