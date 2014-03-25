@@ -54,3 +54,7 @@
 [2014-03-25 14:11:44] samuelhorwitz: I'm actually writing some test cases
 [2014-03-25 14:11:53] freynaud___: cool
 [2014-03-25 14:11:59] samuelhorwitz: I'll submit a pull request once I get those pushed
+[2014-03-25 14:16:24] ios-driver-git, joining. (#ios-driver)
+[2014-03-25 14:16:24] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/Umr2PQ
+[2014-03-25 14:16:24] ios-driver-git, leaving. (#ios-driver)
+[2014-03-25 14:16:24] ios-driver-git: ios-driver/dev e1866e9 freynaud: grid links to matcher now
