@@ -16,3 +16,7 @@
 [2014-03-25 10:47:27] gdennis, quitting. (Quit: gdennis)
 [2014-03-25 10:47:51] gdennis, joining. (#ios-driver)
 [2014-03-25 12:01:16] rsalvador, joining. (#ios-driver)
+[2014-03-25 12:32:01] ios-driver-git, joining. (#ios-driver)
+[2014-03-25 12:32:01] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to kargo: http://git.io/vtHmLw
+[2014-03-25 12:32:01] ios-driver-git: ios-driver/kargo 2fcc2c0 Samuel Horwitz: Fixing a small bug with frame handling and script execution....
+[2014-03-25 12:32:01] ios-driver-git, leaving. (#ios-driver)
