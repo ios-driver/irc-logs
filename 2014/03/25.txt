@@ -58,3 +58,4 @@
 [2014-03-25 14:16:24] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/Umr2PQ
 [2014-03-25 14:16:24] ios-driver-git, leaving. (#ios-driver)
 [2014-03-25 14:16:24] ios-driver-git: ios-driver/dev e1866e9 freynaud: grid links to matcher now
+[2014-03-25 15:00:26] samuelhorwitz, quitting. (Quit: Page closed)
