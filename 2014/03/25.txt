@@ -11,3 +11,4 @@
 [2014-03-25 05:52:21] ios-driver-git, leaving. (#ios-driver)
 [2014-03-25 08:21:29] lukeis, joining. (#ios-driver)
 [2014-03-25 08:59:16] smccarthy, joining. (#ios-driver)
+[2014-03-25 09:17:35] rsalvador, joining. (#ios-driver)
