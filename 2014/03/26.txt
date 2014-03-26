@@ -23,3 +23,6 @@
 [2014-03-26 10:01:06] smccarthy, joining. (#ios-driver)
 [2014-03-26 11:38:15] rsalvador, joining. (#ios-driver)
 [2014-03-26 11:58:59] santiycr, joining. (#ios-driver)
+[2014-03-26 12:54:02] samuelhorwitz: haha I was just looking to see what the status was on Selendroid's executeAsyncScript support
+[2014-03-26 12:54:09] samuelhorwitz: Because it was unimplemented last I checked
+[2014-03-26 12:54:20] samuelhorwitz: I see you added it lukeis, nice
