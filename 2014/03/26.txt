@@ -16,3 +16,4 @@
 [2014-03-26 06:10:05] gdennis, quitting. (Quit: gdennis)
 [2014-03-26 06:10:50] gdennis, joining. (#ios-driver)
 [2014-03-26 06:17:06] nirvdrum, joining. (#ios-driver)
+[2014-03-26 06:53:41] ddary, joining. (#ios-driver)
