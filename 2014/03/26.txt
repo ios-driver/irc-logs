@@ -19,3 +19,4 @@
 [2014-03-26 06:53:41] ddary, joining. (#ios-driver)
 [2014-03-26 07:23:52] ddary, quitting. (Quit: Page closed)
 [2014-03-26 08:23:52] samuelhorwitz, joining. (#ios-driver)
+[2014-03-26 08:30:53] lukeis, joining. (#ios-driver)
