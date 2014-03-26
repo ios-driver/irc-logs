@@ -29,3 +29,16 @@
 [2014-03-26 12:55:31] smccarthy, quitting. (Remote host closed the connection)
 [2014-03-26 12:56:36] lukeis: :)
 [2014-03-26 12:58:40] samuelhorwitz: Once there is an official release of the ios-driver stuff, I'm planning on updating Protractor's webdriver-manager script with support for it. I'll throw in Selendroid too hopefully
+[2014-03-26 13:00:51] lukeis: samuelhorwitz: i believe there's still a problem though https://github.com/selendroid/selendroid/issues/336
+[2014-03-26 13:01:31] samuelhorwitz: I noticed that
+[2014-03-26 13:01:38] samuelhorwitz: I honestly haven't tested yet
+[2014-03-26 13:02:09] samuelhorwitz: For me though, this whole endeavor was about making my testing easier for my angular mobile web app for the company I'm at
+[2014-03-26 13:02:12] lukeis: i'm not using protractor and haven't spent time to learn how to run a test, so i can't reproduce that issue as reported
+[2014-03-26 13:02:31] samuelhorwitz: I'm gonna try and build it now and hook it up with my end to end test runner script
+[2014-03-26 13:02:34] samuelhorwitz: I'll see what happens
+[2014-03-26 13:03:27] samuelhorwitz: Protractor, like all of these webdrivers for mobile is also in beta so everything is kind of hard to line up, but essentially everything should work once async scripts and script timeouts are tackled. That is just necessary because Protractor uses that to make sure Angular is on the page before continuing
+[2014-03-26 13:03:34] lukeis: if i'm given all the HTTP commands (with payload) as they are sent across the wire to selendroid, it'll be much easier for me to troubleshoot :)
+[2014-03-26 13:04:13] samuelhorwitz: hahah I'll look into it, I had all that stuff being spit out when working on ios-driver, I'll see if I can get ahold of it for that thread
+[2014-03-26 13:04:25] samuelhorwitz: on the selendroid project
+[2014-03-26 13:04:30] lukeis: thx
+[2014-03-26 13:04:46] samuelhorwitz: is there a quick cheatsheet for building selendroid? just cloned it
