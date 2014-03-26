@@ -9,3 +9,7 @@
 [2014-03-26 02:51:07] ios-driver-git, leaving. (#ios-driver)
 [2014-03-26 02:51:07] ios-driver-git: ios-driver/kargo a821cd8 Samuel Horwitz: Adding in tests for executeAsyncScript...
 [2014-03-26 02:51:07] ios-driver-git: ios-driver/kargo 92bfc06 Samuel Horwitz: Fixing a small bug with frame handling and script execution....
+[2014-03-26 04:22:56] ios-driver-git, joining. (#ios-driver)
+[2014-03-26 04:22:56] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/xwBnsA
+[2014-03-26 04:22:56] ios-driver-git: ios-driver/dev 69eb457 freynaud: making the ssl ignore flag of capabilities active.
+[2014-03-26 04:22:56] ios-driver-git, leaving. (#ios-driver)
