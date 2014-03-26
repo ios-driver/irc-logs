@@ -13,3 +13,5 @@
 [2014-03-26 04:22:56] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/xwBnsA
 [2014-03-26 04:22:56] ios-driver-git: ios-driver/dev 69eb457 freynaud: making the ssl ignore flag of capabilities active.
 [2014-03-26 04:22:56] ios-driver-git, leaving. (#ios-driver)
+[2014-03-26 06:10:05] gdennis, quitting. (Quit: gdennis)
+[2014-03-26 06:10:50] gdennis, joining. (#ios-driver)
