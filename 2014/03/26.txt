@@ -42,3 +42,9 @@
 [2014-03-26 13:04:25] samuelhorwitz: on the selendroid project
 [2014-03-26 13:04:30] lukeis: thx
 [2014-03-26 13:04:46] samuelhorwitz: is there a quick cheatsheet for building selendroid? just cloned it
+[2014-03-26 13:05:14] lukeis: http://selendroid.io/architecture.html#buildIt
+[2014-03-26 13:05:36] samuelhorwitz: perfect thanks
+[2014-03-26 13:06:22] lukeis: there is a #selendroid irc channel too ;)
+[2014-03-26 13:06:35] samuelhorwitz: freenode?
+[2014-03-26 13:06:42] lukeis: yes
+[2014-03-26 13:06:50] samuelhorwitz: nice
