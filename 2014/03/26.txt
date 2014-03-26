@@ -26,3 +26,6 @@
 [2014-03-26 12:54:02] samuelhorwitz: haha I was just looking to see what the status was on Selendroid's executeAsyncScript support
 [2014-03-26 12:54:09] samuelhorwitz: Because it was unimplemented last I checked
 [2014-03-26 12:54:20] samuelhorwitz: I see you added it lukeis, nice
+[2014-03-26 12:55:31] smccarthy, quitting. (Remote host closed the connection)
+[2014-03-26 12:56:36] lukeis: :)
+[2014-03-26 12:58:40] samuelhorwitz: Once there is an official release of the ios-driver stuff, I'm planning on updating Protractor's webdriver-manager script with support for it. I'll throw in Selendroid too hopefully
