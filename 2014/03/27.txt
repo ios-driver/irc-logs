@@ -10,3 +10,5 @@
 [2014-03-27 09:51:39] amasaamos_: and my current window handle is "Web_2"
 [2014-03-27 09:52:00] amasaamos_: when I try page.driver.browser.switch_to.window("Web_1") I get:
 [2014-03-27 09:52:07] amasaamos_: Selenium::WebDriver::Error::UnknownError: Cannot find the state we're in.Was expecting 5 or 2 buttons but found 6 Command duration or timeout: 1.33 seconds
+[2014-03-27 10:01:28] samuelhorwitz, quitting. (Ping timeout: 245 seconds)
+[2014-03-27 10:02:35] santiycr, joining. (#ios-driver)
