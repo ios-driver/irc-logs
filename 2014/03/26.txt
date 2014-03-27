@@ -59,3 +59,6 @@
 [2014-03-26 18:12:56] nirvdrum, quitting. (*.net *.split)
 [2014-03-26 18:12:56] psp250, quitting. (*.net *.split)
 [2014-03-26 18:12:59] dmarr, quitting. (*.net *.split)
+[2014-03-26 18:49:23] dmarr, joining. (#ios-driver)
+[2014-03-26 18:49:23] nirvdrum, joining. (#ios-driver)
+[2014-03-26 18:49:23] psp250, joining. (#ios-driver)
