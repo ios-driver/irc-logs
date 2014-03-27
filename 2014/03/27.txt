@@ -3,3 +3,10 @@
 [2014-03-27 08:20:47] lukeis, joining. (#ios-driver)
 [2014-03-27 09:02:06] smccarthy, joining. (#ios-driver)
 [2014-03-27 09:34:33] ios-driverbot, joining. (#ios-driver)
+[2014-03-27 09:50:13] amasaamos_, joining. (#ios-driver)
+[2014-03-27 09:50:40] amasaamos_: hi all -- I'm automating some web testing on mobile safari using ios-driver
+[2014-03-27 09:50:52] amasaamos_: has anyone had success switching tabs?
+[2014-03-27 09:51:29] amasaamos_: for example, I have the browser in a state where page.driver.browser.window_handles returns ["Web_1", "Web_2", "Native"]
+[2014-03-27 09:51:39] amasaamos_: and my current window handle is "Web_2"
+[2014-03-27 09:52:00] amasaamos_: when I try page.driver.browser.switch_to.window("Web_1") I get:
+[2014-03-27 09:52:07] amasaamos_: Selenium::WebDriver::Error::UnknownError: Cannot find the state we're in.Was expecting 5 or 2 buttons but found 6 Command duration or timeout: 1.33 seconds
