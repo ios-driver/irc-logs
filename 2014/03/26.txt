@@ -63,3 +63,4 @@
 [2014-03-26 18:49:23] nirvdrum, joining. (#ios-driver)
 [2014-03-26 18:49:23] psp250, joining. (#ios-driver)
 [2014-03-26 20:24:26] nirvdrum, quitting. (Ping timeout: 265 seconds)
+[2014-03-26 20:57:29] santiycr, joining. (#ios-driver)
