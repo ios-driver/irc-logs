@@ -52,3 +52,4 @@
 [2014-03-26 14:00:00] lukeis, quitting. (Quit: Leaving.)
 [2014-03-26 15:00:11] lukeis, joining. (#ios-driver)
 [2014-03-26 16:04:36] lukeis, quitting. (Quit: Leaving.)
+[2014-03-26 17:08:17] rsalvador, quitting. (Ping timeout: 240 seconds)
