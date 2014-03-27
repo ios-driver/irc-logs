@@ -55,3 +55,7 @@
 [2014-03-26 17:08:17] rsalvador, quitting. (Ping timeout: 240 seconds)
 [2014-03-26 17:42:00] rsalvador, joining. (#ios-driver)
 [2014-03-26 17:43:27] rsalvador, quitting. (Client Quit)
+[2014-03-26 18:12:56] santiycr, quitting. (*.net *.split)
+[2014-03-26 18:12:56] nirvdrum, quitting. (*.net *.split)
+[2014-03-26 18:12:56] psp250, quitting. (*.net *.split)
+[2014-03-26 18:12:59] dmarr, quitting. (*.net *.split)
