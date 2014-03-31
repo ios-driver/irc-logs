@@ -28,3 +28,4 @@
 [2014-03-31 12:56:13] smccarthy2, joining. (#ios-driver)
 [2014-03-31 12:57:20] samuelhorwitz, joining. (#ios-driver)
 [2014-03-31 13:00:10] smccarthy, quitting. (Ping timeout: 265 seconds)
+[2014-03-31 13:09:38] smccarthy2, quitting. (Ping timeout: 252 seconds)
