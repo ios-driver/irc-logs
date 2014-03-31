@@ -1,0 +1,3 @@
+[2014-03-31 08:35:29] ios-driverbot, joining. (#ios-driver)
+[2014-03-31 08:39:26] nirvdrum_, joining. (#ios-driver)
+[2014-03-31 08:39:30] nirvdrum_, quitting. (Client Quit)
