@@ -32,3 +32,5 @@
 [2014-03-31 13:11:42] santiycr, joining. (#ios-driver)
 [2014-03-31 13:27:53] smccarthy, joining. (#ios-driver)
 [2014-03-31 13:54:41] gdennis, quitting. (Quit: gdennis)
+[2014-03-31 14:34:25] smccarthy, quitting. (Remote host closed the connection)
+[2014-03-31 14:34:59] smccarthy, joining. (#ios-driver)
