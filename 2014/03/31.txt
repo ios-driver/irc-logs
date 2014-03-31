@@ -13,3 +13,4 @@
 [2014-03-31 09:35:09] smccarthy2, quitting. (Ping timeout: 268 seconds)
 [2014-03-31 10:09:12] psp250, joining. (#ios-driver)
 [2014-03-31 10:22:25] smccarthy2, joining. (#ios-driver)
+[2014-03-31 10:25:48] smccarthy, quitting. (Ping timeout: 255 seconds)
