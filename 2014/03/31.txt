@@ -3,3 +3,7 @@
 [2014-03-31 08:39:30] nirvdrum_, quitting. (Client Quit)
 [2014-03-31 09:07:44] jlipps, joining. (#ios-driver)
 [2014-03-31 09:09:45] smccarthy2, joining. (#ios-driver)
+[2014-03-31 09:10:06] rsalvador, joining. (#ios-driver)
+[2014-03-31 09:13:00] smccarthy, quitting. (Ping timeout: 265 seconds)
+[2014-03-31 09:14:06] smccarthy2, quitting. (Remote host closed the connection)
+[2014-03-31 09:14:39] smccarthy, joining. (#ios-driver)
