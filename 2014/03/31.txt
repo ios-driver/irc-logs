@@ -36,3 +36,5 @@
 [2014-03-31 14:34:59] smccarthy, joining. (#ios-driver)
 [2014-03-31 16:02:44] lukeis, quitting. (Quit: Leaving.)
 [2014-03-31 16:14:31] smccarthy2, joining. (#ios-driver)
+[2014-03-31 16:15:13] smccarthy2, quitting. (Remote host closed the connection)
+[2014-03-31 16:17:16] smccarthy, quitting. (Ping timeout: 245 seconds)
