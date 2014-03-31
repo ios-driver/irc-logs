@@ -14,3 +14,8 @@
 [2014-03-31 10:09:12] psp250, joining. (#ios-driver)
 [2014-03-31 10:22:25] smccarthy2, joining. (#ios-driver)
 [2014-03-31 10:25:48] smccarthy, quitting. (Ping timeout: 255 seconds)
+[2014-03-31 11:31:55] smccarthy2, quitting. (Remote host closed the connection)
+[2014-03-31 11:32:22] rsalvador, quitting. (Quit: Leaving.)
+[2014-03-31 11:32:28] smccarthy, joining. (#ios-driver)
+[2014-03-31 11:32:38] rsalvador, joining. (#ios-driver)
+[2014-03-31 11:35:00] rsalvador, quitting. (Read error: Connection reset by peer)
