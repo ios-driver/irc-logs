@@ -20,3 +20,4 @@
 [2014-03-31 11:32:38] rsalvador, joining. (#ios-driver)
 [2014-03-31 11:35:00] rsalvador, quitting. (Read error: Connection reset by peer)
 [2014-03-31 11:35:03] rsalvador1, joining. (#ios-driver)
+[2014-03-31 12:04:50] rsalvador1, quitting. (Quit: Leaving.)
