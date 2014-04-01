@@ -33,3 +33,4 @@
 [2014-04-01 14:09:33] jlipps, quitting. (Quit: Leaving.)
 [2014-04-01 14:10:42] jlipps, joining. (#ios-driver)
 [2014-04-01 15:16:38] santiycr, joining. (#ios-driver)
+[2014-04-01 16:04:48] lukeis, quitting. (Quit: Leaving.)
