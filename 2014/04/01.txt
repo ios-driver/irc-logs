@@ -18,3 +18,12 @@
 [2014-04-01 12:19:28] santiycr, joining. (#ios-driver)
 [2014-04-01 12:43:59] jlipps, quitting. (Quit: Leaving.)
 [2014-04-01 13:07:25] jlipps, joining. (#ios-driver)
+[2014-04-01 13:16:42] ios-driver-git, joining. (#ios-driver)
+[2014-04-01 13:16:42] ios-driver-git: [ios-driver] progressnerd opened pull request #236: Bring all dev changes into the greg branch (greg...dev) http://git.io/OwDNsA
+[2014-04-01 13:16:42] ios-driver-git, leaving. (#ios-driver)
+[2014-04-01 13:17:59] ios-driver-git, joining. (#ios-driver)
+[2014-04-01 13:17:59] ios-driver-git: [ios-driver] progressnerd closed pull request #236: Bring all dev changes into the greg branch (greg...dev) http://git.io/OwDNsA
+[2014-04-01 13:17:59] ios-driver-git, leaving. (#ios-driver)
+[2014-04-01 13:18:09] ios-driver-git, joining. (#ios-driver)
+[2014-04-01 13:18:09] ios-driver-git: [ios-driver] progressnerd created greg from dev (+0 new commits): http://git.io/Iw4CZw
+[2014-04-01 13:18:09] ios-driver-git, leaving. (#ios-driver)
