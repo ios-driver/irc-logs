@@ -45,3 +45,4 @@
 [2014-03-31 17:55:16] psp250, quitting. (Ping timeout: 268 seconds)
 [2014-03-31 17:58:30] rsalvador, leaving. (#ios-driver)
 [2014-03-31 18:39:13] santiycr, quitting. (Quit: Leaving.)
+[2014-03-31 19:11:11] smccarthy, joining. (#ios-driver)
