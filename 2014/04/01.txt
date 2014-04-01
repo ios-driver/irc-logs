@@ -8,3 +8,4 @@
 [2014-04-01 08:22:14] lukeis, joining. (#ios-driver)
 [2014-04-01 09:22:39] rsalvador, joining. (#ios-driver)
 [2014-04-01 09:31:49] smccarthy, joining. (#ios-driver)
+[2014-04-01 10:00:43] jlipps, joining. (#ios-driver)
