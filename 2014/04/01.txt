@@ -4,3 +4,4 @@
 [2014-04-01 05:29:11] dgrace, joining. (#ios-driver)
 [2014-04-01 06:28:59] psp250, joining. (#ios-driver)
 [2014-04-01 06:39:58] aardvark, joining. (#ios-driver)
+[2014-04-01 06:42:55] aardvark, leaving. (#ios-driver)
