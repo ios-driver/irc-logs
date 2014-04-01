@@ -14,3 +14,5 @@
 [2014-04-01 10:45:35] sligodave, leaving. ("Textual IRC Client: www.textualapp.com")
 [2014-04-01 11:03:23] rsalvador, quitting. (Quit: Leaving.)
 [2014-04-01 11:03:40] rsalvador, joining. (#ios-driver)
+[2014-04-01 12:19:12] santiycr, quitting. (Read error: Connection reset by peer)
+[2014-04-01 12:19:28] santiycr, joining. (#ios-driver)
