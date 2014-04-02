@@ -13,3 +13,4 @@
 [2014-04-02 09:01:06] rsalvador, quitting. (Ping timeout: 255 seconds)
 [2014-04-02 09:15:59] rsalvador, joining. (#ios-driver)
 [2014-04-02 09:22:43] jlipps, joining. (#ios-driver)
+[2014-04-02 09:48:13] psp250, joining. (#ios-driver)
