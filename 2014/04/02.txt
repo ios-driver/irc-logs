@@ -10,3 +10,4 @@
 [2014-04-02 08:40:12] ios-driver-git, joining. (#ios-driver)
 [2014-04-02 08:40:12] ios-driver-git: [ios-driver] progressnerd opened pull request #237: Multiple changes to improve ios-driver when for Mobile Safari on a real device. (dev...greg) http://git.io/SIGpnw
 [2014-04-02 08:40:12] ios-driver-git, leaving. (#ios-driver)
+[2014-04-02 09:01:06] rsalvador, quitting. (Ping timeout: 255 seconds)
