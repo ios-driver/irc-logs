@@ -15,3 +15,7 @@
 [2014-04-02 09:22:43] jlipps, joining. (#ios-driver)
 [2014-04-02 09:48:13] psp250, joining. (#ios-driver)
 [2014-04-02 10:29:12] lukeis1, joining. (#ios-driver)
+[2014-04-02 10:35:33] rsalvador, quitting. (Quit: Leaving.)
+[2014-04-02 10:37:04] rsalvador, joining. (#ios-driver)
+[2014-04-02 10:38:18] psp250, quitting. (*.net *.split)
+[2014-04-02 10:38:18] lukeis, quitting. (*.net *.split)
