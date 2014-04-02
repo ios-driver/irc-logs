@@ -41,3 +41,4 @@
 [2014-04-02 14:00:58] smccarthy, joining. (#ios-driver)
 [2014-04-02 15:03:21] santiycr, quitting. (Quit: Leaving.)
 [2014-04-02 15:04:23] santiycr, joining. (#ios-driver)
+[2014-04-02 15:16:47] psp250, quitting. (Remote host closed the connection)
