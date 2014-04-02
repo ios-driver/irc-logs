@@ -22,3 +22,5 @@
 [2014-04-02 10:40:46] santiycr, joining. (#ios-driver)
 [2014-04-02 10:45:32] psp250, joining. (#ios-driver)
 [2014-04-02 10:51:49] santiycr, quitting. (Quit: Leaving.)
+[2014-04-02 11:52:51] santiycr, joining. (#ios-driver)
+[2014-04-02 11:54:26] jlipps1, joining. (#ios-driver)
