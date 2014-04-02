@@ -43,3 +43,5 @@
 [2014-04-02 15:04:23] santiycr, joining. (#ios-driver)
 [2014-04-02 15:16:47] psp250, quitting. (Remote host closed the connection)
 [2014-04-02 15:22:40] jlipps1, quitting. (Quit: Leaving.)
+[2014-04-02 15:31:15] rsalvador, quitting. (Ping timeout: 240 seconds)
+[2014-04-02 15:31:28] rsalvador, joining. (#ios-driver)
