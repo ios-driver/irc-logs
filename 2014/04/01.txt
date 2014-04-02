@@ -42,3 +42,4 @@
 [2014-04-01 17:53:36] jlipps, quitting. (Quit: Leaving.)
 [2014-04-01 17:59:39] rsalvador, joining. (#ios-driver)
 [2014-04-01 17:59:55] rsalvador, leaving. (#ios-driver)
+[2014-04-01 20:21:29] nirvdrum, quitting. (Ping timeout: 252 seconds)
