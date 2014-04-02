@@ -54,3 +54,5 @@
 [2014-04-02 16:04:01] santiycr1, quitting. (Ping timeout: 240 seconds)
 [2014-04-02 16:18:07] lukeis, quitting. (Quit: Leaving.)
 [2014-04-02 16:31:50] smccarthy, quitting. (Remote host closed the connection)
+[2014-04-02 16:47:37] rsalvador, quitting. (Ping timeout: 240 seconds)
+[2014-04-02 16:49:00] rsalvador, joining. (#ios-driver)
