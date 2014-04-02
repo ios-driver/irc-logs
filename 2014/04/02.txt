@@ -2,3 +2,8 @@
 [2014-04-02 04:55:37] nirvdrum, joining. (#ios-driver)
 [2014-04-02 08:19:28] lukeis, joining. (#ios-driver)
 [2014-04-02 08:24:09] smccarthy, joining. (#ios-driver)
+[2014-04-02 08:37:10] rsalvador, joining. (#ios-driver)
+[2014-04-02 08:38:55] ios-driver-git, joining. (#ios-driver)
+[2014-04-02 08:38:56] ios-driver-git: [ios-driver] progressnerd pushed 1 new commit to greg: http://git.io/Wtv_QA
+[2014-04-02 08:38:56] ios-driver-git: ios-driver/greg 29aa96c Greg Dennis: Multiple changes to improve ios-driver when driving mobile Safari on a real device.
+[2014-04-02 08:38:56] ios-driver-git, leaving. (#ios-driver)
