@@ -7,3 +7,6 @@
 [2014-04-02 08:38:56] ios-driver-git: [ios-driver] progressnerd pushed 1 new commit to greg: http://git.io/Wtv_QA
 [2014-04-02 08:38:56] ios-driver-git: ios-driver/greg 29aa96c Greg Dennis: Multiple changes to improve ios-driver when driving mobile Safari on a real device.
 [2014-04-02 08:38:56] ios-driver-git, leaving. (#ios-driver)
+[2014-04-02 08:40:12] ios-driver-git, joining. (#ios-driver)
+[2014-04-02 08:40:12] ios-driver-git: [ios-driver] progressnerd opened pull request #237: Multiple changes to improve ios-driver when for Mobile Safari on a real device. (dev...greg) http://git.io/SIGpnw
+[2014-04-02 08:40:12] ios-driver-git, leaving. (#ios-driver)
