@@ -10,3 +10,9 @@
 [2014-04-03 08:36:33] lukeis, joining. (#ios-driver)
 [2014-04-03 08:57:39] smccarthy, joining. (#ios-driver)
 [2014-04-03 10:03:58] jlipps, joining. (#ios-driver)
+[2014-04-03 10:15:26] WeissMike, joining. (#ios-driver)
+[2014-04-03 10:15:43] WeissMike: hi
+[2014-04-03 10:18:03] WeissMike: Are unminified versions of the atom files available anywhere?
+[2014-04-03 10:18:20] lukeis: in the Selenium project
+[2014-04-03 10:18:42] lukeis: https://github.com/SeleniumHQ/selenium/tree/master/javascript/atoms
+[2014-04-03 10:19:09] WeissMike: thanks
