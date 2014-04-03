@@ -38,3 +38,4 @@
 [2014-04-03 13:25:08] smccarthy, joining. (#ios-driver)
 [2014-04-03 13:52:28] jlipps, joining. (#ios-driver)
 [2014-04-03 14:15:20] jlipps, quitting. (Quit: Leaving.)
+[2014-04-03 14:29:33] nirvdrum_, changing nick to nirvdrum.
