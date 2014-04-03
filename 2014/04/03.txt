@@ -28,3 +28,4 @@
 [2014-04-03 10:26:52] lukeis: if you know javascript, the atoms are only that
 [2014-04-03 10:27:23] lukeis: i mention intellij just because we have the project setup for it and it allows you to 'click' through the methods
 [2014-04-03 10:29:02] lukeis: WeissMike: here's your entry point for get visible text:  https://github.com/SeleniumHQ/selenium/blob/master/javascript/atoms/dom.js#L1073
+[2014-04-03 10:30:29] WeissMike: Great! that helps a lot
