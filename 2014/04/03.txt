@@ -30,3 +30,4 @@
 [2014-04-03 10:29:02] lukeis: WeissMike: here's your entry point for get visible text:  https://github.com/SeleniumHQ/selenium/blob/master/javascript/atoms/dom.js#L1073
 [2014-04-03 10:30:29] WeissMike: Great! that helps a lot
 [2014-04-03 12:12:57] jlipps, quitting. (Quit: Leaving.)
+[2014-04-03 12:31:28] WeissMike, quitting. (Ping timeout: 245 seconds)
