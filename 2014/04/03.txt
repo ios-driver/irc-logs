@@ -40,3 +40,5 @@
 [2014-04-03 14:15:20] jlipps, quitting. (Quit: Leaving.)
 [2014-04-03 14:29:33] nirvdrum_, changing nick to nirvdrum.
 [2014-04-03 14:48:11] santiycr, joining. (#ios-driver)
+[2014-04-03 15:06:37] snover, joining. (#ios-driver)
+[2014-04-03 15:06:45] snover: how often is the snapshot updated?
