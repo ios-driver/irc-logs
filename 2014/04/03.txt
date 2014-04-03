@@ -32,3 +32,4 @@
 [2014-04-03 12:12:57] jlipps, quitting. (Quit: Leaving.)
 [2014-04-03 12:31:28] WeissMike, quitting. (Ping timeout: 245 seconds)
 [2014-04-03 12:58:57] smccarthy2, joining. (#ios-driver)
+[2014-04-03 13:02:05] smccarthy, quitting. (Ping timeout: 268 seconds)
