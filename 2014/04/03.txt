@@ -16,3 +16,7 @@
 [2014-04-03 10:18:20] lukeis: in the Selenium project
 [2014-04-03 10:18:42] lukeis: https://github.com/SeleniumHQ/selenium/tree/master/javascript/atoms
 [2014-04-03 10:19:09] WeissMike: thanks
+[2014-04-03 10:22:02] WeissMike: I'm trying to figure out why text inside spans aren't being returned for  ios-driver. Seems to work OK in other drivers.
+[2014-04-03 10:22:27] lukeis: the atoms that are in ios-driver are quite old if i remember correctly
+[2014-04-03 10:23:31] lukeis: oh, no, looks like françois updated them recently :)
+[2014-04-03 10:24:59] WeissMike: I "beautified" the visible text atom JS file, but it's still pretty ugly!
