@@ -20,3 +20,11 @@
 [2014-04-03 10:22:27] lukeis: the atoms that are in ios-driver are quite old if i remember correctly
 [2014-04-03 10:23:31] lukeis: oh, no, looks like françois updated them recently :)
 [2014-04-03 10:24:59] WeissMike: I "beautified" the visible text atom JS file, but it's still pretty ugly!
+[2014-04-03 10:25:04] lukeis: https://github.com/ios-driver/ios-driver/tree/dev/server/src/main/resources/atoms
+[2014-04-03 10:25:22] lukeis: that's because the generated atoms are from the closure compiler
+[2014-04-03 10:25:46] WeissMike: I figured, that's why I;m looking for the "source" of them
+[2014-04-03 10:25:53] lukeis: you'll want to get the selenium project and load it in IntelliJ for best debugging purposes :)
+[2014-04-03 10:26:34] WeissMike: Yeah, I'm not a Java programmer so I'm trying to avoid that
+[2014-04-03 10:26:52] lukeis: if you know javascript, the atoms are only that
+[2014-04-03 10:27:23] lukeis: i mention intellij just because we have the project setup for it and it allows you to 'click' through the methods
+[2014-04-03 10:29:02] lukeis: WeissMike: here's your entry point for get visible text:  https://github.com/SeleniumHQ/selenium/blob/master/javascript/atoms/dom.js#L1073
