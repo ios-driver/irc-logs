@@ -76,3 +76,4 @@
 [2014-04-02 20:35:19] mhluska: "org.openqa.selenium.SessionNotCreatedException: Cannot connect to the simulator socket on port 27753. Check that you don't have a firewall blocking it."
 [2014-04-02 20:35:21] mhluska: anyone get this before?
 [2014-04-02 20:39:37] nirvdrum, quitting. (Ping timeout: 240 seconds)
+[2014-04-02 20:48:37] mhluska, quitting. (Quit: Page closed)
