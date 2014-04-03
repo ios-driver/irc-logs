@@ -43,3 +43,4 @@
 [2014-04-03 15:06:37] snover, joining. (#ios-driver)
 [2014-04-03 15:06:45] snover: how often is the snapshot updated?
 [2014-04-03 15:42:04] snover, quitting. (Quit: Leaving.)
+[2014-04-03 16:06:00] lukeis, quitting. (Quit: Leaving.)
