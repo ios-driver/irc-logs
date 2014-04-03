@@ -77,3 +77,4 @@
 [2014-04-02 20:35:21] mhluska: anyone get this before?
 [2014-04-02 20:39:37] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2014-04-02 20:48:37] mhluska, quitting. (Quit: Page closed)
+[2014-04-02 22:00:04] smccarthy, quitting. (Remote host closed the connection)
