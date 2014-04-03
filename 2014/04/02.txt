@@ -72,3 +72,7 @@
 [2014-04-02 19:50:18] nirvdrum, joining. (#ios-driver)
 [2014-04-02 20:34:38] mhluska, joining. (#ios-driver)
 [2014-04-02 20:34:43] mhluska: hey guys
+[2014-04-02 20:35:17] mhluska: im having some port issues while running the ios selenium driver
+[2014-04-02 20:35:19] mhluska: "org.openqa.selenium.SessionNotCreatedException: Cannot connect to the simulator socket on port 27753. Check that you don't have a firewall blocking it."
+[2014-04-02 20:35:21] mhluska: anyone get this before?
+[2014-04-02 20:39:37] nirvdrum, quitting. (Ping timeout: 240 seconds)
