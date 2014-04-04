@@ -50,3 +50,4 @@
 [2014-04-03 17:19:29] santiycr, joining. (#ios-driver)
 [2014-04-03 17:23:04] santiycr, quitting. (Client Quit)
 [2014-04-03 17:37:30] smccarthy, joining. (#ios-driver)
+[2014-04-03 19:59:27] rsalvador, quitting. (Ping timeout: 255 seconds)
