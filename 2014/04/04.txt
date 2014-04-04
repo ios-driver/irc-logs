@@ -3,3 +3,6 @@
 [2014-04-04 00:49:00] snover, quitting. (Quit: Leaving.)
 [2014-04-04 05:37:09] nirvdrum, joining. (#ios-driver)
 [2014-04-04 07:03:44] psp250, joining. (#ios-driver)
+[2014-04-04 07:59:48] snover, joining. (#ios-driver)
+[2014-04-04 07:59:51] snover, quitting. (Changing host)
+[2014-04-04 07:59:51] snover, joining. (#ios-driver)
