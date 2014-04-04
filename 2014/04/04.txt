@@ -22,3 +22,4 @@
 [2014-04-04 13:05:11] nirvdrum, joining. (#ios-driver)
 [2014-04-04 13:21:59] lukeis1, changing nick to lukeis.
 [2014-04-04 13:48:00] santiycr, joining. (#ios-driver)
+[2014-04-04 14:34:17] lukeis, quitting. (Quit: Leaving.)
