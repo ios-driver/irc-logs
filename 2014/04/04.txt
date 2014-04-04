@@ -6,3 +6,4 @@
 [2014-04-04 07:59:48] snover, joining. (#ios-driver)
 [2014-04-04 07:59:51] snover, quitting. (Changing host)
 [2014-04-04 07:59:51] snover, joining. (#ios-driver)
+[2014-04-04 08:17:34] smccarthy, joining. (#ios-driver)
