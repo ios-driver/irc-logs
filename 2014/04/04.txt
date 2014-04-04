@@ -25,3 +25,5 @@
 [2014-04-04 14:34:17] lukeis, quitting. (Quit: Leaving.)
 [2014-04-04 15:02:52] santiycr1, joining. (#ios-driver)
 [2014-04-04 15:04:42] santiycr, quitting. (Ping timeout: 268 seconds)
+[2014-04-04 15:11:23] jlipps, quitting. (Quit: Leaving.)
+[2014-04-04 15:14:21] jlipps, joining. (#ios-driver)
