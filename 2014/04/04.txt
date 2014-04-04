@@ -20,3 +20,4 @@
 [2014-04-04 12:06:58] lukeis, quitting. (Ping timeout: 240 seconds)
 [2014-04-04 12:44:05] nirvdrum, quitting. (Read error: Connection reset by peer)
 [2014-04-04 13:05:11] nirvdrum, joining. (#ios-driver)
+[2014-04-04 13:21:59] lukeis1, changing nick to lukeis.
