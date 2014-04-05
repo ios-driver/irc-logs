@@ -7,3 +7,4 @@
 [2014-04-05 10:26:35] jlipps, quitting. (Quit: Leaving.)
 [2014-04-05 10:45:28] jlipps, joining. (#ios-driver)
 [2014-04-05 10:49:22] jlipps, quitting. (Client Quit)
+[2014-04-05 11:56:10] snover, joining. (#ios-driver)
