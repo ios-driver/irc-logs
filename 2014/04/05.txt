@@ -3,3 +3,4 @@
 [2014-04-05 00:59:36] samuelhorwitz, quitting. (Read error: Connection reset by peer)
 [2014-04-05 01:00:09] samuelhorwitz, joining. (#ios-driver)
 [2014-04-05 09:04:35] smccarthy, joining. (#ios-driver)
+[2014-04-05 09:44:21] jlipps, joining. (#ios-driver)
