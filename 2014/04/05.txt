@@ -4,3 +4,4 @@
 [2014-04-05 01:00:09] samuelhorwitz, joining. (#ios-driver)
 [2014-04-05 09:04:35] smccarthy, joining. (#ios-driver)
 [2014-04-05 09:44:21] jlipps, joining. (#ios-driver)
+[2014-04-05 10:26:35] jlipps, quitting. (Quit: Leaving.)
