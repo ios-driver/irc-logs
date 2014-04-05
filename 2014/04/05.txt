@@ -14,3 +14,4 @@
 [2014-04-05 13:46:54] scoba63, joining. (#ios-driver)
 [2014-04-05 14:28:33] scoba63, quitting. (Ping timeout: 245 seconds)
 [2014-04-05 14:40:13] snover, quitting. (Quit: Leaving.)
+[2014-04-05 15:55:14] jlipps, joining. (#ios-driver)
