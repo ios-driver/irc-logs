@@ -38,3 +38,4 @@
 [2014-04-04 17:49:43] rsalvador, leaving. (#ios-driver)
 [2014-04-04 17:57:07] rsalvador1, joining. (#ios-driver)
 [2014-04-04 17:58:18] jlipps, quitting. (Quit: Leaving.)
+[2014-04-04 18:14:57] rsalvador1, quitting. (Quit: Leaving.)
