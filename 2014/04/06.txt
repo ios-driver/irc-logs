@@ -7,3 +7,4 @@
 [2014-04-06 11:32:53] smccarthy, joining. (#ios-driver)
 [2014-04-06 11:42:56] jlipps, quitting. (Quit: Leaving.)
 [2014-04-06 13:28:57] smccarthy, quitting. (Remote host closed the connection)
+[2014-04-06 13:40:06] samuelho_, joining. (#ios-driver)
