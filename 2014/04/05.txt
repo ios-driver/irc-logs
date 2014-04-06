@@ -16,3 +16,5 @@
 [2014-04-05 14:40:13] snover, quitting. (Quit: Leaving.)
 [2014-04-05 15:55:14] jlipps, joining. (#ios-driver)
 [2014-04-05 16:50:29] jlipps, quitting. (Quit: Leaving.)
+[2014-04-05 20:10:11] smccarthy, quitting. (Read error: Connection reset by peer)
+[2014-04-05 20:10:43] smccarthy, joining. (#ios-driver)
