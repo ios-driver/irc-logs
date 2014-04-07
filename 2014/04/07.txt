@@ -6,3 +6,4 @@
 [2014-04-07 11:08:30] gdennis, joining. (#ios-driver)
 [2014-04-07 12:19:52] smccarthy2, quitting. (Remote host closed the connection)
 [2014-04-07 12:20:26] smccarthy, joining. (#ios-driver)
+[2014-04-07 12:42:13] smccarthy, quitting. (Remote host closed the connection)
