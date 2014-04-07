@@ -17,3 +17,4 @@
 [2014-04-07 14:03:22] nirvdrum, joining. (#ios-driver)
 [2014-04-07 14:07:53] smccarthy, joining. (#ios-driver)
 [2014-04-07 14:27:35] smccarthy2, joining. (#ios-driver)
+[2014-04-07 14:31:30] smccarthy, quitting. (Ping timeout: 255 seconds)
