@@ -8,3 +8,7 @@
 [2014-04-07 12:20:26] smccarthy, joining. (#ios-driver)
 [2014-04-07 12:42:13] smccarthy, quitting. (Remote host closed the connection)
 [2014-04-07 12:46:11] nirvdrum_, joining. (#ios-driver)
+[2014-04-07 12:51:18] samuelho_, changing nick to samuelhorwitz.
+[2014-04-07 12:54:17] samuelhorwitz, changing nick to samuelhorwitz_.
+[2014-04-07 12:54:45] samuelhorwitz_, changing nick to samuelhorwitz__.
+[2014-04-07 12:54:51] samuelhorwitz__, changing nick to samuelhorwitz.
