@@ -1,2 +1,3 @@
 [2014-04-07 05:00:00] dgrace, quitting. (Quit: Connection closed for inactivity)
 [2014-04-07 07:24:33] nirvdrum, joining. (#ios-driver)
+[2014-04-07 08:39:27] smccarthy, joining. (#ios-driver)
