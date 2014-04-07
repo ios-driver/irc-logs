@@ -12,3 +12,4 @@
 [2014-04-07 12:54:17] samuelhorwitz, changing nick to samuelhorwitz_.
 [2014-04-07 12:54:45] samuelhorwitz_, changing nick to samuelhorwitz__.
 [2014-04-07 12:54:51] samuelhorwitz__, changing nick to samuelhorwitz.
+[2014-04-07 13:54:59] gdennis, leaving. (#ios-driver)
