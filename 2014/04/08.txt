@@ -2,3 +2,8 @@
 [2014-04-08 01:34:14] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/FYSk-Q
 [2014-04-08 01:34:14] ios-driver-git, leaving. (#ios-driver)
 [2014-04-08 01:34:14] ios-driver-git: ios-driver/dev 126aec5 François Reynaud: Merge pull request #237 from ios-driver/greg...
+[2014-04-08 02:37:23] samuelhorwitz, quitting. (Read error: Connection reset by peer)
+[2014-04-08 02:37:59] samuelhorwitz, joining. (#ios-driver)
+[2014-04-08 02:39:09] AutomatedTester, quitting. (*.net *.split)
+[2014-04-08 02:39:39] AutomatedTester, joining. (#ios-driver)
+[2014-04-08 02:39:44] AutomatedTester, quitting. (*.net *.split)
