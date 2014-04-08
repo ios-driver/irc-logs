@@ -17,3 +17,4 @@
 [2014-04-08 03:28:02] gdennis, quitting. (Changing host)
 [2014-04-08 03:28:02] gdennis, joining. (#ios-driver)
 [2014-04-08 03:40:28] ios-driverbot, joining. (#ios-driver)
+[2014-04-08 03:49:41] dgrace, joining. (#ios-driver)
