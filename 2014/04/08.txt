@@ -32,3 +32,9 @@
 [2014-04-08 07:45:10] samuelhorwitz, quitting. (*.net *.split)
 [2014-04-08 07:49:11] samuelhorwitz, joining. (#ios-driver)
 [2014-04-08 08:24:41] lukeis, joining. (#ios-driver)
+[2014-04-08 08:52:30] TomC, joining. (#ios-driver)
+[2014-04-08 08:52:44] TomC: hi
+[2014-04-08 08:53:02] TomC: I;m new to ios-driver, trying to get the enviro set up on my mac
+[2014-04-08 08:53:23] TomC: so i'm pleading newbie :)
+[2014-04-08 08:53:45] TomC: i want to use ios-driver for automated WEB testing only
+[2014-04-08 08:53:53] TomC: i do not need to test any iOS APPS
