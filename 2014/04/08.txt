@@ -10,3 +10,5 @@
 [2014-04-08 02:40:39] AutomatedTester, joining. (#ios-driver)
 [2014-04-08 03:03:33] dmarr, quitting. (*.net *.split)
 [2014-04-08 03:03:43] gdennis, joining. (#ios-driver)
+[2014-04-08 03:15:53] gdennis, quitting. (Ping timeout: 264 seconds)
+[2014-04-08 03:19:44] dmarr, joining. (#ios-driver)
