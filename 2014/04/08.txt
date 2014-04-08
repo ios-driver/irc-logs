@@ -39,3 +39,9 @@
 [2014-04-08 08:53:45] TomC: i want to use ios-driver for automated WEB testing only
 [2014-04-08 08:53:53] TomC: i do not need to test any iOS APPS
 [2014-04-08 09:02:18] smccarthy, joining. (#ios-driver)
+[2014-04-08 09:13:35] TomC: as per the instructions on this page
+[2014-04-08 09:13:51] TomC: http://ios-driver.github.io/ios-driver/?page=scaling
+[2014-04-08 09:14:01] TomC: i've launched the following
+[2014-04-08 09:14:13] TomC: java -cp ios-grid-0.6.6-SNAPSHOT.jar:selenium-server-standalone-2.40.0.jar org.openqa.grid.selenium.GridLauncher -role hub
+[2014-04-08 09:14:19] TomC: and
+[2014-04-08 09:14:47] TomC: java -jar ios-server-standalone-0.6.6-SNAPSHOT.jar -hub http://999.888.777.555:4444/grid/register -proxy org.uiautomation.ios.grid.IOSRemoteProxy -host 999.888.777.555:4444 -port 5555
