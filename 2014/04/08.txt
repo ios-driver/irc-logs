@@ -22,3 +22,5 @@
 [2014-04-08 04:08:43] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/xpRkdg
 [2014-04-08 04:08:43] ios-driver-git, leaving. (#ios-driver)
 [2014-04-08 04:08:43] ios-driver-git: ios-driver/dev 643eefa freynaud: removing jai dependency for now.
+[2014-04-08 05:17:04] dmarr, quitting. (Ping timeout: 252 seconds)
+[2014-04-08 05:18:54] gdennis, quitting. (Ping timeout: 252 seconds)
