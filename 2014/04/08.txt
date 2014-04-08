@@ -58,3 +58,4 @@
 [2014-04-08 11:34:09] rsalvador, joining. (#ios-driver)
 [2014-04-08 11:40:55] smccarthy2, joining. (#ios-driver)
 [2014-04-08 11:44:38] smccarthy, quitting. (Ping timeout: 246 seconds)
+[2014-04-08 11:57:12] WeissMike, joining. (#ios-driver)
