@@ -50,3 +50,4 @@
 [2014-04-08 09:15:16] TomC: http://0.0.0.0:4444/grid/console
 [2014-04-08 09:15:23] TomC: no devices are registered
 [2014-04-08 09:15:28] TomC: any ideas?
+[2014-04-08 09:48:07] TomC, quitting. (Remote host closed the connection)
