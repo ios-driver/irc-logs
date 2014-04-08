@@ -52,3 +52,5 @@
 [2014-04-08 09:15:28] TomC: any ideas?
 [2014-04-08 09:48:07] TomC, quitting. (Remote host closed the connection)
 [2014-04-08 09:59:36] rsalvador, joining. (#ios-driver)
+[2014-04-08 11:20:18] rsalvador, quitting. (Quit: Leaving.)
+[2014-04-08 11:20:29] rsalvador, joining. (#ios-driver)
