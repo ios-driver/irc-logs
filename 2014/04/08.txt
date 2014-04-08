@@ -12,3 +12,7 @@
 [2014-04-08 03:03:43] gdennis, joining. (#ios-driver)
 [2014-04-08 03:15:53] gdennis, quitting. (Ping timeout: 264 seconds)
 [2014-04-08 03:19:44] dmarr, joining. (#ios-driver)
+[2014-04-08 03:27:11] ios-driverbot, joining. (#ios-driver)
+[2014-04-08 03:27:36] gdennis, joining. (#ios-driver)
+[2014-04-08 03:28:02] gdennis, quitting. (Changing host)
+[2014-04-08 03:28:02] gdennis, joining. (#ios-driver)
