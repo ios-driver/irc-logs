@@ -70,3 +70,5 @@
 [2014-04-08 14:02:53] WeissMike, quitting. (Remote host closed the connection)
 [2014-04-08 15:07:14] lukeis, quitting. (Quit: Leaving.)
 [2014-04-08 15:47:37] modeck, quitting. (Quit: ChatZilla 0.9.90.1 [Firefox 28.0/20140314220517])
+[2014-04-08 16:35:55] smccarthy2, quitting. (Remote host closed the connection)
+[2014-04-08 16:37:41] smccarthy2, joining. (#ios-driver)
