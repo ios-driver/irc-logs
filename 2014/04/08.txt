@@ -27,3 +27,5 @@
 [2014-04-08 05:20:40] nirvdrum, joining. (#ios-driver)
 [2014-04-08 05:21:44] gdennis, joining. (#ios-driver)
 [2014-04-08 05:24:17] dmarr, joining. (#ios-driver)
+[2014-04-08 06:37:14] nirvdrum, quitting. (Quit: Leaving)
+[2014-04-08 06:37:42] nirvdrum, joining. (#ios-driver)
