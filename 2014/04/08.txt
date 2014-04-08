@@ -64,3 +64,5 @@
 [2014-04-08 12:32:32] rsalvador, joining. (#ios-driver)
 [2014-04-08 12:34:29] rsalvador, quitting. (Client Quit)
 [2014-04-08 12:34:44] rsalvador, joining. (#ios-driver)
+[2014-04-08 12:36:29] rsalvador, quitting. (Client Quit)
+[2014-04-08 12:37:19] rsalvador, joining. (#ios-driver)
