@@ -59,3 +59,4 @@
 [2014-04-08 11:40:55] smccarthy2, joining. (#ios-driver)
 [2014-04-08 11:44:38] smccarthy, quitting. (Ping timeout: 246 seconds)
 [2014-04-08 11:57:12] WeissMike, joining. (#ios-driver)
+[2014-04-08 12:00:30] WeissMike: I’m having trouble with a security prompt from Instruments when starting a test. I solved this on my laptop by removing the newest xcode and replacing it with 5.0.3 (at least this was the last thing I did when it started working). HOWEVER, on a virtual machine I installed that same xcode and I’m getting the prompt again. Any ideas? I’ve goofed with the etc/authorization, but that hasn’t helped.
