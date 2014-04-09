@@ -1,3 +1,8 @@
 [2014-04-09 01:14:33] TomC, joining. (#ios-driver)
 [2014-04-09 01:29:26] TomC: hello
 [2014-04-09 01:29:28] TomC: anyone there?
+[2014-04-09 01:30:17] TomC: most users on this channel are prob somewhere in USA, so now might not be a good time?
+[2014-04-09 01:30:27] TomC: (I'm in Ireland)
+[2014-04-09 01:31:59] TomC: i'm trying to get the ios-driver enviro set up
+[2014-04-09 01:32:09] TomC: for mobile web testing ONLY
+[2014-04-09 01:32:16] TomC: i do NOT need to test any apps
