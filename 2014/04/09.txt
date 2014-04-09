@@ -1,1 +1,3 @@
 [2014-04-09 01:14:33] TomC, joining. (#ios-driver)
+[2014-04-09 01:29:26] TomC: hello
+[2014-04-09 01:29:28] TomC: anyone there?
