@@ -7,3 +7,5 @@
 [2014-04-09 01:32:09] TomC: for mobile web testing ONLY
 [2014-04-09 01:32:16] TomC: i do NOT need to test any apps
 [2014-04-09 01:35:04] TomC: will try again later...
+[2014-04-09 02:36:55] TomC, quitting. (Ping timeout: 240 seconds)
+[2014-04-09 02:37:14] TomC, joining. (#ios-driver)
