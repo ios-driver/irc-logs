@@ -9,3 +9,5 @@
 [2014-04-09 01:35:04] TomC: will try again later...
 [2014-04-09 02:36:55] TomC, quitting. (Ping timeout: 240 seconds)
 [2014-04-09 02:37:14] TomC, joining. (#ios-driver)
+[2014-04-09 05:06:55] cava, joining. (#ios-driver)
+[2014-04-09 05:07:34] cava: hey guys! do you have a sec?
