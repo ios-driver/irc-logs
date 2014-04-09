@@ -26,3 +26,5 @@
 [2014-04-09 08:36:07] TomC, quitting. (Ping timeout: 240 seconds)
 [2014-04-09 08:40:37] TomC, joining. (#ios-driver)
 [2014-04-09 09:59:02] TomC, quitting. (Quit: ChatZilla 0.9.90.1 [Firefox 28.0/20140314220517])
+[2014-04-09 10:00:16] smccarthy2, joining. (#ios-driver)
+[2014-04-09 10:03:44] smccarthy, quitting. (Ping timeout: 246 seconds)
