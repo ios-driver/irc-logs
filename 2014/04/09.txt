@@ -16,3 +16,4 @@
 [2014-04-09 05:26:25] psp250, quitting. (Quit: Leaving)
 [2014-04-09 05:32:57] cava, quitting. (Quit: Page closed)
 [2014-04-09 06:01:43] TomC, quitting. (Ping timeout: 240 seconds)
+[2014-04-09 06:08:02] TomC, joining. (#ios-driver)
