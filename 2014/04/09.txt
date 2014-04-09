@@ -19,3 +19,7 @@
 [2014-04-09 06:08:02] TomC, joining. (#ios-driver)
 [2014-04-09 08:00:50] nirvdrum, joining. (#ios-driver)
 [2014-04-09 08:05:40] smccarthy, joining. (#ios-driver)
+[2014-04-09 08:25:10] rsalvador, joining. (#ios-driver)
+[2014-04-09 08:25:10] rsalvador, quitting. (Client Quit)
+[2014-04-09 08:25:43] rsalvador, joining. (#ios-driver)
+[2014-04-09 08:29:23] lukeis, joining. (#ios-driver)
