@@ -6,3 +6,4 @@
 [2014-04-09 01:31:59] TomC: i'm trying to get the ios-driver enviro set up
 [2014-04-09 01:32:09] TomC: for mobile web testing ONLY
 [2014-04-09 01:32:16] TomC: i do NOT need to test any apps
+[2014-04-09 01:35:04] TomC: will try again later...
