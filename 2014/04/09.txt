@@ -24,3 +24,4 @@
 [2014-04-09 08:25:43] rsalvador, joining. (#ios-driver)
 [2014-04-09 08:29:23] lukeis, joining. (#ios-driver)
 [2014-04-09 08:36:07] TomC, quitting. (Ping timeout: 240 seconds)
+[2014-04-09 08:40:37] TomC, joining. (#ios-driver)
