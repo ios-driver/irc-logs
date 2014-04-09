@@ -14,3 +14,4 @@
 [2014-04-09 05:13:46] cava, quitting. (Quit: Page closed)
 [2014-04-09 05:15:11] cava, joining. (#ios-driver)
 [2014-04-09 05:26:25] psp250, quitting. (Quit: Leaving)
+[2014-04-09 05:32:57] cava, quitting. (Quit: Page closed)
