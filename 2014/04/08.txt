@@ -74,3 +74,4 @@
 [2014-04-08 16:37:41] smccarthy2, joining. (#ios-driver)
 [2014-04-08 17:34:37] smccarthy2, quitting. (Remote host closed the connection)
 [2014-04-08 17:38:44] rsalvador, quitting. (Quit: Leaving.)
+[2014-04-08 17:42:45] rsalvador, joining. (#ios-driver)
