@@ -76,3 +76,4 @@
 [2014-04-08 17:38:44] rsalvador, quitting. (Quit: Leaving.)
 [2014-04-08 17:42:45] rsalvador, joining. (#ios-driver)
 [2014-04-08 18:15:21] rsalvador, quitting. (Ping timeout: 250 seconds)
+[2014-04-08 18:28:45] nirvdrum, quitting. (Read error: Connection reset by peer)
