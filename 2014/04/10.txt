@@ -4,3 +4,5 @@
 [2014-04-10 08:19:24] rsalvador, joining. (#ios-driver)
 [2014-04-10 08:49:53] smccarthy, joining. (#ios-driver)
 [2014-04-10 08:55:09] jlipps, joining. (#ios-driver)
+[2014-04-10 11:18:10] jlipps, quitting. (Quit: Leaving.)
+[2014-04-10 11:18:24] jlipps, joining. (#ios-driver)
