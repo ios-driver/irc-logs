@@ -18,3 +18,4 @@
 [2014-04-10 13:18:41] nirvdrum, joining. (#ios-driver)
 [2014-04-10 14:43:06] samuelho_, joining. (#ios-driver)
 [2014-04-10 14:43:06] samuelhorwitz, quitting. (Read error: Connection reset by peer)
+[2014-04-10 16:21:31] lukeis, quitting. (Quit: Leaving.)
