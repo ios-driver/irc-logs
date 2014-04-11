@@ -38,3 +38,4 @@
 [2014-04-10 21:48:01] rsalvador, quitting. (Ping timeout: 245 seconds)
 [2014-04-10 21:55:45] scoba63, joining. (#ios-driver)
 [2014-04-10 21:56:12] scoba63: Anyone online?
+[2014-04-10 22:02:48] scoba63, quitting. (Ping timeout: 240 seconds)
