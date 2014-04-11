@@ -20,3 +20,4 @@
 [2014-04-10 14:43:06] samuelhorwitz, quitting. (Read error: Connection reset by peer)
 [2014-04-10 16:21:31] lukeis, quitting. (Quit: Leaving.)
 [2014-04-10 16:55:48] smccarthy, quitting. (Remote host closed the connection)
+[2014-04-10 17:28:18] rsalvador, quitting. (Ping timeout: 240 seconds)
