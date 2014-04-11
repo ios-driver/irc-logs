@@ -29,3 +29,5 @@
 [2014-04-10 19:54:14] nirvdrum, quitting. (Ping timeout: 258 seconds)
 [2014-04-10 20:04:48] freynaud___, quitting. (Read error: Connection reset by peer)
 [2014-04-10 20:05:12] freynaud___, joining. (#ios-driver)
+[2014-04-10 20:24:34] scoba63, joining. (#ios-driver)
+[2014-04-10 20:24:50] scoba63: Anyone actually online?
