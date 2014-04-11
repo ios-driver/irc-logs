@@ -10,3 +10,4 @@
 [2014-04-11 10:37:11] psp250, joining. (#ios-driver)
 [2014-04-11 11:20:08] rsalvador, quitting. (Quit: Leaving.)
 [2014-04-11 11:20:23] rsalvador, joining. (#ios-driver)
+[2014-04-11 12:29:15] jlipps, quitting. (Quit: Leaving.)
