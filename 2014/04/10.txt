@@ -25,3 +25,5 @@
 [2014-04-10 17:52:40] scoba63: Hi, François! Will iOS-driver 0.6.6 be officially released soon?
 [2014-04-10 17:56:48] scoba63, quitting. (Ping timeout: 240 seconds)
 [2014-04-10 18:52:31] smccarthy, joining. (#ios-driver)
+[2014-04-10 19:53:30] jlipps, quitting. (Quit: Leaving.)
+[2014-04-10 19:54:14] nirvdrum, quitting. (Ping timeout: 258 seconds)
