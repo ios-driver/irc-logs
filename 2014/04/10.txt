@@ -36,3 +36,5 @@
 [2014-04-10 21:24:57] smccarthy, quitting. (Remote host closed the connection)
 [2014-04-10 21:39:29] rsalvador, joining. (#ios-driver)
 [2014-04-10 21:48:01] rsalvador, quitting. (Ping timeout: 245 seconds)
+[2014-04-10 21:55:45] scoba63, joining. (#ios-driver)
+[2014-04-10 21:56:12] scoba63: Anyone online?
