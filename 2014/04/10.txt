@@ -22,3 +22,4 @@
 [2014-04-10 16:55:48] smccarthy, quitting. (Remote host closed the connection)
 [2014-04-10 17:28:18] rsalvador, quitting. (Ping timeout: 240 seconds)
 [2014-04-10 17:49:37] scoba63, joining. (#ios-driver)
+[2014-04-10 17:52:40] scoba63: Hi, François! Will iOS-driver 0.6.6 be officially released soon?
