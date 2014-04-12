@@ -1,3 +1,4 @@
 [2014-04-12 03:54:29] psp250, joining. (#ios-driver)
 [2014-04-12 07:20:38] nirvdrum, joining. (#ios-driver)
 [2014-04-12 08:26:28] smccarthy, joining. (#ios-driver)
+[2014-04-12 11:43:50] nirvdrum, quitting. (Ping timeout: 252 seconds)
