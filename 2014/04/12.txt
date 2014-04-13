@@ -19,3 +19,4 @@
 [2014-04-12 22:18:11] dgrace, joining. (#ios-driver)
 [2014-04-12 22:18:11] nicegraham__, joining. (#ios-driver)
 [2014-04-12 22:18:24] dmarr, joining. (#ios-driver)
+[2014-04-12 23:53:27] smccarthy, quitting. (Remote host closed the connection)
