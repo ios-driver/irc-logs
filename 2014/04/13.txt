@@ -2,3 +2,4 @@
 [2014-04-13 08:05:05] smccarthy, joining. (#ios-driver)
 [2014-04-13 13:38:23] jlipps, joining. (#ios-driver)
 [2014-04-13 13:42:45] jlipps, quitting. (Client Quit)
+[2014-04-13 13:49:16] psp250, quitting. (Quit: Leaving)
