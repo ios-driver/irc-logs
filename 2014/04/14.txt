@@ -28,3 +28,13 @@
 [2014-04-14 14:30:41] jlipps, joining. (#ios-driver)
 [2014-04-14 14:33:08] jlipps1, quitting. (Ping timeout: 276 seconds)
 [2014-04-14 14:34:56] scoba63: Does anyone know when a new official build will be released?
+[2014-04-14 14:36:19] ios-driver-git, joining. (#ios-driver)
+[2014-04-14 14:36:19] ios-driver-git: [ios-driver] rsalvador created sfdc-specific (+4 new commits): http://git.io/a24ysQ
+[2014-04-14 14:36:19] ios-driver-git: ios-driver/sfdc-specific be3a500 rsalvador: Set interKeyDelay for keyboard to avoid problems typing in sauce.
+[2014-04-14 14:36:19] ios-driver-git, leaving. (#ios-driver)
+[2014-04-14 14:36:19] ios-driver-git: ios-driver/sfdc-specific d8e9624 rsalvador: Should use higher default TIMEOUT for SauceLabs.
+[2014-04-14 14:36:19] ios-driver-git: ios-driver/sfdc-specific 8be718e rsalvador: Added ExecuteHostHandler.java
+[2014-04-14 14:36:34] ios-driver-git, joining. (#ios-driver)
+[2014-04-14 14:36:34] ios-driver-git: [ios-driver] rsalvador deleted sfdc-specific at 56e9a61: http://git.io/Md2hAA
+[2014-04-14 14:36:34] ios-driver-git, leaving. (#ios-driver)
+[2014-04-14 14:37:23] scoba63: Does anyone know when a new official build will be released?
