@@ -11,3 +11,4 @@
 [2014-04-13 18:16:17] scoba63: When is version 0.6.6 going to be released?
 [2014-04-13 19:29:04] nirvdrum, joining. (#ios-driver)
 [2014-04-13 21:08:29] nirvdrum, quitting. (Ping timeout: 240 seconds)
+[2014-04-13 21:30:43] smccarthy, quitting. (Remote host closed the connection)
