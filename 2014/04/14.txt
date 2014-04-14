@@ -20,3 +20,4 @@
 [2014-04-14 13:04:42] rsalvador, joining. (#ios-driver)
 [2014-04-14 13:06:52] rsalvador, quitting. (Client Quit)
 [2014-04-14 13:07:04] rsalvador, joining. (#ios-driver)
+[2014-04-14 13:25:07] samuelhorwitz, joining. (#ios-driver)
