@@ -25,3 +25,6 @@
 [2014-04-14 13:39:17] jlipps, quitting. (Ping timeout: 240 seconds)
 [2014-04-14 13:48:19] rsalvador, leaving. (#ios-driver)
 [2014-04-14 14:11:57] scoba63: Does anyone know when a new official build will be released?
+[2014-04-14 14:30:41] jlipps, joining. (#ios-driver)
+[2014-04-14 14:33:08] jlipps1, quitting. (Ping timeout: 276 seconds)
+[2014-04-14 14:34:56] scoba63: Does anyone know when a new official build will be released?
