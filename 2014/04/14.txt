@@ -48,3 +48,4 @@
 [2014-04-14 15:26:55] AutomatedTester: so might not be able to answer now
 [2014-04-14 15:40:35] scoba63: It would be great if they posted some sort of update bulletin
 [2014-04-14 15:44:07] jlipps, quitting. (Ping timeout: 265 seconds)
+[2014-04-14 15:56:51] jlipps, joining. (#ios-driver)
