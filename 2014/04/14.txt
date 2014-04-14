@@ -38,3 +38,7 @@
 [2014-04-14 14:36:34] ios-driver-git: [ios-driver] rsalvador deleted sfdc-specific at 56e9a61: http://git.io/Md2hAA
 [2014-04-14 14:36:34] ios-driver-git, leaving. (#ios-driver)
 [2014-04-14 14:37:23] scoba63: Does anyone know when a new official build will be released?
+[2014-04-14 14:46:31] ios-driver-git, joining. (#ios-driver)
+[2014-04-14 14:46:31] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/lPrn5Q
+[2014-04-14 14:46:31] ios-driver-git: ios-driver/dev 3459689 rsalvador: Support for Xcode 5.1.1
+[2014-04-14 14:46:31] ios-driver-git, leaving. (#ios-driver)
