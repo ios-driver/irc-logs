@@ -6,3 +6,4 @@
 [2014-04-13 15:43:29] jlipps, joining. (#ios-driver)
 [2014-04-13 15:51:20] jlipps, quitting. (Quit: Leaving.)
 [2014-04-13 17:03:39] nirvdrum, joining. (#ios-driver)
+[2014-04-13 17:13:40] scoba63, joining. (#ios-driver)
