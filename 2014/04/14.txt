@@ -42,3 +42,5 @@
 [2014-04-14 14:46:31] ios-driver-git: [ios-driver] rsalvador pushed 1 new commit to dev: http://git.io/lPrn5Q
 [2014-04-14 14:46:31] ios-driver-git: ios-driver/dev 3459689 rsalvador: Support for Xcode 5.1.1
 [2014-04-14 14:46:31] ios-driver-git, leaving. (#ios-driver)
+[2014-04-14 15:22:16] samuelhorwitz, quitting. (Remote host closed the connection)
+[2014-04-14 15:23:27] scoba63: Does anyone know when a new official build will be released?
