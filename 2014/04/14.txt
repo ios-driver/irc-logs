@@ -10,3 +10,5 @@
 [2014-04-14 10:31:53] scoba63: anybody awake?
 [2014-04-14 11:27:03] rsalvador, quitting. (Quit: Leaving.)
 [2014-04-14 11:27:20] rsalvador, joining. (#ios-driver)
+[2014-04-14 11:35:30] rsalvador, quitting. (Quit: Leaving.)
+[2014-04-14 11:35:41] rsalvador, joining. (#ios-driver)
