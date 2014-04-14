@@ -44,3 +44,5 @@
 [2014-04-14 14:46:31] ios-driver-git, leaving. (#ios-driver)
 [2014-04-14 15:22:16] samuelhorwitz, quitting. (Remote host closed the connection)
 [2014-04-14 15:23:27] scoba63: Does anyone know when a new official build will be released?
+[2014-04-14 15:26:48] AutomatedTester: scoba63: the core team are based in Europe
+[2014-04-14 15:26:55] AutomatedTester: so might not be able to answer now
