@@ -2,3 +2,5 @@
 [2014-04-14 08:25:50] nirvdrum, joining. (#ios-driver)
 [2014-04-14 08:57:54] samuelho_, quitting. (Ping timeout: 240 seconds)
 [2014-04-14 08:59:14] samuelhorwitz, joining. (#ios-driver)
+[2014-04-14 09:03:31] samuelhorwitz, quitting. (Ping timeout: 250 seconds)
+[2014-04-14 09:04:36] samuelhorwitz, joining. (#ios-driver)
