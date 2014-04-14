@@ -8,3 +8,4 @@
 [2014-04-13 17:03:39] nirvdrum, joining. (#ios-driver)
 [2014-04-13 17:13:40] scoba63, joining. (#ios-driver)
 [2014-04-13 18:07:41] nirvdrum, quitting. (Ping timeout: 240 seconds)
+[2014-04-13 18:16:17] scoba63: When is version 0.6.6 going to be released?
