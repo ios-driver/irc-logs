@@ -18,3 +18,5 @@
 [2014-04-14 12:27:48] rsalvador, quitting. (Ping timeout: 245 seconds)
 [2014-04-14 12:51:00] samuelhorwitz, quitting. (Remote host closed the connection)
 [2014-04-14 13:04:42] rsalvador, joining. (#ios-driver)
+[2014-04-14 13:06:52] rsalvador, quitting. (Client Quit)
+[2014-04-14 13:07:04] rsalvador, joining. (#ios-driver)
