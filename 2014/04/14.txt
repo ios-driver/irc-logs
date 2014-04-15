@@ -64,3 +64,4 @@
 [2014-04-14 21:11:30] freynaud___, quitting. (Ping timeout: 240 seconds)
 [2014-04-14 22:08:04] jlipps, joining. (#ios-driver)
 [2014-04-14 22:31:59] freynaud___, joining. (#ios-driver)
+[2014-04-14 23:06:03] jlipps, quitting. (Quit: Leaving.)
