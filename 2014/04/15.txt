@@ -7,3 +7,5 @@
 [2014-04-15 06:20:02] freynaud___, joining. (#ios-driver)
 [2014-04-15 06:20:15] dgrace, joining. (#ios-driver)
 [2014-04-15 07:24:03] samuelhorwitz, joining. (#ios-driver)
+[2014-04-15 10:02:11] jlipps, joining. (#ios-driver)
+[2014-04-15 10:04:21] santiycr, joining. (#ios-driver)
