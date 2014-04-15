@@ -67,3 +67,6 @@
 [2014-04-14 23:06:03] jlipps, quitting. (Quit: Leaving.)
 [2014-04-14 23:29:30] dmarr, quitting. (Ping timeout: 252 seconds)
 [2014-04-14 23:33:52] dmarr, joining. (#ios-driver)
+[2014-04-14 23:36:59] Ram_, joining. (#ios-driver)
+[2014-04-14 23:37:10] Ram_: Hai Everyone
+[2014-04-14 23:37:47] Ram_: Could someone help me in install this ios-driver?
