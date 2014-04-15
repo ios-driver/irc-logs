@@ -22,3 +22,5 @@
 [2014-04-15 13:09:18] rsalvador, joining. (#ios-driver)
 [2014-04-15 13:09:42] rsalvador, quitting. (Client Quit)
 [2014-04-15 13:09:53] rsalvador, joining. (#ios-driver)
+[2014-04-15 13:23:25] rsalvador, quitting. (Quit: Leaving.)
+[2014-04-15 13:23:39] rsalvador, joining. (#ios-driver)
