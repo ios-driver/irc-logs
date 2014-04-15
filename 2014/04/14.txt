@@ -54,3 +54,4 @@
 [2014-04-14 16:09:57] nirvdrum, quitting. (Ping timeout: 258 seconds)
 [2014-04-14 16:55:26] AutomatedTester, quitting. (Changing host)
 [2014-04-14 16:55:26] AutomatedTester, joining. (#ios-driver)
+[2014-04-14 17:02:47] jlipps1, quitting. (Quit: Leaving.)
