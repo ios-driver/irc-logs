@@ -1,2 +1,5 @@
 [2014-04-15 00:29:18] Ram_, quitting. (Ping timeout: 240 seconds)
 [2014-04-15 05:43:55] nirvdrum, joining. (#ios-driver)
+[2014-04-15 05:53:39] freynaud___, quitting. (Remote host closed the connection)
+[2014-04-15 05:53:41] nicegraham__, quitting. (Remote host closed the connection)
+[2014-04-15 05:53:42] dgrace, quitting. (Remote host closed the connection)
