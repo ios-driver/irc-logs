@@ -56,3 +56,4 @@
 [2014-04-14 16:55:26] AutomatedTester, joining. (#ios-driver)
 [2014-04-14 17:02:47] jlipps1, quitting. (Quit: Leaving.)
 [2014-04-14 17:07:50] jlipps, joining. (#ios-driver)
+[2014-04-14 18:52:23] jlipps, quitting. (Quit: Leaving.)
