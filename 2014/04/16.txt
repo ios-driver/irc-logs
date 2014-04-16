@@ -5,3 +5,4 @@
 [2014-04-16 08:16:53] gdennis, joining. (#ios-driver)
 [2014-04-16 09:15:49] lukeis, joining. (#ios-driver)
 [2014-04-16 09:25:31] santiycr, joining. (#ios-driver)
+[2014-04-16 10:01:01] jlipps, joining. (#ios-driver)
