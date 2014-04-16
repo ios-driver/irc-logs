@@ -25,3 +25,4 @@
 [2014-04-16 14:20:04] samuelhorwitz, joining. (#ios-driver)
 [2014-04-16 14:36:22] santiycr, quitting. (Quit: Leaving.)
 [2014-04-16 14:44:55] santiycr, joining. (#ios-driver)
+[2014-04-16 15:13:17] santiycr, quitting. (Quit: Leaving.)
