@@ -16,3 +16,4 @@
 [2014-04-16 11:19:29] jlipps, joining. (#ios-driver)
 [2014-04-16 11:55:06] jlipps, quitting. (Quit: Leaving.)
 [2014-04-16 12:02:18] jlipps, joining. (#ios-driver)
+[2014-04-16 13:08:04] santiycr, quitting. (Quit: Leaving.)
