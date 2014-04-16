@@ -19,3 +19,4 @@
 [2014-04-16 13:08:04] santiycr, quitting. (Quit: Leaving.)
 [2014-04-16 13:25:02] samuelhorwitz, quitting. (Remote host closed the connection)
 [2014-04-16 13:48:12] santiycr, joining. (#ios-driver)
+[2014-04-16 13:53:33] gdennis, quitting. (Quit: gdennis)
