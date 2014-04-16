@@ -40,3 +40,4 @@
 [2014-04-15 22:00:01] Ram___:      Is anyone here?
 [2014-04-15 22:41:58] santiycr, joining. (#ios-driver)
 [2014-04-15 23:19:46] santiycr1, joining. (#ios-driver)
+[2014-04-15 23:21:46] santiycr, quitting. (Ping timeout: 258 seconds)
