@@ -34,3 +34,4 @@
 [2014-04-15 18:20:09] santiycr, joining. (#ios-driver)
 [2014-04-15 18:28:18] nirvdrum, quitting. (Ping timeout: 265 seconds)
 [2014-04-15 18:46:07] santiycr, quitting. (Quit: Leaving.)
+[2014-04-15 18:57:12] jlipps, quitting. (Quit: Leaving.)
