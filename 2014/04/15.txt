@@ -29,3 +29,5 @@
 [2014-04-15 14:54:02] samuelhorwitz, joining. (#ios-driver)
 [2014-04-15 15:41:13] samuelhorwitz, quitting. (Remote host closed the connection)
 [2014-04-15 15:52:03] samuelhorwitz, joining. (#ios-driver)
+[2014-04-15 17:41:40] santiycr, quitting. (Quit: Leaving.)
+[2014-04-15 17:44:16] samuelhorwitz, quitting. (Remote host closed the connection)
