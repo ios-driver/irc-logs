@@ -1,2 +1,3 @@
 [2014-04-17 00:23:47] smccarthy, quitting. (Remote host closed the connection)
 [2014-04-17 07:18:40] gdennis, joining. (#ios-driver)
+[2014-04-17 07:26:36] samuelhorwitz, joining. (#ios-driver)
