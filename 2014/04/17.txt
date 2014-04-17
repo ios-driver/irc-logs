@@ -8,3 +8,5 @@
 [2014-04-17 08:06:52] lukeis, joining. (#ios-driver)
 [2014-04-17 08:37:44] smccarthy, joining. (#ios-driver)
 [2014-04-17 08:39:11] rsalvador, joining. (#ios-driver)
+[2014-04-17 08:42:03] samuelhorwitz, quitting. (Remote host closed the connection)
+[2014-04-17 08:44:27] samuelhorwitz, joining. (#ios-driver)
