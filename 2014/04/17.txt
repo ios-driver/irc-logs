@@ -12,3 +12,4 @@
 [2014-04-17 08:44:27] samuelhorwitz, joining. (#ios-driver)
 [2014-04-17 08:56:28] rsalvador, quitting. (Quit: Leaving.)
 [2014-04-17 08:56:38] rsalvador, joining. (#ios-driver)
+[2014-04-17 09:19:09] rsalvador, quitting. (Quit: Leaving.)
