@@ -26,3 +26,4 @@
 [2014-04-17 15:48:07] lukeis, quitting. (Quit: Leaving.)
 [2014-04-17 15:55:16] sassda, quitting. (Quit: Leaving.)
 [2014-04-17 16:35:21] jlipps, quitting. (Quit: Leaving.)
+[2014-04-17 17:02:31] samuelhorwitz, quitting. (Ping timeout: 276 seconds)
