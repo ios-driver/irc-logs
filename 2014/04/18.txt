@@ -12,3 +12,4 @@
 [2014-04-18 13:50:51] gdennis, leaving. (#ios-driver)
 [2014-04-18 14:09:46] smccarthy, quitting. (Remote host closed the connection)
 [2014-04-18 15:08:14] lukeis, quitting. (Quit: Leaving.)
+[2014-04-18 17:39:14] rsalvador, quitting. (Ping timeout: 258 seconds)
