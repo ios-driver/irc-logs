@@ -6,3 +6,4 @@
 [2014-04-19 10:15:22] nirvdrum, quitting. (Ping timeout: 245 seconds)
 [2014-04-19 10:19:56] smccarthy, joining. (#ios-driver)
 [2014-04-19 12:14:35] psp250, quitting. (Remote host closed the connection)
+[2014-04-19 15:55:55] smccarthy, quitting. (Remote host closed the connection)
