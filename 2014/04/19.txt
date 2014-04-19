@@ -3,3 +3,5 @@
 [2014-04-19 05:14:51] freynaud___, quitting. (*.net *.split)
 [2014-04-19 05:14:59] freynaud____, changing nick to freynaud___.
 [2014-04-19 07:04:15] nirvdrum, joining. (#ios-driver)
+[2014-04-19 10:15:22] nirvdrum, quitting. (Ping timeout: 245 seconds)
+[2014-04-19 10:19:56] smccarthy, joining. (#ios-driver)
