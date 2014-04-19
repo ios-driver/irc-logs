@@ -19,3 +19,4 @@
 [2014-04-18 19:55:49] nirvdrum, quitting. (Ping timeout: 276 seconds)
 [2014-04-18 20:42:02] smccarthy, joining. (#ios-driver)
 [2014-04-18 21:39:41] smccarthy, quitting. (Read error: Connection reset by peer)
+[2014-04-18 21:40:17] smccarthy, joining. (#ios-driver)
