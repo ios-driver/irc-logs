@@ -41,3 +41,7 @@
 [2014-04-21 14:52:44] jlipps, quitting. (Read error: Connection timed out)
 [2014-04-21 14:55:50] santiycr, joining. (#ios-driver)
 [2014-04-21 14:56:39] jlipps, joining. (#ios-driver)
+[2014-04-21 15:00:48] smccarthy, quitting. (Read error: Connection reset by peer)
+[2014-04-21 15:01:27] smccarthy, joining. (#ios-driver)
+[2014-04-21 15:04:14] admc, quitting. (Read error: Connection timed out)
+[2014-04-21 15:04:46] admc, joining. (#ios-driver)
