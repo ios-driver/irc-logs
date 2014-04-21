@@ -17,3 +17,6 @@
 [2014-04-21 12:18:58] santiycr, joining. (#ios-driver)
 [2014-04-21 12:34:15] admc, quitting. (Read error: Connection timed out)
 [2014-04-21 12:34:42] admc, joining. (#ios-driver)
+[2014-04-21 12:35:04] nirvdrum, joining. (#ios-driver)
+[2014-04-21 12:36:10] santiycr, quitting. (Read error: Connection timed out)
+[2014-04-21 12:36:43] santiycr, joining. (#ios-driver)
