@@ -24,3 +24,4 @@
 [2014-04-21 12:52:26] admc, quitting. (Read error: Connection timed out)
 [2014-04-21 12:52:58] admc, joining. (#ios-driver)
 [2014-04-21 13:00:49] rsalvador, leaving. (#ios-driver)
+[2014-04-21 13:44:45] rsalvador, joining. (#ios-driver)
