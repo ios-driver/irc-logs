@@ -61,3 +61,5 @@
 [2014-04-21 16:01:24] admc, quitting. (Read error: Connection timed out)
 [2014-04-21 16:01:52] admc, joining. (#ios-driver)
 [2014-04-21 16:02:57] lukeis, quitting. (Quit: Leaving.)
+[2014-04-21 16:10:14] santiycr, quitting. (Read error: Connection timed out)
+[2014-04-21 16:10:56] santiycr, joining. (#ios-driver)
