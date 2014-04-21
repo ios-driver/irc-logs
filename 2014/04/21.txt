@@ -39,3 +39,5 @@
 [2014-04-21 14:39:33] smccarthy2, quitting. (Remote host closed the connection)
 [2014-04-21 14:40:11] smccarthy, joining. (#ios-driver)
 [2014-04-21 14:52:44] jlipps, quitting. (Read error: Connection timed out)
+[2014-04-21 14:55:50] santiycr, joining. (#ios-driver)
+[2014-04-21 14:56:39] jlipps, joining. (#ios-driver)
