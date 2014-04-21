@@ -38,3 +38,4 @@
 [2014-04-21 14:39:11] santiycr, quitting. (Quit: Leaving.)
 [2014-04-21 14:39:33] smccarthy2, quitting. (Remote host closed the connection)
 [2014-04-21 14:40:11] smccarthy, joining. (#ios-driver)
+[2014-04-21 14:52:44] jlipps, quitting. (Read error: Connection timed out)
