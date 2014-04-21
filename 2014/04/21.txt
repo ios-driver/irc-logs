@@ -29,3 +29,4 @@
 [2014-04-21 14:01:26] rsalvador, joining. (#ios-driver)
 [2014-04-21 14:13:09] jlipps, joining. (#ios-driver)
 [2014-04-21 14:19:50] admc, quitting. (Read error: Connection timed out)
+[2014-04-21 14:21:31] admc, joining. (#ios-driver)
