@@ -41,3 +41,6 @@
 [2014-04-22 12:44:21] ios-driverbot, joining. (#ios-driver)
 [2014-04-22 13:25:02] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-04-22 13:26:43] lukeis, quitting. (Quit: Leaving.)
+[2014-04-22 13:36:08] lukeis, joining. (#ios-driver)
+[2014-04-22 13:37:25] admc, joining. (#ios-driver)
+[2014-04-22 13:39:14] lukeis, quitting. (Client Quit)
