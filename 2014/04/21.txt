@@ -84,3 +84,4 @@
 [2014-04-21 21:56:50] nirvdrum, quitting. (Ping timeout: 255 seconds)
 [2014-04-21 21:57:38] smccarthy, joining. (#ios-driver)
 [2014-04-21 22:16:30] admc, joining. (#ios-driver)
+[2014-04-21 22:39:21] admc, quitting. (Read error: Connection reset by peer)
