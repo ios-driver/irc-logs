@@ -24,3 +24,4 @@
 [2014-04-22 07:32:09] ios-driverbot, joining. (#ios-driver)
 [2014-04-22 08:20:57] lukeis, joining. (#ios-driver)
 [2014-04-22 08:49:49] admc, joining. (#ios-driver)
+[2014-04-22 09:23:14] rsalvador, joining. (#ios-driver)
