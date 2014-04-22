@@ -10,3 +10,9 @@
 [2014-04-22 02:48:04] ios-driverbot, joining. (#ios-driver)
 [2014-04-22 03:59:38] dgrace, quitting. (Quit: Connection closed for inactivity)
 [2014-04-22 04:41:35] admc, joining. (#ios-driver)
+[2014-04-22 04:45:08] rodrigomartin, joining. (#ios-driver)
+[2014-04-22 04:46:35] rodrigomartin: Good morning everyone! Cheers from Argentina.
+[2014-04-22 04:46:44] admc, quitting. (Ping timeout: 276 seconds)
+[2014-04-22 04:48:00] rodrigomartin: I've tried to register a desktop node to a selenium grid server using IosProxy, but I'm getting a null Device error.
+[2014-04-22 04:48:20] rodrigomartin: what Device should I pass as capability, If I want to run a desktop browser node ?
+[2014-04-22 04:48:45] rodrigomartin: I'm trying to have a ios-driver node and a desktop browser node registered to the same hub :)
