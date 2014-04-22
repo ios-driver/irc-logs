@@ -8,3 +8,4 @@
 [2014-04-22 02:41:50] admc, joining. (#ios-driver)
 [2014-04-22 02:45:43] ios-driverbot, quitting. (Ping timeout: 265 seconds)
 [2014-04-22 02:48:04] ios-driverbot, joining. (#ios-driver)
+[2014-04-22 03:59:38] dgrace, quitting. (Quit: Connection closed for inactivity)
