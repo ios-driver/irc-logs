@@ -90,3 +90,5 @@
 [2014-04-21 22:45:20] ios-driverbot, joining. (#ios-driver)
 [2014-04-21 22:51:53] ios-driverbot, quitting. (Ping timeout: 264 seconds)
 [2014-04-21 22:55:09] ios-driverbot, joining. (#ios-driver)
+[2014-04-21 22:59:27] ios-driverbot, quitting. (Ping timeout: 252 seconds)
+[2014-04-21 22:59:54] ios-driverbot, joining. (#ios-driver)
