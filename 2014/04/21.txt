@@ -77,3 +77,5 @@
 [2014-04-21 17:33:58] admc, joining. (#ios-driver)
 [2014-04-21 17:53:41] rsalvador, quitting. (Ping timeout: 264 seconds)
 [2014-04-21 18:10:56] admc, quitting. (Quit: Leaving.)
+[2014-04-21 18:23:45] rsalvador, joining. (#ios-driver)
+[2014-04-21 18:23:57] rsalvador, quitting. (Client Quit)
