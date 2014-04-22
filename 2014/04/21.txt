@@ -97,3 +97,4 @@
 [2014-04-21 23:21:58] ios-driverbot, joining. (#ios-driver)
 [2014-04-21 23:39:28] admc, quitting. (Read error: Connection reset by peer)
 [2014-04-21 23:47:00] admc, joining. (#ios-driver)
+[2014-04-21 23:53:45] admc, quitting. (Quit: Leaving.)
