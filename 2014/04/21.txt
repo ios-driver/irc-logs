@@ -71,3 +71,5 @@
 [2014-04-21 16:50:03] smccarthy, quitting. (Remote host closed the connection)
 [2014-04-21 16:54:07] santiycr, quitting. (Read error: Connection timed out)
 [2014-04-21 16:55:20] santiycr, joining. (#ios-driver)
+[2014-04-21 17:18:44] santiycr, quitting. (Read error: Connection timed out)
+[2014-04-21 17:19:06] santiycr, joining. (#ios-driver)
