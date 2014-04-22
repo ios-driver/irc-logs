@@ -16,3 +16,4 @@
 [2014-04-22 04:48:00] rodrigomartin: I've tried to register a desktop node to a selenium grid server using IosProxy, but I'm getting a null Device error.
 [2014-04-22 04:48:20] rodrigomartin: what Device should I pass as capability, If I want to run a desktop browser node ?
 [2014-04-22 04:48:45] rodrigomartin: I'm trying to have a ios-driver node and a desktop browser node registered to the same hub :)
+[2014-04-22 04:57:36] rodrigomartin: exact error is: Cannot cast null to DeviceType
