@@ -1,2 +1,3 @@
 [2014-04-22 00:04:12] smccarthy, quitting. (Remote host closed the connection)
 [2014-04-22 00:04:25] admc, joining. (#ios-driver)
+[2014-04-22 00:05:48] admc, quitting. (Client Quit)
