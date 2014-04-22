@@ -27,3 +27,5 @@
 [2014-04-22 09:23:14] rsalvador, joining. (#ios-driver)
 [2014-04-22 09:26:48] smccarthy, joining. (#ios-driver)
 [2014-04-22 10:04:21] admc, quitting. (Quit: Leaving.)
+[2014-04-22 10:42:17] ios-driverbot, quitting. (Ping timeout: 265 seconds)
+[2014-04-22 10:42:31] ios-driverbot, joining. (#ios-driver)
