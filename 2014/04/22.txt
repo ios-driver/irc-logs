@@ -6,3 +6,5 @@
 [2014-04-22 01:41:23] admc, joining. (#ios-driver)
 [2014-04-22 01:44:22] admc, quitting. (Read error: Operation timed out)
 [2014-04-22 02:41:50] admc, joining. (#ios-driver)
+[2014-04-22 02:45:43] ios-driverbot, quitting. (Ping timeout: 265 seconds)
+[2014-04-22 02:48:04] ios-driverbot, joining. (#ios-driver)
