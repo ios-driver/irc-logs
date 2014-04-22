@@ -3,3 +3,5 @@
 [2014-04-22 00:05:48] admc, quitting. (Client Quit)
 [2014-04-22 00:12:13] admc, joining. (#ios-driver)
 [2014-04-22 00:40:50] admc, quitting. (Quit: Leaving.)
+[2014-04-22 01:41:23] admc, joining. (#ios-driver)
+[2014-04-22 01:44:22] admc, quitting. (Read error: Operation timed out)
