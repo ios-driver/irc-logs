@@ -68,3 +68,6 @@
 [2014-04-22 20:59:27] ios-driverbot, quitting. (Ping timeout: 252 seconds)
 [2014-04-22 21:05:01] ios-driverbot, joining. (#ios-driver)
 [2014-04-22 21:37:28] nirvdrum, quitting. (Read error: Operation timed out)
+[2014-04-22 22:50:34] admc, joining. (#ios-driver)
+[2014-04-22 22:50:42] admc, quitting. (Client Quit)
+[2014-04-22 22:52:18] admc, joining. (#ios-driver)
