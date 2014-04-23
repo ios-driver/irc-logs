@@ -59,3 +59,5 @@
 [2014-04-23 15:12:33] jlipps, quitting. (Read error: Connection timed out)
 [2014-04-23 15:12:55] jlipps, joining. (#ios-driver)
 [2014-04-23 15:27:25] rodrigomartin: Hello
+[2014-04-23 15:33:03] jlipps, quitting. (Read error: Connection timed out)
+[2014-04-23 15:34:54] jlipps, joining. (#ios-driver)
