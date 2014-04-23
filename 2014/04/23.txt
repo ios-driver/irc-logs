@@ -49,3 +49,4 @@
 [2014-04-23 13:39:31] jlipps, quitting. (Read error: Connection timed out)
 [2014-04-23 13:39:54] jlipps, joining. (#ios-driver)
 [2014-04-23 13:59:03] ios-driverbot_, quitting. (Ping timeout: 252 seconds)
+[2014-04-23 14:00:29] ios-driverbot_, joining. (#ios-driver)
