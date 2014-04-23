@@ -53,3 +53,5 @@
 [2014-04-23 14:11:05] jlipps, quitting. (Read error: Connection timed out)
 [2014-04-23 14:11:39] jlipps, joining. (#ios-driver)
 [2014-04-23 14:19:37] admc, joining. (#ios-driver)
+[2014-04-23 14:25:04] smccarthy2, joining. (#ios-driver)
+[2014-04-23 14:28:29] smccarthy, quitting. (Ping timeout: 264 seconds)
