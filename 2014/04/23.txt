@@ -44,3 +44,4 @@
 [2014-04-23 13:06:01] ios-driverbot_, joining. (#ios-driver)
 [2014-04-23 13:06:15] lukeis1, quitting. (Read error: Connection reset by peer)
 [2014-04-23 13:08:05] lukeis, quitting. (Ping timeout: 264 seconds)
+[2014-04-23 13:14:54] jlipps, quitting. (Read error: Connection timed out)
