@@ -54,3 +54,5 @@
 [2014-04-22 16:03:47] lukeis, quitting. (Quit: Leaving.)
 [2014-04-22 17:02:36] smccarthy, quitting. (Remote host closed the connection)
 [2014-04-22 17:49:08] rsalvador, quitting. (Ping timeout: 252 seconds)
+[2014-04-22 18:01:58] ios-driverbot, quitting. (Ping timeout: 240 seconds)
+[2014-04-22 18:02:12] ios-driverbot, joining. (#ios-driver)
