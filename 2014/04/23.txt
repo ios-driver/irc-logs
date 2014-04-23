@@ -27,3 +27,4 @@
 [2014-04-23 09:52:45] ios-driverbot_, joining. (#ios-driver)
 [2014-04-23 09:54:33] smccarthy2, joining. (#ios-driver)
 [2014-04-23 09:58:02] smccarthy, quitting. (Ping timeout: 240 seconds)
+[2014-04-23 10:20:08] admc, joining. (#ios-driver)
