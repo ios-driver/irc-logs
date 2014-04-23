@@ -46,3 +46,5 @@
 [2014-04-23 13:08:05] lukeis, quitting. (Ping timeout: 264 seconds)
 [2014-04-23 13:14:54] jlipps, quitting. (Read error: Connection timed out)
 [2014-04-23 13:18:10] jlipps, joining. (#ios-driver)
+[2014-04-23 13:39:31] jlipps, quitting. (Read error: Connection timed out)
+[2014-04-23 13:39:54] jlipps, joining. (#ios-driver)
