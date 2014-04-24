@@ -34,3 +34,6 @@
 [2014-04-24 05:53:11] TomC: i should point out
 [2014-04-24 05:53:11] TomC: i do not need to test an app
 [2014-04-24 05:58:29] TomC: ios-driver might not be suitable for this purpose?
+[2014-04-24 06:48:44] ios-driverbot___, quitting. (Ping timeout: 255 seconds)
+[2014-04-24 06:49:18] ios-driverbot___, joining. (#ios-driver)
+[2014-04-24 06:49:38] rodrigomartin, joining. (#ios-driver)
