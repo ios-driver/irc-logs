@@ -99,3 +99,4 @@
 [2014-04-24 14:58:51] admc, joining. (#ios-driver)
 [2014-04-24 15:15:05] admc, quitting. (Quit: Leaving.)
 [2014-04-24 15:16:05] admc, joining. (#ios-driver)
+[2014-04-24 15:38:03] nirvdrum, quitting. (Ping timeout: 252 seconds)
