@@ -50,3 +50,7 @@
 [2014-04-24 08:44:31] admc, joining. (#ios-driver)
 [2014-04-24 08:45:35] admc, quitting. (Client Quit)
 [2014-04-24 08:46:26] rsalvador, joining. (#ios-driver)
+[2014-04-24 08:51:10] rsalvador, leaving. (#ios-driver)
+[2014-04-24 08:52:26] smccarthy2, joining. (#ios-driver)
+[2014-04-24 08:52:40] smccarthy2, quitting. (Remote host closed the connection)
+[2014-04-24 08:53:44] rsalvador1, joining. (#ios-driver)
