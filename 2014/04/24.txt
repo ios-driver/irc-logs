@@ -20,3 +20,16 @@
 [2014-04-24 05:46:08] ios-driverbot___, quitting. (Ping timeout: 252 seconds)
 [2014-04-24 05:47:10] ios-driverbot___, joining. (#ios-driver)
 [2014-04-24 05:48:27] TomC, joining. (#ios-driver)
+[2014-04-24 05:50:09] nirvdrum, quitting. (Ping timeout: 252 seconds)
+[2014-04-24 05:50:09] TomC: hi
+[2014-04-24 05:50:09] TomC: quick Q on ios-driver....
+[2014-04-24 05:50:09] TomC: anyone there?
+[2014-04-24 05:50:10] TomC: is it possible to test real devices in ios-driver as it currently stands?
+[2014-04-24 05:50:20] TomC: if not
+[2014-04-24 05:51:32] TomC: will it be in next stable release?
+[2014-04-24 05:51:56] AutomatedTester: TomC: I am no expert but I dont think iosdriver can test real devices due to it using private apple apis
+[2014-04-24 05:52:18] AutomatedTester: which creates a distribution issue but I am open to correction on what I said
+[2014-04-24 05:53:11] AutomatedTester: freynaud___: ^
+[2014-04-24 05:53:11] TomC: that i am strictly mobile web testing only
+[2014-04-24 05:53:11] TomC: i should point out
+[2014-04-24 05:53:11] TomC: i do not need to test an app
