@@ -92,3 +92,7 @@
 [2014-04-24 14:05:05] smccarthy, quitting. (Ping timeout: 264 seconds)
 [2014-04-24 14:23:09] admc, joining. (#ios-driver)
 [2014-04-24 14:25:03] admc, quitting. (Client Quit)
+[2014-04-24 14:45:55] smccarthy2, quitting. (Read error: Connection reset by peer)
+[2014-04-24 14:47:02] smccarthy, joining. (#ios-driver)
+[2014-04-24 14:47:02] smccarthy, quitting. (Remote host closed the connection)
+[2014-04-24 14:47:31] smccarthy, joining. (#ios-driver)
