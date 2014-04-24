@@ -80,3 +80,4 @@
 [2014-04-24 12:11:29] nicegraham__, joining. (#ios-driver)
 [2014-04-24 12:21:08] ios-driverbot___, quitting. (Ping timeout: 252 seconds)
 [2014-04-24 12:29:27] ios-driverbot___, joining. (#ios-driver)
+[2014-04-24 12:30:30] smccarthy, joining. (#ios-driver)
