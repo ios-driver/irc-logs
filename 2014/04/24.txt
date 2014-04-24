@@ -17,3 +17,6 @@
 [2014-04-24 05:33:23] admc, joining. (#ios-driver)
 [2014-04-24 05:38:05] admc, quitting. (Ping timeout: 264 seconds)
 [2014-04-24 05:39:38] nirvdrum, joining. (#ios-driver)
+[2014-04-24 05:46:08] ios-driverbot___, quitting. (Ping timeout: 252 seconds)
+[2014-04-24 05:47:10] ios-driverbot___, joining. (#ios-driver)
+[2014-04-24 05:48:27] TomC, joining. (#ios-driver)
