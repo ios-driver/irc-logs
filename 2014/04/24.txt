@@ -88,3 +88,4 @@
 [2014-04-24 13:39:01] ios-driverbot___, joining. (#ios-driver)
 [2014-04-24 13:41:58] admc, joining. (#ios-driver)
 [2014-04-24 13:59:31] admc, quitting. (Quit: Leaving.)
+[2014-04-24 14:01:30] smccarthy2, joining. (#ios-driver)
