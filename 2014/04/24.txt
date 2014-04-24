@@ -69,3 +69,4 @@
 [2014-04-24 10:00:13] TomC, leaving. ("I'm not here right now.")
 [2014-04-24 10:04:05] rsalvador, quitting. (Ping timeout: 276 seconds)
 [2014-04-24 10:04:48] rsalvador, joining. (#ios-driver)
+[2014-04-24 10:25:54] rsalvador, leaving. (#ios-driver)
