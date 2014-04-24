@@ -91,3 +91,4 @@
 [2014-04-24 14:01:30] smccarthy2, joining. (#ios-driver)
 [2014-04-24 14:05:05] smccarthy, quitting. (Ping timeout: 264 seconds)
 [2014-04-24 14:23:09] admc, joining. (#ios-driver)
+[2014-04-24 14:25:03] admc, quitting. (Client Quit)
