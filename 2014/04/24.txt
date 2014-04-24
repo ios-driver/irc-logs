@@ -101,3 +101,8 @@
 [2014-04-24 15:16:05] admc, joining. (#ios-driver)
 [2014-04-24 15:38:03] nirvdrum, quitting. (Ping timeout: 252 seconds)
 [2014-04-24 15:46:49] admc, quitting. (Ping timeout: 240 seconds)
+[2014-04-24 16:01:54] admc, joining. (#ios-driver)
+[2014-04-24 16:03:10] AutomatedTester, quitting. (Read error: Operation timed out)
+[2014-04-24 16:04:59] AutomatedTester, joining. (#ios-driver)
+[2014-04-24 16:04:59] admc, quitting. (Client Quit)
+[2014-04-24 16:04:59] lukeis, quitting. (Quit: Leaving.)
