@@ -106,3 +106,4 @@
 [2014-04-24 16:04:59] AutomatedTester, joining. (#ios-driver)
 [2014-04-24 16:04:59] admc, quitting. (Client Quit)
 [2014-04-24 16:04:59] lukeis, quitting. (Quit: Leaving.)
+[2014-04-24 16:07:41] admc, joining. (#ios-driver)
