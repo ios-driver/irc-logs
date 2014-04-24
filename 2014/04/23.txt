@@ -70,3 +70,4 @@
 [2014-04-23 16:52:23] ios-driverbot___, quitting. (Ping timeout: 252 seconds)
 [2014-04-23 16:52:38] ios-driverbot___, joining. (#ios-driver)
 [2014-04-23 17:10:53] smccarthy2, quitting. (Remote host closed the connection)
+[2014-04-23 17:36:56] ios-driverbot___, quitting. (Ping timeout: 252 seconds)
