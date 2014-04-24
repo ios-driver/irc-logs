@@ -33,3 +33,4 @@
 [2014-04-24 05:53:11] TomC: that i am strictly mobile web testing only
 [2014-04-24 05:53:11] TomC: i should point out
 [2014-04-24 05:53:11] TomC: i do not need to test an app
+[2014-04-24 05:58:29] TomC: ios-driver might not be suitable for this purpose?
