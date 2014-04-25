@@ -18,3 +18,4 @@
 [2014-04-25 04:53:32] ios-driverbot___, joining. (#ios-driver)
 [2014-04-25 05:27:18] nirvdrum, joining. (#ios-driver)
 [2014-04-25 06:02:31] rodrigomartin, joining. (#ios-driver)
+[2014-04-25 06:26:52] nirvdrum, quitting. (Read error: No route to host)
