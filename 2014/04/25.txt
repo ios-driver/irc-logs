@@ -21,3 +21,4 @@
 [2014-04-25 06:26:52] nirvdrum, quitting. (Read error: No route to host)
 [2014-04-25 07:54:05] rodrigomartin: Hello everyone!
 [2014-04-25 07:54:31] rodrigomartin: I'm still struggling with something with IOS-Driver. I don't know how to use it in a Grid environment, where I would also like to execute desktop browser tests as well.
+[2014-04-25 08:03:54] nirvdrum, joining. (#ios-driver)
