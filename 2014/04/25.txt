@@ -50,3 +50,4 @@
 [2014-04-25 13:55:51] smccarthy2, quitting. (Remote host closed the connection)
 [2014-04-25 13:56:27] smccarthy, joining. (#ios-driver)
 [2014-04-25 13:56:35] admc, quitting. (Ping timeout: 252 seconds)
+[2014-04-25 14:24:58] ios-driverbot___, quitting. (Ping timeout: 240 seconds)
