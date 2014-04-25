@@ -110,3 +110,5 @@
 [2014-04-24 16:19:18] ios-driverbot___, joining. (#ios-driver)
 [2014-04-24 17:00:07] smccarthy, quitting. (Remote host closed the connection)
 [2014-04-24 17:04:40] admc, quitting. (Quit: Leaving.)
+[2014-04-24 17:09:00] admc, joining. (#ios-driver)
+[2014-04-24 17:09:08] admc, quitting. (Client Quit)
