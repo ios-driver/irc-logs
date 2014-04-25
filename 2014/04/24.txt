@@ -122,3 +122,5 @@
 [2014-04-24 20:03:22] rsalvador, quitting. (Ping timeout: 276 seconds)
 [2014-04-24 20:20:49] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2014-04-24 22:59:18] ios-driverbot___, quitting. (Ping timeout: 240 seconds)
+[2014-04-24 23:04:08] ios-driverbot___, quitting. (Ping timeout: 252 seconds)
+[2014-04-24 23:04:29] ios-driverbot___, joining. (#ios-driver)
