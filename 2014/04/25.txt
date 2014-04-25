@@ -1,2 +1,4 @@
 [2014-04-25 00:06:54] admc, joining. (#ios-driver)
 [2014-04-25 00:34:48] admc, quitting. (Quit: Leaving.)
+[2014-04-25 01:12:14] ios-driverbot___, quitting. (Ping timeout: 252 seconds)
+[2014-04-25 01:15:00] ios-driverbot___, joining. (#ios-driver)
