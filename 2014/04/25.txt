@@ -67,3 +67,5 @@
 [2014-04-25 17:54:01] ios-driverbot___, joining. (#ios-driver)
 [2014-04-25 18:02:03] ios-driverbot___, quitting. (Ping timeout: 252 seconds)
 [2014-04-25 18:03:25] ios-driverbot___, joining. (#ios-driver)
+[2014-04-25 18:41:54] rsalvador, joining. (#ios-driver)
+[2014-04-25 18:42:07] rsalvador, quitting. (Client Quit)
