@@ -7,3 +7,4 @@
 [2014-04-26 04:05:03] ios-driverbot___, joining. (#ios-driver)
 [2014-04-26 04:32:05] ios-driverbot___, quitting. (Ping timeout: 264 seconds)
 [2014-04-26 04:32:21] ios-driverbot___, joining. (#ios-driver)
+[2014-04-26 05:26:42] admc, joining. (#ios-driver)
