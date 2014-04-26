@@ -22,3 +22,5 @@
 [2014-04-26 09:22:44] psp250, joining. (#ios-driver)
 [2014-04-26 09:32:23] admc, joining. (#ios-driver)
 [2014-04-26 09:36:42] admc, quitting. (Ping timeout: 240 seconds)
+[2014-04-26 10:51:39] ios-driverbot___, quitting. (Ping timeout: 252 seconds)
+[2014-04-26 10:52:34] ios-driverbot___, joining. (#ios-driver)
