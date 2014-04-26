@@ -32,3 +32,4 @@
 [2014-04-26 14:09:32] ios-driverbot___, joining. (#ios-driver)
 [2014-04-26 14:28:11] smccarthy, quitting. (Quit: Leaving...)
 [2014-04-26 14:33:37] jlipps, quitting. (Quit: Leaving.)
+[2014-04-26 14:52:52] admc, joining. (#ios-driver)
