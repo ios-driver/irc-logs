@@ -56,3 +56,4 @@
 [2014-04-26 21:58:16] ios-driverbot___, joining. (#ios-driver)
 [2014-04-26 22:48:04] jlipps, quitting. (Quit: Leaving.)
 [2014-04-26 22:51:46] jlipps, joining. (#ios-driver)
+[2014-04-26 23:20:39] jlipps, quitting. (Quit: Leaving.)
