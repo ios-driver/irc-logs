@@ -19,3 +19,4 @@
 [2014-04-28 09:02:52] smccarthy, joining. (#ios-driver)
 [2014-04-28 09:06:57] lukeis, quitting. (Quit: Leaving.)
 [2014-04-28 09:15:57] lukeis, joining. (#ios-driver)
+[2014-04-28 09:40:07] nirvdrum: lukeis: Does this look okay to you? https://github.com/ios-driver/ios-driver/commit/db9ac8f8dcd4c4ff585900cd7787df367de55c2f
