@@ -43,3 +43,4 @@
 [2014-04-28 10:18:13] nirvdrum: I finally went to bed around 4:15 convinced the problem was upstream.
 [2014-04-28 10:18:13] lukeis: ouch
 [2014-04-28 10:18:17] nirvdrum: I screw up a lot, so I tend not to point the finger at others until I'm reasonably certain it's not me :-)
+[2014-04-28 10:24:44] ios-driverbot___, quitting. (Ping timeout: 255 seconds)
