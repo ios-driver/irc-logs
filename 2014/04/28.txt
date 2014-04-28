@@ -27,3 +27,8 @@
 [2014-04-28 09:43:25] rodrigomartin, joining. (#ios-driver)
 [2014-04-28 09:59:10] santiycr, joining. (#ios-driver)
 [2014-04-28 10:00:46] admc, joining. (#ios-driver)
+[2014-04-28 10:12:31] nirvdrum: lukeis: It wouldn't be ios-driver if I attempted an upgrade and it just worked :-)
+[2014-04-28 10:14:13] lukeis: :)
+[2014-04-28 10:14:13] nirvdrum: That was nothing compared to the hours I lost when I upgraded XCode but still had shit in ~/.ios-driver that apparently messed things up.
+[2014-04-28 10:14:13] lukeis: ouch
+[2014-04-28 10:14:25] nirvdrum: And then I blew away ~/.ios-driver on my test machine, but apparently it didn't atomically move the safari copy of the 6.1 SDK, so I just lost that copy of Safari :-(
