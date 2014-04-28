@@ -52,3 +52,5 @@
 [2014-04-28 11:21:21] admc, quitting. (Quit: Leaving.)
 [2014-04-28 11:41:21] santiycr, quitting. (Quit: Leaving.)
 [2014-04-28 11:53:45] admc, joining. (#ios-driver)
+[2014-04-28 12:10:24] ios-driverbot___, quitting. (Ping timeout: 240 seconds)
+[2014-04-28 12:10:41] ios-driverbot___, joining. (#ios-driver)
