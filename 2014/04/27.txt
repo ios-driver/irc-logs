@@ -53,3 +53,4 @@
 [2014-04-27 21:41:28] jlipps, joining. (#ios-driver)
 [2014-04-27 22:50:01] jlipps, quitting. (Quit: Leaving.)
 [2014-04-27 22:59:54] admc, joining. (#ios-driver)
+[2014-04-27 23:22:04] ios-driverbot___, quitting. (Ping timeout: 252 seconds)
