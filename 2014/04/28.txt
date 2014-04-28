@@ -64,3 +64,5 @@
 [2014-04-28 13:02:17] admc, joining. (#ios-driver)
 [2014-04-28 13:20:35] jlipps, joining. (#ios-driver)
 [2014-04-28 13:23:04] santiycr, joining. (#ios-driver)
+[2014-04-28 13:31:03] gdennis, joining. (#ios-driver)
+[2014-04-28 13:34:38] ios-driverbot___, quitting. (Ping timeout: 240 seconds)
