@@ -32,3 +32,14 @@
 [2014-04-28 10:14:13] nirvdrum: That was nothing compared to the hours I lost when I upgraded XCode but still had shit in ~/.ios-driver that apparently messed things up.
 [2014-04-28 10:14:13] lukeis: ouch
 [2014-04-28 10:14:25] nirvdrum: And then I blew away ~/.ios-driver on my test machine, but apparently it didn't atomically move the safari copy of the 6.1 SDK, so I just lost that copy of Safari :-(
+[2014-04-28 10:15:47] nirvdrum: I had to restore it from a different machine.
+[2014-04-28 10:15:47] nirvdrum: All sorts of fun.
+[2014-04-28 10:15:47] lukeis: this last night?
+[2014-04-28 10:15:47] *lukeis saw your tweet'
+[2014-04-28 10:16:15] nirvdrum: Oh, no.  That was just the icing on the cake.  My service provider lost two UPSes in the SAN, unbeknownst to me.  All I knew is Mogotest was functional, but performance fell off the charts.  Since I had been messing with my grid, I assumed I screwed something up, and thus began a 10 hour session to speed up all my Windows machines.
+[2014-04-28 10:17:02] nirvdrum: We run a Ruby-backed HTTP API on each of the Windows machines to do various things.  I swapped out the server we used to a lighter-weight one around 2:30 AM.  Around 3:00 I realized they were all binding to 127.0.0.1 rather than something that could actually be connected to.
+[2014-04-28 10:18:13] nirvdrum: So at 3 AM I had to go fix the config on every one of those.
+[2014-04-28 10:18:13] nirvdrum: They confirmed this morning and got it fixed now.
+[2014-04-28 10:18:13] nirvdrum: I finally went to bed around 4:15 convinced the problem was upstream.
+[2014-04-28 10:18:13] lukeis: ouch
+[2014-04-28 10:18:17] nirvdrum: I screw up a lot, so I tend not to point the finger at others until I'm reasonably certain it's not me :-)
