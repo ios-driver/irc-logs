@@ -25,3 +25,4 @@
 [2014-04-28 09:41:41] lukeis: seems like a silly thing for me to do originally ;)
 [2014-04-28 09:43:09] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-04-28 09:43:25] rodrigomartin, joining. (#ios-driver)
+[2014-04-28 09:59:10] santiycr, joining. (#ios-driver)
