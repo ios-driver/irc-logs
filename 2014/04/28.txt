@@ -14,3 +14,4 @@
 [2014-04-28 05:48:31] nirvdrum, joining. (#ios-driver)
 [2014-04-28 06:40:54] nirvdrum, quitting. (Ping timeout: 276 seconds)
 [2014-04-28 07:43:57] ios-driverbot___, quitting. (Ping timeout: 276 seconds)
+[2014-04-28 08:33:25] ios-driverbot___, quitting. (Ping timeout: 252 seconds)
