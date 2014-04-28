@@ -20,3 +20,8 @@
 [2014-04-28 09:06:57] lukeis, quitting. (Quit: Leaving.)
 [2014-04-28 09:15:57] lukeis, joining. (#ios-driver)
 [2014-04-28 09:40:07] nirvdrum: lukeis: Does this look okay to you? https://github.com/ios-driver/ios-driver/commit/db9ac8f8dcd4c4ff585900cd7787df367de55c2f
+[2014-04-28 09:40:20] nirvdrum: You wrote the original code.
+[2014-04-28 09:41:28] lukeis: looks fine to me :)
+[2014-04-28 09:41:41] lukeis: seems like a silly thing for me to do originally ;)
+[2014-04-28 09:43:09] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-04-28 09:43:25] rodrigomartin, joining. (#ios-driver)
