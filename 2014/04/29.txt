@@ -25,3 +25,4 @@
 [2014-04-29 15:37:04] dmarr, quitting. (Ping timeout: 258 seconds)
 [2014-04-29 15:38:36] admc, joining. (#ios-driver)
 [2014-04-29 15:38:51] dmarr, joining. (#ios-driver)
+[2014-04-29 16:03:24] lukeis, quitting. (Quit: Leaving.)
