@@ -4,3 +4,4 @@
 [2014-04-30 05:11:18] rodrigomartin, joining. (#ios-driver)
 [2014-04-30 05:30:26] psp250, quitting. (Ping timeout: 255 seconds)
 [2014-04-30 05:42:41] nirvdrum, joining. (#ios-driver)
+[2014-04-30 05:47:49] admc, joining. (#ios-driver)
