@@ -47,3 +47,4 @@
 [2014-04-30 15:38:16] santiycr, joining. (#ios-driver)
 [2014-04-30 15:57:16] nirvdrum, quitting. (Read error: Operation timed out)
 [2014-04-30 16:00:51] lukeis, quitting. (Quit: Leaving.)
+[2014-04-30 16:37:46] smccarthy2, quitting. (Quit: Leaving...)
