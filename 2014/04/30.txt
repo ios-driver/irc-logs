@@ -27,3 +27,4 @@
 [2014-04-30 11:13:14] rsalvador, quitting. (Client Quit)
 [2014-04-30 11:21:26] santiycr, quitting. (Quit: Leaving.)
 [2014-04-30 11:24:43] rodrigomartin, joining. (#ios-driver)
+[2014-04-30 11:32:03] admc, quitting. (Quit: Leaving.)
