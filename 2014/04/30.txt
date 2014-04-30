@@ -45,3 +45,4 @@
 [2014-04-30 15:18:02] smccarthy, quitting. (Ping timeout: 246 seconds)
 [2014-04-30 15:37:01] santiycr, quitting. (Quit: Leaving.)
 [2014-04-30 15:38:16] santiycr, joining. (#ios-driver)
+[2014-04-30 15:57:16] nirvdrum, quitting. (Read error: Operation timed out)
