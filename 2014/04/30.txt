@@ -2,3 +2,4 @@
 [2014-04-30 02:47:32] admc, joining. (#ios-driver)
 [2014-04-30 02:51:51] admc, quitting. (Ping timeout: 252 seconds)
 [2014-04-30 05:11:18] rodrigomartin, joining. (#ios-driver)
+[2014-04-30 05:30:26] psp250, quitting. (Ping timeout: 255 seconds)
