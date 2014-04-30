@@ -16,3 +16,4 @@
 [2014-04-30 07:19:40] nirvdrum, joining. (#ios-driver)
 [2014-04-30 08:20:24] lukeis, joining. (#ios-driver)
 [2014-04-30 08:42:53] rsalvador, joining. (#ios-driver)
+[2014-04-30 08:49:05] admc, joining. (#ios-driver)
