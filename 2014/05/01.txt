@@ -22,3 +22,5 @@
 [2014-05-01 11:54:40] jlipps, joining. (#ios-driver)
 [2014-05-01 12:17:54] jlipps, quitting. (Quit: Leaving.)
 [2014-05-01 13:04:06] jlipps1, joining. (#ios-driver)
+[2014-05-01 14:06:17] jlipps1, quitting. (Read error: Connection reset by peer)
+[2014-05-01 14:06:55] jlipps, joining. (#ios-driver)
