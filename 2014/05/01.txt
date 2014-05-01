@@ -24,3 +24,6 @@
 [2014-05-01 13:04:06] jlipps1, joining. (#ios-driver)
 [2014-05-01 14:06:17] jlipps1, quitting. (Read error: Connection reset by peer)
 [2014-05-01 14:06:55] jlipps, joining. (#ios-driver)
+[2014-05-01 14:30:40] rsalvador, joining. (#ios-driver)
+[2014-05-01 14:30:58] rsalvador, leaving. (#ios-driver)
+[2014-05-01 14:32:28] smccarthy, joining. (#ios-driver)
