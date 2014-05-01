@@ -33,3 +33,4 @@
 [2014-05-01 15:01:19] jlipps, joining. (#ios-driver)
 [2014-05-01 15:03:00] smccarthy, quitting. (Remote host closed the connection)
 [2014-05-01 15:03:33] smccarthy, joining. (#ios-driver)
+[2014-05-01 15:14:56] jlipps, quitting. (Quit: Leaving.)
