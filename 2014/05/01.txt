@@ -35,3 +35,4 @@
 [2014-05-01 15:03:33] smccarthy, joining. (#ios-driver)
 [2014-05-01 15:14:56] jlipps, quitting. (Quit: Leaving.)
 [2014-05-01 15:17:12] jlipps, joining. (#ios-driver)
+[2014-05-01 15:48:04] admc, joining. (#ios-driver)
