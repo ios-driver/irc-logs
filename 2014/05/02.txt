@@ -46,3 +46,4 @@
 [2014-05-02 13:42:27] lukeis: as long as that's supported in the WKRDP? (I would assume yes in some way)
 [2014-05-02 13:43:24] lukeis: (i doubt ios-driver has coded it though, so, no, not likely 'supported')
 [2014-05-02 13:44:21] gdennis: right, I don't think the plumbing has been coded up --- couldn't find it
+[2014-05-02 13:49:05] admc, joining. (#ios-driver)
