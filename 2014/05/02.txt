@@ -41,3 +41,8 @@
 [2014-05-02 13:05:53] admc, quitting. (Client Quit)
 [2014-05-02 13:12:12] santiycr, quitting. (Quit: Leaving.)
 [2014-05-02 13:36:20] nirvdrum, joining. (#ios-driver)
+[2014-05-02 13:41:20] gdennis: Does ios-driver support extracting the console log?
+[2014-05-02 13:41:22] gdennis: from Safari?
+[2014-05-02 13:42:27] lukeis: as long as that's supported in the WKRDP? (I would assume yes in some way)
+[2014-05-02 13:43:24] lukeis: (i doubt ios-driver has coded it though, so, no, not likely 'supported')
+[2014-05-02 13:44:21] gdennis: right, I don't think the plumbing has been coded up --- couldn't find it
