@@ -6,3 +6,6 @@
 [2014-05-02 01:34:40] AutomatedTester, quitting. (*.net *.split)
 [2014-05-02 01:36:28] AutomatedTester_, changing nick to AutomatedTester.
 [2014-05-02 01:59:06] admc, quitting. (Quit: Leaving.)
+[2014-05-02 02:11:38] Matt__, joining. (#ios-driver)
+[2014-05-02 02:11:45] Matt__: Hi
+[2014-05-02 02:13:20] Matt__: I was wondering if there is a guide to set ios-driver to run on real devices. Ideally i would like to drive safari with it.
