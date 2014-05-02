@@ -9,3 +9,4 @@
 [2014-05-02 02:11:38] Matt__, joining. (#ios-driver)
 [2014-05-02 02:11:45] Matt__: Hi
 [2014-05-02 02:13:20] Matt__: I was wondering if there is a guide to set ios-driver to run on real devices. Ideally i would like to drive safari with it.
+[2014-05-02 02:33:59] admc, joining. (#ios-driver)
