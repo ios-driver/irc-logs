@@ -1,3 +1,4 @@
 [2014-05-04 05:55:10] nirvdrum, joining. (#ios-driver)
 [2014-05-04 09:33:40] smccarthy, joining. (#ios-driver)
 [2014-05-04 12:55:08] smccarthy, quitting. (Quit: Leaving...)
+[2014-05-04 15:13:11] admc, joining. (#ios-driver)
