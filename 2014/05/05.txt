@@ -1,0 +1,6 @@
+[2014-05-05 04:15:25] ios-driver-git, joining. (#ios-driver)
+[2014-05-05 04:15:25] ios-driver-git: [ios-driver] freynaud pushed 6 new commits to dev: http://git.io/qwcR6g
+[2014-05-05 04:15:25] ios-driver-git: ios-driver/dev 6166105 freynaud: updating to selenium 41.
+[2014-05-05 04:15:25] ios-driver-git: ios-driver/dev 135fa06 freynaud: now that instruments runs in verbose mode, displaying the output is not helping
+[2014-05-05 04:15:25] ios-driver-git, leaving. (#ios-driver)
+[2014-05-05 04:15:25] ios-driver-git: ios-driver/dev 458d342 freynaud: fixing capability matcher logic.
