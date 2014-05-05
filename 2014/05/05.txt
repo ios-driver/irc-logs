@@ -31,3 +31,4 @@
 [2014-05-05 11:56:36] santiycr, quitting. (Quit: Leaving.)
 [2014-05-05 12:01:57] admc, joining. (#ios-driver)
 [2014-05-05 12:08:13] admc, quitting. (Quit: Leaving.)
+[2014-05-05 13:18:25] rodrigomartin, quitting. (Quit: Leaving.)
