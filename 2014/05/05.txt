@@ -8,3 +8,4 @@
 [2014-05-05 04:34:45] ios-driver-git: [ios-driver] freynaud force-pushed dev from 7469bb0 to b0b3ead: http://git.io/9xKjng
 [2014-05-05 04:34:45] ios-driver-git: ios-driver/dev b0b3ead freynaud: fixing build script
 [2014-05-05 04:34:45] ios-driver-git, leaving. (#ios-driver)
+[2014-05-05 04:41:52] nirvdrum, joining. (#ios-driver)
