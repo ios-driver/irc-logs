@@ -19,3 +19,7 @@
 [2014-05-05 09:40:09] smccarthy, joining. (#ios-driver)
 [2014-05-05 09:48:10] nirvdrum, quitting. (Remote host closed the connection)
 [2014-05-05 10:29:09] santiycr, joining. (#ios-driver)
+[2014-05-05 10:45:56] smccarthy2, joining. (#ios-driver)
+[2014-05-05 10:47:55] smccarthy2, quitting. (Read error: Connection reset by peer)
+[2014-05-05 10:48:17] smccarthy2, joining. (#ios-driver)
+[2014-05-05 10:49:18] smccarthy, quitting. (Ping timeout: 240 seconds)
