@@ -9,3 +9,4 @@
 [2014-05-05 04:34:45] ios-driver-git: ios-driver/dev b0b3ead freynaud: fixing build script
 [2014-05-05 04:34:45] ios-driver-git, leaving. (#ios-driver)
 [2014-05-05 04:41:52] nirvdrum, joining. (#ios-driver)
+[2014-05-05 04:48:44] rodrigomartin, joining. (#ios-driver)
