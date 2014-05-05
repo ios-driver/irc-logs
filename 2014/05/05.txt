@@ -4,3 +4,7 @@
 [2014-05-05 04:15:25] ios-driver-git: ios-driver/dev 135fa06 freynaud: now that instruments runs in verbose mode, displaying the output is not helping
 [2014-05-05 04:15:25] ios-driver-git, leaving. (#ios-driver)
 [2014-05-05 04:15:25] ios-driver-git: ios-driver/dev 458d342 freynaud: fixing capability matcher logic.
+[2014-05-05 04:34:44] ios-driver-git, joining. (#ios-driver)
+[2014-05-05 04:34:45] ios-driver-git: [ios-driver] freynaud force-pushed dev from 7469bb0 to b0b3ead: http://git.io/9xKjng
+[2014-05-05 04:34:45] ios-driver-git: ios-driver/dev b0b3ead freynaud: fixing build script
+[2014-05-05 04:34:45] ios-driver-git, leaving. (#ios-driver)
