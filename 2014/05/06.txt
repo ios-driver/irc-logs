@@ -7,3 +7,6 @@
 [2014-05-06 02:52:34] admc, quitting. (Ping timeout: 245 seconds)
 [2014-05-06 03:48:31] admc, joining. (#ios-driver)
 [2014-05-06 03:52:34] admc, quitting. (Ping timeout: 240 seconds)
+[2014-05-06 04:47:56] AutomatedTester_, joining. (#ios-driver)
+[2014-05-06 04:49:42] AutomatedTester, quitting. (Ping timeout: 258 seconds)
+[2014-05-06 04:49:44] AutomatedTester_, changing nick to AutomatedTester.
