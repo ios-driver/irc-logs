@@ -38,3 +38,5 @@
 [2014-05-06 15:45:14] admc, quitting. (Quit: Leaving.)
 [2014-05-06 15:47:25] jlipps, quitting. (Quit: Leaving.)
 [2014-05-06 16:02:43] lukeis, quitting. (Quit: Leaving.)
+[2014-05-06 16:45:49] admc, joining. (#ios-driver)
+[2014-05-06 16:49:55] admc, quitting. (Ping timeout: 250 seconds)
