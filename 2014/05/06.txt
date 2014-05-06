@@ -12,3 +12,4 @@
 [2014-05-06 04:49:44] AutomatedTester_, changing nick to AutomatedTester.
 [2014-05-06 05:06:12] nirvdrum, joining. (#ios-driver)
 [2014-05-06 05:46:10] rodrigomartin, joining. (#ios-driver)
+[2014-05-06 06:54:16] smccarthy, joining. (#ios-driver)
