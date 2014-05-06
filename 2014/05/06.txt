@@ -20,3 +20,4 @@
 [2014-05-06 08:29:31] admc, quitting. (Quit: Leaving.)
 [2014-05-06 08:45:14] MattD, quitting. (Quit: Page closed)
 [2014-05-06 09:30:02] admc, joining. (#ios-driver)
+[2014-05-06 09:52:07] smccarthy, quitting. (Quit: Leaving...)
