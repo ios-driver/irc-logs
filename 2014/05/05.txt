@@ -43,3 +43,4 @@
 [2014-05-05 16:23:41] admc, joining. (#ios-driver)
 [2014-05-05 16:25:06] smccarthy, quitting. (Quit: Leaving...)
 [2014-05-05 16:27:16] admc, quitting. (Client Quit)
+[2014-05-05 19:59:34] nirvdrum, quitting. (Ping timeout: 240 seconds)
