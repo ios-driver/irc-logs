@@ -1,2 +1,4 @@
 [2014-05-06 00:31:00] admc, joining. (#ios-driver)
 [2014-05-06 01:47:32] admc, quitting. (Quit: Leaving.)
+[2014-05-06 02:48:06] admc, joining. (#ios-driver)
+[2014-05-06 02:49:18] AutomatedTester_, joining. (#ios-driver)
