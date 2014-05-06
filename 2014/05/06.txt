@@ -22,3 +22,4 @@
 [2014-05-06 09:30:02] admc, joining. (#ios-driver)
 [2014-05-06 09:52:07] smccarthy, quitting. (Quit: Leaving...)
 [2014-05-06 10:27:01] smccarthy, joining. (#ios-driver)
+[2014-05-06 10:31:33] admc, quitting. (Quit: Leaving.)
