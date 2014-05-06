@@ -18,3 +18,4 @@
 [2014-05-06 08:14:36] admc, joining. (#ios-driver)
 [2014-05-06 08:24:45] lukeis, joining. (#ios-driver)
 [2014-05-06 08:29:31] admc, quitting. (Quit: Leaving.)
+[2014-05-06 08:45:14] MattD, quitting. (Quit: Page closed)
