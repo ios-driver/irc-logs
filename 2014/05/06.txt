@@ -47,3 +47,5 @@
 [2014-05-06 18:45:18] jlipps, quitting. (Quit: Leaving.)
 [2014-05-06 20:14:30] smccarthy, quitting. (Read error: Connection reset by peer)
 [2014-05-06 20:14:57] smccarthy, joining. (#ios-driver)
+[2014-05-06 20:34:23] santiycr, joining. (#ios-driver)
+[2014-05-06 20:34:42] santiycr1, joining. (#ios-driver)
