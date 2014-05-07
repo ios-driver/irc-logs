@@ -48,3 +48,5 @@
 [2014-05-07 14:11:29] Ragnaroek_, changing nick to Ragnaroek.
 [2014-05-07 14:14:35] admc, joining. (#ios-driver)
 [2014-05-07 14:27:29] admc, quitting. (Quit: Leaving.)
+[2014-05-07 14:37:07] smccarthy2, quitting. (Remote host closed the connection)
+[2014-05-07 14:38:30] smccarthy, joining. (#ios-driver)
