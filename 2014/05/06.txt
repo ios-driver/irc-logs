@@ -55,3 +55,6 @@
 [2014-05-06 21:25:44] santiycr1, quitting. (Quit: Leaving.)
 [2014-05-06 22:02:45] santiycr, joining. (#ios-driver)
 [2014-05-06 22:03:34] santiycr, quitting. (Client Quit)
+[2014-05-06 23:48:18] Ragnaroek, joining. (#ios-driver)
+[2014-05-06 23:48:44] Ragnaroek: hey, how to I build the driver from source?
+[2014-05-06 23:49:12] Ragnaroek: wasn't this documented somewhere, but its now gone?
