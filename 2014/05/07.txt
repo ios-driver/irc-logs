@@ -12,3 +12,9 @@
 [2014-05-07 04:49:20] ios-driver-git: ios-driver/dev 29408f8 freynaud: for hybrid app, when webkit is corrupted, it can be recovered from by reseting the wkrdp
 [2014-05-07 05:00:18] Ragnaroek, joining. (#ios-driver)
 [2014-05-07 05:03:48] Ragnaroek: how can I build ios-driver from source?
+[2014-05-07 05:16:19] ios-driver-git, joining. (#ios-driver)
+[2014-05-07 05:16:19] ios-driver-git: [ios-driver] freynaud pushed 5 new commits to dev: http://git.io/X_M0_w
+[2014-05-07 05:16:19] ios-driver-git: ios-driver/dev 1914aff freynaud: adding screenshot capabilitites for real device.
+[2014-05-07 05:16:19] ios-driver-git: ios-driver/dev b17870b freynaud: multiple fixies to make real device + grid working
+[2014-05-07 05:16:19] ios-driver-git: ios-driver/dev 1961f0b freynaud: fixing a bug where starting safari on a non deafault SDK for the first time would crash instruments
+[2014-05-07 05:16:19] ios-driver-git, leaving. (#ios-driver)
