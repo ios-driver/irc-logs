@@ -25,3 +25,4 @@
 [2014-05-07 06:09:58] ios-driver-git: ios-driver/dev 4c34acb freynaud: SDK version and the folder it's in do not always match.
 [2014-05-07 07:48:35] psp250, joining. (#ios-driver)
 [2014-05-07 08:14:47] smccarthy, joining. (#ios-driver)
+[2014-05-07 09:09:52] lukeis, joining. (#ios-driver)
