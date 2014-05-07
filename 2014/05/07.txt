@@ -18,3 +18,8 @@
 [2014-05-07 05:16:19] ios-driver-git: ios-driver/dev b17870b freynaud: multiple fixies to make real device + grid working
 [2014-05-07 05:16:19] ios-driver-git: ios-driver/dev 1961f0b freynaud: fixing a bug where starting safari on a non deafault SDK for the first time would crash instruments
 [2014-05-07 05:16:19] ios-driver-git, leaving. (#ios-driver)
+[2014-05-07 06:06:54] nirvdrum, joining. (#ios-driver)
+[2014-05-07 06:09:58] ios-driver-git, joining. (#ios-driver)
+[2014-05-07 06:09:58] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/lUO4Rw
+[2014-05-07 06:09:58] ios-driver-git, leaving. (#ios-driver)
+[2014-05-07 06:09:58] ios-driver-git: ios-driver/dev 4c34acb freynaud: SDK version and the folder it's in do not always match.
