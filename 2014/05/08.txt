@@ -2,3 +2,7 @@
 [2014-05-08 00:35:42] Ragnaroek, joining. (#ios-driver)
 [2014-05-08 00:47:33] admc, quitting. (Quit: Leaving.)
 [2014-05-08 01:16:30] jlipps, joining. (#ios-driver)
+[2014-05-08 01:32:11] ios-driver-git, joining. (#ios-driver)
+[2014-05-08 01:32:11] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/dKFZvg
+[2014-05-08 01:32:12] ios-driver-git, leaving. (#ios-driver)
+[2014-05-08 01:32:12] ios-driver-git: ios-driver/dev 9218a97 freynaud: adding some timer on flaky test
