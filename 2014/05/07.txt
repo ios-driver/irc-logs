@@ -64,3 +64,4 @@
 [2014-05-07 16:53:28] smccarthy2, quitting. (Quit: Leaving...)
 [2014-05-07 17:32:49] admc, quitting. (Quit: Leaving.)
 [2014-05-07 17:34:48] admc, joining. (#ios-driver)
+[2014-05-07 17:36:10] admc, quitting. (Client Quit)
