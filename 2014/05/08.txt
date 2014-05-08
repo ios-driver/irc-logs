@@ -32,3 +32,6 @@
 [2014-05-08 04:20:25] ios-driver-git, leaving. (#ios-driver)
 [2014-05-08 04:48:17] admc, joining. (#ios-driver)
 [2014-05-08 04:53:05] admc, quitting. (Ping timeout: 264 seconds)
+[2014-05-08 05:18:43] Ragnaroek_, joining. (#ios-driver)
+[2014-05-08 05:19:26] Ragnaroek, quitting. (Ping timeout: 265 seconds)
+[2014-05-08 05:19:29] Ragnaroek_, changing nick to Ragnaroek.
