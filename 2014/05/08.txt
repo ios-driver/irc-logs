@@ -47,3 +47,7 @@
 [2014-05-08 06:11:44] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/3uASXA
 [2014-05-08 06:11:44] ios-driver-git, leaving. (#ios-driver)
 [2014-05-08 06:11:44] ios-driver-git: ios-driver/dev bcf35fa freynaud: cleaning up session timeout flow
+[2014-05-08 06:31:02] ios-driver-git, joining. (#ios-driver)
+[2014-05-08 06:31:02] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/xWI4FQ
+[2014-05-08 06:31:02] ios-driver-git, leaving. (#ios-driver)
+[2014-05-08 06:31:02] ios-driver-git: ios-driver/dev 699744f freynaud: AlertException are valid
