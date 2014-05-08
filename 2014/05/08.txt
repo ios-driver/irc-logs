@@ -77,3 +77,7 @@
 [2014-05-08 13:39:20] santiycr, joining. (#ios-driver)
 [2014-05-08 13:58:16] smccarthy2, joining. (#ios-driver)
 [2014-05-08 14:01:35] smccarthy, quitting. (Ping timeout: 252 seconds)
+[2014-05-08 14:10:38] Ragnaroek_, joining. (#ios-driver)
+[2014-05-08 14:12:34] Ragnaroek, quitting. (Ping timeout: 245 seconds)
+[2014-05-08 14:12:56] Ragnaroek_, changing nick to Ragnaroek.
+[2014-05-08 14:14:53] Ragnaroek, quitting. (Remote host closed the connection)
