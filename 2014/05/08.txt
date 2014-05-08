@@ -31,3 +31,4 @@
 [2014-05-08 04:20:25] ios-driver-git: ios-driver/dev 6cfe5ad freynaud: adding more info when alert seems empty.wq
 [2014-05-08 04:20:25] ios-driver-git, leaving. (#ios-driver)
 [2014-05-08 04:48:17] admc, joining. (#ios-driver)
+[2014-05-08 04:53:05] admc, quitting. (Ping timeout: 264 seconds)
