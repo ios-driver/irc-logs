@@ -13,3 +13,5 @@
 [2014-05-08 01:50:23] ios-driver-git: ios-driver/dev e0ca341 freynaud: invalid class selector throw their own exception
 [2014-05-08 01:52:14] admc, quitting. (Ping timeout: 240 seconds)
 [2014-05-08 02:48:18] admc, joining. (#ios-driver)
+[2014-05-08 02:52:41] admc, quitting. (Ping timeout: 252 seconds)
+[2014-05-08 02:53:02] jlipps, quitting. (Quit: Leaving.)
