@@ -26,3 +26,7 @@
 [2014-05-08 04:13:23] ios-driver-git: ios-driver/dev 13d252e freynaud: changing the test to make it pass. not sure who should be responsible for the wait.Having it implicit might be betterwq
 [2014-05-08 04:13:24] ios-driver-git, leaving. (#ios-driver)
 [2014-05-08 04:17:02] jlipps, joining. (#ios-driver)
+[2014-05-08 04:20:25] ios-driver-git, joining. (#ios-driver)
+[2014-05-08 04:20:25] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/QW26_w
+[2014-05-08 04:20:25] ios-driver-git: ios-driver/dev 6cfe5ad freynaud: adding more info when alert seems empty.wq
+[2014-05-08 04:20:25] ios-driver-git, leaving. (#ios-driver)
