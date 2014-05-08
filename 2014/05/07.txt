@@ -75,3 +75,4 @@
 [2014-05-07 21:07:54] admc, quitting. (Ping timeout: 240 seconds)
 [2014-05-07 21:39:27] Ragnaroek, joining. (#ios-driver)
 [2014-05-07 21:51:12] Ragnaroek, quitting. (Ping timeout: 276 seconds)
+[2014-05-07 22:52:26] Ragnaroek, joining. (#ios-driver)
