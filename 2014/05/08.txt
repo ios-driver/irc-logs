@@ -61,3 +61,8 @@
 [2014-05-08 10:03:04] Ragnaroek, joining. (#ios-driver)
 [2014-05-08 10:13:58] Ragnaroek: anyone there?
 [2014-05-08 10:14:13] *lukeis hears crickets in this room ;)'
+[2014-05-08 10:15:04] Ragnaroek: are you working on the ios-driver?
+[2014-05-08 10:15:15] lukeis: i used to… not much anymore
+[2014-05-08 10:16:27] Ragnaroek: is there somewhere documentation on how to build the driver from source (there was one, but i cant't find it)
+[2014-05-08 10:18:41] lukeis: it's a maven project… so from the root run `mvn package -DskipTests=true`  (you don't want to run the tests yet)
+[2014-05-08 10:19:25] lukeis: and make sure you're on the 'dev' branch (i think that's the one used again… right nicegraham__ ?)
