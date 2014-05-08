@@ -65,3 +65,4 @@
 [2014-05-07 17:32:49] admc, quitting. (Quit: Leaving.)
 [2014-05-07 17:34:48] admc, joining. (#ios-driver)
 [2014-05-07 17:36:10] admc, quitting. (Client Quit)
+[2014-05-07 17:44:54] psp250, quitting. (Remote host closed the connection)
