@@ -84,3 +84,4 @@
 [2014-05-08 14:43:11] santiycr, quitting. (Quit: Leaving.)
 [2014-05-08 14:52:57] santiycr, joining. (#ios-driver)
 [2014-05-08 15:00:59] jlipps, quitting. (Quit: Leaving.)
+[2014-05-08 15:33:07] rodrigomartin, quitting. (Quit: Leaving.)
