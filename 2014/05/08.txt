@@ -1,2 +1,3 @@
 [2014-05-08 00:15:15] Ragnaroek, quitting. (Ping timeout: 258 seconds)
 [2014-05-08 00:35:42] Ragnaroek, joining. (#ios-driver)
+[2014-05-08 00:47:33] admc, quitting. (Quit: Leaving.)
