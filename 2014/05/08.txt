@@ -7,3 +7,8 @@
 [2014-05-08 01:32:12] ios-driver-git, leaving. (#ios-driver)
 [2014-05-08 01:32:12] ios-driver-git: ios-driver/dev 9218a97 freynaud: adding some timer on flaky test
 [2014-05-08 01:48:03] admc, joining. (#ios-driver)
+[2014-05-08 01:50:23] ios-driver-git, joining. (#ios-driver)
+[2014-05-08 01:50:23] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/QJXr5Q
+[2014-05-08 01:50:23] ios-driver-git, leaving. (#ios-driver)
+[2014-05-08 01:50:23] ios-driver-git: ios-driver/dev e0ca341 freynaud: invalid class selector throw their own exception
+[2014-05-08 01:52:14] admc, quitting. (Ping timeout: 240 seconds)
