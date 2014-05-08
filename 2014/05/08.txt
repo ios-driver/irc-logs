@@ -42,3 +42,4 @@
 [2014-05-08 05:32:07] Ragnaroek, quitting. (Read error: Connection reset by peer)
 [2014-05-08 05:32:18] Ragnaroek_, changing nick to Ragnaroek.
 [2014-05-08 05:39:33] jlipps, joining. (#ios-driver)
+[2014-05-08 05:52:26] nirvdrum, quitting. (Remote host closed the connection)
