@@ -82,3 +82,4 @@
 [2014-05-08 14:12:56] Ragnaroek_, changing nick to Ragnaroek.
 [2014-05-08 14:14:53] Ragnaroek, quitting. (Remote host closed the connection)
 [2014-05-08 14:43:11] santiycr, quitting. (Quit: Leaving.)
+[2014-05-08 14:52:57] santiycr, joining. (#ios-driver)
