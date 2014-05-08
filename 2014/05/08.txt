@@ -38,3 +38,6 @@
 [2014-05-08 05:23:28] nirvdrum, joining. (#ios-driver)
 [2014-05-08 05:29:06] jlipps, quitting. (Quit: Leaving.)
 [2014-05-08 05:29:31] rodrigomartin, joining. (#ios-driver)
+[2014-05-08 05:32:06] Ragnaroek_, joining. (#ios-driver)
+[2014-05-08 05:32:07] Ragnaroek, quitting. (Read error: Connection reset by peer)
+[2014-05-08 05:32:18] Ragnaroek_, changing nick to Ragnaroek.
