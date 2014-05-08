@@ -19,3 +19,4 @@
 [2014-05-08 03:19:25] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/eb99jg
 [2014-05-08 03:19:25] ios-driver-git: ios-driver/dev b4fa13d freynaud: cleaning up crash detection.
 [2014-05-08 03:19:25] ios-driver-git, leaving. (#ios-driver)
+[2014-05-08 03:38:13] jlipps, joining. (#ios-driver)
