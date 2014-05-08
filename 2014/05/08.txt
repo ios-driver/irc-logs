@@ -15,3 +15,7 @@
 [2014-05-08 02:48:18] admc, joining. (#ios-driver)
 [2014-05-08 02:52:41] admc, quitting. (Ping timeout: 252 seconds)
 [2014-05-08 02:53:02] jlipps, quitting. (Quit: Leaving.)
+[2014-05-08 03:19:25] ios-driver-git, joining. (#ios-driver)
+[2014-05-08 03:19:25] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/eb99jg
+[2014-05-08 03:19:25] ios-driver-git: ios-driver/dev b4fa13d freynaud: cleaning up crash detection.
+[2014-05-08 03:19:25] ios-driver-git, leaving. (#ios-driver)
