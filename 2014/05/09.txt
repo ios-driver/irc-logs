@@ -2,3 +2,5 @@
 [2014-05-09 01:10:20] admc, joining. (#ios-driver)
 [2014-05-09 01:16:44] Ragnaroek, quitting. (Remote host closed the connection)
 [2014-05-09 01:40:05] Ragnaroek, joining. (#ios-driver)
+[2014-05-09 02:21:54] admc, quitting. (Ping timeout: 240 seconds)
+[2014-05-09 02:23:26] admc, joining. (#ios-driver)
