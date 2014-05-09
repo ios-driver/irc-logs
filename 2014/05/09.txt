@@ -7,3 +7,4 @@
 [2014-05-09 03:21:21] admc, quitting. (Quit: Leaving.)
 [2014-05-09 05:22:16] admc, joining. (#ios-driver)
 [2014-05-09 05:26:20] admc, quitting. (Ping timeout: 240 seconds)
+[2014-05-09 05:43:06] rodrigomartin, joining. (#ios-driver)
