@@ -44,3 +44,5 @@
 [2014-05-12 15:01:38] santiycr, joining. (#ios-driver)
 [2014-05-12 15:17:00] admc, quitting. (Quit: Leaving.)
 [2014-05-12 15:24:13] admc, joining. (#ios-driver)
+[2014-05-12 15:29:04] admc, quitting. (Client Quit)
+[2014-05-12 15:29:18] admc, joining. (#ios-driver)
