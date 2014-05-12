@@ -13,3 +13,7 @@
 [2014-05-12 03:24:35] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/S5cDEg
 [2014-05-12 03:24:35] ios-driver-git: ios-driver/dev 3200431 freynaud: fixing #221. Making the app start timeout time configurable with -newSessiontimeoutSec
 [2014-05-12 03:24:35] ios-driver-git, leaving. (#ios-driver)
+[2014-05-12 04:16:05] ios-driver-git, joining. (#ios-driver)
+[2014-05-12 04:16:05] ios-driver-git: [ios-driver] freynaud force-pushed dev from 3200431 to 48f8b49: http://git.io/9xKjng
+[2014-05-12 04:16:05] ios-driver-git, leaving. (#ios-driver)
+[2014-05-12 04:16:05] ios-driver-git: ios-driver/dev 48f8b49 freynaud: fixing #221. Making the app start timeout time configurable with -newSessiontimeoutSec
