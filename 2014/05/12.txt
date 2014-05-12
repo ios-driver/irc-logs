@@ -1,3 +1,11 @@
 [2014-05-12 01:02:19] admc, quitting. (Ping timeout: 240 seconds)
 [2014-05-12 01:12:22] admc1, joining. (#ios-driver)
 [2014-05-12 01:36:42] admc1, quitting. (Quit: Leaving.)
+[2014-05-12 02:06:20] ios-driver-git, joining. (#ios-driver)
+[2014-05-12 02:06:20] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/Jhpzcw
+[2014-05-12 02:06:20] ios-driver-git, leaving. (#ios-driver)
+[2014-05-12 02:06:20] ios-driver-git: ios-driver/dev 0dbd010 François Reynaud: Update README.md
+[2014-05-12 02:06:30] ios-driver-git, joining. (#ios-driver)
+[2014-05-12 02:06:30] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/foABAQ
+[2014-05-12 02:06:30] ios-driver-git, leaving. (#ios-driver)
+[2014-05-12 02:06:30] ios-driver-git: ios-driver/dev efb7f61 François Reynaud: Update README.md
