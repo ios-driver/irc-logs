@@ -21,3 +21,4 @@
 [2014-05-12 04:59:04] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/a8beGw
 [2014-05-12 04:59:05] ios-driver-git: ios-driver/dev e0714fb freynaud: with ios7, accessing special characters has changed a bit, with a new popup appearing the first time....
 [2014-05-12 04:59:05] ios-driver-git, leaving. (#ios-driver)
+[2014-05-12 07:01:54] rodrigomartin, joining. (#ios-driver)
