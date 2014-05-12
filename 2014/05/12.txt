@@ -24,3 +24,5 @@
 [2014-05-12 07:01:54] rodrigomartin, joining. (#ios-driver)
 [2014-05-12 08:36:07] smccarthy, joining. (#ios-driver)
 [2014-05-12 09:08:48] lukeis, joining. (#ios-driver)
+[2014-05-12 09:10:49] psp250, joining. (#ios-driver)
+[2014-05-12 09:12:39] santiycr, joining. (#ios-driver)
