@@ -38,3 +38,4 @@
 [2014-05-12 11:26:48] admc, quitting. (Quit: Leaving.)
 [2014-05-12 11:46:47] nirvdrum, joining. (#ios-driver)
 [2014-05-12 12:14:23] admc, joining. (#ios-driver)
+[2014-05-12 12:44:16] santiycr1, quitting. (Quit: Leaving.)
