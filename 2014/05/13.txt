@@ -1,2 +1,8 @@
 [2014-05-13 01:32:30] jlipps, joining. (#ios-driver)
 [2014-05-13 01:57:25] jlipps, quitting. (Quit: Leaving.)
+[2014-05-13 02:27:17] ios-driver-git, joining. (#ios-driver)
+[2014-05-13 02:27:17] ios-driver-git: [ios-driver] freynaud force-pushed dev from e0714fb to 571f8b1: http://git.io/9xKjng
+[2014-05-13 02:27:17] ios-driver-git: ios-driver/dev 5901f7a freynaud:  making instruments more verbose. #199
+[2014-05-13 02:27:17] ios-driver-git, leaving. (#ios-driver)
+[2014-05-13 02:27:17] ios-driver-git: ios-driver/dev d006139 freynaud: making the ssl ignore flag of capabilities active.
+[2014-05-13 02:27:17] ios-driver-git: ios-driver/dev 477c0eb Samuel Horwitz: Updating async script tests and adding script timeout tests...
