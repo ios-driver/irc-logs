@@ -59,3 +59,4 @@
 [2014-05-12 18:27:08] santiycr, quitting. (Quit: Leaving.)
 [2014-05-12 19:13:05] smccarthy, joining. (#ios-driver)
 [2014-05-12 21:01:18] nirvdrum, quitting. (Remote host closed the connection)
+[2014-05-12 21:12:35] smccarthy, quitting. (Quit: Leaving...)
