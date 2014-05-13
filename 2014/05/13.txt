@@ -8,3 +8,4 @@
 [2014-05-13 02:27:17] ios-driver-git: ios-driver/dev 477c0eb Samuel Horwitz: Updating async script tests and adding script timeout tests...
 [2014-05-13 05:37:00] nirvdrum, joining. (#ios-driver)
 [2014-05-13 06:50:51] dgrace, joining. (#ios-driver)
+[2014-05-13 08:22:49] lukeis, joining. (#ios-driver)
