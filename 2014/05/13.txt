@@ -6,3 +6,4 @@
 [2014-05-13 02:27:17] ios-driver-git, leaving. (#ios-driver)
 [2014-05-13 02:27:17] ios-driver-git: ios-driver/dev d006139 freynaud: making the ssl ignore flag of capabilities active.
 [2014-05-13 02:27:17] ios-driver-git: ios-driver/dev 477c0eb Samuel Horwitz: Updating async script tests and adding script timeout tests...
+[2014-05-13 05:37:00] nirvdrum, joining. (#ios-driver)
