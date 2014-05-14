@@ -41,3 +41,5 @@
 [2014-05-14 14:13:07] rsalvador, joining. (#ios-driver)
 [2014-05-14 14:13:33] rsalvador, leaving. (#ios-driver)
 [2014-05-14 15:12:49] lukeis, quitting. (Quit: Leaving.)
+[2014-05-14 15:27:47] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-05-14 15:28:25] smccarthy, quitting. (Quit: Leaving...)
