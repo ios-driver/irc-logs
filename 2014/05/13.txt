@@ -39,3 +39,4 @@
 [2014-05-13 17:19:17] psp250, quitting. (Quit: Leaving)
 [2014-05-13 17:36:57] santiycr, quitting. (Quit: Leaving.)
 [2014-05-13 17:38:14] santiycr, joining. (#ios-driver)
+[2014-05-13 17:51:39] santiycr, quitting. (Quit: Leaving.)
