@@ -41,3 +41,4 @@
 [2014-05-13 17:38:14] santiycr, joining. (#ios-driver)
 [2014-05-13 17:51:39] santiycr, quitting. (Quit: Leaving.)
 [2014-05-13 18:15:25] santiycr, joining. (#ios-driver)
+[2014-05-13 18:28:52] santiycr, quitting. (Quit: Leaving.)
