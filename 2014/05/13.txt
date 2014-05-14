@@ -36,3 +36,4 @@
 [2014-05-13 16:18:45] admc2, joining. (#ios-driver)
 [2014-05-13 16:22:42] admc, quitting. (Ping timeout: 240 seconds)
 [2014-05-13 16:33:58] smccarthy, quitting. (Quit: Leaving...)
+[2014-05-13 17:19:17] psp250, quitting. (Quit: Leaving)
