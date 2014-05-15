@@ -28,3 +28,5 @@
 [2014-05-15 14:28:30] freynaud____, joining. (#ios-driver)
 [2014-05-15 14:29:13] dgrace, joining. (#ios-driver)
 [2014-05-15 15:41:44] lukeis, quitting. (Quit: Leaving.)
+[2014-05-15 15:56:58] smccarthy2, joining. (#ios-driver)
+[2014-05-15 15:59:58] smccarthy, quitting. (Ping timeout: 240 seconds)
