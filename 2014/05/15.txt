@@ -10,3 +10,4 @@
 [2014-05-15 10:09:07] santiycr, quitting. (Ping timeout: 240 seconds)
 [2014-05-15 10:09:26] santiycr, joining. (#ios-driver)
 [2014-05-15 11:18:45] santiycr, quitting. (Quit: Leaving.)
+[2014-05-15 11:43:32] santiycr, joining. (#ios-driver)
