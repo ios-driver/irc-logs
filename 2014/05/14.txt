@@ -60,3 +60,4 @@
 [2014-05-14 19:36:31] freynaud____, quitting. (Read error: Connection reset by peer)
 [2014-05-14 19:40:04] freynaud____, joining. (#ios-driver)
 [2014-05-14 21:42:56] santiycr, joining. (#ios-driver)
+[2014-05-14 22:21:58] lukeis, joining. (#ios-driver)
