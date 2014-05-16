@@ -1,1 +1,3 @@
 [2014-05-16 00:10:58] jlipps, joining. (#ios-driver)
+[2014-05-16 00:18:58] dgrace, leaving. (#ios-driver)
+[2014-05-16 00:19:01] dgrace, joining. (#ios-driver)
