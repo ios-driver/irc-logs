@@ -2,3 +2,5 @@
 [2014-05-16 00:18:58] dgrace, leaving. (#ios-driver)
 [2014-05-16 00:19:01] dgrace, joining. (#ios-driver)
 [2014-05-16 01:10:15] jlipps, quitting. (Quit: Leaving.)
+[2014-05-16 01:49:49] jlipps, joining. (#ios-driver)
+[2014-05-16 01:49:58] jlipps, quitting. (Client Quit)
