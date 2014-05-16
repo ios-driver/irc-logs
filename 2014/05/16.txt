@@ -38,3 +38,4 @@
 [2014-05-16 15:35:23] dmarr, quitting. (*.net *.split)
 [2014-05-16 15:36:01] dmarr, joining. (#ios-driver)
 [2014-05-16 15:50:15] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-05-16 16:00:00] smccarthy, quitting. (Remote host closed the connection)
