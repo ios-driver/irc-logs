@@ -20,3 +20,4 @@
 [2014-05-16 09:05:53] santiycr, quitting. (Ping timeout: 240 seconds)
 [2014-05-16 09:39:17] santiycr, joining. (#ios-driver)
 [2014-05-16 09:39:18] santiycr1, quitting. (Read error: Connection reset by peer)
+[2014-05-16 09:51:01] santiycr, quitting. (Quit: Leaving.)
