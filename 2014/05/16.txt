@@ -7,3 +7,5 @@
 [2014-05-16 05:19:42] dgrace, quitting. (Quit: Connection closed for inactivity)
 [2014-05-16 06:06:13] rodrigomartin, joining. (#ios-driver)
 [2014-05-16 06:32:06] smccarthy, joining. (#ios-driver)
+[2014-05-16 06:46:12] ios-driverbot_, joining. (#ios-driver)
+[2014-05-16 06:46:28] AutomatedTester, joining. (#ios-driver)
