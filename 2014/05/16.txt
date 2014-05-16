@@ -23,3 +23,5 @@
 [2014-05-16 09:51:01] santiycr, quitting. (Quit: Leaving.)
 [2014-05-16 09:59:11] nirvdrum, quitting. (Remote host closed the connection)
 [2014-05-16 10:33:13] santiycr, joining. (#ios-driver)
+[2014-05-16 10:41:37] santiycr1, joining. (#ios-driver)
+[2014-05-16 10:41:37] santiycr, quitting. (Read error: Connection reset by peer)
