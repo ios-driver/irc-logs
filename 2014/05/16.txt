@@ -6,3 +6,4 @@
 [2014-05-16 01:49:58] jlipps, quitting. (Client Quit)
 [2014-05-16 05:19:42] dgrace, quitting. (Quit: Connection closed for inactivity)
 [2014-05-16 06:06:13] rodrigomartin, joining. (#ios-driver)
+[2014-05-16 06:32:06] smccarthy, joining. (#ios-driver)
