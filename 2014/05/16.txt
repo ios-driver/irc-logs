@@ -9,3 +9,4 @@
 [2014-05-16 06:32:06] smccarthy, joining. (#ios-driver)
 [2014-05-16 06:46:12] ios-driverbot_, joining. (#ios-driver)
 [2014-05-16 06:46:28] AutomatedTester, joining. (#ios-driver)
+[2014-05-16 07:17:34] smccarthy, quitting. (Read error: Connection reset by peer)
