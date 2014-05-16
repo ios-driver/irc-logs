@@ -12,3 +12,4 @@
 [2014-05-16 07:17:34] smccarthy, quitting. (Read error: Connection reset by peer)
 [2014-05-16 08:13:48] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-05-16 08:14:05] rodrigomartin, joining. (#ios-driver)
+[2014-05-16 08:16:03] santiycr, joining. (#ios-driver)
