@@ -40,3 +40,5 @@
 [2014-05-16 15:50:15] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-05-16 16:00:00] smccarthy, quitting. (Remote host closed the connection)
 [2014-05-16 16:49:49] rsalvador, joining. (#ios-driver)
+[2014-05-16 17:03:01] rsalvador, quitting. (Ping timeout: 252 seconds)
+[2014-05-16 17:03:19] santiycr, quitting. (Quit: Leaving.)
