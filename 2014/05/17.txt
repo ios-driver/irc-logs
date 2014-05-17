@@ -7,3 +7,5 @@
 [2014-05-17 07:30:28] jlipps, joining. (#ios-driver)
 [2014-05-17 08:41:30] smccarthy, joining. (#ios-driver)
 [2014-05-17 08:56:33] jlipps, quitting. (Ping timeout: 265 seconds)
+[2014-05-17 09:00:12] santiycr, joining. (#ios-driver)
+[2014-05-17 09:04:34] admc, joining. (#ios-driver)
