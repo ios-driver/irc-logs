@@ -46,3 +46,4 @@
 [2014-05-16 17:35:40] rsalvador, joining. (#ios-driver)
 [2014-05-16 17:36:42] rsalvador, quitting. (Client Quit)
 [2014-05-16 18:34:24] santiycr, quitting. (Quit: Leaving.)
+[2014-05-16 23:19:15] santiycr, joining. (#ios-driver)
