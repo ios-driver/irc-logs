@@ -13,3 +13,6 @@
 [2014-05-18 15:13:34] smccarthy, quitting. (*.net *.split)
 [2014-05-18 15:13:36] dmarr, quitting. (*.net *.split)
 [2014-05-18 15:13:40] nicegraham__, quitting. (*.net *.split)
+[2014-05-18 15:19:41] smccarthy, joining. (#ios-driver)
+[2014-05-18 15:19:41] dmarr, joining. (#ios-driver)
+[2014-05-18 15:19:41] nicegraham__, joining. (#ios-driver)
