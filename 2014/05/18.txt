@@ -10,3 +10,6 @@
 [2014-05-18 13:34:58] admc, joining. (#ios-driver)
 [2014-05-18 13:47:11] admc, quitting. (Quit: Leaving.)
 [2014-05-18 14:49:08] admc, joining. (#ios-driver)
+[2014-05-18 15:13:34] smccarthy, quitting. (*.net *.split)
+[2014-05-18 15:13:36] dmarr, quitting. (*.net *.split)
+[2014-05-18 15:13:40] nicegraham__, quitting. (*.net *.split)
