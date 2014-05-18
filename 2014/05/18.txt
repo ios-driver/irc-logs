@@ -6,3 +6,4 @@
 [2014-05-18 11:02:47] admc, joining. (#ios-driver)
 [2014-05-18 11:07:29] admc, quitting. (Ping timeout: 264 seconds)
 [2014-05-18 12:08:24] jlipps, joining. (#ios-driver)
+[2014-05-18 12:10:54] jlipps, quitting. (Client Quit)
