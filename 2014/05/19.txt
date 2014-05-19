@@ -19,3 +19,6 @@
 [2014-05-19 12:41:04] admc, quitting. (Quit: Leaving.)
 [2014-05-19 12:48:08] santiycr, quitting. (Quit: Leaving.)
 [2014-05-19 12:54:05] AutomatedTester, quitting. (Ping timeout: 245 seconds)
+[2014-05-19 13:00:34] AutomatedTester, joining. (#ios-driver)
+[2014-05-19 13:00:38] AutomatedTester, quitting. (Changing host)
+[2014-05-19 13:00:38] AutomatedTester, joining. (#ios-driver)
