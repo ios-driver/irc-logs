@@ -24,3 +24,4 @@
 [2014-05-19 13:00:38] AutomatedTester, joining. (#ios-driver)
 [2014-05-19 13:14:22] admc, joining. (#ios-driver)
 [2014-05-19 13:18:39] santiycr, joining. (#ios-driver)
+[2014-05-19 13:31:56] santiycr, quitting. (Ping timeout: 255 seconds)
