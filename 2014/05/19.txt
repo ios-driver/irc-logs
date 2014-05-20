@@ -38,3 +38,4 @@
 [2014-05-19 15:36:11] santiycr, quitting. (Read error: Connection reset by peer)
 [2014-05-19 15:38:38] smccarthy2, quitting. (Quit: Leaving...)
 [2014-05-19 16:04:24] lukeis, quitting. (Quit: Leaving.)
+[2014-05-19 19:32:59] admc, quitting. (Quit: Leaving.)
