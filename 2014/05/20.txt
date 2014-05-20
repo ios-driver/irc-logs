@@ -2,3 +2,7 @@
 [2014-05-20 04:30:22] rodrigomartin, joining. (#ios-driver)
 [2014-05-20 05:26:40] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-05-20 05:30:40] rodrigomartin, joining. (#ios-driver)
+[2014-05-20 06:25:25] ios-driver-git, joining. (#ios-driver)
+[2014-05-20 06:25:25] ios-driver-git: [ios-driver] mmmulani pushed 1 new commit to dev: http://git.io/Vi2NBA
+[2014-05-20 06:25:25] ios-driver-git, leaving. (#ios-driver)
+[2014-05-20 06:25:25] ios-driver-git: ios-driver/dev ff27313 Mehdi Mulani: Handle stderr output when running `xcodebuild -showsdks`...
