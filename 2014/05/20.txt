@@ -22,3 +22,4 @@
 [2014-05-20 09:36:45] ios-driver-git: ios-driver/testExecutor 1b64e70 freynaud: first draft of real vs sim refactoring
 [2014-05-20 09:36:45] ios-driver-git, leaving. (#ios-driver)
 [2014-05-20 09:46:59] admc, joining. (#ios-driver)
+[2014-05-20 09:51:18] santiycr, joining. (#ios-driver)
