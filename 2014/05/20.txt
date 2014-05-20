@@ -15,3 +15,9 @@
 [2014-05-20 09:17:14] rsalvador, quitting. (Ping timeout: 255 seconds)
 [2014-05-20 09:19:20] rsalvador1, leaving. (#ios-driver)
 [2014-05-20 09:27:00] rsalvador, joining. (#ios-driver)
+[2014-05-20 09:36:45] ios-driver-git, joining. (#ios-driver)
+[2014-05-20 09:36:45] ios-driver-git: [ios-driver] freynaud created testExecutor (+8 new commits): http://git.io/ocmExQ
+[2014-05-20 09:36:45] ios-driver-git: ios-driver/testExecutor 1571db3 freynaud: adding icons for the project
+[2014-05-20 09:36:45] ios-driver-git: ios-driver/testExecutor 2ccb825 freynaud: handling xcode install with warnings
+[2014-05-20 09:36:45] ios-driver-git: ios-driver/testExecutor 1b64e70 freynaud: first draft of real vs sim refactoring
+[2014-05-20 09:36:45] ios-driver-git, leaving. (#ios-driver)
