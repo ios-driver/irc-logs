@@ -40,3 +40,4 @@
 [2014-05-20 13:01:32] admc, quitting. (Client Quit)
 [2014-05-20 13:08:03] admc, joining. (#ios-driver)
 [2014-05-20 13:13:22] admc, quitting. (Quit: Leaving.)
+[2014-05-20 13:20:01] santiycr, joining. (#ios-driver)
