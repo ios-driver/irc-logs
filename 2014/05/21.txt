@@ -5,3 +5,4 @@
 [2014-05-21 01:08:29] ios-driver-git: ios-driver/dev 4315bfb freynaud: handling xcode install with warnings
 [2014-05-21 01:08:29] ios-driver-git: ios-driver/dev 6f8f327 freynaud: adding icons for the project
 [2014-05-21 01:27:21] admc, quitting. (Quit: Leaving.)
+[2014-05-21 06:00:02] rodrigomartin, joining. (#ios-driver)
