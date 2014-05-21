@@ -6,3 +6,4 @@
 [2014-05-21 01:08:29] ios-driver-git: ios-driver/dev 6f8f327 freynaud: adding icons for the project
 [2014-05-21 01:27:21] admc, quitting. (Quit: Leaving.)
 [2014-05-21 06:00:02] rodrigomartin, joining. (#ios-driver)
+[2014-05-21 08:17:03] smccarthy, joining. (#ios-driver)
