@@ -24,3 +24,5 @@
 [2014-05-21 13:18:48] santiycr, joining. (#ios-driver)
 [2014-05-21 14:04:33] admc, joining. (#ios-driver)
 [2014-05-21 14:12:39] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-05-21 14:45:31] smccarthy2, joining. (#ios-driver)
+[2014-05-21 14:48:34] smccarthy, quitting. (Ping timeout: 258 seconds)
