@@ -17,3 +17,5 @@
 [2014-05-21 10:53:15] rodrigomartin, joining. (#ios-driver)
 [2014-05-21 11:15:05] santiycr, joining. (#ios-driver)
 [2014-05-21 11:26:59] admc, joining. (#ios-driver)
+[2014-05-21 11:35:23] santiycr, quitting. (Read error: Connection reset by peer)
+[2014-05-21 11:35:25] santiycr1, joining. (#ios-driver)
