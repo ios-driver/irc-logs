@@ -11,3 +11,11 @@
 [2014-05-22 06:19:43] rodrigomartin, joining. (#ios-driver)
 [2014-05-22 08:16:00] lukeis, joining. (#ios-driver)
 [2014-05-22 08:22:37] smccarthy, joining. (#ios-driver)
+[2014-05-22 08:57:29] mmmulani, joining. (#ios-driver)
+[2014-05-22 08:58:07] mmmulani: freynaud____: hey, I'm running into a problem with the /status endpoint. it looks like every time you hit it, it tries to make a new session
+[2014-05-22 08:58:10] mmmulani: is that expected?
+[2014-05-22 08:58:47] freynaud____: what do you mean "tries to make a new session" ?
+[2014-05-22 08:58:59] freynaud____: does it start a sim ?
+[2014-05-22 08:59:09] mmmulani: oh no
+[2014-05-22 08:59:17] mmmulani: it'll error out with "NI multiple sessions"
+[2014-05-22 08:59:26] mmmulani: I think it's because the :sessionId is not passed to the status endpoint
