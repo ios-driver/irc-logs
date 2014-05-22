@@ -46,3 +46,4 @@
 [2014-05-22 09:27:20] mmmulani: i'll debug further though :)
 [2014-05-22 10:07:03] santiycr, joining. (#ios-driver)
 [2014-05-22 10:26:09] rodrigomartin, quitting. (Ping timeout: 276 seconds)
+[2014-05-22 10:47:05] rodrigomartin, joining. (#ios-driver)
