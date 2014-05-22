@@ -22,3 +22,15 @@
 [2014-05-22 09:08:01] mmmulani: freynaud____: ^^ ?
 [2014-05-22 09:08:33] freynaud____: hum
 [2014-05-22 09:09:42] freynaud____: do you have the stacktrace?
+[2014-05-22 09:10:05] mmmulani: yeah, lemme put it up
+[2014-05-22 09:10:31] mmmulani: http://pastebin.com/EeywxLsL
+[2014-05-22 09:10:45] mmmulani: you can repro it if you start a session and then hit that endpoint in your browser
+[2014-05-22 09:10:49] freynaud____: why do you have multiple sessions ?
+[2014-05-22 09:11:28] freynaud____: are you running multiple safari on real devices ?
+[2014-05-22 09:12:02] freynaud____: i see the problem you have, but I don't see how you reached that point in a normal workflow
+[2014-05-22 09:12:37] mmmulani: ahhh hmmm
+[2014-05-22 09:13:10] mmmulani: I was thinking that the /status endpoint would create a new session (automatically) but maybe we are excessively creating sessions :P
+[2014-05-22 09:14:21] freynaud____: status doesn't create
+[2014-05-22 09:14:28] mmmulani: ahhh, which endpoint does?
+[2014-05-22 09:14:44] freynaud____: post /session
+[2014-05-22 09:14:53] freynaud____: is how you'd create a session
