@@ -42,3 +42,5 @@
 [2014-05-22 09:15:27] freynaud____: is for removing the exception you see
 [2014-05-22 09:15:45] freynaud____: but there is still something wrong creating your state inthe first place
 [2014-05-22 09:17:01] mmmulani: yeah :/ debugging now
+[2014-05-22 09:27:10] mmmulani: hmmm weird, looks like we're getting 2 sessions but only hitting the endpoint once
+[2014-05-22 09:27:20] mmmulani: i'll debug further though :)
