@@ -45,3 +45,4 @@
 [2014-05-22 09:27:10] mmmulani: hmmm weird, looks like we're getting 2 sessions but only hitting the endpoint once
 [2014-05-22 09:27:20] mmmulani: i'll debug further though :)
 [2014-05-22 10:07:03] santiycr, joining. (#ios-driver)
+[2014-05-22 10:26:09] rodrigomartin, quitting. (Ping timeout: 276 seconds)
