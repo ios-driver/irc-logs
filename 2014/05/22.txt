@@ -9,3 +9,4 @@
 [2014-05-22 00:56:47] admc, quitting. (Client Quit)
 [2014-05-22 05:48:11] nirvdrum, joining. (#ios-driver)
 [2014-05-22 06:19:43] rodrigomartin, joining. (#ios-driver)
+[2014-05-22 08:16:00] lukeis, joining. (#ios-driver)
