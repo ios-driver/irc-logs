@@ -34,3 +34,11 @@
 [2014-05-22 09:14:28] mmmulani: ahhh, which endpoint does?
 [2014-05-22 09:14:44] freynaud____: post /session
 [2014-05-22 09:14:53] freynaud____: is how you'd create a session
+[2014-05-22 09:15:02] mmmulani: ah cool, I'll debug this
+[2014-05-22 09:15:03] freynaud____: status is supposed to monitor what's happening
+[2014-05-22 09:15:06] mmmulani: looks like we're doing something clowny :)
+[2014-05-22 09:15:06] freynaud____: not change it
+[2014-05-22 09:15:17] freynaud____: https://github.com/ios-driver/ios-driver/issues/262
+[2014-05-22 09:15:27] freynaud____: is for removing the exception you see
+[2014-05-22 09:15:45] freynaud____: but there is still something wrong creating your state inthe first place
+[2014-05-22 09:17:01] mmmulani: yeah :/ debugging now
