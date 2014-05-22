@@ -19,3 +19,6 @@
 [2014-05-22 08:59:09] mmmulani: oh no
 [2014-05-22 08:59:17] mmmulani: it'll error out with "NI multiple sessions"
 [2014-05-22 08:59:26] mmmulani: I think it's because the :sessionId is not passed to the status endpoint
+[2014-05-22 09:08:01] mmmulani: freynaud____: ^^ ?
+[2014-05-22 09:08:33] freynaud____: hum
+[2014-05-22 09:09:42] freynaud____: do you have the stacktrace?
