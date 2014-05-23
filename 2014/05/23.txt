@@ -29,3 +29,4 @@
 [2014-05-23 11:32:33] lukeis, joining. (#ios-driver)
 [2014-05-23 11:54:13] admc1, quitting. (Quit: Leaving.)
 [2014-05-23 11:57:43] admc, joining. (#ios-driver)
+[2014-05-23 12:21:45] santiycr, quitting. (Quit: Leaving.)
