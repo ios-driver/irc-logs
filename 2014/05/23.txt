@@ -6,3 +6,4 @@
 [2014-05-23 07:34:31] admc, joining. (#ios-driver)
 [2014-05-23 07:44:47] smccarthy, joining. (#ios-driver)
 [2014-05-23 07:49:48] mmmulani: freynaud____: hey, is there a way to "preload" the simulator with any images?
+[2014-05-23 07:51:34] mmmulani: there's a folder you can put images in but you must restart the simulator for it to take effect, so it'd be nice to put it in the simulator content directory before starting up the first time
