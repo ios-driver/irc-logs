@@ -5,3 +5,4 @@
 [2014-05-23 07:34:14] admc, quitting. (Client Quit)
 [2014-05-23 07:34:31] admc, joining. (#ios-driver)
 [2014-05-23 07:44:47] smccarthy, joining. (#ios-driver)
+[2014-05-23 07:49:48] mmmulani: freynaud____: hey, is there a way to "preload" the simulator with any images?
