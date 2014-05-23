@@ -14,3 +14,4 @@
 [2014-05-23 08:13:17] lukeis, quitting. (Ping timeout: 276 seconds)
 [2014-05-23 08:55:30] lukeis1, changing nick to lukeis.
 [2014-05-23 09:13:47] santiycr, joining. (#ios-driver)
+[2014-05-23 09:38:54] admc, quitting. (Quit: Leaving.)
