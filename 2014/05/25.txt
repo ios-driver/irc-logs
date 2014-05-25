@@ -4,3 +4,4 @@
 [2014-05-25 07:03:51] nirvdrum_, changing nick to nirvdrum.
 [2014-05-25 08:25:53] admc, joining. (#ios-driver)
 [2014-05-25 08:28:41] smccarthy, joining. (#ios-driver)
+[2014-05-25 08:32:36] admc, quitting. (Quit: Leaving.)
