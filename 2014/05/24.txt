@@ -5,3 +5,4 @@
 [2014-05-24 12:12:58] admc, quitting. (Quit: Leaving.)
 [2014-05-24 20:26:49] AutomatedTester, quitting. (Ping timeout: 252 seconds)
 [2014-05-24 20:28:08] AutomatedTester, joining. (#ios-driver)
+[2014-05-24 21:18:52] smccarthy, quitting. (Quit: Leaving...)
