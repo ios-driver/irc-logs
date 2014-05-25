@@ -7,3 +7,4 @@
 [2014-05-24 20:28:08] AutomatedTester, joining. (#ios-driver)
 [2014-05-24 21:18:52] smccarthy, quitting. (Quit: Leaving...)
 [2014-05-24 21:35:29] admc, joining. (#ios-driver)
+[2014-05-24 22:19:04] admc, quitting. (Quit: Leaving.)
