@@ -2,3 +2,4 @@
 [2014-05-26 01:59:38] admc, quitting. (Client Quit)
 [2014-05-26 05:37:06] rodrigomartin, joining. (#ios-driver)
 [2014-05-26 05:43:35] rodrigomartin, quitting. (Ping timeout: 252 seconds)
+[2014-05-26 05:51:17] rodrigomartin, joining. (#ios-driver)
