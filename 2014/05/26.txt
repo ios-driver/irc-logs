@@ -6,3 +6,4 @@
 [2014-05-26 06:26:46] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-05-26 06:26:59] rodrigomartin, joining. (#ios-driver)
 [2014-05-26 08:03:36] psp250, joining. (#ios-driver)
+[2014-05-26 08:42:11] smccarthy, joining. (#ios-driver)
