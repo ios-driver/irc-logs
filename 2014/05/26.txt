@@ -12,3 +12,4 @@
 [2014-05-26 11:59:13] psp250, joining. (#ios-driver)
 [2014-05-26 14:04:07] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-05-26 17:50:55] nirvdrum, quitting. (Remote host closed the connection)
+[2014-05-26 18:04:42] nirvdrum, joining. (#ios-driver)
