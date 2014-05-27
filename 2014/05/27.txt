@@ -25,3 +25,4 @@
 [2014-05-27 14:58:28] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-05-27 15:07:53] psp250, quitting. (Remote host closed the connection)
 [2014-05-27 15:44:52] nirvdrum, quitting. (Ping timeout: 245 seconds)
+[2014-05-27 16:08:40] lukeis, quitting. (Quit: Leaving.)
