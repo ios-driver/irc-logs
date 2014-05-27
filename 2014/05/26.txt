@@ -11,3 +11,4 @@
 [2014-05-26 11:58:20] psp250, quitting. (Read error: No route to host)
 [2014-05-26 11:59:13] psp250, joining. (#ios-driver)
 [2014-05-26 14:04:07] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-05-26 17:50:55] nirvdrum, quitting. (Remote host closed the connection)
