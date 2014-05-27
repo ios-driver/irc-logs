@@ -5,3 +5,5 @@
 [2014-05-27 08:22:48] lukeis, joining. (#ios-driver)
 [2014-05-27 08:38:49] admc, joining. (#ios-driver)
 [2014-05-27 09:15:13] santiycr, joining. (#ios-driver)
+[2014-05-27 09:31:52] santiycr, quitting. (Quit: Leaving.)
+[2014-05-27 09:32:46] santiycr, joining. (#ios-driver)
