@@ -14,3 +14,4 @@
 [2014-05-28 10:32:46] admc, joining. (#ios-driver)
 [2014-05-28 10:51:32] rodrigomartin, quitting. (Read error: Connection reset by peer)
 [2014-05-28 10:51:47] rodrigomartin, joining. (#ios-driver)
+[2014-05-28 10:57:24] rodrigomartin, quitting. (Ping timeout: 240 seconds)
