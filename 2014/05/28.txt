@@ -11,3 +11,4 @@
 [2014-05-28 09:03:31] lukeis, joining. (#ios-driver)
 [2014-05-28 09:13:38] rodrigomartin, quitting. (Ping timeout: 240 seconds)
 [2014-05-28 09:32:09] rodrigomartin, joining. (#ios-driver)
+[2014-05-28 10:32:46] admc, joining. (#ios-driver)
