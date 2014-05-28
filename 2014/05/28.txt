@@ -4,3 +4,4 @@
 [2014-05-28 05:45:07] nirvdrum, joining. (#ios-driver)
 [2014-05-28 07:23:08] nirvdrum_, joining. (#ios-driver)
 [2014-05-28 07:24:23] nirvdrum_, quitting. (Client Quit)
+[2014-05-28 07:53:03] rodrigomartin, joining. (#ios-driver)
