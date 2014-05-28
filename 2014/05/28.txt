@@ -34,3 +34,4 @@
 [2014-05-28 14:30:16] admc, joining. (#ios-driver)
 [2014-05-28 15:01:39] nirvdrum, quitting. (Remote host closed the connection)
 [2014-05-28 15:18:27] santiycr, joining. (#ios-driver)
+[2014-05-28 16:04:41] admc, quitting. (Quit: Leaving.)
