@@ -17,3 +17,4 @@
 [2014-05-29 11:22:25] nirvdrum, joining. (#ios-driver)
 [2014-05-29 11:36:12] admc, quitting. (Quit: Leaving.)
 [2014-05-29 12:02:18] rodrigomartin, quitting. (Ping timeout: 240 seconds)
+[2014-05-29 12:18:43] rodrigomartin, joining. (#ios-driver)
