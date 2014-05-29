@@ -8,3 +8,4 @@
 [2014-05-29 10:02:38] santiycr, joining. (#ios-driver)
 [2014-05-29 10:03:23] santiycr1, joining. (#ios-driver)
 [2014-05-29 10:07:27] santiycr, quitting. (Ping timeout: 276 seconds)
+[2014-05-29 10:27:44] santiycr1, changing nick to santiycr.
