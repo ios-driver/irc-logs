@@ -4,3 +4,4 @@
 [2014-05-30 08:28:50] smccarthy, joining. (#ios-driver)
 [2014-05-30 09:10:33] lukeis, joining. (#ios-driver)
 [2014-05-30 10:34:03] jlipps, joining. (#ios-driver)
+[2014-05-30 10:39:46] admc, joining. (#ios-driver)
