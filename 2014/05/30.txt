@@ -6,3 +6,4 @@
 [2014-05-30 10:34:03] jlipps, joining. (#ios-driver)
 [2014-05-30 10:39:46] admc, joining. (#ios-driver)
 [2014-05-30 10:49:39] santiycr, joining. (#ios-driver)
+[2014-05-30 11:39:51] admc, quitting. (Quit: Leaving.)
