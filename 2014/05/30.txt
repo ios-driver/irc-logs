@@ -28,3 +28,4 @@
 [2014-05-30 17:08:30] jlipps, quitting. (Quit: Leaving.)
 [2014-05-30 17:36:59] rsalvador, joining. (#ios-driver)
 [2014-05-30 17:38:30] rsalvador, quitting. (Client Quit)
+[2014-05-30 19:05:36] santiycr, quitting. (Quit: Leaving.)
