@@ -1,3 +1,4 @@
 [2014-05-31 00:12:11] mmmulani, quitting. (Remote host closed the connection)
 [2014-05-31 00:12:25] mmmulani, joining. (#ios-driver)
 [2014-05-31 00:44:11] admc, joining. (#ios-driver)
+[2014-05-31 00:54:32] admc, quitting. (Quit: Leaving.)
