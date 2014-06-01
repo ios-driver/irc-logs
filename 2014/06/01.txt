@@ -6,3 +6,4 @@
 [2014-06-01 09:30:48] smccarthy, joining. (#ios-driver)
 [2014-06-01 10:02:59] aboutGod, joining. (#ios-driver)
 [2014-06-01 10:08:06] aboutGod, leaving. (#ios-driver)
+[2014-06-01 10:41:27] smccarthy, quitting. (Quit: Leaving...)
