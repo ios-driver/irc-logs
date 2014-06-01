@@ -3,3 +3,4 @@
 [2014-06-01 04:27:58] admc, joining. (#ios-driver)
 [2014-06-01 04:51:04] admc, quitting. (Quit: Leaving.)
 [2014-06-01 05:01:48] psp250, joining. (#ios-driver)
+[2014-06-01 09:30:48] smccarthy, joining. (#ios-driver)
