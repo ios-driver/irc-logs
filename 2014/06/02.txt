@@ -33,3 +33,5 @@
 [2014-06-02 13:39:52] nirvdrum, joining. (#ios-driver)
 [2014-06-02 14:11:26] lukeis2, joining. (#ios-driver)
 [2014-06-02 14:12:48] lukeis, quitting. (Ping timeout: 245 seconds)
+[2014-06-02 14:16:10] lukeis, joining. (#ios-driver)
+[2014-06-02 14:18:09] lukeis2, quitting. (Ping timeout: 252 seconds)
