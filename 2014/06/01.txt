@@ -24,3 +24,4 @@
 [2014-06-01 21:44:33] admc, quitting. (Read error: Connection reset by peer)
 [2014-06-01 22:12:55] admc, joining. (#ios-driver)
 [2014-06-01 22:12:55] admc1, quitting. (Read error: Connection reset by peer)
+[2014-06-01 22:19:59] dmarr, quitting. (Quit: Goodbye)
