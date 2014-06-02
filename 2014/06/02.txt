@@ -49,3 +49,4 @@
 [2014-06-02 16:28:35] rodrigomartin, quitting. (Read error: Connection timed out)
 [2014-06-02 16:30:34] santiycr, quitting. (Quit: Leaving.)
 [2014-06-02 16:30:50] rodrigomartin, joining. (#ios-driver)
+[2014-06-02 16:42:18] smccarthy2, quitting. (Quit: Leaving...)
