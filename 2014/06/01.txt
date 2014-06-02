@@ -19,3 +19,6 @@
 [2014-06-01 18:48:34] admc, quitting. (Quit: Leaving.)
 [2014-06-01 20:05:44] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2014-06-01 21:27:16] smccarthy, quitting. (Quit: Leaving...)
+[2014-06-01 21:42:25] admc, joining. (#ios-driver)
+[2014-06-01 21:44:33] admc1, joining. (#ios-driver)
+[2014-06-01 21:44:33] admc, quitting. (Read error: Connection reset by peer)
