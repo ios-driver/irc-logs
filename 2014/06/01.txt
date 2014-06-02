@@ -15,3 +15,4 @@
 [2014-06-01 13:54:57] admc1, quitting. (Quit: Leaving.)
 [2014-06-01 14:31:11] admc, joining. (#ios-driver)
 [2014-06-01 15:32:03] nirvdrum, joining. (#ios-driver)
+[2014-06-01 17:41:19] smccarthy, joining. (#ios-driver)
