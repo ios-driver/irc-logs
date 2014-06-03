@@ -27,3 +27,4 @@
 [2014-06-03 11:17:33] rsalvador1, joining. (#ios-driver)
 [2014-06-03 11:17:34] rsalvador1, quitting. (Client Quit)
 [2014-06-03 12:04:09] rodrigomartin, quitting. (Ping timeout: 240 seconds)
+[2014-06-03 12:28:14] rodrigomartin, joining. (#ios-driver)
