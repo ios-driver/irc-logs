@@ -11,3 +11,4 @@
 [2014-06-03 06:50:46] ios-driver-git: ios-driver/dev d4db08a Mehdi Mulani: Add capability to bootstrap environment with premade files.
 [2014-06-03 06:50:46] ios-driver-git: ios-driver/dev dcba05a Mehdi Mulani: Change SDK parser to only throw when it can't find SDKs.
 [2014-06-03 06:50:46] ios-driver-git, leaving. (#ios-driver)
+[2014-06-03 07:28:54] gdennis, joining. (#ios-driver)
