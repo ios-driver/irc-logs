@@ -35,3 +35,5 @@
 [2014-06-03 14:34:28] jlipps, quitting. (Quit: Leaving.)
 [2014-06-03 15:15:07] jlipps, joining. (#ios-driver)
 [2014-06-03 15:19:19] lukeis, quitting. (Quit: Leaving.)
+[2014-06-03 15:25:37] jlipps, quitting. (Read error: Connection reset by peer)
+[2014-06-03 15:26:22] jlipps, joining. (#ios-driver)
