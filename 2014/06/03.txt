@@ -17,3 +17,6 @@
 [2014-06-03 08:26:35] psp250, joining. (#ios-driver)
 [2014-06-03 09:20:38] psp250, quitting. (Ping timeout: 255 seconds)
 [2014-06-03 09:34:50] admc, joining. (#ios-driver)
+[2014-06-03 09:45:20] jlipps, joining. (#ios-driver)
+[2014-06-03 09:45:48] jlipps, quitting. (Client Quit)
+[2014-06-03 09:46:08] jlipps, joining. (#ios-driver)
