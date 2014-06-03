@@ -6,3 +6,8 @@
 [2014-06-03 04:49:59] rodrigomartin, joining. (#ios-driver)
 [2014-06-03 05:44:00] nirvdrum, quitting. (Read error: Connection reset by peer)
 [2014-06-03 06:36:53] nirvdrum, joining. (#ios-driver)
+[2014-06-03 06:50:46] ios-driver-git, joining. (#ios-driver)
+[2014-06-03 06:50:46] ios-driver-git: [ios-driver] mmmulani pushed 2 new commits to dev: http://git.io/wp8zcg
+[2014-06-03 06:50:46] ios-driver-git: ios-driver/dev d4db08a Mehdi Mulani: Add capability to bootstrap environment with premade files.
+[2014-06-03 06:50:46] ios-driver-git: ios-driver/dev dcba05a Mehdi Mulani: Change SDK parser to only throw when it can't find SDKs.
+[2014-06-03 06:50:46] ios-driver-git, leaving. (#ios-driver)
