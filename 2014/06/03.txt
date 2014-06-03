@@ -24,3 +24,5 @@
 [2014-06-03 10:38:04] rsalvador, joining. (#ios-driver)
 [2014-06-03 10:57:06] rsalvador, leaving. (#ios-driver)
 [2014-06-03 10:57:38] admc, joining. (#ios-driver)
+[2014-06-03 11:17:33] rsalvador1, joining. (#ios-driver)
+[2014-06-03 11:17:34] rsalvador1, quitting. (Client Quit)
