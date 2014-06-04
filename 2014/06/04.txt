@@ -32,3 +32,5 @@
 [2014-06-04 11:05:37] admc, joining. (#ios-driver)
 [2014-06-04 11:10:15] rodrigomartin, quitting. (Ping timeout: 276 seconds)
 [2014-06-04 11:11:44] rodrigomartin, joining. (#ios-driver)
+[2014-06-04 11:27:39] rodrigomartin1, joining. (#ios-driver)
+[2014-06-04 11:27:57] rodrigomartin, quitting. (Read error: Connection timed out)
