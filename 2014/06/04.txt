@@ -54,3 +54,5 @@
 [2014-06-04 14:37:03] jlipps1, joining. (#ios-driver)
 [2014-06-04 14:40:19] jlipps, quitting. (Ping timeout: 240 seconds)
 [2014-06-04 14:53:47] jlipps1, quitting. (Read error: Connection reset by peer)
+[2014-06-04 14:56:28] jlipps, joining. (#ios-driver)
+[2014-06-04 14:58:28] jlipps, quitting. (Client Quit)
