@@ -6,3 +6,4 @@
 [2014-06-04 01:48:59] handersson, quitting. (Client Quit)
 [2014-06-04 02:02:43] dmarr, quitting. (Ping timeout: 240 seconds)
 [2014-06-04 02:06:37] dmarr, joining. (#ios-driver)
+[2014-06-04 02:47:31] dmarr, quitting. (Ping timeout: 240 seconds)
