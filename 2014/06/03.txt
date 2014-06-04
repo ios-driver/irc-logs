@@ -50,3 +50,4 @@
 [2014-06-03 18:20:40] nirvdrum, quitting. (Remote host closed the connection)
 [2014-06-03 18:33:04] admc, quitting. (Quit: Leaving.)
 [2014-06-03 18:34:09] admc, joining. (#ios-driver)
+[2014-06-03 19:17:52] admc, quitting. (Quit: Leaving.)
