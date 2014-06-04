@@ -60,3 +60,4 @@
 [2014-06-04 15:32:15] lukeis, quitting. (Quit: Leaving.)
 [2014-06-04 16:05:41] jlipps, quitting. (Quit: Leaving.)
 [2014-06-04 16:17:19] smccarthy, quitting. (Quit: Leaving...)
+[2014-06-04 16:25:19] jlipps, joining. (#ios-driver)
