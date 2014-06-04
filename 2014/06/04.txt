@@ -42,3 +42,4 @@
 [2014-06-04 12:24:07] aboutGod, joining. (#ios-driver)
 [2014-06-04 12:29:13] aboutGod, leaving. (#ios-driver)
 [2014-06-04 12:43:54] admc, quitting. (Quit: Leaving.)
+[2014-06-04 12:49:36] santiycr, quitting. (Quit: Leaving.)
