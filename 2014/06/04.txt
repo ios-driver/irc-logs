@@ -1,3 +1,6 @@
 [2014-06-04 00:09:33] handersson, joining. (#ios-driver)
 [2014-06-04 01:05:07] AutomatedTester, quitting. (Changing host)
 [2014-06-04 01:05:07] AutomatedTester, joining. (#ios-driver)
+[2014-06-04 01:48:35] handersson, quitting. (*.net *.split)
+[2014-06-04 01:48:54] handersson, joining. (#ios-driver)
+[2014-06-04 01:48:59] handersson, quitting. (Client Quit)
