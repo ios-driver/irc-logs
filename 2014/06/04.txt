@@ -23,3 +23,4 @@
 [2014-06-04 04:53:20] rodrigomartin, joining. (#ios-driver)
 [2014-06-04 06:14:18] nirvdrum, joining. (#ios-driver)
 [2014-06-04 07:55:53] jlipps, joining. (#ios-driver)
+[2014-06-04 08:10:55] lukeis, joining. (#ios-driver)
