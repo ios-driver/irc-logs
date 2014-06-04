@@ -53,3 +53,4 @@
 [2014-06-03 19:17:52] admc, quitting. (Quit: Leaving.)
 [2014-06-03 19:38:47] jlipps, joining. (#ios-driver)
 [2014-06-03 19:42:57] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-06-03 20:45:48] smccarthy, quitting. (Quit: Leaving...)
