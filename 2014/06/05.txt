@@ -5,3 +5,4 @@
 [2014-06-05 07:19:14] rodrigomartin, joining. (#ios-driver)
 [2014-06-05 07:41:46] rodrigomartin, quitting. (Read error: Connection reset by peer)
 [2014-06-05 07:43:31] rodrigomartin, joining. (#ios-driver)
+[2014-06-05 07:48:38] rodrigomartin, quitting. (Quit: Leaving.)
