@@ -39,3 +39,5 @@
 [2014-06-05 13:31:24] admc, joining. (#ios-driver)
 [2014-06-05 13:35:10] admc, quitting. (Client Quit)
 [2014-06-05 13:49:21] rodrigomartin, quitting. (Ping timeout: 240 seconds)
+[2014-06-05 13:58:42] smccarthy, quitting. (Read error: Connection reset by peer)
+[2014-06-05 13:59:13] smccarthy, joining. (#ios-driver)
