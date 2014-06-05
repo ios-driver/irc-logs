@@ -71,3 +71,4 @@
 [2014-06-04 21:06:03] santiycr1, joining. (#ios-driver)
 [2014-06-04 21:06:03] santiycr, quitting. (Read error: Connection reset by peer)
 [2014-06-04 21:31:18] santiycr1, quitting. (Quit: Leaving.)
+[2014-06-04 22:28:00] smccarthy, quitting. (Quit: Leaving...)
