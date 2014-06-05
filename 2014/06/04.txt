@@ -64,3 +64,5 @@
 [2014-06-04 17:00:37] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-06-04 17:31:24] jlipps, quitting. (Quit: Leaving.)
 [2014-06-04 18:08:42] admc, quitting. (Quit: Leaving.)
+[2014-06-04 18:30:23] santiycr, quitting. (Quit: Leaving.)
+[2014-06-04 18:33:10] nirvdrum, quitting. (Remote host closed the connection)
