@@ -45,3 +45,4 @@
 [2014-06-05 14:03:07] rodrigomartin, joining. (#ios-driver)
 [2014-06-05 14:24:55] santiycr, quitting. (Quit: Leaving.)
 [2014-06-05 14:30:16] admc, joining. (#ios-driver)
+[2014-06-05 14:43:12] jlipps, quitting. (Quit: Leaving.)
