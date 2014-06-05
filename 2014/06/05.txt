@@ -14,3 +14,4 @@
 [2014-06-05 08:59:11] jlipps, joining. (#ios-driver)
 [2014-06-05 09:51:38] jlipps, quitting. (Quit: Leaving.)
 [2014-06-05 10:01:57] jlipps, joining. (#ios-driver)
+[2014-06-05 10:34:23] rodrigomartin, quitting. (Ping timeout: 260 seconds)
