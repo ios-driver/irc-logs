@@ -26,3 +26,6 @@
 [2014-06-05 12:17:49] mmmulani, quitting. (Remote host closed the connection)
 [2014-06-05 12:18:05] mmmulani, joining. (#ios-driver)
 [2014-06-05 12:19:19] mmmulani, quitting. (Remote host closed the connection)
+[2014-06-05 12:21:03] santiycr, joining. (#ios-driver)
+[2014-06-05 12:22:05] jlipps, quitting. (Quit: Leaving.)
+[2014-06-05 12:23:04] mmmulani, joining. (#ios-driver)
