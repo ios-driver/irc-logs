@@ -53,3 +53,4 @@
 [2014-06-05 15:18:35] smccarthy, joining. (#ios-driver)
 [2014-06-05 15:27:08] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-06-05 15:42:17] rodrigomartin, joining. (#ios-driver)
+[2014-06-05 15:45:06] lukeis, quitting. (Quit: Leaving.)
