@@ -41,3 +41,5 @@
 [2014-06-05 13:49:21] rodrigomartin, quitting. (Ping timeout: 240 seconds)
 [2014-06-05 13:58:42] smccarthy, quitting. (Read error: Connection reset by peer)
 [2014-06-05 13:59:13] smccarthy, joining. (#ios-driver)
+[2014-06-05 14:01:53] jlipps, joining. (#ios-driver)
+[2014-06-05 14:03:07] rodrigomartin, joining. (#ios-driver)
