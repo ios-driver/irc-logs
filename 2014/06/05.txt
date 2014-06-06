@@ -69,3 +69,7 @@
 [2014-06-05 21:21:12] santiycr1, quitting. (Quit: Leaving.)
 [2014-06-05 22:03:37] dmarr, quitting. (Ping timeout: 240 seconds)
 [2014-06-05 22:15:26] nicegraham__, quitting. (*.net *.split)
+[2014-06-05 22:26:47] dmarr, joining. (#ios-driver)
+[2014-06-05 22:26:47] nicegraham__, joining. (#ios-driver)
+[2014-06-05 22:28:36] dmarr, quitting. (*.net *.split)
+[2014-06-05 22:28:41] nicegraham__, quitting. (*.net *.split)
