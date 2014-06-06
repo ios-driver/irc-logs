@@ -64,3 +64,5 @@
 [2014-06-05 19:34:27] admc, quitting. (Quit: Leaving.)
 [2014-06-05 20:14:30] santiycr, joining. (#ios-driver)
 [2014-06-05 20:17:16] nirvdrum, quitting. (Remote host closed the connection)
+[2014-06-05 21:04:17] santiycr1, joining. (#ios-driver)
+[2014-06-05 21:04:17] santiycr, quitting. (Read error: Connection reset by peer)
