@@ -10,3 +10,5 @@
 [2014-06-06 13:01:36] nicegraham__, quitting. (Ping timeout: 454 seconds)
 [2014-06-06 13:02:01] nicegraham__, joining. (#ios-driver)
 [2014-06-06 13:59:29] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-06-06 15:12:41] smccarthy2, joining. (#ios-driver)
+[2014-06-06 15:12:45] smccarthy, quitting. (Read error: Connection reset by peer)
