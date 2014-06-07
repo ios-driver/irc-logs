@@ -1,3 +1,4 @@
 [2014-06-07 01:58:36] dmarr, quitting. (*.net *.split)
 [2014-06-07 01:58:55] dmarr, joining. (#ios-driver)
 [2014-06-07 06:49:27] nirvdrum, joining. (#ios-driver)
+[2014-06-07 08:14:27] smccarthy, joining. (#ios-driver)
