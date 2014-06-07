@@ -16,3 +16,4 @@
 [2014-06-06 16:12:04] smccarthy2, quitting. (Quit: Leaving...)
 [2014-06-06 18:39:27] admc, quitting. (Quit: Leaving.)
 [2014-06-06 19:18:41] nirvdrum, quitting. (Ping timeout: 255 seconds)
+[2014-06-06 22:06:08] Mifta, joining. (#ios-driver)
