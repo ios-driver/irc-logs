@@ -2,3 +2,5 @@
 [2014-06-08 06:38:51] Mifta, leaving. (#ios-driver)
 [2014-06-08 07:28:27] nirvdrum, joining. (#ios-driver)
 [2014-06-08 07:35:05] smccarthy, joining. (#ios-driver)
+[2014-06-08 11:55:12] smccarthy, quitting. (Quit: Leaving...)
+[2014-06-08 11:57:17] admc, joining. (#ios-driver)
