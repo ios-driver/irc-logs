@@ -13,3 +13,4 @@
 [2014-06-09 10:18:44] smccarthy, joining. (#ios-driver)
 [2014-06-09 10:44:44] smccarthy2, joining. (#ios-driver)
 [2014-06-09 10:48:05] smccarthy, quitting. (Ping timeout: 252 seconds)
+[2014-06-09 10:50:30] admc, quitting. (Quit: Leaving.)
