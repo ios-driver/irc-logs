@@ -4,3 +4,4 @@
 [2014-06-09 06:15:45] rodrigomartin, joining. (#ios-driver)
 [2014-06-09 07:32:32] operatiay, joining. (#ios-driver)
 [2014-06-09 07:33:21] operatiay, quitting. (Client Quit)
+[2014-06-09 07:41:00] operatiay, joining. (#ios-driver)
