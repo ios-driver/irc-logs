@@ -11,3 +11,4 @@
 [2014-06-09 09:35:24] operatiay, quitting. (Remote host closed the connection)
 [2014-06-09 10:16:33] smccarthy, quitting. (Remote host closed the connection)
 [2014-06-09 10:18:44] smccarthy, joining. (#ios-driver)
+[2014-06-09 10:44:44] smccarthy2, joining. (#ios-driver)
