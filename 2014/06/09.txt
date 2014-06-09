@@ -2,3 +2,5 @@
 [2014-06-09 00:33:12] admc, joining. (#ios-driver)
 [2014-06-09 02:27:55] admc, quitting. (Quit: Leaving.)
 [2014-06-09 06:15:45] rodrigomartin, joining. (#ios-driver)
+[2014-06-09 07:32:32] operatiay, joining. (#ios-driver)
+[2014-06-09 07:33:21] operatiay, quitting. (Client Quit)
