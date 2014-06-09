@@ -24,3 +24,4 @@
 [2014-06-09 14:02:43] operatiay, quitting. (Remote host closed the connection)
 [2014-06-09 15:06:40] rodrigomartin, quitting. (Ping timeout: 260 seconds)
 [2014-06-09 15:11:50] admc, quitting. (Quit: Leaving.)
+[2014-06-09 15:25:23] rodrigomartin, joining. (#ios-driver)
