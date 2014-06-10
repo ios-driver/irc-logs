@@ -1,1 +1,3 @@
 [2014-06-10 00:36:53] admc, quitting. (Quit: Leaving.)
+[2014-06-10 00:52:29] mmmulani, quitting. (Changing host)
+[2014-06-10 00:52:29] mmmulani, joining. (#ios-driver)
