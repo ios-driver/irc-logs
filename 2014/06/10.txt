@@ -36,3 +36,5 @@
 [2014-06-10 14:57:18] smccarthy, quitting. (Remote host closed the connection)
 [2014-06-10 14:57:58] smccarthy, joining. (#ios-driver)
 [2014-06-10 14:59:07] smccarthy2, joining. (#ios-driver)
+[2014-06-10 15:02:46] admc, quitting. (Quit: Leaving.)
+[2014-06-10 15:02:52] smccarthy, quitting. (Ping timeout: 260 seconds)
