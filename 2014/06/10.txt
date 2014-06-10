@@ -27,3 +27,5 @@
 [2014-06-10 13:54:22] smccarthy2, quitting. (*.net *.split)
 [2014-06-10 13:54:22] admc, quitting. (*.net *.split)
 [2014-06-10 14:02:26] santiycr, joining. (#ios-driver)
+[2014-06-10 14:11:11] smccarthy2, joining. (#ios-driver)
+[2014-06-10 14:11:11] admc, joining. (#ios-driver)
