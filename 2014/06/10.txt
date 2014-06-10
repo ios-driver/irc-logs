@@ -7,3 +7,4 @@
 [2014-06-10 04:09:31] operatia_, quitting. (Remote host closed the connection)
 [2014-06-10 04:10:03] operatiay, joining. (#ios-driver)
 [2014-06-10 04:32:24] operatiay, quitting. (Remote host closed the connection)
+[2014-06-10 05:38:42] rodrigomartin, joining. (#ios-driver)
