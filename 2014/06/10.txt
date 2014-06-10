@@ -14,3 +14,5 @@
 [2014-06-10 08:39:24] operatiay, quitting. (Remote host closed the connection)
 [2014-06-10 10:17:23] admc, joining. (#ios-driver)
 [2014-06-10 11:35:58] santiycr, joining. (#ios-driver)
+[2014-06-10 11:41:23] admc, quitting. (Quit: Leaving.)
+[2014-06-10 11:44:08] admc, joining. (#ios-driver)
