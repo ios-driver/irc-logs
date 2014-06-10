@@ -23,3 +23,6 @@
 [2014-06-10 13:26:44] smccarthy2, joining. (#ios-driver)
 [2014-06-10 13:29:04] smccarthy, quitting. (Ping timeout: 260 seconds)
 [2014-06-10 13:29:07] santiycr, joining. (#ios-driver)
+[2014-06-10 13:50:43] santiycr, quitting. (Quit: Leaving.)
+[2014-06-10 13:54:22] smccarthy2, quitting. (*.net *.split)
+[2014-06-10 13:54:22] admc, quitting. (*.net *.split)
