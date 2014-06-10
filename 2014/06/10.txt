@@ -2,3 +2,5 @@
 [2014-06-10 00:52:29] mmmulani, quitting. (Changing host)
 [2014-06-10 00:52:29] mmmulani, joining. (#ios-driver)
 [2014-06-10 01:38:30] operatiay, joining. (#ios-driver)
+[2014-06-10 02:31:27] operatia_, joining. (#ios-driver)
+[2014-06-10 02:34:59] operatiay, quitting. (Ping timeout: 265 seconds)
