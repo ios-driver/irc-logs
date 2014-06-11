@@ -14,3 +14,6 @@
 [2014-06-11 09:15:30] operatiay, quitting. (Remote host closed the connection)
 [2014-06-11 09:45:10] nirvdrum, joining. (#ios-driver)
 [2014-06-11 10:11:14] admc, joining. (#ios-driver)
+[2014-06-11 11:30:55] mmmulani, quitting. (Remote host closed the connection)
+[2014-06-11 11:31:06] mmmulani, joining. (#ios-driver)
+[2014-06-11 11:32:58] mmmulani, quitting. (Remote host closed the connection)
