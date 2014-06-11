@@ -28,3 +28,4 @@
 [2014-06-11 13:40:16] ios-driverbot_, joining. (#ios-driver)
 [2014-06-11 14:05:55] rodrigomartin, quitting. (Ping timeout: 240 seconds)
 [2014-06-11 14:06:23] admc, joining. (#ios-driver)
+[2014-06-11 14:24:31] rodrigomartin, joining. (#ios-driver)
