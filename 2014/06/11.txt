@@ -3,3 +3,5 @@
 [2014-06-11 01:24:17] operatiay, joining. (#ios-driver)
 [2014-06-11 01:59:34] admc, quitting. (Quit: Leaving.)
 [2014-06-11 06:04:28] rodrigomartin, joining. (#ios-driver)
+[2014-06-11 06:37:03] operatiay, quitting. (Remote host closed the connection)
+[2014-06-11 06:37:44] operatiay, joining. (#ios-driver)
