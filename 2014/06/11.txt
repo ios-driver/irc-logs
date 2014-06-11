@@ -24,3 +24,4 @@
 [2014-06-11 12:17:26] admc, joining. (#ios-driver)
 [2014-06-11 12:44:06] admc, quitting. (Quit: Leaving.)
 [2014-06-11 12:59:19] rodrigomartin, quitting. (Read error: Connection reset by peer)
+[2014-06-11 13:07:14] rodrigomartin, joining. (#ios-driver)
