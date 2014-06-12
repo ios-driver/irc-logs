@@ -50,3 +50,4 @@
 [2014-06-11 18:43:47] jlipps, joining. (#ios-driver)
 [2014-06-11 19:09:10] jlipps, quitting. (Quit: Leaving.)
 [2014-06-11 19:11:38] jlipps, joining. (#ios-driver)
+[2014-06-11 19:37:08] jlipps, quitting. (Quit: Leaving.)
