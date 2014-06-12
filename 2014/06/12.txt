@@ -2,3 +2,7 @@
 [2014-06-12 01:38:04] operatiay, joining. (#ios-driver)
 [2014-06-12 02:10:12] operatiay, quitting. (Remote host closed the connection)
 [2014-06-12 02:54:25] operatiay, joining. (#ios-driver)
+[2014-06-12 03:15:40] Matt___, joining. (#ios-driver)
+[2014-06-12 03:15:47] Matt___: Hello
+[2014-06-12 03:15:51] Matt___: is anyone here?
+[2014-06-12 03:16:15] Matt___: I would like to ask some questions about getting ios-driver to work with real devices
