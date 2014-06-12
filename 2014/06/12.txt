@@ -33,3 +33,5 @@
 [2014-06-12 09:13:53] mmmulani: (btw, you should ping me when responding by putting "mmmulani:" at the beginning so I see your msg :P)
 [2014-06-12 09:34:30] Matt___: I haven't tried similulator
 [2014-06-12 09:40:18] mmmulani: try that, because it definitely works there
+[2014-06-12 10:16:53] operatiay, quitting. (Remote host closed the connection)
+[2014-06-12 10:17:46] operatiay, joining. (#ios-driver)
