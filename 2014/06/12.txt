@@ -20,3 +20,4 @@
 [2014-06-12 06:12:17] Matt___: ?
 [2014-06-12 06:12:25] Matt___: is there a way to launch safari?
 [2014-06-12 06:19:17] operatia_, joining. (#ios-driver)
+[2014-06-12 06:22:35] operatiay, quitting. (Ping timeout: 252 seconds)
