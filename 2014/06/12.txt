@@ -26,3 +26,4 @@
 [2014-06-12 07:12:19] Matt___: anyone there?
 [2014-06-12 08:26:01] smccarthy, joining. (#ios-driver)
 [2014-06-12 08:28:53] admc, joining. (#ios-driver)
+[2014-06-12 08:50:39] Matt___: Has anyone got safari on real devices working?
