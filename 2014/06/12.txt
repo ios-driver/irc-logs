@@ -14,3 +14,4 @@
 [2014-06-12 04:10:50] Matt___: Ideally i would like to open up safari and goto a url
 [2014-06-12 04:10:56] Matt___: if that is possible
 [2014-06-12 04:13:02] operatiay, quitting. (Remote host closed the connection)
+[2014-06-12 04:19:06] operatiay, joining. (#ios-driver)
