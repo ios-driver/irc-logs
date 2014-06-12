@@ -46,3 +46,4 @@
 [2014-06-12 13:10:57] operatiay, quitting. (Ping timeout: 255 seconds)
 [2014-06-12 13:13:16] admc, joining. (#ios-driver)
 [2014-06-12 14:03:52] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-06-12 16:49:20] admc, quitting. (Quit: Leaving.)
