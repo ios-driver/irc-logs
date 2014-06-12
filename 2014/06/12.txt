@@ -24,3 +24,5 @@
 [2014-06-12 06:59:17] operatia_, quitting. (Remote host closed the connection)
 [2014-06-12 06:59:50] operatiay, joining. (#ios-driver)
 [2014-06-12 07:12:19] Matt___: anyone there?
+[2014-06-12 08:26:01] smccarthy, joining. (#ios-driver)
+[2014-06-12 08:28:53] admc, joining. (#ios-driver)
