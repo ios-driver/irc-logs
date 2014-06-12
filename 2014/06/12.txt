@@ -27,3 +27,7 @@
 [2014-06-12 08:26:01] smccarthy, joining. (#ios-driver)
 [2014-06-12 08:28:53] admc, joining. (#ios-driver)
 [2014-06-12 08:50:39] Matt___: Has anyone got safari on real devices working?
+[2014-06-12 09:13:28] mmmulani: Matt___: sorry, wasn't looking here
+[2014-06-12 09:13:36] mmmulani: I've gotten Safari working in the simulator
+[2014-06-12 09:13:39] mmmulani: have you been able to do that?
+[2014-06-12 09:13:53] mmmulani: (btw, you should ping me when responding by putting "mmmulani:" at the beginning so I see your msg :P)
