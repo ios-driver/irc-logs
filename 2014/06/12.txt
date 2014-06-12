@@ -41,3 +41,4 @@
 [2014-06-12 11:05:21] operatiay, quitting. (Remote host closed the connection)
 [2014-06-12 12:06:36] jlipps, quitting. (Quit: Leaving.)
 [2014-06-12 12:21:45] admc, quitting. (Quit: Leaving.)
+[2014-06-12 12:55:55] jlipps, joining. (#ios-driver)
