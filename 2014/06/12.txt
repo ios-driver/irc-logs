@@ -31,3 +31,4 @@
 [2014-06-12 09:13:36] mmmulani: I've gotten Safari working in the simulator
 [2014-06-12 09:13:39] mmmulani: have you been able to do that?
 [2014-06-12 09:13:53] mmmulani: (btw, you should ping me when responding by putting "mmmulani:" at the beginning so I see your msg :P)
+[2014-06-12 09:34:30] Matt___: I haven't tried similulator
