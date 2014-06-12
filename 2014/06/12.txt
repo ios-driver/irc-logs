@@ -9,3 +9,8 @@
 [2014-06-12 03:55:09] mmmulani: Matt___: I'm around but not very knowledgable
 [2014-06-12 03:55:14] mmmulani: what's your question though?
 [2014-06-12 03:55:20] mmmulani: francois is working on devices, so he should know something
+[2014-06-12 04:10:22] Matt___: hi
+[2014-06-12 04:10:35] Matt___: Well I'm trying to get it to work with real devices
+[2014-06-12 04:10:50] Matt___: Ideally i would like to open up safari and goto a url
+[2014-06-12 04:10:56] Matt___: if that is possible
+[2014-06-12 04:13:02] operatiay, quitting. (Remote host closed the connection)
