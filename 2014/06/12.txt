@@ -6,3 +6,6 @@
 [2014-06-12 03:15:47] Matt___: Hello
 [2014-06-12 03:15:51] Matt___: is anyone here?
 [2014-06-12 03:16:15] Matt___: I would like to ask some questions about getting ios-driver to work with real devices
+[2014-06-12 03:55:09] mmmulani: Matt___: I'm around but not very knowledgable
+[2014-06-12 03:55:14] mmmulani: what's your question though?
+[2014-06-12 03:55:20] mmmulani: francois is working on devices, so he should know something
