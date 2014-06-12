@@ -35,3 +35,4 @@
 [2014-06-12 09:40:18] mmmulani: try that, because it definitely works there
 [2014-06-12 10:16:53] operatiay, quitting. (Remote host closed the connection)
 [2014-06-12 10:17:46] operatiay, joining. (#ios-driver)
+[2014-06-12 10:24:10] operatiay, quitting. (Ping timeout: 240 seconds)
