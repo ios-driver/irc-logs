@@ -57,3 +57,5 @@
 [2014-06-12 19:14:15] operatiay, quitting. (Ping timeout: 272 seconds)
 [2014-06-12 19:33:05] smccarthy, joining. (#ios-driver)
 [2014-06-12 19:45:20] nirvdrum, joining. (#ios-driver)
+[2014-06-12 20:00:17] jlipps, quitting. (Quit: Leaving.)
+[2014-06-12 20:01:11] jlipps, joining. (#ios-driver)
