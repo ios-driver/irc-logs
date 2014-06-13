@@ -53,3 +53,4 @@
 [2014-06-12 17:12:09] operatiay, quitting. (Ping timeout: 255 seconds)
 [2014-06-12 17:44:08] jlipps, quitting. (Quit: Leaving.)
 [2014-06-12 18:24:03] jlipps, joining. (#ios-driver)
+[2014-06-12 19:09:06] operatiay, joining. (#ios-driver)
