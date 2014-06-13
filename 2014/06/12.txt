@@ -59,3 +59,4 @@
 [2014-06-12 19:45:20] nirvdrum, joining. (#ios-driver)
 [2014-06-12 20:00:17] jlipps, quitting. (Quit: Leaving.)
 [2014-06-12 20:01:11] jlipps, joining. (#ios-driver)
+[2014-06-12 20:11:16] jlipps, quitting. (Quit: Leaving.)
