@@ -16,3 +16,7 @@
 [2014-06-17 11:35:27] jlipps, quitting. (Ping timeout: 272 seconds)
 [2014-06-17 11:35:55] jlipps1, quitting. (Ping timeout: 240 seconds)
 [2014-06-17 11:39:37] jlipps, joining. (#ios-driver)
+[2014-06-17 11:42:04] jlipps1, joining. (#ios-driver)
+[2014-06-17 11:42:30] smccarthy, quitting. (Remote host closed the connection)
+[2014-06-17 11:43:13] smccarthy, joining. (#ios-driver)
+[2014-06-17 11:44:03] jlipps, quitting. (Ping timeout: 240 seconds)
