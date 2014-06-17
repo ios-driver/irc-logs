@@ -31,3 +31,6 @@
 [2014-06-17 12:59:07] santiycr, joining. (#ios-driver)
 [2014-06-17 13:03:31] santiycr, quitting. (Ping timeout: 240 seconds)
 [2014-06-17 13:12:00] ddary, quitting. (Quit: ddary)
+[2014-06-17 13:15:50] santiycr, joining. (#ios-driver)
+[2014-06-17 13:19:12] nirvdrum, quitting. (*.net *.split)
+[2014-06-17 13:19:57] nirvdrum, joining. (#ios-driver)
