@@ -54,3 +54,4 @@
 [2014-06-17 15:09:05] admc, quitting. (Read error: Connection reset by peer)
 [2014-06-17 15:32:40] admc1, quitting. (Quit: Leaving.)
 [2014-06-17 15:38:22] lukeis, quitting. (Ping timeout: 240 seconds)
+[2014-06-17 16:02:05] admc, joining. (#ios-driver)
