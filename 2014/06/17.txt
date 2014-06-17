@@ -6,3 +6,5 @@
 [2014-06-17 10:34:22] santiycr, joining. (#ios-driver)
 [2014-06-17 11:04:29] admc, quitting. (Quit: Leaving.)
 [2014-06-17 11:05:24] admc, joining. (#ios-driver)
+[2014-06-17 11:22:01] jlipps1, joining. (#ios-driver)
+[2014-06-17 11:22:37] jlipps, quitting. (Read error: Connection reset by peer)
