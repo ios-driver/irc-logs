@@ -37,3 +37,5 @@
 [2014-06-17 13:22:26] santiycr, quitting. (Read error: Connection reset by peer)
 [2014-06-17 13:22:32] santiycr, joining. (#ios-driver)
 [2014-06-17 13:24:43] lukeis, quitting. (*.net *.split)
+[2014-06-17 13:32:59] lukeis, joining. (#ios-driver)
+[2014-06-17 13:34:49] santiycr, quitting. (Quit: Leaving.)
