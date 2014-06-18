@@ -88,3 +88,4 @@
 [2014-06-17 23:24:05] mmmulani, joining. (#ios-driver)
 [2014-06-17 23:24:05] freynaud____, joining. (#ios-driver)
 [2014-06-17 23:24:05] AutomatedTester, joining. (#ios-driver)
+[2014-06-17 23:34:47] santiycr, quitting. (Quit: Leaving.)
