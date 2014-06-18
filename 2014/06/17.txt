@@ -73,3 +73,4 @@
 [2014-06-17 22:01:11] smccarthy, quitting. (Quit: Leaving...)
 [2014-06-17 22:07:47] admc, joining. (#ios-driver)
 [2014-06-17 22:34:29] ddary, joining. (#ios-driver)
+[2014-06-17 22:35:30] ddary, quitting. (Client Quit)
