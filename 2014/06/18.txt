@@ -3,3 +3,4 @@
 [2014-06-18 08:10:32] jlipps, joining. (#ios-driver)
 [2014-06-18 08:12:50] nirvdrum, joining. (#ios-driver)
 [2014-06-18 08:57:06] admc, joining. (#ios-driver)
+[2014-06-18 09:07:43] admc, quitting. (Quit: Leaving.)
