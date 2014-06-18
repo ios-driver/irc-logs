@@ -1,2 +1,4 @@
 [2014-06-18 00:54:56] admc, quitting. (Quit: Leaving.)
 [2014-06-18 08:06:10] lukeis, joining. (#ios-driver)
+[2014-06-18 08:10:32] jlipps, joining. (#ios-driver)
+[2014-06-18 08:12:50] nirvdrum, joining. (#ios-driver)
