@@ -19,3 +19,4 @@
 [2014-06-18 12:53:38] admc, joining. (#ios-driver)
 [2014-06-18 12:54:50] kaylarov, quitting. (Quit: Page closed)
 [2014-06-18 13:03:02] admc, quitting. (Quit: Leaving.)
+[2014-06-18 13:07:39] admc, joining. (#ios-driver)
