@@ -1,1 +1,2 @@
 [2014-06-19 00:04:44] dmarr, quitting. (Ping timeout: 240 seconds)
+[2014-06-19 00:07:47] dmarr, joining. (#ios-driver)
