@@ -12,3 +12,6 @@
 [2014-06-19 10:26:23] admc, joining. (#ios-driver)
 [2014-06-19 10:43:37] santiycr, joining. (#ios-driver)
 [2014-06-19 11:08:39] nirvdrum, quitting. (*.net *.split)
+[2014-06-19 11:10:42] nirvdrum, joining. (#ios-driver)
+[2014-06-19 11:12:58] admc, quitting. (Quit: Leaving.)
+[2014-06-19 11:15:01] nirvdrum, quitting. (*.net *.split)
