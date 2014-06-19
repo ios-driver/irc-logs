@@ -21,3 +21,5 @@
 [2014-06-19 11:27:51] admc, quitting. (Client Quit)
 [2014-06-19 11:39:27] santiycr, joining. (#ios-driver)
 [2014-06-19 11:39:42] admc, joining. (#ios-driver)
+[2014-06-19 11:47:36] santiycr, quitting. (Read error: Connection reset by peer)
+[2014-06-19 11:48:35] santiycr, joining. (#ios-driver)
