@@ -19,3 +19,5 @@
 [2014-06-19 11:16:15] nirvdrum, joining. (#ios-driver)
 [2014-06-19 11:26:41] admc, joining. (#ios-driver)
 [2014-06-19 11:27:51] admc, quitting. (Client Quit)
+[2014-06-19 11:39:27] santiycr, joining. (#ios-driver)
+[2014-06-19 11:39:42] admc, joining. (#ios-driver)
