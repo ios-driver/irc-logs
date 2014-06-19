@@ -29,3 +29,4 @@
 [2014-06-19 12:20:46] santiycr, quitting. (Read error: Connection reset by peer)
 [2014-06-19 12:21:23] admc, joining. (#ios-driver)
 [2014-06-19 12:21:40] santiycr, joining. (#ios-driver)
+[2014-06-19 12:39:30] santiycr, quitting. (Read error: Connection reset by peer)
