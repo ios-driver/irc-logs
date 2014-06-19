@@ -45,3 +45,6 @@
 [2014-06-19 14:16:04] santiycr, quitting. (Client Quit)
 [2014-06-19 14:16:24] santiycr, joining. (#ios-driver)
 [2014-06-19 14:16:27] santiycr1, quitting. (Ping timeout: 252 seconds)
+[2014-06-19 15:33:05] admc, quitting. (Quit: Leaving.)
+[2014-06-19 15:34:37] admc, joining. (#ios-driver)
+[2014-06-19 15:34:57] nirvdrum, quitting. (Ping timeout: 240 seconds)
