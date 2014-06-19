@@ -48,3 +48,7 @@
 [2014-06-19 15:33:05] admc, quitting. (Quit: Leaving.)
 [2014-06-19 15:34:37] admc, joining. (#ios-driver)
 [2014-06-19 15:34:57] nirvdrum, quitting. (Ping timeout: 240 seconds)
+[2014-06-19 15:47:13] lukeis, quitting. (Quit: Leaving.)
+[2014-06-19 15:47:55] santiycr, quitting. (Quit: Leaving.)
+[2014-06-19 15:47:57] mmmulani, quitting. (Remote host closed the connection)
+[2014-06-19 15:48:12] mmmulani, joining. (#ios-driver)
