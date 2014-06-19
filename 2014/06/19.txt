@@ -55,3 +55,4 @@
 [2014-06-19 15:50:07] mmmulani, quitting. (Remote host closed the connection)
 [2014-06-19 15:53:14] mmmulani, joining. (#ios-driver)
 [2014-06-19 15:54:17] mmmulani, quitting. (Remote host closed the connection)
+[2014-06-19 15:58:15] mmmulani, joining. (#ios-driver)
