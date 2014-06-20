@@ -16,3 +16,4 @@
 [2014-06-20 14:21:33] jlipps, quitting. (Ping timeout: 240 seconds)
 [2014-06-20 14:34:59] admc, joining. (#ios-driver)
 [2014-06-20 14:36:06] lukeis, quitting. (Quit: Leaving.)
+[2014-06-20 14:53:42] jlipps, joining. (#ios-driver)
