@@ -10,3 +10,4 @@
 [2014-06-20 11:19:25] ddary, joining. (#ios-driver)
 [2014-06-20 12:10:57] admc, joining. (#ios-driver)
 [2014-06-20 12:12:06] admc, quitting. (Client Quit)
+[2014-06-20 12:18:39] ddary, quitting. (Quit: ddary)
