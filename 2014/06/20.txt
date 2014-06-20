@@ -14,3 +14,4 @@
 [2014-06-20 12:28:21] ddary, joining. (#ios-driver)
 [2014-06-20 12:29:58] ddary, quitting. (Client Quit)
 [2014-06-20 14:21:33] jlipps, quitting. (Ping timeout: 240 seconds)
+[2014-06-20 14:34:59] admc, joining. (#ios-driver)
