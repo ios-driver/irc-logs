@@ -8,3 +8,5 @@
 [2014-06-21 10:14:49] smccarthy, joining. (#ios-driver)
 [2014-06-21 11:30:28] ddary, joining. (#ios-driver)
 [2014-06-21 11:57:08] ddary, quitting. (Quit: ddary)
+[2014-06-21 12:17:35] ddary, joining. (#ios-driver)
+[2014-06-21 12:18:04] ddary, quitting. (Client Quit)
