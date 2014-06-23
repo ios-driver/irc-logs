@@ -5,3 +5,5 @@
 [2014-06-23 09:27:15] admc, quitting. (Quit: Leaving.)
 [2014-06-23 10:48:33] nirvdrum, joining. (#ios-driver)
 [2014-06-23 11:42:12] nirvdrum_, joining. (#ios-driver)
+[2014-06-23 11:45:26] nirvdrum, quitting. (Ping timeout: 244 seconds)
+[2014-06-23 11:49:03] mmmulani: freynaud____: nicegraham__: hey, have you guys looked at Xcode 6 yet?
