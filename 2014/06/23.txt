@@ -9,3 +9,4 @@
 [2014-06-23 11:49:03] mmmulani: freynaud____: nicegraham__: hey, have you guys looked at Xcode 6 yet?
 [2014-06-23 12:30:09] smccarthy, quitting. (Quit: Leaving...)
 [2014-06-23 12:32:03] smccarthy, joining. (#ios-driver)
+[2014-06-23 13:51:07] rodrigomartin, quitting. (Quit: Leaving.)
