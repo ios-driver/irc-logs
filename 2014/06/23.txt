@@ -10,3 +10,4 @@
 [2014-06-23 12:30:09] smccarthy, quitting. (Quit: Leaving...)
 [2014-06-23 12:32:03] smccarthy, joining. (#ios-driver)
 [2014-06-23 13:51:07] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-06-23 14:58:23] smccarthy, quitting. (Quit: Leaving...)
