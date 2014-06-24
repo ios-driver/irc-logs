@@ -25,3 +25,4 @@
 [2014-06-24 12:57:58] lukeis1, joining. (#ios-driver)
 [2014-06-24 12:57:59] lukeis, quitting. (Write error: Connection reset by peer)
 [2014-06-24 13:02:17] lukeis1, quitting. (Ping timeout: 245 seconds)
+[2014-06-24 13:05:07] santiycr, joining. (#ios-driver)
