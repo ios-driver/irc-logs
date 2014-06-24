@@ -22,3 +22,5 @@
 [2014-06-24 12:12:13] ddary, joining. (#ios-driver)
 [2014-06-24 12:19:57] ddary, quitting. (Quit: ddary)
 [2014-06-24 12:31:10] santiycr, quitting. (Quit: Leaving.)
+[2014-06-24 12:57:58] lukeis1, joining. (#ios-driver)
+[2014-06-24 12:57:59] lukeis, quitting. (Write error: Connection reset by peer)
