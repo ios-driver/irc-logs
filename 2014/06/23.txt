@@ -16,3 +16,4 @@
 [2014-06-23 16:18:14] smccarthy, joining. (#ios-driver)
 [2014-06-23 18:31:42] macherla, joining. (#ios-driver)
 [2014-06-23 18:40:01] macherla, quitting. (Ping timeout: 246 seconds)
+[2014-06-23 18:58:10] nirvdrum, joining. (#ios-driver)
