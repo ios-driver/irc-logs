@@ -3,3 +3,4 @@
 [2014-06-25 06:37:58] smccarthy, joining. (#ios-driver)
 [2014-06-25 07:10:19] rodrigomartin, joining. (#ios-driver)
 [2014-06-25 07:29:46] smccarthy, quitting. (Quit: Leaving...)
+[2014-06-25 07:34:31] nirvdrum, joining. (#ios-driver)
