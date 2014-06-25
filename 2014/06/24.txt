@@ -37,3 +37,4 @@
 [2014-06-24 17:54:19] operatiay, quitting. (Ping timeout: 272 seconds)
 [2014-06-24 19:37:31] nirvdrum, quitting. (Remote host closed the connection)
 [2014-06-24 21:01:59] santiycr, quitting. (Quit: Leaving.)
+[2014-06-24 21:07:11] smccarthy, quitting. (Quit: Leaving...)
