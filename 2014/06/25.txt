@@ -28,3 +28,4 @@
 [2014-06-25 15:22:25] smccarthy2, quitting. (Quit: Leaving...)
 [2014-06-25 15:34:55] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-06-25 15:45:11] nirvdrum, quitting. (Ping timeout: 240 seconds)
+[2014-06-25 15:59:19] freynaud____, quitting. (Ping timeout: 276 seconds)
