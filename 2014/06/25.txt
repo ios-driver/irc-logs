@@ -16,3 +16,6 @@
 [2014-06-25 10:20:41] smccarthy, quitting. (Quit: Leaving...)
 [2014-06-25 10:36:32] smccarthy, joining. (#ios-driver)
 [2014-06-25 11:33:45] ddary, joining. (#ios-driver)
+[2014-06-25 11:46:39] smccarthy, quitting. (Remote host closed the connection)
+[2014-06-25 11:49:10] ddary, leaving. (#ios-driver)
+[2014-06-25 11:49:20] smccarthy2, joining. (#ios-driver)
