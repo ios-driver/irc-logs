@@ -11,3 +11,5 @@
 [2014-06-25 09:02:35] nirvdrum, quitting. (Ping timeout: 244 seconds)
 [2014-06-25 09:27:03] santiycr, joining. (#ios-driver)
 [2014-06-25 09:50:05] nirvdrum, joining. (#ios-driver)
+[2014-06-25 10:06:18] nirvdrum_, joining. (#ios-driver)
+[2014-06-25 10:09:11] nirvdrum, quitting. (Ping timeout: 240 seconds)
