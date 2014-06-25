@@ -6,3 +6,4 @@
 [2014-06-25 07:34:31] nirvdrum, joining. (#ios-driver)
 [2014-06-25 07:45:03] nirvdrum_, joining. (#ios-driver)
 [2014-06-25 07:48:11] nirvdrum, quitting. (Ping timeout: 244 seconds)
+[2014-06-25 07:51:16] nirvdrum_, changing nick to nirvdrum.
