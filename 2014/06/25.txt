@@ -27,3 +27,4 @@
 [2014-06-25 13:33:26] nirvdrum_, changing nick to nirvdrum.
 [2014-06-25 15:22:25] smccarthy2, quitting. (Quit: Leaving...)
 [2014-06-25 15:34:55] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-06-25 15:45:11] nirvdrum, quitting. (Ping timeout: 240 seconds)
