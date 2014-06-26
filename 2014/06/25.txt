@@ -32,3 +32,4 @@
 [2014-06-25 16:04:43] freynaud____, joining. (#ios-driver)
 [2014-06-25 16:12:20] admc, joining. (#ios-driver)
 [2014-06-25 17:08:29] admc, quitting. (Quit: Leaving.)
+[2014-06-25 20:37:21] admc, joining. (#ios-driver)
