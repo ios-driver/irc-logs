@@ -24,3 +24,4 @@
 [2014-06-26 13:38:12] rodrigomartin1, quitting. (Quit: Leaving.)
 [2014-06-26 13:43:46] rodrigomartin, joining. (#ios-driver)
 [2014-06-26 13:59:44] Ragnaroek, quitting. (Ping timeout: 240 seconds)
+[2014-06-26 14:16:42] rodrigomartin, quitting. (Quit: Leaving.)
