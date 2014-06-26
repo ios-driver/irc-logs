@@ -31,3 +31,4 @@
 [2014-06-25 15:59:19] freynaud____, quitting. (Ping timeout: 276 seconds)
 [2014-06-25 16:04:43] freynaud____, joining. (#ios-driver)
 [2014-06-25 16:12:20] admc, joining. (#ios-driver)
+[2014-06-25 17:08:29] admc, quitting. (Quit: Leaving.)
