@@ -19,3 +19,4 @@
 [2014-06-26 12:55:10] rodrigomartin1, joining. (#ios-driver)
 [2014-06-26 12:57:24] rodrigomartin, quitting. (Ping timeout: 264 seconds)
 [2014-06-26 12:57:39] ddary, leaving. (#ios-driver)
+[2014-06-26 13:05:28] Ragnaroek, joining. (#ios-driver)
