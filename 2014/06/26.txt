@@ -21,3 +21,4 @@
 [2014-06-26 12:57:39] ddary, leaving. (#ios-driver)
 [2014-06-26 13:05:28] Ragnaroek, joining. (#ios-driver)
 [2014-06-26 13:11:51] santiycr, quitting. (Quit: Leaving.)
+[2014-06-26 13:38:12] rodrigomartin1, quitting. (Quit: Leaving.)
