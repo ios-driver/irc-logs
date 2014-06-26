@@ -13,3 +13,4 @@
 [2014-06-26 11:46:35] rodrigomartin, joining. (#ios-driver)
 [2014-06-26 11:46:35] santiycr, joining. (#ios-driver)
 [2014-06-26 11:46:35] freynaud____, joining. (#ios-driver)
+[2014-06-26 11:56:55] rodrigomartin, quitting. (*.net *.split)
