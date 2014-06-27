@@ -54,3 +54,5 @@
 [2014-06-27 13:05:20] lukeis, quitting. (Quit: Leaving.)
 [2014-06-27 14:02:15] lukeis, joining. (#ios-driver)
 [2014-06-27 14:23:09] lukeis1, joining. (#ios-driver)
+[2014-06-27 14:31:44] lukeis, quitting. (*.net *.split)
+[2014-06-27 14:31:49] freynaud____, quitting. (*.net *.split)
