@@ -9,3 +9,4 @@
 [2014-06-27 02:19:36] Richard_Stowe, quitting. (Quit: irc2go)
 [2014-06-27 02:19:51] Richard_Stowe, joining. (#ios-driver)
 [2014-06-27 02:22:16] operatia_, joining. (#ios-driver)
+[2014-06-27 02:25:36] operatiay, quitting. (Ping timeout: 264 seconds)
