@@ -15,3 +15,7 @@
 [2014-06-27 02:44:05] admc, joining. (#ios-driver)
 [2014-06-27 02:45:18] Richard_Stowe: Hello anyone??
 [2014-06-27 03:24:04] admc, quitting. (Quit: Leaving.)
+[2014-06-27 04:05:23] operatia_, joining. (#ios-driver)
+[2014-06-27 04:08:14] admc, joining. (#ios-driver)
+[2014-06-27 04:08:37] admc, quitting. (Client Quit)
+[2014-06-27 04:08:41] operatiay, quitting. (Ping timeout: 264 seconds)
