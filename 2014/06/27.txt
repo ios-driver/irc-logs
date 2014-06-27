@@ -45,3 +45,4 @@
 [2014-06-27 07:42:57] mmmulani: I haven't been trying out Safari on real devices but I do believe there is a way
 [2014-06-27 07:51:25] smccarthy, joining. (#ios-driver)
 [2014-06-27 07:58:05] nirvdrum, joining. (#ios-driver)
+[2014-06-27 08:18:25] Richard_Stowe, quitting. (Quit: irc2go)
