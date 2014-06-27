@@ -14,3 +14,4 @@
 [2014-06-27 02:42:10] operatiay, joining. (#ios-driver)
 [2014-06-27 02:44:05] admc, joining. (#ios-driver)
 [2014-06-27 02:45:18] Richard_Stowe: Hello anyone??
+[2014-06-27 03:24:04] admc, quitting. (Quit: Leaving.)
