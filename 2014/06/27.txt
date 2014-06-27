@@ -8,3 +8,4 @@
 [2014-06-27 02:13:50] Richard_Stowe: I'm currently working on a project that is making use of the latest dev snapshot of IOS-Driver. Our main requirement is to remote control mobile safari. Providing the browser is open we can happily navigate pages and take screenshots. However we also need to perform gestures, primarily clicking a swiping. Can this be acheived with mobile safri on real devices?
 [2014-06-27 02:19:36] Richard_Stowe, quitting. (Quit: irc2go)
 [2014-06-27 02:19:51] Richard_Stowe, joining. (#ios-driver)
+[2014-06-27 02:22:16] operatia_, joining. (#ios-driver)
