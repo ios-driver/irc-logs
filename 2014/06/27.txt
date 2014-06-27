@@ -3,3 +3,6 @@
 [2014-06-27 00:52:17] admc, quitting. (Read error: Connection reset by peer)
 [2014-06-27 00:52:49] admc, joining. (#ios-driver)
 [2014-06-27 01:25:07] admc, quitting. (Quit: Leaving.)
+[2014-06-27 02:11:31] Richard_Stowe, joining. (#ios-driver)
+[2014-06-27 02:12:08] Richard_Stowe: Hi all
+[2014-06-27 02:13:50] Richard_Stowe: I'm currently working on a project that is making use of the latest dev snapshot of IOS-Driver. Our main requirement is to remote control mobile safari. Providing the browser is open we can happily navigate pages and take screenshots. However we also need to perform gestures, primarily clicking a swiping. Can this be acheived with mobile safri on real devices?
