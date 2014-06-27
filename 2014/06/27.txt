@@ -24,3 +24,4 @@
 [2014-06-27 06:30:14] rodrigomartin, joining. (#ios-driver)
 [2014-06-27 06:35:05] rodrigomartin, quitting. (Ping timeout: 264 seconds)
 [2014-06-27 06:35:32] rodrigomartin, joining. (#ios-driver)
+[2014-06-27 06:47:27] mmmulani: Richard_Stowe: here
