@@ -49,3 +49,5 @@
 [2014-06-27 09:49:29] Ragnaroek, quitting. (Ping timeout: 264 seconds)
 [2014-06-27 12:17:19] Ragnaroek, joining. (#ios-driver)
 [2014-06-27 12:28:50] lukeis, joining. (#ios-driver)
+[2014-06-27 12:43:17] psp250, quitting. (Ping timeout: 240 seconds)
+[2014-06-27 12:44:02] psp250, joining. (#ios-driver)
