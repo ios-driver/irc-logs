@@ -29,3 +29,7 @@
 [2014-06-27 06:52:29] rodrigomartin, joining. (#ios-driver)
 [2014-06-27 06:56:45] rodrigomartin, quitting. (Ping timeout: 252 seconds)
 [2014-06-27 06:57:53] rodrigomartin, joining. (#ios-driver)
+[2014-06-27 07:02:36] rodrigomartin, quitting. (Ping timeout: 260 seconds)
+[2014-06-27 07:02:47] Richard_Stowe: hey
+[2014-06-27 07:03:14] rodrigomartin, joining. (#ios-driver)
+[2014-06-27 07:03:22] Richard_Stowe: https://groups.google.com/forum/#!topic/ios-driver/I4nQAEHyGIE
