@@ -46,3 +46,4 @@
 [2014-06-27 07:51:25] smccarthy, joining. (#ios-driver)
 [2014-06-27 07:58:05] nirvdrum, joining. (#ios-driver)
 [2014-06-27 08:18:25] Richard_Stowe, quitting. (Quit: irc2go)
+[2014-06-27 09:49:29] Ragnaroek, quitting. (Ping timeout: 264 seconds)
