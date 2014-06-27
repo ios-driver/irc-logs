@@ -43,3 +43,4 @@
 [2014-06-27 07:37:44] rodrigomartin, joining. (#ios-driver)
 [2014-06-27 07:42:44] mmmulani: Richard_Stowe: which APIs did you try?
 [2014-06-27 07:42:57] mmmulani: I haven't been trying out Safari on real devices but I do believe there is a way
+[2014-06-27 07:51:25] smccarthy, joining. (#ios-driver)
