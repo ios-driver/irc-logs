@@ -12,3 +12,4 @@
 [2014-06-29 07:06:29] admc, quitting. (Quit: Leaving.)
 [2014-06-29 07:38:51] nirvdrum, joining. (#ios-driver)
 [2014-06-29 10:01:48] nirvdrum, quitting. (Ping timeout: 244 seconds)
+[2014-06-29 10:26:29] smccarthy, joining. (#ios-driver)
