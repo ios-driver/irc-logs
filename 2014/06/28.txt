@@ -15,3 +15,4 @@
 [2014-06-28 17:33:08] ios-driverbot_, joining. (#ios-driver)
 [2014-06-28 17:37:43] ios-driverbot, quitting. (*.net *.split)
 [2014-06-28 20:17:49] nirvdrum, quitting. (Ping timeout: 252 seconds)
+[2014-06-28 21:13:40] admc, joining. (#ios-driver)
