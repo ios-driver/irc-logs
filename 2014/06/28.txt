@@ -13,3 +13,4 @@
 [2014-06-28 17:23:56] freynaud____, quitting. (Ping timeout: 260 seconds)
 [2014-06-28 17:23:59] freynaud_____, changing nick to freynaud____.
 [2014-06-28 17:33:08] ios-driverbot_, joining. (#ios-driver)
+[2014-06-28 17:37:43] ios-driverbot, quitting. (*.net *.split)
