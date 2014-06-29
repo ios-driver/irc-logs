@@ -10,3 +10,4 @@
 [2014-06-29 05:21:43] ddary, quitting. (Quit: ddary)
 [2014-06-29 06:30:02] admc, joining. (#ios-driver)
 [2014-06-29 07:06:29] admc, quitting. (Quit: Leaving.)
+[2014-06-29 07:38:51] nirvdrum, joining. (#ios-driver)
