@@ -8,3 +8,4 @@
 [2014-06-28 11:12:35] nirvdrum, quitting. (Ping timeout: 252 seconds)
 [2014-06-28 16:37:51] nirvdrum, joining. (#ios-driver)
 [2014-06-28 17:04:08] dmarr, quitting. (Ping timeout: 240 seconds)
+[2014-06-28 17:09:58] dmarr, joining. (#ios-driver)
