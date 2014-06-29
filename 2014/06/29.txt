@@ -1,2 +1,3 @@
 [2014-06-29 00:39:28] freynaud____, quitting. (Changing host)
 [2014-06-29 00:39:28] freynaud____, joining. (#ios-driver)
+[2014-06-29 03:44:08] admc, joining. (#ios-driver)
