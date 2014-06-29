@@ -9,3 +9,6 @@
 [2014-06-28 16:37:51] nirvdrum, joining. (#ios-driver)
 [2014-06-28 17:04:08] dmarr, quitting. (Ping timeout: 240 seconds)
 [2014-06-28 17:09:58] dmarr, joining. (#ios-driver)
+[2014-06-28 17:22:18] freynaud_____, joining. (#ios-driver)
+[2014-06-28 17:23:56] freynaud____, quitting. (Ping timeout: 260 seconds)
+[2014-06-28 17:23:59] freynaud_____, changing nick to freynaud____.
