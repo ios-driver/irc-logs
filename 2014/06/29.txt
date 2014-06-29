@@ -25,3 +25,5 @@
 [2014-06-29 13:33:44] Ragnaroek_, joining. (#ios-driver)
 [2014-06-29 13:42:23] Ragnaroek: I'm getting NPEs in the getCurrentUrl calls
 [2014-06-29 14:50:35] admc, joining. (#ios-driver)
+[2014-06-29 15:00:40] admc, quitting. (Read error: Connection reset by peer)
+[2014-06-29 15:00:48] admc, joining. (#ios-driver)
