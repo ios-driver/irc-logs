@@ -42,3 +42,4 @@
 [2014-06-29 23:52:49] Ragnaroek, joining. (#ios-driver)
 [2014-06-29 23:52:50] Ragnaroek_, joining. (#ios-driver)
 [2014-06-29 23:54:40] Ragnaroek_, quitting. (Read error: Connection reset by peer)
+[2014-06-29 23:55:02] Ragnaroek_, joining. (#ios-driver)
