@@ -25,3 +25,5 @@
 [2014-06-30 10:57:49] mmmulani, quitting. (Remote host closed the connection)
 [2014-06-30 10:58:04] mmmulani, joining. (#ios-driver)
 [2014-06-30 11:21:08] admc, joining. (#ios-driver)
+[2014-06-30 11:38:52] Ragnaroek, joining. (#ios-driver)
+[2014-06-30 11:39:09] Ragnaroek_, joining. (#ios-driver)
