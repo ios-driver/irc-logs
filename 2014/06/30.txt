@@ -28,3 +28,4 @@
 [2014-06-30 11:38:52] Ragnaroek, joining. (#ios-driver)
 [2014-06-30 11:39:09] Ragnaroek_, joining. (#ios-driver)
 [2014-06-30 13:03:28] Ragnaroek_: I'm still getting NPEs in the getCurrentUrl calls
+[2014-06-30 13:15:00] admc, quitting. (Read error: Connection timed out)
