@@ -39,3 +39,4 @@
 [2014-06-30 15:32:15] lukeis, quitting. (Quit: Leaving.)
 [2014-06-30 15:52:43] Ragnaroek_, quitting. (Ping timeout: 240 seconds)
 [2014-06-30 15:53:11] Ragnaroek, quitting. (Ping timeout: 264 seconds)
+[2014-06-30 16:15:33] rodrigomartin, quitting. (Quit: Leaving.)
