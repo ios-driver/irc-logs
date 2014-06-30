@@ -14,3 +14,4 @@
 [2014-06-30 06:45:04] rodrigomartin, joining. (#ios-driver)
 [2014-06-30 07:11:01] psp250, quitting. (Remote host closed the connection)
 [2014-06-30 08:53:46] smccarthy, joining. (#ios-driver)
+[2014-06-30 09:50:49] lukeis, joining. (#ios-driver)
