@@ -36,3 +36,4 @@
 [2014-06-30 14:35:57] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2014-06-30 14:45:44] admc, quitting. (Read error: Connection reset by peer)
 [2014-06-30 15:29:55] nirvdrum_, quitting. (Ping timeout: 240 seconds)
+[2014-06-30 15:32:15] lukeis, quitting. (Quit: Leaving.)
