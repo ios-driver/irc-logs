@@ -35,3 +35,5 @@
 [2014-06-29 18:17:07] Ragnaroek, quitting. (Ping timeout: 240 seconds)
 [2014-06-29 18:17:55] Ragnaroek_, quitting. (Ping timeout: 240 seconds)
 [2014-06-29 19:03:24] smccarthy2, quitting. (Quit: Leaving...)
+[2014-06-29 21:59:07] Ragnaroek, joining. (#ios-driver)
+[2014-06-29 21:59:09] Ragnaroek_, joining. (#ios-driver)
