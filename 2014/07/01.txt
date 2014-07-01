@@ -19,3 +19,4 @@
 [2014-07-01 11:14:43] Ragnaroek_, joining. (#ios-driver)
 [2014-07-01 11:15:58] Ragnaroek_, quitting. (Remote host closed the connection)
 [2014-07-01 11:16:03] Ragnaroek, quitting. (Remote host closed the connection)
+[2014-07-01 11:38:18] santiycr, joining. (#ios-driver)
