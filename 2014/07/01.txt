@@ -28,3 +28,4 @@
 [2014-07-01 13:57:22] Ragnaroek, quitting. (Ping timeout: 264 seconds)
 [2014-07-01 14:00:36] ddary, quitting. (Quit: ddary)
 [2014-07-01 14:00:42] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-07-01 14:39:55] lukeis, quitting. (Quit: Leaving.)
