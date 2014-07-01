@@ -10,3 +10,4 @@
 [2014-07-01 09:32:00] Ragnaroek, quitting. (Ping timeout: 260 seconds)
 [2014-07-01 10:02:20] santiycr, quitting. (Quit: Leaving.)
 [2014-07-01 10:10:42] santiycr, joining. (#ios-driver)
+[2014-07-01 10:51:13] ddary, joining. (#ios-driver)
