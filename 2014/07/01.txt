@@ -14,3 +14,4 @@
 [2014-07-01 10:55:21] ddary, leaving. (#ios-driver)
 [2014-07-01 10:55:31] lukeis, quitting. (Quit: Leaving.)
 [2014-07-01 10:58:39] lukeis, joining. (#ios-driver)
+[2014-07-01 11:04:24] santiycr, quitting. (Quit: Leaving.)
