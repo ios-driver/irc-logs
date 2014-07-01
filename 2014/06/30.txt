@@ -51,3 +51,5 @@
 [2014-06-30 21:22:45] operatiay, joining. (#ios-driver)
 [2014-06-30 21:27:45] mmmulani, quitting. (Write error: Broken pipe)
 [2014-06-30 21:31:24] mmmulani, joining. (#ios-driver)
+[2014-06-30 23:51:29] Ragnaroek, joining. (#ios-driver)
+[2014-06-30 23:51:36] Ragnaroek_, joining. (#ios-driver)
