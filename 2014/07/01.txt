@@ -5,3 +5,4 @@
 [2014-07-01 07:24:11] nirvdrum_, changing nick to nirvdrum.
 [2014-07-01 08:25:50] lukeis, joining. (#ios-driver)
 [2014-07-01 08:39:21] santiycr, joining. (#ios-driver)
+[2014-07-01 09:15:37] smccarthy, joining. (#ios-driver)
