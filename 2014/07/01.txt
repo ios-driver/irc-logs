@@ -8,3 +8,4 @@
 [2014-07-01 09:15:37] smccarthy, joining. (#ios-driver)
 [2014-07-01 09:30:43] Ragnaroek_, quitting. (Ping timeout: 240 seconds)
 [2014-07-01 09:32:00] Ragnaroek, quitting. (Ping timeout: 260 seconds)
+[2014-07-01 10:02:20] santiycr, quitting. (Quit: Leaving.)
