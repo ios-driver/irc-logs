@@ -41,3 +41,5 @@
 [2014-06-30 15:53:11] Ragnaroek, quitting. (Ping timeout: 264 seconds)
 [2014-06-30 16:15:33] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-06-30 16:38:59] smccarthy2, quitting. (Quit: Leaving...)
+[2014-06-30 17:58:22] mmmulani, quitting. (Remote host closed the connection)
+[2014-06-30 17:58:39] mmmulani, joining. (#ios-driver)
