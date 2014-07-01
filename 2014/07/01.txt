@@ -15,3 +15,5 @@
 [2014-07-01 10:55:31] lukeis, quitting. (Quit: Leaving.)
 [2014-07-01 10:58:39] lukeis, joining. (#ios-driver)
 [2014-07-01 11:04:24] santiycr, quitting. (Quit: Leaving.)
+[2014-07-01 11:12:34] Ragnaroek, joining. (#ios-driver)
+[2014-07-01 11:14:43] Ragnaroek_, joining. (#ios-driver)
