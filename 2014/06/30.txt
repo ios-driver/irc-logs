@@ -49,3 +49,4 @@
 [2014-06-30 21:11:32] operatiay, quitting. (*.net *.split)
 [2014-06-30 21:22:44] mmmulani, joining. (#ios-driver)
 [2014-06-30 21:22:45] operatiay, joining. (#ios-driver)
+[2014-06-30 21:27:45] mmmulani, quitting. (Write error: Broken pipe)
