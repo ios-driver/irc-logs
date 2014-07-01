@@ -47,3 +47,5 @@
 [2014-06-30 18:03:39] mmmulani, joining. (#ios-driver)
 [2014-06-30 21:11:30] mmmulani, quitting. (*.net *.split)
 [2014-06-30 21:11:32] operatiay, quitting. (*.net *.split)
+[2014-06-30 21:22:44] mmmulani, joining. (#ios-driver)
+[2014-06-30 21:22:45] operatiay, joining. (#ios-driver)
