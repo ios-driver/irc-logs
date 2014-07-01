@@ -50,3 +50,4 @@
 [2014-06-30 21:22:44] mmmulani, joining. (#ios-driver)
 [2014-06-30 21:22:45] operatiay, joining. (#ios-driver)
 [2014-06-30 21:27:45] mmmulani, quitting. (Write error: Broken pipe)
+[2014-06-30 21:31:24] mmmulani, joining. (#ios-driver)
