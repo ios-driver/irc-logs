@@ -45,3 +45,4 @@
 [2014-07-01 23:09:12] santiycr, joining. (#ios-driver)
 [2014-07-01 23:29:48] santiycr1, joining. (#ios-driver)
 [2014-07-01 23:31:31] santiycr, quitting. (Ping timeout: 240 seconds)
+[2014-07-01 23:37:49] santiycr1, quitting. (Quit: Leaving.)
