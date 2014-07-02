@@ -42,3 +42,4 @@
 [2014-07-01 20:45:49] ios-driverbot_, joining. (#ios-driver)
 [2014-07-01 22:23:06] Ragnaroek, joining. (#ios-driver)
 [2014-07-01 22:37:27] Ragnaroek, quitting. (Ping timeout: 248 seconds)
+[2014-07-01 23:09:12] santiycr, joining. (#ios-driver)
