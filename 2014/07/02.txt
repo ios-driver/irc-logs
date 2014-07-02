@@ -5,3 +5,5 @@
 [2014-07-02 09:32:43] santiycr, joining. (#ios-driver)
 [2014-07-02 09:33:29] santiycr, quitting. (Client Quit)
 [2014-07-02 09:36:49] lukeis, joining. (#ios-driver)
+[2014-07-02 11:30:41] nirvdrum, joining. (#ios-driver)
+[2014-07-02 11:32:26] nirvdrum_, joining. (#ios-driver)
