@@ -21,3 +21,5 @@
 [2014-07-02 13:52:33] rodrigomartin, quitting. (Ping timeout: 240 seconds)
 [2014-07-02 13:54:59] smccarthy, quitting. (Remote host closed the connection)
 [2014-07-02 13:55:00] smccarthy2, joining. (#ios-driver)
+[2014-07-02 13:55:37] rodrigomartin, joining. (#ios-driver)
+[2014-07-02 13:56:48] nirvdrum, joining. (#ios-driver)
