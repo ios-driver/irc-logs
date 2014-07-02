@@ -27,3 +27,6 @@
 [2014-07-02 14:02:48] rodrigomartin, joining. (#ios-driver)
 [2014-07-02 14:07:03] rodrigomartin, quitting. (Ping timeout: 240 seconds)
 [2014-07-02 14:09:54] nirvdrum, quitting. (Ping timeout: 255 seconds)
+[2014-07-02 14:10:20] rodrigomartin, joining. (#ios-driver)
+[2014-07-02 14:12:29] nirvdrum, joining. (#ios-driver)
+[2014-07-02 14:14:46] rodrigomartin, quitting. (Ping timeout: 264 seconds)
