@@ -6,3 +6,5 @@
 [2014-07-03 11:02:40] ddary, leaving. (#ios-driver)
 [2014-07-03 11:25:45] santiycr, joining. (#ios-driver)
 [2014-07-03 11:55:19] ddary, joining. (#ios-driver)
+[2014-07-03 12:16:55] lukeis, joining. (#ios-driver)
+[2014-07-03 12:18:52] ddary, quitting. (Quit: ddary)
