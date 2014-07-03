@@ -12,3 +12,5 @@
 [2014-07-03 12:56:10] rodrigomartin, quitting. (Ping timeout: 264 seconds)
 [2014-07-03 12:58:19] rodrigomartin1, quitting. (Client Quit)
 [2014-07-03 12:58:34] rodrigomartin, joining. (#ios-driver)
+[2014-07-03 13:16:03] rodrigomartin, quitting. (Ping timeout: 240 seconds)
+[2014-07-03 13:18:46] rodrigomartin, joining. (#ios-driver)
