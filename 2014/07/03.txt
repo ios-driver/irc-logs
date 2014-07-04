@@ -27,3 +27,4 @@
 [2014-07-03 16:39:55] smccarthy, quitting. (Quit: Leaving...)
 [2014-07-03 18:18:56] nirvdrum, joining. (#ios-driver)
 [2014-07-03 19:40:28] santiycr, quitting. (Quit: Leaving.)
+[2014-07-03 19:46:33] santiycr, joining. (#ios-driver)
