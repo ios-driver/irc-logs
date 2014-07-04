@@ -8,3 +8,4 @@
 [2014-07-04 08:57:40] Guest97593, joining. (#ios-driver)
 [2014-07-04 08:57:53] Guest97593, leaving. (#ios-driver)
 [2014-07-04 11:54:58] smccarthy, quitting. (Quit: Leaving...)
+[2014-07-04 13:16:11] nirvdrum, quitting. (Remote host closed the connection)
