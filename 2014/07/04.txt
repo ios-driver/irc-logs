@@ -3,3 +3,4 @@
 [2014-07-04 07:13:38] rodrigomartin, joining. (#ios-driver)
 [2014-07-04 07:23:32] nirvdrum, joining. (#ios-driver)
 [2014-07-04 07:29:47] rodrigomartin, quitting. (Read error: Connection timed out)
+[2014-07-04 07:31:35] rodrigomartin, joining. (#ios-driver)
