@@ -13,3 +13,4 @@
 [2014-07-05 08:34:24] ddary, quitting. (Quit: ddary)
 [2014-07-05 08:36:50] ddary, joining. (#ios-driver)
 [2014-07-05 08:45:07] ddary, quitting. (Quit: ddary)
+[2014-07-05 08:51:57] ddary, joining. (#ios-driver)
