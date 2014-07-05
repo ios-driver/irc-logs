@@ -17,3 +17,4 @@
 [2014-07-05 08:56:03] ddary, quitting. (Ping timeout: 240 seconds)
 [2014-07-05 10:12:50] ddary, joining. (#ios-driver)
 [2014-07-05 10:39:55] smccarthy, quitting. (Quit: Leaving...)
+[2014-07-05 11:41:45] ddary, quitting. (Quit: ddary)
