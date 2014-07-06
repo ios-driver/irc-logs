@@ -2,3 +2,4 @@
 [2014-07-06 06:35:33] ddary, joining. (#ios-driver)
 [2014-07-06 08:04:05] nirvdrum, joining. (#ios-driver)
 [2014-07-06 08:33:04] smccarthy, joining. (#ios-driver)
+[2014-07-06 09:30:05] ddary, quitting. (Quit: ddary)
