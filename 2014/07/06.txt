@@ -9,3 +9,8 @@
 [2014-07-06 11:58:41] ddary, quitting. (Quit: ddary)
 [2014-07-06 11:59:00] ddary, joining. (#ios-driver)
 [2014-07-06 11:59:48] ddary: chanserv op #selendroid ddary
+[2014-07-06 12:00:44] ddary, leaving. (#ios-driver)
+[2014-07-06 12:01:08] ddary, joining. (#ios-driver)
+[2014-07-06 12:02:15] ddary, quitting. (Client Quit)
+[2014-07-06 12:02:37] ddary, joining. (#ios-driver)
+[2014-07-06 12:03:43] ddary, quitting. (Client Quit)
