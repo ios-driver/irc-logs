@@ -28,3 +28,5 @@
 [2014-07-07 13:28:16] ddary, quitting. (Client Quit)
 [2014-07-07 14:01:45] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-07-07 14:02:03] rodrigomartin, joining. (#ios-driver)
+[2014-07-07 15:07:29] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-07-07 15:07:43] rodrigomartin, joining. (#ios-driver)
