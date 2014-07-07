@@ -24,3 +24,4 @@
 [2014-07-07 11:06:40] ddary, joining. (#ios-driver)
 [2014-07-07 11:24:56] jack090: Specifically I'd like to run mobilesafari on a real device.
 [2014-07-07 13:19:04] ddary, quitting. (Quit: ddary)
+[2014-07-07 13:24:32] ddary, joining. (#ios-driver)
