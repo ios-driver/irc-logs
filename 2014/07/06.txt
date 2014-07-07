@@ -17,3 +17,4 @@
 [2014-07-06 12:06:20] ddary, joining. (#ios-driver)
 [2014-07-06 12:06:22] ddary, leaving. (#ios-driver)
 [2014-07-06 12:17:25] smccarthy, quitting. (Quit: Leaving...)
+[2014-07-06 20:36:01] nirvdrum, quitting. (Remote host closed the connection)
