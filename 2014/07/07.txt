@@ -10,3 +10,5 @@
 [2014-07-07 05:23:55] rodrigomartin, joining. (#ios-driver)
 [2014-07-07 05:28:30] nicegraham__, quitting. (Ping timeout: 252 seconds)
 [2014-07-07 05:28:58] nicegraham__, joining. (#ios-driver)
+[2014-07-07 05:31:03] nicegraham__, quitting. (Changing host)
+[2014-07-07 05:31:03] nicegraham__, joining. (#ios-driver)
