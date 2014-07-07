@@ -21,3 +21,4 @@
 [2014-07-07 10:23:02] jlipps, joining. (#ios-driver)
 [2014-07-07 10:56:56] jack090, joining. (#ios-driver)
 [2014-07-07 10:57:36] jack090: Quick question: How do I turn off simulators for ios-driver?
+[2014-07-07 11:06:40] ddary, joining. (#ios-driver)
