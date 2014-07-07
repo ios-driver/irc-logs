@@ -3,3 +3,4 @@
 [2014-07-07 03:09:45] lukeis, quitting. (Ping timeout: 255 seconds)
 [2014-07-07 03:12:58] lukeis, joining. (#ios-driver)
 [2014-07-07 03:13:33] lukeis1, quitting. (Ping timeout: 240 seconds)
+[2014-07-07 04:58:52] rodrigomartin, joining. (#ios-driver)
