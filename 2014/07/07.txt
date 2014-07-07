@@ -8,3 +8,5 @@
 [2014-07-07 05:06:27] rodrigomartin, joining. (#ios-driver)
 [2014-07-07 05:22:35] rodrigomartin, quitting. (Read error: Connection timed out)
 [2014-07-07 05:23:55] rodrigomartin, joining. (#ios-driver)
+[2014-07-07 05:28:30] nicegraham__, quitting. (Ping timeout: 252 seconds)
+[2014-07-07 05:28:58] nicegraham__, joining. (#ios-driver)
