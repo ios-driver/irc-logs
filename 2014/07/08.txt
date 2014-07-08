@@ -7,3 +7,4 @@
 [2014-07-08 05:24:22] rodrigomartin, joining. (#ios-driver)
 [2014-07-08 07:23:13] jack090: Anyone have success running ios-driver on a real device?
 [2014-07-08 07:25:37] jack090: er.. with a real device...
+[2014-07-08 08:46:19] lukeis, quitting. (Quit: Leaving.)
