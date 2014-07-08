@@ -32,3 +32,4 @@
 [2014-07-08 14:38:57] rodrigomartin1, quitting. (Quit: Leaving.)
 [2014-07-08 14:43:56] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2014-07-08 15:32:05] smccarthy, quitting. (Quit: Leaving...)
+[2014-07-08 15:52:50] lukeis, quitting. (Quit: Leaving.)
