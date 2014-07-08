@@ -23,3 +23,5 @@
 [2014-07-08 12:50:27] ddary, joining. (#ios-driver)
 [2014-07-08 12:54:35] jack090: anyone there?
 [2014-07-08 12:54:42] ddary, quitting. (Ping timeout: 240 seconds)
+[2014-07-08 13:07:52] jlipps, quitting. (Quit: Leaving.)
+[2014-07-08 13:08:20] jlipps, joining. (#ios-driver)
