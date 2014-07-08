@@ -3,3 +3,5 @@
 [2014-07-08 03:08:44] lukeis, quitting. (Read error: Connection reset by peer)
 [2014-07-08 03:08:54] lukeis1, changing nick to lukeis.
 [2014-07-08 05:06:10] rodrigomartin, joining. (#ios-driver)
+[2014-07-08 05:22:11] rodrigomartin, quitting. (Read error: Connection timed out)
+[2014-07-08 05:24:22] rodrigomartin, joining. (#ios-driver)
