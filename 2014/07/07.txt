@@ -37,3 +37,5 @@
 [2014-07-07 17:55:38] jlipps, quitting. (Quit: Leaving.)
 [2014-07-07 20:01:27] smccarthy, joining. (#ios-driver)
 [2014-07-07 20:47:53] smccarthy, quitting. (Quit: Leaving...)
+[2014-07-07 21:36:53] ddary, joining. (#ios-driver)
+[2014-07-07 21:36:59] ddary, quitting. (Client Quit)
