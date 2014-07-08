@@ -26,3 +26,6 @@
 [2014-07-08 13:07:52] jlipps, quitting. (Quit: Leaving.)
 [2014-07-08 13:08:20] jlipps, joining. (#ios-driver)
 [2014-07-08 14:04:23] santiycr, joining. (#ios-driver)
+[2014-07-08 14:29:00] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-07-08 14:29:01] rodrigomartin1, joining. (#ios-driver)
+[2014-07-08 14:29:12] lukeis, joining. (#ios-driver)
