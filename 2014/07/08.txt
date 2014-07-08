@@ -17,3 +17,5 @@
 [2014-07-08 10:51:39] ddary, quitting. (Client Quit)
 [2014-07-08 12:09:53] ddary_, joining. (#ios-driver)
 [2014-07-08 12:21:26] ddary_, changing nick to ddary.
+[2014-07-08 12:30:42] rodrigomartin, quitting. (Ping timeout: 240 seconds)
+[2014-07-08 12:31:00] rodrigomartin, joining. (#ios-driver)
