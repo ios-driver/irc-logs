@@ -20,3 +20,6 @@
 [2014-07-08 12:30:42] rodrigomartin, quitting. (Ping timeout: 240 seconds)
 [2014-07-08 12:31:00] rodrigomartin, joining. (#ios-driver)
 [2014-07-08 12:43:00] ddary, quitting. (Quit: ddary)
+[2014-07-08 12:50:27] ddary, joining. (#ios-driver)
+[2014-07-08 12:54:35] jack090: anyone there?
+[2014-07-08 12:54:42] ddary, quitting. (Ping timeout: 240 seconds)
