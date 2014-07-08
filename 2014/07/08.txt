@@ -1,1 +1,4 @@
 [2014-07-08 02:05:21] lukeis, joining. (#ios-driver)
+[2014-07-08 03:08:44] lukeis1, joining. (#ios-driver)
+[2014-07-08 03:08:44] lukeis, quitting. (Read error: Connection reset by peer)
+[2014-07-08 03:08:54] lukeis1, changing nick to lukeis.
