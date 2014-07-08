@@ -5,3 +5,4 @@
 [2014-07-08 05:06:10] rodrigomartin, joining. (#ios-driver)
 [2014-07-08 05:22:11] rodrigomartin, quitting. (Read error: Connection timed out)
 [2014-07-08 05:24:22] rodrigomartin, joining. (#ios-driver)
+[2014-07-08 07:23:13] jack090: Anyone have success running ios-driver on a real device?
