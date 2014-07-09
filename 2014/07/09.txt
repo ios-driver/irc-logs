@@ -7,3 +7,4 @@
 [2014-07-09 01:48:29] operatiay: :note jack090 https://github.com/ios-driver/ios-driver/issues/168
 [2014-07-09 07:01:55] gdennis, joining. (#ios-driver)
 [2014-07-09 07:02:01] gdennis, leaving. (#ios-driver)
+[2014-07-09 08:49:05] smccarthy, joining. (#ios-driver)
