@@ -4,3 +4,4 @@
 [2014-07-09 01:35:27] lukeis1, changing nick to lukeis.
 [2014-07-09 01:41:53] ios-driverbot__, joining. (#ios-driver)
 [2014-07-09 01:42:44] ios-driverbot_, quitting. (Remote host closed the connection)
+[2014-07-09 01:48:29] operatiay: :note jack090 https://github.com/ios-driver/ios-driver/issues/168
