@@ -13,3 +13,5 @@
 [2014-07-09 09:33:42] nirvdrum, joining. (#ios-driver)
 [2014-07-09 09:40:51] santiycr, joining. (#ios-driver)
 [2014-07-09 09:58:38] lukeis, quitting. (Quit: Leaving.)
+[2014-07-09 10:11:08] ddary, joining. (#ios-driver)
+[2014-07-09 10:13:45] ddary, quitting. (Client Quit)
