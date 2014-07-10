@@ -8,3 +8,6 @@
 [2014-07-10 12:35:53] ddary, leaving. (#ios-driver)
 [2014-07-10 14:56:33] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-07-10 15:25:07] santiycr, joining. (#ios-driver)
+[2014-07-10 15:33:00] freynaud____, quitting. (*.net *.split)
+[2014-07-10 15:33:02] dmarr, quitting. (*.net *.split)
+[2014-07-10 15:33:02] AutomatedTester, quitting. (*.net *.split)
