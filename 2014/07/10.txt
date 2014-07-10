@@ -4,3 +4,5 @@
 [2014-07-10 08:24:31] smccarthy, joining. (#ios-driver)
 [2014-07-10 10:25:16] ddary, joining. (#ios-driver)
 [2014-07-10 11:30:59] ddary, leaving. (#ios-driver)
+[2014-07-10 12:35:33] ddary, joining. (#ios-driver)
+[2014-07-10 12:35:53] ddary, leaving. (#ios-driver)
