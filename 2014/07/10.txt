@@ -26,3 +26,4 @@
 [2014-07-10 18:58:43] santiycr, joining. (#ios-driver)
 [2014-07-10 18:58:43] nicegraham__, joining. (#ios-driver)
 [2014-07-10 18:58:43] mmmulani, joining. (#ios-driver)
+[2014-07-10 19:03:03] AutomatedTester, joining. (#ios-driver)
