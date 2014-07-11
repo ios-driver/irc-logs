@@ -10,3 +10,4 @@
 [2014-07-11 09:06:55] ybit3, leaving. (#ios-driver)
 [2014-07-11 09:09:23] smccarthy, joining. (#ios-driver)
 [2014-07-11 14:04:22] rodrigomartin, quitting. (Remote host closed the connection)
+[2014-07-11 15:04:41] smccarthy, quitting. (Quit: Leaving...)
