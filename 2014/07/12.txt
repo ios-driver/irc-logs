@@ -4,3 +4,4 @@
 [2014-07-12 05:07:11] AutomatedTester, joining. (#ios-driver)
 [2014-07-12 05:07:12] mmmulani, joining. (#ios-driver)
 [2014-07-12 05:07:12] nicegraham__, joining. (#ios-driver)
+[2014-07-12 08:15:35] smccarthy, joining. (#ios-driver)
