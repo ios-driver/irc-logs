@@ -23,3 +23,4 @@
 [2014-07-11 18:39:01] ios-driver-git: [ios-driver] progressnerd pushed 1 new commit to dev: http://git.io/Qh7m4w
 [2014-07-11 18:39:01] ios-driver-git: ios-driver/dev c3353f1 Greg Dennis: Simplify screenshot support in NoInstrumentsImplementationAvailable.
 [2014-07-11 18:39:01] ios-driver-git, leaving. (#ios-driver)
+[2014-07-11 21:13:20] nirvdrum, quitting. (Ping timeout: 240 seconds)
