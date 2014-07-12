@@ -1,0 +1,6 @@
+[2014-07-12 05:06:42] nicegraham__, quitting. (*.net *.split)
+[2014-07-12 05:06:42] mmmulani, quitting. (*.net *.split)
+[2014-07-12 05:06:42] AutomatedTester, quitting. (*.net *.split)
+[2014-07-12 05:07:11] AutomatedTester, joining. (#ios-driver)
+[2014-07-12 05:07:12] mmmulani, joining. (#ios-driver)
+[2014-07-12 05:07:12] nicegraham__, joining. (#ios-driver)
