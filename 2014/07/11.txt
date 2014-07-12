@@ -15,3 +15,7 @@
 [2014-07-11 18:14:05] ios-driver-git: [ios-driver] progressnerd pushed 1 new commit to dev: http://git.io/quBXmA
 [2014-07-11 18:14:05] ios-driver-git, leaving. (#ios-driver)
 [2014-07-11 18:14:05] ios-driver-git: ios-driver/dev 80a6806 Greg Dennis: Refactored and simplified the screenshot support in NoInstrumentsImplementationAvailable and made some modifications to deal with changes to the openURL app.
+[2014-07-11 18:29:57] ios-driver-git, joining. (#ios-driver)
+[2014-07-11 18:29:57] ios-driver-git: [ios-driver] progressnerd pushed 1 new commit to dev: http://git.io/Q-RlGg
+[2014-07-11 18:29:57] ios-driver-git: ios-driver/dev 0d92624 Greg Dennis: Undoing last commit. It was inadvertently pushed directly into the repository.
+[2014-07-11 18:29:57] ios-driver-git, leaving. (#ios-driver)
