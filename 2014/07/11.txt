@@ -11,3 +11,7 @@
 [2014-07-11 09:09:23] smccarthy, joining. (#ios-driver)
 [2014-07-11 14:04:22] rodrigomartin, quitting. (Remote host closed the connection)
 [2014-07-11 15:04:41] smccarthy, quitting. (Quit: Leaving...)
+[2014-07-11 18:14:05] ios-driver-git, joining. (#ios-driver)
+[2014-07-11 18:14:05] ios-driver-git: [ios-driver] progressnerd pushed 1 new commit to dev: http://git.io/quBXmA
+[2014-07-11 18:14:05] ios-driver-git, leaving. (#ios-driver)
+[2014-07-11 18:14:05] ios-driver-git: ios-driver/dev 80a6806 Greg Dennis: Refactored and simplified the screenshot support in NoInstrumentsImplementationAvailable and made some modifications to deal with changes to the openURL app.
