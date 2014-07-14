@@ -49,3 +49,5 @@
 [2014-07-14 16:05:10] mmmulani, joining. (#ios-driver)
 [2014-07-14 16:12:34] nirvdrum, quitting. (Ping timeout: 264 seconds)
 [2014-07-14 16:17:54] jlipps, quitting. (Quit: Leaving.)
+[2014-07-14 16:45:57] santiycr, quitting. (Quit: Leaving.)
+[2014-07-14 16:48:46] santiycr, joining. (#ios-driver)
