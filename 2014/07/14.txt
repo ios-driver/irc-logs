@@ -19,3 +19,4 @@
 [2014-07-14 11:18:03] nirvdrum, quitting. (Ping timeout: 272 seconds)
 [2014-07-14 11:23:10] santiycr, joining. (#ios-driver)
 [2014-07-14 11:39:39] ddary, joining. (#ios-driver)
+[2014-07-14 11:46:44] nirvdrum_, changing nick to nirvdrum.
