@@ -22,3 +22,4 @@
 [2014-07-14 11:46:44] nirvdrum_, changing nick to nirvdrum.
 [2014-07-14 12:10:59] rodrigomartin1, joining. (#ios-driver)
 [2014-07-14 12:13:34] rodrigomartin, quitting. (Ping timeout: 240 seconds)
+[2014-07-14 12:15:18] ddary, leaving. (#ios-driver)
