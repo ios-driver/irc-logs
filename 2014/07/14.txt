@@ -34,3 +34,4 @@
 [2014-07-14 13:11:24] rodrigomartin, joining. (#ios-driver)
 [2014-07-14 13:11:54] santiycr, joining. (#ios-driver)
 [2014-07-14 14:48:10] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-07-14 14:56:01] santiycr, quitting. (Quit: Leaving.)
