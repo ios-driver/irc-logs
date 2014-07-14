@@ -5,3 +5,5 @@
 [2014-07-14 07:30:19] nirvdrum, joining. (#ios-driver)
 [2014-07-14 08:23:36] smccarthy, joining. (#ios-driver)
 [2014-07-14 08:44:41] lukeis, joining. (#ios-driver)
+[2014-07-14 08:55:33] lukeis, quitting. (Quit: Leaving.)
+[2014-07-14 08:55:43] lukeis, joining. (#ios-driver)
