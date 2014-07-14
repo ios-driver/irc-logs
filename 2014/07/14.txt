@@ -3,3 +3,4 @@
 [2014-07-14 04:13:24] admc, quitting. (Quit: Leaving.)
 [2014-07-14 05:56:14] rodrigomartin, joining. (#ios-driver)
 [2014-07-14 07:30:19] nirvdrum, joining. (#ios-driver)
+[2014-07-14 08:23:36] smccarthy, joining. (#ios-driver)
