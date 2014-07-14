@@ -14,3 +14,5 @@
 [2014-07-14 09:31:42] admc, quitting. (Quit: Leaving.)
 [2014-07-14 09:34:54] operatiay, quitting. (Remote host closed the connection)
 [2014-07-14 11:08:08] nirvdrum, joining. (#ios-driver)
+[2014-07-14 11:13:09] admc, joining. (#ios-driver)
+[2014-07-14 11:14:45] nirvdrum_, joining. (#ios-driver)
