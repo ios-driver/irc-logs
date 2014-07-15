@@ -16,3 +16,4 @@
 [2014-07-15 03:04:00] nicegraham__, joining. (#ios-driver)
 [2014-07-15 03:04:00] dmarr, joining. (#ios-driver)
 [2014-07-15 03:26:38] operatiay, joining. (#ios-driver)
+[2014-07-15 04:51:40] operatiay, quitting. (Remote host closed the connection)
