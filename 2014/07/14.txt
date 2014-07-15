@@ -69,3 +69,5 @@
 [2014-07-14 20:20:35] mmmulani, joining. (#ios-driver)
 [2014-07-14 20:20:35] AutomatedTester, joining. (#ios-driver)
 [2014-07-14 20:20:35] nicegraham__, joining. (#ios-driver)
+[2014-07-14 20:35:03] santiycr, quitting. (Read error: Connection reset by peer)
+[2014-07-14 20:35:03] santiycr1, joining. (#ios-driver)
