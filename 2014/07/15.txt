@@ -20,3 +20,4 @@
 [2014-07-15 06:06:26] rodrigomartin, joining. (#ios-driver)
 [2014-07-15 06:24:30] operatiay, joining. (#ios-driver)
 [2014-07-15 06:48:01] smccarthy, joining. (#ios-driver)
+[2014-07-15 08:28:50] lukeis, joining. (#ios-driver)
