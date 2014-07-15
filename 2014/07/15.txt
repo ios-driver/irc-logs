@@ -10,3 +10,8 @@
 [2014-07-15 02:56:05] mmmulani, quitting. (*.net *.split)
 [2014-07-15 02:56:10] freynaud____, quitting. (*.net *.split)
 [2014-07-15 02:56:11] dmarr, quitting. (*.net *.split)
+[2014-07-15 03:03:59] mmmulani, joining. (#ios-driver)
+[2014-07-15 03:04:00] AutomatedTester, joining. (#ios-driver)
+[2014-07-15 03:04:00] freynaud____, joining. (#ios-driver)
+[2014-07-15 03:04:00] nicegraham__, joining. (#ios-driver)
+[2014-07-15 03:04:00] dmarr, joining. (#ios-driver)
