@@ -28,3 +28,4 @@
 [2014-07-15 09:22:03] lukeis, joining. (#ios-driver)
 [2014-07-15 09:54:40] lukeis, quitting. (Quit: Leaving.)
 [2014-07-15 10:01:44] lukeis, joining. (#ios-driver)
+[2014-07-15 10:48:36] jlipps, joining. (#ios-driver)
