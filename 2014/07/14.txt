@@ -63,3 +63,6 @@
 [2014-07-14 19:24:43] nirvdrum, joining. (#ios-driver)
 [2014-07-14 19:39:34] santiycr, quitting. (Quit: Leaving.)
 [2014-07-14 20:06:36] santiycr, joining. (#ios-driver)
+[2014-07-14 20:12:25] AutomatedTester, quitting. (*.net *.split)
+[2014-07-14 20:12:25] nicegraham__, quitting. (*.net *.split)
+[2014-07-14 20:12:28] mmmulani, quitting. (*.net *.split)
