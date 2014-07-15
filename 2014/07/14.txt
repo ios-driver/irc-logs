@@ -75,3 +75,4 @@
 [2014-07-14 20:52:28] ddary, joining. (#ios-driver)
 [2014-07-14 21:08:36] santiycr1, quitting. (Quit: Leaving.)
 [2014-07-14 21:15:31] ddary, leaving. (#ios-driver)
+[2014-07-14 21:49:46] nirvdrum, quitting. (Ping timeout: 264 seconds)
