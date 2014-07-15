@@ -22,3 +22,4 @@
 [2014-07-15 06:48:01] smccarthy, joining. (#ios-driver)
 [2014-07-15 08:28:50] lukeis, joining. (#ios-driver)
 [2014-07-15 08:58:11] nirvdrum, joining. (#ios-driver)
+[2014-07-15 09:03:25] nirvdrum, quitting. (Read error: Connection reset by peer)
