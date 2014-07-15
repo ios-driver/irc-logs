@@ -43,3 +43,5 @@
 [2014-07-15 12:23:04] ddary, joining. (#ios-driver)
 [2014-07-15 12:32:51] admc, joining. (#ios-driver)
 [2014-07-15 12:55:02] lukeis, quitting. (Quit: Leaving.)
+[2014-07-15 13:05:25] santiycr, quitting. (Quit: Leaving.)
+[2014-07-15 13:05:30] ddary, quitting. (Quit: ddary)
