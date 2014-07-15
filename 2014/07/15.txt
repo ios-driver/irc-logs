@@ -39,3 +39,5 @@
 [2014-07-15 12:02:37] jlipps, joining. (#ios-driver)
 [2014-07-15 12:04:57] operatiay, joining. (#ios-driver)
 [2014-07-15 12:14:46] ddary, quitting. (Quit: ddary)
+[2014-07-15 12:20:26] operatiay, quitting. (Remote host closed the connection)
+[2014-07-15 12:23:04] ddary, joining. (#ios-driver)
