@@ -47,3 +47,4 @@
 [2014-07-16 13:18:06] ScrewDiver, quitting. (Quit: Leaving)
 [2014-07-16 13:29:44] santiycr, joining. (#ios-driver)
 [2014-07-16 13:33:52] jlipps, joining. (#ios-driver)
+[2014-07-16 14:05:00] lukeis1, joining. (#ios-driver)
