@@ -65,3 +65,4 @@
 [2014-07-15 20:04:21] admc, quitting. (Quit: Leaving.)
 [2014-07-15 20:23:44] operatiay, joining. (#ios-driver)
 [2014-07-15 20:27:58] operatiay, quitting. (Ping timeout: 240 seconds)
+[2014-07-15 21:47:30] nirvdrum, quitting. (Remote host closed the connection)
