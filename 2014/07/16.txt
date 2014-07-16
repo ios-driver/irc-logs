@@ -28,3 +28,4 @@
 [2014-07-16 10:40:46] jlipps, quitting. (Quit: Leaving.)
 [2014-07-16 10:44:53] jlipps, joining. (#ios-driver)
 [2014-07-16 10:59:01] admc, joining. (#ios-driver)
+[2014-07-16 11:19:55] operatiay, joining. (#ios-driver)
