@@ -44,3 +44,4 @@
 [2014-07-16 12:48:40] admc, quitting. (Quit: Leaving.)
 [2014-07-16 12:55:40] ddary, quitting. (Quit: ddary)
 [2014-07-16 13:09:32] admc, joining. (#ios-driver)
+[2014-07-16 13:18:06] ScrewDiver, quitting. (Quit: Leaving)
