@@ -55,3 +55,4 @@
 [2014-07-16 14:29:33] lukeis, quitting. (Ping timeout: 240 seconds)
 [2014-07-16 14:56:39] santiycr1, joining. (#ios-driver)
 [2014-07-16 14:56:39] santiycr, quitting. (Read error: Connection reset by peer)
+[2014-07-16 15:03:52] admc, quitting. (Quit: Leaving.)
