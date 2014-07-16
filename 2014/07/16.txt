@@ -32,3 +32,4 @@
 [2014-07-16 11:24:03] operatiay, quitting. (Ping timeout: 240 seconds)
 [2014-07-16 11:32:06] santiycr, joining. (#ios-driver)
 [2014-07-16 11:39:01] operatiay, joining. (#ios-driver)
+[2014-07-16 11:54:40] operatiay, quitting. (Remote host closed the connection)
