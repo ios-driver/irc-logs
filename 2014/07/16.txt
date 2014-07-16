@@ -58,3 +58,5 @@
 [2014-07-16 15:03:52] admc, quitting. (Quit: Leaving.)
 [2014-07-16 15:07:07] admc, joining. (#ios-driver)
 [2014-07-16 15:22:40] lukeis1, changing nick to lukeis.
+[2014-07-16 15:51:36] nirvdrum, quitting. (Remote host closed the connection)
+[2014-07-16 15:52:28] rodrigomartin, quitting. (Ping timeout: 260 seconds)
