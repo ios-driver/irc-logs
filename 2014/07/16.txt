@@ -38,3 +38,4 @@
 [2014-07-16 12:13:04] lukeis, joining. (#ios-driver)
 [2014-07-16 12:27:22] ScrewDiver, joining. (#ios-driver)
 [2014-07-16 12:27:27] jlipps, quitting. (Quit: Leaving.)
+[2014-07-16 12:33:20] admc, quitting. (Quit: Leaving.)
