@@ -9,3 +9,4 @@
 [2014-07-16 04:41:58] operatiay, quitting. (Ping timeout: 240 seconds)
 [2014-07-16 04:44:15] operatia_, quitting. (Remote host closed the connection)
 [2014-07-16 04:44:48] operatiay, joining. (#ios-driver)
+[2014-07-16 05:27:18] operatiay, quitting. (Remote host closed the connection)
