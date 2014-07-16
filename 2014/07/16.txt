@@ -60,3 +60,5 @@
 [2014-07-16 15:22:40] lukeis1, changing nick to lukeis.
 [2014-07-16 15:51:36] nirvdrum, quitting. (Remote host closed the connection)
 [2014-07-16 15:52:28] rodrigomartin, quitting. (Ping timeout: 260 seconds)
+[2014-07-16 16:35:23] santiycr1, quitting. (Quit: Leaving.)
+[2014-07-16 16:36:28] santiycr, joining. (#ios-driver)
