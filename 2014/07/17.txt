@@ -12,3 +12,4 @@
 [2014-07-17 08:21:36] operatiay, joining. (#ios-driver)
 [2014-07-17 08:24:34] lukeis, joining. (#ios-driver)
 [2014-07-17 08:26:23] smccarthy, joining. (#ios-driver)
+[2014-07-17 09:24:34] Ragnaroek, quitting. (Ping timeout: 264 seconds)
