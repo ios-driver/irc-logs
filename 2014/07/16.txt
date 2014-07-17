@@ -67,3 +67,4 @@
 [2014-07-16 17:25:20] santiycr, joining. (#ios-driver)
 [2014-07-16 17:37:15] jlipps, quitting. (Quit: Leaving.)
 [2014-07-16 18:01:31] smccarthy, quitting. (Quit: Leaving...)
+[2014-07-16 18:16:11] admc, quitting. (Quit: Leaving.)
