@@ -8,3 +8,6 @@
 [2014-07-17 04:12:32] operatiay, joining. (#ios-driver)
 [2014-07-17 04:32:18] Ragnaroek, joining. (#ios-driver)
 [2014-07-17 07:22:42] rodrigomartin, joining. (#ios-driver)
+[2014-07-17 08:20:27] operatiay, quitting. (Remote host closed the connection)
+[2014-07-17 08:21:36] operatiay, joining. (#ios-driver)
+[2014-07-17 08:24:34] lukeis, joining. (#ios-driver)
