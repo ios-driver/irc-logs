@@ -50,3 +50,7 @@
 [2014-07-17 15:54:01] AutomatedTester, quitting. (*.net *.split)
 [2014-07-17 15:54:30] AutomatedTester, joining. (#ios-driver)
 [2014-07-17 15:54:41] nicegraham__, quitting. (*.net *.split)
+[2014-07-17 15:55:07] mmmulani, quitting. (*.net *.split)
+[2014-07-17 15:55:12] nicegraham__, joining. (#ios-driver)
+[2014-07-17 15:56:17] mmmulani, joining. (#ios-driver)
+[2014-07-17 15:57:28] rodrigomartin, quitting. (Quit: Leaving.)
