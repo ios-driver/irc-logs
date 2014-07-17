@@ -73,3 +73,5 @@
 [2014-07-16 19:40:02] lukeis, quitting. (Ping timeout: 250 seconds)
 [2014-07-16 19:54:35] santiycr, quitting. (Quit: Leaving.)
 [2014-07-16 21:02:44] admc, joining. (#ios-driver)
+[2014-07-16 22:06:56] admc, quitting. (Quit: Leaving.)
+[2014-07-16 22:08:59] admc, joining. (#ios-driver)
