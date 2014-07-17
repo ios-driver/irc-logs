@@ -69,3 +69,4 @@
 [2014-07-16 18:01:31] smccarthy, quitting. (Quit: Leaving...)
 [2014-07-16 18:16:11] admc, quitting. (Quit: Leaving.)
 [2014-07-16 19:04:16] santiycr, quitting. (Ping timeout: 260 seconds)
+[2014-07-16 19:07:20] santiycr, joining. (#ios-driver)
