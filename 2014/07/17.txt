@@ -73,3 +73,4 @@
 [2014-07-17 20:34:39] operatiay, joining. (#ios-driver)
 [2014-07-17 20:39:22] operatiay, quitting. (Ping timeout: 250 seconds)
 [2014-07-17 21:45:46] admc, joining. (#ios-driver)
+[2014-07-17 23:56:35] Ragnaroek, joining. (#ios-driver)
