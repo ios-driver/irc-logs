@@ -17,3 +17,4 @@
 [2014-07-18 08:10:29] lukeis, joining. (#ios-driver)
 [2014-07-18 09:33:32] Ragnaroek, quitting. (Ping timeout: 245 seconds)
 [2014-07-18 09:37:14] rodrigomartin, joining. (#ios-driver)
+[2014-07-18 10:34:50] santiycr1, quitting. (Quit: Leaving.)
