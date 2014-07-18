@@ -25,3 +25,4 @@
 [2014-07-18 11:36:25] AutomatedTester, joining. (#ios-driver)
 [2014-07-18 11:48:32] operatiay, quitting. (Remote host closed the connection)
 [2014-07-18 11:50:58] santiycr, joining. (#ios-driver)
+[2014-07-18 11:54:45] ddary, joining. (#ios-driver)
