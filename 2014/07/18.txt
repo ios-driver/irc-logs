@@ -29,3 +29,5 @@
 [2014-07-18 12:11:57] ddary, quitting. (Quit: ddary)
 [2014-07-18 12:12:51] santiycr1, joining. (#ios-driver)
 [2014-07-18 12:12:51] santiycr, quitting. (Read error: Connection reset by peer)
+[2014-07-18 12:15:20] ddary, joining. (#ios-driver)
+[2014-07-18 12:16:15] ddary, quitting. (Client Quit)
