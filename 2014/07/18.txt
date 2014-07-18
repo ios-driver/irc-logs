@@ -35,3 +35,6 @@
 [2014-07-18 12:54:43] ddary, quitting. (Quit: ddary)
 [2014-07-18 12:55:19] lukeis, quitting. (*.net *.split)
 [2014-07-18 12:55:37] lukeis, joining. (#ios-driver)
+[2014-07-18 16:06:30] santiycr, joining. (#ios-driver)
+[2014-07-18 16:06:30] santiycr1, quitting. (Read error: Connection reset by peer)
+[2014-07-18 16:08:58] lukeis, quitting. (Quit: Leaving.)
