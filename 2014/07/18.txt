@@ -50,3 +50,4 @@
 [2014-07-18 21:57:03] operatiay, quitting. (Ping timeout: 240 seconds)
 [2014-07-18 23:41:27] ddary, joining. (#ios-driver)
 [2014-07-18 23:44:56] ddary, quitting. (Client Quit)
+[2014-07-18 23:53:52] lukeis, quitting. (Ping timeout: 260 seconds)
