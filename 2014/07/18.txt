@@ -41,3 +41,4 @@
 [2014-07-18 16:12:07] rodrigomartin, quitting. (Remote host closed the connection)
 [2014-07-18 17:07:32] santiycr, quitting. (Quit: Leaving.)
 [2014-07-18 17:15:34] santiycr, joining. (#ios-driver)
+[2014-07-18 17:51:21] operatiay, joining. (#ios-driver)
