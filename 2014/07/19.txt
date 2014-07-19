@@ -11,3 +11,4 @@
 [2014-07-19 09:03:34] rodrigomartin, joining. (#ios-driver)
 [2014-07-19 09:24:10] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-07-19 13:59:40] operatiay, joining. (#ios-driver)
+[2014-07-19 14:03:52] operatiay, quitting. (Ping timeout: 240 seconds)
