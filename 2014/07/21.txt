@@ -9,3 +9,5 @@
 [2014-07-21 06:34:11] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-07-21 07:18:24] operatiay, quitting. (Remote host closed the connection)
 [2014-07-21 08:29:13] lukeis, joining. (#ios-driver)
+[2014-07-21 09:17:05] rodrigomartin, joining. (#ios-driver)
+[2014-07-21 09:19:30] operatiay, joining. (#ios-driver)
