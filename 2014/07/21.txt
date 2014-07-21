@@ -16,3 +16,5 @@
 [2014-07-21 11:22:28] jlipps, leaving. (#ios-driver)
 [2014-07-21 12:00:13] lukeis, quitting. (Ping timeout: 240 seconds)
 [2014-07-21 12:35:31] nirvdrum, joining. (#ios-driver)
+[2014-07-21 14:22:18] lukeis, joining. (#ios-driver)
+[2014-07-21 14:24:02] lukeis1, joining. (#ios-driver)
