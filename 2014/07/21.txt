@@ -22,3 +22,4 @@
 [2014-07-21 15:21:55] lukeis1, changing nick to lukeis.
 [2014-07-21 15:42:08] nirvdrum, quitting. (Ping timeout: 255 seconds)
 [2014-07-21 16:05:47] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-07-21 16:59:45] lukeis, quitting. (Quit: Leaving.)
