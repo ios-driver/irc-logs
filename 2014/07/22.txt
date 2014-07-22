@@ -26,3 +26,5 @@
 [2014-07-22 15:55:47] operatiay, joining. (#ios-driver)
 [2014-07-22 15:57:33] lukeis, quitting. (Quit: Leaving.)
 [2014-07-22 16:00:34] operatiay, quitting. (Ping timeout: 264 seconds)
+[2014-07-22 16:36:43] jlipps, quitting. (Remote host closed the connection)
+[2014-07-22 16:39:35] jlipps, joining. (#ios-driver)
