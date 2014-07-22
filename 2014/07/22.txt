@@ -11,3 +11,4 @@
 [2014-07-22 06:17:19] ios-driver-git, leaving. (#ios-driver)
 [2014-07-22 06:22:10] nirvdrum, quitting. (Ping timeout: 264 seconds)
 [2014-07-22 06:53:29] nirvdrum, joining. (#ios-driver)
+[2014-07-22 08:29:06] lukeis, joining. (#ios-driver)
