@@ -15,3 +15,4 @@
 [2014-07-22 08:58:37] nirvdrum, quitting. (Quit: Leaving)
 [2014-07-22 08:58:48] nirvdrum, joining. (#ios-driver)
 [2014-07-22 09:53:25] operatiay, quitting. (Remote host closed the connection)
+[2014-07-22 10:11:04] jlipps, joining. (#ios-driver)
