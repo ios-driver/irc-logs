@@ -26,3 +26,4 @@
 [2014-07-21 17:22:54] operatiay, joining. (#ios-driver)
 [2014-07-21 17:27:16] operatiay, quitting. (Ping timeout: 250 seconds)
 [2014-07-21 20:46:52] ddary, joining. (#ios-driver)
+[2014-07-21 21:24:06] operatiay, joining. (#ios-driver)
