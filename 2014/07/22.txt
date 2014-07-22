@@ -9,3 +9,4 @@
 [2014-07-22 06:17:18] ios-driver-git, joining. (#ios-driver)
 [2014-07-22 06:17:19] ios-driver-git: [ios-driver] mmmulani closed pull request #274: Clients can set any coordinates for the simulated location. (dev...set_simulated_location) http://git.io/MLLdzQ
 [2014-07-22 06:17:19] ios-driver-git, leaving. (#ios-driver)
+[2014-07-22 06:22:10] nirvdrum, quitting. (Ping timeout: 264 seconds)
