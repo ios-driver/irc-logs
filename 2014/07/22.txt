@@ -2,3 +2,6 @@
 [2014-07-22 04:51:10] operatiay, quitting. (Remote host closed the connection)
 [2014-07-22 05:46:15] rodrigomartin, joining. (#ios-driver)
 [2014-07-22 05:51:49] nirvdrum, joining. (#ios-driver)
+[2014-07-22 06:03:13] ios-driver-git, joining. (#ios-driver)
+[2014-07-22 06:03:14] ios-driver-git: [ios-driver] iamleeg opened pull request #274: Clients can set any coordinates for the simulated location. (dev...set_simulated_location) http://git.io/MLLdzQ
+[2014-07-22 06:03:14] ios-driver-git, leaving. (#ios-driver)
