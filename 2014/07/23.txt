@@ -6,3 +6,4 @@
 [2014-07-23 05:56:27] nirvdrum, joining. (#ios-driver)
 [2014-07-23 06:23:44] rodrigomartin, joining. (#ios-driver)
 [2014-07-23 08:51:26] lukeis, joining. (#ios-driver)
+[2014-07-23 09:17:17] operatiay, quitting. (Remote host closed the connection)
