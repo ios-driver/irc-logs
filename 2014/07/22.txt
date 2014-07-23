@@ -30,3 +30,4 @@
 [2014-07-22 16:39:35] jlipps, joining. (#ios-driver)
 [2014-07-22 17:35:41] jlipps, quitting. (Quit: Leaving.)
 [2014-07-22 19:57:53] operatiay, joining. (#ios-driver)
+[2014-07-22 20:02:15] operatiay, quitting. (Ping timeout: 250 seconds)
