@@ -29,3 +29,4 @@
 [2014-07-22 16:36:43] jlipps, quitting. (Remote host closed the connection)
 [2014-07-22 16:39:35] jlipps, joining. (#ios-driver)
 [2014-07-22 17:35:41] jlipps, quitting. (Quit: Leaving.)
+[2014-07-22 19:57:53] operatiay, joining. (#ios-driver)
