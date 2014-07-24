@@ -29,3 +29,4 @@
 [2014-07-24 10:35:43] jlipps, joining. (#ios-driver)
 [2014-07-24 10:55:14] ScrewDiver, joining. (#ios-driver)
 [2014-07-24 10:55:15] lukeis, quitting. (Quit: Leaving.)
+[2014-07-24 11:14:20] jlipps, quitting. (Ping timeout: 240 seconds)
