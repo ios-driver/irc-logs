@@ -5,3 +5,4 @@
 [2014-07-24 03:40:06] operatiay, joining. (#ios-driver)
 [2014-07-24 04:04:29] operatiay, quitting. (Remote host closed the connection)
 [2014-07-24 04:05:01] operatiay, joining. (#ios-driver)
+[2014-07-24 04:27:52] operatiay, quitting. (Remote host closed the connection)
