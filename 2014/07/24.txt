@@ -11,3 +11,6 @@
 [2014-07-24 05:53:13] operatiay, joining. (#ios-driver)
 [2014-07-24 06:53:21] rodrigomartin, joining. (#ios-driver)
 [2014-07-24 07:39:45] operatiay, quitting. (Remote host closed the connection)
+[2014-07-24 08:05:13] ios-driver-git, joining. (#ios-driver)
+[2014-07-24 08:05:13] ios-driver-git, leaving. (#ios-driver)
+[2014-07-24 08:05:13] ios-driver-git: [ios-driver] iamleeg opened pull request #275: Use the four-inch mouseover area size with another four-inch variant. (dev...four_inch_mouseover_port) http://git.io/JJUZFg
