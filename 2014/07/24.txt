@@ -27,3 +27,5 @@
 [2014-07-24 10:31:50] mmmulani, quitting. (Remote host closed the connection)
 [2014-07-24 10:32:09] mmmulani, joining. (#ios-driver)
 [2014-07-24 10:35:43] jlipps, joining. (#ios-driver)
+[2014-07-24 10:55:14] ScrewDiver, joining. (#ios-driver)
+[2014-07-24 10:55:15] lukeis, quitting. (Quit: Leaving.)
