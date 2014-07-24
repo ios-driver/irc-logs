@@ -35,3 +35,4 @@
 [2014-07-24 11:54:26] operatiay, quitting. (Remote host closed the connection)
 [2014-07-24 12:17:32] jlipps, quitting. (Quit: Leaving.)
 [2014-07-24 12:26:56] lukeis, joining. (#ios-driver)
+[2014-07-24 12:38:42] santiycr, joining. (#ios-driver)
