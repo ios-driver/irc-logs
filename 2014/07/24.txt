@@ -46,3 +46,5 @@
 [2014-07-24 14:59:32] rodrigomartin, joining. (#ios-driver)
 [2014-07-24 15:00:39] jlipps, joining. (#ios-driver)
 [2014-07-24 15:05:10] ScrewDiver, quitting. (Quit: Leaving)
+[2014-07-24 15:16:26] rodrigomartin, quitting. (Read error: Connection timed out)
+[2014-07-24 15:17:15] rodrigomartin, joining. (#ios-driver)
