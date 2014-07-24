@@ -20,3 +20,5 @@
 [2014-07-24 08:10:26] ios-driver-git: ios-driver/dev e3ae9ff mmmulani: Merge pull request #275 from iamleeg/four_inch_mouseover_port...
 [2014-07-24 08:10:26] ios-driver-git, leaving. (#ios-driver)
 [2014-07-24 08:43:58] lukeis, joining. (#ios-driver)
+[2014-07-24 09:40:25] operatiay, joining. (#ios-driver)
+[2014-07-24 09:44:58] operatiay, quitting. (Ping timeout: 264 seconds)
