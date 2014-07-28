@@ -33,3 +33,6 @@
 [2014-07-28 13:00:19] nirvdrum__, joining. (#ios-driver)
 [2014-07-28 13:02:59] nirvdrum_, quitting. (Ping timeout: 264 seconds)
 [2014-07-28 13:03:38] admc, joining. (#ios-driver)
+[2014-07-28 13:06:31] nirvdrum_, joining. (#ios-driver)
+[2014-07-28 13:07:56] santiycr, quitting. (Quit: Leaving.)
+[2014-07-28 13:09:33] nirvdrum__, quitting. (Ping timeout: 256 seconds)
