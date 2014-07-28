@@ -28,3 +28,4 @@
 [2014-07-28 12:19:39] ddary, leaving. (#ios-driver)
 [2014-07-28 12:21:39] operatiay, joining. (#ios-driver)
 [2014-07-28 12:23:43] admc, joining. (#ios-driver)
+[2014-07-28 12:26:24] operatiay, quitting. (Ping timeout: 260 seconds)
