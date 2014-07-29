@@ -68,3 +68,5 @@
 [2014-07-29 13:24:36] rodrigomartin, quitting. (Read error: Connection timed out)
 [2014-07-29 13:26:03] rodrigomartin, joining. (#ios-driver)
 [2014-07-29 13:39:16] santiycr, joining. (#ios-driver)
+[2014-07-29 13:43:15] rodrigomartin, quitting. (Read error: Connection timed out)
+[2014-07-29 13:44:56] rodrigomartin, joining. (#ios-driver)
