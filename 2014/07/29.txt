@@ -62,3 +62,6 @@
 [2014-07-29 13:00:36] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-07-29 13:01:01] admc, joining. (#ios-driver)
 [2014-07-29 13:08:36] rodrigomartin, joining. (#ios-driver)
+[2014-07-29 13:11:35] lukeis, quitting. (Quit: Leaving.)
+[2014-07-29 13:11:53] lukeis, joining. (#ios-driver)
+[2014-07-29 13:13:11] santiycr, quitting. (Quit: Leaving.)
