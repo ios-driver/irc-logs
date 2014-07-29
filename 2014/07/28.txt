@@ -63,3 +63,6 @@
 [2014-07-28 18:38:35] nirvdrum_, joining. (#ios-driver)
 [2014-07-28 20:25:25] operatiay, joining. (#ios-driver)
 [2014-07-28 20:29:51] operatiay, quitting. (Ping timeout: 256 seconds)
+[2014-07-28 21:03:13] lukeis, joining. (#ios-driver)
+[2014-07-28 21:03:18] lukeis, quitting. (Client Quit)
+[2014-07-28 21:04:41] admc, joining. (#ios-driver)
