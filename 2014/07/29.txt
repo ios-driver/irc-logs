@@ -59,3 +59,5 @@
 [2014-07-29 12:26:36] admc, joining. (#ios-driver)
 [2014-07-29 12:29:50] ddary, quitting. (Client Quit)
 [2014-07-29 12:47:08] admc, quitting. (Quit: Leaving.)
+[2014-07-29 13:00:36] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-07-29 13:01:01] admc, joining. (#ios-driver)
