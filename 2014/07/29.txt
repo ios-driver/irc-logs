@@ -70,3 +70,4 @@
 [2014-07-29 13:39:16] santiycr, joining. (#ios-driver)
 [2014-07-29 13:43:15] rodrigomartin, quitting. (Read error: Connection timed out)
 [2014-07-29 13:44:56] rodrigomartin, joining. (#ios-driver)
+[2014-07-29 13:49:22] rodrigomartin, quitting. (Ping timeout: 250 seconds)
