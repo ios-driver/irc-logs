@@ -44,3 +44,6 @@
 [2014-07-29 10:50:10] lukeis1, changing nick to lukeis.
 [2014-07-29 11:17:28] nirvdrum, quitting. (Ping timeout: 260 seconds)
 [2014-07-29 11:29:51] nirvdrum, joining. (#ios-driver)
+[2014-07-29 11:35:24] ddary, joining. (#ios-driver)
+[2014-07-29 11:36:07] santiycr, quitting. (Quit: Leaving.)
+[2014-07-29 11:36:36] santiycr, joining. (#ios-driver)
