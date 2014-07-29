@@ -66,3 +66,4 @@
 [2014-07-29 13:11:53] lukeis, joining. (#ios-driver)
 [2014-07-29 13:13:11] santiycr, quitting. (Quit: Leaving.)
 [2014-07-29 13:24:36] rodrigomartin, quitting. (Read error: Connection timed out)
+[2014-07-29 13:26:03] rodrigomartin, joining. (#ios-driver)
