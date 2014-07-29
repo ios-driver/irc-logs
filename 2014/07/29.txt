@@ -4,3 +4,4 @@
 [2014-07-29 01:42:06] santiycr, quitting. (Quit: Leaving.)
 [2014-07-29 01:48:32] operatiay, quitting. (Remote host closed the connection)
 [2014-07-29 01:49:07] operatiay, joining. (#ios-driver)
+[2014-07-29 01:53:30] operatiay, quitting. (Ping timeout: 260 seconds)
