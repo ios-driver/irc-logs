@@ -52,3 +52,4 @@
 [2014-07-28 17:00:46] admc, quitting. (Quit: Leaving.)
 [2014-07-28 17:02:00] nirvdrum_, quitting. (Ping timeout: 240 seconds)
 [2014-07-28 17:12:06] smccarthy, quitting. (Quit: Leaving...)
+[2014-07-28 17:29:14] jlipps, quitting. (Quit: Leaving.)
