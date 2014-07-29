@@ -42,3 +42,4 @@
 [2014-07-29 10:47:51] jlipps, quitting. (Read error: Connection reset by peer)
 [2014-07-29 10:48:04] jlipps, joining. (#ios-driver)
 [2014-07-29 10:50:10] lukeis1, changing nick to lukeis.
+[2014-07-29 11:17:28] nirvdrum, quitting. (Ping timeout: 260 seconds)
