@@ -25,3 +25,4 @@
 [2014-07-30 08:08:28] nirvdrum, quitting. (Quit: Leaving)
 [2014-07-30 08:10:43] operatiay, quitting. (Ping timeout: 256 seconds)
 [2014-07-30 08:14:28] operatiay, joining. (#ios-driver)
+[2014-07-30 08:43:01] psp250, joining. (#ios-driver)
