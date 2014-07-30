@@ -20,3 +20,6 @@
 [2014-07-30 07:33:08] smccarthy, quitting. (Ping timeout: 240 seconds)
 [2014-07-30 07:35:15] operatiay, joining. (#ios-driver)
 [2014-07-30 07:46:15] smccarthy2, quitting. (Quit: Leaving...)
+[2014-07-30 08:05:21] operatiay, quitting. (Remote host closed the connection)
+[2014-07-30 08:05:53] operatiay, joining. (#ios-driver)
+[2014-07-30 08:08:28] nirvdrum, quitting. (Quit: Leaving)
