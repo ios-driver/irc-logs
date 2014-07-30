@@ -34,3 +34,5 @@
 [2014-07-30 09:00:31] admc, quitting. (Client Quit)
 [2014-07-30 09:06:10] jlipps, quitting. (Quit: Leaving.)
 [2014-07-30 09:07:17] jlipps, joining. (#ios-driver)
+[2014-07-30 10:21:43] psp250, quitting. (Ping timeout: 272 seconds)
+[2014-07-30 10:23:03] santiycr, joining. (#ios-driver)
