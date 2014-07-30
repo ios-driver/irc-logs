@@ -18,3 +18,4 @@
 [2014-07-30 07:17:03] operatiay, quitting. (Remote host closed the connection)
 [2014-07-30 07:30:06] smccarthy2, joining. (#ios-driver)
 [2014-07-30 07:33:08] smccarthy, quitting. (Ping timeout: 240 seconds)
+[2014-07-30 07:35:15] operatiay, joining. (#ios-driver)
