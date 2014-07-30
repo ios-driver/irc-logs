@@ -28,3 +28,5 @@
 [2014-07-30 08:43:01] psp250, joining. (#ios-driver)
 [2014-07-30 08:45:46] operatiay, quitting. (Remote host closed the connection)
 [2014-07-30 08:46:19] operatiay, joining. (#ios-driver)
+[2014-07-30 08:50:46] operatiay, quitting. (Ping timeout: 250 seconds)
+[2014-07-30 08:54:53] jlipps, joining. (#ios-driver)
