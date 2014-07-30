@@ -30,3 +30,5 @@
 [2014-07-30 08:46:19] operatiay, joining. (#ios-driver)
 [2014-07-30 08:50:46] operatiay, quitting. (Ping timeout: 250 seconds)
 [2014-07-30 08:54:53] jlipps, joining. (#ios-driver)
+[2014-07-30 09:00:16] admc, joining. (#ios-driver)
+[2014-07-30 09:00:31] admc, quitting. (Client Quit)
