@@ -32,3 +32,5 @@
 [2014-07-30 08:54:53] jlipps, joining. (#ios-driver)
 [2014-07-30 09:00:16] admc, joining. (#ios-driver)
 [2014-07-30 09:00:31] admc, quitting. (Client Quit)
+[2014-07-30 09:06:10] jlipps, quitting. (Quit: Leaving.)
+[2014-07-30 09:07:17] jlipps, joining. (#ios-driver)
