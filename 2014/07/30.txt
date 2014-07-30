@@ -50,3 +50,4 @@
 [2014-07-30 11:59:54] operatiay, quitting. (Remote host closed the connection)
 [2014-07-30 12:19:46] santiycr, joining. (#ios-driver)
 [2014-07-30 12:26:45] ddary, joining. (#ios-driver)
+[2014-07-30 12:33:01] ddary, quitting. (Quit: ddary)
