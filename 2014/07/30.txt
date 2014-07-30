@@ -53,3 +53,4 @@
 [2014-07-30 12:33:01] ddary, quitting. (Quit: ddary)
 [2014-07-30 13:00:50] santiycr, quitting. (Quit: Leaving.)
 [2014-07-30 13:02:46] ddary, joining. (#ios-driver)
+[2014-07-30 13:17:56] ddary, quitting. (Quit: ddary)
