@@ -37,3 +37,5 @@
 [2014-07-30 10:21:43] psp250, quitting. (Ping timeout: 272 seconds)
 [2014-07-30 10:23:03] santiycr, joining. (#ios-driver)
 [2014-07-30 10:49:08] admc, joining. (#ios-driver)
+[2014-07-30 10:50:50] admc, quitting. (Client Quit)
+[2014-07-30 10:52:04] admc, joining. (#ios-driver)
