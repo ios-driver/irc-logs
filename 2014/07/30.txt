@@ -59,3 +59,4 @@
 [2014-07-30 13:37:24] santiycr, joining. (#ios-driver)
 [2014-07-30 13:55:00] admc, quitting. (Quit: Leaving.)
 [2014-07-30 13:56:54] admc, joining. (#ios-driver)
+[2014-07-30 14:17:49] rodrigomartin, quitting. (Remote host closed the connection)
