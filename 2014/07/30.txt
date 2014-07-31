@@ -68,3 +68,5 @@
 [2014-07-30 16:33:35] ios-driver-git: [ios-driver] abhijit1234 opened pull request #277: Enabling to start a session with reusing existing settings and contents folder. (dev...dev) http://git.io/mbiCrA
 [2014-07-30 16:33:35] ios-driver-git, leaving. (#ios-driver)
 [2014-07-30 16:52:45] santiycr, quitting. (Quit: Leaving.)
+[2014-07-30 16:55:58] jlipps, joining. (#ios-driver)
+[2014-07-30 16:56:03] jlipps, quitting. (Client Quit)
