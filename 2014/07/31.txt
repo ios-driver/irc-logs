@@ -12,3 +12,13 @@
 [2014-07-31 02:37:32] freynaud____: i finally managed to launch safari properly on real device, it took me ages
 [2014-07-31 02:43:59] operatiay: I've managed to run our previous app version on the 6. now the newer version requires 7. I've got a device with version 7.1.2. unfortunately it's not being recognised as one sufficient for test execution
 [2014-07-31 02:44:49] operatiay: it's not the xcode version, I'm speaking about ios version on the device
+[2014-07-31 02:45:16] operatiay: could it be a reason for it not to work?
+[2014-07-31 02:45:34] freynaud____: 7.1.2 on the device, what xcode do you have ?
+[2014-07-31 02:46:25] operatiay: 5.1.1
+[2014-07-31 02:47:51] freynaud____: i'll look for a phone with the version to reproduce
+[2014-07-31 02:48:05] operatiay: now I've noticed that the previous version was successfully tested on 5.1.1 (so I have no idea whether it would work with 6.x)
+[2014-07-31 02:48:20] operatiay: that would be great, thank you
+[2014-07-31 02:48:26] freynaud____: real device is more picky I think
+[2014-07-31 02:48:41] freynaud____: xcode isn't super backward compatible
+[2014-07-31 02:49:17] operatiay: might be... I've already tried to play with some additional capabilities... cap.setCapability(IOSCapabilities.UI_SDK_VERSION, "7.1.2");
+[2014-07-31 02:49:33] operatiay: got an error saying org.openqa.selenium.SessionNotCreatedException: Cannot start on version 7.1.2.Installed: [7.1]
