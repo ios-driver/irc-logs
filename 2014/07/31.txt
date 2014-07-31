@@ -40,3 +40,5 @@
 [2014-07-31 06:25:00] operatiay: )
 [2014-07-31 06:37:46] freynaud____: device not for dev should throw an error now
 [2014-07-31 06:45:21] operatiay: that's good. but my device is for dev now... and it's still not working
+[2014-07-31 07:02:03] operatiay, quitting. (Remote host closed the connection)
+[2014-07-31 07:02:37] operatiay, joining. (#ios-driver)
