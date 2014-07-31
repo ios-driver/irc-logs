@@ -42,3 +42,4 @@
 [2014-07-31 06:45:21] operatiay: that's good. but my device is for dev now... and it's still not working
 [2014-07-31 07:02:03] operatiay, quitting. (Remote host closed the connection)
 [2014-07-31 07:02:37] operatiay, joining. (#ios-driver)
+[2014-07-31 07:06:53] operatiay, quitting. (Ping timeout: 255 seconds)
