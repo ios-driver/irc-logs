@@ -38,3 +38,4 @@
 [2014-07-31 06:17:19] rodrigomartin, joining. (#ios-driver)
 [2014-07-31 06:24:56] operatiay: I've tried several things (I'm now able to do UIAutomation but ios-driver still fails to realise that the device is suitable
 [2014-07-31 06:25:00] operatiay: )
+[2014-07-31 06:37:46] freynaud____: device not for dev should throw an error now
