@@ -36,3 +36,5 @@
 [2014-07-31 02:56:45] operatiay: :) but the bug should be better fixed as well
 [2014-07-31 02:58:57] admc, quitting. (Quit: Leaving.)
 [2014-07-31 06:17:19] rodrigomartin, joining. (#ios-driver)
+[2014-07-31 06:24:56] operatiay: I've tried several things (I'm now able to do UIAutomation but ios-driver still fails to realise that the device is suitable
+[2014-07-31 06:25:00] operatiay: )
