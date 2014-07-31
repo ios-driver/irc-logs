@@ -70,3 +70,4 @@
 [2014-07-31 14:54:14] rodrigomartin, joining. (#ios-driver)
 [2014-07-31 14:57:14] rodrigomartin, quitting. (Client Quit)
 [2014-07-31 15:05:42] jlipps, quitting. (Quit: Leaving.)
+[2014-07-31 15:20:39] santiycr, quitting. (Quit: Leaving.)
