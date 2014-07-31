@@ -61,3 +61,4 @@
 [2014-07-31 12:44:47] santiycr, quitting. (Quit: Leaving.)
 [2014-07-31 12:47:33] admc, quitting. (Read error: Connection reset by peer)
 [2014-07-31 12:47:52] admc, joining. (#ios-driver)
+[2014-07-31 13:06:33] Ragnaroek, quitting. (Ping timeout: 240 seconds)
