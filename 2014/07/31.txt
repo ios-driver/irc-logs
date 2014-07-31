@@ -1,2 +1,8 @@
 [2014-07-31 00:41:30] operatiay, joining. (#ios-driver)
 [2014-07-31 02:26:27] operatiay: Hi, I'm having troubles with starting a test on IOS 7.1.2. not sure whether it's app related or os related. so wanted to ask whether anyone has ever executed tests on 7.1.2?
+[2014-07-31 02:33:45] ios-driver-git, joining. (#ios-driver)
+[2014-07-31 02:33:46] ios-driver-git: [ios-driver] freynaud created newSDK (+9 new commits): http://git.io/xN6feQ
+[2014-07-31 02:33:46] ios-driver-git: ios-driver/newSDK d69920d freynaud: updating to selenium 2.42.2
+[2014-07-31 02:33:46] ios-driver-git: ios-driver/newSDK d830950 freynaud: cleaning up dependencies
+[2014-07-31 02:33:46] ios-driver-git, leaving. (#ios-driver)
+[2014-07-31 02:33:46] ios-driver-git: ios-driver/newSDK 0671618 freynaud: refactoring for the new LMD SDK changes
