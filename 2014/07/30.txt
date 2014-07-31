@@ -70,3 +70,4 @@
 [2014-07-30 16:52:45] santiycr, quitting. (Quit: Leaving.)
 [2014-07-30 16:55:58] jlipps, joining. (#ios-driver)
 [2014-07-30 16:56:03] jlipps, quitting. (Client Quit)
+[2014-07-30 17:04:40] admc, joining. (#ios-driver)
