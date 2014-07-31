@@ -10,3 +10,5 @@
 [2014-07-31 02:36:49] freynaud____: 10.8 xcode 5.1 atm
 [2014-07-31 02:37:09] freynaud____: and upgrading to xcode 6 when i've double checked everything
 [2014-07-31 02:37:32] freynaud____: i finally managed to launch safari properly on real device, it took me ages
+[2014-07-31 02:43:59] operatiay: I've managed to run our previous app version on the 6. now the newer version requires 7. I've got a device with version 7.1.2. unfortunately it's not being recognised as one sufficient for test execution
+[2014-07-31 02:44:49] operatiay: it's not the xcode version, I'm speaking about ios version on the device
