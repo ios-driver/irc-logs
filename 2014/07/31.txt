@@ -31,3 +31,7 @@
 [2014-07-31 02:54:46] freynaud____: seems to be a "regular"
 [2014-07-31 02:54:48] freynaud____: bug
 [2014-07-31 02:54:53] freynaud____: not config
+[2014-07-31 02:55:22] freynaud____: i think we're looking for the installed simulator SDK, even when requesting real device
+[2014-07-31 02:56:19] operatiay: oh, ok. I've found a probable reason for this as well (the device is not set up for development)
+[2014-07-31 02:56:45] operatiay: :) but the bug should be better fixed as well
+[2014-07-31 02:58:57] admc, quitting. (Quit: Leaving.)
