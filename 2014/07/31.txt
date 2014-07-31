@@ -22,3 +22,12 @@
 [2014-07-31 02:48:41] freynaud____: xcode isn't super backward compatible
 [2014-07-31 02:49:17] operatiay: might be... I've already tried to play with some additional capabilities... cap.setCapability(IOSCapabilities.UI_SDK_VERSION, "7.1.2");
 [2014-07-31 02:49:33] operatiay: got an error saying org.openqa.selenium.SessionNotCreatedException: Cannot start on version 7.1.2.Installed: [7.1]
+[2014-07-31 02:53:00] freynaud____: can you start instruments ?
+[2014-07-31 02:53:03] freynaud____: the normal one
+[2014-07-31 02:53:20] freynaud____: when you're in xcode, command + I I think
+[2014-07-31 02:53:38] freynaud____: and start UIAutomation on the phone causing issues
+[2014-07-31 02:54:09] operatiay: ok, I'll try
+[2014-07-31 02:54:35] freynaud____: hold on
+[2014-07-31 02:54:46] freynaud____: seems to be a "regular"
+[2014-07-31 02:54:48] freynaud____: bug
+[2014-07-31 02:54:53] freynaud____: not config
