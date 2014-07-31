@@ -6,3 +6,7 @@
 [2014-07-31 02:33:46] ios-driver-git: ios-driver/newSDK d830950 freynaud: cleaning up dependencies
 [2014-07-31 02:33:46] ios-driver-git, leaving. (#ios-driver)
 [2014-07-31 02:33:46] ios-driver-git: ios-driver/newSDK 0671618 freynaud: refactoring for the new LMD SDK changes
+[2014-07-31 02:36:21] operatiay: :freynaud____ which os version are you testing on?
+[2014-07-31 02:36:49] freynaud____: 10.8 xcode 5.1 atm
+[2014-07-31 02:37:09] freynaud____: and upgrading to xcode 6 when i've double checked everything
+[2014-07-31 02:37:32] freynaud____: i finally managed to launch safari properly on real device, it took me ages
