@@ -1,1 +1,2 @@
 [2014-07-31 00:41:30] operatiay, joining. (#ios-driver)
+[2014-07-31 02:26:27] operatiay: Hi, I'm having troubles with starting a test on IOS 7.1.2. not sure whether it's app related or os related. so wanted to ask whether anyone has ever executed tests on 7.1.2?
