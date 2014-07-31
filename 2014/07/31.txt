@@ -53,3 +53,4 @@
 [2014-07-31 10:24:57] santiycr, quitting. (Quit: Leaving.)
 [2014-07-31 11:12:37] Ragnaroek, joining. (#ios-driver)
 [2014-07-31 11:18:30] jlipps, joining. (#ios-driver)
+[2014-07-31 11:29:38] admc, joining. (#ios-driver)
