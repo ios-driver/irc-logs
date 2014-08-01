@@ -27,3 +27,4 @@
 [2014-08-01 09:22:47] ios-driver-git: ios-driver/dev 7e13c6a abhijit1234: Merge pull request #277 from abhijit1234/dev...
 [2014-08-01 09:22:47] ios-driver-git: ios-driver/dev 35108d4 Abhijit Sarkar: Enabling to start a session with reusing existing settings and contents folder.
 [2014-08-01 09:22:47] ios-driver-git, leaving. (#ios-driver)
+[2014-08-01 09:31:39] admc, joining. (#ios-driver)
