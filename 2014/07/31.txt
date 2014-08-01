@@ -78,3 +78,5 @@
 [2014-07-31 17:48:47] santiycr, joining. (#ios-driver)
 [2014-07-31 17:51:22] santiycr, quitting. (Client Quit)
 [2014-07-31 18:28:01] smccarthy, joining. (#ios-driver)
+[2014-07-31 19:55:47] lukeis, joining. (#ios-driver)
+[2014-07-31 19:56:30] lukeis1, joining. (#ios-driver)
