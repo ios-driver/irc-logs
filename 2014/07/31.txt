@@ -88,3 +88,4 @@
 [2014-07-31 21:36:33] operatiay, quitting. (Ping timeout: 240 seconds)
 [2014-07-31 22:19:55] smccarthy, quitting. (Quit: Leaving...)
 [2014-07-31 23:30:54] lukeis, quitting. (Quit: Leaving.)
+[2014-07-31 23:53:33] Ragnaroek, joining. (#ios-driver)
