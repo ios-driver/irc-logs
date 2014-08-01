@@ -81,3 +81,4 @@
 [2014-07-31 19:55:47] lukeis, joining. (#ios-driver)
 [2014-07-31 19:56:30] lukeis1, joining. (#ios-driver)
 [2014-07-31 20:00:03] lukeis, quitting. (Ping timeout: 240 seconds)
+[2014-07-31 20:30:43] lukeis1, quitting. (Ping timeout: 255 seconds)
