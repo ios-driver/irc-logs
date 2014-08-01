@@ -40,3 +40,5 @@
 [2014-08-01 12:16:14] admc, joining. (#ios-driver)
 [2014-08-01 12:20:57] santiycr, quitting. (Quit: Leaving.)
 [2014-08-01 12:39:36] admc, quitting. (Ping timeout: 244 seconds)
+[2014-08-01 12:46:46] ddary, joining. (#ios-driver)
+[2014-08-01 12:48:53] ddary, leaving. (#ios-driver)
