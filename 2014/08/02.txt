@@ -6,3 +6,4 @@
 [2014-08-02 15:26:46] admc, quitting. (Quit: Leaving.)
 [2014-08-02 15:39:44] nirvdrum, quitting. (Ping timeout: 250 seconds)
 [2014-08-02 15:49:07] ios-driverbot__, quitting. (Ping timeout: 272 seconds)
+[2014-08-02 15:54:45] ios-driverbot__, joining. (#ios-driver)
