@@ -10,3 +10,4 @@
 [2014-08-02 15:59:03] ios-driverbot__, quitting. (Ping timeout: 256 seconds)
 [2014-08-02 16:04:44] ios-driverbot__, joining. (#ios-driver)
 [2014-08-02 19:21:48] admc, joining. (#ios-driver)
+[2014-08-02 20:28:52] nirvdrum, quitting. (Ping timeout: 240 seconds)
