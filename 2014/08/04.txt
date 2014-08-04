@@ -8,3 +8,4 @@
 [2014-08-04 01:35:08] freynaud____: for real device, you need a provisioning profile
 [2014-08-04 01:35:48] freynaud____: if you're starting, you should use the simulator first; It's more flexible, and the main difference is performance, which you can't really test with automation anyway
 [2014-08-04 01:45:26] sam905: ok thnx freynaud
+[2014-08-04 02:11:08] operatiay: @freunaud_____ Hi Francois, did you manage to grab a device with ios 7.1.2? I'm pretty much stuck here without an option to check it (haven't got any other devices I could use to verify that it's a device specific issue or a configuration issue)
