@@ -10,3 +10,9 @@
 [2014-08-03 21:27:36] admc, joining. (#ios-driver)
 [2014-08-03 21:36:38] admc, quitting. (Quit: Leaving.)
 [2014-08-03 22:32:55] smccarthy2, quitting. (Quit: Leaving...)
+[2014-08-03 23:10:12] sam905, joining. (#ios-driver)
+[2014-08-03 23:10:27] sam905: hi
+[2014-08-03 23:10:30] sam905: guys
+[2014-08-03 23:10:44] sam905: need small help
+[2014-08-03 23:11:02] sam905: about automating the application on device using IOS driver
+[2014-08-03 23:11:08] sam905: anybody der
