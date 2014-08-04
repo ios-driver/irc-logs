@@ -9,3 +9,4 @@
 [2014-08-03 20:28:26] admc, quitting. (Quit: Leaving.)
 [2014-08-03 21:27:36] admc, joining. (#ios-driver)
 [2014-08-03 21:36:38] admc, quitting. (Quit: Leaving.)
+[2014-08-03 22:32:55] smccarthy2, quitting. (Quit: Leaving...)
