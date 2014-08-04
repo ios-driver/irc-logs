@@ -27,3 +27,4 @@
 [2014-08-04 05:51:14] ios-driver-git: ios-driver/dev 425d1ae freynaud: updating to selenium 2.42.2
 [2014-08-04 05:51:14] ios-driver-git, leaving. (#ios-driver)
 [2014-08-04 06:06:51] rodrigomartin, joining. (#ios-driver)
+[2014-08-04 08:20:02] smccarthy, joining. (#ios-driver)
