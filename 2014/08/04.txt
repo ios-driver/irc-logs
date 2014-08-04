@@ -2,3 +2,4 @@
 [2014-08-04 01:01:13] operatiay: sam, what's your problem?
 [2014-08-04 01:02:39] admc, quitting. (Quit: Leaving.)
 [2014-08-04 01:23:11] freynaud____: @sam905 ask you question
+[2014-08-04 01:30:00] sam905: Do we require provisioning profile...to run test on real devices
