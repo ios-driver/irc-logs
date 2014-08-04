@@ -9,3 +9,10 @@
 [2014-08-04 01:35:48] freynaud____: if you're starting, you should use the simulator first; It's more flexible, and the main difference is performance, which you can't really test with automation anyway
 [2014-08-04 01:45:26] sam905: ok thnx freynaud
 [2014-08-04 02:11:08] operatiay: @freunaud_____ Hi Francois, did you manage to grab a device with ios 7.1.2? I'm pretty much stuck here without an option to check it (haven't got any other devices I could use to verify that it's a device specific issue or a configuration issue)
+[2014-08-04 02:31:16] freynaud____: @operatiay yes, I did
+[2014-08-04 02:31:19] freynaud____: and it worked
+[2014-08-04 02:31:31] freynaud____: can you give me the capability map you're using ?
+[2014-08-04 02:31:40] operatiay: sure.
+[2014-08-04 02:31:41] freynaud____: i think that's where it's different from what I use
+[2014-08-04 02:33:15] operatiay: https://gist.github.com/operatiay/e77d7684505eb200ea1d
+[2014-08-04 02:34:21] operatiay: is this sufficient? (as you see I've been playing with different options but without any difference)
