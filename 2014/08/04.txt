@@ -3,3 +3,5 @@
 [2014-08-04 01:02:39] admc, quitting. (Quit: Leaving.)
 [2014-08-04 01:23:11] freynaud____: @sam905 ask you question
 [2014-08-04 01:30:00] sam905: Do we require provisioning profile...to run test on real devices
+[2014-08-04 01:30:22] sam905: setup page for real device is unavailable
+[2014-08-04 01:30:41] sam905: can you please suggest me ...alternat link
