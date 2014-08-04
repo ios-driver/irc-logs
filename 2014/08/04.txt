@@ -16,3 +16,6 @@
 [2014-08-04 02:31:41] freynaud____: i think that's where it's different from what I use
 [2014-08-04 02:33:15] operatiay: https://gist.github.com/operatiay/e77d7684505eb200ea1d
 [2014-08-04 02:34:21] operatiay: is this sufficient? (as you see I've been playing with different options but without any difference)
+[2014-08-04 02:35:38] operatiay: thanks a lot for your effort in trying it out!
+[2014-08-04 02:38:46] freynaud____: https://gist.github.com/freynaud/e2806a88178bfdfa8091
+[2014-08-04 02:38:50] freynaud____: this is what I use
