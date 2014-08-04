@@ -5,3 +5,5 @@
 [2014-08-04 01:30:00] sam905: Do we require provisioning profile...to run test on real devices
 [2014-08-04 01:30:22] sam905: setup page for real device is unavailable
 [2014-08-04 01:30:41] sam905: can you please suggest me ...alternat link
+[2014-08-04 01:35:08] freynaud____: for real device, you need a provisioning profile
+[2014-08-04 01:35:48] freynaud____: if you're starting, you should use the simulator first; It's more flexible, and the main difference is performance, which you can't really test with automation anyway
