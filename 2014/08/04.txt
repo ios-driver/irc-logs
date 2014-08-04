@@ -20,3 +20,9 @@
 [2014-08-04 02:38:46] freynaud____: https://gist.github.com/freynaud/e2806a88178bfdfa8091
 [2014-08-04 02:38:50] freynaud____: this is what I use
 [2014-08-04 04:59:03] sam905, leaving. (#ios-driver)
+[2014-08-04 05:51:14] ios-driver-git, joining. (#ios-driver)
+[2014-08-04 05:51:14] ios-driver-git: [ios-driver] freynaud pushed 11 new commits to dev: http://git.io/omBLsw
+[2014-08-04 05:51:14] ios-driver-git: ios-driver/dev a090aae freynaud: refactoring for the new LMD SDK changes
+[2014-08-04 05:51:14] ios-driver-git: ios-driver/dev 08f796a freynaud: cleaning up dependencies
+[2014-08-04 05:51:14] ios-driver-git: ios-driver/dev 425d1ae freynaud: updating to selenium 2.42.2
+[2014-08-04 05:51:14] ios-driver-git, leaving. (#ios-driver)
