@@ -43,3 +43,4 @@
 [2014-08-04 12:48:34] rodrigomartin, joining. (#ios-driver)
 [2014-08-04 12:50:48] admc, joining. (#ios-driver)
 [2014-08-04 12:52:05] admc, quitting. (Client Quit)
+[2014-08-04 13:03:26] admc, joining. (#ios-driver)
