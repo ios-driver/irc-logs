@@ -35,3 +35,6 @@
 [2014-08-05 11:25:55] admc, joining. (#ios-driver)
 [2014-08-05 11:29:31] ddary, joining. (#ios-driver)
 [2014-08-05 11:46:57] ddary, quitting. (Quit: ddary)
+[2014-08-05 11:52:02] mmmulani, quitting. (Remote host closed the connection)
+[2014-08-05 11:52:20] mmmulani, joining. (#ios-driver)
+[2014-08-05 11:54:33] mmmulani, quitting. (Remote host closed the connection)
