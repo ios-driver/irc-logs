@@ -34,3 +34,4 @@
 [2014-08-05 11:06:02] mmmulani, joining. (#ios-driver)
 [2014-08-05 11:25:55] admc, joining. (#ios-driver)
 [2014-08-05 11:29:31] ddary, joining. (#ios-driver)
+[2014-08-05 11:46:57] ddary, quitting. (Quit: ddary)
