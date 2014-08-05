@@ -66,3 +66,4 @@
 [2014-08-04 18:32:57] jlipps, quitting. (Quit: Leaving.)
 [2014-08-04 19:46:01] lukeis, joining. (#ios-driver)
 [2014-08-04 19:47:42] lukeis1, joining. (#ios-driver)
+[2014-08-04 19:50:37] lukeis, quitting. (Ping timeout: 256 seconds)
