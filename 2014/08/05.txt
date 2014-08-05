@@ -8,3 +8,5 @@
 [2014-08-05 06:10:20] dmarr, quitting. (Ping timeout: 240 seconds)
 [2014-08-05 06:13:57] rodrigomartin, joining. (#ios-driver)
 [2014-08-05 06:15:44] dmarr, joining. (#ios-driver)
+[2014-08-05 06:25:08] dmarr, quitting. (Ping timeout: 240 seconds)
+[2014-08-05 06:26:11] dmarr, joining. (#ios-driver)
