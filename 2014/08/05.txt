@@ -23,3 +23,4 @@
 [2014-08-05 08:01:16] ios-driver-git: ios-driver/dev 9d614cb freynaud: removing the need for safari to be installed in the simulator when running on real device
 [2014-08-05 08:27:44] lukeis, joining. (#ios-driver)
 [2014-08-05 09:05:08] jlipps, joining. (#ios-driver)
+[2014-08-05 09:59:47] jlipps, quitting. (Quit: Leaving.)
