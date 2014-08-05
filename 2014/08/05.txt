@@ -5,3 +5,5 @@
 [2014-08-05 02:01:46] ios-driver-git: ios-driver/dev 6f34092 freynaud: removing hardcoded SDKs from the server status
 [2014-08-05 02:01:46] ios-driver-git, leaving. (#ios-driver)
 [2014-08-05 03:07:16] admc, quitting. (Quit: Leaving.)
+[2014-08-05 06:10:20] dmarr, quitting. (Ping timeout: 240 seconds)
+[2014-08-05 06:13:57] rodrigomartin, joining. (#ios-driver)
