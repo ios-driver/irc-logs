@@ -12,3 +12,8 @@
 [2014-08-05 06:26:11] dmarr, joining. (#ios-driver)
 [2014-08-05 07:02:20] dmarr, quitting. (Ping timeout: 240 seconds)
 [2014-08-05 07:12:46] dmarr, joining. (#ios-driver)
+[2014-08-05 07:51:47] ios-driver-git, joining. (#ios-driver)
+[2014-08-05 07:51:47] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/IKMFfg
+[2014-08-05 07:51:47] ios-driver-git: ios-driver/dev 6ecf4f4 freynaud: various bug fixes for safari real devices
+[2014-08-05 07:51:47] ios-driver-git, leaving. (#ios-driver)
+[2014-08-05 07:54:58] smccarthy, joining. (#ios-driver)
