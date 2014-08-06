@@ -61,3 +61,4 @@
 [2014-08-05 16:37:09] jlipps, quitting. (Read error: Connection reset by peer)
 [2014-08-05 16:56:08] psp250, quitting. (Remote host closed the connection)
 [2014-08-05 17:11:34] admc, quitting. (Quit: Leaving.)
+[2014-08-05 18:46:53] smccarthy, joining. (#ios-driver)
