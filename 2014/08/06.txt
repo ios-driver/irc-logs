@@ -33,3 +33,4 @@
 [2014-08-06 16:37:06] smccarthy, quitting. (Quit: Leaving...)
 [2014-08-06 17:36:16] jlipps, quitting. (Quit: Leaving.)
 [2014-08-06 17:36:56] admc, quitting. (Quit: Leaving.)
+[2014-08-06 19:23:10] nirvdrum, quitting. (Ping timeout: 260 seconds)
