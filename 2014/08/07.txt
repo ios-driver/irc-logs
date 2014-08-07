@@ -1,2 +1,4 @@
 [2014-08-07 01:41:35] admc, joining. (#ios-driver)
 [2014-08-07 03:33:45] admc, quitting. (Quit: Leaving.)
+[2014-08-07 03:39:19] smith972, joining. (#ios-driver)
+[2014-08-07 03:39:58] smith972, quitting. (Client Quit)
