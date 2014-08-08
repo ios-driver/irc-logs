@@ -32,3 +32,4 @@
 [2014-08-07 19:43:18] iamqk, joining. (#ios-driver)
 [2014-08-07 19:43:26] admc, joining. (#ios-driver)
 [2014-08-07 19:44:38] iamqk, leaving. (#ios-driver)
+[2014-08-07 19:45:46] admc, quitting. (Client Quit)
