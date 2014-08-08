@@ -37,3 +37,5 @@
 [2014-08-07 21:26:57] admc, quitting. (Client Quit)
 [2014-08-07 21:30:00] smccarthy, quitting. (Quit: Leaving...)
 [2014-08-07 22:18:04] admc, joining. (#ios-driver)
+[2014-08-07 23:16:52] admc, quitting. (Quit: Leaving.)
+[2014-08-07 23:19:54] admc, joining. (#ios-driver)
