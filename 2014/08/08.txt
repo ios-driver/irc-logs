@@ -1,3 +1,4 @@
 [2014-08-08 01:14:11] admc, quitting. (Quit: Leaving.)
 [2014-08-08 01:15:49] admc, joining. (#ios-driver)
 [2014-08-08 01:22:00] admc, quitting. (Quit: Leaving.)
+[2014-08-08 05:13:34] nirvdrum, joining. (#ios-driver)
