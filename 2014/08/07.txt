@@ -28,3 +28,4 @@
 [2014-08-07 17:34:31] jlipps, quitting. (Quit: Leaving.)
 [2014-08-07 17:42:12] nirvdrum, quitting. (Ping timeout: 250 seconds)
 [2014-08-07 17:42:16] admc, quitting. (Quit: Leaving.)
+[2014-08-07 17:55:48] smccarthy, joining. (#ios-driver)
