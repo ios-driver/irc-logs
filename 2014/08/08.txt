@@ -41,3 +41,4 @@
 [2014-08-08 15:59:13] admc, joining. (#ios-driver)
 [2014-08-08 16:23:05] admc, quitting. (Quit: Leaving.)
 [2014-08-08 16:30:05] admc, joining. (#ios-driver)
+[2014-08-08 16:40:22] admc, quitting. (Quit: Leaving.)
