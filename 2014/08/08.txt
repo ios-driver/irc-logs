@@ -23,3 +23,4 @@
 [2014-08-08 12:08:58] admc, joining. (#ios-driver)
 [2014-08-08 12:15:13] santiycr, quitting. (Quit: Leaving.)
 [2014-08-08 12:32:42] admc, quitting. (Quit: Leaving.)
+[2014-08-08 13:18:56] smccarthy, quitting. (Remote host closed the connection)
