@@ -9,3 +9,4 @@
 [2014-08-09 05:57:55] nirvdrum, joining. (#ios-driver)
 [2014-08-09 07:20:19] smccarthy, joining. (#ios-driver)
 [2014-08-09 07:41:20] operatiay, joining. (#ios-driver)
+[2014-08-09 07:45:22] operatiay, quitting. (Ping timeout: 240 seconds)
