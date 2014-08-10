@@ -6,3 +6,4 @@
 [2014-08-10 01:53:32] operatiay, quitting. (Ping timeout: 245 seconds)
 [2014-08-10 02:26:55] santiycr, joining. (#ios-driver)
 [2014-08-10 03:22:02] santiycr, quitting. (Quit: Leaving.)
+[2014-08-10 03:49:52] operatiay, joining. (#ios-driver)
