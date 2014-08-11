@@ -28,3 +28,4 @@
 [2014-08-11 10:14:00] admc, joining. (#ios-driver)
 [2014-08-11 10:14:49] operatiay, quitting. (Remote host closed the connection)
 [2014-08-11 10:24:48] lukeis, joining. (#ios-driver)
+[2014-08-11 11:00:32] admc, quitting. (Quit: Leaving.)
