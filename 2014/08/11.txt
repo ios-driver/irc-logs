@@ -36,3 +36,4 @@
 [2014-08-11 12:48:38] ddary, joining. (#ios-driver)
 [2014-08-11 13:00:24] admc, joining. (#ios-driver)
 [2014-08-11 13:02:29] jlipps, joining. (#ios-driver)
+[2014-08-11 13:29:08] ddary, quitting. (Quit: ddary)
