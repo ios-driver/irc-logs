@@ -4,3 +4,7 @@
 [2014-08-11 01:21:02] admc, quitting. (Quit: Leaving.)
 [2014-08-11 01:51:30] operatiay, quitting. (Remote host closed the connection)
 [2014-08-11 02:04:01] operatiay, joining. (#ios-driver)
+[2014-08-11 03:37:30] ios-driver-git, joining. (#ios-driver)
+[2014-08-11 03:37:30] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/cDdhcA
+[2014-08-11 03:37:30] ios-driver-git, leaving. (#ios-driver)
+[2014-08-11 03:37:30] ios-driver-git: ios-driver/dev fb9cbb6 freynaud: installed SDK for real device are irrelevant
