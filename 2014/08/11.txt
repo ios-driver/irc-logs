@@ -9,3 +9,5 @@
 [2014-08-11 03:37:30] ios-driver-git, leaving. (#ios-driver)
 [2014-08-11 03:37:30] ios-driver-git: ios-driver/dev fb9cbb6 freynaud: installed SDK for real device are irrelevant
 [2014-08-11 04:05:31] operatiay, quitting. (Remote host closed the connection)
+[2014-08-11 04:56:05] santiycr, joining. (#ios-driver)
+[2014-08-11 04:58:00] operatiay, joining. (#ios-driver)
