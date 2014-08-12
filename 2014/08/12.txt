@@ -26,3 +26,5 @@
 [2014-08-12 06:48:05] operatiay, quitting. (Remote host closed the connection)
 [2014-08-12 06:49:03] rodrigomartin, quitting. (Read error: Connection timed out)
 [2014-08-12 06:49:05] smccarthy, joining. (#ios-driver)
+[2014-08-12 06:50:12] rodrigomartin, joining. (#ios-driver)
+[2014-08-12 06:54:25] rodrigomartin, quitting. (Ping timeout: 255 seconds)
