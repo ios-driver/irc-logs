@@ -56,3 +56,6 @@
 [2014-08-12 10:42:33] jlipps, joining. (#ios-driver)
 [2014-08-12 10:59:37] jlipps, quitting. (Quit: Leaving.)
 [2014-08-12 11:00:54] jlipps, joining. (#ios-driver)
+[2014-08-12 11:45:51] lukeis, joining. (#ios-driver)
+[2014-08-12 11:47:25] rodrigomartin, quitting. (Read error: Connection reset by peer)
+[2014-08-12 11:47:52] ddary, joining. (#ios-driver)
