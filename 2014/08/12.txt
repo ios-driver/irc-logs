@@ -54,3 +54,4 @@
 [2014-08-12 10:07:42] rodrigomartin, quitting. (Read error: Connection timed out)
 [2014-08-12 10:09:19] rodrigomartin, joining. (#ios-driver)
 [2014-08-12 10:42:33] jlipps, joining. (#ios-driver)
+[2014-08-12 10:59:37] jlipps, quitting. (Quit: Leaving.)
