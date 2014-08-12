@@ -79,3 +79,5 @@
 [2014-08-12 14:25:22] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-08-12 15:35:44] lukeis1, joining. (#ios-driver)
 [2014-08-12 15:38:38] lukeis, quitting. (Ping timeout: 250 seconds)
+[2014-08-12 15:40:30] lukeis, joining. (#ios-driver)
+[2014-08-12 15:41:34] lukeis1, quitting. (Ping timeout: 250 seconds)
