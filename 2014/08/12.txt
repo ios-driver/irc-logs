@@ -60,3 +60,6 @@
 [2014-08-12 11:47:25] rodrigomartin, quitting. (Read error: Connection reset by peer)
 [2014-08-12 11:47:52] ddary, joining. (#ios-driver)
 [2014-08-12 11:52:14] rodrigomartin, joining. (#ios-driver)
+[2014-08-12 11:57:45] jlipps, quitting. (Quit: Leaving.)
+[2014-08-12 11:58:17] ddary, quitting. (Quit: ddary)
+[2014-08-12 11:59:37] jlipps, joining. (#ios-driver)
