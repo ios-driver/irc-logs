@@ -48,3 +48,4 @@
 [2014-08-11 16:10:57] smccarthy, quitting. (Quit: Leaving...)
 [2014-08-11 16:16:48] lukeis, quitting. (Quit: Leaving.)
 [2014-08-11 16:38:44] jlipps, leaving. (#ios-driver)
+[2014-08-11 17:12:32] admc, quitting. (Quit: Leaving.)
