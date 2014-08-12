@@ -51,3 +51,5 @@
 [2014-08-12 09:44:22] admc, quitting. (Client Quit)
 [2014-08-12 09:50:17] rodrigomartin1, quitting. (Read error: Connection timed out)
 [2014-08-12 09:51:18] rodrigomartin, joining. (#ios-driver)
+[2014-08-12 10:07:42] rodrigomartin, quitting. (Read error: Connection timed out)
+[2014-08-12 10:09:19] rodrigomartin, joining. (#ios-driver)
