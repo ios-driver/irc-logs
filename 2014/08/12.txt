@@ -7,3 +7,4 @@
 [2014-08-12 02:53:09] freynaud____, quitting. (Ping timeout: 240 seconds)
 [2014-08-12 02:57:26] freynaud_____, joining. (#ios-driver)
 [2014-08-12 03:06:19] operatiay, quitting. (Remote host closed the connection)
+[2014-08-12 03:25:38] operatiay, joining. (#ios-driver)
