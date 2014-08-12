@@ -39,3 +39,5 @@
 [2014-08-12 08:23:34] operatiay, joining. (#ios-driver)
 [2014-08-12 08:51:53] mmmulani: freynaud_____: have you started working on making ios-driver work with xcode6?
 [2014-08-12 09:06:15] admc, joining. (#ios-driver)
+[2014-08-12 09:12:54] jlipps, joining. (#ios-driver)
+[2014-08-12 09:13:55] operatiay, quitting. (Remote host closed the connection)
