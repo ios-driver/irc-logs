@@ -70,3 +70,4 @@
 [2014-08-12 13:07:54] mmmulani, joining. (#ios-driver)
 [2014-08-12 13:08:47] mmmulani, quitting. (Remote host closed the connection)
 [2014-08-12 13:12:53] mmmulani, joining. (#ios-driver)
+[2014-08-12 13:28:50] jlipps, quitting. (Quit: Leaving.)
