@@ -3,3 +3,5 @@
 [2014-08-12 00:39:17] operatiay, joining. (#ios-driver)
 [2014-08-12 00:51:36] admc, quitting. (Quit: Leaving.)
 [2014-08-12 02:48:48] nicegraham__, quitting. (Ping timeout: 260 seconds)
+[2014-08-12 02:53:01] nicegraham__, joining. (#ios-driver)
+[2014-08-12 02:53:09] freynaud____, quitting. (Ping timeout: 240 seconds)
