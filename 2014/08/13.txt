@@ -44,3 +44,4 @@
 [2014-08-13 13:11:59] lukeis1, joining. (#ios-driver)
 [2014-08-13 13:11:59] lukeis, quitting. (Read error: Connection reset by peer)
 [2014-08-13 13:13:30] lukeis, joining. (#ios-driver)
+[2014-08-13 13:16:21] lukeis1, quitting. (Ping timeout: 255 seconds)
