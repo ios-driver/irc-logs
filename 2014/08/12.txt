@@ -85,3 +85,7 @@
 [2014-08-12 16:06:07] lukeis, quitting. (Ping timeout: 245 seconds)
 [2014-08-12 16:14:19] lukeis1, changing nick to lukeis.
 [2014-08-12 16:19:26] smccarthy, quitting. (Quit: Leaving...)
+[2014-08-12 17:00:02] jlipps, quitting. (Read error: Connection reset by peer)
+[2014-08-12 17:00:22] jlipps, joining. (#ios-driver)
+[2014-08-12 17:01:37] admc, quitting. (Read error: Connection reset by peer)
+[2014-08-12 17:01:57] admc, joining. (#ios-driver)
