@@ -93,3 +93,5 @@
 [2014-08-12 17:17:14] operatiay, joining. (#ios-driver)
 [2014-08-12 17:18:30] admc, quitting. (Quit: Leaving.)
 [2014-08-12 17:22:01] operatiay, quitting. (Ping timeout: 260 seconds)
+[2014-08-12 17:45:17] mmmulani, quitting. (Remote host closed the connection)
+[2014-08-12 17:45:38] mmmulani, joining. (#ios-driver)
