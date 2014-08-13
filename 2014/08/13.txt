@@ -48,3 +48,5 @@
 [2014-08-13 13:36:20] admc, joining. (#ios-driver)
 [2014-08-13 13:43:08] operatiay, joining. (#ios-driver)
 [2014-08-13 13:47:34] operatiay, quitting. (Ping timeout: 250 seconds)
+[2014-08-13 14:00:01] Ragnaroek, joining. (#ios-driver)
+[2014-08-13 14:01:29] Ragnaroek, quitting. (Remote host closed the connection)
