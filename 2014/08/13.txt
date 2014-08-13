@@ -50,3 +50,8 @@
 [2014-08-13 13:47:34] operatiay, quitting. (Ping timeout: 250 seconds)
 [2014-08-13 14:00:01] Ragnaroek, joining. (#ios-driver)
 [2014-08-13 14:01:29] Ragnaroek, quitting. (Remote host closed the connection)
+[2014-08-13 14:10:14] smccarthy2, joining. (#ios-driver)
+[2014-08-13 14:11:14] nicegraham___, joining. (#ios-driver)
+[2014-08-13 14:12:58] nicegraham__, quitting. (Ping timeout: 260 seconds)
+[2014-08-13 14:13:03] nicegraham___, changing nick to nicegraham__.
+[2014-08-13 14:14:05] smccarthy, quitting. (Ping timeout: 260 seconds)
