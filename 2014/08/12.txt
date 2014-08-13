@@ -95,3 +95,4 @@
 [2014-08-12 17:22:01] operatiay, quitting. (Ping timeout: 260 seconds)
 [2014-08-12 17:45:17] mmmulani, quitting. (Remote host closed the connection)
 [2014-08-12 17:45:38] mmmulani, joining. (#ios-driver)
+[2014-08-12 18:21:59] jlipps, quitting. (Quit: Leaving.)
