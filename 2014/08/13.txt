@@ -37,3 +37,5 @@
 [2014-08-13 11:41:27] ddary, quitting. (*.net *.split)
 [2014-08-13 11:41:57] ddary_, changing nick to ddary.
 [2014-08-13 11:42:20] operatiay, quitting. (Remote host closed the connection)
+[2014-08-13 12:11:34] lukeis, quitting. (Quit: Leaving.)
+[2014-08-13 12:12:35] ddary, leaving. (#ios-driver)
