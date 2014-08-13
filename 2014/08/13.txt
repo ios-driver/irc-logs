@@ -57,3 +57,4 @@
 [2014-08-13 14:14:05] smccarthy, quitting. (Ping timeout: 260 seconds)
 [2014-08-13 15:17:16] lukeis, quitting. (Ping timeout: 250 seconds)
 [2014-08-13 15:17:20] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-08-13 15:44:02] operatiay, joining. (#ios-driver)
