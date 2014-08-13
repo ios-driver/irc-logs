@@ -25,3 +25,5 @@
 [2014-08-13 09:32:36] Ragnaroek, quitting. (Ping timeout: 260 seconds)
 [2014-08-13 10:17:56] admc, joining. (#ios-driver)
 [2014-08-13 10:32:56] santiycr, quitting. (Quit: Leaving.)
+[2014-08-13 10:36:37] jlipps, quitting. (Quit: Leaving.)
+[2014-08-13 10:36:57] jlipps, joining. (#ios-driver)
