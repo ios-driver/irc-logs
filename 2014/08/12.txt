@@ -89,3 +89,4 @@
 [2014-08-12 17:00:22] jlipps, joining. (#ios-driver)
 [2014-08-12 17:01:37] admc, quitting. (Read error: Connection reset by peer)
 [2014-08-12 17:01:57] admc, joining. (#ios-driver)
+[2014-08-12 17:05:52] lukeis, quitting. (Ping timeout: 240 seconds)
