@@ -20,3 +20,4 @@
 [2014-08-13 08:57:19] operatiay, joining. (#ios-driver)
 [2014-08-13 09:03:49] jlipps, joining. (#ios-driver)
 [2014-08-13 09:12:59] smccarthy, joining. (#ios-driver)
+[2014-08-13 09:15:54] operatiay, quitting. (Remote host closed the connection)
