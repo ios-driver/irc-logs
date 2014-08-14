@@ -74,3 +74,4 @@
 [2014-08-13 20:53:30] freynaud______, changing nick to freynaud_____.
 [2014-08-13 20:53:50] nicegraham___, changing nick to nicegraham__.
 [2014-08-13 21:46:35] operatiay, joining. (#ios-driver)
+[2014-08-13 21:50:48] operatiay, quitting. (Ping timeout: 244 seconds)
