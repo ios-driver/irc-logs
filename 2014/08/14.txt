@@ -53,3 +53,5 @@
 [2014-08-14 13:29:12] jacobschultz: Has anyone handled a system alert while doing a safari test using ruby?
 [2014-08-14 13:54:37] jacobschultz, quitting. (Remote host closed the connection)
 [2014-08-14 13:55:03] jacobschultz, joining. (#ios-driver)
+[2014-08-14 14:21:04] jacobsch_, joining. (#ios-driver)
+[2014-08-14 14:24:29] jacobschultz, quitting. (Ping timeout: 260 seconds)
