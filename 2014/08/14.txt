@@ -5,3 +5,5 @@
 [2014-08-14 01:03:48] lukeis, joining. (#ios-driver)
 [2014-08-14 01:03:53] lukeis, quitting. (Client Quit)
 [2014-08-14 01:10:43] operatiay, joining. (#ios-driver)
+[2014-08-14 02:47:22] santiycr, joining. (#ios-driver)
+[2014-08-14 02:49:10] operatiay, quitting. (Remote host closed the connection)
