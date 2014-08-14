@@ -66,3 +66,4 @@
 [2014-08-13 17:49:22] operatiay, quitting. (Ping timeout: 250 seconds)
 [2014-08-13 19:45:44] operatiay, joining. (#ios-driver)
 [2014-08-13 19:50:22] operatiay, quitting. (Ping timeout: 250 seconds)
+[2014-08-13 20:31:15] nirvdrum, quitting. (Remote host closed the connection)
