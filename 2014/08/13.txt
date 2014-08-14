@@ -63,3 +63,4 @@
 [2014-08-13 17:28:08] jlipps, quitting. (Quit: Leaving.)
 [2014-08-13 17:41:37] admc, quitting. (Quit: Leaving.)
 [2014-08-13 17:44:55] operatiay, joining. (#ios-driver)
+[2014-08-13 17:49:22] operatiay, quitting. (Ping timeout: 250 seconds)
