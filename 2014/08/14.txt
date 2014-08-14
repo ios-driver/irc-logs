@@ -55,3 +55,4 @@
 [2014-08-14 13:55:03] jacobschultz, joining. (#ios-driver)
 [2014-08-14 14:21:04] jacobsch_, joining. (#ios-driver)
 [2014-08-14 14:24:29] jacobschultz, quitting. (Ping timeout: 260 seconds)
+[2014-08-14 14:47:22] jacobsch_, quitting. ()
