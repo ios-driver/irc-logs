@@ -41,3 +41,4 @@
 [2014-08-14 11:16:59] operatiay, joining. (#ios-driver)
 [2014-08-14 11:17:33] admc, joining. (#ios-driver)
 [2014-08-14 11:17:57] ddary, joining. (#ios-driver)
+[2014-08-14 11:22:10] operatiay, quitting. (Ping timeout: 272 seconds)
