@@ -52,3 +52,4 @@
 [2014-08-14 13:27:32] jacobschultz: Hey guys, I've noticed the Ruby docs on the website are lacking
 [2014-08-14 13:29:12] jacobschultz: Has anyone handled a system alert while doing a safari test using ruby?
 [2014-08-14 13:54:37] jacobschultz, quitting. (Remote host closed the connection)
+[2014-08-14 13:55:03] jacobschultz, joining. (#ios-driver)
