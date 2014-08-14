@@ -78,3 +78,5 @@
 [2014-08-13 22:08:51] ios-driverbot___, joining. (#ios-driver)
 [2014-08-13 22:10:57] ios-driverbot__, quitting. (Write error: Broken pipe)
 [2014-08-13 23:47:29] operatiay, joining. (#ios-driver)
+[2014-08-13 23:50:37] Ragnaroek, joining. (#ios-driver)
+[2014-08-13 23:51:42] operatiay, quitting. (Ping timeout: 244 seconds)
