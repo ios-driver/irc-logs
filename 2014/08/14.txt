@@ -31,3 +31,4 @@
 [2014-08-14 08:12:46] santiycr, quitting. (Client Quit)
 [2014-08-14 08:30:53] jlipps, joining. (#ios-driver)
 [2014-08-14 08:43:30] smccarthy, joining. (#ios-driver)
+[2014-08-14 09:01:00] admc, joining. (#ios-driver)
