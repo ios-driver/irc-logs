@@ -10,3 +10,6 @@
 [2014-08-14 03:31:58] operatiay, joining. (#ios-driver)
 [2014-08-14 03:45:17] santiycr, quitting. (Ping timeout: 245 seconds)
 [2014-08-14 03:46:14] santiycr, joining. (#ios-driver)
+[2014-08-14 03:57:09] ios-driver-git, joining. (#ios-driver)
+[2014-08-14 03:57:10] ios-driver-git, leaving. (#ios-driver)
+[2014-08-14 03:57:10] ios-driver-git: [ios-driver] richard-stowe closed pull request #270: Fixed an issue with getScreenshot (getPNGAsString) (dev...dev) http://git.io/PYYCeQ
