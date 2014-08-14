@@ -69,3 +69,7 @@
 [2014-08-13 20:31:15] nirvdrum, quitting. (Remote host closed the connection)
 [2014-08-13 20:49:36] nicegraham___, joining. (#ios-driver)
 [2014-08-13 20:49:37] freynaud______, joining. (#ios-driver)
+[2014-08-13 20:52:47] nicegraham__, quitting. (Ping timeout: 250 seconds)
+[2014-08-13 20:52:47] freynaud_____, quitting. (Ping timeout: 250 seconds)
+[2014-08-13 20:53:30] freynaud______, changing nick to freynaud_____.
+[2014-08-13 20:53:50] nicegraham___, changing nick to nicegraham__.
