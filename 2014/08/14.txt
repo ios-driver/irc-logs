@@ -16,3 +16,4 @@
 [2014-08-14 04:11:33] operatiay, quitting. (Remote host closed the connection)
 [2014-08-14 04:32:41] operatiay, joining. (#ios-driver)
 [2014-08-14 06:07:29] santiycr, quitting. (Quit: Leaving.)
+[2014-08-14 06:14:18] santiycr, joining. (#ios-driver)
