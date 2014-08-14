@@ -29,3 +29,4 @@
 [2014-08-14 08:07:37] operatiay, joining. (#ios-driver)
 [2014-08-14 08:09:31] santiycr, joining. (#ios-driver)
 [2014-08-14 08:12:46] santiycr, quitting. (Client Quit)
+[2014-08-14 08:30:53] jlipps, joining. (#ios-driver)
