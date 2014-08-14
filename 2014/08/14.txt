@@ -14,3 +14,4 @@
 [2014-08-14 03:57:10] ios-driver-git, leaving. (#ios-driver)
 [2014-08-14 03:57:10] ios-driver-git: [ios-driver] richard-stowe closed pull request #270: Fixed an issue with getScreenshot (getPNGAsString) (dev...dev) http://git.io/PYYCeQ
 [2014-08-14 04:11:33] operatiay, quitting. (Remote host closed the connection)
+[2014-08-14 04:32:41] operatiay, joining. (#ios-driver)
