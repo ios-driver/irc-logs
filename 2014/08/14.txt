@@ -33,3 +33,5 @@
 [2014-08-14 08:43:30] smccarthy, joining. (#ios-driver)
 [2014-08-14 09:01:00] admc, joining. (#ios-driver)
 [2014-08-14 09:16:06] operatiay, quitting. (Remote host closed the connection)
+[2014-08-14 09:33:56] Ragnaroek, quitting. (Ping timeout: 240 seconds)
+[2014-08-14 09:34:49] lukeis, joining. (#ios-driver)
