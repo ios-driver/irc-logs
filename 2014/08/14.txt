@@ -62,3 +62,4 @@
 [2014-08-14 15:43:53] smccarthy, quitting. (Quit: Leaving...)
 [2014-08-14 16:36:52] lukeis, quitting. (Quit: Leaving.)
 [2014-08-14 16:37:44] dmarr, leaving. ("Leaving...")
+[2014-08-14 17:06:11] admc, quitting. (Quit: Leaving.)
