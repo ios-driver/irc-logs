@@ -3,3 +3,4 @@
 [2014-08-15 02:15:23] admc, joining. (#ios-driver)
 [2014-08-15 02:15:23] admc, quitting. (Client Quit)
 [2014-08-15 03:06:00] operatiay, quitting. (Remote host closed the connection)
+[2014-08-15 03:19:20] operatiay, joining. (#ios-driver)
