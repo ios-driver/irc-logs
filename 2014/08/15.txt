@@ -12,3 +12,4 @@
 [2014-08-15 07:50:08] operatiay, quitting. (Remote host closed the connection)
 [2014-08-15 08:39:09] smccarthy, joining. (#ios-driver)
 [2014-08-15 09:10:07] lukeis, joining. (#ios-driver)
+[2014-08-15 09:37:32] admc, joining. (#ios-driver)
