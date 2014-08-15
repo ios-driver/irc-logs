@@ -8,3 +8,4 @@
 [2014-08-15 04:33:20] operatiay, joining. (#ios-driver)
 [2014-08-15 06:33:29] operatiay, quitting. (Remote host closed the connection)
 [2014-08-15 06:35:57] rodrigomartin, joining. (#ios-driver)
+[2014-08-15 07:31:11] operatiay, joining. (#ios-driver)
