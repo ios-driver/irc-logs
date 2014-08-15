@@ -18,3 +18,6 @@
 [2014-08-15 11:54:25] nirvdrum, joining. (#ios-driver)
 [2014-08-15 13:25:27] admc, quitting. (Quit: Leaving.)
 [2014-08-15 13:46:41] admc, joining. (#ios-driver)
+[2014-08-15 15:56:46] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-08-15 15:58:40] rodrigomartin, joining. (#ios-driver)
+[2014-08-15 15:59:00] rodrigomartin, quitting. (Client Quit)
