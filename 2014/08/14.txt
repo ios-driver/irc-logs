@@ -64,3 +64,4 @@
 [2014-08-14 16:37:44] dmarr, leaving. ("Leaving...")
 [2014-08-14 17:06:11] admc, quitting. (Quit: Leaving.)
 [2014-08-14 17:19:32] operatiay, joining. (#ios-driver)
+[2014-08-14 17:24:37] operatiay, quitting. (Ping timeout: 272 seconds)
