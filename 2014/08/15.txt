@@ -21,3 +21,4 @@
 [2014-08-15 15:56:46] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-08-15 15:58:40] rodrigomartin, joining. (#ios-driver)
 [2014-08-15 15:59:00] rodrigomartin, quitting. (Client Quit)
+[2014-08-15 16:10:30] nirvdrum, quitting. (Ping timeout: 246 seconds)
