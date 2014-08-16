@@ -8,3 +8,4 @@
 [2014-08-16 09:42:06] smccarthy, quitting. (Remote host closed the connection)
 [2014-08-16 09:42:49] smccarthy, joining. (#ios-driver)
 [2014-08-16 10:01:23] operatiay, joining. (#ios-driver)
+[2014-08-16 10:05:37] operatiay, quitting. (Ping timeout: 245 seconds)
