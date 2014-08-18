@@ -1,0 +1,5 @@
+[2014-08-18 00:06:02] admc, joining. (#ios-driver)
+[2014-08-18 00:06:10] admc, quitting. (Read error: Connection reset by peer)
+[2014-08-18 00:06:23] admc, joining. (#ios-driver)
+[2014-08-18 00:06:48] admc, quitting. (Read error: Connection reset by peer)
+[2014-08-18 00:06:59] admc, joining. (#ios-driver)
