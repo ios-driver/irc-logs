@@ -7,3 +7,4 @@
 [2014-08-17 14:47:48] smccarthy, joining. (#ios-driver)
 [2014-08-17 14:52:33] smccarthy, quitting. (Ping timeout: 240 seconds)
 [2014-08-17 14:56:29] smccarthy, joining. (#ios-driver)
+[2014-08-17 21:33:10] smccarthy, quitting. (Quit: Leaving...)
