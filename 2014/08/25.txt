@@ -9,3 +9,4 @@
 [2014-08-25 11:36:31] admc, joining. (#ios-driver)
 [2014-08-25 11:39:32] ddary, leaving. (#ios-driver)
 [2014-08-25 13:40:43] santiycr, joining. (#ios-driver)
+[2014-08-25 13:54:22] jlipps, joining. (#ios-driver)
