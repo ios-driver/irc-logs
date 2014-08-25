@@ -1,3 +1,5 @@
 [2014-08-25 09:05:16] ios-driverbot, joining. (#ios-driver)
 [2014-08-25 09:51:38] nirvdrum, joining. (#ios-driver)
 [2014-08-25 09:52:08] admc, quitting. (Quit: Leaving.)
+[2014-08-25 09:59:30] nirvdrum, quitting. (Remote host closed the connection)
+[2014-08-25 09:59:53] nirvdrum, joining. (#ios-driver)
