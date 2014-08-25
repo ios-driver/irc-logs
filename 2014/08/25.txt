@@ -10,3 +10,4 @@
 [2014-08-25 11:39:32] ddary, leaving. (#ios-driver)
 [2014-08-25 13:40:43] santiycr, joining. (#ios-driver)
 [2014-08-25 13:54:22] jlipps, joining. (#ios-driver)
+[2014-08-25 14:32:38] jlipps, quitting. (Quit: Leaving.)
