@@ -3,3 +3,4 @@
 [2014-08-26 07:54:02] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-08-26 07:54:19] rodrigomartin, joining. (#ios-driver)
 [2014-08-26 08:38:53] admc, joining. (#ios-driver)
+[2014-08-26 08:51:02] lukeis, joining. (#ios-driver)
