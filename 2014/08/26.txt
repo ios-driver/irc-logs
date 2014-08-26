@@ -28,3 +28,6 @@
 [2014-08-26 15:19:04] jlipps, quitting. (Quit: Leaving.)
 [2014-08-26 15:33:13] operatia_, joining. (#ios-driver)
 [2014-08-26 15:37:56] operatiay, quitting. (*.net *.split)
+[2014-08-26 15:42:37] AutomatedTester, quitting. (*.net *.split)
+[2014-08-26 15:43:25] AutomatedTester_, joining. (#ios-driver)
+[2014-08-26 15:43:28] AutomatedTester_, changing nick to AutomatedTester.
