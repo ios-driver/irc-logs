@@ -13,3 +13,4 @@
 [2014-08-26 10:15:04] iamleeg, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-08-26 11:11:58] santiycr, quitting. (Quit: Leaving.)
 [2014-08-26 11:13:35] santiycr, joining. (#ios-driver)
+[2014-08-26 12:30:38] admc, joining. (#ios-driver)
