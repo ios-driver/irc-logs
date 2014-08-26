@@ -6,3 +6,4 @@
 [2014-08-26 08:51:02] lukeis, joining. (#ios-driver)
 [2014-08-26 09:00:59] nirvdrum, joining. (#ios-driver)
 [2014-08-26 09:03:48] santiycr, joining. (#ios-driver)
+[2014-08-26 09:21:18] admc, quitting. (Quit: Leaving.)
