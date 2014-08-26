@@ -4,3 +4,5 @@
 [2014-08-26 07:54:19] rodrigomartin, joining. (#ios-driver)
 [2014-08-26 08:38:53] admc, joining. (#ios-driver)
 [2014-08-26 08:51:02] lukeis, joining. (#ios-driver)
+[2014-08-26 09:00:59] nirvdrum, joining. (#ios-driver)
+[2014-08-26 09:03:48] santiycr, joining. (#ios-driver)
