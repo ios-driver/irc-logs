@@ -1,2 +1,4 @@
 [2014-08-26 02:27:42] iamleeg, joining. (#ios-driver)
 [2014-08-26 05:14:32] rodrigomartin, joining. (#ios-driver)
+[2014-08-26 07:54:02] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-08-26 07:54:19] rodrigomartin, joining. (#ios-driver)
