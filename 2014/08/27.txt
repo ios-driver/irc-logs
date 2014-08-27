@@ -3,3 +3,5 @@
 [2014-08-27 00:40:53] admc, quitting. (Quit: Leaving.)
 [2014-08-27 01:10:23] ddary, quitting. (Quit: ddary)
 [2014-08-27 01:29:41] iamleeg, joining. (#ios-driver)
+[2014-08-27 04:38:12] ddary, joining. (#ios-driver)
+[2014-08-27 04:38:45] ddary, leaving. (#ios-driver)
