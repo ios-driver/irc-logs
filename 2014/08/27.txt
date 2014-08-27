@@ -21,3 +21,6 @@
 [2014-08-27 09:51:17] iamleeg, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-08-27 10:16:50] lukeis1, joining. (#ios-driver)
 [2014-08-27 10:19:32] lukeis, quitting. (Ping timeout: 250 seconds)
+[2014-08-27 10:20:07] lukeis, joining. (#ios-driver)
+[2014-08-27 10:20:38] lukeis, quitting. (Client Quit)
+[2014-08-27 10:22:46] lukeis1, quitting. (Ping timeout: 264 seconds)
