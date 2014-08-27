@@ -34,3 +34,4 @@
 [2014-08-26 16:22:13] lukeis, quitting. (Quit: Leaving.)
 [2014-08-26 16:23:59] admc, quitting. (Quit: Leaving.)
 [2014-08-26 16:37:57] smccarthy, quitting. (Quit: Leaving...)
+[2014-08-26 17:27:51] admc, joining. (#ios-driver)
