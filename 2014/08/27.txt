@@ -16,3 +16,4 @@
 [2014-08-27 08:38:29] smccarthy, joining. (#ios-driver)
 [2014-08-27 08:44:14] dgrace__, joining. (#ios-driver)
 [2014-08-27 08:54:54] dgrace__, leaving. (#ios-driver)
+[2014-08-27 08:58:46] lukeis, joining. (#ios-driver)
