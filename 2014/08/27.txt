@@ -48,3 +48,4 @@
 [2014-08-27 15:19:36] lukeis, joining. (#ios-driver)
 [2014-08-27 15:20:38] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-08-27 15:35:05] santiycr, quitting. (Quit: Leaving.)
+[2014-08-27 16:06:01] santiycr, joining. (#ios-driver)
