@@ -18,3 +18,4 @@
 [2014-08-28 08:00:32] iamleeg, joining. (#ios-driver)
 [2014-08-28 08:13:17] iamleeg, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-08-28 08:20:57] operatiay, quitting. (Remote host closed the connection)
+[2014-08-28 08:49:37] smccarthy, joining. (#ios-driver)
