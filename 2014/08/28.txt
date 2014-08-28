@@ -25,3 +25,4 @@
 [2014-08-28 09:20:50] operatiay, quitting. (Remote host closed the connection)
 [2014-08-28 09:31:10] tkriz, quitting. (Ping timeout: 272 seconds)
 [2014-08-28 11:17:57] santiycr, joining. (#ios-driver)
+[2014-08-28 11:50:51] admc, quitting. (Quit: Leaving.)
