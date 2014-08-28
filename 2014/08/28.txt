@@ -16,3 +16,4 @@
 [2014-08-28 07:27:50] iamleeg, joining. (#ios-driver)
 [2014-08-28 07:33:16] iamleeg, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-08-28 08:00:32] iamleeg, joining. (#ios-driver)
+[2014-08-28 08:13:17] iamleeg, quitting. (Quit: Textual IRC Client: www.textualapp.com)
