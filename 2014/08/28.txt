@@ -2,3 +2,5 @@
 [2014-08-28 01:35:24] iamleeg, joining. (#ios-driver)
 [2014-08-28 02:04:40] admc, joining. (#ios-driver)
 [2014-08-28 02:17:15] admc, quitting. (Quit: Leaving.)
+[2014-08-28 02:30:47] iamleeg, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-08-28 02:31:48] iamleeg, joining. (#ios-driver)
