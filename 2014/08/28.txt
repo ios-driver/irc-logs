@@ -26,3 +26,4 @@
 [2014-08-28 09:31:10] tkriz, quitting. (Ping timeout: 272 seconds)
 [2014-08-28 11:17:57] santiycr, joining. (#ios-driver)
 [2014-08-28 11:50:51] admc, quitting. (Quit: Leaving.)
+[2014-08-28 13:03:06] santiycr, quitting. (Quit: Leaving.)
