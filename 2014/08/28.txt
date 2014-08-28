@@ -12,3 +12,5 @@
 [2014-08-28 04:44:02] iamleeg, joining. (#ios-driver)
 [2014-08-28 05:56:12] nirvdrum, joining. (#ios-driver)
 [2014-08-28 06:42:24] rodrigomartin, joining. (#ios-driver)
+[2014-08-28 07:26:39] iamleeg, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-08-28 07:27:50] iamleeg, joining. (#ios-driver)
