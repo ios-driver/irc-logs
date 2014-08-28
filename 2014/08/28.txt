@@ -1,3 +1,4 @@
 [2014-08-28 00:54:43] operatiay, joining. (#ios-driver)
 [2014-08-28 01:35:24] iamleeg, joining. (#ios-driver)
 [2014-08-28 02:04:40] admc, joining. (#ios-driver)
+[2014-08-28 02:17:15] admc, quitting. (Quit: Leaving.)
