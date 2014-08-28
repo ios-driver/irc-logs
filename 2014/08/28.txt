@@ -30,3 +30,5 @@
 [2014-08-28 13:08:45] santiycr, joining. (#ios-driver)
 [2014-08-28 13:08:48] santiycr, quitting. (Client Quit)
 [2014-08-28 13:10:25] santiycr, joining. (#ios-driver)
+[2014-08-28 13:16:41] santiycr1, joining. (#ios-driver)
+[2014-08-28 13:17:01] santiycr2, joining. (#ios-driver)
