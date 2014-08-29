@@ -1,3 +1,8 @@
 [2014-08-29 00:16:01] admc, joining. (#ios-driver)
 [2014-08-29 00:23:40] operatiay, joining. (#ios-driver)
 [2014-08-29 00:55:26] admc, quitting. (Quit: Leaving.)
+[2014-08-29 01:11:31] ios-driver-git, joining. (#ios-driver)
+[2014-08-29 01:11:31] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to gh-pages: http://git.io/ndLO2g
+[2014-08-29 01:11:31] ios-driver-git: ios-driver/gh-pages 19fe65e freynaud: adding link to jprofiler
+[2014-08-29 01:11:31] ios-driver-git, leaving. (#ios-driver)
+[2014-08-29 01:12:59] iamleeg, joining. (#ios-driver)
