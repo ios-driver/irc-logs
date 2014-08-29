@@ -12,3 +12,4 @@
 [2014-08-29 02:50:55] AutomatedTester, quitting. (Ping timeout: 272 seconds)
 [2014-08-29 02:51:00] AutomatedTester_, changing nick to AutomatedTester.
 [2014-08-29 02:54:29] operatiay, quitting. (Remote host closed the connection)
+[2014-08-29 02:59:27] iamleeg, quitting. (Ping timeout: 245 seconds)
