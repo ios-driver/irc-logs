@@ -19,3 +19,4 @@
 [2014-08-29 03:57:11] nicegraham___, joining. (#ios-driver)
 [2014-08-29 03:57:23] freynaud______, joining. (#ios-driver)
 [2014-08-29 04:23:20] operatiay, joining. (#ios-driver)
+[2014-08-29 05:36:04] operatiay, quitting. (Remote host closed the connection)
