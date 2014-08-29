@@ -6,3 +6,4 @@
 [2014-08-29 01:11:31] ios-driver-git: ios-driver/gh-pages 19fe65e freynaud: adding link to jprofiler
 [2014-08-29 01:11:31] ios-driver-git, leaving. (#ios-driver)
 [2014-08-29 01:12:59] iamleeg, joining. (#ios-driver)
+[2014-08-29 01:38:51] iamleeg, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
