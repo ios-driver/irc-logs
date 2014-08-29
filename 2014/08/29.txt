@@ -29,3 +29,4 @@
 [2014-08-29 08:44:17] dgrace__, quitting. (Quit: Connection closed for inactivity)
 [2014-08-29 09:05:05] operatiay, joining. (#ios-driver)
 [2014-08-29 09:09:28] operatiay, quitting. (Ping timeout: 244 seconds)
+[2014-08-29 09:20:42] lukeis: hiya freynaud______ / nicegraham___  looks like iOS 8 is going to be GA soon…. asking since I haven't really tried yet… does it work with iOS 8? :)
