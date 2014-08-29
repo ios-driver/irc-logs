@@ -14,3 +14,7 @@
 [2014-08-29 02:54:29] operatiay, quitting. (Remote host closed the connection)
 [2014-08-29 02:59:27] iamleeg, quitting. (Ping timeout: 245 seconds)
 [2014-08-29 03:01:04] iamleeg, joining. (#ios-driver)
+[2014-08-29 03:55:51] freynaud_____, quitting. (Ping timeout: 240 seconds)
+[2014-08-29 03:55:51] nicegraham__, quitting. (Ping timeout: 240 seconds)
+[2014-08-29 03:57:11] nicegraham___, joining. (#ios-driver)
+[2014-08-29 03:57:23] freynaud______, joining. (#ios-driver)
