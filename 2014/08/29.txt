@@ -22,3 +22,4 @@
 [2014-08-29 05:36:04] operatiay, quitting. (Remote host closed the connection)
 [2014-08-29 05:45:08] operatiay, joining. (#ios-driver)
 [2014-08-29 05:54:54] operatiay: hello, any ideas? https://github.com/ios-driver/ios-driver/issues/283
+[2014-08-29 07:03:56] operatiay, quitting. (Remote host closed the connection)
