@@ -26,3 +26,4 @@
 [2014-08-29 07:31:42] smccarthy, joining. (#ios-driver)
 [2014-08-29 08:19:52] iamleeg, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-08-29 08:39:08] lukeis, joining. (#ios-driver)
+[2014-08-29 08:44:17] dgrace__, quitting. (Quit: Connection closed for inactivity)
