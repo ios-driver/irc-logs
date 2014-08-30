@@ -4,3 +4,4 @@
 [2014-08-30 07:17:52] operatiay, quitting. (Ping timeout: 240 seconds)
 [2014-08-30 09:15:13] operatiay, joining. (#ios-driver)
 [2014-08-30 09:19:22] operatiay, quitting. (Ping timeout: 245 seconds)
+[2014-08-30 09:29:33] smccarthy, joining. (#ios-driver)
