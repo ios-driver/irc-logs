@@ -1,1 +1,2 @@
 [2014-08-30 03:12:12] operatiay, joining. (#ios-driver)
+[2014-08-30 03:16:33] operatiay, quitting. (Ping timeout: 246 seconds)
