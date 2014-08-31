@@ -7,3 +7,6 @@
 [2014-08-31 06:22:43] Bijoy, quitting. ()
 [2014-08-31 08:56:51] smccarthy, joining. (#ios-driver)
 [2014-08-31 11:22:19] admc, joining. (#ios-driver)
+[2014-08-31 12:00:27] admc, quitting. (Quit: Leaving.)
+[2014-08-31 12:01:29] admc, joining. (#ios-driver)
+[2014-08-31 12:02:19] admc, quitting. (Client Quit)
