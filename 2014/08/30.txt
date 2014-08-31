@@ -11,3 +11,4 @@
 [2014-08-30 16:41:29] admc, joining. (#ios-driver)
 [2014-08-30 16:42:35] admc, quitting. (Client Quit)
 [2014-08-30 17:18:36] operatiay, joining. (#ios-driver)
+[2014-08-30 17:22:45] operatiay, quitting. (Ping timeout: 240 seconds)
