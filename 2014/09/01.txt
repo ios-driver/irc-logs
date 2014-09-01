@@ -20,3 +20,4 @@
 [2014-09-01 09:01:43] operatiay, quitting. (Remote host closed the connection)
 [2014-09-01 10:02:28] rodrigomartin1, joining. (#ios-driver)
 [2014-09-01 10:02:46] rodrigomartin, quitting. (Read error: Connection reset by peer)
+[2014-09-01 10:57:21] smccarthy, joining. (#ios-driver)
