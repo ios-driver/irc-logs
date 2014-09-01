@@ -17,3 +17,4 @@
 [2014-09-01 08:13:06] Bijoy, quitting. (Read error: Connection reset by peer)
 [2014-09-01 08:14:10] Bijoy, joining. (#ios-driver)
 [2014-09-01 08:52:27] Bijoy, quitting. ()
+[2014-09-01 09:01:43] operatiay, quitting. (Remote host closed the connection)
