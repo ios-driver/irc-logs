@@ -31,3 +31,4 @@
 [2014-09-01 12:13:21] Ragnaroek, joining. (#ios-driver)
 [2014-09-01 12:16:24] admc, quitting. (Quit: Leaving.)
 [2014-09-01 12:52:31] Ragnaroek, quitting. (Remote host closed the connection)
+[2014-09-01 13:41:08] smccarthy, quitting. (Quit: Leaving...)
