@@ -35,3 +35,4 @@
 [2014-09-01 14:33:11] rodrigomartin1, joining. (#ios-driver)
 [2014-09-01 14:35:06] rodrigomartin, quitting. (Ping timeout: 255 seconds)
 [2014-09-01 14:53:56] rodrigomartin1, quitting. (Remote host closed the connection)
+[2014-09-01 15:56:24] operatiay, joining. (#ios-driver)
