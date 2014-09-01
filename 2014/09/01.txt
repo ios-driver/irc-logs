@@ -21,3 +21,4 @@
 [2014-09-01 10:02:28] rodrigomartin1, joining. (#ios-driver)
 [2014-09-01 10:02:46] rodrigomartin, quitting. (Read error: Connection reset by peer)
 [2014-09-01 10:57:21] smccarthy, joining. (#ios-driver)
+[2014-09-01 11:24:09] admc, joining. (#ios-driver)
