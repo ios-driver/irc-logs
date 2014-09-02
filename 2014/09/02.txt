@@ -21,3 +21,4 @@
 [2014-09-02 04:56:07] santiycr, quitting. (Read error: Connection reset by peer)
 [2014-09-02 05:13:47] operatiay, quitting. (Remote host closed the connection)
 [2014-09-02 05:19:44] operatiay, joining. (#ios-driver)
+[2014-09-02 05:22:20] operatiay: :note freynaud______ hi francois, what can I do to find an xpath for an element visible on the screen when the inspector is not able to display the structure due to its size?
