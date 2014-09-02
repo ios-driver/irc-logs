@@ -31,3 +31,4 @@
 [2014-09-02 08:02:30] tkriz, quitting. (Ping timeout: 250 seconds)
 [2014-09-02 08:14:42] lukeis, joining. (#ios-driver)
 [2014-09-02 09:08:48] operatiay, quitting. (Remote host closed the connection)
+[2014-09-02 09:19:28] smccarthy, joining. (#ios-driver)
