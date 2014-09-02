@@ -1,3 +1,5 @@
 [2014-09-02 01:06:29] admc, quitting. (Quit: Leaving.)
 [2014-09-02 01:38:04] operatiay, joining. (#ios-driver)
 [2014-09-02 02:31:06] santiycr, joining. (#ios-driver)
+[2014-09-02 03:08:03] santiycr, quitting. (Quit: Leaving.)
+[2014-09-02 03:08:25] santiycr, joining. (#ios-driver)
