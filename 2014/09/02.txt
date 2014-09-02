@@ -25,3 +25,7 @@
 [2014-09-02 06:44:53] santiycr1, quitting. (Quit: Leaving.)
 [2014-09-02 06:45:18] smccarthy, joining. (#ios-driver)
 [2014-09-02 07:20:01] smccarthy, quitting. (Quit: Leaving...)
+[2014-09-02 08:00:26] tkriz1, joining. (#ios-driver)
+[2014-09-02 08:00:26] tkriz1, quitting. (Changing host)
+[2014-09-02 08:00:26] tkriz1, joining. (#ios-driver)
+[2014-09-02 08:02:30] tkriz, quitting. (Ping timeout: 250 seconds)
