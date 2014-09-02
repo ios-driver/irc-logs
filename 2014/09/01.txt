@@ -45,3 +45,4 @@
 [2014-09-01 21:30:34] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-01 21:59:05] operatiay, joining. (#ios-driver)
 [2014-09-01 22:03:40] operatiay, quitting. (Ping timeout: 260 seconds)
+[2014-09-01 23:40:50] admc, joining. (#ios-driver)
