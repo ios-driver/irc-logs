@@ -17,3 +17,5 @@
 [2014-09-02 04:27:30] rodrigomartin, quitting. (Read error: Connection timed out)
 [2014-09-02 04:29:41] rodrigomartin, joining. (#ios-driver)
 [2014-09-02 04:54:16] santiycr1, joining. (#ios-driver)
+[2014-09-02 04:55:49] operatiay: hi francois, what can I do to find an xpath for an element visible on the screen when the inspector is not able to display the structure due to its size?
+[2014-09-02 04:56:07] santiycr, quitting. (Read error: Connection reset by peer)
