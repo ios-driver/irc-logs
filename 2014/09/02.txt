@@ -24,3 +24,4 @@
 [2014-09-02 05:22:20] operatiay: :note freynaud______ hi francois, what can I do to find an xpath for an element visible on the screen when the inspector is not able to display the structure due to its size?
 [2014-09-02 06:44:53] santiycr1, quitting. (Quit: Leaving.)
 [2014-09-02 06:45:18] smccarthy, joining. (#ios-driver)
+[2014-09-02 07:20:01] smccarthy, quitting. (Quit: Leaving...)
