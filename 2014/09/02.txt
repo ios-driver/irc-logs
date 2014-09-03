@@ -60,3 +60,4 @@
 [2014-09-02 16:39:14] smccarthy2, quitting. (Quit: Leaving...)
 [2014-09-02 18:12:15] admc, quitting. (Quit: Leaving.)
 [2014-09-02 18:52:47] smccarthy, joining. (#ios-driver)
+[2014-09-02 20:28:16] santiycr, joining. (#ios-driver)
