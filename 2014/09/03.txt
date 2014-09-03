@@ -40,3 +40,4 @@
 [2014-09-03 11:04:51] rodrigomartin, joining. (#ios-driver)
 [2014-09-03 11:36:50] admc, quitting. (Quit: Leaving.)
 [2014-09-03 11:42:06] admc, joining. (#ios-driver)
+[2014-09-03 11:50:29] admc, quitting. (Quit: Leaving.)
