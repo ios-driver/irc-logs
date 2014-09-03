@@ -66,3 +66,7 @@
 [2014-09-02 21:01:04] santiycr, joining. (#ios-driver)
 [2014-09-02 21:01:38] lukeis1, joining. (#ios-driver)
 [2014-09-02 21:04:39] lukeis, quitting. (Ping timeout: 268 seconds)
+[2014-09-02 21:05:14] lukeis, joining. (#ios-driver)
+[2014-09-02 21:07:57] lukeis1, quitting. (Ping timeout: 240 seconds)
+[2014-09-02 21:09:49] lukeis1, joining. (#ios-driver)
+[2014-09-02 21:09:56] lukeis1, quitting. (Client Quit)
