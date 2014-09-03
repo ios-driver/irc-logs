@@ -32,3 +32,4 @@
 [2014-09-03 09:08:50] nicegraham____, changing nick to nicegraham___.
 [2014-09-03 09:09:31] freynaud______, joining. (#ios-driver)
 [2014-09-03 09:16:02] operatiay, quitting. (Remote host closed the connection)
+[2014-09-03 10:00:43] lukeis, quitting. (Quit: Leaving.)
