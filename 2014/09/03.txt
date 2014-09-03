@@ -15,3 +15,4 @@
 [2014-09-03 03:18:22] santiycr, joining. (#ios-driver)
 [2014-09-03 03:37:17] operatiay: I'm unable to let the ipa being unzipped by ios-driver. when I do it manually it works and proceeds with the execution... has anyone had similar problems?
 [2014-09-03 05:24:17] santiycr1, joining. (#ios-driver)
+[2014-09-03 05:26:21] santiycr, quitting. (Ping timeout: 240 seconds)
