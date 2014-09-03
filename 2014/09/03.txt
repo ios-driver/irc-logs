@@ -3,3 +3,4 @@
 [2014-09-03 00:19:21] santiycr, quitting. (Read error: Connection reset by peer)
 [2014-09-03 00:25:04] santiycr, joining. (#ios-driver)
 [2014-09-03 00:39:40] admc, joining. (#ios-driver)
+[2014-09-03 01:24:00] santiycr, quitting. (Ping timeout: 255 seconds)
