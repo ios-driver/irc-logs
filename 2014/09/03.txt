@@ -1,3 +1,4 @@
 [2014-09-03 00:08:58] operatiay, joining. (#ios-driver)
 [2014-09-03 00:13:58] operatiay, quitting. (Ping timeout: 268 seconds)
 [2014-09-03 00:19:21] santiycr, quitting. (Read error: Connection reset by peer)
+[2014-09-03 00:25:04] santiycr, joining. (#ios-driver)
