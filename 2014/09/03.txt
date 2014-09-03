@@ -59,3 +59,4 @@
 [2014-09-03 14:22:22] rodrigomartin, quitting. (Ping timeout: 240 seconds)
 [2014-09-03 14:23:39] rodrigomartin, joining. (#ios-driver)
 [2014-09-03 14:32:12] rodrigomartin, quitting. (Remote host closed the connection)
+[2014-09-03 15:18:23] operatiay, joining. (#ios-driver)
