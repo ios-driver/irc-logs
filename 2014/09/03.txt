@@ -49,3 +49,4 @@
 [2014-09-03 12:43:02] admc, quitting. (Quit: Leaving.)
 [2014-09-03 12:57:07] admc, joining. (#ios-driver)
 [2014-09-03 12:57:07] admc, quitting. (Client Quit)
+[2014-09-03 13:16:32] rodrigomartin, quitting. (Ping timeout: 245 seconds)
