@@ -73,3 +73,5 @@
 [2014-09-02 21:11:32] lukeis, quitting. (Ping timeout: 245 seconds)
 [2014-09-02 21:21:51] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-02 21:28:06] santiycr, quitting. (Quit: Leaving.)
+[2014-09-02 22:07:25] santiycr, joining. (#ios-driver)
+[2014-09-02 22:08:49] santiycr, quitting. (Client Quit)
