@@ -34,3 +34,4 @@
 [2014-09-04 09:30:15] santiycr, quitting. (Quit: Leaving.)
 [2014-09-04 09:32:35] admc, joining. (#ios-driver)
 [2014-09-04 11:09:11] ddary, joining. (#ios-driver)
+[2014-09-04 11:39:55] ddary, quitting. (Quit: ddary)
