@@ -30,3 +30,4 @@
 [2014-09-04 08:42:39] rodrigomartin, joining. (#ios-driver)
 [2014-09-04 09:13:39] smccarthy, joining. (#ios-driver)
 [2014-09-04 09:14:22] operatiay, quitting. (Remote host closed the connection)
+[2014-09-04 09:23:19] santiycr, joining. (#ios-driver)
