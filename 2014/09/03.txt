@@ -74,3 +74,4 @@
 [2014-09-03 21:07:43] santiycr, quitting. (Client Quit)
 [2014-09-03 23:21:48] operatiay, joining. (#ios-driver)
 [2014-09-03 23:26:06] operatiay, quitting. (Ping timeout: 246 seconds)
+[2014-09-03 23:36:34] admc, joining. (#ios-driver)
