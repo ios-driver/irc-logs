@@ -11,3 +11,4 @@
 [2014-09-04 05:10:56] tkriz, quitting. (Changing host)
 [2014-09-04 05:40:22] operatiay, quitting. (Remote host closed the connection)
 [2014-09-04 05:41:06] operatiay, joining. (#ios-driver)
+[2014-09-04 05:46:53] operatiay, quitting. (Ping timeout: 276 seconds)
