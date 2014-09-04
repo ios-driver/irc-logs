@@ -36,3 +36,4 @@
 [2014-09-04 11:09:11] ddary, joining. (#ios-driver)
 [2014-09-04 11:39:55] ddary, quitting. (Quit: ddary)
 [2014-09-04 11:43:55] admc, quitting. (Quit: Leaving.)
+[2014-09-04 13:16:02] operatiay, joining. (#ios-driver)
