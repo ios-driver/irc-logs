@@ -66,3 +66,4 @@
 [2014-09-03 16:32:30] admc, joining. (#ios-driver)
 [2014-09-03 17:02:14] nicegraham___, quitting. (Ping timeout: 272 seconds)
 [2014-09-03 17:02:20] nicegraham____, joining. (#ios-driver)
+[2014-09-03 17:07:34] smccarthy2, joining. (#ios-driver)
