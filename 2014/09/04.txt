@@ -1,2 +1,3 @@
 [2014-09-04 01:31:31] operatiay, joining. (#ios-driver)
 [2014-09-04 01:46:41] santiycr, joining. (#ios-driver)
+[2014-09-04 01:55:08] admc, quitting. (Quit: Leaving.)
