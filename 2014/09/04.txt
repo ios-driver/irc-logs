@@ -2,3 +2,6 @@
 [2014-09-04 01:46:41] santiycr, joining. (#ios-driver)
 [2014-09-04 01:55:08] admc, quitting. (Quit: Leaving.)
 [2014-09-04 03:28:15] tkriz1, quitting. (Quit: Leaving.)
+[2014-09-04 03:34:27] tkriz, joining. (#ios-driver)
+[2014-09-04 03:34:27] tkriz, quitting. (Changing host)
+[2014-09-04 03:34:27] tkriz, joining. (#ios-driver)
