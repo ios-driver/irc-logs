@@ -5,3 +5,7 @@
 [2014-09-05 02:26:51] iamleeg, joining. (#ios-driver)
 [2014-09-05 03:38:32] iamleeg, quitting. (Ping timeout: 268 seconds)
 [2014-09-05 03:39:19] iamleeg, joining. (#ios-driver)
+[2014-09-05 03:49:45] tkriz1, joining. (#ios-driver)
+[2014-09-05 03:49:46] tkriz1, quitting. (Changing host)
+[2014-09-05 03:49:46] tkriz1, joining. (#ios-driver)
+[2014-09-05 03:49:49] tkriz, quitting. (Read error: Connection reset by peer)
