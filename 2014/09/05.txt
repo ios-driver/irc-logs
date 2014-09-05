@@ -47,3 +47,4 @@
 [2014-09-05 14:38:22] rodrigomartin, quitting. (Remote host closed the connection)
 [2014-09-05 15:12:45] lukeis, quitting. (Quit: Leaving.)
 [2014-09-05 15:18:36] smccarthy, quitting. (Quit: Leaving...)
+[2014-09-05 15:43:49] admc, quitting. (Quit: Leaving.)
