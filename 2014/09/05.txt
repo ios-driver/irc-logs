@@ -3,3 +3,5 @@
 [2014-09-05 01:33:52] operatiay, joining. (#ios-driver)
 [2014-09-05 02:25:12] iamleeg, quitting. (Ping timeout: 252 seconds)
 [2014-09-05 02:26:51] iamleeg, joining. (#ios-driver)
+[2014-09-05 03:38:32] iamleeg, quitting. (Ping timeout: 268 seconds)
+[2014-09-05 03:39:19] iamleeg, joining. (#ios-driver)
