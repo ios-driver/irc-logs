@@ -35,3 +35,4 @@
 [2014-09-05 09:59:53] admc, quitting. (Quit: Leaving.)
 [2014-09-05 10:34:02] rodrigomartin1, joining. (#ios-driver)
 [2014-09-05 10:34:02] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-09-05 11:30:31] operatiay, joining. (#ios-driver)
