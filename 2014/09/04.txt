@@ -42,3 +42,5 @@
 [2014-09-04 14:35:35] rodrigomartin, quitting. (Remote host closed the connection)
 [2014-09-04 16:02:14] lukeis, quitting. (Quit: Leaving.)
 [2014-09-04 16:52:58] smccarthy, quitting. (Quit: Leaving...)
+[2014-09-04 17:17:44] operatiay, joining. (#ios-driver)
+[2014-09-04 17:19:53] admc, quitting. (Quit: Leaving.)
