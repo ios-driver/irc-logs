@@ -9,3 +9,4 @@
 [2014-09-05 03:49:46] tkriz1, quitting. (Changing host)
 [2014-09-05 03:49:46] tkriz1, joining. (#ios-driver)
 [2014-09-05 03:49:49] tkriz, quitting. (Read error: Connection reset by peer)
+[2014-09-05 04:12:16] iamleeg, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
