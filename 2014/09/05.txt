@@ -40,3 +40,5 @@
 [2014-09-05 11:42:00] rodrigomartin, joining. (#ios-driver)
 [2014-09-05 11:45:33] operatiay, quitting. (Remote host closed the connection)
 [2014-09-05 12:22:15] admc, joining. (#ios-driver)
+[2014-09-05 12:45:54] admc, quitting. (Quit: Leaving.)
+[2014-09-05 12:47:53] admc, joining. (#ios-driver)
