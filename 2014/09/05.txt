@@ -25,3 +25,5 @@
 [2014-09-05 07:10:12] iamleeg, quitting. (Client Quit)
 [2014-09-05 07:29:49] smccarthy, quitting. (Read error: Connection reset by peer)
 [2014-09-05 07:30:51] iamleeg, joining. (#ios-driver)
+[2014-09-05 07:48:46] iamleeg, quitting. (Read error: Connection reset by peer)
+[2014-09-05 07:49:26] iamleeg, joining. (#ios-driver)
