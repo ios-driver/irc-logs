@@ -6,3 +6,6 @@
 [2014-09-06 06:33:33] tkriz, quitting. (Quit: Leaving.)
 [2014-09-06 07:53:44] operatiay, joining. (#ios-driver)
 [2014-09-06 07:57:57] operatiay, quitting. (Ping timeout: 246 seconds)
+[2014-09-06 09:57:11] tkriz, joining. (#ios-driver)
+[2014-09-06 09:57:11] tkriz, quitting. (Changing host)
+[2014-09-06 09:57:11] tkriz, joining. (#ios-driver)
