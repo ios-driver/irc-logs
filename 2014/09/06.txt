@@ -4,3 +4,4 @@
 [2014-09-06 03:52:05] operatiay, joining. (#ios-driver)
 [2014-09-06 03:56:37] operatiay, quitting. (Ping timeout: 260 seconds)
 [2014-09-06 06:33:33] tkriz, quitting. (Quit: Leaving.)
+[2014-09-06 07:53:44] operatiay, joining. (#ios-driver)
