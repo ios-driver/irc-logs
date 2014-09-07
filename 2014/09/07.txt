@@ -13,3 +13,4 @@
 [2014-09-07 12:10:27] operatiay, quitting. (Ping timeout: 272 seconds)
 [2014-09-07 13:21:46] nirvdrum, joining. (#ios-driver)
 [2014-09-07 13:40:39] admc, joining. (#ios-driver)
+[2014-09-07 13:54:21] admc, quitting. (Quit: Leaving.)
