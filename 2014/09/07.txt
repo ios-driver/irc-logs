@@ -6,3 +6,4 @@
 [2014-09-07 04:07:20] operatiay, quitting. (Ping timeout: 276 seconds)
 [2014-09-07 04:23:32] Nadav: Hi, I wonder if ios-driver support automation testing of 100% Native applications?
 [2014-09-07 05:09:52] Nadav, quitting. (Ping timeout: 246 seconds)
+[2014-09-07 07:14:36] nirvdrum, joining. (#ios-driver)
