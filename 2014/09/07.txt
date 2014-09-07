@@ -14,3 +14,5 @@
 [2014-09-07 13:21:46] nirvdrum, joining. (#ios-driver)
 [2014-09-07 13:40:39] admc, joining. (#ios-driver)
 [2014-09-07 13:54:21] admc, quitting. (Quit: Leaving.)
+[2014-09-07 14:02:40] nirvdrum_, joining. (#ios-driver)
+[2014-09-07 14:03:13] nirvdrum_, quitting. (Remote host closed the connection)
