@@ -19,3 +19,5 @@
 [2014-09-08 08:31:06] tkriz, joining. (#ios-driver)
 [2014-09-08 08:42:52] lukeis, joining. (#ios-driver)
 [2014-09-08 08:58:18] smccarthy, quitting. (Quit: Leaving...)
+[2014-09-08 09:06:04] admc, joining. (#ios-driver)
+[2014-09-08 09:09:52] lukeis, quitting. (Ping timeout: 240 seconds)
