@@ -18,3 +18,5 @@
 [2014-09-07 14:03:13] nirvdrum_, quitting. (Remote host closed the connection)
 [2014-09-07 16:26:03] nirvdrum, quitting. (Ping timeout: 246 seconds)
 [2014-09-07 16:38:33] nirvdrum, joining. (#ios-driver)
+[2014-09-07 18:39:22] Bijoy, joining. (#ios-driver)
+[2014-09-07 18:39:55] Bijoy, quitting. (Client Quit)
