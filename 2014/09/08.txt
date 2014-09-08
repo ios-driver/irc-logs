@@ -8,3 +8,5 @@
 [2014-09-08 06:37:42] iamleeg, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-09-08 06:39:15] iamleeg, joining. (#ios-driver)
 [2014-09-08 06:42:38] operatiay, quitting. (Remote host closed the connection)
+[2014-09-08 06:57:56] smccarthy, joining. (#ios-driver)
+[2014-09-08 06:58:08] iamleeg, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
