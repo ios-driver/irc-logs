@@ -10,3 +10,4 @@
 [2014-09-08 06:42:38] operatiay, quitting. (Remote host closed the connection)
 [2014-09-08 06:57:56] smccarthy, joining. (#ios-driver)
 [2014-09-08 06:58:08] iamleeg, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-09-08 07:21:40] rodrigomartin, joining. (#ios-driver)
