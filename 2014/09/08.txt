@@ -4,3 +4,4 @@
 [2014-09-08 01:30:29] iamleeg, joining. (#ios-driver)
 [2014-09-08 01:43:04] operatiay, joining. (#ios-driver)
 [2014-09-08 04:16:08] operatiay, quitting. (Remote host closed the connection)
+[2014-09-08 04:27:27] operatiay, joining. (#ios-driver)
