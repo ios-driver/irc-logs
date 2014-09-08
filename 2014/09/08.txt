@@ -37,3 +37,4 @@
 [2014-09-08 13:42:43] rodrigomartin, quitting. (Read error: Connection reset by peer)
 [2014-09-08 13:42:46] rodrigomartin1, joining. (#ios-driver)
 [2014-09-08 15:14:32] rodrigomartin1, quitting. (Remote host closed the connection)
+[2014-09-08 16:05:42] lukeis, quitting. (Ping timeout: 245 seconds)
