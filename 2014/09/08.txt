@@ -33,3 +33,4 @@
 [2014-09-08 11:12:46] admc, quitting. (Quit: Leaving.)
 [2014-09-08 11:35:35] admc, joining. (#ios-driver)
 [2014-09-08 11:40:21] operatiay, joining. (#ios-driver)
+[2014-09-08 11:55:07] operatiay, quitting. (Remote host closed the connection)
