@@ -50,3 +50,5 @@
 [2014-09-09 12:00:50] rodrigomartin, quitting. (Ping timeout: 252 seconds)
 [2014-09-09 12:00:55] rodrigomartin1, joining. (#ios-driver)
 [2014-09-09 12:04:13] admc, quitting. (Quit: Leaving.)
+[2014-09-09 12:17:02] rodrigomartin1, quitting. (Read error: Connection timed out)
+[2014-09-09 12:18:45] rodrigomartin, joining. (#ios-driver)
