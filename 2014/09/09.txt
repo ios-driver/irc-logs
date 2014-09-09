@@ -3,3 +3,5 @@
 [2014-09-09 01:41:54] operatiay, joining. (#ios-driver)
 [2014-09-09 02:00:42] iamleeg, joining. (#ios-driver)
 [2014-09-09 02:02:40] operatiay, quitting. (Remote host closed the connection)
+[2014-09-09 02:20:36] operatiay, joining. (#ios-driver)
+[2014-09-09 02:23:04] iamleeg, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
