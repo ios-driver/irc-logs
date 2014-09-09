@@ -36,3 +36,5 @@
 [2014-09-09 08:01:27] tkriz, quitting. (Ping timeout: 245 seconds)
 [2014-09-09 08:31:04] lukeis, joining. (#ios-driver)
 [2014-09-09 09:10:27] operatiay, joining. (#ios-driver)
+[2014-09-09 09:22:51] lukeis: anyone see an issue building on OSX 10.9.4?  maven + java on it apparently suck…
+[2014-09-09 09:23:15] lukeis: works fine on my 10.8.5 box… but not on mavericks :-/
