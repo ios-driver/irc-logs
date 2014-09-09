@@ -29,3 +29,4 @@
 [2014-09-09 06:55:53] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-09-09 07:00:08] rodrigomartin, joining. (#ios-driver)
 [2014-09-09 07:04:27] rodrigomartin, quitting. (Ping timeout: 246 seconds)
+[2014-09-09 07:05:22] rodrigomartin, joining. (#ios-driver)
