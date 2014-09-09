@@ -38,3 +38,5 @@
 [2014-09-09 09:10:27] operatiay, joining. (#ios-driver)
 [2014-09-09 09:22:51] lukeis: anyone see an issue building on OSX 10.9.4?  maven + java on it apparently suck…
 [2014-09-09 09:23:15] lukeis: works fine on my 10.8.5 box… but not on mavericks :-/
+[2014-09-09 09:26:08] operatiay, quitting. (Remote host closed the connection)
+[2014-09-09 09:29:55] smccarthy, joining. (#ios-driver)
