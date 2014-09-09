@@ -19,3 +19,4 @@
 [2014-09-09 04:36:59] Guest63388: though i have given all the permissions to the application
 [2014-09-09 04:39:21] Guest63388: i updated the xcode version to 5.1 and using iosserver 0.6.6 after this i am getting error, earlier it was working fine
 [2014-09-09 04:46:57] operatiay, quitting. (Remote host closed the connection)
+[2014-09-09 05:11:41] Guest63388, quitting. (Ping timeout: 260 seconds)
