@@ -1,1 +1,2 @@
 [2014-09-09 00:04:50] operatiay, quitting. (Ping timeout: 268 seconds)
+[2014-09-09 00:50:02] admc, quitting. (Quit: Leaving.)
