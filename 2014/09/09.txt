@@ -5,3 +5,7 @@
 [2014-09-09 02:02:40] operatiay, quitting. (Remote host closed the connection)
 [2014-09-09 02:20:36] operatiay, joining. (#ios-driver)
 [2014-09-09 02:23:04] iamleeg, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-09-09 04:04:09] ios-driver-git, joining. (#ios-driver)
+[2014-09-09 04:04:09] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to teardown: http://git.io/6pJh6g
+[2014-09-09 04:04:09] ios-driver-git: ios-driver/teardown 8f4fb49 freynaud: updating the standalone creation to add commit id
+[2014-09-09 04:04:09] ios-driver-git, leaving. (#ios-driver)
