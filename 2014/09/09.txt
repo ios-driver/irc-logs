@@ -1,3 +1,5 @@
 [2014-09-09 00:04:50] operatiay, quitting. (Ping timeout: 268 seconds)
 [2014-09-09 00:50:02] admc, quitting. (Quit: Leaving.)
 [2014-09-09 01:41:54] operatiay, joining. (#ios-driver)
+[2014-09-09 02:00:42] iamleeg, joining. (#ios-driver)
+[2014-09-09 02:02:40] operatiay, quitting. (Remote host closed the connection)
