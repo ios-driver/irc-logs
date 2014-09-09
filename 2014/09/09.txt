@@ -9,3 +9,5 @@
 [2014-09-09 04:04:09] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to teardown: http://git.io/6pJh6g
 [2014-09-09 04:04:09] ios-driver-git: ios-driver/teardown 8f4fb49 freynaud: updating the standalone creation to add commit id
 [2014-09-09 04:04:09] ios-driver-git, leaving. (#ios-driver)
+[2014-09-09 04:20:30] operatiay, quitting. (Remote host closed the connection)
+[2014-09-09 04:20:52] operatiay, joining. (#ios-driver)
