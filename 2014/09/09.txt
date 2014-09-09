@@ -11,3 +11,7 @@
 [2014-09-09 04:04:09] ios-driver-git, leaving. (#ios-driver)
 [2014-09-09 04:20:30] operatiay, quitting. (Remote host closed the connection)
 [2014-09-09 04:20:52] operatiay, joining. (#ios-driver)
+[2014-09-09 04:32:16] Aman, joining. (#ios-driver)
+[2014-09-09 04:32:40] Aman, changing nick to Guest63388.
+[2014-09-09 04:33:22] Guest63388: Hi
+[2014-09-09 04:34:48] Guest63388: I tried excuting java -jar ios-server.jar -path 4444 on command promt, but got the error
