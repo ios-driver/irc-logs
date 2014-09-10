@@ -66,3 +66,4 @@
 [2014-09-09 16:21:01] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-09 18:03:18] lukeis, joining. (#ios-driver)
 [2014-09-09 18:07:26] smccarthy, joining. (#ios-driver)
+[2014-09-09 19:26:50] admc, quitting. (Quit: Leaving.)
