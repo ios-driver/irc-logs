@@ -24,3 +24,4 @@
 [2014-09-10 06:04:51] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/-ToE9Q
 [2014-09-10 06:04:51] ios-driver-git: ios-driver/dev b910a5d freynaud: really slow test. Do not need to be run by the CI
 [2014-09-10 06:04:51] ios-driver-git, leaving. (#ios-driver)
+[2014-09-10 06:38:08] operatiay, quitting. (Remote host closed the connection)
