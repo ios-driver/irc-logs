@@ -34,3 +34,7 @@
 [2014-09-10 09:27:00] smccarthy, joining. (#ios-driver)
 [2014-09-10 09:28:58] lukeis: another pro tip: when installing a new version of Xcode, always run it first to agree to all the licensing stuff and get any extra downloads it wants
 [2014-09-10 09:54:34] admc, joining. (#ios-driver)
+[2014-09-10 11:10:36] ios-driver-git, joining. (#ios-driver)
+[2014-09-10 11:10:36] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/L_309w
+[2014-09-10 11:10:36] ios-driver-git, leaving. (#ios-driver)
+[2014-09-10 11:10:36] ios-driver-git: ios-driver/dev 659ecaf freynaud: cleaning up exception handling, logging everything
