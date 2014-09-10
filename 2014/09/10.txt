@@ -44,3 +44,6 @@
 [2014-09-10 16:11:50] admc, joining. (#ios-driver)
 [2014-09-10 16:13:12] lukeis: i'll say that again for admc, i mostly have iOS8 working locally now :)
 [2014-09-10 16:14:48] lukeis: but dammit, it keeps going to 'apple.com' when it first launches!
+[2014-09-10 16:31:58] admc: :) nice
+[2014-09-10 16:32:08] admc: oh yeah that is a problem we are dealing with, with customers
+[2014-09-10 16:32:19] admc: I think..
