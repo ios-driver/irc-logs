@@ -74,3 +74,4 @@
 [2014-09-09 20:53:05] lukeis, quitting. (Quit: Leaving.)
 [2014-09-09 21:40:15] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-09 22:58:40] admc, joining. (#ios-driver)
+[2014-09-09 23:01:27] admc, quitting. (Client Quit)
