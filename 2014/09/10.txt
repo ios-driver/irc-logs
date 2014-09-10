@@ -33,3 +33,4 @@
 [2014-09-10 08:45:49] lukeis: protip: delete ~/.ios-driver/safariCopies  when you upgrade Xcode ;)
 [2014-09-10 09:27:00] smccarthy, joining. (#ios-driver)
 [2014-09-10 09:28:58] lukeis: another pro tip: when installing a new version of Xcode, always run it first to agree to all the licensing stuff and get any extra downloads it wants
+[2014-09-10 09:54:34] admc, joining. (#ios-driver)
