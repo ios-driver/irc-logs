@@ -64,3 +64,4 @@
 [2014-09-09 15:33:32] operatiay, quitting. (Ping timeout: 268 seconds)
 [2014-09-09 15:41:37] iamleeg, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-09-09 16:21:01] smccarthy, quitting. (Quit: Leaving...)
+[2014-09-09 18:03:18] lukeis, joining. (#ios-driver)
