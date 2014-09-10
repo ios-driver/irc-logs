@@ -4,3 +4,9 @@
 [2014-09-10 01:10:01] admc, joining. (#ios-driver)
 [2014-09-10 01:48:50] admc, quitting. (Quit: Leaving.)
 [2014-09-10 04:02:33] operatiay, quitting. (Remote host closed the connection)
+[2014-09-10 04:28:00] ios-driver-git, joining. (#ios-driver)
+[2014-09-10 04:28:00] ios-driver-git: [ios-driver] freynaud pushed 4 new commits to teardown: http://git.io/L_-1Lw
+[2014-09-10 04:28:00] ios-driver-git: ios-driver/teardown 195bd4b freynaud: returning the correct status code for exceptions.
+[2014-09-10 04:28:00] ios-driver-git: ios-driver/teardown ca6133b freynaud: the dual logic has change, webdriver!= null doesn't mean a webview has been detected.
+[2014-09-10 04:28:00] ios-driver-git: ios-driver/teardown f7f1d51 freynaud: fixing test using hardcoded value instead of variable
+[2014-09-10 04:28:00] ios-driver-git, leaving. (#ios-driver)
