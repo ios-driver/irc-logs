@@ -17,3 +17,4 @@
 [2014-09-10 04:57:25] ios-driver-git: ios-driver/dev 7fcbb14 freynaud:  some maven hell to reduce the size of the standalone jar after adding a dependency to selenium
 [2014-09-10 04:57:25] ios-driver-git: ios-driver/dev b6f7137 freynaud: server shuts down and triggers hooks to be implemented for the hub to know about it.
 [2014-09-10 04:57:25] ios-driver-git, leaving. (#ios-driver)
+[2014-09-10 05:20:15] operatiay, quitting. (Remote host closed the connection)
