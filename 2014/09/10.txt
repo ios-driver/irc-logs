@@ -30,3 +30,4 @@
 [2014-09-10 06:48:12] rodrigomartin, quitting. (Ping timeout: 245 seconds)
 [2014-09-10 08:08:43] lukeis, joining. (#ios-driver)
 [2014-09-10 08:33:42] *lukeis downloading Xcode6 "GM seed" now'
+[2014-09-10 08:45:49] lukeis: protip: delete ~/.ios-driver/safariCopies  when you upgrade Xcode ;)
