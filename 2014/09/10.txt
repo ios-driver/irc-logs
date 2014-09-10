@@ -38,3 +38,4 @@
 [2014-09-10 11:10:36] ios-driver-git: [ios-driver] freynaud pushed 1 new commit to dev: http://git.io/L_309w
 [2014-09-10 11:10:36] ios-driver-git, leaving. (#ios-driver)
 [2014-09-10 11:10:36] ios-driver-git: ios-driver/dev 659ecaf freynaud: cleaning up exception handling, logging everything
+[2014-09-10 11:33:26] admc, quitting. (Quit: Leaving.)
