@@ -71,3 +71,4 @@
 [2014-09-09 19:34:50] operatiay, quitting. (Ping timeout: 272 seconds)
 [2014-09-09 19:39:52] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2014-09-09 20:11:49] lukeis: in case any of you guys come back and read this… my mavericks issue was due to using the latest version of Maven, downgraded to 3.0 and things started "working" again…. now i'm hacking away at using xcode6-beta7. I got things "working" but not yet reliably ;)
+[2014-09-09 20:53:05] lukeis, quitting. (Quit: Leaving.)
