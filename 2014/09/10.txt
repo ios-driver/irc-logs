@@ -10,3 +10,4 @@
 [2014-09-10 04:28:00] ios-driver-git: ios-driver/teardown ca6133b freynaud: the dual logic has change, webdriver!= null doesn't mean a webview has been detected.
 [2014-09-10 04:28:00] ios-driver-git: ios-driver/teardown f7f1d51 freynaud: fixing test using hardcoded value instead of variable
 [2014-09-10 04:28:00] ios-driver-git, leaving. (#ios-driver)
+[2014-09-10 04:47:02] operatiay, joining. (#ios-driver)
