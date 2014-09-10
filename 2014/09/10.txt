@@ -39,3 +39,5 @@
 [2014-09-10 11:10:36] ios-driver-git, leaving. (#ios-driver)
 [2014-09-10 11:10:36] ios-driver-git: ios-driver/dev 659ecaf freynaud: cleaning up exception handling, logging everything
 [2014-09-10 11:33:26] admc, quitting. (Quit: Leaving.)
+[2014-09-10 15:46:33] lukeis: freynaud______: once iOS8 is 'working' in dev, you should really create another release :)
+[2014-09-10 15:46:50] *lukeis has it mostly working locally now'
