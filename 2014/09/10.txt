@@ -41,3 +41,6 @@
 [2014-09-10 11:33:26] admc, quitting. (Quit: Leaving.)
 [2014-09-10 15:46:33] lukeis: freynaud______: once iOS8 is 'working' in dev, you should really create another release :)
 [2014-09-10 15:46:50] *lukeis has it mostly working locally now'
+[2014-09-10 16:11:50] admc, joining. (#ios-driver)
+[2014-09-10 16:13:12] lukeis: i'll say that again for admc, i mostly have iOS8 working locally now :)
+[2014-09-10 16:14:48] lukeis: but dammit, it keeps going to 'apple.com' when it first launches!
