@@ -70,3 +70,4 @@
 [2014-09-11 13:48:55] nirvdrum_, joining. (#ios-driver)
 [2014-09-11 14:22:24] elstif, joining. (#ios-driver)
 [2014-09-11 14:25:24] elstif, quitting. (Client Quit)
+[2014-09-11 14:42:16] rodrigomartin, quitting. (Quit: Leaving.)
