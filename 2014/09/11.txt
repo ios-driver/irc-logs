@@ -11,3 +11,4 @@
 [2014-09-11 05:24:44] operatiay, joining. (#ios-driver)
 [2014-09-11 05:29:14] operatiay, quitting. (Ping timeout: 255 seconds)
 [2014-09-11 05:53:43] elstif, quitting. (Read error: Connection reset by peer)
+[2014-09-11 05:58:23] elstif, joining. (#ios-driver)
