@@ -41,3 +41,4 @@
 [2014-09-11 09:24:57] nirvdrum_, quitting. (Ping timeout: 246 seconds)
 [2014-09-11 09:27:56] operatia_, quitting. (Remote host closed the connection)
 [2014-09-11 09:28:30] operatiay, joining. (#ios-driver)
+[2014-09-11 09:37:51] santiycr, quitting. (Quit: Leaving.)
