@@ -68,3 +68,4 @@
 [2014-09-10 21:56:33] nirvdrum, quitting. (Ping timeout: 255 seconds)
 [2014-09-10 22:11:12] admc, joining. (#ios-driver)
 [2014-09-10 22:14:27] monica242, joining. (#ios-driver)
+[2014-09-10 22:23:09] lukeis, quitting. (Ping timeout: 260 seconds)
