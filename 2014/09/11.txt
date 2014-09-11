@@ -8,3 +8,4 @@
 [2014-09-11 02:32:21] santiycr, quitting. (Ping timeout: 264 seconds)
 [2014-09-11 03:24:07] operatia_, quitting. (Remote host closed the connection)
 [2014-09-11 04:04:25] elstif, joining. (#ios-driver)
+[2014-09-11 05:24:44] operatiay, joining. (#ios-driver)
