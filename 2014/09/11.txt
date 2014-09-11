@@ -22,3 +22,6 @@
 [2014-09-11 09:03:22] lukeis, joining. (#ios-driver)
 [2014-09-11 09:03:51] lukeis, quitting. (Client Quit)
 [2014-09-11 09:06:03] lukeis, joining. (#ios-driver)
+[2014-09-11 09:15:29] smccarthy, joining. (#ios-driver)
+[2014-09-11 09:17:03] nirvdrum_, joining. (#ios-driver)
+[2014-09-11 09:18:32] nirvdrum, quitting. (Ping timeout: 245 seconds)
