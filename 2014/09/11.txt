@@ -63,3 +63,7 @@
 [2014-09-11 13:29:30] nirvdrum_, joining. (#ios-driver)
 [2014-09-11 13:31:52] nirvdrum, quitting. (Ping timeout: 240 seconds)
 [2014-09-11 13:33:19] smccarthy2, quitting. (Remote host closed the connection)
+[2014-09-11 13:41:32] elstif, quitting. (Quit: Leaving.)
+[2014-09-11 13:41:32] rodrigomartin, joining. (#ios-driver)
+[2014-09-11 13:42:33] nirvdrum_, quitting. (Ping timeout: 263 seconds)
+[2014-09-11 13:43:05] smccarthy, joining. (#ios-driver)
