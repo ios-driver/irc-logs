@@ -71,3 +71,4 @@
 [2014-09-11 14:22:24] elstif, joining. (#ios-driver)
 [2014-09-11 14:25:24] elstif, quitting. (Client Quit)
 [2014-09-11 14:42:16] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-09-11 15:02:07] lukeis, quitting. (Quit: Leaving.)
