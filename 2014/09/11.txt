@@ -25,3 +25,17 @@
 [2014-09-11 09:15:29] smccarthy, joining. (#ios-driver)
 [2014-09-11 09:17:03] nirvdrum_, joining. (#ios-driver)
 [2014-09-11 09:18:32] nirvdrum, quitting. (Ping timeout: 245 seconds)
+[2014-09-11 09:21:42] ios-driver-git, joining. (#ios-driver)
+[2014-09-11 09:21:42] ios-driver-git: [ios-driver] iamleeg opened pull request #287: Updates for Xcode 6 GM. (mehdi/ios-8...xcode-6-gm) http://git.io/wds-Uw
+[2014-09-11 09:21:42] ios-driver-git, leaving. (#ios-driver)
+[2014-09-11 09:22:51] 7YUAAPTJQ, joining. (#ios-driver)
+[2014-09-11 09:22:51] 7YUAAPTJQ: [ios-driver] mmmulani closed pull request #287: Updates for Xcode 6 GM. (mehdi/ios-8...xcode-6-gm) http://git.io/wds-Uw
+[2014-09-11 09:22:51] 77CAAE714, joining. (#ios-driver)
+[2014-09-11 09:22:51] 77CAAE714: [ios-driver] mmmulani pushed 2 new commits to mehdi/ios-8: http://git.io/nAMZoQ
+[2014-09-11 09:22:51] 7YUAAPTJQ, leaving. (#ios-driver)
+[2014-09-11 09:22:51] 77CAAE714, leaving. (#ios-driver)
+[2014-09-11 09:22:51] 77CAAE714: ios-driver/mehdi/ios-8 8b89f23 Graham Lee: Updates for Xcode 6 GM....
+[2014-09-11 09:22:51] 77CAAE714: ios-driver/mehdi/ios-8 ccff68f mmmulani: Merge pull request #287 from iamleeg/xcode-6-gm...
+[2014-09-11 09:23:47] nirvdrum__, joining. (#ios-driver)
+[2014-09-11 09:24:15] lukeis: wonder if they are seeing the same issue with apple.com loading… who is iamleeg? :)
+[2014-09-11 09:24:57] nirvdrum_, quitting. (Ping timeout: 246 seconds)
