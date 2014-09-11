@@ -75,3 +75,4 @@
 [2014-09-10 23:14:29] monica242, quitting. (Ping timeout: 260 seconds)
 [2014-09-10 23:23:27] monica036, joining. (#ios-driver)
 [2014-09-10 23:37:10] admc, joining. (#ios-driver)
+[2014-09-10 23:45:29] admc, leaving. (#ios-driver)
