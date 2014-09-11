@@ -53,3 +53,5 @@
 [2014-09-11 11:37:06] elstif, joining. (#ios-driver)
 [2014-09-11 11:46:49] ddary, joining. (#ios-driver)
 [2014-09-11 12:04:18] smccarthy2, joining. (#ios-driver)
+[2014-09-11 12:07:19] elstif, quitting. (Quit: Leaving.)
+[2014-09-11 12:07:58] smccarthy, quitting. (Ping timeout: 252 seconds)
