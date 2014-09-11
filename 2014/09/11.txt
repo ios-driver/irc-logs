@@ -16,3 +16,5 @@
 [2014-09-11 06:02:57] elstif, quitting. (Ping timeout: 268 seconds)
 [2014-09-11 06:28:29] elstif, joining. (#ios-driver)
 [2014-09-11 07:06:22] operatiay, joining. (#ios-driver)
+[2014-09-11 07:22:28] operatia_, joining. (#ios-driver)
+[2014-09-11 07:24:54] operatiay, quitting. (Ping timeout: 255 seconds)
