@@ -5,3 +5,4 @@
 [2014-09-11 01:05:33] monica036, quitting. (Ping timeout: 260 seconds)
 [2014-09-11 02:16:35] operatia_, joining. (#ios-driver)
 [2014-09-11 02:17:57] operatiay, quitting. (Ping timeout: 264 seconds)
+[2014-09-11 02:32:21] santiycr, quitting. (Ping timeout: 264 seconds)
