@@ -37,3 +37,4 @@
 [2014-09-12 12:21:27] nirvdrum, quitting. (Ping timeout: 255 seconds)
 [2014-09-12 12:33:02] nirvdrum, joining. (#ios-driver)
 [2014-09-12 12:38:06] nirvdrum_, joining. (#ios-driver)
+[2014-09-12 12:41:14] nirvdrum, quitting. (Ping timeout: 252 seconds)
