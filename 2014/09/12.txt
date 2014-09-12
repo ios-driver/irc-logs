@@ -13,3 +13,5 @@
 [2014-09-12 06:25:28] elstif, joining. (#ios-driver)
 [2014-09-12 06:40:51] operatiay, quitting. (Remote host closed the connection)
 [2014-09-12 06:57:07] sam177, quitting. (Quit: irc2go)
+[2014-09-12 07:01:33] rodrigomartin1, joining. (#ios-driver)
+[2014-09-12 07:01:57] rodrigomartin, quitting. (Quit: Leaving.)
