@@ -32,3 +32,4 @@
 [2014-09-12 09:40:11] tkriz, quitting. (Ping timeout: 276 seconds)
 [2014-09-12 09:57:42] nirvdrum, quitting. (Ping timeout: 252 seconds)
 [2014-09-12 10:06:08] Ragnaroek, quitting. (Ping timeout: 252 seconds)
+[2014-09-12 10:17:22] nirvdrum, joining. (#ios-driver)
