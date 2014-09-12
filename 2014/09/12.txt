@@ -48,3 +48,5 @@
 [2014-09-12 15:18:53] freynaud______, quitting. (*.net *.split)
 [2014-09-12 15:27:41] freynaud______, joining. (#ios-driver)
 [2014-09-12 15:32:25] smccarthy, joining. (#ios-driver)
+[2014-09-12 15:38:08] freynaud______, quitting. (*.net *.split)
+[2014-09-12 15:38:13] 16WAAFY0D, quitting. (*.net *.split)
