@@ -73,3 +73,4 @@
 [2014-09-11 14:42:16] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-09-11 15:02:07] lukeis, quitting. (Quit: Leaving.)
 [2014-09-11 16:19:29] smccarthy, quitting. (Quit: Leaving...)
+[2014-09-11 16:59:09] tkriz1, quitting. (Read error: No route to host)
