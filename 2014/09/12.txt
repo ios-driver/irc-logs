@@ -23,3 +23,4 @@
 [2014-09-12 08:06:54] 16WAAFY0D, joining. (#ios-driver)
 [2014-09-12 08:24:34] nirvdrum, quitting. (Ping timeout: 264 seconds)
 [2014-09-12 08:27:04] nirvdrum, joining. (#ios-driver)
+[2014-09-12 08:31:49] nirvdrum, quitting. (Ping timeout: 260 seconds)
