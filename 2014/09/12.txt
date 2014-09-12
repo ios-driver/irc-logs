@@ -18,3 +18,6 @@
 [2014-09-12 07:45:06] rodrigomartin1, quitting. (Ping timeout: 246 seconds)
 [2014-09-12 07:45:30] rodrigomartin, joining. (#ios-driver)
 [2014-09-12 07:58:44] nirvdrum, joining. (#ios-driver)
+[2014-09-12 08:05:12] rodrigomartin, quitting. (Read error: Connection reset by peer)
+[2014-09-12 08:06:54] 7JTAAVN6Y, joining. (#ios-driver)
+[2014-09-12 08:06:54] 16WAAFY0D, joining. (#ios-driver)
