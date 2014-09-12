@@ -15,3 +15,5 @@
 [2014-09-12 06:57:07] sam177, quitting. (Quit: irc2go)
 [2014-09-12 07:01:33] rodrigomartin1, joining. (#ios-driver)
 [2014-09-12 07:01:57] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-09-12 07:45:06] rodrigomartin1, quitting. (Ping timeout: 246 seconds)
+[2014-09-12 07:45:30] rodrigomartin, joining. (#ios-driver)
