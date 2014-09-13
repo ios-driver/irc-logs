@@ -69,3 +69,4 @@
 [2014-09-12 18:38:20] smccarthy2, quitting. (Read error: Connection timed out)
 [2014-09-12 19:41:45] nirvdrum, joining. (#ios-driver)
 [2014-09-12 20:18:50] nirvdrum, quitting. (Ping timeout: 252 seconds)
+[2014-09-12 21:58:31] smccarthy, joining. (#ios-driver)
