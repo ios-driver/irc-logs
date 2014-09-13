@@ -14,3 +14,4 @@
 [2014-09-13 04:55:22] Ragnaroek, quitting. (Ping timeout: 250 seconds)
 [2014-09-13 05:31:52] nirvdrum, joining. (#ios-driver)
 [2014-09-13 05:37:16] nirvdrum, quitting. (Ping timeout: 252 seconds)
+[2014-09-13 07:38:39] smccarthy, joining. (#ios-driver)
