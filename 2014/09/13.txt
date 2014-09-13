@@ -22,3 +22,5 @@
 [2014-09-13 08:53:08] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-13 09:02:50] Ragnaroek, joining. (#ios-driver)
 [2014-09-13 10:25:27] smccarthy, joining. (#ios-driver)
+[2014-09-13 10:45:41] ddary, joining. (#ios-driver)
+[2014-09-13 10:47:42] Ragnaroek, quitting. (Ping timeout: 246 seconds)
