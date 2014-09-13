@@ -60,3 +60,4 @@
 [2014-09-12 17:18:08] freynaud_______, joining. (#ios-driver)
 [2014-09-12 17:21:31] freynaud______, quitting. (Ping timeout: 272 seconds)
 [2014-09-12 17:21:37] freynaud_______, changing nick to freynaud______.
+[2014-09-12 17:54:15] freynaud_______, joining. (#ios-driver)
