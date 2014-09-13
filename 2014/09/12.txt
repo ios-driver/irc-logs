@@ -57,3 +57,4 @@
 [2014-09-12 16:18:18] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-12 16:59:27] freynaud______, quitting. (Changing host)
 [2014-09-12 16:59:27] freynaud______, joining. (#ios-driver)
+[2014-09-12 17:18:08] freynaud_______, joining. (#ios-driver)
