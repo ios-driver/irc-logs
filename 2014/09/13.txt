@@ -18,3 +18,4 @@
 [2014-09-13 08:11:50] ddary, joining. (#ios-driver)
 [2014-09-13 08:42:35] Ragnaroek, joining. (#ios-driver)
 [2014-09-13 08:42:47] ddary, leaving. (#ios-driver)
+[2014-09-13 08:48:32] Ragnaroek, quitting. (Ping timeout: 245 seconds)
