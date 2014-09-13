@@ -66,3 +66,4 @@
 [2014-09-12 18:07:08] freynaud_______, changing nick to freynaud______.
 [2014-09-12 18:29:29] smccarthy2, joining. (#ios-driver)
 [2014-09-12 18:32:12] smccarthy, quitting. (Ping timeout: 276 seconds)
+[2014-09-12 18:38:20] smccarthy2, quitting. (Read error: Connection timed out)
