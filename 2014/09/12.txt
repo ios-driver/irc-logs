@@ -70,3 +70,5 @@
 [2014-09-12 19:41:45] nirvdrum, joining. (#ios-driver)
 [2014-09-12 20:18:50] nirvdrum, quitting. (Ping timeout: 252 seconds)
 [2014-09-12 21:58:31] smccarthy, joining. (#ios-driver)
+[2014-09-12 22:03:36] freynaud______, quitting. (Changing host)
+[2014-09-12 22:03:36] freynaud______, joining. (#ios-driver)
