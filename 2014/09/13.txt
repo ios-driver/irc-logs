@@ -3,3 +3,5 @@
 [2014-09-13 01:11:47] tkriz, joining. (#ios-driver)
 [2014-09-13 01:11:47] tkriz, quitting. (Changing host)
 [2014-09-13 01:11:47] tkriz, joining. (#ios-driver)
+[2014-09-13 02:01:06] freynaud_______, quitting. (Read error: Connection reset by peer)
+[2014-09-13 02:01:34] freynaud_______, joining. (#ios-driver)
