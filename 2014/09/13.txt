@@ -1,2 +1,5 @@
 [2014-09-13 00:13:16] nicegraham____, joining. (#ios-driver)
 [2014-09-13 00:13:17] freynaud_______, joining. (#ios-driver)
+[2014-09-13 01:11:47] tkriz, joining. (#ios-driver)
+[2014-09-13 01:11:47] tkriz, quitting. (Changing host)
+[2014-09-13 01:11:47] tkriz, joining. (#ios-driver)
