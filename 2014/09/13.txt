@@ -34,3 +34,5 @@
 [2014-09-13 12:17:23] ddary, quitting. (Client Quit)
 [2014-09-13 12:21:46] ddary, joining. (#ios-driver)
 [2014-09-13 12:40:55] ddary, quitting. (Quit: ddary)
+[2014-09-13 12:55:38] AutomatedTester, quitting. (Changing host)
+[2014-09-13 12:55:39] AutomatedTester, joining. (#ios-driver)
