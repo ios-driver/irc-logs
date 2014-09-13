@@ -6,3 +6,6 @@
 [2014-09-13 02:01:06] freynaud_______, quitting. (Read error: Connection reset by peer)
 [2014-09-13 02:01:34] freynaud_______, joining. (#ios-driver)
 [2014-09-13 02:10:22] tkriz, quitting. (Quit: Leaving.)
+[2014-09-13 02:21:07] tkriz, joining. (#ios-driver)
+[2014-09-13 02:21:08] tkriz, quitting. (Changing host)
+[2014-09-13 02:21:08] tkriz, joining. (#ios-driver)
