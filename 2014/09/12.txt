@@ -75,3 +75,5 @@
 [2014-09-12 22:33:14] nicegraham____, quitting. (Ping timeout: 260 seconds)
 [2014-09-12 22:33:49] freynaud______, quitting. (Ping timeout: 272 seconds)
 [2014-09-12 23:03:35] smccarthy, quitting. (Quit: Leaving...)
+[2014-09-12 23:20:44] ddary, joining. (#ios-driver)
+[2014-09-12 23:21:22] ddary, leaving. (#ios-driver)
