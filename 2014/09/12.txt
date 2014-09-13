@@ -65,3 +65,4 @@
 [2014-09-12 18:06:57] freynaud______, quitting. (Ping timeout: 268 seconds)
 [2014-09-12 18:07:08] freynaud_______, changing nick to freynaud______.
 [2014-09-12 18:29:29] smccarthy2, joining. (#ios-driver)
+[2014-09-12 18:32:12] smccarthy, quitting. (Ping timeout: 276 seconds)
