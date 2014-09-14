@@ -44,3 +44,4 @@
 [2014-09-13 14:40:50] tkriz, quitting. (Quit: Leaving.)
 [2014-09-13 17:32:05] smccarthy, joining. (#ios-driver)
 [2014-09-13 18:28:27] smccarthy, quitting. (Quit: Leaving...)
+[2014-09-13 22:15:35] smccarthy, joining. (#ios-driver)
