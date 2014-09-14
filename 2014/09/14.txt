@@ -6,3 +6,4 @@
 [2014-09-14 06:55:49] ddary, quitting. (Quit: ddary)
 [2014-09-14 08:33:30] nirvdrum_, joining. (#ios-driver)
 [2014-09-14 09:48:09] smccarthy, joining. (#ios-driver)
+[2014-09-14 11:59:46] nirvdrum__, joining. (#ios-driver)
