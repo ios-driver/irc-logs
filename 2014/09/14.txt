@@ -8,3 +8,4 @@
 [2014-09-14 09:48:09] smccarthy, joining. (#ios-driver)
 [2014-09-14 11:59:46] nirvdrum__, joining. (#ios-driver)
 [2014-09-14 12:03:00] nirvdrum_, quitting. (Ping timeout: 272 seconds)
+[2014-09-14 12:14:08] nirvdrum__, changing nick to nirvdrum.
