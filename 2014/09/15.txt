@@ -6,3 +6,4 @@
 [2014-09-15 02:44:53] operatiay, joining. (#ios-driver)
 [2014-09-15 03:07:23] dgrace__, joining. (#ios-driver)
 [2014-09-15 05:53:46] operatiay, quitting. (Remote host closed the connection)
+[2014-09-15 06:09:26] operatiay, joining. (#ios-driver)
