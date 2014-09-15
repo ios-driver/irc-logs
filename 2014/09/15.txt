@@ -9,3 +9,4 @@
 [2014-09-15 06:09:26] operatiay, joining. (#ios-driver)
 [2014-09-15 06:23:23] elstif, joining. (#ios-driver)
 [2014-09-15 06:44:43] rodrigomartin, joining. (#ios-driver)
+[2014-09-15 06:52:03] rodrigomartin, quitting. (Ping timeout: 255 seconds)
