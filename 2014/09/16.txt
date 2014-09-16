@@ -4,3 +4,4 @@
 [2014-09-16 01:36:32] ios-driver-git, leaving. (#ios-driver)
 [2014-09-16 01:45:53] operatiay, joining. (#ios-driver)
 [2014-09-16 02:24:29] dgrace__, quitting. (Quit: Connection closed for inactivity)
+[2014-09-16 03:19:43] operatiay, quitting. (Remote host closed the connection)
