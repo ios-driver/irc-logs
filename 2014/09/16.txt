@@ -28,3 +28,4 @@
 [2014-09-16 09:24:36] rodrigomartin, quitting. (Read error: Connection timed out)
 [2014-09-16 09:25:36] rodrigomartin, joining. (#ios-driver)
 [2014-09-16 09:29:27] elstif, quitting. (Quit: Leaving.)
+[2014-09-16 10:12:30] rodrigomartin, quitting. (Remote host closed the connection)
