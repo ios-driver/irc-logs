@@ -32,3 +32,4 @@
 [2014-09-16 10:39:10] ddary, joining. (#ios-driver)
 [2014-09-16 11:21:35] ddary, leaving. (#ios-driver)
 [2014-09-16 14:27:02] lukeis, quitting. (Quit: Leaving.)
+[2014-09-16 15:23:11] operatiay, joining. (#ios-driver)
