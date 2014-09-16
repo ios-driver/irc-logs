@@ -13,3 +13,4 @@
 [2014-09-16 05:15:51] nirvdrum, joining. (#ios-driver)
 [2014-09-16 05:16:39] nirvdrum, quitting. (Read error: Connection reset by peer)
 [2014-09-16 05:28:29] nirvdrum, joining. (#ios-driver)
+[2014-09-16 06:03:47] operatiay, joining. (#ios-driver)
