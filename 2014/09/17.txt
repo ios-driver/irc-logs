@@ -26,3 +26,9 @@
 [2014-09-17 09:03:28] nirvdrum_, changing nick to nirvdrum.
 [2014-09-17 09:28:09] elstif, quitting. (Quit: Leaving.)
 [2014-09-17 09:38:05] rodrigomartin, joining. (#ios-driver)
+[2014-09-17 10:00:44] jlipps, quitting. (Ping timeout: 260 seconds)
+[2014-09-17 10:00:56] tkriz, quitting. (*.net *.split)
+[2014-09-17 10:01:58] tkriz, joining. (#ios-driver)
+[2014-09-17 10:02:20] lukeis, quitting. (*.net *.split)
+[2014-09-17 10:02:58] lukeis, joining. (#ios-driver)
+[2014-09-17 10:03:03] jlipps, joining. (#ios-driver)
