@@ -72,3 +72,4 @@
 [2014-09-17 14:11:41] lukeis, quitting. (Ping timeout: 260 seconds)
 [2014-09-17 14:22:07] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-17 14:22:41] rodrigomartin, quitting. (Ping timeout: 272 seconds)
+[2014-09-17 14:29:08] luke-schwarz: my current hunch is that I'm not specifiying the capabilities correctly when I register as a node. How is this handled in ios-driver? I tried -browser but it gave an exception about being an unknown option
