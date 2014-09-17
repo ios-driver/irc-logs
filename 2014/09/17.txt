@@ -37,3 +37,5 @@
 [2014-09-17 11:12:22] elstif, joining. (#ios-driver)
 [2014-09-17 11:12:52] jlipps, quitting. (Ping timeout: 240 seconds)
 [2014-09-17 11:13:43] elstif, quitting. (Client Quit)
+[2014-09-17 11:49:06] luke-schwarz, joining. (#ios-driver)
+[2014-09-17 11:49:54] luke-schwarz: howdy, came here from github
