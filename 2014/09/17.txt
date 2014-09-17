@@ -3,3 +3,5 @@
 [2014-09-17 01:42:38] operatiay, joining. (#ios-driver)
 [2014-09-17 02:00:31] elstif, joining. (#ios-driver)
 [2014-09-17 03:23:01] tkriz1, changing nick to tkriz.
+[2014-09-17 04:00:03] elstif, quitting. (Read error: Connection reset by peer)
+[2014-09-17 04:01:25] elstif, joining. (#ios-driver)
