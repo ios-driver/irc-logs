@@ -66,3 +66,6 @@
 [2014-09-17 13:52:09] luke-schwarz: if I let it run, I get this message at every polling interval "couldn't register this node : Hub is down or not responding: Hub is down or not responding"
 [2014-09-17 13:57:40] luke-schwarz: I tried running the same standalone that is running on jenkins and I get a pretty ugly stacktrace  2014-09-17 12:39:23.306:WARN:osjs.ServletHandler:/grid/register java.security.InvalidParameterException: Error: null
 [2014-09-17 13:58:27] luke-schwarz: java -jar ./selenium-server-standalone-2.42.2.jar
+[2014-09-17 14:07:02] lukeis1, quitting. (Read error: Connection reset by peer)
+[2014-09-17 14:07:11] lukeis, joining. (#ios-driver)
+[2014-09-17 14:09:03] lukeis1, joining. (#ios-driver)
