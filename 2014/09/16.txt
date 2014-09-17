@@ -38,3 +38,5 @@
 [2014-09-16 18:48:36] freynaud_______, quitting. (*.net *.split)
 [2014-09-16 18:54:15] freynaud_______, joining. (#ios-driver)
 [2014-09-16 19:14:58] nirvdrum, quitting. (Ping timeout: 258 seconds)
+[2014-09-16 19:25:13] operatiay, joining. (#ios-driver)
+[2014-09-16 19:29:51] operatiay, quitting. (Ping timeout: 255 seconds)
