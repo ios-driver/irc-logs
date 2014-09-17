@@ -24,3 +24,4 @@
 [2014-09-17 08:58:23] nirvdrum_, joining. (#ios-driver)
 [2014-09-17 09:01:02] nirvdrum, quitting. (Ping timeout: 245 seconds)
 [2014-09-17 09:03:28] nirvdrum_, changing nick to nirvdrum.
+[2014-09-17 09:28:09] elstif, quitting. (Quit: Leaving.)
