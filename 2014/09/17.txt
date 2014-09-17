@@ -33,3 +33,4 @@
 [2014-09-17 10:02:58] lukeis, joining. (#ios-driver)
 [2014-09-17 10:03:03] jlipps, joining. (#ios-driver)
 [2014-09-17 10:13:12] jlipps, quitting. (Ping timeout: 255 seconds)
+[2014-09-17 11:05:59] jlipps, joining. (#ios-driver)
