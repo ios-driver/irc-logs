@@ -59,3 +59,7 @@
 [2014-09-17 13:08:08] lukeis1, joining. (#ios-driver)
 [2014-09-17 13:11:11] lukeis, quitting. (Ping timeout: 272 seconds)
 [2014-09-17 13:44:35] luke-schwarz: just game back from lunch, I'll try that
+[2014-09-17 13:49:24] luke-schwarz: in one window I'm trying to run as a hub (java -jar ios-server-standalone-0.6.6-SNAPSHOT.jar -port 4444), in another window on same maching I'm trying to connect as a node (java -jar ios-server-standalone-0.6.6-SNAPSHOT.jar -hub http://localhost:4444 -host 172.16.2.89 -port 5555).
+[2014-09-17 13:49:39] luke-schwarz: in node window, get this
+[2014-09-17 13:49:46] luke-schwarz: 47:33:386 INFO StoppableRegisteringRemote.registerToHub  Registering the node to hub :http://localhost:4444/grid/register
+[2014-09-17 13:49:47] luke-schwarz:  47:33:443 INFO StoppableRegisteringRemote$1.run  couldn't register this node : Error sending the registration request.
