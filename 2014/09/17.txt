@@ -44,3 +44,7 @@
 [2014-09-17 12:22:58] nirvdrum: I'm lagging a fair bit behind master, but I've never had problems joining.
 [2014-09-17 12:23:35] nirvdrum: Are you seeing any additional info in the hub logs?
 [2014-09-17 12:38:23] luke-schwarz: the main hub I'm using is on our jenkins and I don't have access to the logs there unfortunately
+[2014-09-17 12:40:15] luke-schwarz: if I run selenium-standalone server on my workstation as a hub then try to connect to that instead of jenkins, I see lots of errors in the shell
+[2014-09-17 12:41:07] luke-schwarz: does both the hub and the node need to be running ios-server-standalone-0.6.6-SNAPSHOT.jar?
+[2014-09-17 12:43:38] luke-schwarz: I'm intended to just run web tests through safari on an emulator
+[2014-09-17 12:44:46] luke-schwarz: I downloaded the 0.6.6 jar to our minimac and call it with -hub -host and -port arguements
