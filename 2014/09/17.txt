@@ -43,3 +43,4 @@
 [2014-09-17 11:51:45] luke-schwarz: getting "couldn't register this node : Error sending the registration request." and can't figure out why
 [2014-09-17 12:22:58] nirvdrum: I'm lagging a fair bit behind master, but I've never had problems joining.
 [2014-09-17 12:23:35] nirvdrum: Are you seeing any additional info in the hub logs?
+[2014-09-17 12:38:23] luke-schwarz: the main hub I'm using is on our jenkins and I don't have access to the logs there unfortunately
