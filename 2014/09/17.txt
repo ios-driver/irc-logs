@@ -34,3 +34,6 @@
 [2014-09-17 10:03:03] jlipps, joining. (#ios-driver)
 [2014-09-17 10:13:12] jlipps, quitting. (Ping timeout: 255 seconds)
 [2014-09-17 11:05:59] jlipps, joining. (#ios-driver)
+[2014-09-17 11:12:22] elstif, joining. (#ios-driver)
+[2014-09-17 11:12:52] jlipps, quitting. (Ping timeout: 240 seconds)
+[2014-09-17 11:13:43] elstif, quitting. (Client Quit)
