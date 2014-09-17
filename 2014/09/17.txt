@@ -49,3 +49,11 @@
 [2014-09-17 12:43:38] luke-schwarz: I'm intended to just run web tests through safari on an emulator
 [2014-09-17 12:44:46] luke-schwarz: I downloaded the 0.6.6 jar to our minimac and call it with -hub -host and -port arguements
 [2014-09-17 12:45:41] luke-schwarz: I was thinking it would show up on the grid/console as another node at that point. Perhaps I'm missing something in the setup steps, but I can't tell.
+[2014-09-17 13:05:45] nirvdrum: luke-schwarz: Sorry, was afk.  Can you run a hub on the same machine as your ios-driver node and see if it registers fine?
+[2014-09-17 13:05:55] nirvdrum: At least then you'd be able to work out one side of the communication channel.
+[2014-09-17 13:06:00] lukeis, quitting. (Ping timeout: 255 seconds)
+[2014-09-17 13:06:22] lukeis, joining. (#ios-driver)
+[2014-09-17 13:06:26] nirvdrum: The hub can be a standard selenium grid hub (that's how I run it)
+[2014-09-17 13:07:36] nirvdrum: luke-schwarz: I run with a custom proxy implementation, but this is how I start up my ios-driver process:
+[2014-09-17 13:07:37] nirvdrum: java -Dhttp.proxyHost -Dhttp.proxyPort -jar ios-server-standalone-0.6.6-SNAPSHOT-20140427-2035.jar -hub http://172.16.0.3:4444/grid/register -host `ifconfig en0 | grep "inet " | cut -d\  -f2` -port 5555 -proxy com.mogotest.grid.proxies.MogoRemoteProxy
+[2014-09-17 13:08:08] lukeis1, joining. (#ios-driver)
