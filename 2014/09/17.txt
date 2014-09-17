@@ -75,3 +75,4 @@
 [2014-09-17 14:29:08] luke-schwarz: my current hunch is that I'm not specifiying the capabilities correctly when I register as a node. How is this handled in ios-driver? I tried -browser but it gave an exception about being an unknown option
 [2014-09-17 14:36:31] rodrigomartin, joining. (#ios-driver)
 [2014-09-17 15:04:40] rodrigomartin1, joining. (#ios-driver)
+[2014-09-17 15:07:13] rodrigomartin, quitting. (Ping timeout: 260 seconds)
