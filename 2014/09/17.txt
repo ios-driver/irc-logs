@@ -48,3 +48,4 @@
 [2014-09-17 12:41:07] luke-schwarz: does both the hub and the node need to be running ios-server-standalone-0.6.6-SNAPSHOT.jar?
 [2014-09-17 12:43:38] luke-schwarz: I'm intended to just run web tests through safari on an emulator
 [2014-09-17 12:44:46] luke-schwarz: I downloaded the 0.6.6 jar to our minimac and call it with -hub -host and -port arguements
+[2014-09-17 12:45:41] luke-schwarz: I was thinking it would show up on the grid/console as another node at that point. Perhaps I'm missing something in the setup steps, but I can't tell.
