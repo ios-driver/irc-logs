@@ -9,3 +9,4 @@
 [2014-09-17 05:53:15] operatiay, quitting. ()
 [2014-09-17 05:54:58] operatiay, joining. (#ios-driver)
 [2014-09-17 06:08:04] operatia_, joining. (#ios-driver)
+[2014-09-17 06:11:27] operatiay, quitting. (Ping timeout: 272 seconds)
