@@ -35,3 +35,4 @@
 [2014-09-16 15:23:11] operatiay, joining. (#ios-driver)
 [2014-09-16 15:27:36] operatiay, quitting. (Ping timeout: 260 seconds)
 [2014-09-16 16:00:56] smccarthy, quitting. (Quit: Leaving...)
+[2014-09-16 18:48:36] freynaud_______, quitting. (*.net *.split)
