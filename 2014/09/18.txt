@@ -29,3 +29,5 @@
 [2014-09-18 10:51:18] smccarthy, quitting. (Remote host closed the connection)
 [2014-09-18 10:51:49] smccarthy, joining. (#ios-driver)
 [2014-09-18 10:56:01] elstif, quitting. (Quit: Leaving.)
+[2014-09-18 12:06:22] rodrigomartin, quitting. (Ping timeout: 240 seconds)
+[2014-09-18 12:06:37] rodrigomartin, joining. (#ios-driver)
