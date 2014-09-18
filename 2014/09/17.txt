@@ -81,3 +81,4 @@
 [2014-09-17 15:47:45] lukeis1, quitting. (Quit: Leaving.)
 [2014-09-17 16:55:42] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-17 18:26:41] nirvdrum_, joining. (#ios-driver)
+[2014-09-17 18:42:40] luke-schwarz, quitting. (Quit: Page closed)
