@@ -7,3 +7,4 @@
 [2014-09-18 01:05:28] nirvdrum_, quitting. (Ping timeout: 260 seconds)
 [2014-09-18 01:18:32] nirvdrum_, joining. (#ios-driver)
 [2014-09-18 01:30:53] elstif, joining. (#ios-driver)
+[2014-09-18 05:40:23] nirvdrum, joining. (#ios-driver)
