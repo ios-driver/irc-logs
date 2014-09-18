@@ -82,3 +82,4 @@
 [2014-09-17 16:55:42] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-17 18:26:41] nirvdrum_, joining. (#ios-driver)
 [2014-09-17 18:42:40] luke-schwarz, quitting. (Quit: Page closed)
+[2014-09-17 19:48:45] nirvdrum_, quitting. (Ping timeout: 246 seconds)
