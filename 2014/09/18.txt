@@ -46,3 +46,5 @@
 [2014-09-18 15:40:56] abcd: great ! Thanks lukeis !
 [2014-09-18 15:42:58] lukeis, quitting. (Quit: Leaving.)
 [2014-09-18 15:48:12] abcd, quitting. (Quit: Page closed)
+[2014-09-18 15:57:20] jlipps, joining. (#ios-driver)
+[2014-09-18 15:59:29] rodrigomartin, quitting. (Quit: Leaving.)
