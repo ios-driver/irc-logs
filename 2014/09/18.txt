@@ -2,3 +2,5 @@
 [2014-09-18 00:52:38] tkriz1, quitting. (Changing host)
 [2014-09-18 00:52:38] tkriz1, joining. (#ios-driver)
 [2014-09-18 00:52:54] tkriz, quitting. (Ping timeout: 246 seconds)
+[2014-09-18 01:01:06] nirvdrum_, joining. (#ios-driver)
+[2014-09-18 01:04:22] nirvdrum, quitting. (Ping timeout: 245 seconds)
