@@ -41,3 +41,7 @@
 [2014-09-18 15:36:33] abcd: does ios-driver support ios8 ?
 [2014-09-18 15:36:53] lukeis: there's an ios8 branch being worked on
 [2014-09-18 15:38:36] lukeis: i'm working on it here too, but i'm going on PTO for a week :)  when I have it working satisfactorily here, i'll push it back
+[2014-09-18 15:40:19] abcd: sounds good.. should I follow here for next update : https://github.com/ios-driver/ios-driver ?
+[2014-09-18 15:40:41] lukeis: yeah, watch the commits going in :)
+[2014-09-18 15:40:56] abcd: great ! Thanks lukeis !
+[2014-09-18 15:42:58] lukeis, quitting. (Quit: Leaving.)
