@@ -16,3 +16,4 @@
 [2014-09-18 06:47:22] ios-driver-git: [ios-driver] mmmulani force-pushed mehdi/ios-8 from 0316548 to e75c498: http://git.io/5QNOMw
 [2014-09-18 06:47:22] ios-driver-git, leaving. (#ios-driver)
 [2014-09-18 06:47:22] ios-driver-git: ios-driver/mehdi/ios-8 e75c498 Mehdi Mulani: WIP. Get Xcode 6 working....
+[2014-09-18 07:12:03] rodrigomartin, joining. (#ios-driver)
