@@ -22,3 +22,4 @@
 [2014-09-18 09:36:53] jlipps, joining. (#ios-driver)
 [2014-09-18 09:52:51] nirvdrum, quitting. (Quit: Leaving)
 [2014-09-18 09:52:54] nirvdrum_, changing nick to nirvdrum.
+[2014-09-18 10:00:00] smccarthy, quitting. (Remote host closed the connection)
