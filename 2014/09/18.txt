@@ -37,3 +37,7 @@
 [2014-09-18 13:45:08] rodrigomartin, joining. (#ios-driver)
 [2014-09-18 14:38:56] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-18 14:40:26] jlipps, quitting. (Quit: Leaving.)
+[2014-09-18 15:35:23] abcd, joining. (#ios-driver)
+[2014-09-18 15:36:33] abcd: does ios-driver support ios8 ?
+[2014-09-18 15:36:53] lukeis: there's an ios8 branch being worked on
+[2014-09-18 15:38:36] lukeis: i'm working on it here too, but i'm going on PTO for a week :)  when I have it working satisfactorily here, i'll push it back
