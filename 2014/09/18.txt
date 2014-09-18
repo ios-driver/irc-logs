@@ -26,3 +26,5 @@
 [2014-09-18 10:00:33] smccarthy, joining. (#ios-driver)
 [2014-09-18 10:00:51] smccarthy, quitting. (Read error: Connection reset by peer)
 [2014-09-18 10:01:37] smccarthy, joining. (#ios-driver)
+[2014-09-18 10:51:18] smccarthy, quitting. (Remote host closed the connection)
+[2014-09-18 10:51:49] smccarthy, joining. (#ios-driver)
