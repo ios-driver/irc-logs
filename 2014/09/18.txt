@@ -8,3 +8,7 @@
 [2014-09-18 01:18:32] nirvdrum_, joining. (#ios-driver)
 [2014-09-18 01:30:53] elstif, joining. (#ios-driver)
 [2014-09-18 05:40:23] nirvdrum, joining. (#ios-driver)
+[2014-09-18 06:14:02] ios-driver-git, joining. (#ios-driver)
+[2014-09-18 06:14:02] ios-driver-git: ios-driver/mehdi/ios-8 0316548 Mehdi Mulani: WIP. Get Xcode 6 working....
+[2014-09-18 06:14:02] ios-driver-git: [ios-driver] mmmulani force-pushed mehdi/ios-8 from ccff68f to 0316548: http://git.io/5QNOMw
+[2014-09-18 06:14:02] ios-driver-git, leaving. (#ios-driver)
