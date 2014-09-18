@@ -18,3 +18,4 @@
 [2014-09-18 06:47:22] ios-driver-git: ios-driver/mehdi/ios-8 e75c498 Mehdi Mulani: WIP. Get Xcode 6 working....
 [2014-09-18 07:12:03] rodrigomartin, joining. (#ios-driver)
 [2014-09-18 08:06:01] lukeis, joining. (#ios-driver)
+[2014-09-18 08:49:24] smccarthy, joining. (#ios-driver)
