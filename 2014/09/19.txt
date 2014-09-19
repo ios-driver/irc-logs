@@ -8,3 +8,5 @@
 [2014-09-19 05:53:46] ios-driver-git: ios-driver/mehdi/ios-8 d4d0ad9 Mehdi Mulani: Add new devices (in format of Xcode 6) and auto-conversion of DeviceVariations.
 [2014-09-19 05:53:46] ios-driver-git: ios-driver/mehdi/ios-8 64daec0 Mehdi Mulani: Add support for Xcode 6....
 [2014-09-19 05:53:46] ios-driver-git, leaving. (#ios-driver)
+[2014-09-19 05:55:12] rodrigomartin, joining. (#ios-driver)
+[2014-09-19 05:59:01] psp250, joining. (#ios-driver)
