@@ -48,3 +48,4 @@
 [2014-09-18 15:48:12] abcd, quitting. (Quit: Page closed)
 [2014-09-18 15:57:20] jlipps, joining. (#ios-driver)
 [2014-09-18 15:59:29] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-09-18 17:30:31] jlipps, quitting. (Quit: Leaving.)
