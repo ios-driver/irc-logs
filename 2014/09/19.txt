@@ -22,3 +22,4 @@
 [2014-09-19 07:02:24] ios-driver-git: ios-driver/dev e5c03a4 Mehdi Mulani: Add new devices (in format of Xcode 6) and auto-conversion of DeviceVariations.
 [2014-09-19 07:02:24] ios-driver-git, leaving. (#ios-driver)
 [2014-09-19 08:16:53] tkriz1, quitting. (Ping timeout: 260 seconds)
+[2014-09-19 08:26:54] jlipps, joining. (#ios-driver)
