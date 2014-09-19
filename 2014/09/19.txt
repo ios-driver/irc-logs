@@ -28,3 +28,4 @@
 [2014-09-19 08:31:50] AutomatedTester_, changing nick to AutomatedTester.
 [2014-09-19 08:31:50] AutomatedTester, quitting. (Changing host)
 [2014-09-19 08:31:51] AutomatedTester, joining. (#ios-driver)
+[2014-09-19 09:11:05] smccarthy, joining. (#ios-driver)
