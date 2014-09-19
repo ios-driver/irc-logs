@@ -15,3 +15,9 @@
 [2014-09-19 06:47:00] operatia_, quitting. (Remote host closed the connection)
 [2014-09-19 06:48:23] operatiay, joining. (#ios-driver)
 [2014-09-19 06:55:29] operatiay, quitting. ()
+[2014-09-19 07:02:04] operatiay, joining. (#ios-driver)
+[2014-09-19 07:02:24] ios-driver-git, joining. (#ios-driver)
+[2014-09-19 07:02:24] ios-driver-git: [ios-driver] mmmulani pushed 2 new commits to dev: http://git.io/0qeYGA
+[2014-09-19 07:02:24] ios-driver-git: ios-driver/dev 20f7199 Mehdi Mulani: Add support for Xcode 6....
+[2014-09-19 07:02:24] ios-driver-git: ios-driver/dev e5c03a4 Mehdi Mulani: Add new devices (in format of Xcode 6) and auto-conversion of DeviceVariations.
+[2014-09-19 07:02:24] ios-driver-git, leaving. (#ios-driver)
