@@ -39,3 +39,4 @@
 [2014-09-19 14:39:39] rodrigomartin, quitting. (Client Quit)
 [2014-09-19 15:02:21] jlipps, joining. (#ios-driver)
 [2014-09-19 15:20:17] nirvdrum, quitting. (Remote host closed the connection)
+[2014-09-19 15:28:14] santiycr, quitting. (Quit: Leaving.)
