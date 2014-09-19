@@ -2,3 +2,9 @@
 [2014-09-19 01:04:02] nirvdrum_, quitting. (Ping timeout: 245 seconds)
 [2014-09-19 05:04:36] dgrace__, joining. (#ios-driver)
 [2014-09-19 05:46:41] nirvdrum__, quitting. (Remote host closed the connection)
+[2014-09-19 05:52:32] nirvdrum, joining. (#ios-driver)
+[2014-09-19 05:53:46] ios-driver-git, joining. (#ios-driver)
+[2014-09-19 05:53:46] ios-driver-git: [ios-driver] mmmulani force-pushed mehdi/ios-8 from e75c498 to d4d0ad9: http://git.io/5QNOMw
+[2014-09-19 05:53:46] ios-driver-git: ios-driver/mehdi/ios-8 d4d0ad9 Mehdi Mulani: Add new devices (in format of Xcode 6) and auto-conversion of DeviceVariations.
+[2014-09-19 05:53:46] ios-driver-git: ios-driver/mehdi/ios-8 64daec0 Mehdi Mulani: Add support for Xcode 6....
+[2014-09-19 05:53:46] ios-driver-git, leaving. (#ios-driver)
