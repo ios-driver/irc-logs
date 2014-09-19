@@ -42,3 +42,4 @@
 [2014-09-19 15:28:14] santiycr, quitting. (Quit: Leaving.)
 [2014-09-19 15:38:53] santiycr, joining. (#ios-driver)
 [2014-09-19 16:03:45] smccarthy, quitting. (Quit: Leaving...)
+[2014-09-19 16:07:54] santiycr, quitting. (Quit: Leaving.)
