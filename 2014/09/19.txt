@@ -57,3 +57,4 @@
 [2014-09-19 22:51:25] nicegraham____, quitting. (Ping timeout: 260 seconds)
 [2014-09-19 23:16:30] dgrace__, joining. (#ios-driver)
 [2014-09-19 23:17:37] nicegraham____, joining. (#ios-driver)
+[2014-09-19 23:24:02] freynaud_______, joining. (#ios-driver)
