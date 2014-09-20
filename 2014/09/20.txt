@@ -8,3 +8,4 @@
 [2014-09-20 11:51:46] jlipps, quitting. (Client Quit)
 [2014-09-20 11:54:45] jlipps, joining. (#ios-driver)
 [2014-09-20 11:57:17] santiycr, quitting. (Quit: Leaving.)
+[2014-09-20 12:19:32] smccarthy, quitting. (Quit: Leaving...)
