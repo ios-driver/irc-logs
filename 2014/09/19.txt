@@ -50,3 +50,4 @@
 [2014-09-19 17:32:11] santiycr, quitting. (Quit: Leaving.)
 [2014-09-19 18:05:23] smccarthy, joining. (#ios-driver)
 [2014-09-19 19:33:42] psp250, quitting. (Quit: Leaving)
+[2014-09-19 20:10:06] smccarthy, quitting. (Quit: Leaving...)
