@@ -3,3 +3,5 @@
 [2014-09-21 14:36:05] freynaud________, joining. (#ios-driver)
 [2014-09-21 14:36:36] freynaud_______, quitting. (Ping timeout: 272 seconds)
 [2014-09-21 14:36:37] freynaud________, changing nick to freynaud_______.
+[2014-09-21 15:19:21] smccarthy, quitting. (Read error: Connection reset by peer)
+[2014-09-21 15:19:54] smccarthy, joining. (#ios-driver)
