@@ -18,3 +18,4 @@
 [2014-09-22 07:06:40] elstif, joining. (#ios-driver)
 [2014-09-22 07:41:57] nirvdrum, joining. (#ios-driver)
 [2014-09-22 08:21:25] santiycr, joining. (#ios-driver)
+[2014-09-22 08:51:06] smccarthy, joining. (#ios-driver)
