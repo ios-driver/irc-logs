@@ -13,3 +13,4 @@
 [2014-09-22 05:13:39] elstif, quitting. (Quit: Leaving.)
 [2014-09-22 05:34:31] dgrace__, quitting. (Quit: Connection closed for inactivity)
 [2014-09-22 05:49:10] rodrigomartin, joining. (#ios-driver)
+[2014-09-22 06:05:34] elstif, joining. (#ios-driver)
