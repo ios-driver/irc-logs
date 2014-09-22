@@ -12,3 +12,6 @@
 [2014-09-21 22:34:31] ios-driver-git, joining. (#ios-driver)
 [2014-09-21 22:34:31] ios-driver-git: [ios-driver] bijoyv closed pull request #289: commit 98f6cef4bf1227748c9722ad485bde957fcd9cad (mehdi/ios-8...mehdi/ios-8) http://git.io/mU6dSw
 [2014-09-21 22:34:31] ios-driver-git, leaving. (#ios-driver)
+[2014-09-21 22:35:21] ios-driver-git, joining. (#ios-driver)
+[2014-09-21 22:35:21] ios-driver-git: [ios-driver] bijoyv opened pull request #291: Xcode betas don't have old model iPhone simulators, making iPhone 5s... (dev...dev) http://git.io/sXYvcA
+[2014-09-21 22:35:21] ios-driver-git, leaving. (#ios-driver)
