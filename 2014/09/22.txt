@@ -8,3 +8,4 @@
 [2014-09-22 03:55:24] operatiay, joining. (#ios-driver)
 [2014-09-22 04:00:58] elstif, quitting. (Quit: Leaving.)
 [2014-09-22 04:13:23] elstif, joining. (#ios-driver)
+[2014-09-22 04:55:38] elstif, quitting. (Quit: Leaving.)
