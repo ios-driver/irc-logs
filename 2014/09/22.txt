@@ -22,3 +22,8 @@
 [2014-09-22 10:31:00] santiycr, quitting. (Quit: Leaving.)
 [2014-09-22 10:32:33] elstif, quitting. (Quit: Leaving.)
 [2014-09-22 11:23:19] santiycr, joining. (#ios-driver)
+[2014-09-22 12:48:30] ios-driver-git, joining. (#ios-driver)
+[2014-09-22 12:48:30] ios-driver-git: [ios-driver] mmmulani pushed 2 new commits to dev: http://git.io/ZjNJQQ
+[2014-09-22 12:48:30] ios-driver-git: ios-driver/dev 2e19fde mmmulani: Merge pull request #291 from bijoyv/dev...
+[2014-09-22 12:48:30] ios-driver-git: ios-driver/dev 34d4c13 Bijoy Vijayachandran:     Xcode betas don't have old model iPhone simulators, making iPhone 5s default
+[2014-09-22 12:48:30] ios-driver-git, leaving. (#ios-driver)
