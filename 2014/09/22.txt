@@ -28,3 +28,4 @@
 [2014-09-22 12:48:30] ios-driver-git: ios-driver/dev 34d4c13 Bijoy Vijayachandran:     Xcode betas don't have old model iPhone simulators, making iPhone 5s default
 [2014-09-22 12:48:30] ios-driver-git, leaving. (#ios-driver)
 [2014-09-22 12:57:21] santiycr, quitting. (Quit: Leaving.)
+[2014-09-22 13:03:39] santiycr, joining. (#ios-driver)
