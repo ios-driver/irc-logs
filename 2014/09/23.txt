@@ -53,3 +53,5 @@
 [2014-09-23 11:44:07] jlipps, joining. (#ios-driver)
 [2014-09-23 12:22:07] elstif, joining. (#ios-driver)
 [2014-09-23 12:24:20] elstif, quitting. (Client Quit)
+[2014-09-23 12:58:09] jlipps1, joining. (#ios-driver)
+[2014-09-23 12:58:09] jlipps, quitting. (Read error: Connection reset by peer)
