@@ -20,3 +20,8 @@
 [2014-09-23 07:42:31] krmahadevan: Hi
 [2014-09-23 07:43:48] krmahadevan: I have sent a pull request to fix some unit test failures https://github.com/ios-driver/ios-driver/pull/294 was hoping someone could help take a look at it. Its my first pull request into the iOS driver codebase.. that explains me being jumpy about it.. please bear.. I have also signed the CLA
 [2014-09-23 07:59:50] krmahadevan, leaving. (#ios-driver)
+[2014-09-23 08:02:43] tkriz1, joining. (#ios-driver)
+[2014-09-23 08:02:43] tkriz1, quitting. (Changing host)
+[2014-09-23 08:02:43] tkriz1, joining. (#ios-driver)
+[2014-09-23 08:03:15] operatiay, quitting. (Ping timeout: 272 seconds)
+[2014-09-23 08:04:18] tkriz, quitting. (Ping timeout: 246 seconds)
