@@ -40,3 +40,4 @@
 [2014-09-23 09:43:22] ios-driver-git: [ios-driver] mmmulani closed pull request #288: Fix uialert (mehdi/ios-8...fix-uialert) http://git.io/88rEFQ
 [2014-09-23 09:43:22] ios-driver-git, leaving. (#ios-driver)
 [2014-09-23 09:44:04] jlipps, joining. (#ios-driver)
+[2014-09-23 09:53:02] Aniket, quitting. (Quit: Page closed)
