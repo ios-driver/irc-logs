@@ -1,3 +1,7 @@
 [2014-09-23 01:27:15] elstif, joining. (#ios-driver)
 [2014-09-23 02:59:31] elstif, quitting. (Quit: Leaving.)
 [2014-09-23 03:09:22] elstif, joining. (#ios-driver)
+[2014-09-23 06:05:54] ios-driver-git, joining. (#ios-driver)
+[2014-09-23 06:05:54] ios-driver-git: [ios-driver] iamleeg opened pull request #293: Fallback methods for discovering UIAAlert buttons. (dev...find-uialiert-buttons) http://git.io/_Sry4Q
+[2014-09-23 06:05:54] ios-driver-git, leaving. (#ios-driver)
+[2014-09-23 06:07:19] nirvdrum_, joining. (#ios-driver)
