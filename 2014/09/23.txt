@@ -30,3 +30,4 @@
 [2014-09-23 09:10:30] Aniket: hi
 [2014-09-23 09:10:48] Aniket: using snapshot 0.6.6
 [2014-09-23 09:11:11] Aniket: i have an issue...ios-driver doesnt wait at all for page to load
+[2014-09-23 09:16:18] smccarthy, joining. (#ios-driver)
