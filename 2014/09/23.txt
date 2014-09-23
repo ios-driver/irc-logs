@@ -51,3 +51,5 @@
 [2014-09-23 11:32:53] elstif, quitting. (Quit: Leaving.)
 [2014-09-23 11:38:17] jlipps, quitting. (Quit: Leaving.)
 [2014-09-23 11:44:07] jlipps, joining. (#ios-driver)
+[2014-09-23 12:22:07] elstif, joining. (#ios-driver)
+[2014-09-23 12:24:20] elstif, quitting. (Client Quit)
