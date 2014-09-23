@@ -48,3 +48,4 @@
 [2014-09-22 19:05:50] jlipps, joining. (#ios-driver)
 [2014-09-22 19:44:03] nirvdrum_, quitting. (Ping timeout: 246 seconds)
 [2014-09-22 19:51:32] jlipps, quitting. (Quit: Leaving.)
+[2014-09-22 20:03:12] smccarthy, quitting. (Quit: Leaving...)
