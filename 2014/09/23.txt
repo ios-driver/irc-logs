@@ -8,3 +8,4 @@
 [2014-09-23 06:10:29] ios-driver-git, joining. (#ios-driver)
 [2014-09-23 06:10:29] ios-driver-git: [ios-driver] mmmulani closed pull request #293: Fallback methods for discovering UIAAlert buttons. (dev...find-uialiert-buttons) http://git.io/_Sry4Q
 [2014-09-23 06:10:29] ios-driver-git, leaving. (#ios-driver)
+[2014-09-23 06:39:22] elstif, quitting. (Quit: Leaving.)
