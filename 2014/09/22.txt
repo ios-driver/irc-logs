@@ -51,3 +51,4 @@
 [2014-09-22 20:03:12] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-22 20:22:48] nirvdrum_, joining. (#ios-driver)
 [2014-09-22 20:35:14] jlipps, joining. (#ios-driver)
+[2014-09-22 20:40:23] jlipps, quitting. (Quit: Leaving.)
