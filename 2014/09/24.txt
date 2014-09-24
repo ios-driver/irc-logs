@@ -27,3 +27,4 @@
 [2014-09-24 13:15:35] rodrigomartin, quitting. (Read error: Connection reset by peer)
 [2014-09-24 13:40:53] santiycr, joining. (#ios-driver)
 [2014-09-24 13:51:57] elstif, quitting. (Quit: Leaving.)
+[2014-09-24 13:58:02] rodrigomartin1, quitting. (Quit: Leaving.)
