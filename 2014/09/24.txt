@@ -32,3 +32,4 @@
 [2014-09-24 15:02:43] tkriz, quitting. (Quit: Leaving.)
 [2014-09-24 15:10:23] jlipps, quitting. (Quit: Leaving.)
 [2014-09-24 15:11:15] jlipps, joining. (#ios-driver)
+[2014-09-24 15:23:05] elstif, quitting. (Quit: Leaving.)
