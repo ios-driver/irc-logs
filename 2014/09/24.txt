@@ -4,3 +4,4 @@
 [2014-09-24 04:07:04] operatiay, joining. (#ios-driver)
 [2014-09-24 05:43:44] rodrigomartin, joining. (#ios-driver)
 [2014-09-24 06:18:43] jlipps, joining. (#ios-driver)
+[2014-09-24 06:46:35] jlipps, quitting. (Quit: Leaving.)
