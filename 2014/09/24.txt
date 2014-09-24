@@ -25,3 +25,4 @@
 [2014-09-24 12:34:16] santiycr, quitting. (Quit: Leaving.)
 [2014-09-24 13:15:34] rodrigomartin1, joining. (#ios-driver)
 [2014-09-24 13:15:35] rodrigomartin, quitting. (Read error: Connection reset by peer)
+[2014-09-24 13:40:53] santiycr, joining. (#ios-driver)
