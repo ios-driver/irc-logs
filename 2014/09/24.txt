@@ -7,3 +7,4 @@
 [2014-09-24 06:46:35] jlipps, quitting. (Quit: Leaving.)
 [2014-09-24 06:56:34] nirvdrum__, quitting. (Ping timeout: 272 seconds)
 [2014-09-24 07:17:37] operatiay, quitting. (Remote host closed the connection)
+[2014-09-24 07:53:38] jlipps, joining. (#ios-driver)
