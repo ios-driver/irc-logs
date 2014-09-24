@@ -35,3 +35,4 @@
 [2014-09-24 15:23:05] elstif, quitting. (Quit: Leaving.)
 [2014-09-24 15:49:02] elstif, joining. (#ios-driver)
 [2014-09-24 15:51:00] elstif, quitting. (Client Quit)
+[2014-09-24 15:58:01] nirvdrum__, joining. (#ios-driver)
