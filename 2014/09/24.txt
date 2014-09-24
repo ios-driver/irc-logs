@@ -18,3 +18,6 @@
 [2014-09-24 10:01:56] santiycr, joining. (#ios-driver)
 [2014-09-24 10:53:16] tkriz1, quitting. (Quit: Leaving.)
 [2014-09-24 11:13:17] elstif, quitting. (Quit: Leaving.)
+[2014-09-24 11:36:15] tkriz, joining. (#ios-driver)
+[2014-09-24 11:36:15] tkriz, quitting. (Changing host)
+[2014-09-24 11:36:15] tkriz, joining. (#ios-driver)
