@@ -18,3 +18,4 @@
 [2014-09-25 05:41:57] nirvdrum, joining. (#ios-driver)
 [2014-09-25 05:49:47] nirvdrum, quitting. (Quit: Leaving)
 [2014-09-25 06:00:30] elstif, joining. (#ios-driver)
+[2014-09-25 06:18:14] rodrigomartin, joining. (#ios-driver)
