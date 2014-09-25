@@ -10,3 +10,5 @@
 [2014-09-25 02:46:44] tkriz, quitting. (Changing host)
 [2014-09-25 02:46:44] tkriz, joining. (#ios-driver)
 [2014-09-25 02:53:35] elstif, joining. (#ios-driver)
+[2014-09-25 05:05:58] nirvdrum_, joining. (#ios-driver)
+[2014-09-25 05:09:56] elstif, quitting. (Quit: Leaving.)
