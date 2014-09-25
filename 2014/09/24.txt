@@ -38,3 +38,4 @@
 [2014-09-24 15:58:01] nirvdrum__, joining. (#ios-driver)
 [2014-09-24 16:20:22] jlipps, quitting. (Quit: Leaving.)
 [2014-09-24 16:41:41] smccarthy, quitting. (Quit: Leaving...)
+[2014-09-24 17:43:14] nirvdrum_, joining. (#ios-driver)
