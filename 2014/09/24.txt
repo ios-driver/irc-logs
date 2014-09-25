@@ -50,3 +50,4 @@
 [2014-09-24 20:49:26] santiycr, quitting. (Client Quit)
 [2014-09-24 21:05:13] nirvdrum_, quitting. (Ping timeout: 272 seconds)
 [2014-09-24 21:35:59] santiycr, joining. (#ios-driver)
+[2014-09-24 22:00:53] smccarthy, quitting. (Quit: Leaving...)
