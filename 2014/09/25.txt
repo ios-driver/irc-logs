@@ -21,3 +21,4 @@
 [2014-09-25 06:18:14] rodrigomartin, joining. (#ios-driver)
 [2014-09-25 06:57:25] tkriz, quitting. (Quit: Leaving.)
 [2014-09-25 08:51:15] smccarthy, joining. (#ios-driver)
+[2014-09-25 08:55:15] jlipps, joining. (#ios-driver)
