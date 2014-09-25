@@ -6,3 +6,6 @@
 [2014-09-25 02:04:01] tkriz, joining. (#ios-driver)
 [2014-09-25 02:04:59] tkriz, quitting. (Client Quit)
 [2014-09-25 02:40:33] elstif, quitting. (Quit: Leaving.)
+[2014-09-25 02:46:36] tkriz, joining. (#ios-driver)
+[2014-09-25 02:46:44] tkriz, quitting. (Changing host)
+[2014-09-25 02:46:44] tkriz, joining. (#ios-driver)
