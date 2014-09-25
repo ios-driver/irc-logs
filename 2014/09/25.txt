@@ -44,3 +44,4 @@
 [2014-09-25 15:39:59] ios-driver-git: [ios-driver] abhijit1234 pushed 1 new commit to dev: http://git.io/pK29iQ
 [2014-09-25 15:39:59] ios-driver-git: ios-driver/dev 626dd34 Abhijit Sarkar: Adding the ability to add environment variables to Command
 [2014-09-25 15:39:59] ios-driver-git, leaving. (#ios-driver)
+[2014-09-25 16:25:48] smccarthy, quitting. (Quit: Leaving...)
