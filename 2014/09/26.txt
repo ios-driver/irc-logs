@@ -18,3 +18,8 @@
 [2014-09-26 08:55:29] elstif, quitting. (Quit: Leaving.)
 [2014-09-26 09:00:57] tkriz, quitting. (Quit: Leaving.)
 [2014-09-26 09:29:55] jlipps, joining. (#ios-driver)
+[2014-09-26 09:30:01] jlipps, quitting. (Client Quit)
+[2014-09-26 09:31:21] elstif, joining. (#ios-driver)
+[2014-09-26 09:34:47] tkriz, joining. (#ios-driver)
+[2014-09-26 09:34:47] tkriz, quitting. (Changing host)
+[2014-09-26 09:34:47] tkriz, joining. (#ios-driver)
