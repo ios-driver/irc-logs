@@ -32,3 +32,4 @@
 [2014-09-26 15:04:02] elstif, joining. (#ios-driver)
 [2014-09-26 15:04:15] elstif, quitting. (Client Quit)
 [2014-09-26 15:29:04] rodrigomartin, quitting. (Remote host closed the connection)
+[2014-09-26 15:31:55] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
