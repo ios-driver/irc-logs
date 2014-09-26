@@ -27,3 +27,4 @@
 [2014-09-26 10:41:46] tkriz, quitting. (Quit: Leaving.)
 [2014-09-26 10:56:03] elstif, joining. (#ios-driver)
 [2014-09-26 11:55:20] ddary, joining. (#ios-driver)
+[2014-09-26 12:47:57] ddary, quitting. (Quit: ddary)
