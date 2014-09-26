@@ -28,3 +28,6 @@
 [2014-09-26 10:56:03] elstif, joining. (#ios-driver)
 [2014-09-26 11:55:20] ddary, joining. (#ios-driver)
 [2014-09-26 12:47:57] ddary, quitting. (Quit: ddary)
+[2014-09-26 15:03:47] elstif, quitting. (Quit: Leaving.)
+[2014-09-26 15:04:02] elstif, joining. (#ios-driver)
+[2014-09-26 15:04:15] elstif, quitting. (Client Quit)
