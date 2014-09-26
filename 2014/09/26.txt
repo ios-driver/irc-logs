@@ -7,3 +7,4 @@
 [2014-09-26 06:01:33] nirvdrum, joining. (#ios-driver)
 [2014-09-26 06:34:51] nirvdrum_, joining. (#ios-driver)
 [2014-09-26 06:38:59] elstif, joining. (#ios-driver)
+[2014-09-26 06:41:31] nirvdrum_, quitting. (Quit: Leaving)
