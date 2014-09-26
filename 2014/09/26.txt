@@ -8,3 +8,6 @@
 [2014-09-26 06:34:51] nirvdrum_, joining. (#ios-driver)
 [2014-09-26 06:38:59] elstif, joining. (#ios-driver)
 [2014-09-26 06:41:31] nirvdrum_, quitting. (Quit: Leaving)
+[2014-09-26 06:48:48] tkriz, joining. (#ios-driver)
+[2014-09-26 06:48:49] tkriz, quitting. (Changing host)
+[2014-09-26 06:48:49] tkriz, joining. (#ios-driver)
