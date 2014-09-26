@@ -15,3 +15,4 @@
 [2014-09-26 07:04:01] elstif, quitting. (Quit: Leaving.)
 [2014-09-26 07:05:01] elstif, joining. (#ios-driver)
 [2014-09-26 08:40:52] smccarthy, joining. (#ios-driver)
+[2014-09-26 08:55:29] elstif, quitting. (Quit: Leaving.)
