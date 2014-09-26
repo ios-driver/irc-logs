@@ -46,3 +46,4 @@
 [2014-09-25 15:39:59] ios-driver-git, leaving. (#ios-driver)
 [2014-09-25 16:25:48] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-25 17:01:40] santiycr, joining. (#ios-driver)
+[2014-09-25 17:35:05] jlipps, quitting. (Quit: Leaving.)
