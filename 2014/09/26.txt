@@ -35,3 +35,4 @@
 [2014-09-26 15:31:55] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
 [2014-09-26 16:01:00] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-26 17:33:04] nirvdrum, quitting. (Ping timeout: 260 seconds)
+[2014-09-26 17:40:00] nirvdrum, joining. (#ios-driver)
