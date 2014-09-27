@@ -2,3 +2,6 @@
 [2014-09-27 00:12:48] ddary, quitting. (Quit: ddary)
 [2014-09-27 00:25:48] nicegraham____, quitting. (K-Lined)
 [2014-09-27 00:25:50] freynaud, quitting. (K-Lined)
+[2014-09-27 01:10:59] tkriz, joining. (#ios-driver)
+[2014-09-27 01:11:00] tkriz, quitting. (Changing host)
+[2014-09-27 01:11:00] tkriz, joining. (#ios-driver)
