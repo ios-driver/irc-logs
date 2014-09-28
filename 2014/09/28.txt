@@ -1,3 +1,4 @@
 [2014-09-28 03:47:25] tkriz, joining. (#ios-driver)
 [2014-09-28 03:47:25] tkriz, quitting. (Changing host)
 [2014-09-28 03:47:25] tkriz, joining. (#ios-driver)
+[2014-09-28 07:37:48] tkriz, quitting. (Quit: Leaving.)
