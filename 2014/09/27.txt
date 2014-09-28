@@ -10,3 +10,4 @@
 [2014-09-27 10:38:02] smccarthy, quitting. (*.net *.split)
 [2014-09-27 10:46:38] smccarthy, joining. (#ios-driver)
 [2014-09-27 13:28:38] smccarthy, quitting. (Quit: Leaving...)
+[2014-09-27 21:19:53] smccarthy, joining. (#ios-driver)
