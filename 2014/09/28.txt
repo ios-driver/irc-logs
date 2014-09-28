@@ -4,3 +4,4 @@
 [2014-09-28 07:37:48] tkriz, quitting. (Quit: Leaving.)
 [2014-09-28 07:47:26] smccarthy, joining. (#ios-driver)
 [2014-09-28 08:13:43] nirvdrum, joining. (#ios-driver)
+[2014-09-28 08:32:24] nirvdrum, quitting. (Remote host closed the connection)
