@@ -5,3 +5,6 @@
 [2014-09-28 07:47:26] smccarthy, joining. (#ios-driver)
 [2014-09-28 08:13:43] nirvdrum, joining. (#ios-driver)
 [2014-09-28 08:32:24] nirvdrum, quitting. (Remote host closed the connection)
+[2014-09-28 12:43:47] tkriz, joining. (#ios-driver)
+[2014-09-28 12:43:47] tkriz, quitting. (Changing host)
+[2014-09-28 12:43:47] tkriz, joining. (#ios-driver)
