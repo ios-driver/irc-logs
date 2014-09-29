@@ -39,3 +39,4 @@
 [2014-09-29 14:14:26] nirvdrum_, joining. (#ios-driver)
 [2014-09-29 14:18:24] nirvdrum, quitting. (Ping timeout: 260 seconds)
 [2014-09-29 14:50:12] lukeis, joining. (#ios-driver)
+[2014-09-29 15:08:01] elstif, quitting. (Quit: Leaving.)
