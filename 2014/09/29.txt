@@ -19,3 +19,4 @@
 [2014-09-29 07:25:46] operatia_, joining. (#ios-driver)
 [2014-09-29 07:29:27] operatiay, quitting. (Ping timeout: 245 seconds)
 [2014-09-29 07:35:40] elstif, joining. (#ios-driver)
+[2014-09-29 08:07:12] elstif, quitting. (Quit: Leaving.)
