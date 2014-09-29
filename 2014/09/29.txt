@@ -6,3 +6,4 @@
 [2014-09-29 01:50:26] elstif, quitting. (Quit: Leaving.)
 [2014-09-29 01:57:23] elstif, joining. (#ios-driver)
 [2014-09-29 02:11:44] freynaud, joining. (#ios-driver)
+[2014-09-29 02:43:08] elstif, quitting. (Quit: Leaving.)
