@@ -27,3 +27,4 @@
 [2014-09-29 08:28:17] lukeis, joining. (#ios-driver)
 [2014-09-29 08:53:26] smccarthy, joining. (#ios-driver)
 [2014-09-29 10:41:24] elstif, joining. (#ios-driver)
+[2014-09-29 11:24:03] elstif, quitting. (Quit: Leaving.)
