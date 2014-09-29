@@ -22,3 +22,5 @@
 [2014-09-29 08:07:12] elstif, quitting. (Quit: Leaving.)
 [2014-09-29 08:10:44] operatia_, quitting. (Remote host closed the connection)
 [2014-09-29 08:11:17] operatiay, joining. (#ios-driver)
+[2014-09-29 08:22:00] elstif, joining. (#ios-driver)
+[2014-09-29 08:22:05] elstif, quitting. (Client Quit)
