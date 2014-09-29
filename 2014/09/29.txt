@@ -32,3 +32,4 @@
 [2014-09-29 12:55:09] smccarthy, quitting. (Remote host closed the connection)
 [2014-09-29 12:56:46] smccarthy, joining. (#ios-driver)
 [2014-09-29 12:58:31] elstif, joining. (#ios-driver)
+[2014-09-29 13:16:03] elstif, quitting. (Quit: Leaving.)
