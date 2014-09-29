@@ -25,3 +25,4 @@
 [2014-09-29 08:22:00] elstif, joining. (#ios-driver)
 [2014-09-29 08:22:05] elstif, quitting. (Client Quit)
 [2014-09-29 08:28:17] lukeis, joining. (#ios-driver)
+[2014-09-29 08:53:26] smccarthy, joining. (#ios-driver)
