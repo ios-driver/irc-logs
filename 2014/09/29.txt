@@ -45,3 +45,4 @@
 [2014-09-29 15:48:52] elstif, quitting. (Client Quit)
 [2014-09-29 16:03:23] lukeis, quitting. (Quit: Leaving.)
 [2014-09-29 17:12:58] smccarthy, quitting. (Quit: Leaving...)
+[2014-09-29 18:47:07] smccarthy, joining. (#ios-driver)
