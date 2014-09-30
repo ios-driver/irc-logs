@@ -51,3 +51,4 @@
 [2014-09-30 14:49:39] rycco: (I want to use ruby)
 [2014-09-30 15:11:28] rycco, quitting. (Quit: Page closed)
 [2014-09-30 15:34:17] nirvdrum, joining. (#ios-driver)
+[2014-09-30 15:53:45] tkriz, quitting. (Quit: Leaving.)
