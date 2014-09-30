@@ -50,3 +50,4 @@
 [2014-09-30 14:49:34] rycco: I'm testing a mobile website using appium and I need to simulate touch events like swipe, but appium doesn't support it. Does Ios-driver supports it?
 [2014-09-30 14:49:39] rycco: (I want to use ruby)
 [2014-09-30 15:11:28] rycco, quitting. (Quit: Page closed)
+[2014-09-30 15:34:17] nirvdrum, joining. (#ios-driver)
