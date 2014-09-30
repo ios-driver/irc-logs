@@ -28,3 +28,9 @@
 [2014-09-30 09:44:00] smccarthy, quitting. (Remote host closed the connection)
 [2014-09-30 09:44:33] smccarthy, joining. (#ios-driver)
 [2014-09-30 09:50:06] santiycr, joining. (#ios-driver)
+[2014-09-30 10:20:12] ios-driver-git, joining. (#ios-driver)
+[2014-09-30 10:20:12] ios-driver-git: [ios-driver] freynaud pushed 3 new commits to dev: http://git.io/IClSXQ
+[2014-09-30 10:20:12] ios-driver-git: ios-driver/dev ab5f8f9 freynaud: more logs cleanup. Webdriver exception shouldn't be used on the server, as their getMessage is client focused.
+[2014-09-30 10:20:12] ios-driver-git: ios-driver/dev 466b9ae freynaud: cleaning up logs
+[2014-09-30 10:20:12] ios-driver-git: ios-driver/dev d20de71 freynaud: adding a jar that contains all the ios specific code, but without any of the selenium dependencies....
+[2014-09-30 10:20:12] ios-driver-git, leaving. (#ios-driver)
