@@ -7,3 +7,4 @@
 [2014-09-30 04:00:02] elstif, quitting. (Client Quit)
 [2014-09-30 05:18:21] rodrigomartin, joining. (#ios-driver)
 [2014-09-30 05:22:48] rodrigomartin, quitting. (Ping timeout: 260 seconds)
+[2014-09-30 05:26:58] rodrigomartin, joining. (#ios-driver)
