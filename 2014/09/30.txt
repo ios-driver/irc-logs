@@ -53,3 +53,4 @@
 [2014-09-30 15:34:17] nirvdrum, joining. (#ios-driver)
 [2014-09-30 15:53:45] tkriz, quitting. (Quit: Leaving.)
 [2014-09-30 16:01:48] lukeis, quitting. (Quit: Leaving.)
+[2014-09-30 16:07:52] smccarthy, quitting. (Quit: Leaving...)
