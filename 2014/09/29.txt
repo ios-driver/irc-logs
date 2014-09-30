@@ -46,3 +46,4 @@
 [2014-09-29 16:03:23] lukeis, quitting. (Quit: Leaving.)
 [2014-09-29 17:12:58] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-29 18:47:07] smccarthy, joining. (#ios-driver)
+[2014-09-29 19:46:34] nirvdrum, joining. (#ios-driver)
