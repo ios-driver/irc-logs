@@ -31,3 +31,4 @@
 [2014-10-01 08:26:38] lukeis, joining. (#ios-driver)
 [2014-10-01 10:09:01] ddary, joining. (#ios-driver)
 [2014-10-01 10:09:48] ddary, quitting. (Client Quit)
+[2014-10-01 10:15:09] ddary, joining. (#ios-driver)
