@@ -39,3 +39,5 @@
 [2014-10-01 11:56:12] freynaud, joining. (#ios-driver)
 [2014-10-01 12:03:04] rodrigomartin, quitting. (Read error: Connection reset by peer)
 [2014-10-01 12:03:19] rodrigomartin, joining. (#ios-driver)
+[2014-10-01 13:03:24] rodrigomartin1, joining. (#ios-driver)
+[2014-10-01 13:03:37] rodrigomartin, quitting. (Ping timeout: 260 seconds)
