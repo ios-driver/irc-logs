@@ -33,3 +33,4 @@
 [2014-10-01 10:09:48] ddary, quitting. (Client Quit)
 [2014-10-01 10:15:09] ddary, joining. (#ios-driver)
 [2014-10-01 10:40:16] psp250, joining. (#ios-driver)
+[2014-10-01 10:53:07] santiycr, joining. (#ios-driver)
