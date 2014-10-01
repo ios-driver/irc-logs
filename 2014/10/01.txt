@@ -45,3 +45,4 @@
 [2014-10-01 13:11:44] ddary, leaving. (#ios-driver)
 [2014-10-01 13:25:33] rodrigomartin, joining. (#ios-driver)
 [2014-10-01 13:40:28] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-10-01 14:16:13] psp250, quitting. (Quit: Leaving)
