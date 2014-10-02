@@ -41,3 +41,7 @@
 [2014-10-02 14:36:40] mach6: I've reached out to my reynaud.. no answer yet. :)
 [2014-10-02 14:36:47] mach6: err *mr reynaud
 [2014-10-02 14:37:27] lukeis: i think i recently pushed a fix for that
+[2014-10-02 14:40:02] mach6: k. is that your change from about 2hrs ago?
+[2014-10-02 14:40:05] mach6: on dev
+[2014-10-02 14:42:30] lukeis: it was d8d3dcc  that I only pushed up a few hours ago
+[2014-10-02 14:42:50] lukeis: (i think)
