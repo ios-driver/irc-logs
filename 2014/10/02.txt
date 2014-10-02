@@ -50,3 +50,5 @@
 [2014-10-02 15:06:48] mach6: but it's a different error. :)
 [2014-10-02 15:25:24] mach6: hey hey .. so a mobile safari test just passed.. i rebuilt from dev branch (again) after cleaning my local maven repo.. odd, i know
 [2014-10-02 15:32:30] lukeis, quitting. (Quit: Leaving.)
+[2014-10-02 16:22:07] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-02 16:24:16] mach6, quitting. (Ping timeout: 246 seconds)
