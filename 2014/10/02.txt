@@ -17,3 +17,4 @@
 [2014-10-02 03:58:44] ios-driver-git: ios-driver/dev dcd0bbc Mehdi Mulani: Support iOS 8.1/Xcode 6.1
 [2014-10-02 03:58:44] ios-driver-git, leaving. (#ios-driver)
 [2014-10-02 04:50:28] nirvdrum, joining. (#ios-driver)
+[2014-10-02 06:14:28] rodrigomartin, joining. (#ios-driver)
