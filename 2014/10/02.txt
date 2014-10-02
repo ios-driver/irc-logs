@@ -36,3 +36,8 @@
 [2014-10-02 14:05:53] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-10-02 14:33:39] mach6, joining. (#ios-driver)
 [2014-10-02 14:34:45] mach6: hi, anyone around? I'm wondering if 'mvn test' is supposed to work from the ios-driver dev branch?  With xcode6 and ios8, I get app crashes
+[2014-10-02 14:35:43] lukeis: for mobile safari? yeah, i get app crashes too… startup on mobile safari on ios8 is at about 25% success rate :-/  haven't figured out why yet
+[2014-10-02 14:36:29] mach6: k. thanks! yea mobile safari. For native/hybrid apps I get a different error.. something about 2instances should be 1.
+[2014-10-02 14:36:40] mach6: I've reached out to my reynaud.. no answer yet. :)
+[2014-10-02 14:36:47] mach6: err *mr reynaud
+[2014-10-02 14:37:27] lukeis: i think i recently pushed a fix for that
