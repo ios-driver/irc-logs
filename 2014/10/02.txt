@@ -45,3 +45,4 @@
 [2014-10-02 14:40:05] mach6: on dev
 [2014-10-02 14:42:30] lukeis: it was d8d3dcc  that I only pushed up a few hours ago
 [2014-10-02 14:42:50] lukeis: (i think)
+[2014-10-02 14:45:04] mach6: k. let me try with latest dev branch (including your changes) for native app.
