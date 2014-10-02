@@ -33,3 +33,4 @@
 [2014-10-02 12:43:27] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to dev: http://git.io/_cfiTQ
 [2014-10-02 12:43:27] ios-driver-git: ios-driver/dev 08f88da Luke Inman-Semerau: iOS8 safari element location fix / click on the center now too!
 [2014-10-02 12:43:27] ios-driver-git, leaving. (#ios-driver)
+[2014-10-02 14:05:53] rodrigomartin, quitting. (Quit: Leaving.)
