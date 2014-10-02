@@ -48,3 +48,4 @@
 [2014-10-02 14:45:04] mach6: k. let me try with latest dev branch (including your changes) for native app.
 [2014-10-02 15:06:24] mach6: so with latest dev branch -- trying to run InternationalMountains, I still get app crash :(
 [2014-10-02 15:06:48] mach6: but it's a different error. :)
+[2014-10-02 15:25:24] mach6: hey hey .. so a mobile safari test just passed.. i rebuilt from dev branch (again) after cleaning my local maven repo.. odd, i know
