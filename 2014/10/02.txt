@@ -9,3 +9,6 @@
 [2014-10-02 03:10:44] ios-driver-git: [ios-driver] darraghgrace pushed 1 new commit to largedatafix: http://git.io/rWiQ1Q
 [2014-10-02 03:10:44] ios-driver-git: ios-driver/largedatafix bf9352c Darragh Grace: if the response from instruments is over 20000 chars then chunk the response for delivery
 [2014-10-02 03:10:44] ios-driver-git, leaving. (#ios-driver)
+[2014-10-02 03:29:08] ios-driver-git, joining. (#ios-driver)
+[2014-10-02 03:29:08] ios-driver-git: [ios-driver] darraghgrace opened pull request #295: Handle large data responses (dev...largedatafix) http://git.io/TMSo-w
+[2014-10-02 03:29:08] ios-driver-git, leaving. (#ios-driver)
