@@ -12,3 +12,7 @@
 [2014-10-02 03:29:08] ios-driver-git, joining. (#ios-driver)
 [2014-10-02 03:29:08] ios-driver-git: [ios-driver] darraghgrace opened pull request #295: Handle large data responses (dev...largedatafix) http://git.io/TMSo-w
 [2014-10-02 03:29:08] ios-driver-git, leaving. (#ios-driver)
+[2014-10-02 03:58:44] ios-driver-git, joining. (#ios-driver)
+[2014-10-02 03:58:44] ios-driver-git: [ios-driver] mmmulani pushed 1 new commit to dev: http://git.io/tVyCwQ
+[2014-10-02 03:58:44] ios-driver-git: ios-driver/dev dcd0bbc Mehdi Mulani: Support iOS 8.1/Xcode 6.1
+[2014-10-02 03:58:44] ios-driver-git, leaving. (#ios-driver)
