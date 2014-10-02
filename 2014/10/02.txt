@@ -34,3 +34,5 @@
 [2014-10-02 12:43:27] ios-driver-git: ios-driver/dev 08f88da Luke Inman-Semerau: iOS8 safari element location fix / click on the center now too!
 [2014-10-02 12:43:27] ios-driver-git, leaving. (#ios-driver)
 [2014-10-02 14:05:53] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-10-02 14:33:39] mach6, joining. (#ios-driver)
+[2014-10-02 14:34:45] mach6: hi, anyone around? I'm wondering if 'mvn test' is supposed to work from the ios-driver dev branch?  With xcode6 and ios8, I get app crashes
