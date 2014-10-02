@@ -22,3 +22,8 @@
 [2014-10-02 08:32:00] nirvdrum, quitting. (Quit: Leaving)
 [2014-10-02 08:53:03] smccarthy, joining. (#ios-driver)
 [2014-10-02 08:55:57] lukeis, joining. (#ios-driver)
+[2014-10-02 10:17:14] ios-driver-git, joining. (#ios-driver)
+[2014-10-02 10:17:14] ios-driver-git: [ios-driver] lukeis pushed 2 new commits to dev: http://git.io/6HBjbw
+[2014-10-02 10:17:14] ios-driver-git: ios-driver/dev 7179ad4 Luke Inman-Semerau: add mapping for element.getSize()
+[2014-10-02 10:17:14] ios-driver-git: ios-driver/dev d8d3dcc Luke Inman-Semerau: Added ExecuteHostHandler.java...
+[2014-10-02 10:17:14] ios-driver-git, leaving. (#ios-driver)
