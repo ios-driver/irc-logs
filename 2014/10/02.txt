@@ -28,3 +28,4 @@
 [2014-10-02 10:17:14] ios-driver-git: ios-driver/dev d8d3dcc Luke Inman-Semerau: Added ExecuteHostHandler.java...
 [2014-10-02 10:17:14] ios-driver-git, leaving. (#ios-driver)
 [2014-10-02 11:03:25] santiycr, joining. (#ios-driver)
+[2014-10-02 11:21:01] santiycr, leaving. (#ios-driver)
