@@ -11,3 +11,4 @@
 [2014-10-03 09:02:36] smccarthy, joining. (#ios-driver)
 [2014-10-03 09:11:15] lukeis, joining. (#ios-driver)
 [2014-10-03 09:41:44] lukeis, quitting. (Quit: Leaving.)
+[2014-10-03 09:48:04] lukeis, joining. (#ios-driver)
