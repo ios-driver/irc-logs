@@ -18,3 +18,5 @@
 [2014-10-03 11:07:07] ddary, joining. (#ios-driver)
 [2014-10-03 11:07:09] ddary, quitting. (Client Quit)
 [2014-10-03 11:32:50] operatiay, joining. (#ios-driver)
+[2014-10-03 13:21:33] lukeis, joining. (#ios-driver)
+[2014-10-03 13:23:15] lukeis1, joining. (#ios-driver)
