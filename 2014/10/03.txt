@@ -10,3 +10,4 @@
 [2014-10-03 08:56:27] tkriz, quitting. (Ping timeout: 245 seconds)
 [2014-10-03 09:02:36] smccarthy, joining. (#ios-driver)
 [2014-10-03 09:11:15] lukeis, joining. (#ios-driver)
+[2014-10-03 09:41:44] lukeis, quitting. (Quit: Leaving.)
