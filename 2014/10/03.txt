@@ -6,3 +6,4 @@
 [2014-10-03 06:40:42] ios-driver-git: [ios-driver] mmmulani pushed 1 new commit to dev: http://git.io/q37rJA
 [2014-10-03 06:40:42] ios-driver-git: ios-driver/dev 5b2ef3b Mehdi Mulani: Update instruments-without-delay to latest.
 [2014-10-03 06:40:42] ios-driver-git, leaving. (#ios-driver)
+[2014-10-03 08:03:28] operatiay, quitting. (Remote host closed the connection)
