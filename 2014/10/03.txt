@@ -26,3 +26,4 @@
 [2014-10-03 13:52:08] rodrigomartin, joining. (#ios-driver)
 [2014-10-03 13:56:22] rodrigomartin, quitting. (Ping timeout: 250 seconds)
 [2014-10-03 14:19:36] lukeis1, changing nick to lukeis.
+[2014-10-03 16:26:01] smccarthy, quitting. (Quit: Leaving...)
