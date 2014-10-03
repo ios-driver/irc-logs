@@ -1,1 +1,2 @@
 [2014-10-03 00:48:38] dgrace__, joining. (#ios-driver)
+[2014-10-03 05:34:47] operatiay, quitting. (Remote host closed the connection)
