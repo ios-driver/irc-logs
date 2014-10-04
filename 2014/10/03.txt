@@ -39,3 +39,5 @@
 [2014-10-03 21:48:52] operatiay, quitting. (Ping timeout: 240 seconds)
 [2014-10-03 22:33:14] ddary, joining. (#ios-driver)
 [2014-10-03 22:42:37] ddary, quitting. (Quit: ddary)
+[2014-10-03 22:50:30] ddary, joining. (#ios-driver)
+[2014-10-03 22:53:00] ddary, leaving. (#ios-driver)
