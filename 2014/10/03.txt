@@ -28,3 +28,4 @@
 [2014-10-03 14:19:36] lukeis1, changing nick to lukeis.
 [2014-10-03 16:26:01] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-03 18:03:28] nirvdrum, joining. (#ios-driver)
+[2014-10-03 19:53:56] AutomatedTester_, joining. (#ios-driver)
