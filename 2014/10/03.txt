@@ -33,3 +33,4 @@
 [2014-10-03 19:56:44] AutomatedTester_, changing nick to AutomatedTester.
 [2014-10-03 19:56:49] AutomatedTester, quitting. (Changing host)
 [2014-10-03 19:56:49] AutomatedTester, joining. (#ios-driver)
+[2014-10-03 20:05:12] nirvdrum, quitting. (Ping timeout: 245 seconds)
