@@ -4,3 +4,6 @@
 [2014-10-06 01:47:08] tkriz, joining. (#ios-driver)
 [2014-10-06 03:04:30] operatiay, quitting. (Remote host closed the connection)
 [2014-10-06 03:36:31] operatiay, joining. (#ios-driver)
+[2014-10-06 03:48:14] ios-driver-git, joining. (#ios-driver)
+[2014-10-06 03:48:14] ios-driver-git: [ios-driver] iamleeg opened pull request #296: Replace the flag for choosing a view coordinate to report with an enum. (dev...enumerate-view-positions) http://git.io/QlO3PQ
+[2014-10-06 03:48:14] ios-driver-git, leaving. (#ios-driver)
