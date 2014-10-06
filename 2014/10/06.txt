@@ -12,3 +12,9 @@
 [2014-10-06 04:29:39] ios-driver-git: ios-driver/dev 7ef627d Graham Lee: Replace the flag for choosing a view coordinate to report with an enum....
 [2014-10-06 04:29:39] ios-driver-git: ios-driver/dev 6111dfb abhijit1234: Merge pull request #296 from iamleeg/enumerate-view-positions...
 [2014-10-06 04:29:39] ios-driver-git, leaving. (#ios-driver)
+[2014-10-06 04:54:35] ios-driver-git, joining. (#ios-driver)
+[2014-10-06 04:54:35] ios-driver-git: [ios-driver] freynaud pushed 3 new commits to dev: http://git.io/MT4YVQ
+[2014-10-06 04:54:35] ios-driver-git: ios-driver/dev dd23a20 freynaud: if safari doesn't public its pages, a retry normally solves the issue. Better to have the logic server side.
+[2014-10-06 04:54:35] ios-driver-git, leaving. (#ios-driver)
+[2014-10-06 04:54:35] ios-driver-git: ios-driver/dev 5a1a19b freynaud: putting missing module back
+[2014-10-06 04:54:35] ios-driver-git: ios-driver/dev 42be48a freynaud: cleaning up logs
