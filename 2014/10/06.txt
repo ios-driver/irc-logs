@@ -7,3 +7,8 @@
 [2014-10-06 03:48:14] ios-driver-git, joining. (#ios-driver)
 [2014-10-06 03:48:14] ios-driver-git: [ios-driver] iamleeg opened pull request #296: Replace the flag for choosing a view coordinate to report with an enum. (dev...enumerate-view-positions) http://git.io/QlO3PQ
 [2014-10-06 03:48:14] ios-driver-git, leaving. (#ios-driver)
+[2014-10-06 04:29:38] ios-driver-git, joining. (#ios-driver)
+[2014-10-06 04:29:38] ios-driver-git: [ios-driver] abhijit1234 pushed 2 new commits to dev: http://git.io/fTrwsw
+[2014-10-06 04:29:39] ios-driver-git: ios-driver/dev 7ef627d Graham Lee: Replace the flag for choosing a view coordinate to report with an enum....
+[2014-10-06 04:29:39] ios-driver-git: ios-driver/dev 6111dfb abhijit1234: Merge pull request #296 from iamleeg/enumerate-view-positions...
+[2014-10-06 04:29:39] ios-driver-git, leaving. (#ios-driver)
