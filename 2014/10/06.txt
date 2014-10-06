@@ -31,3 +31,4 @@
 [2014-10-06 08:28:15] nirvdrum, quitting. (Ping timeout: 244 seconds)
 [2014-10-06 08:28:32] nirvdrum_, changing nick to nirvdrum.
 [2014-10-06 09:41:54] operatiay, quitting. (Remote host closed the connection)
+[2014-10-06 11:28:11] smccarthy, quitting. (Quit: Leaving...)
