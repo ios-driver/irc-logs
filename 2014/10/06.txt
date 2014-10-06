@@ -41,3 +41,4 @@
 [2014-10-06 12:33:55] ios-driver-git: ios-driver/dev 4ca0729 Luke Inman-Semerau: fix script error with extra paren left in
 [2014-10-06 12:33:55] ios-driver-git, leaving. (#ios-driver)
 [2014-10-06 13:06:17] rodrigomartin, quitting. (Ping timeout: 272 seconds)
+[2014-10-06 13:10:36] rodrigomartin, joining. (#ios-driver)
