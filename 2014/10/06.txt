@@ -43,3 +43,5 @@
 [2014-10-06 13:06:17] rodrigomartin, quitting. (Ping timeout: 272 seconds)
 [2014-10-06 13:10:36] rodrigomartin, joining. (#ios-driver)
 [2014-10-06 13:39:22] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
+[2014-10-06 13:42:14] smccarthy, joining. (#ios-driver)
+[2014-10-06 13:42:39] AutomatedTester, joining. (#ios-driver)
