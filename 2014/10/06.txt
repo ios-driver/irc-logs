@@ -36,3 +36,7 @@
 [2014-10-06 12:04:40] rodrigomartin, quitting. (Read error: Connection reset by peer)
 [2014-10-06 12:06:40] rodrigomartin, joining. (#ios-driver)
 [2014-10-06 12:07:15] rodrigomartin1, quitting. (Client Quit)
+[2014-10-06 12:33:55] ios-driver-git, joining. (#ios-driver)
+[2014-10-06 12:33:55] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to dev: http://git.io/WS4N1A
+[2014-10-06 12:33:55] ios-driver-git: ios-driver/dev 4ca0729 Luke Inman-Semerau: fix script error with extra paren left in
+[2014-10-06 12:33:55] ios-driver-git, leaving. (#ios-driver)
