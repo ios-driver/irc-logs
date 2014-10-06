@@ -51,3 +51,4 @@
 [2014-10-06 15:48:51] operatiay, quitting. (Ping timeout: 246 seconds)
 [2014-10-06 15:52:30] ad_, joining. (#ios-driver)
 [2014-10-06 15:54:17] ad_: Hello. I am using ios-driver for our automation work. Any time line when ios8 support is going to be released ?
+[2014-10-06 15:58:40] smccarthy, quitting. (Quit: Leaving...)
