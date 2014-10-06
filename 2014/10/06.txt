@@ -46,3 +46,5 @@
 [2014-10-06 13:42:14] smccarthy, joining. (#ios-driver)
 [2014-10-06 13:42:39] AutomatedTester, joining. (#ios-driver)
 [2014-10-06 15:22:11] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-10-06 15:41:52] nirvdrum, quitting. (Ping timeout: 245 seconds)
+[2014-10-06 15:44:17] operatiay, joining. (#ios-driver)
