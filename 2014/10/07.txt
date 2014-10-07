@@ -42,3 +42,4 @@
 [2014-10-07 09:22:05] freynaud, quitting. (Remote host closed the connection)
 [2014-10-07 09:47:10] nicegraham____, joining. (#ios-driver)
 [2014-10-07 09:48:51] freynaud, joining. (#ios-driver)
+[2014-10-07 10:19:24] ddary, joining. (#ios-driver)
