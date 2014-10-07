@@ -46,3 +46,4 @@
 [2014-10-07 10:33:13] smccarthy, joining. (#ios-driver)
 [2014-10-07 11:46:32] ddary, quitting. (Quit: ddary)
 [2014-10-07 14:44:05] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-10-07 15:10:16] smccarthy, quitting. (Quit: Leaving...)
