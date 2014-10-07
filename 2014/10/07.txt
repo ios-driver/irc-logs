@@ -30,3 +30,7 @@
 [2014-10-07 07:50:08] ddary, quitting. (Client Quit)
 [2014-10-07 07:52:23] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-07 08:34:42] ddary, joining. (#ios-driver)
+[2014-10-07 08:41:40] tkriz, quitting. (Quit: Leaving.)
+[2014-10-07 08:43:40] tkriz, joining. (#ios-driver)
+[2014-10-07 08:43:40] tkriz, quitting. (Changing host)
+[2014-10-07 08:43:40] tkriz, joining. (#ios-driver)
