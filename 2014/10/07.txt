@@ -8,3 +8,6 @@
 [2014-10-07 01:37:11] tkriz1, quitting. (Quit: Leaving.)
 [2014-10-07 02:10:29] operatiay, quitting. (Remote host closed the connection)
 [2014-10-07 02:16:12] operatiay, joining. (#ios-driver)
+[2014-10-07 02:47:39] tkriz, joining. (#ios-driver)
+[2014-10-07 02:47:39] tkriz, quitting. (Changing host)
+[2014-10-07 02:47:39] tkriz, joining. (#ios-driver)
