@@ -25,3 +25,5 @@
 [2014-10-07 07:13:08] ddary, joining. (#ios-driver)
 [2014-10-07 07:35:33] ddary, quitting. (Quit: ddary)
 [2014-10-07 07:42:52] nirvdrum, joining. (#ios-driver)
+[2014-10-07 07:46:03] smccarthy, joining. (#ios-driver)
+[2014-10-07 07:47:34] ddary, joining. (#ios-driver)
