@@ -1,3 +1,7 @@
 [2014-10-07 00:26:35] operatiay, joining. (#ios-driver)
 [2014-10-07 01:22:07] operatiay, quitting. (Remote host closed the connection)
 [2014-10-07 01:25:01] operatiay, joining. (#ios-driver)
+[2014-10-07 01:31:37] tkriz1, joining. (#ios-driver)
+[2014-10-07 01:31:37] tkriz1, quitting. (Changing host)
+[2014-10-07 01:31:38] tkriz1, joining. (#ios-driver)
+[2014-10-07 01:33:12] tkriz, quitting. (Ping timeout: 260 seconds)
