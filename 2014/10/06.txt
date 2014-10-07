@@ -61,3 +61,4 @@
 [2014-10-06 17:38:25] ad_, quitting. (Ping timeout: 246 seconds)
 [2014-10-06 18:40:02] nirvdrum, joining. (#ios-driver)
 [2014-10-06 19:45:53] operatiay, joining. (#ios-driver)
+[2014-10-06 19:50:22] operatiay, quitting. (Ping timeout: 240 seconds)
