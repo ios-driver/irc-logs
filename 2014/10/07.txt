@@ -23,3 +23,4 @@
 [2014-10-07 06:09:30] ddary, joining. (#ios-driver)
 [2014-10-07 06:13:04] ddary, quitting. (Client Quit)
 [2014-10-07 07:13:08] ddary, joining. (#ios-driver)
+[2014-10-07 07:35:33] ddary, quitting. (Quit: ddary)
