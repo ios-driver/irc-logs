@@ -34,3 +34,6 @@
 [2014-10-07 08:43:40] tkriz, joining. (#ios-driver)
 [2014-10-07 08:43:40] tkriz, quitting. (Changing host)
 [2014-10-07 08:43:40] tkriz, joining. (#ios-driver)
+[2014-10-07 08:50:30] ddary, quitting. (Quit: ddary)
+[2014-10-07 08:51:37] lukeis, joining. (#ios-driver)
+[2014-10-07 08:54:06] ddary, joining. (#ios-driver)
