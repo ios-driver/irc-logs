@@ -49,3 +49,7 @@
 [2014-10-08 13:02:14] smccarthy2, quitting. (Quit: Leaving...)
 [2014-10-08 14:52:08] rodrigomartin, quitting. (Remote host closed the connection)
 [2014-10-08 16:02:21] lukeis, quitting. (Quit: Leaving.)
+[2014-10-08 16:46:30] ios-driver-git, joining. (#ios-driver)
+[2014-10-08 16:46:30] ios-driver-git: [ios-driver] abhijit1234 opened pull request #297: Launching instruments for the 1st time with existing content and settings folder doesn't launch app in Xcode 6 (dev...dev) http://git.io/T8k_Qw
+[2014-10-08 16:46:31] ios-driver-git, leaving. (#ios-driver)
+[2014-10-08 16:47:44] smccarthy, joining. (#ios-driver)
