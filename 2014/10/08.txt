@@ -8,3 +8,8 @@
 [2014-10-08 04:11:31] nicegraham____, joining. (#ios-driver)
 [2014-10-08 04:57:44] nirvdrum, joining. (#ios-driver)
 [2014-10-08 06:37:04] smccarthy, joining. (#ios-driver)
+[2014-10-08 06:41:20] nirvdrum, quitting. (Ping timeout: 260 seconds)
+[2014-10-08 06:43:45] ios-driver-git, joining. (#ios-driver)
+[2014-10-08 06:43:45] ios-driver-git: [ios-driver] mmmulani pushed 1 new commit to dev: http://git.io/Ubo1TA
+[2014-10-08 06:43:45] ios-driver-git, leaving. (#ios-driver)
+[2014-10-08 06:43:45] ios-driver-git: ios-driver/dev 3f44ee4 Mehdi Mulani: Add instruments-without-delay for Xcode 6.1 GM 2.
