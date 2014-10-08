@@ -14,3 +14,5 @@
 [2014-10-08 06:43:45] ios-driver-git, leaving. (#ios-driver)
 [2014-10-08 06:43:45] ios-driver-git: ios-driver/dev 3f44ee4 Mehdi Mulani: Add instruments-without-delay for Xcode 6.1 GM 2.
 [2014-10-08 07:09:05] rodrigomartin, joining. (#ios-driver)
+[2014-10-08 07:37:43] nirvdrum, joining. (#ios-driver)
+[2014-10-08 07:39:45] operatiay, quitting. (Remote host closed the connection)
