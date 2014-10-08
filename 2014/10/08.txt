@@ -24,3 +24,5 @@
 [2014-10-08 08:02:55] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-08 08:17:36] nirvdrum, joining. (#ios-driver)
 [2014-10-08 08:29:53] lukeis, joining. (#ios-driver)
+[2014-10-08 09:01:10] smccarthy, joining. (#ios-driver)
+[2014-10-08 09:03:19] smccarthy, quitting. (Read error: Connection reset by peer)
