@@ -7,3 +7,4 @@
 [2014-10-08 04:11:31] nicegraham____, quitting. (Changing host)
 [2014-10-08 04:11:31] nicegraham____, joining. (#ios-driver)
 [2014-10-08 04:57:44] nirvdrum, joining. (#ios-driver)
+[2014-10-08 06:37:04] smccarthy, joining. (#ios-driver)
