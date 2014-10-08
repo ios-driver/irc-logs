@@ -48,3 +48,4 @@
 [2014-10-08 12:17:33] smccarthy, quitting. (Ping timeout: 244 seconds)
 [2014-10-08 13:02:14] smccarthy2, quitting. (Quit: Leaving...)
 [2014-10-08 14:52:08] rodrigomartin, quitting. (Remote host closed the connection)
+[2014-10-08 16:02:21] lukeis, quitting. (Quit: Leaving.)
