@@ -21,3 +21,4 @@
 [2014-10-08 07:45:05] tkriz, quitting. (Quit: Leaving.)
 [2014-10-08 07:46:17] operatiay, quitting. (Ping timeout: 272 seconds)
 [2014-10-08 07:48:30] operatiay, joining. (#ios-driver)
+[2014-10-08 08:02:55] smccarthy, quitting. (Quit: Leaving...)
