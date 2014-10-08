@@ -23,3 +23,4 @@
 [2014-10-08 07:48:30] operatiay, joining. (#ios-driver)
 [2014-10-08 08:02:55] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-08 08:17:36] nirvdrum, joining. (#ios-driver)
+[2014-10-08 08:29:53] lukeis, joining. (#ios-driver)
