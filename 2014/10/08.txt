@@ -33,3 +33,4 @@
 [2014-10-08 09:17:29] nirvdrum, quitting. (Ping timeout: 272 seconds)
 [2014-10-08 09:28:37] tkriz, quitting. (Quit: Leaving.)
 [2014-10-08 09:32:44] nirvdrum, joining. (#ios-driver)
+[2014-10-08 09:38:37] nirvdrum, quitting. (Remote host closed the connection)
