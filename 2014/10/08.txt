@@ -44,3 +44,5 @@
 [2014-10-08 11:38:59] smccarthy, joining. (#ios-driver)
 [2014-10-08 11:39:29] smccarthy, quitting. (Remote host closed the connection)
 [2014-10-08 12:02:31] smccarthy, joining. (#ios-driver)
+[2014-10-08 12:16:06] smccarthy2, joining. (#ios-driver)
+[2014-10-08 12:17:33] smccarthy, quitting. (Ping timeout: 244 seconds)
