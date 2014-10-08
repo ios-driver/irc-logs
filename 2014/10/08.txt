@@ -1,3 +1,4 @@
 [2014-10-08 00:25:21] operatiay, joining. (#ios-driver)
 [2014-10-08 01:10:11] operatiay, quitting. (Remote host closed the connection)
 [2014-10-08 03:12:04] dgrace__, quitting. (Quit: Connection closed for inactivity)
+[2014-10-08 03:34:00] operatiay, joining. (#ios-driver)
