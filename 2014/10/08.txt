@@ -30,3 +30,4 @@
 [2014-10-08 09:11:43] tkriz, quitting. (Changing host)
 [2014-10-08 09:11:43] tkriz, joining. (#ios-driver)
 [2014-10-08 09:12:26] operatiay, quitting. ()
+[2014-10-08 09:17:29] nirvdrum, quitting. (Ping timeout: 272 seconds)
