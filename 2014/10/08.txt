@@ -54,3 +54,4 @@
 [2014-10-08 16:46:31] ios-driver-git, leaving. (#ios-driver)
 [2014-10-08 16:47:44] smccarthy, joining. (#ios-driver)
 [2014-10-08 18:52:22] nirvdrum, quitting. (Ping timeout: 240 seconds)
+[2014-10-08 20:34:32] nirvdrum, joining. (#ios-driver)
