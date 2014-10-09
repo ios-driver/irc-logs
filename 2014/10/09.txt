@@ -12,3 +12,4 @@
 [2014-10-09 09:01:46] smccarthy, quitting. (Client Quit)
 [2014-10-09 09:13:57] lukeis, joining. (#ios-driver)
 [2014-10-09 10:58:28] ddary, joining. (#ios-driver)
+[2014-10-09 11:13:52] ddary, leaving. (#ios-driver)
