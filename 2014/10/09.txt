@@ -14,3 +14,4 @@
 [2014-10-09 10:58:28] ddary, joining. (#ios-driver)
 [2014-10-09 11:13:52] ddary, leaving. (#ios-driver)
 [2014-10-09 12:38:02] smccarthy, joining. (#ios-driver)
+[2014-10-09 13:40:55] mach6, joining. (#ios-driver)
