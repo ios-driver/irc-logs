@@ -29,3 +29,4 @@
 [2014-10-09 21:11:00] mach6, quitting. (Remote host closed the connection)
 [2014-10-09 21:19:57] ddary, joining. (#ios-driver)
 [2014-10-09 21:29:51] ddary, leaving. (#ios-driver)
+[2014-10-09 21:45:14] nirvdrum, quitting. (Ping timeout: 258 seconds)
