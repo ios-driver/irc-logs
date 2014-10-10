@@ -24,3 +24,4 @@
 [2014-10-09 17:54:52] mach6, joining. (#ios-driver)
 [2014-10-09 18:25:30] mach6, quitting. (Remote host closed the connection)
 [2014-10-09 18:29:17] mach6, joining. (#ios-driver)
+[2014-10-09 18:53:26] mach6, quitting. (Remote host closed the connection)
