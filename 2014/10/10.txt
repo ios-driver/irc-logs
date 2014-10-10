@@ -8,3 +8,4 @@
 [2014-10-10 08:51:06] lukeis, joining. (#ios-driver)
 [2014-10-10 10:41:03] ddary, joining. (#ios-driver)
 [2014-10-10 10:52:18] ddary, quitting. (Quit: ddary)
+[2014-10-10 13:30:54] smccarthy, joining. (#ios-driver)
