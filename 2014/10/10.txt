@@ -10,3 +10,4 @@
 [2014-10-10 10:52:18] ddary, quitting. (Quit: ddary)
 [2014-10-10 13:30:54] smccarthy, joining. (#ios-driver)
 [2014-10-10 16:39:46] lukeis, quitting. (Quit: Leaving.)
+[2014-10-10 19:56:10] nirvdrum_, quitting. (Ping timeout: 258 seconds)
