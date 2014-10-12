@@ -1,1 +1,2 @@
 [2014-10-11 19:00:57] nirvdrum_, joining. (#ios-driver)
+[2014-10-11 19:43:37] nirvdrum_, quitting. (Ping timeout: 245 seconds)
