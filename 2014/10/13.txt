@@ -21,3 +21,4 @@
 [2014-10-13 14:17:48] mac6, joining. (#ios-driver)
 [2014-10-13 14:18:28] mac6, leaving. (#ios-driver)
 [2014-10-13 14:21:30] mach6, joining. (#ios-driver)
+[2014-10-13 15:26:06] smccarthy, joining. (#ios-driver)
