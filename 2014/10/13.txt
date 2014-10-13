@@ -18,3 +18,5 @@
 [2014-10-13 11:57:41] ddary, quitting. (Quit: ddary)
 [2014-10-13 13:03:44] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-13 14:06:58] lukeis, joining. (#ios-driver)
+[2014-10-13 14:17:48] mac6, joining. (#ios-driver)
+[2014-10-13 14:18:28] mac6, leaving. (#ios-driver)
