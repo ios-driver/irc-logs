@@ -9,3 +9,4 @@
 [2014-10-14 10:38:19] ddary, joining. (#ios-driver)
 [2014-10-14 11:11:09] ddary, quitting. (Quit: ddary)
 [2014-10-14 11:14:41] mach6, quitting. (Quit: Xaric: If you have a better quit message then submit a patch!)
+[2014-10-14 11:17:23] mach6, joining. (#ios-driver)
