@@ -39,3 +39,5 @@
 [2014-10-13 19:54:06] nicegraham____, quitting. (*.net *.split)
 [2014-10-13 19:54:17] nicegraham_____, changing nick to nicegraham____.
 [2014-10-13 21:21:52] nirvdrum_, quitting. (Ping timeout: 240 seconds)
+[2014-10-13 22:22:20] mach6, joining. (#ios-driver)
+[2014-10-13 22:23:35] mach6, leaving. (#ios-driver)
