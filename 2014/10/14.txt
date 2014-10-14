@@ -11,3 +11,4 @@
 [2014-10-14 11:14:41] mach6, quitting. (Quit: Xaric: If you have a better quit message then submit a patch!)
 [2014-10-14 11:17:23] mach6, joining. (#ios-driver)
 [2014-10-14 11:24:57] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-14 12:16:05] ddary, joining. (#ios-driver)
