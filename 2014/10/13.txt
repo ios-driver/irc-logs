@@ -27,3 +27,4 @@
 [2014-10-13 15:39:36] lukeis, quitting. (Ping timeout: 260 seconds)
 [2014-10-13 15:44:29] operatia_, joining. (#ios-driver)
 [2014-10-13 15:44:30] operatiay, quitting. (Read error: Connection reset by peer)
+[2014-10-13 16:58:44] operatia_, quitting. (Read error: Connection reset by peer)
