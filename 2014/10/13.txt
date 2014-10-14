@@ -31,3 +31,5 @@
 [2014-10-13 17:00:40] operatiay, joining. (#ios-driver)
 [2014-10-13 17:01:47] operatiay, quitting. (Read error: Connection reset by peer)
 [2014-10-13 17:01:55] operatiay, joining. (#ios-driver)
+[2014-10-13 17:15:39] operatiay, quitting. (Read error: Connection reset by peer)
+[2014-10-13 17:15:50] operatiay, joining. (#ios-driver)
