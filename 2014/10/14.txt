@@ -3,3 +3,4 @@
 [2014-10-14 05:30:29] nirvdrum_, joining. (#ios-driver)
 [2014-10-14 05:37:36] rodrigomartin, joining. (#ios-driver)
 [2014-10-14 06:02:51] nirvdrum_, changing nick to nirvdrum.
+[2014-10-14 08:43:03] smccarthy, joining. (#ios-driver)
