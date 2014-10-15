@@ -26,3 +26,4 @@
 [2014-10-15 12:34:53] ddary, quitting. (Quit: ddary)
 [2014-10-15 12:40:02] rodrigomartin, quitting. (Remote host closed the connection)
 [2014-10-15 12:46:47] rodrigomartin, joining. (#ios-driver)
+[2014-10-15 13:11:23] mach6___, quitting. (Quit: Be back later ...)
