@@ -7,3 +7,5 @@
 [2014-10-15 08:27:06] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-10-15 08:27:11] rodrigomartin1, joining. (#ios-driver)
 [2014-10-15 08:42:11] tkriz1, quitting. (Quit: Leaving.)
+[2014-10-15 08:55:36] rodrigomartin1, quitting. (Quit: Leaving.)
+[2014-10-15 08:55:47] rodrigomartin, joining. (#ios-driver)
