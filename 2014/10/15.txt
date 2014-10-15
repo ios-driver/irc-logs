@@ -4,3 +4,5 @@
 [2014-10-15 04:17:04] tkriz, quitting. (Ping timeout: 272 seconds)
 [2014-10-15 05:02:28] nirvdrum_, joining. (#ios-driver)
 [2014-10-15 06:10:02] nirvdrum_, changing nick to nirvdrum.
+[2014-10-15 08:27:06] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-10-15 08:27:11] rodrigomartin1, joining. (#ios-driver)
