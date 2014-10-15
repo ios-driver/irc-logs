@@ -21,3 +21,4 @@
 [2014-10-15 12:13:04] ddary, joining. (#ios-driver)
 [2014-10-15 12:14:14] mach6___, quitting. (Quit: Be back later ...)
 [2014-10-15 12:14:47] mach6___, joining. (#ios-driver)
+[2014-10-15 12:18:52] mach6___, quitting. (Ping timeout: 240 seconds)
