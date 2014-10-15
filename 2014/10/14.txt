@@ -21,3 +21,5 @@
 [2014-10-14 15:48:13] lukeis, quitting. (Quit: Leaving.)
 [2014-10-14 15:54:55] nirvdrum, joining. (#ios-driver)
 [2014-10-14 15:58:33] smccarthy, joining. (#ios-driver)
+[2014-10-14 18:42:24] nirvdrum_, joining. (#ios-driver)
+[2014-10-14 18:42:50] nirvdrum, quitting. (Ping timeout: 272 seconds)
