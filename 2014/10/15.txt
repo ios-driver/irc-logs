@@ -30,3 +30,4 @@
 [2014-10-15 13:16:25] mach6___, joining. (#ios-driver)
 [2014-10-15 13:39:35] mach6___, quitting. (Quit: Be back later ...)
 [2014-10-15 14:10:04] rodrigomartin, quitting. (Remote host closed the connection)
+[2014-10-15 14:20:04] mach6___, joining. (#ios-driver)
