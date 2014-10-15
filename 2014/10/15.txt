@@ -28,3 +28,4 @@
 [2014-10-15 12:46:47] rodrigomartin, joining. (#ios-driver)
 [2014-10-15 13:11:23] mach6___, quitting. (Quit: Be back later ...)
 [2014-10-15 13:16:25] mach6___, joining. (#ios-driver)
+[2014-10-15 13:39:35] mach6___, quitting. (Quit: Be back later ...)
