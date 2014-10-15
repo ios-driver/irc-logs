@@ -16,3 +16,4 @@
 [2014-10-15 10:12:14] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-15 10:29:04] smccarthy, joining. (#ios-driver)
 [2014-10-15 11:13:45] mach6___, joining. (#ios-driver)
+[2014-10-15 11:52:39] rodrigomartin, quitting. (Remote host closed the connection)
