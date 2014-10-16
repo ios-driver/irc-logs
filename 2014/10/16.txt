@@ -20,3 +20,4 @@
 [2014-10-16 11:20:32] AutomatedTester, quitting. (Ping timeout: 258 seconds)
 [2014-10-16 11:21:32] AutomatedTester, joining. (#ios-driver)
 [2014-10-16 12:36:43] lukeis, joining. (#ios-driver)
+[2014-10-16 15:26:12] rodrigomartin, quitting. (Quit: Leaving.)
