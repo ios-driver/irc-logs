@@ -5,3 +5,4 @@
 [2014-10-16 03:32:57] ios-driver-git: [ios-driver] mmmulani pushed 1 new commit to dev: http://git.io/JLgqWw
 [2014-10-16 03:32:57] ios-driver-git: ios-driver/dev 505689e Mehdi Mulani: Change UIAAlert accept implementation to use Apple's button tapping....
 [2014-10-16 03:32:57] ios-driver-git, leaving. (#ios-driver)
+[2014-10-16 06:03:34] rodrigomartin, joining. (#ios-driver)
