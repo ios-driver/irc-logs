@@ -17,3 +17,5 @@
 [2014-10-16 08:08:46] psp250, joining. (#ios-driver)
 [2014-10-16 08:49:49] psp250, quitting. (Quit: Leaving)
 [2014-10-16 09:00:04] smccarthy, joining. (#ios-driver)
+[2014-10-16 11:20:32] AutomatedTester, quitting. (Ping timeout: 258 seconds)
+[2014-10-16 11:21:32] AutomatedTester, joining. (#ios-driver)
