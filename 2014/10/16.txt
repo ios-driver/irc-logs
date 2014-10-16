@@ -7,3 +7,6 @@
 [2014-10-16 03:32:57] ios-driver-git, leaving. (#ios-driver)
 [2014-10-16 06:03:34] rodrigomartin, joining. (#ios-driver)
 [2014-10-16 06:13:56] nirvdrum, quitting. (Quit: Leaving)
+[2014-10-16 06:44:34] ios-driver-git, joining. (#ios-driver)
+[2014-10-16 06:44:34] ios-driver-git: [ios-driver] abhijit1234 closed pull request #298: Added code to shutdown device if the device is already in booted state while erasing content and settings (dev...dev) http://git.io/utfv0w
+[2014-10-16 06:44:34] ios-driver-git, leaving. (#ios-driver)
