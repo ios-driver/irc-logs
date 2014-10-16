@@ -10,3 +10,7 @@
 [2014-10-16 06:44:34] ios-driver-git, joining. (#ios-driver)
 [2014-10-16 06:44:34] ios-driver-git: [ios-driver] abhijit1234 closed pull request #298: Added code to shutdown device if the device is already in booted state while erasing content and settings (dev...dev) http://git.io/utfv0w
 [2014-10-16 06:44:34] ios-driver-git, leaving. (#ios-driver)
+[2014-10-16 06:50:28] ios-driver-git, joining. (#ios-driver)
+[2014-10-16 06:50:28] ios-driver-git: [ios-driver] mmmulani pushed 1 new commit to dev: http://git.io/xKeHaw
+[2014-10-16 06:50:28] ios-driver-git: ios-driver/dev bd60505 Mehdi Mulani: Print .strings file path when unable to parse it
+[2014-10-16 06:50:28] ios-driver-git, leaving. (#ios-driver)
