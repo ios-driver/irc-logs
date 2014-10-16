@@ -14,3 +14,4 @@
 [2014-10-16 06:50:28] ios-driver-git: [ios-driver] mmmulani pushed 1 new commit to dev: http://git.io/xKeHaw
 [2014-10-16 06:50:28] ios-driver-git: ios-driver/dev bd60505 Mehdi Mulani: Print .strings file path when unable to parse it
 [2014-10-16 06:50:28] ios-driver-git, leaving. (#ios-driver)
+[2014-10-16 08:08:46] psp250, joining. (#ios-driver)
