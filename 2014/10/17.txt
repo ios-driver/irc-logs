@@ -48,3 +48,5 @@
 [2014-10-17 06:52:21] freynaud: they moved the tmp workign folder from application support/sim/ sdk
 [2014-10-17 06:52:42] freynaud: still some work to have all the features that worked on xcode5
 [2014-10-17 06:56:51] smccarthy, joining. (#ios-driver)
+[2014-10-17 07:08:28] mmmulani: yea
+[2014-10-17 07:08:39] mmmulani: simctl seems good enough for most of the stuff we were doing before though
