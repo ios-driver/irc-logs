@@ -6,3 +6,27 @@
 [2014-10-17 04:38:25] rodrigomartin, quitting. (Read error: Connection timed out)
 [2014-10-17 04:39:52] rodrigomartin, joining. (#ios-driver)
 [2014-10-17 06:24:59] mmmulani, joining. (#ios-driver)
+[2014-10-17 06:25:21] mmmulani: freynaud: hey, you there?
+[2014-10-17 06:25:26] freynaud: yes
+[2014-10-17 06:25:31] mmmulani: I want to update libimobiledevice-wrapper to use com.dd.plist v1.8
+[2014-10-17 06:25:36] mmmulani: should I make a PR?
+[2014-10-17 06:26:04] freynaud: you don't have access ?
+[2014-10-17 06:26:16] mmmulani: seems not
+[2014-10-17 06:26:22] mmmulani: tried pushing and it failed
+[2014-10-17 06:26:29] mmmulani: (this is to https://github.com/ios-driver/libimobiledevice-wrapper)
+[2014-10-17 06:27:00] freynaud: you should have access now
+[2014-10-17 06:27:05] freynaud: let me know if you don't
+[2014-10-17 06:27:40] freynaud: i'm trying to cleanup to have xcode5 and 6 working, this is a mess :)
+[2014-10-17 06:27:47] mmmulani: yeah :(
+[2014-10-17 06:27:50] freynaud: they changes convention everywhere
+[2014-10-17 06:28:00] freynaud: I've spent a day just on DeviceVariation
+[2014-10-17 06:28:04] mmmulani: cool, worked
+[2014-10-17 06:28:06] mmmulani: ahhh
+[2014-10-17 06:28:09] freynaud: thx
+[2014-10-17 06:29:25] freynaud: https://github.com/freynaud/ios-driver/blob/tmp6/common/src/main/java/org/uiautomation/ios/communication/device/DeviceVariation.java
+[2014-10-17 06:29:29] freynaud: that's the new one.
+[2014-10-17 06:29:48] freynaud: i want to use iphone4s everywhere for instance
+[2014-10-17 06:30:01] ios-driver-git, joining. (#ios-driver)
+[2014-10-17 06:30:01] ios-driver-git: [ios-driver] mmmulani pushed 1 new commit to dev: http://git.io/HtYUkA
+[2014-10-17 06:30:01] ios-driver-git: ios-driver/dev 73a41db Mehdi Mulani: Update com.dd.plist and handle plist parsing error gracefully.
+[2014-10-17 06:30:01] ios-driver-git, leaving. (#ios-driver)
