@@ -76,3 +76,4 @@
 [2014-10-17 16:14:21] mach6__, quitting. (Ping timeout: 246 seconds)
 [2014-10-17 16:42:35] lukeis1, joining. (#ios-driver)
 [2014-10-17 16:44:15] lukeis, quitting. (Ping timeout: 272 seconds)
+[2014-10-17 16:49:37] lukeis1, quitting. (Read error: Connection reset by peer)
