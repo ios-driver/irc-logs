@@ -66,3 +66,4 @@
 [2014-10-17 12:54:50] mmmulani, quitting. (Client Quit)
 [2014-10-17 13:07:37] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-10-17 13:08:02] rodrigomartin, joining. (#ios-driver)
+[2014-10-17 13:12:40] rodrigomartin, quitting. (Ping timeout: 260 seconds)
