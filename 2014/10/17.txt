@@ -30,3 +30,17 @@
 [2014-10-17 06:30:01] ios-driver-git: [ios-driver] mmmulani pushed 1 new commit to dev: http://git.io/HtYUkA
 [2014-10-17 06:30:01] ios-driver-git: ios-driver/dev 73a41db Mehdi Mulani: Update com.dd.plist and handle plist parsing error gracefully.
 [2014-10-17 06:30:01] ios-driver-git, leaving. (#ios-driver)
+[2014-10-17 06:30:04] freynaud: rather than retina_4inch which doesn't make too much sense for users
+[2014-10-17 06:30:32] mmmulani: 4s is supported on ios 8?
+[2014-10-17 06:30:46] freynaud: no, but I'd like to be backward compatible
+[2014-10-17 06:30:55] freynaud: actually, yes it should
+[2014-10-17 06:30:57] freynaud: 4 isn't
+[2014-10-17 06:31:00] mmmulani: oh yeah, it is you're right
+[2014-10-17 06:31:17] mmmulani: yeah the current implementation is only sort of backwards compatible
+[2014-10-17 06:31:18] freynaud: i also want to remove iphone vs ipod
+[2014-10-17 06:31:20] mmmulani: like old scripts still work
+[2014-10-17 06:31:35] mmmulani: but you can't run stuff targeting new devices on old xcode
+[2014-10-17 06:31:57] freynaud: the capability should be device:iphone5s , sdk:7.1 , sim=true
+[2014-10-17 06:32:10] mmmulani: ahh
+[2014-10-17 06:32:28] freynaud: all the rest is implementation details that should have not been leakied to users in the first place
+[2014-10-17 06:33:16] mmmulani: (Y)
