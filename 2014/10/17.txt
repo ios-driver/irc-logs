@@ -58,3 +58,6 @@
 [2014-10-17 10:18:45] mach6, joining. (#ios-driver)
 [2014-10-17 10:44:48] ddary, joining. (#ios-driver)
 [2014-10-17 11:00:39] ddary, quitting. (Quit: ddary)
+[2014-10-17 11:50:19] mach6_, joining. (#ios-driver)
+[2014-10-17 11:51:58] mach6, quitting. (Ping timeout: 250 seconds)
+[2014-10-17 11:52:41] mach6_, quitting. (Client Quit)
