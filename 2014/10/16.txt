@@ -23,3 +23,4 @@
 [2014-10-16 15:26:12] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-10-16 15:57:03] lukeis, quitting. (Quit: Leaving.)
 [2014-10-16 16:44:18] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-16 19:39:27] smccarthy, joining. (#ios-driver)
