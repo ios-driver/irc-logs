@@ -50,3 +50,4 @@
 [2014-10-17 06:56:51] smccarthy, joining. (#ios-driver)
 [2014-10-17 07:08:28] mmmulani: yea
 [2014-10-17 07:08:39] mmmulani: simctl seems good enough for most of the stuff we were doing before though
+[2014-10-17 08:22:12] smccarthy, quitting. (Quit: Leaving...)
