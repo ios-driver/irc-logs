@@ -44,3 +44,6 @@
 [2014-10-17 06:32:10] mmmulani: ahh
 [2014-10-17 06:32:28] freynaud: all the rest is implementation details that should have not been leakied to users in the first place
 [2014-10-17 06:33:16] mmmulani: (Y)
+[2014-10-17 06:52:04] freynaud: a big part of the impl for simulator is wrong too now
+[2014-10-17 06:52:21] freynaud: they moved the tmp workign folder from application support/sim/ sdk
+[2014-10-17 06:52:42] freynaud: still some work to have all the features that worked on xcode5
