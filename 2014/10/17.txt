@@ -74,3 +74,5 @@
 [2014-10-17 16:02:51] mach6_, quitting. (Ping timeout: 258 seconds)
 [2014-10-17 16:12:26] mach6, joining. (#ios-driver)
 [2014-10-17 16:14:21] mach6__, quitting. (Ping timeout: 246 seconds)
+[2014-10-17 16:42:35] lukeis1, joining. (#ios-driver)
+[2014-10-17 16:44:15] lukeis, quitting. (Ping timeout: 272 seconds)
