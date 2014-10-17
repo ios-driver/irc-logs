@@ -55,3 +55,4 @@
 [2014-10-17 08:28:36] mmmulani, quitting. (Quit: mmmulani)
 [2014-10-17 08:47:55] lukeis, joining. (#ios-driver)
 [2014-10-17 09:17:15] smccarthy, joining. (#ios-driver)
+[2014-10-17 10:18:45] mach6, joining. (#ios-driver)
