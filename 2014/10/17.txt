@@ -90,3 +90,4 @@
 [2014-10-17 19:08:44] lukeis, quitting. (Client Quit)
 [2014-10-17 19:53:11] mach6, joining. (#ios-driver)
 [2014-10-17 20:18:07] mach6, quitting. (Ping timeout: 244 seconds)
+[2014-10-17 20:45:03] mach6, joining. (#ios-driver)
