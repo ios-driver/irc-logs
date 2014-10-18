@@ -7,3 +7,4 @@
 [2014-10-18 08:00:31] tkriz, joining. (#ios-driver)
 [2014-10-18 08:56:18] smccarthy, joining. (#ios-driver)
 [2014-10-18 09:07:00] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-18 09:27:12] tkriz, quitting. (Quit: Leaving.)
