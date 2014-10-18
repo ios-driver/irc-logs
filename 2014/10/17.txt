@@ -84,3 +84,4 @@
 [2014-10-17 17:24:06] lukeis, joining. (#ios-driver)
 [2014-10-17 17:44:45] lukeis, quitting. (Read error: Connection reset by peer)
 [2014-10-17 17:45:15] lukeis, joining. (#ios-driver)
+[2014-10-17 17:51:00] lukeis, quitting. (Quit: Leaving.)
