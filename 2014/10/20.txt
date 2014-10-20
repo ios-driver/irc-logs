@@ -18,3 +18,7 @@
 [2014-10-20 07:24:19] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-20 07:26:24] mmmulani, joining. (#ios-driver)
 [2014-10-20 07:41:33] mmmulani, quitting. (Quit: mmmulani)
+[2014-10-20 07:46:37] ios-driver-git, joining. (#ios-driver)
+[2014-10-20 07:46:38] ios-driver-git: [ios-driver] mmmulani pushed 1 new commit to dev: http://git.io/0TL4-A
+[2014-10-20 07:46:38] ios-driver-git: ios-driver/dev 68fc618 Mehdi Mulani: Apply fix to UIAAlert's accept button (along with dismiss).
+[2014-10-20 07:46:38] ios-driver-git, leaving. (#ios-driver)
