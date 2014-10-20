@@ -12,3 +12,4 @@
 [2014-10-20 05:30:17] rodrigomartin, joining. (#ios-driver)
 [2014-10-20 06:36:18] smccarthy, joining. (#ios-driver)
 [2014-10-20 07:04:02] mmmulani, joining. (#ios-driver)
+[2014-10-20 07:14:11] mmmulani, quitting. (Quit: mmmulani)
