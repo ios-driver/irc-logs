@@ -34,3 +34,4 @@
 [2014-10-20 09:07:44] lukeis, joining. (#ios-driver)
 [2014-10-20 09:38:47] mmmulani, joining. (#ios-driver)
 [2014-10-20 09:40:39] mach6, joining. (#ios-driver)
+[2014-10-20 10:04:29] tkriz, quitting. (Quit: Leaving.)
