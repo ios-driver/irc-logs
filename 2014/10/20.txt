@@ -38,3 +38,5 @@
 [2014-10-20 10:26:05] ddary, joining. (#ios-driver)
 [2014-10-20 10:38:15] mmmulani, quitting. (Quit: mmmulani)
 [2014-10-20 10:46:13] smccarthy, joining. (#ios-driver)
+[2014-10-20 11:04:51] rodrigomartin, quitting. (Ping timeout: 272 seconds)
+[2014-10-20 11:04:58] rodrigomartin, joining. (#ios-driver)
