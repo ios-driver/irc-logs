@@ -26,3 +26,5 @@
 [2014-10-20 08:00:10] nirvdrum, joining. (#ios-driver)
 [2014-10-20 08:12:13] mmmulani, quitting. (Quit: mmmulani)
 [2014-10-20 08:34:27] tkriz, quitting. (Ping timeout: 245 seconds)
+[2014-10-20 08:44:30] mmmulani, joining. (#ios-driver)
+[2014-10-20 08:44:38] mmmulani, quitting. (Client Quit)
