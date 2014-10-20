@@ -24,3 +24,4 @@
 [2014-10-20 07:46:38] ios-driver-git, leaving. (#ios-driver)
 [2014-10-20 07:56:52] mmmulani, joining. (#ios-driver)
 [2014-10-20 08:00:10] nirvdrum, joining. (#ios-driver)
+[2014-10-20 08:12:13] mmmulani, quitting. (Quit: mmmulani)
