@@ -55,3 +55,4 @@
 [2014-10-20 14:59:57] lukeis, quitting. (Quit: Leaving.)
 [2014-10-20 15:07:53] nirvdrum, quitting. (Ping timeout: 260 seconds)
 [2014-10-20 15:17:49] rodrigomartin, quitting. (Remote host closed the connection)
+[2014-10-20 16:21:31] smccarthy, quitting. (Quit: Leaving...)
