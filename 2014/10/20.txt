@@ -37,3 +37,4 @@
 [2014-10-20 10:04:29] tkriz, quitting. (Quit: Leaving.)
 [2014-10-20 10:26:05] ddary, joining. (#ios-driver)
 [2014-10-20 10:38:15] mmmulani, quitting. (Quit: mmmulani)
+[2014-10-20 10:46:13] smccarthy, joining. (#ios-driver)
