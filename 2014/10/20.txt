@@ -16,3 +16,4 @@
 [2014-10-20 07:20:39] mmmulani, joining. (#ios-driver)
 [2014-10-20 07:20:46] mmmulani, quitting. (Client Quit)
 [2014-10-20 07:24:19] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-20 07:26:24] mmmulani, joining. (#ios-driver)
