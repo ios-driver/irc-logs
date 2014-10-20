@@ -28,3 +28,6 @@
 [2014-10-20 08:34:27] tkriz, quitting. (Ping timeout: 245 seconds)
 [2014-10-20 08:44:30] mmmulani, joining. (#ios-driver)
 [2014-10-20 08:44:38] mmmulani, quitting. (Client Quit)
+[2014-10-20 08:51:05] tkriz, joining. (#ios-driver)
+[2014-10-20 08:51:05] tkriz, quitting. (Changing host)
+[2014-10-20 08:51:05] tkriz, joining. (#ios-driver)
