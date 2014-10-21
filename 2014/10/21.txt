@@ -25,3 +25,11 @@
 [2014-10-21 08:04:19] tkriz1, joining. (#ios-driver)
 [2014-10-21 08:04:19] tkriz1, quitting. (Changing host)
 [2014-10-21 08:04:19] tkriz1, joining. (#ios-driver)
+[2014-10-21 08:06:09] tkriz, quitting. (Ping timeout: 260 seconds)
+[2014-10-21 08:08:43] mmmulani: freynaud: it seems that when you call `element.scrollToVisible()`, it always scrolls up
+[2014-10-21 08:08:48] mmmulani: even if the element is already visible
+[2014-10-21 08:08:57] mmmulani: furthermore, it seems to be throwing that error that you saw in iOS 6
+[2014-10-21 08:09:16] freynaud: what did I see in ios6 ?
+[2014-10-21 08:09:27] freynaud: are you talking about web mode or native ?
+[2014-10-21 08:09:40] mmmulani: native but working on a web view
+[2014-10-21 08:09:43] mmmulani: let me link you to the code
