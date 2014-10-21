@@ -63,3 +63,6 @@
 [2014-10-21 08:24:52] mmmulani: where do you see the debugging?
 [2014-10-21 08:25:04] mmmulani: I've been turning on instruments command line output logging and that has been pretty good
 [2014-10-21 08:26:32] tkriz1, quitting. (Quit: Leaving.)
+[2014-10-21 08:30:21] tkriz, joining. (#ios-driver)
+[2014-10-21 08:30:22] tkriz, quitting. (Changing host)
+[2014-10-21 08:30:22] tkriz, joining. (#ios-driver)
