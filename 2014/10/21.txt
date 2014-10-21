@@ -9,3 +9,6 @@
 [2014-10-21 06:06:31] nirvdrum, joining. (#ios-driver)
 [2014-10-21 06:08:09] nirvdrum_, joining. (#ios-driver)
 [2014-10-21 06:11:37] nirvdrum, quitting. (Ping timeout: 244 seconds)
+[2014-10-21 06:17:45] tkriz, joining. (#ios-driver)
+[2014-10-21 06:17:46] tkriz, quitting. (Changing host)
+[2014-10-21 06:17:46] tkriz, joining. (#ios-driver)
