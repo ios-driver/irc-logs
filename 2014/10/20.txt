@@ -68,3 +68,4 @@
 [2014-10-20 22:53:54] mach6, quitting. (Ping timeout: 255 seconds)
 [2014-10-20 23:06:34] mach6_, quitting. (Ping timeout: 250 seconds)
 [2014-10-20 23:07:10] mach6_, joining. (#ios-driver)
+[2014-10-20 23:22:15] nirvdrum, joining. (#ios-driver)
