@@ -19,3 +19,6 @@
 [2014-10-21 07:43:58] mmmulani, joining. (#ios-driver)
 [2014-10-21 07:44:06] mmmulani: freynaud: hey, you around?
 [2014-10-21 07:44:26] mmmulani: found an issue with webviews on Xcode 6/iOS 8. I have a fix but I'm not sure what it'll break
+[2014-10-21 07:51:23] nirvdrum_, quitting. (Quit: Leaving)
+[2014-10-21 07:51:44] nirvdrum, joining. (#ios-driver)
+[2014-10-21 07:54:22] freynaud: what issue ?
