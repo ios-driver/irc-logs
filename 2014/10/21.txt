@@ -3,3 +3,4 @@
 [2014-10-21 01:47:22] mach6_, quitting. (Ping timeout: 245 seconds)
 [2014-10-21 03:42:02] mmmulani, joining. (#ios-driver)
 [2014-10-21 03:53:46] mmmulani, quitting. (Quit: mmmulani)
+[2014-10-21 05:11:27] rodrigomartin, joining. (#ios-driver)
