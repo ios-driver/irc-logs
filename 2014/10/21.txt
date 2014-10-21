@@ -48,3 +48,4 @@
 [2014-10-21 08:14:01] mmmulani: but I'm testing an app, not Safari
 [2014-10-21 08:14:09] freynaud: i think I remember cases where rect() was returning wrong ( negative ) values for something that was at the bottom
 [2014-10-21 08:14:28] freynaud: resulting in "scroll up" bugs
+[2014-10-21 08:15:02] mmmulani: ahh interesting
