@@ -85,3 +85,4 @@
 [2014-10-21 13:07:16] jack090, joining. (#ios-driver)
 [2014-10-21 13:26:48] jack090, quitting. (Quit: Page closed)
 [2014-10-21 13:27:10] jack090, joining. (#ios-driver)
+[2014-10-21 14:38:05] mach6, joining. (#ios-driver)
