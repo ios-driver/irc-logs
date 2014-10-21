@@ -61,3 +61,5 @@
 [2014-10-21 08:23:37] freynaud: it does
 [2014-10-21 08:23:54] freynaud: bug with instruments, everything can go wrong from my experience :)
 [2014-10-21 08:24:52] mmmulani: where do you see the debugging?
+[2014-10-21 08:25:04] mmmulani: I've been turning on instruments command line output logging and that has been pretty good
+[2014-10-21 08:26:32] tkriz1, quitting. (Quit: Leaving.)
