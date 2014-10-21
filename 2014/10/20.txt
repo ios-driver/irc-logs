@@ -58,3 +58,4 @@
 [2014-10-20 16:21:31] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-20 17:01:02] smccarthy, joining. (#ios-driver)
 [2014-10-20 17:08:18] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-20 17:29:21] nirvdrum, joining. (#ios-driver)
