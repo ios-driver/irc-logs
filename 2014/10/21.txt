@@ -78,3 +78,5 @@
 [2014-10-21 11:19:27] ddary, joining. (#ios-driver)
 [2014-10-21 11:29:17] ddary, leaving. (#ios-driver)
 [2014-10-21 11:45:48] ddary, joining. (#ios-driver)
+[2014-10-21 12:19:50] mmmulani, quitting. (Read error: Connection reset by peer)
+[2014-10-21 12:19:55] mmmulani_, joining. (#ios-driver)
