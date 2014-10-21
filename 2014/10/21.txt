@@ -22,3 +22,6 @@
 [2014-10-21 07:51:23] nirvdrum_, quitting. (Quit: Leaving)
 [2014-10-21 07:51:44] nirvdrum, joining. (#ios-driver)
 [2014-10-21 07:54:22] freynaud: what issue ?
+[2014-10-21 08:04:19] tkriz1, joining. (#ios-driver)
+[2014-10-21 08:04:19] tkriz1, quitting. (Changing host)
+[2014-10-21 08:04:19] tkriz1, joining. (#ios-driver)
