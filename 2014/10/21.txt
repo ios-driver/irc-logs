@@ -68,3 +68,7 @@
 [2014-10-21 08:30:22] tkriz, joining. (#ios-driver)
 [2014-10-21 08:43:37] lukeis, joining. (#ios-driver)
 [2014-10-21 08:49:34] smccarthy, joining. (#ios-driver)
+[2014-10-21 09:17:52] tkriz, quitting. (Quit: Leaving.)
+[2014-10-21 09:19:53] tkriz, joining. (#ios-driver)
+[2014-10-21 09:19:53] tkriz, quitting. (Changing host)
+[2014-10-21 09:19:53] tkriz, joining. (#ios-driver)
