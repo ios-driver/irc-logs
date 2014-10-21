@@ -76,3 +76,4 @@
 [2014-10-21 10:05:40] tkriz, quitting. (Quit: Leaving.)
 [2014-10-21 10:06:10] rodrigomartin, joining. (#ios-driver)
 [2014-10-21 11:19:27] ddary, joining. (#ios-driver)
+[2014-10-21 11:29:17] ddary, leaving. (#ios-driver)
