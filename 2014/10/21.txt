@@ -82,3 +82,4 @@
 [2014-10-21 12:19:55] mmmulani_, joining. (#ios-driver)
 [2014-10-21 12:20:15] mmmulani_, quitting. (Client Quit)
 [2014-10-21 12:48:17] ddary, leaving. (#ios-driver)
+[2014-10-21 13:07:16] jack090, joining. (#ios-driver)
