@@ -33,3 +33,18 @@
 [2014-10-21 08:09:27] freynaud: are you talking about web mode or native ?
 [2014-10-21 08:09:40] mmmulani: native but working on a web view
 [2014-10-21 08:09:43] mmmulani: let me link you to the code
+[2014-10-21 08:10:13] mmmulani: talking about this: https://github.com/ios-driver/ios-driver/blob/e594a2a9e0724643196e1c5470a28e0b53bed222/server/src/main/resources/UIAElement.js#L202
+[2014-10-21 08:10:48] mmmulani: or rather
+[2014-10-21 08:10:48] mmmulani: https://github.com/ios-driver/ios-driver/blob/dev/server/src/main/resources/instruments-js/UIAElement.js#L102
+[2014-10-21 08:11:29] mmmulani: and this method scrolls the webview: https://github.com/ios-driver/ios-driver/blob/dev/server/src/main/resources/instruments-js/UIAElement.js#L237
+[2014-10-21 08:11:45] mmmulani: and finally, we'll see errors like this from instruments:
+[2014-10-21 08:11:46] mmmulani: 2014-10-20 14:39:46 +0000 Debug: Unexpected error in -[UIAXElement_0x7ff662940860 performAXAction:], /SourceCache/UIAutomation_Sim/UIAutomation-430/Framework/UIAXElement.m line 1081, kAXErrorFailure
+[2014-10-21 08:12:39] freynaud: it's a bug in instruments I would say
+[2014-10-21 08:12:57] freynaud: we _just_ need to find what scenario triggers it
+[2014-10-21 08:13:16] freynaud: the "always scrolls up " part
+[2014-10-21 08:13:20] mmmulani: ahhhh yea
+[2014-10-21 08:13:39] freynaud: are you checked the native  component you're scrolling to ?
+[2014-10-21 08:13:56] mmmulani: maybe I didn't describe it well, I'm scrolling within a web view
+[2014-10-21 08:14:01] mmmulani: but I'm testing an app, not Safari
+[2014-10-21 08:14:09] freynaud: i think I remember cases where rect() was returning wrong ( negative ) values for something that was at the bottom
+[2014-10-21 08:14:28] freynaud: resulting in "scroll up" bugs
