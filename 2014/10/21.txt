@@ -1,2 +1,3 @@
 [2014-10-21 01:44:03] mach6__, joining. (#ios-driver)
 [2014-10-21 01:44:10] mach6__, quitting. (Client Quit)
+[2014-10-21 01:47:22] mach6_, quitting. (Ping timeout: 245 seconds)
