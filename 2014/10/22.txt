@@ -92,3 +92,4 @@
 [2014-10-22 11:20:59] mach6, joining. (#ios-driver)
 [2014-10-22 11:48:16] ddary, joining. (#ios-driver)
 [2014-10-22 11:48:26] ddary, quitting. (Client Quit)
+[2014-10-22 11:56:02] azaytsev, joining. (#ios-driver)
