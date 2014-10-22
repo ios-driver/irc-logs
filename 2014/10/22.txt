@@ -65,3 +65,17 @@
 [2014-10-22 08:17:53] Guest94588: though if there is something already existing for such support, that'd be great
 [2014-10-22 08:29:25] jack090: so I have a windows server and a bunch of grid machines
 [2014-10-22 08:29:52] jack090: ios-driver support remotewebdriver functionality so I have a few mac's that have ipads/emulators setup
+[2014-10-22 08:30:30] Guest94588: what do you mean by "grid machines"?
+[2014-10-22 08:30:32] jack090: so yes the "windows" box can orchestrate the test being run
+[2014-10-22 08:30:54] jack090: well I have a Windows Server OS that has roughly 30 machines connected to the hub
+[2014-10-22 08:30:59] jack090: I have different combinations
+[2014-10-22 08:31:24] jack090: LIke win 7 IE 9,10,etc...
+[2014-10-22 08:31:24] Guest94588: hmmmm, k
+[2014-10-22 08:31:34] jack090: win 8 ie 10, 11...
+[2014-10-22 08:31:36] Guest94588: so the Grid is what i need to connect everything to
+[2014-10-22 08:31:47] jack090: right you'll want to do that approach
+[2014-10-22 08:31:53] Guest94588: ok, thanks
+[2014-10-22 08:31:55] Guest94588: i'll look into it
+[2014-10-22 08:31:56] jack090: then you'll have to write your selenium to use remotewebdriver
+[2014-10-22 08:32:26] Guest94588: you mean selemium test?
+[2014-10-22 08:32:57] Guest94588: i dont want to go around recompiling selenium itself
