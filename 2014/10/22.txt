@@ -49,3 +49,9 @@
 [2014-10-22 07:26:54] mmmulani: jack090: using it on yosemite, it's okay fro me
 [2014-10-22 07:27:48] jack090: any problems with ios 8?
 [2014-10-22 07:29:36] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-22 07:51:20] mmmulani: jack090: tons
+[2014-10-22 07:51:32] mmmulani: but it works
+[2014-10-22 07:52:50] Newbie, joining. (#ios-driver)
+[2014-10-22 07:53:15] Newbie, changing nick to Guest94588.
+[2014-10-22 07:53:20] Guest94588: Hi! Anyone around?
+[2014-10-22 07:54:42] Guest94588: I'm looking to execute tests from a Windows device to automate a physical iOS mobile device.
