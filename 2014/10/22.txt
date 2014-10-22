@@ -63,3 +63,5 @@
 [2014-10-22 08:15:44] Guest94588: We have to run the tests from a Windows box, though we could potentially have a Mac where we connect our mobile devices to
 [2014-10-22 08:16:42] Guest94588: I was thinking of writing our own remote server that would allow the windows app to talk to the ios-driver server on the mac\
 [2014-10-22 08:17:53] Guest94588: though if there is something already existing for such support, that'd be great
+[2014-10-22 08:29:25] jack090: so I have a windows server and a bunch of grid machines
+[2014-10-22 08:29:52] jack090: ios-driver support remotewebdriver functionality so I have a few mac's that have ipads/emulators setup
