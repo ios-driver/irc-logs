@@ -91,3 +91,4 @@
 [2014-10-21 17:20:35] AutomatedTester, quitting. (*.net *.split)
 [2014-10-21 17:26:37] AutomatedTester, joining. (#ios-driver)
 [2014-10-21 17:59:37] mach6, quitting. (Quit: Be back later ...)
+[2014-10-21 18:00:50] mach6, joining. (#ios-driver)
