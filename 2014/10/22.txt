@@ -82,3 +82,5 @@
 [2014-10-22 08:41:31] Guest94588: Ok, I looked it up and I understand what you meant by remotewebdriver.
 [2014-10-22 08:43:20] lukeis, joining. (#ios-driver)
 [2014-10-22 08:46:26] smccarthy, joining. (#ios-driver)
+[2014-10-22 09:05:19] mmmulani, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-10-22 09:09:07] operatiay, quitting. ()
