@@ -88,3 +88,4 @@
 [2014-10-21 14:38:05] mach6, joining. (#ios-driver)
 [2014-10-21 15:17:02] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-10-21 16:01:56] lukeis, quitting. (Quit: Leaving.)
+[2014-10-21 17:20:35] AutomatedTester, quitting. (*.net *.split)
