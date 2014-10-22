@@ -84,3 +84,5 @@
 [2014-10-22 08:46:26] smccarthy, joining. (#ios-driver)
 [2014-10-22 09:05:19] mmmulani, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-10-22 09:09:07] operatiay, quitting. ()
+[2014-10-22 09:19:22] jack090: yea you will write your tests to execute against a remote server using remotewebdriver
+[2014-10-22 09:19:43] jack090: My implementation is in C# and I can run a remote test on mac/linux/windows etc...
