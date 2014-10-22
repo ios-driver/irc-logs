@@ -41,3 +41,4 @@
 [2014-10-22 06:50:58] operatiay, joining. (#ios-driver)
 [2014-10-22 06:59:44] rodrigomartin, quitting. (Ping timeout: 250 seconds)
 [2014-10-22 07:18:54] rodrigomartin, joining. (#ios-driver)
+[2014-10-22 07:22:44] jack090: I"m about to try ios-driver with yosemite anyone have any problems before I upgrade?
