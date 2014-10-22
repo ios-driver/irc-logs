@@ -101,3 +101,4 @@
 [2014-10-22 12:49:12] azaytsev, quitting. (Quit: azaytsev)
 [2014-10-22 13:06:07] azaytsev, joining. (#ios-driver)
 [2014-10-22 14:10:31] rodrigomartin, quitting. (Remote host closed the connection)
+[2014-10-22 14:35:50] jack090, quitting. (Quit: Page closed)
