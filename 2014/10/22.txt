@@ -25,3 +25,5 @@
 [2014-10-22 06:21:45] freynaud: but click taking int etc
 [2014-10-22 06:21:52] freynaud: it's glue code all around
 [2014-10-22 06:22:32] mmmulani: yea
+[2014-10-22 06:26:45] smccarthy, joining. (#ios-driver)
+[2014-10-22 06:29:56] mmmulani: so what would break if we got rid of this.scrollToVisible() in isStale() ?
