@@ -58,3 +58,5 @@
 [2014-10-22 07:55:13] Guest94588: Is there any remote server-like feature that ios-driver provides?
 [2014-10-22 07:55:48] Guest94588: From what I've gathered, Appium has such functionality, but I'd like to use ios-driver as it is much easier to set-up.
 [2014-10-22 08:09:40] jack090: so you only have a windows box?
+[2014-10-22 08:12:34] jack090: @Guest945588 doing anything IOS is best done on a Mac
+[2014-10-22 08:14:00] Guest94588: true, so there is no existing support?
