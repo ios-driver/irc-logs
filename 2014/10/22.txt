@@ -60,3 +60,6 @@
 [2014-10-22 08:09:40] jack090: so you only have a windows box?
 [2014-10-22 08:12:34] jack090: @Guest945588 doing anything IOS is best done on a Mac
 [2014-10-22 08:14:00] Guest94588: true, so there is no existing support?
+[2014-10-22 08:15:44] Guest94588: We have to run the tests from a Windows box, though we could potentially have a Mac where we connect our mobile devices to
+[2014-10-22 08:16:42] Guest94588: I was thinking of writing our own remote server that would allow the windows app to talk to the ios-driver server on the mac\
+[2014-10-22 08:17:53] Guest94588: though if there is something already existing for such support, that'd be great
