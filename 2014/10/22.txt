@@ -13,3 +13,15 @@
 [2014-10-22 06:15:28] mmmulani: it looks like apple code will do an "empty" scroll, which results in a tap when calling scrollToVisible
 [2014-10-22 06:17:49] rodrigomartin, joining. (#ios-driver)
 [2014-10-22 06:18:03] mmmulani: I guess I'll file an apple bug for this
+[2014-10-22 06:20:16] freynaud: this.isVisible is broken if I remember well
+[2014-10-22 06:20:32] mmmulani: yea, it seems like it only gets set after scrollToVisible() is called
+[2014-10-22 06:20:49] freynaud: if you look at all the JS in that folder
+[2014-10-22 06:21:02] freynaud: everything should be deleted if the apple stuff was working
+[2014-10-22 06:21:10] freynaud: it's 99% working around bugs
+[2014-10-22 06:21:15] mmmulani: hahahah
+[2014-10-22 06:21:17] mmmulani: yeah :(
+[2014-10-22 06:21:22] freynaud: or suboptimal API
+[2014-10-22 06:21:29] freynaud: like rect() returning a float
+[2014-10-22 06:21:45] freynaud: but click taking int etc
+[2014-10-22 06:21:52] freynaud: it's glue code all around
+[2014-10-22 06:22:32] mmmulani: yea
