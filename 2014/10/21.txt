@@ -89,3 +89,4 @@
 [2014-10-21 15:17:02] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-10-21 16:01:56] lukeis, quitting. (Quit: Leaving.)
 [2014-10-21 17:20:35] AutomatedTester, quitting. (*.net *.split)
+[2014-10-21 17:26:37] AutomatedTester, joining. (#ios-driver)
