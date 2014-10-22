@@ -3,3 +3,9 @@
 [2014-10-22 01:20:26] tkriz, joining. (#ios-driver)
 [2014-10-22 04:10:43] mmmulani, joining. (#ios-driver)
 [2014-10-22 05:57:47] nirvdrum, joining. (#ios-driver)
+[2014-10-22 06:12:27] mmmulani: freynaud: hey, you around?
+[2014-10-22 06:12:38] mmmulani: I have a work-around for scrollToVisible and want to see what you think of it :P
+[2014-10-22 06:13:00] freynaud: yes
+[2014-10-22 06:13:27] mmmulani: here:
+[2014-10-22 06:13:27] mmmulani: https://github.com/ios-driver/ios-driver/blob/dev/server/src/main/resources/instruments-js/UIAElement.js#L224
+[2014-10-22 06:13:33] mmmulani: what if we also check !this.isVisible()
