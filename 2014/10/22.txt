@@ -39,3 +39,4 @@
 [2014-10-22 06:40:57] mmmulani: not really :(
 [2014-10-22 06:42:10] mmmulani: alright I'm gonna clean up the isStale method then
 [2014-10-22 06:50:58] operatiay, joining. (#ios-driver)
+[2014-10-22 06:59:44] rodrigomartin, quitting. (Ping timeout: 250 seconds)
