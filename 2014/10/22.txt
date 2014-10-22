@@ -79,3 +79,5 @@
 [2014-10-22 08:31:56] jack090: then you'll have to write your selenium to use remotewebdriver
 [2014-10-22 08:32:26] Guest94588: you mean selemium test?
 [2014-10-22 08:32:57] Guest94588: i dont want to go around recompiling selenium itself
+[2014-10-22 08:41:31] Guest94588: Ok, I looked it up and I understand what you meant by remotewebdriver.
+[2014-10-22 08:43:20] lukeis, joining. (#ios-driver)
