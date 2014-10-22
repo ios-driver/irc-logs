@@ -27,3 +27,11 @@
 [2014-10-22 06:22:32] mmmulani: yea
 [2014-10-22 06:26:45] smccarthy, joining. (#ios-driver)
 [2014-10-22 06:29:56] mmmulani: so what would break if we got rid of this.scrollToVisible() in isStale() ?
+[2014-10-22 06:37:21] freynaud: not sure
+[2014-10-22 06:37:33] freynaud: ii think the native stuff auto scroll anyway
+[2014-10-22 06:37:48] freynaud: calling tap() doesn't require to pre-scroll
+[2014-10-22 06:38:04] freynaud: isStale would be more annoying
+[2014-10-22 06:38:18] freynaud: if you cache an element, and move to a new screen
+[2014-10-22 06:38:34] freynaud: you can still call all methods on that element without having an exception
+[2014-10-22 06:39:04] freynaud: isStale would not horribly break stuff, but it would make debugging harder by having criptic error messages I think
+[2014-10-22 06:39:36] freynaud: you were not able to "fix" scrollToVisible ?
