@@ -42,3 +42,10 @@
 [2014-10-22 06:59:44] rodrigomartin, quitting. (Ping timeout: 250 seconds)
 [2014-10-22 07:18:54] rodrigomartin, joining. (#ios-driver)
 [2014-10-22 07:22:44] jack090: I"m about to try ios-driver with yosemite anyone have any problems before I upgrade?
+[2014-10-22 07:26:03] ios-driver-git, joining. (#ios-driver)
+[2014-10-22 07:26:03] ios-driver-git: [ios-driver] mmmulani pushed 1 new commit to dev: http://git.io/BLCQHw
+[2014-10-22 07:26:03] ios-driver-git: ios-driver/dev df1bbfb Mehdi Mulani: Remove `scrollToVisible()` call in `isStale()`....
+[2014-10-22 07:26:03] ios-driver-git, leaving. (#ios-driver)
+[2014-10-22 07:26:54] mmmulani: jack090: using it on yosemite, it's okay fro me
+[2014-10-22 07:27:48] jack090: any problems with ios 8?
+[2014-10-22 07:29:36] smccarthy, quitting. (Quit: Leaving...)
