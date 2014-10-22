@@ -57,3 +57,4 @@
 [2014-10-22 07:54:42] Guest94588: I'm looking to execute tests from a Windows device to automate a physical iOS mobile device.
 [2014-10-22 07:55:13] Guest94588: Is there any remote server-like feature that ios-driver provides?
 [2014-10-22 07:55:48] Guest94588: From what I've gathered, Appium has such functionality, but I'd like to use ios-driver as it is much easier to set-up.
+[2014-10-22 08:09:40] jack090: so you only have a windows box?
