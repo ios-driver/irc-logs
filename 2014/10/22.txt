@@ -119,3 +119,6 @@
 [2014-10-22 18:20:55] azaytsev, joining. (#ios-driver)
 [2014-10-22 18:21:06] azaytsev, quitting. (Client Quit)
 [2014-10-22 19:24:41] smccarthy, joining. (#ios-driver)
+[2014-10-22 21:59:41] ios-driver-git, joining. (#ios-driver)
+[2014-10-22 21:59:41] ios-driver-git: [ios-driver] mach6 opened pull request #300: Format $maven.build.timestamp so it can be applied to files on WINDOWS (dev...dev) http://git.io/17PA_Q
+[2014-10-22 21:59:41] ios-driver-git, leaving. (#ios-driver)
