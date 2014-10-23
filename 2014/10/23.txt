@@ -86,3 +86,4 @@
 [2014-10-23 14:08:48] lukeis: especially if they are doing anything with iOS / mac
 [2014-10-23 14:08:57] mach6: i did tell francois i'd help with that.. probably should get started
 [2014-10-23 14:08:57] lukeis: heh
+[2014-10-23 14:11:38] mach6, quitting. (Read error: Connection reset by peer)
