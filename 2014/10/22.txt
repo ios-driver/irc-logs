@@ -125,3 +125,7 @@
 [2014-10-22 22:07:20] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-22 23:00:26] nirvdrum, quitting. (Ping timeout: 265 seconds)
 [2014-10-22 23:08:44] AutomatedTester_, joining. (#ios-driver)
+[2014-10-22 23:10:12] AutomatedTester, quitting. (Ping timeout: 272 seconds)
+[2014-10-22 23:10:13] AutomatedTester_, changing nick to AutomatedTester.
+[2014-10-22 23:10:13] AutomatedTester, quitting. (Changing host)
+[2014-10-22 23:10:13] AutomatedTester, joining. (#ios-driver)
