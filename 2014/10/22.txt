@@ -118,3 +118,4 @@
 [2014-10-22 17:58:41] mach6__, quitting. (Ping timeout: 272 seconds)
 [2014-10-22 18:20:55] azaytsev, joining. (#ios-driver)
 [2014-10-22 18:21:06] azaytsev, quitting. (Client Quit)
+[2014-10-22 19:24:41] smccarthy, joining. (#ios-driver)
