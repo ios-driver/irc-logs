@@ -36,3 +36,8 @@
 [2014-10-23 10:57:17] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to dev: http://git.io/QLVohQ
 [2014-10-23 10:57:17] ios-driver-git: ios-driver/dev 118092c Luke Inman-Semerau: for iOS8 and mobile safari, don't copy the MobileSafari.app, leave it be!
 [2014-10-23 10:57:17] ios-driver-git, leaving. (#ios-driver)
+[2014-10-23 11:30:23] DatNewb, joining. (#ios-driver)
+[2014-10-23 11:33:19] DatNewb: I'm writing tests in Java on a Windows machine to connect to the Selenium Grid and run on a Mac with an iPad attached. In my test, I do "DesiredCapabilities cap = IOSCapabilities.ipad("InternationalMountains");"
+[2014-10-23 11:33:46] DatNewb: the "IOSCapabilities" is not found since I have not added the correct library
+[2014-10-23 11:34:32] DatNewb: was wonder what the correct library is since it is not mentioned in the documentation (http://ios-driver.github.io/ios-driver/?page=scaling)
+[2014-10-23 11:34:41] DatNewb: *wondering
