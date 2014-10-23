@@ -1,2 +1,5 @@
 [2014-10-23 01:36:59] mmmulani, joining. (#ios-driver)
 [2014-10-23 01:47:04] operatiay, joining. (#ios-driver)
+[2014-10-23 01:55:07] tkriz, joining. (#ios-driver)
+[2014-10-23 01:55:08] tkriz, quitting. (Changing host)
+[2014-10-23 01:55:08] tkriz, joining. (#ios-driver)
