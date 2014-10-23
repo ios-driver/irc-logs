@@ -48,3 +48,4 @@
 [2014-10-23 11:37:20] DatNewb: ok, i'll give that a try
 [2014-10-23 11:37:20] DatNewb: thanks
 [2014-10-23 11:52:20] DatNewb: addind "ios-common" in the <artifactId> fixed it for me
+[2014-10-23 12:33:51] mach6, joining. (#ios-driver)
