@@ -32,3 +32,7 @@
 [2014-10-23 10:20:34] ios-driver-git: ios-driver/dev edf4169 Mehdi Mulani: Update instruments-without-delay.
 [2014-10-23 10:20:34] ios-driver-git, leaving. (#ios-driver)
 [2014-10-23 10:44:37] mach6, quitting. (Quit: Be back later ...)
+[2014-10-23 10:57:16] ios-driver-git, joining. (#ios-driver)
+[2014-10-23 10:57:17] ios-driver-git: [ios-driver] lukeis pushed 1 new commit to dev: http://git.io/QLVohQ
+[2014-10-23 10:57:17] ios-driver-git: ios-driver/dev 118092c Luke Inman-Semerau: for iOS8 and mobile safari, don't copy the MobileSafari.app, leave it be!
+[2014-10-23 10:57:17] ios-driver-git, leaving. (#ios-driver)
