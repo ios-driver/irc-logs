@@ -50,3 +50,10 @@
 [2014-10-23 11:52:20] DatNewb: addind "ios-common" in the <artifactId> fixed it for me
 [2014-10-23 12:33:51] mach6, joining. (#ios-driver)
 [2014-10-23 13:41:43] mach6: Hi gang.. Any chance we can get PR#300 looked at. I've had 3ppl ping me on it in the last 2 days
+[2014-10-23 13:57:56] ios-driver-git, joining. (#ios-driver)
+[2014-10-23 13:57:56] ios-driver-git: [ios-driver] mach6 closed pull request #300: Format $maven.build.timestamp so it can be applied to files on WINDOWS (dev...dev) http://git.io/17PA_Q
+[2014-10-23 13:57:56] ios-driver-git, leaving. (#ios-driver)
+[2014-10-23 13:58:26] ios-driver-git, joining. (#ios-driver)
+[2014-10-23 13:58:26] ios-driver-git: [ios-driver] mach6 opened pull request #302: Format $maven.build.timestamp so it can be applied to files on WINDOWS (dev...mach6-dev) http://git.io/t7DsWw
+[2014-10-23 13:58:26] ios-driver-git, leaving. (#ios-driver)
+[2014-10-23 13:58:42] mach6: ^rebased
