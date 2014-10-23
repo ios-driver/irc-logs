@@ -31,3 +31,4 @@
 [2014-10-23 10:20:34] ios-driver-git: ios-driver/dev f0f1eba Mehdi Mulani: Revert "Remove `scrollToVisible()` call in `isStale()`."...
 [2014-10-23 10:20:34] ios-driver-git: ios-driver/dev edf4169 Mehdi Mulani: Update instruments-without-delay.
 [2014-10-23 10:20:34] ios-driver-git, leaving. (#ios-driver)
+[2014-10-23 10:44:37] mach6, quitting. (Quit: Be back later ...)
