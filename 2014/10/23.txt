@@ -88,3 +88,5 @@
 [2014-10-23 14:08:57] lukeis: heh
 [2014-10-23 14:11:38] mach6, quitting. (Read error: Connection reset by peer)
 [2014-10-23 14:27:58] rodrigomartin, quitting. (Remote host closed the connection)
+[2014-10-23 14:35:55] mach6, joining. (#ios-driver)
+[2014-10-23 14:37:45] mach6, quitting. (Client Quit)
