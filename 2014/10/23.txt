@@ -47,3 +47,4 @@
 [2014-10-23 11:36:01] lukeis: ios-driver hasn't had a release in a while, you will likely need to build yourself and add the jar
 [2014-10-23 11:37:20] DatNewb: ok, i'll give that a try
 [2014-10-23 11:37:20] DatNewb: thanks
+[2014-10-23 11:52:20] DatNewb: addind "ios-common" in the <artifactId> fixed it for me
