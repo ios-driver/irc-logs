@@ -93,3 +93,4 @@
 [2014-10-23 15:15:58] DatNewb, quitting. (Quit: Page closed)
 [2014-10-23 15:39:37] mach6, joining. (#ios-driver)
 [2014-10-23 16:23:03] lukeis, quitting. (Quit: Leaving.)
+[2014-10-23 16:26:37] smccarthy, quitting. (Quit: Leaving...)
