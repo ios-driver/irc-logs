@@ -57,3 +57,15 @@
 [2014-10-23 13:58:26] ios-driver-git: [ios-driver] mach6 opened pull request #302: Format $maven.build.timestamp so it can be applied to files on WINDOWS (dev...mach6-dev) http://git.io/t7DsWw
 [2014-10-23 13:58:26] ios-driver-git, leaving. (#ios-driver)
 [2014-10-23 13:58:42] mach6: ^rebased
+[2014-10-23 14:02:25] lukeis: ….. windows? :-P
+[2014-10-23 14:02:43] mach6: yep.. ppl need to still compile the source
+[2014-10-23 14:02:48] mach6: regardless of platform
+[2014-10-23 14:03:04] lukeis: define 'ppl' ;)
+[2014-10-23 14:03:16] mach6: lol
+[2014-10-23 14:03:54] mach6: well lets say someone that wants to depend on the latest ios-driver snapshot and is developing on a windows box. that help
+[2014-10-23 14:03:55] mach6: ?
+[2014-10-23 14:04:12] lukeis: iOS + windows does not compute :)
+[2014-10-23 14:04:24] mach6: or wants to publish the latest ios-driver snapshot to a local maven repo
+[2014-10-23 14:04:30] mach6: i know it doens't compute for runtime
+[2014-10-23 14:04:46] lukeis: tell them to get a mac? ;)
+[2014-10-23 14:04:47] mach6: but as a dependency and for building (w/o) tests.. it's perfectly reasonable imo
