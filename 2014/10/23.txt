@@ -98,3 +98,4 @@
 [2014-10-23 18:56:10] smccarthy, joining. (#ios-driver)
 [2014-10-23 21:45:00] nirvdrum, quitting. (Ping timeout: 250 seconds)
 [2014-10-23 22:02:01] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-23 23:47:37] AutomatedTester, quitting. (*.net *.split)
