@@ -44,3 +44,4 @@
 [2014-10-24 14:24:15] DatNewb, quitting. (Quit: Page closed)
 [2014-10-24 14:40:56] rodrigomartin, quitting. (Remote host closed the connection)
 [2014-10-24 15:28:52] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-24 15:32:21] nirvdrum, quitting. (Ping timeout: 244 seconds)
