@@ -27,3 +27,5 @@
 [2014-10-24 08:27:45] rodrigomartin1, joining. (#ios-driver)
 [2014-10-24 08:28:29] rodrigomartin, quitting. (Read error: Connection reset by peer)
 [2014-10-24 08:28:47] DatNewb: i'm having an issue running the ios-server-standalone-0.6.6-SNAPSHOT.jar on a Mac, keeps saying that the JAR file invalid or corrupt
+[2014-10-24 08:30:19] DatNewb: anyone know where I can download 0.6.5 of the standalone server, or maybe if you know what the issue is that i'm having?
+[2014-10-24 08:31:52] tkriz1, quitting. (Quit: Leaving.)
