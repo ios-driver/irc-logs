@@ -1,1 +1,2 @@
 [2014-10-24 00:09:28] AutomatedTester, joining. (#ios-driver)
+[2014-10-24 00:29:00] AutomatedTester, quitting. (*.net *.split)
