@@ -30,3 +30,4 @@
 [2014-10-24 08:30:19] DatNewb: anyone know where I can download 0.6.5 of the standalone server, or maybe if you know what the issue is that i'm having?
 [2014-10-24 08:31:52] tkriz1, quitting. (Quit: Leaving.)
 [2014-10-24 08:48:08] DatNewb: k, I found 0.6.5 release on the homepage, though the name of the JAR file is different and does not have "standalone" in its file name, i'll give it a go
+[2014-10-24 09:19:25] smccarthy, joining. (#ios-driver)
