@@ -95,3 +95,4 @@
 [2014-10-23 16:23:03] lukeis, quitting. (Quit: Leaving.)
 [2014-10-23 16:26:37] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-23 17:17:36] mach6, quitting. (Quit: Be back later ...)
+[2014-10-23 18:56:10] smccarthy, joining. (#ios-driver)
