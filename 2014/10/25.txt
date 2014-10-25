@@ -7,3 +7,4 @@
 [2014-10-25 09:11:56] smccarthy, joining. (#ios-driver)
 [2014-10-25 10:56:52] DatNewb, joining. (#ios-driver)
 [2014-10-25 10:57:01] DatNewb, quitting. (Client Quit)
+[2014-10-25 12:24:25] smccarthy, quitting. (Quit: Leaving...)
