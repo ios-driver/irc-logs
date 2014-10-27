@@ -3,3 +3,6 @@
 [2014-10-27 09:42:08] lukeis, joining. (#ios-driver)
 [2014-10-27 10:03:25] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-10-27 10:03:32] rodrigomartin, joining. (#ios-driver)
+[2014-10-27 10:14:00] tkriz, joining. (#ios-driver)
+[2014-10-27 10:14:00] tkriz, quitting. (Changing host)
+[2014-10-27 10:14:00] tkriz, joining. (#ios-driver)
