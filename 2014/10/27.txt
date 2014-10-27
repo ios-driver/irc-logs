@@ -15,3 +15,4 @@
 [2014-10-27 12:16:13] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-27 13:00:32] rodrigomartin1, joining. (#ios-driver)
 [2014-10-27 13:00:39] rodrigomartin, quitting. (Read error: Connection reset by peer)
+[2014-10-27 13:48:09] rodrigomartin1, quitting. (Ping timeout: 245 seconds)
