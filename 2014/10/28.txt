@@ -30,3 +30,4 @@
 [2014-10-28 13:21:47] grawk1001001, joining. (#ios-driver)
 [2014-10-28 13:22:47] grawk1001001: Sorry I'm using an IRC web client. I saw someone had replied that I should start up ios-driver and pass in the aut. I did do that as well with the same result.
 [2014-10-28 13:34:07] lukeis, joining. (#ios-driver)
+[2014-10-28 13:37:41] grawk1001001: Hey @lukeis, was it you who asked whether I had started the ios-driver by passing in aut?
