@@ -34,3 +34,5 @@
 [2014-10-28 14:07:37] grawk1001001, quitting. (Ping timeout: 246 seconds)
 [2014-10-28 14:33:18] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-10-28 14:33:45] rodrigomartin, joining. (#ios-driver)
+[2014-10-28 14:38:23] rodrigomartin, quitting. (Ping timeout: 265 seconds)
+[2014-10-28 14:38:55] rodrigomartin, joining. (#ios-driver)
