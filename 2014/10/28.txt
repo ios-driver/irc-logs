@@ -42,3 +42,4 @@
 [2014-10-28 14:58:13] lukeis1, joining. (#ios-driver)
 [2014-10-28 15:01:01] lukeis, quitting. (Ping timeout: 260 seconds)
 [2014-10-28 15:12:04] lukeis1, changing nick to lukeis.
+[2014-10-28 16:00:49] lukeis, quitting. (Quit: Leaving.)
