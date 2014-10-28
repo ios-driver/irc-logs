@@ -26,3 +26,4 @@
 [2014-10-28 12:43:48] grawk1001001: any help would be greatly appreciated. thanks.
 [2014-10-28 12:52:29] lukeis: seems like you haven't started a webdriver session yet… and the normal path to test against an app is to build it first and then provide ios-driver the path to the '.app' file (for simulator)
 [2014-10-28 12:58:27] lukeis, quitting. (Quit: Leaving.)
+[2014-10-28 13:02:52] grawk1001001, quitting. (Ping timeout: 246 seconds)
