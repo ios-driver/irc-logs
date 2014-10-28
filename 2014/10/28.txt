@@ -32,3 +32,5 @@
 [2014-10-28 13:34:07] lukeis, joining. (#ios-driver)
 [2014-10-28 13:37:41] grawk1001001: Hey @lukeis, was it you who asked whether I had started the ios-driver by passing in aut?
 [2014-10-28 14:07:37] grawk1001001, quitting. (Ping timeout: 246 seconds)
+[2014-10-28 14:33:18] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-10-28 14:33:45] rodrigomartin, joining. (#ios-driver)
