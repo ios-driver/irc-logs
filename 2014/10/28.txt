@@ -18,3 +18,6 @@
 [2014-10-28 08:20:25] nirvdrum, joining. (#ios-driver)
 [2014-10-28 08:57:36] lukeis, joining. (#ios-driver)
 [2014-10-28 09:04:16] smccarthy, joining. (#ios-driver)
+[2014-10-28 12:37:33] grawk1001001, joining. (#ios-driver)
+[2014-10-28 12:38:46] grawk1001001: hey all. last time i played around with ios-driver (about a year ago?) I had to downgrade to xcode 4.3. right now i've got Xcode 5.1 and am trying to follow setup instructions on the io page, using the 0.6.6-SNAPSHOT driver.
+[2014-10-28 12:39:02] grawk1001001: unable to get the inspector to work with current instructions
