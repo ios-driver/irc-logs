@@ -25,3 +25,4 @@
 [2014-10-28 12:43:07] grawk1001001: when i try to access the inspector via http://localhost:5555/inspector/ i see this exception in the stdout of the jar process: Caused by: org.openqa.selenium.WebDriverException: Cannot find session null on the server.
 [2014-10-28 12:43:48] grawk1001001: any help would be greatly appreciated. thanks.
 [2014-10-28 12:52:29] lukeis: seems like you haven't started a webdriver session yet… and the normal path to test against an app is to build it first and then provide ios-driver the path to the '.app' file (for simulator)
+[2014-10-28 12:58:27] lukeis, quitting. (Quit: Leaving.)
