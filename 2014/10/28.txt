@@ -21,3 +21,6 @@
 [2014-10-28 12:37:33] grawk1001001, joining. (#ios-driver)
 [2014-10-28 12:38:46] grawk1001001: hey all. last time i played around with ios-driver (about a year ago?) I had to downgrade to xcode 4.3. right now i've got Xcode 5.1 and am trying to follow setup instructions on the io page, using the 0.6.6-SNAPSHOT driver.
 [2014-10-28 12:39:02] grawk1001001: unable to get the inspector to work with current instructions
+[2014-10-28 12:40:35] grawk1001001: steps are: 0. start ios-driver by "java -jar /path/to/ios-standalone-jar" 1. create simple sample app via Xcode dialog, 2. set breakpoint in this app,  launch in debug mode, pause on breakpoint
+[2014-10-28 12:43:07] grawk1001001: when i try to access the inspector via http://localhost:5555/inspector/ i see this exception in the stdout of the jar process: Caused by: org.openqa.selenium.WebDriverException: Cannot find session null on the server.
+[2014-10-28 12:43:48] grawk1001001: any help would be greatly appreciated. thanks.
