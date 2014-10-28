@@ -27,3 +27,5 @@
 [2014-10-28 12:52:29] lukeis: seems like you haven't started a webdriver session yet… and the normal path to test against an app is to build it first and then provide ios-driver the path to the '.app' file (for simulator)
 [2014-10-28 12:58:27] lukeis, quitting. (Quit: Leaving.)
 [2014-10-28 13:02:52] grawk1001001, quitting. (Ping timeout: 246 seconds)
+[2014-10-28 13:21:47] grawk1001001, joining. (#ios-driver)
+[2014-10-28 13:22:47] grawk1001001: Sorry I'm using an IRC web client. I saw someone had replied that I should start up ios-driver and pass in the aut. I did do that as well with the same result.
