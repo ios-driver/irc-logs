@@ -43,3 +43,4 @@
 [2014-10-28 15:01:01] lukeis, quitting. (Ping timeout: 260 seconds)
 [2014-10-28 15:12:04] lukeis1, changing nick to lukeis.
 [2014-10-28 16:00:49] lukeis, quitting. (Quit: Leaving.)
+[2014-10-28 16:22:27] smccarthy, quitting. (Quit: Leaving...)
