@@ -8,3 +8,6 @@
 [2014-10-28 06:30:27] nirvdrum, joining. (#ios-driver)
 [2014-10-28 06:43:00] rodrigomartin, quitting. (Read error: Connection timed out)
 [2014-10-28 06:44:21] rodrigomartin, joining. (#ios-driver)
+[2014-10-28 07:00:43] rodrigomartin, quitting. (Read error: Connection timed out)
+[2014-10-28 07:01:40] rodrigomartin, joining. (#ios-driver)
+[2014-10-28 07:02:46] nirvdrum, quitting. (Quit: Leaving)
