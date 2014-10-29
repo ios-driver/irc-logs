@@ -33,3 +33,4 @@
 [2014-10-29 11:36:53] smccarthy, joining. (#ios-driver)
 [2014-10-29 11:39:52] smccarth_, quitting. (Ping timeout: 245 seconds)
 [2014-10-29 13:42:15] rodrigomartin, quitting. (Remote host closed the connection)
+[2014-10-29 15:00:29] nirvdrum, quitting. (Ping timeout: 264 seconds)
