@@ -15,3 +15,4 @@
 [2014-10-29 08:02:47] tkriz1, quitting. (Changing host)
 [2014-10-29 08:02:47] tkriz1, joining. (#ios-driver)
 [2014-10-29 08:04:48] tkriz, quitting. (Ping timeout: 265 seconds)
+[2014-10-29 08:17:33] smccarthy, joining. (#ios-driver)
