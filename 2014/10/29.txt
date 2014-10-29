@@ -30,3 +30,5 @@
 [2014-10-29 11:24:34] smccarth_, joining. (#ios-driver)
 [2014-10-29 11:24:50] smccarthy, quitting. (Ping timeout: 244 seconds)
 [2014-10-29 11:27:54] smccarthy2, quitting. (Ping timeout: 256 seconds)
+[2014-10-29 11:36:53] smccarthy, joining. (#ios-driver)
+[2014-10-29 11:39:52] smccarth_, quitting. (Ping timeout: 245 seconds)
