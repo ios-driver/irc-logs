@@ -21,3 +21,5 @@
 [2014-10-30 08:33:53] NuUser: I'm attempting to test a physical device, btw.
 [2014-10-30 08:47:05] operatiay, quitting. (Remote host closed the connection)
 [2014-10-30 08:48:30] lukeis, joining. (#ios-driver)
+[2014-10-30 09:06:37] tkriz, quitting. (Ping timeout: 260 seconds)
+[2014-10-30 09:09:54] lukeis, quitting. (Quit: Leaving.)
