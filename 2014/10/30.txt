@@ -45,3 +45,6 @@
 [2014-10-30 10:38:52] lukeis, quitting. (Read error: Connection reset by peer)
 [2014-10-30 10:39:11] lukeis2, changing nick to lukeis.
 [2014-10-30 10:39:56] lukeis, quitting. (Client Quit)
+[2014-10-30 10:40:08] lukeis, joining. (#ios-driver)
+[2014-10-30 10:43:01] lukeis, quitting. (Client Quit)
+[2014-10-30 10:43:17] lukeis, joining. (#ios-driver)
