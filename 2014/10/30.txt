@@ -59,3 +59,4 @@
 [2014-10-30 11:25:24] lukeis, quitting. (Client Quit)
 [2014-10-30 11:25:38] lukeis, joining. (#ios-driver)
 [2014-10-30 11:27:13] smccarthy2, joining. (#ios-driver)
+[2014-10-30 11:30:16] smccarthy, quitting. (Ping timeout: 255 seconds)
