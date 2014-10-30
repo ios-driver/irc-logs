@@ -28,3 +28,5 @@
 [2014-10-30 09:22:21] lukeis, joining. (#ios-driver)
 [2014-10-30 09:28:00] lukeis, quitting. (Quit: Leaving.)
 [2014-10-30 09:28:10] lukeis, joining. (#ios-driver)
+[2014-10-30 09:31:20] lukeis, quitting. (Client Quit)
+[2014-10-30 09:31:28] lukeis, joining. (#ios-driver)
