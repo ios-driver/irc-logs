@@ -2,3 +2,6 @@
 [2014-10-30 02:02:39] tkriz, quitting. (Changing host)
 [2014-10-30 02:02:39] tkriz, joining. (#ios-driver)
 [2014-10-30 05:57:44] nirvdrum, joining. (#ios-driver)
+[2014-10-30 07:08:07] ios-driver-git, joining. (#ios-driver)
+[2014-10-30 07:08:07] ios-driver-git: [ios-driver] kumaravel-jayakumar opened pull request #306: Added fix in BaseUIAutomationCommandExecutor to escape unnecessary thread block when stop called during registration. (dev...dev) http://git.io/Cqmgtw
+[2014-10-30 07:08:07] ios-driver-git, leaving. (#ios-driver)
