@@ -7,3 +7,6 @@
 [2014-10-30 07:08:07] ios-driver-git, leaving. (#ios-driver)
 [2014-10-30 07:30:14] operatiay, joining. (#ios-driver)
 [2014-10-30 07:58:38] NuUser, joining. (#ios-driver)
+[2014-10-30 08:18:22] NuUser: I'm having a simple issue getting started with using ios-driver with the selenium grid.
+[2014-10-30 08:18:57] NuUser: I have my grid/hub started on a Windows device using
+[2014-10-30 08:18:58] NuUser: java -cp ios-grid-0.6.5.jar;selenium-server-standalone-2.43.1.jar org.openqa.grid.selenium.GridLauncher -role hub
