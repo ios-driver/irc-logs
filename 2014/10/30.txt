@@ -50,3 +50,5 @@
 [2014-10-30 10:43:17] lukeis, joining. (#ios-driver)
 [2014-10-30 10:58:49] lukeis, quitting. (Read error: Connection reset by peer)
 [2014-10-30 10:59:02] lukeis, joining. (#ios-driver)
+[2014-10-30 11:00:23] NuUser: Can somebody provide an example of how they start the ios-driver and specify the AUT and then initiate the connection to a grid hub?
+[2014-10-30 11:02:14] NuUser: If I do it in that order, then I encounter an issue where the port is already being used when I do the grid conection (since i start the server and specify the AUT first)
