@@ -70,3 +70,5 @@
 [2014-10-30 12:42:48] operatia_, quitting. ()
 [2014-10-30 13:55:14] lukeis, quitting. (Ping timeout: 245 seconds)
 [2014-10-30 13:56:23] lukeis, joining. (#ios-driver)
+[2014-10-30 14:07:17] lukeis, quitting. (Quit: Leaving.)
+[2014-10-30 14:09:43] lukeis, joining. (#ios-driver)
