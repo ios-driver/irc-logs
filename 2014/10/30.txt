@@ -10,3 +10,10 @@
 [2014-10-30 08:18:22] NuUser: I'm having a simple issue getting started with using ios-driver with the selenium grid.
 [2014-10-30 08:18:57] NuUser: I have my grid/hub started on a Windows device using
 [2014-10-30 08:18:58] NuUser: java -cp ios-grid-0.6.5.jar;selenium-server-standalone-2.43.1.jar org.openqa.grid.selenium.GridLauncher -role hub
+[2014-10-30 08:22:12] NuUser: Now on iOS, do I have to start the server with the AUT specified like we do with Selendroid, and THEN do the grid connection?
+[2014-10-30 08:22:29] NuUser: Because if I do:
+[2014-10-30 08:22:30] NuUser: java -jar ios-server-0.6.5-jar-with-dependencies.jar -aut UICatalog.app -port 5555
+[2014-10-30 08:23:00] NuUser: Then connect to the grid:
+[2014-10-30 08:23:24] NuUser: java -jar ios-server-0.6.5-jar-with-dependencies.jar -hub http://<hub ip>:4444/grid/register -proxy org.uiautomation.ios.grid.IOSRemoteProxy -host <local ip> -port 5555
+[2014-10-30 08:23:59] smccarthy, joining. (#ios-driver)
+[2014-10-30 08:24:01] NuUser: I get an error stating that port 5555 is already taken (or the message equivalent to that)
