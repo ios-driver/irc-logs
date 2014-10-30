@@ -62,3 +62,6 @@
 [2014-10-30 11:30:16] smccarthy, quitting. (Ping timeout: 255 seconds)
 [2014-10-30 11:36:17] lukeis, quitting. (Ping timeout: 265 seconds)
 [2014-10-30 11:41:08] lukeis, joining. (#ios-driver)
+[2014-10-30 12:25:26] operatiay, joining. (#ios-driver)
+[2014-10-30 12:27:46] operatiay, quitting. (Read error: Connection reset by peer)
+[2014-10-30 12:28:14] operatiay, joining. (#ios-driver)
