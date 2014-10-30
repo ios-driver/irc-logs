@@ -75,3 +75,4 @@
 [2014-10-30 14:28:03] lukeis, quitting. (Quit: Leaving.)
 [2014-10-30 14:28:13] lukeis, joining. (#ios-driver)
 [2014-10-30 14:29:06] NuUser, quitting. (Quit: Page closed)
+[2014-10-30 14:32:42] lukeis, quitting. (Ping timeout: 265 seconds)
