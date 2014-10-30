@@ -19,3 +19,5 @@
 [2014-10-30 08:24:01] NuUser: I get an error stating that port 5555 is already taken (or the message equivalent to that)
 [2014-10-30 08:32:25] NuUser: If I do the grid connection on iOS and also specify the AUT, then on the hub shows that the ios devce was connected but has no capabilities
 [2014-10-30 08:33:53] NuUser: I'm attempting to test a physical device, btw.
+[2014-10-30 08:47:05] operatiay, quitting. (Remote host closed the connection)
+[2014-10-30 08:48:30] lukeis, joining. (#ios-driver)
