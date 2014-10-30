@@ -6,3 +6,4 @@
 [2014-10-30 07:08:07] ios-driver-git: [ios-driver] kumaravel-jayakumar opened pull request #306: Added fix in BaseUIAutomationCommandExecutor to escape unnecessary thread block when stop called during registration. (dev...dev) http://git.io/Cqmgtw
 [2014-10-30 07:08:07] ios-driver-git, leaving. (#ios-driver)
 [2014-10-30 07:30:14] operatiay, joining. (#ios-driver)
+[2014-10-30 07:58:38] NuUser, joining. (#ios-driver)
