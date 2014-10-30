@@ -76,3 +76,6 @@
 [2014-10-30 14:28:13] lukeis, joining. (#ios-driver)
 [2014-10-30 14:29:06] NuUser, quitting. (Quit: Page closed)
 [2014-10-30 14:32:42] lukeis, quitting. (Ping timeout: 265 seconds)
+[2014-10-30 14:35:43] lukeis, joining. (#ios-driver)
+[2014-10-30 14:38:45] lukeis, quitting. (Read error: Connection reset by peer)
+[2014-10-30 14:38:45] lukeis1, joining. (#ios-driver)
