@@ -30,3 +30,5 @@
 [2014-10-30 09:28:10] lukeis, joining. (#ios-driver)
 [2014-10-30 09:31:20] lukeis, quitting. (Client Quit)
 [2014-10-30 09:31:28] lukeis, joining. (#ios-driver)
+[2014-10-30 09:36:51] lukeis1, joining. (#ios-driver)
+[2014-10-30 09:37:47] lukeis, quitting. (Read error: Connection reset by peer)
