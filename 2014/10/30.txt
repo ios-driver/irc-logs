@@ -54,3 +54,5 @@
 [2014-10-30 11:02:14] NuUser: If I do it in that order, then I encounter an issue where the port is already being used when I do the grid conection (since i start the server and specify the AUT first)
 [2014-10-30 11:05:42] lukeis, quitting. (Quit: Leaving.)
 [2014-10-30 11:05:53] lukeis, joining. (#ios-driver)
+[2014-10-30 11:23:01] lukeis, quitting. (Quit: Leaving.)
+[2014-10-30 11:23:08] lukeis, joining. (#ios-driver)
