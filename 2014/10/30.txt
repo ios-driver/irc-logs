@@ -34,3 +34,5 @@
 [2014-10-30 09:37:47] lukeis, quitting. (Read error: Connection reset by peer)
 [2014-10-30 09:40:30] lukeis1, changing nick to lukeis.
 [2014-10-30 09:57:20] operatiay, joining. (#ios-driver)
+[2014-10-30 10:01:50] operatiay, quitting. (Remote host closed the connection)
+[2014-10-30 10:02:31] operatiay, joining. (#ios-driver)
