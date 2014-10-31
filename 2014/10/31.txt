@@ -46,3 +46,4 @@
 [2014-10-31 11:36:59] lukeis1, changing nick to lukeis.
 [2014-10-31 11:51:35] AutomatedTester, joining. (#ios-driver)
 [2014-10-31 12:09:57] tkriz, quitting. (Ping timeout: 255 seconds)
+[2014-10-31 12:28:31] lukeis, quitting. (Quit: Leaving.)
