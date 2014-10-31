@@ -62,3 +62,4 @@
 [2014-10-31 14:34:56] tkriz, joining. (#ios-driver)
 [2014-10-31 14:34:56] tkriz, quitting. (Changing host)
 [2014-10-31 14:34:56] tkriz, joining. (#ios-driver)
+[2014-10-31 14:35:29] tkriz, quitting. (Client Quit)
