@@ -59,3 +59,6 @@
 [2014-10-31 14:18:33] tkriz, joining. (#ios-driver)
 [2014-10-31 14:22:23] tkriz, quitting. (Client Quit)
 [2014-10-31 14:24:21] rodrigomartin, quitting. (Remote host closed the connection)
+[2014-10-31 14:34:56] tkriz, joining. (#ios-driver)
+[2014-10-31 14:34:56] tkriz, quitting. (Changing host)
+[2014-10-31 14:34:56] tkriz, joining. (#ios-driver)
