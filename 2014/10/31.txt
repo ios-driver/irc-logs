@@ -4,3 +4,6 @@
 [2014-10-31 02:41:20] operatiay, joining. (#ios-driver)
 [2014-10-31 04:35:28] operatiay, quitting. (Remote host closed the connection)
 [2014-10-31 05:16:08] operatiay, joining. (#ios-driver)
+[2014-10-31 05:33:04] ios-driver-git, joining. (#ios-driver)
+[2014-10-31 05:33:05] ios-driver-git: [ios-driver] abhijit1234 closed pull request #307: Returning title if alert text doesn't have a body (dev...dev) http://git.io/i03EIA
+[2014-10-31 05:33:05] ios-driver-git, leaving. (#ios-driver)
