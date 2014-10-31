@@ -41,3 +41,6 @@
 [2014-10-31 11:30:59] AutomatedTester, quitting. (Remote host closed the connection)
 [2014-10-31 11:33:04] AutomatedTester, joining. (#ios-driver)
 [2014-10-31 11:33:46] AutomatedTester_, joining. (#ios-driver)
+[2014-10-31 11:35:16] AutomatedTester, quitting. (Client Quit)
+[2014-10-31 11:35:16] AutomatedTester_, quitting. (Client Quit)
+[2014-10-31 11:36:59] lukeis1, changing nick to lukeis.
