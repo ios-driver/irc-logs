@@ -47,3 +47,6 @@
 [2014-10-31 11:51:35] AutomatedTester, joining. (#ios-driver)
 [2014-10-31 12:09:57] tkriz, quitting. (Ping timeout: 255 seconds)
 [2014-10-31 12:28:31] lukeis, quitting. (Quit: Leaving.)
+[2014-10-31 12:51:57] tkriz, joining. (#ios-driver)
+[2014-10-31 12:51:57] tkriz, quitting. (Changing host)
+[2014-10-31 12:51:57] tkriz, joining. (#ios-driver)
