@@ -24,3 +24,4 @@
 [2014-10-31 07:24:36] NuUser: After initiating the connection to the grid using "java -jar ios-server-0.6.5-jar-with-dependencies.jar -hub http://<hub ip>:4444/grid/register -proxy org.uiautomation.ios.grid.IOSRemoteProxy -host <local ip> -port 5555"
 [2014-10-31 07:25:12] NuUser: how does one specify the capabilities?
 [2014-10-31 07:25:27] NuUser: of either safari or a physical iPad app?
+[2014-10-31 07:32:44] nirvdrum, joining. (#ios-driver)
