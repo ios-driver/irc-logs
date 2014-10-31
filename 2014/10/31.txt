@@ -38,3 +38,6 @@
 [2014-10-31 11:25:12] AutomatedTester_, joining. (#ios-driver)
 [2014-10-31 11:26:22] lukeis, quitting. (Ping timeout: 240 seconds)
 [2014-10-31 11:28:40] AutomatedTester_, quitting. (Client Quit)
+[2014-10-31 11:30:59] AutomatedTester, quitting. (Remote host closed the connection)
+[2014-10-31 11:33:04] AutomatedTester, joining. (#ios-driver)
+[2014-10-31 11:33:46] AutomatedTester_, joining. (#ios-driver)
