@@ -3,3 +3,4 @@
 [2014-10-31 01:51:31] tkriz, joining. (#ios-driver)
 [2014-10-31 02:41:20] operatiay, joining. (#ios-driver)
 [2014-10-31 04:35:28] operatiay, quitting. (Remote host closed the connection)
+[2014-10-31 05:16:08] operatiay, joining. (#ios-driver)
