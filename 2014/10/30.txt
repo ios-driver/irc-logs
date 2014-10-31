@@ -92,3 +92,4 @@
 [2014-10-30 18:13:58] ios-driver-git, joining. (#ios-driver)
 [2014-10-30 18:13:58] ios-driver-git: [ios-driver] abhijit1234 opened pull request #307: Returning title if alert text doesn't have a body (dev...dev) http://git.io/i03EIA
 [2014-10-30 18:13:58] ios-driver-git, leaving. (#ios-driver)
+[2014-10-30 22:01:38] smccarthy, quitting. (Quit: Leaving...)
