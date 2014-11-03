@@ -34,3 +34,4 @@
 [2014-11-03 13:54:12] smccarthy2, quitting. (Remote host closed the connection)
 [2014-11-03 13:55:06] smccarthy, joining. (#ios-driver)
 [2014-11-03 13:57:04] Ragnaroek, quitting. (Remote host closed the connection)
+[2014-11-03 14:10:37] lukeis, joining. (#ios-driver)
