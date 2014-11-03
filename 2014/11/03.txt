@@ -42,3 +42,5 @@
 [2014-11-03 15:18:44] mach6, quitting. (Quit: Be back later ...)
 [2014-11-03 15:19:22] mach6, joining. (#ios-driver)
 [2014-11-03 15:28:58] nirvdrum, quitting. (Ping timeout: 258 seconds)
+[2014-11-03 15:47:32] mach6_, joining. (#ios-driver)
+[2014-11-03 15:47:32] mach6, quitting. (Read error: Connection reset by peer)
