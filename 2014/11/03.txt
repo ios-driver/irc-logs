@@ -7,3 +7,4 @@
 [2014-11-03 05:56:25] dgrace__, joining. (#ios-driver)
 [2014-11-03 07:31:03] smccarthy, joining. (#ios-driver)
 [2014-11-03 07:52:22] nirvdrum, joining. (#ios-driver)
+[2014-11-03 09:03:53] nirvdrum, quitting. (Ping timeout: 264 seconds)
