@@ -37,3 +37,5 @@
 [2014-11-03 14:10:37] lukeis, joining. (#ios-driver)
 [2014-11-03 14:37:18] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-03 14:41:03] mach6, joining. (#ios-driver)
+[2014-11-03 14:47:08] mach6, quitting. (Ping timeout: 250 seconds)
+[2014-11-03 14:47:43] mach6, joining. (#ios-driver)
