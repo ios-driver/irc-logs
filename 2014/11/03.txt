@@ -12,3 +12,6 @@
 [2014-11-03 10:45:17] lukeis, quitting. (Quit: Leaving.)
 [2014-11-03 10:45:32] lukeis, joining. (#ios-driver)
 [2014-11-03 11:39:20] nirvdrum, joining. (#ios-driver)
+[2014-11-03 12:00:37] lukeis1, joining. (#ios-driver)
+[2014-11-03 12:01:04] lukeis2, joining. (#ios-driver)
+[2014-11-03 12:03:44] lukeis, quitting. (Ping timeout: 256 seconds)
