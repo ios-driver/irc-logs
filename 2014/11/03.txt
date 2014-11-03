@@ -5,3 +5,4 @@
 [2014-11-03 05:30:11] smccarthy, joining. (#ios-driver)
 [2014-11-03 05:48:30] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-03 05:56:25] dgrace__, joining. (#ios-driver)
+[2014-11-03 07:31:03] smccarthy, joining. (#ios-driver)
