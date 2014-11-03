@@ -24,3 +24,4 @@
 [2014-11-03 12:34:06] Ragnaroek: is it optional?
 [2014-11-03 12:34:25] Ragnaroek: we're using just the client with IE and it works
 [2014-11-03 12:34:34] Ragnaroek: is it included in the client?
+[2014-11-03 12:35:09] Ragnaroek: whoops, wrong channel
