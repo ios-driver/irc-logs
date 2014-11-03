@@ -17,3 +17,10 @@
 [2014-11-03 12:03:44] lukeis, quitting. (Ping timeout: 256 seconds)
 [2014-11-03 12:05:13] lukeis1, quitting. (Ping timeout: 256 seconds)
 [2014-11-03 12:07:41] lukeis2, changing nick to lukeis.
+[2014-11-03 12:32:38] Ragnaroek, joining. (#ios-driver)
+[2014-11-03 12:33:37] Ragnaroek: I don't get the InternetExplorerDriver
+[2014-11-03 12:33:46] Ragnaroek: do I need this if I use Selenium Client & WebDriver Language Bindings
+[2014-11-03 12:34:01] Ragnaroek: does it enhance the Selenium client for IE in a way?
+[2014-11-03 12:34:06] Ragnaroek: is it optional?
+[2014-11-03 12:34:25] Ragnaroek: we're using just the client with IE and it works
+[2014-11-03 12:34:34] Ragnaroek: is it included in the client?
