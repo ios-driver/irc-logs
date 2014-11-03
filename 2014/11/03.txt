@@ -27,3 +27,4 @@
 [2014-11-03 12:35:09] Ragnaroek: whoops, wrong channel
 [2014-11-03 12:59:16] lukeis, quitting. (Ping timeout: 256 seconds)
 [2014-11-03 13:28:14] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-11-03 13:49:31] smccarthy2, joining. (#ios-driver)
