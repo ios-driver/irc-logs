@@ -6,3 +6,4 @@
 [2014-11-04 06:26:33] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-04 06:28:17] rodrigomartin, quitting. (Read error: Connection timed out)
 [2014-11-04 06:29:43] rodrigomartin, joining. (#ios-driver)
+[2014-11-04 06:32:52] tkriz, quitting. (Ping timeout: 240 seconds)
