@@ -79,3 +79,4 @@
 [2014-11-04 15:05:52] mach6_, joining. (#ios-driver)
 [2014-11-04 15:05:53] mach6, quitting. (Read error: Connection reset by peer)
 [2014-11-04 15:23:30] rodrigomartin, quitting. (Ping timeout: 250 seconds)
+[2014-11-04 15:29:23] mach6_: lukeis or freynaud here?  have a question on test class org.uiautomation.ios.e2e.uicatalogapp.WebDriverSectorMapping
