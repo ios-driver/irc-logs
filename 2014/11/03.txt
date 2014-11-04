@@ -50,3 +50,5 @@
 [2014-11-03 16:48:45] mach6_, quitting. (Quit: Be back later ...)
 [2014-11-03 18:12:30] nirvdrum, joining. (#ios-driver)
 [2014-11-03 18:30:19] nirvdrum, quitting. (Ping timeout: 265 seconds)
+[2014-11-03 20:07:22] nirvdrum, joining. (#ios-driver)
+[2014-11-03 20:09:51] nirvdrum, quitting. (Client Quit)
