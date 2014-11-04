@@ -38,3 +38,4 @@
 [2014-11-04 10:31:34] dgrace__, quitting. (Quit: Connection closed for inactivity)
 [2014-11-04 10:43:09] rodrigomartin, quitting. (Read error: Connection reset by peer)
 [2014-11-04 10:43:43] rodrigomartin, joining. (#ios-driver)
+[2014-11-04 10:59:58] rodrigomartin, quitting. (Read error: Connection timed out)
