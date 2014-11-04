@@ -69,3 +69,4 @@
 [2014-11-04 13:35:51] Ragnaroek: good :)
 [2014-11-04 13:38:12] mach6, quitting. (Ping timeout: 250 seconds)
 [2014-11-04 13:49:26] Ragnaroek, quitting. (Ping timeout: 244 seconds)
+[2014-11-04 14:10:10] mach6, joining. (#ios-driver)
