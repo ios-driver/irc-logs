@@ -72,3 +72,7 @@
 [2014-11-04 14:10:10] mach6, joining. (#ios-driver)
 [2014-11-04 14:32:48] Sandeep, joining. (#ios-driver)
 [2014-11-04 14:33:51] Sandeep: 2014-11-04 16:39:38.569:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT 2014-11-04 16:39:38.660:INFO:oejs.AbstractConnector:Started SelectChannelConnector@0.0.0.0:4444 39:38:663 WARNING AppleLanguage.create  crazy-language isn't recognized. Please file a bug on github. You won't be able to start the app in that language. 40:53:891 INFO NewSessionNHandler.safeStart  The server cannot run Capabilities [{platform=MAC, cssSelectorsEnabled=fa
+[2014-11-04 14:35:17] Sandeep: I am creating connection as mentioned on the website for Ruby
+[2014-11-04 14:35:18] Sandeep: Ruby    # iphone   driver = Selenium::WebDriver.for :remote, :url => "http://localhost:5555/wd/hub", :desired_capabilities => :iphone   #ipad   driver = Selenium::WebDriver.for :remote, :url => "http://localhost:5555/wd/hub", :desired_capabilities => :ipad
+[2014-11-04 14:35:46] Sandeep: Doesn't work
+[2014-11-04 14:35:50] Sandeep, quitting. (Client Quit)
