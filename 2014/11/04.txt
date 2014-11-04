@@ -18,3 +18,4 @@
 [2014-11-04 08:13:58] lukeis, joining. (#ios-driver)
 [2014-11-04 08:18:38] dgrace__: lukeis: Got a sec for a selendroid question?
 [2014-11-04 08:19:57] lukeis: sure thing, wanna chat about it in #selendroid ? :)
+[2014-11-04 08:20:11] dgrace__: sure do, 1 sec and i'll be there
