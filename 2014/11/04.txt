@@ -76,3 +76,5 @@
 [2014-11-04 14:35:18] Sandeep: Ruby    # iphone   driver = Selenium::WebDriver.for :remote, :url => "http://localhost:5555/wd/hub", :desired_capabilities => :iphone   #ipad   driver = Selenium::WebDriver.for :remote, :url => "http://localhost:5555/wd/hub", :desired_capabilities => :ipad
 [2014-11-04 14:35:46] Sandeep: Doesn't work
 [2014-11-04 14:35:50] Sandeep, quitting. (Client Quit)
+[2014-11-04 15:05:52] mach6_, joining. (#ios-driver)
+[2014-11-04 15:05:53] mach6, quitting. (Read error: Connection reset by peer)
