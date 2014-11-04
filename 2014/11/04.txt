@@ -35,3 +35,4 @@
 [2014-11-04 09:55:04] rodrigomartin, joining. (#ios-driver)
 [2014-11-04 09:59:53] rodrigomartin, quitting. (Ping timeout: 264 seconds)
 [2014-11-04 10:00:52] rodrigomartin, joining. (#ios-driver)
+[2014-11-04 10:31:34] dgrace__, quitting. (Quit: Connection closed for inactivity)
