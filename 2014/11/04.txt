@@ -12,3 +12,5 @@
 [2014-11-04 06:35:22] tkriz, joining. (#ios-driver)
 [2014-11-04 06:46:03] rodrigomartin, quitting. (Read error: Connection timed out)
 [2014-11-04 06:47:02] rodrigomartin, joining. (#ios-driver)
+[2014-11-04 07:03:28] rodrigomartin, quitting. (Read error: Connection timed out)
+[2014-11-04 07:04:39] rodrigomartin, joining. (#ios-driver)
