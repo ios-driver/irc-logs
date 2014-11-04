@@ -45,3 +45,5 @@
 [2014-11-03 15:47:32] mach6_, joining. (#ios-driver)
 [2014-11-03 15:47:32] mach6, quitting. (Read error: Connection reset by peer)
 [2014-11-03 15:58:41] lukeis, quitting. (Quit: Leaving.)
+[2014-11-03 16:00:47] mach6_, quitting. (Ping timeout: 258 seconds)
+[2014-11-03 16:01:13] mach6_, joining. (#ios-driver)
