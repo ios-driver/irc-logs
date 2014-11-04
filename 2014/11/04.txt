@@ -19,3 +19,9 @@
 [2014-11-04 08:18:38] dgrace__: lukeis: Got a sec for a selendroid question?
 [2014-11-04 08:19:57] lukeis: sure thing, wanna chat about it in #selendroid ? :)
 [2014-11-04 08:20:11] dgrace__: sure do, 1 sec and i'll be there
+[2014-11-04 09:12:50] ios-driver-git, joining. (#ios-driver)
+[2014-11-04 09:12:50] ios-driver-git: [ios-driver] abhijit1234 pushed 14 new commits to dev: http://git.io/qTRxfQ
+[2014-11-04 09:12:50] ios-driver-git: ios-driver/dev 9f058c1 Mehdi Mulani: Change UIAAlert accept implementation to use Apple's button tapping....
+[2014-11-04 09:12:50] ios-driver-git: ios-driver/dev e13f111 Kumaravel Jayakumar: Removed call to kill iOS Simulator, removed unused retrieval of exit code.
+[2014-11-04 09:12:50] ios-driver-git: ios-driver/dev 223e38b Kumaravel Jayakumar: Added code to shutdown device if the device is already in booted state while erasing content and settings
+[2014-11-04 09:12:50] ios-driver-git, leaving. (#ios-driver)
