@@ -25,3 +25,5 @@
 [2014-11-04 09:12:50] ios-driver-git: ios-driver/dev e13f111 Kumaravel Jayakumar: Removed call to kill iOS Simulator, removed unused retrieval of exit code.
 [2014-11-04 09:12:50] ios-driver-git: ios-driver/dev 223e38b Kumaravel Jayakumar: Added code to shutdown device if the device is already in booted state while erasing content and settings
 [2014-11-04 09:12:50] ios-driver-git, leaving. (#ios-driver)
+[2014-11-04 09:27:10] rodrigomartin, quitting. (Read error: Connection reset by peer)
+[2014-11-04 09:27:23] rodrigomartin, joining. (#ios-driver)
