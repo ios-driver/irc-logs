@@ -64,3 +64,4 @@
 [2014-11-04 12:01:50] rodrigomartin, joining. (#ios-driver)
 [2014-11-04 12:32:45] mach6, quitting. (Quit: Be back later ...)
 [2014-11-04 12:45:04] Ragnaroek: is ios-driver still developed?
+[2014-11-04 12:51:38] lukeis: yes
