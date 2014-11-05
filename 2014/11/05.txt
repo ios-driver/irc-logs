@@ -8,3 +8,5 @@
 [2014-11-05 03:14:42] tkriz, quitting. (Changing host)
 [2014-11-05 03:14:43] tkriz, joining. (#ios-driver)
 [2014-11-05 03:45:06] rodrigomartin, joining. (#ios-driver)
+[2014-11-05 04:23:45] Ragnaroek, quitting. (Remote host closed the connection)
+[2014-11-05 04:24:54] Ragnaroek, joining. (#ios-driver)
