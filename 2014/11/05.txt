@@ -38,3 +38,6 @@
 [2014-11-05 12:51:10] Ragnaroek, joining. (#ios-driver)
 [2014-11-05 12:52:22] rodrigomartin, quitting. (Ping timeout: 245 seconds)
 [2014-11-05 13:04:29] mach6_, joining. (#ios-driver)
+[2014-11-05 13:11:57] rodrigomartin, joining. (#ios-driver)
+[2014-11-05 13:14:24] AutomatedTester: nicegraham____: yt?
+[2014-11-05 13:14:37] AutomatedTester: or freynaud
