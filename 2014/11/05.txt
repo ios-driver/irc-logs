@@ -42,3 +42,4 @@
 [2014-11-05 13:14:24] AutomatedTester: nicegraham____: yt?
 [2014-11-05 13:14:37] AutomatedTester: or freynaud
 [2014-11-05 13:15:06] lukeis, quitting. (Quit: Leaving.)
+[2014-11-05 13:29:27] rodrigomartin, quitting. (Ping timeout: 244 seconds)
