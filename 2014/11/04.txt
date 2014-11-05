@@ -82,3 +82,4 @@
 [2014-11-04 15:29:23] mach6_: lukeis or freynaud here?  have a question on test class org.uiautomation.ios.e2e.uicatalogapp.WebDriverSectorMapping
 [2014-11-04 15:31:59] lukeis, quitting. (Quit: Leaving.)
 [2014-11-04 16:03:40] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-04 16:44:53] mach6_, quitting. (Quit: Be back later ...)
