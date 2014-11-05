@@ -87,3 +87,7 @@
 [2014-11-04 16:50:17] mach6_, quitting. (Ping timeout: 264 seconds)
 [2014-11-04 22:00:17] nirvdrum, quitting. (Ping timeout: 245 seconds)
 [2014-11-04 22:51:19] Ragnaroek, joining. (#ios-driver)
+[2014-11-04 23:58:42] tkriz1, joining. (#ios-driver)
+[2014-11-04 23:58:42] tkriz1, quitting. (Changing host)
+[2014-11-04 23:58:42] tkriz1, joining. (#ios-driver)
+[2014-11-04 23:59:17] tkriz, quitting. (Ping timeout: 264 seconds)
