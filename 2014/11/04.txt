@@ -84,3 +84,4 @@
 [2014-11-04 16:03:40] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-04 16:44:53] mach6_, quitting. (Quit: Be back later ...)
 [2014-11-04 16:45:49] mach6_, joining. (#ios-driver)
+[2014-11-04 16:50:17] mach6_, quitting. (Ping timeout: 264 seconds)
