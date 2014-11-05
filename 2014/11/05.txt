@@ -26,3 +26,4 @@
 [2014-11-05 09:04:07] tkriz, quitting. (Changing host)
 [2014-11-05 09:04:07] tkriz, joining. (#ios-driver)
 [2014-11-05 09:29:14] Ragnaroek, quitting. (Ping timeout: 265 seconds)
+[2014-11-05 10:18:37] nirvdrum, quitting. (Ping timeout: 245 seconds)
