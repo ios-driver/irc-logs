@@ -11,3 +11,4 @@
 [2014-11-05 04:23:45] Ragnaroek, quitting. (Remote host closed the connection)
 [2014-11-05 04:24:54] Ragnaroek, joining. (#ios-driver)
 [2014-11-05 04:45:14] nirvdrum, joining. (#ios-driver)
+[2014-11-05 04:52:32] tkriz, quitting. (Ping timeout: 250 seconds)
