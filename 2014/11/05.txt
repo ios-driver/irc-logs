@@ -75,3 +75,4 @@
 [2014-11-05 19:53:44] ios-driver-git: [ios-driver] mmmulani pushed 1 new commit to dev: http://git.io/DM2mYg
 [2014-11-05 19:53:44] ios-driver-git: ios-driver/dev cb776ad Mehdi Mulani: Handle content and settings directory on Xcode 6.
 [2014-11-05 19:53:44] ios-driver-git, leaving. (#ios-driver)
+[2014-11-05 20:36:20] nirvdrum, quitting. (Ping timeout: 264 seconds)
