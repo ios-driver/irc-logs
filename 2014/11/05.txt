@@ -70,3 +70,4 @@
 [2014-11-05 18:07:10] rlux, joining. (#ios-driver)
 [2014-11-05 18:10:33] rlux, quitting. (Client Quit)
 [2014-11-05 18:11:50] rlux, joining. (#ios-driver)
+[2014-11-05 18:43:58] mach6___, quitting. (Quit: Be back later ...)
