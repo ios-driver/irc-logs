@@ -26,3 +26,5 @@
 [2014-11-06 10:37:49] tkriz, quitting. (Ping timeout: 260 seconds)
 [2014-11-06 11:03:18] ddary, joining. (#ios-driver)
 [2014-11-06 12:14:15] ddary, leaving. (#ios-driver)
+[2014-11-06 12:31:13] mach6, joining. (#ios-driver)
+[2014-11-06 12:33:44] mach6, quitting. (Read error: Connection reset by peer)
