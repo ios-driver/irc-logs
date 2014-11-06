@@ -71,3 +71,7 @@
 [2014-11-05 18:10:33] rlux, quitting. (Client Quit)
 [2014-11-05 18:11:50] rlux, joining. (#ios-driver)
 [2014-11-05 18:43:58] mach6___, quitting. (Quit: Be back later ...)
+[2014-11-05 19:53:44] ios-driver-git, joining. (#ios-driver)
+[2014-11-05 19:53:44] ios-driver-git: [ios-driver] mmmulani pushed 1 new commit to dev: http://git.io/DM2mYg
+[2014-11-05 19:53:44] ios-driver-git: ios-driver/dev cb776ad Mehdi Mulani: Handle content and settings directory on Xcode 6.
+[2014-11-05 19:53:44] ios-driver-git, leaving. (#ios-driver)
