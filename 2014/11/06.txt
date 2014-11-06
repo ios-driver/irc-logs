@@ -33,3 +33,4 @@
 [2014-11-06 15:16:42] ad123, joining. (#ios-driver)
 [2014-11-06 15:18:01] ad123: WE are using ios-driver for mobile web testing.. we are blocked due to issue with location sharing native pop up on the safari.. is there a way in ios-driver by flags or some paramters to either disable location sharing or allow sharing before page opens ?
 [2014-11-06 15:37:35] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-06 15:41:09] mach6, quitting. (Quit: Be back later ...)
