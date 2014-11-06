@@ -28,3 +28,4 @@
 [2014-11-06 12:14:15] ddary, leaving. (#ios-driver)
 [2014-11-06 12:31:13] mach6, joining. (#ios-driver)
 [2014-11-06 12:33:44] mach6, quitting. (Read error: Connection reset by peer)
+[2014-11-06 13:50:01] mach6, joining. (#ios-driver)
