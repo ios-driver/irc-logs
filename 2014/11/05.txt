@@ -60,3 +60,6 @@
 [2014-11-05 15:31:48] smccarthy, joining. (#ios-driver)
 [2014-11-05 15:51:11] smccarthy, quitting. (Remote host closed the connection)
 [2014-11-05 15:51:46] smccarthy, joining. (#ios-driver)
+[2014-11-05 16:01:57] lukeis, quitting. (Quit: Leaving.)
+[2014-11-05 16:03:24] mach6___, joining. (#ios-driver)
+[2014-11-05 16:03:24] mach6__, quitting. (Read error: Connection reset by peer)
