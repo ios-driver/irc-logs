@@ -37,3 +37,4 @@
 [2014-11-06 15:49:42] ad123: issue submitted: https://github.com/ios-driver/ios-driver/issues/311
 [2014-11-06 15:54:40] rlux, joining. (#ios-driver)
 [2014-11-06 15:59:26] lukeis, quitting. (Quit: Leaving.)
+[2014-11-06 16:19:55] nirvdrum, quitting. (Ping timeout: 255 seconds)
