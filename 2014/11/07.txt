@@ -2,3 +2,4 @@
 [2014-11-07 00:14:27] rlux86, joining. (#ios-driver)
 [2014-11-07 00:15:27] rlux, quitting. (Ping timeout: 265 seconds)
 [2014-11-07 01:09:24] operatiay, joining. (#ios-driver)
+[2014-11-07 01:41:44] rlux86, quitting. (Quit: Leaving)
