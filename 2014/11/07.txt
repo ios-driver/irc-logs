@@ -16,3 +16,4 @@
 [2014-11-07 07:42:09] nirvdrum, joining. (#ios-driver)
 [2014-11-07 08:10:32] smccarthy, joining. (#ios-driver)
 [2014-11-07 09:48:28] AutomatedTester, quitting. (Ping timeout: 256 seconds)
+[2014-11-07 09:50:22] AutomatedTester, joining. (#ios-driver)
