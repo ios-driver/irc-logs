@@ -18,3 +18,4 @@
 [2014-11-07 09:48:28] AutomatedTester, quitting. (Ping timeout: 256 seconds)
 [2014-11-07 09:50:22] AutomatedTester, joining. (#ios-driver)
 [2014-11-07 12:44:31] mach6, joining. (#ios-driver)
+[2014-11-07 13:28:57] mach6, quitting. (Ping timeout: 258 seconds)
