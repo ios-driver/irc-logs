@@ -14,3 +14,4 @@
 [2014-11-07 07:07:28] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
 [2014-11-07 07:18:36] AutomatedTester, joining. (#ios-driver)
 [2014-11-07 07:42:09] nirvdrum, joining. (#ios-driver)
+[2014-11-07 08:10:32] smccarthy, joining. (#ios-driver)
