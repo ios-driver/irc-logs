@@ -36,3 +36,4 @@
 [2014-11-06 15:41:09] mach6, quitting. (Quit: Be back later ...)
 [2014-11-06 15:49:42] ad123: issue submitted: https://github.com/ios-driver/ios-driver/issues/311
 [2014-11-06 15:54:40] rlux, joining. (#ios-driver)
+[2014-11-06 15:59:26] lukeis, quitting. (Quit: Leaving.)
