@@ -10,3 +10,4 @@
 [2014-11-07 03:18:42] operatiay, joining. (#ios-driver)
 [2014-11-07 04:39:10] nirvdrum, joining. (#ios-driver)
 [2014-11-07 05:33:11] nirvdrum, quitting. (Quit: Leaving)
+[2014-11-07 05:35:38] operatiay, quitting. (Remote host closed the connection)
