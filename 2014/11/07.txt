@@ -3,3 +3,6 @@
 [2014-11-07 00:15:27] rlux, quitting. (Ping timeout: 265 seconds)
 [2014-11-07 01:09:24] operatiay, joining. (#ios-driver)
 [2014-11-07 01:41:44] rlux86, quitting. (Quit: Leaving)
+[2014-11-07 02:26:15] tkriz, joining. (#ios-driver)
+[2014-11-07 02:26:15] tkriz, quitting. (Changing host)
+[2014-11-07 02:26:15] tkriz, joining. (#ios-driver)
