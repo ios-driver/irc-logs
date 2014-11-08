@@ -25,3 +25,5 @@
 [2014-11-07 15:06:41] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-07 15:07:41] tkriz, quitting. (Quit: Leaving.)
 [2014-11-07 15:43:30] nirvdrum, quitting. (Ping timeout: 258 seconds)
+[2014-11-07 18:05:30] mach6_, joining. (#ios-driver)
+[2014-11-07 18:08:45] mach6, quitting. (Ping timeout: 260 seconds)
