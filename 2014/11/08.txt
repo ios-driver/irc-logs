@@ -3,3 +3,4 @@
 [2014-11-08 06:18:43] smccarthy, joining. (#ios-driver)
 [2014-11-08 11:03:07] operatiay, joining. (#ios-driver)
 [2014-11-08 11:04:26] operatiay, quitting. (Read error: Connection reset by peer)
+[2014-11-08 11:11:19] smccarthy, quitting. (Quit: Leaving...)
