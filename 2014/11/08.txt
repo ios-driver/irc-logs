@@ -1,2 +1,3 @@
 [2014-11-08 04:29:20] AutomatedTester, quitting. (Ping timeout: 256 seconds)
 [2014-11-08 04:35:40] AutomatedTester, joining. (#ios-driver)
+[2014-11-08 06:18:43] smccarthy, joining. (#ios-driver)
