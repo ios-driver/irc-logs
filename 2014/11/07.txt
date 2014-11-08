@@ -34,3 +34,4 @@
 [2014-11-07 18:48:29] mach6___, quitting. (Ping timeout: 264 seconds)
 [2014-11-07 20:48:00] smccarthy, joining. (#ios-driver)
 [2014-11-07 21:24:04] nirvdrum, joining. (#ios-driver)
+[2014-11-07 21:25:29] nirvdrum, quitting. (Client Quit)
