@@ -29,3 +29,4 @@
 [2014-11-07 18:08:45] mach6, quitting. (Ping timeout: 260 seconds)
 [2014-11-07 18:16:18] mach6__, joining. (#ios-driver)
 [2014-11-07 18:18:47] mach6_, quitting. (Ping timeout: 255 seconds)
+[2014-11-07 18:39:03] mach6___, joining. (#ios-driver)
