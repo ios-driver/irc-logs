@@ -2,3 +2,7 @@
 [2014-11-09 12:50:49] smccarthy, quitting. (Remote host closed the connection)
 [2014-11-09 13:02:30] smccarthy, joining. (#ios-driver)
 [2014-11-09 20:18:39] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-09 23:57:30] tkriz, joining. (#ios-driver)
+[2014-11-09 23:57:30] tkriz, quitting. (Changing host)
+[2014-11-09 23:57:30] tkriz, joining. (#ios-driver)
+[2014-11-09 23:58:11] tkriz, quitting. (Client Quit)
