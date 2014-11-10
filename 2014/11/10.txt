@@ -16,3 +16,4 @@
 [2014-11-10 13:52:18] rodrigomartin, joining. (#ios-driver)
 [2014-11-10 14:45:41] rodrigomartin, quitting. (Remote host closed the connection)
 [2014-11-10 15:33:50] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-10 15:38:10] nirvdrum, quitting. (Ping timeout: 265 seconds)
