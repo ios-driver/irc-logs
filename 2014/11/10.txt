@@ -10,3 +10,4 @@
 [2014-11-10 10:47:56] tkriz, joining. (#ios-driver)
 [2014-11-10 11:00:49] nirvdrum_, joining. (#ios-driver)
 [2014-11-10 11:02:33] nirvdrum_, changing nick to nirvdrum.
+[2014-11-10 11:34:52] mach6, joining. (#ios-driver)
