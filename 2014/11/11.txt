@@ -14,3 +14,4 @@
 [2014-11-11 06:43:18] smccarthy, joining. (#ios-driver)
 [2014-11-11 06:44:18] nirvdrum_, quitting. (Client Quit)
 [2014-11-11 06:44:41] nirvdrum, joining. (#ios-driver)
+[2014-11-11 09:04:14] tkriz, quitting. (Quit: Leaving.)
