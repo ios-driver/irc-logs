@@ -27,3 +27,5 @@
 [2014-11-11 11:15:38] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-11 12:56:15] rodrigomartin, quitting. (Remote host closed the connection)
 [2014-11-11 13:55:17] mach6, joining. (#ios-driver)
+[2014-11-11 14:35:43] mach6, quitting. (Quit: Be back later ...)
+[2014-11-11 14:36:06] mach6, joining. (#ios-driver)
