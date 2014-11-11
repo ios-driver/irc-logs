@@ -17,3 +17,4 @@
 [2014-11-10 14:45:41] rodrigomartin, quitting. (Remote host closed the connection)
 [2014-11-10 15:33:50] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-10 15:38:10] nirvdrum, quitting. (Ping timeout: 265 seconds)
+[2014-11-10 16:32:02] mach6, quitting. (Quit: Be back later ...)
