@@ -3,3 +3,7 @@
 [2014-11-11 01:04:00] tkriz, joining. (#ios-driver)
 [2014-11-11 01:04:01] tkriz, quitting. (Changing host)
 [2014-11-11 01:04:01] tkriz, joining. (#ios-driver)
+[2014-11-11 04:04:02] rodrigomartin, joining. (#ios-driver)
+[2014-11-11 04:04:13] ios-driver-git, joining. (#ios-driver)
+[2014-11-11 04:04:13] ios-driver-git: [ios-driver] kumaravel-jayakumar opened pull request #313: Fixed Accessibility error and multiple instances error during instruments launch (dev...accessibility-preferences-fix) http://git.io/p95HrQ
+[2014-11-11 04:04:14] ios-driver-git, leaving. (#ios-driver)
