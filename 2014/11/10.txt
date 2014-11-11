@@ -23,3 +23,5 @@
 [2014-11-10 17:57:33] nicegraham____, quitting. (Ping timeout: 257 seconds)
 [2014-11-10 17:57:43] nicegraham_____, joining. (#ios-driver)
 [2014-11-10 18:16:43] smccarthy, joining. (#ios-driver)
+[2014-11-10 19:06:33] smccarthy, quitting. (Remote host closed the connection)
+[2014-11-10 19:07:13] smccarthy, joining. (#ios-driver)
