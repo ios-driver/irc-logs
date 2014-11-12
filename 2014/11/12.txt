@@ -17,3 +17,4 @@
 [2014-11-12 08:22:36] ios-driver-git, joining. (#ios-driver)
 [2014-11-12 08:22:37] ios-driver-git: [ios-driver] iamleeg opened pull request #315: Use simctl to add photos to the simulator in Xcode >=6 (dev...ios-8-photo-storage) http://git.io/L2ySSw
 [2014-11-12 08:22:37] ios-driver-git, leaving. (#ios-driver)
+[2014-11-12 09:03:03] operatiay, quitting. (Remote host closed the connection)
