@@ -4,3 +4,4 @@
 [2014-11-12 04:55:03] tkriz1, joining. (#ios-driver)
 [2014-11-12 04:55:14] tkriz, quitting. (Ping timeout: 245 seconds)
 [2014-11-12 05:24:57] operatiay, joining. (#ios-driver)
+[2014-11-12 05:45:36] rodrigomartin, joining. (#ios-driver)
