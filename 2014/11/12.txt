@@ -7,3 +7,7 @@
 [2014-11-12 05:45:36] rodrigomartin, joining. (#ios-driver)
 [2014-11-12 05:50:16] operatiay, quitting. (Remote host closed the connection)
 [2014-11-12 05:59:11] tkriz1, quitting. (Quit: Leaving.)
+[2014-11-12 06:02:56] operatiay, joining. (#ios-driver)
+[2014-11-12 06:03:27] tkriz, joining. (#ios-driver)
+[2014-11-12 06:03:27] tkriz, quitting. (Changing host)
+[2014-11-12 06:03:27] tkriz, joining. (#ios-driver)
