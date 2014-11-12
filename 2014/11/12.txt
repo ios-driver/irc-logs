@@ -26,3 +26,5 @@
 [2014-11-12 10:31:08] rodrigomartin, quitting. (Client Quit)
 [2014-11-12 10:31:20] rodrigomartin, joining. (#ios-driver)
 [2014-11-12 10:54:09] mach6, joining. (#ios-driver)
+[2014-11-12 12:47:51] mach6, quitting. (Quit: Be back later ...)
+[2014-11-12 12:49:04] rodrigomartin, quitting. (Remote host closed the connection)
