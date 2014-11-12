@@ -33,3 +33,4 @@
 [2014-11-12 13:06:55] ios-driver-git, leaving. (#ios-driver)
 [2014-11-12 13:13:09] mach6, joining. (#ios-driver)
 [2014-11-12 13:29:24] smccarthy2, joining. (#ios-driver)
+[2014-11-12 13:31:42] smccarthy, quitting. (Ping timeout: 255 seconds)
