@@ -14,3 +14,6 @@
 [2014-11-12 06:34:03] nirvdrum, quitting. (Ping timeout: 264 seconds)
 [2014-11-12 06:49:07] nirvdrum, joining. (#ios-driver)
 [2014-11-12 08:18:32] smccarthy, joining. (#ios-driver)
+[2014-11-12 08:22:36] ios-driver-git, joining. (#ios-driver)
+[2014-11-12 08:22:37] ios-driver-git: [ios-driver] iamleeg opened pull request #315: Use simctl to add photos to the simulator in Xcode >=6 (dev...ios-8-photo-storage) http://git.io/L2ySSw
+[2014-11-12 08:22:37] ios-driver-git, leaving. (#ios-driver)
