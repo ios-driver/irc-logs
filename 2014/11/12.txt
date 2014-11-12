@@ -28,3 +28,6 @@
 [2014-11-12 10:54:09] mach6, joining. (#ios-driver)
 [2014-11-12 12:47:51] mach6, quitting. (Quit: Be back later ...)
 [2014-11-12 12:49:04] rodrigomartin, quitting. (Remote host closed the connection)
+[2014-11-12 13:06:54] ios-driver-git, joining. (#ios-driver)
+[2014-11-12 13:06:54] ios-driver-git: [ios-driver] azaytsev opened pull request #316: SendKeys() does not only send keys but also click 'Done' #251 (dev...dev) http://git.io/Xp_UXw
+[2014-11-12 13:06:55] ios-driver-git, leaving. (#ios-driver)
