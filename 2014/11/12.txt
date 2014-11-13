@@ -73,3 +73,5 @@
 [2014-11-12 22:59:21] ios-driver-git, joining. (#ios-driver)
 [2014-11-12 22:59:21] ios-driver-git: [ios-driver] mach6 closed pull request #294: Fix unit test failure (dev...krmahadevan-FixUnitTestFailures) http://git.io/3ErV2w
 [2014-11-12 22:59:21] ios-driver-git, leaving. (#ios-driver)
+[2014-11-12 23:02:28] mach6, joining. (#ios-driver)
+[2014-11-12 23:03:24] mach6: freynaud: yt?
