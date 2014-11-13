@@ -75,3 +75,10 @@
 [2014-11-12 22:59:21] ios-driver-git, leaving. (#ios-driver)
 [2014-11-12 23:02:28] mach6, joining. (#ios-driver)
 [2014-11-12 23:03:24] mach6: freynaud: yt?
+[2014-11-12 23:11:17] ios-driver-git, joining. (#ios-driver)
+[2014-11-12 23:11:17] ios-driver-git: [ios-driver] mach6 pushed 1 new commit to dev: http://git.io/e3U59A
+[2014-11-12 23:11:17] ios-driver-git: ios-driver/dev 96995a8 Kumaravel Jayakumar: Added fix in BaseUIAutomationCommandExecutor to escape unnecessary thread block when stop called during registration.
+[2014-11-12 23:11:17] ios-driver-git, leaving. (#ios-driver)
+[2014-11-12 23:11:38] ios-driver-git, joining. (#ios-driver)
+[2014-11-12 23:11:38] ios-driver-git: [ios-driver] mach6 closed pull request #306: Added fix in BaseUIAutomationCommandExecutor to escape unnecessary thread block when stop called during registration. (dev...dev) http://git.io/Cqmgtw
+[2014-11-12 23:11:38] ios-driver-git, leaving. (#ios-driver)
