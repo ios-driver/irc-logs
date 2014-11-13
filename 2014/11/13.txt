@@ -20,3 +20,6 @@
 [2014-11-13 11:12:36] mach6, joining. (#ios-driver)
 [2014-11-13 14:21:37] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-11-13 14:21:39] rodrigomartin1, joining. (#ios-driver)
+[2014-11-13 14:26:47] jonahss, joining. (#ios-driver)
+[2014-11-13 14:27:13] jonahss: hello hello. can ios-driver be run on real devices from a linux host?
+[2014-11-13 14:27:46] jonahss: as in: is there a known method for running ios-driver on devices without xcode on the host machine?
