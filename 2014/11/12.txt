@@ -45,3 +45,4 @@
 [2014-11-12 17:13:17] smccarthy, joining. (#ios-driver)
 [2014-11-12 17:26:06] jaws, joining. (#ios-driver)
 [2014-11-12 17:27:32] jaws, quitting. (Client Quit)
+[2014-11-12 17:41:23] mach6, quitting. (Quit: Be back later ...)
