@@ -56,3 +56,12 @@
 [2014-11-12 20:05:29] smccarthy, joining. (#ios-driver)
 [2014-11-12 20:09:11] freynaud_, joining. (#ios-driver)
 [2014-11-12 20:09:17] nicegraham______, joining. (#ios-driver)
+[2014-11-12 20:11:48] AutomatedTester_, joining. (#ios-driver)
+[2014-11-12 20:12:27] nicegraham_____, quitting. (Ping timeout: 272 seconds)
+[2014-11-12 20:12:28] freynaud, quitting. (Ping timeout: 272 seconds)
+[2014-11-12 20:12:34] AutomatedTester, quitting. (Ping timeout: 272 seconds)
+[2014-11-12 20:12:37] AutomatedTester_, changing nick to AutomatedTester.
+[2014-11-12 20:12:38] AutomatedTester, quitting. (Changing host)
+[2014-11-12 20:12:38] AutomatedTester, joining. (#ios-driver)
+[2014-11-12 20:12:38] nicegraham______, changing nick to nicegraham_____.
+[2014-11-12 20:12:44] freynaud_, changing nick to freynaud.
