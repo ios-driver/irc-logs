@@ -43,3 +43,5 @@
 [2014-11-12 15:47:45] operatiay, quitting. (Remote host closed the connection)
 [2014-11-12 16:43:42] rlux, joining. (#ios-driver)
 [2014-11-12 17:13:17] smccarthy, joining. (#ios-driver)
+[2014-11-12 17:26:06] jaws, joining. (#ios-driver)
+[2014-11-12 17:27:32] jaws, quitting. (Client Quit)
