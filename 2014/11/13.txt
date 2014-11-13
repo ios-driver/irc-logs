@@ -12,3 +12,5 @@
 [2014-11-13 07:03:17] tkriz, joining. (#ios-driver)
 [2014-11-13 07:03:18] tkriz, quitting. (Changing host)
 [2014-11-13 07:03:18] tkriz, joining. (#ios-driver)
+[2014-11-13 07:20:54] rodrigomartin, quitting. (Ping timeout: 258 seconds)
+[2014-11-13 07:24:40] rodrigomartin, joining. (#ios-driver)
