@@ -65,3 +65,4 @@
 [2014-11-12 20:12:38] AutomatedTester, joining. (#ios-driver)
 [2014-11-12 20:12:38] nicegraham______, changing nick to nicegraham_____.
 [2014-11-12 20:12:44] freynaud_, changing nick to freynaud.
+[2014-11-12 20:51:27] smccarthy, quitting. (Quit: Leaving...)
