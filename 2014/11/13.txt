@@ -2,3 +2,4 @@
 [2014-11-13 01:47:59] operatiay, quitting. (Remote host closed the connection)
 [2014-11-13 01:48:11] operatiay, joining. (#ios-driver)
 [2014-11-13 02:19:09] operatiay, quitting. (Remote host closed the connection)
+[2014-11-13 02:26:27] operatiay, joining. (#ios-driver)
