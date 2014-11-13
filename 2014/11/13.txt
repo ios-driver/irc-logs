@@ -9,3 +9,6 @@
 [2014-11-13 06:02:49] tkriz, quitting. (Quit: Leaving.)
 [2014-11-13 06:39:13] rodrigomartin, joining. (#ios-driver)
 [2014-11-13 06:48:02] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-13 07:03:17] tkriz, joining. (#ios-driver)
+[2014-11-13 07:03:18] tkriz, quitting. (Changing host)
+[2014-11-13 07:03:18] tkriz, joining. (#ios-driver)
