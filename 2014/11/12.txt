@@ -66,3 +66,10 @@
 [2014-11-12 20:12:38] nicegraham______, changing nick to nicegraham_____.
 [2014-11-12 20:12:44] freynaud_, changing nick to freynaud.
 [2014-11-12 20:51:27] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-12 22:58:14] ios-driver-git, joining. (#ios-driver)
+[2014-11-12 22:58:14] ios-driver-git: [ios-driver] mach6 pushed 1 new commit to dev: http://git.io/zr4ZqA
+[2014-11-12 22:58:14] ios-driver-git: ios-driver/dev a16583d Krishnan Mahadevan: Fix unit test failure...
+[2014-11-12 22:58:14] ios-driver-git, leaving. (#ios-driver)
+[2014-11-12 22:59:21] ios-driver-git, joining. (#ios-driver)
+[2014-11-12 22:59:21] ios-driver-git: [ios-driver] mach6 closed pull request #294: Fix unit test failure (dev...krmahadevan-FixUnitTestFailures) http://git.io/3ErV2w
+[2014-11-12 22:59:21] ios-driver-git, leaving. (#ios-driver)
