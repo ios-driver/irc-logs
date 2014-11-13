@@ -53,3 +53,6 @@
 [2014-11-12 19:58:58] rlux, quitting. (Ping timeout: 244 seconds)
 [2014-11-12 20:00:36] nirvdrum, quitting. (Remote host closed the connection)
 [2014-11-12 20:04:54] smccarthy, quitting. (Read error: Connection reset by peer)
+[2014-11-12 20:05:29] smccarthy, joining. (#ios-driver)
+[2014-11-12 20:09:11] freynaud_, joining. (#ios-driver)
+[2014-11-12 20:09:17] nicegraham______, joining. (#ios-driver)
