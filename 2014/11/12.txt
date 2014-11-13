@@ -82,3 +82,4 @@
 [2014-11-12 23:11:38] ios-driver-git, joining. (#ios-driver)
 [2014-11-12 23:11:38] ios-driver-git: [ios-driver] mach6 closed pull request #306: Added fix in BaseUIAutomationCommandExecutor to escape unnecessary thread block when stop called during registration. (dev...dev) http://git.io/Cqmgtw
 [2014-11-12 23:11:38] ios-driver-git, leaving. (#ios-driver)
+[2014-11-12 23:20:24] mach6, quitting. (Quit: Be back later ...)
