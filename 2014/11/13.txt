@@ -6,3 +6,4 @@
 [2014-11-13 03:05:38] operatiay, quitting. ()
 [2014-11-13 05:08:31] nirvdrum, joining. (#ios-driver)
 [2014-11-13 05:34:55] smccarthy, joining. (#ios-driver)
+[2014-11-13 06:02:49] tkriz, quitting. (Quit: Leaving.)
