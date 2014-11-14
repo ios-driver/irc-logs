@@ -25,3 +25,4 @@
 [2014-11-13 14:27:46] jonahss: as in: is there a known method for running ios-driver on devices without xcode on the host machine?
 [2014-11-13 14:42:02] rodrigomartin1, quitting. (Remote host closed the connection)
 [2014-11-13 15:33:48] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-13 16:16:27] jonahss, quitting. (Ping timeout: 244 seconds)
