@@ -4,3 +4,4 @@
 [2014-11-14 01:37:25] tkriz, joining. (#ios-driver)
 [2014-11-14 01:48:53] rlux, quitting. (Quit: Leaving)
 [2014-11-14 04:05:50] rodrigomartin, joining. (#ios-driver)
+[2014-11-14 07:39:21] smccarthy, joining. (#ios-driver)
