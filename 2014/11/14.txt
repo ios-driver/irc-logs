@@ -7,3 +7,5 @@
 [2014-11-14 07:39:21] smccarthy, joining. (#ios-driver)
 [2014-11-14 10:16:47] tkriz, quitting. (Quit: Leaving.)
 [2014-11-14 11:39:53] nirvdrum, joining. (#ios-driver)
+[2014-11-14 12:02:37] rodrigomartin, quitting. (Read error: Connection reset by peer)
+[2014-11-14 12:02:45] rodrigomartin, joining. (#ios-driver)
