@@ -28,3 +28,4 @@
 [2014-11-13 16:16:27] jonahss, quitting. (Ping timeout: 244 seconds)
 [2014-11-13 17:28:34] rlux, joining. (#ios-driver)
 [2014-11-13 17:50:36] smccarthy, joining. (#ios-driver)
+[2014-11-13 19:14:57] nirvdrum, quitting. (Ping timeout: 250 seconds)
