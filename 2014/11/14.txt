@@ -15,3 +15,6 @@
 [2014-11-14 17:17:11] smccarthy, joining. (#ios-driver)
 [2014-11-14 19:20:46] nirvdrum, quitting. (Remote host closed the connection)
 [2014-11-14 20:09:39] renelux, joining. (#ios-driver)
+[2014-11-14 20:10:28] renelux, quitting. (Client Quit)
+[2014-11-14 20:10:38] renelux, joining. (#ios-driver)
+[2014-11-14 20:11:28] renelux, changing nick to rlux.
