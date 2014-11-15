@@ -13,3 +13,4 @@
 [2014-11-14 13:33:44] mach6, quitting. (Quit: Page closed)
 [2014-11-14 13:50:20] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-14 17:17:11] smccarthy, joining. (#ios-driver)
+[2014-11-14 19:20:46] nirvdrum, quitting. (Remote host closed the connection)
