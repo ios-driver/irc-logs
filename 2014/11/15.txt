@@ -1,0 +1,5 @@
+[2014-11-15 11:05:06] AutomatedTester_, joining. (#ios-driver)
+[2014-11-15 11:05:09] AutomatedTester, quitting. (Ping timeout: 265 seconds)
+[2014-11-15 11:05:10] AutomatedTester_, changing nick to AutomatedTester.
+[2014-11-15 11:05:11] AutomatedTester, quitting. (Changing host)
+[2014-11-15 11:05:11] AutomatedTester, joining. (#ios-driver)
