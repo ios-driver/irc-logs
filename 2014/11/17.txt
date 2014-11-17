@@ -17,3 +17,4 @@
 [2014-11-17 06:58:05] rodrigomartin, quitting. (Ping timeout: 264 seconds)
 [2014-11-17 07:27:10] tkriz, quitting. (Quit: Leaving.)
 [2014-11-17 07:34:40] ios-driver, joining. (#ios-driver)
+[2014-11-17 07:35:36] ios-driver: Wasn't able to find much information on this, but, does anybody know if iOS 8 for physical devices is supported by ios-driver?
