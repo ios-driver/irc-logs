@@ -27,3 +27,6 @@
 [2014-11-17 10:38:34] ios-driver-git, joining. (#ios-driver)
 [2014-11-17 10:38:34] ios-driver-git: [ios-driver] azaytsev closed pull request #316: SendKeys() does not only send keys but also click 'Done' #251 (dev...dev) http://git.io/Xp_UXw
 [2014-11-17 10:38:35] ios-driver-git, leaving. (#ios-driver)
+[2014-11-17 10:55:43] ios-driver-git, joining. (#ios-driver)
+[2014-11-17 10:55:43] ios-driver-git: [ios-driver] azaytsev opened pull request #318: SendKeys() does not only send keys but also click 'Done' #251 (dev...azaytsev_sendkeyfix_251) http://git.io/wGCMfQ
+[2014-11-17 10:55:43] ios-driver-git, leaving. (#ios-driver)
