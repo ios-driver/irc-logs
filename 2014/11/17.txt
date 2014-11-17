@@ -1,0 +1,6 @@
+[2014-11-17 01:34:20] ios-driver-git, joining. (#ios-driver)
+[2014-11-17 01:34:20] ios-driver-git: [ios-driver] freynaud pushed 5 new commits to dev: http://git.io/HBsx9g
+[2014-11-17 01:34:20] ios-driver-git: ios-driver/dev f974654 freynaud: instruments shouldn't be put in the temporary file system.I should persist for long running servers.
+[2014-11-17 01:34:20] ios-driver-git: ios-driver/dev f54450c freynaud: adding cleanup when safari can't start
+[2014-11-17 01:34:20] ios-driver-git: ios-driver/dev 29268b3 Kumaravel Jayakumar: Added code to shutdown device if the device is already in booted state while erasing content and settings
+[2014-11-17 01:34:20] ios-driver-git, leaving. (#ios-driver)
