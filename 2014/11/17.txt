@@ -32,3 +32,4 @@
 [2014-11-17 10:55:43] ios-driver-git, leaving. (#ios-driver)
 [2014-11-17 11:11:16] ios-driver, leaving. (#ios-driver)
 [2014-11-17 11:14:16] iamleeg, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-11-17 11:53:53] mach6, joining. (#ios-driver)
