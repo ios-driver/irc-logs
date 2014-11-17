@@ -18,3 +18,6 @@
 [2014-11-17 07:27:10] tkriz, quitting. (Quit: Leaving.)
 [2014-11-17 07:34:40] ios-driver, joining. (#ios-driver)
 [2014-11-17 07:35:36] ios-driver: Wasn't able to find much information on this, but, does anybody know if iOS 8 for physical devices is supported by ios-driver?
+[2014-11-17 07:44:08] tkriz, joining. (#ios-driver)
+[2014-11-17 07:44:08] tkriz, quitting. (Changing host)
+[2014-11-17 07:44:08] tkriz, joining. (#ios-driver)
