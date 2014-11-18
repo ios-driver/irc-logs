@@ -13,3 +13,4 @@
 [2014-11-18 04:10:16] ios-driver-git: [ios-driver] bijoyv opened pull request #319: simulator have higher application size for mobile safari, need to find safari to trigger it (dev...dev) http://git.io/3Xcafg
 [2014-11-18 04:10:16] ios-driver-git, leaving. (#ios-driver)
 [2014-11-18 05:31:00] smccarthy, joining. (#ios-driver)
+[2014-11-18 05:44:22] rodrigomartin, joining. (#ios-driver)
