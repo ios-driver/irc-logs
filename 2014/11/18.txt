@@ -55,3 +55,10 @@
 [2014-11-18 13:44:55] ios-driver-git: ios-driver/dev f001aea Mehdi Mulani: Add instruments-without-delay for Xcode 6.2 beta 1.
 [2014-11-18 14:07:20] rodrigomartin, quitting. (Remote host closed the connection)
 [2014-11-18 14:59:37] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-18 15:30:31] ios-driver-git, joining. (#ios-driver)
+[2014-11-18 15:30:31] ios-driver-git: [ios-driver] mach6 pushed 1 new commit to dev: http://git.io/apMonQ
+[2014-11-18 15:30:31] ios-driver-git: ios-driver/dev 1e9d826 Alex Zaytsev: SendKeys() does not only send keys but also click 'Done' #251
+[2014-11-18 15:30:31] ios-driver-git, leaving. (#ios-driver)
+[2014-11-18 15:31:24] ios-driver-git, joining. (#ios-driver)
+[2014-11-18 15:31:24] ios-driver-git: [ios-driver] mach6 closed pull request #318: SendKeys() does not only send keys but also click 'Done' #251 (dev...azaytsev_sendkeyfix_251) http://git.io/wGCMfQ
+[2014-11-18 15:31:24] ios-driver-git, leaving. (#ios-driver)
