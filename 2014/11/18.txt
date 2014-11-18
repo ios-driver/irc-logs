@@ -6,3 +6,6 @@
 [2014-11-18 02:32:01] iamleeg, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-11-18 02:34:12] iamleeg, joining. (#ios-driver)
 [2014-11-18 02:42:01] iamleeg, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-11-18 03:52:04] ios-driver-git, joining. (#ios-driver)
+[2014-11-18 03:52:04] ios-driver-git: [ios-driver] bijoyv closed pull request #317: simulator have higher application size for mobile safari, need to find safari to trigger it (dev...dev) http://git.io/XdU5zQ
+[2014-11-18 03:52:04] ios-driver-git, leaving. (#ios-driver)
