@@ -17,3 +17,4 @@
 [2014-11-18 06:02:31] iamleeg, joining. (#ios-driver)
 [2014-11-18 06:05:40] rodrigomartin, quitting. (Ping timeout: 265 seconds)
 [2014-11-18 06:05:45] rodrigomartin1, joining. (#ios-driver)
+[2014-11-18 06:30:33] smccarthy, quitting. (Quit: Leaving...)
