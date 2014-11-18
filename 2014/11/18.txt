@@ -27,3 +27,4 @@
 [2014-11-18 07:04:08] iamleeg_, joining. (#ios-driver)
 [2014-11-18 07:05:30] iamleeg, quitting. (Read error: Connection reset by peer)
 [2014-11-18 07:46:55] iamleeg_, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-11-18 07:57:36] smccarthy, joining. (#ios-driver)
