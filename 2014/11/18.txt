@@ -32,3 +32,4 @@
 [2014-11-18 08:34:22] iamleeg, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-11-18 09:03:12] iamleeg, joining. (#ios-driver)
 [2014-11-18 09:07:42] iamleeg, quitting. (Ping timeout: 256 seconds)
+[2014-11-18 09:16:48] iamleeg, joining. (#ios-driver)
