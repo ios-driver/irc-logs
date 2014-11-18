@@ -20,3 +20,5 @@
 [2014-11-18 06:30:33] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-18 06:46:09] iamleeg, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-11-18 06:54:03] iamleeg, joining. (#ios-driver)
+[2014-11-18 06:59:35] rodrigomartin1, quitting. (Read error: Connection reset by peer)
+[2014-11-18 06:59:49] rodrigomartin, joining. (#ios-driver)
