@@ -16,3 +16,6 @@
 [2014-11-19 06:01:16] ios-driver-git, joining. (#ios-driver)
 [2014-11-19 06:01:17] ios-driver-git: [ios-driver] w00cash opened pull request #320: Fix for missing CFBundelIcons (dev...feature-CFBundleImageFix) http://git.io/gDrXvQ
 [2014-11-19 06:01:17] ios-driver-git, leaving. (#ios-driver)
+[2014-11-19 06:10:30] ios-driver-git, joining. (#ios-driver)
+[2014-11-19 06:10:30] ios-driver-git: [ios-driver] irishshagua opened pull request #321: Fix for cached large data chunks (largedatafix...largedatafix) http://git.io/nbO59Q
+[2014-11-19 06:10:31] ios-driver-git, leaving. (#ios-driver)
