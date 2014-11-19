@@ -48,3 +48,4 @@
 [2014-11-19 12:07:54] rodrigomartin, joining. (#ios-driver)
 [2014-11-19 12:22:25] ddary, quitting. (Quit: ddary)
 [2014-11-19 13:35:24] mach6, joining. (#ios-driver)
+[2014-11-19 13:51:35] rodrigomartin, quitting. (Quit: Leaving.)
