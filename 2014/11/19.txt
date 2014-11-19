@@ -45,3 +45,4 @@
 [2014-11-19 11:08:56] rodrigomartin, quitting. (Ping timeout: 258 seconds)
 [2014-11-19 11:38:07] ddary, joining. (#ios-driver)
 [2014-11-19 11:45:18] iamleeg, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-11-19 12:07:54] rodrigomartin, joining. (#ios-driver)
