@@ -1,1 +1,4 @@
 [2014-11-19 00:07:34] threeve_, quitting. (Remote host closed the connection)
+[2014-11-19 00:51:35] tkriz, joining. (#ios-driver)
+[2014-11-19 00:51:35] tkriz, quitting. (Changing host)
+[2014-11-19 00:51:35] tkriz, joining. (#ios-driver)
