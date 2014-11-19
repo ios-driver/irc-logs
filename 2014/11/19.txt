@@ -25,3 +25,7 @@
 [2014-11-19 06:15:10] ios-driver-git, leaving. (#ios-driver)
 [2014-11-19 06:15:10] ios-driver-git: ios-driver/largedatafix 3674c93 Darragh Grace: Merge pull request #321 from darraghgrace/largedatafix...
 [2014-11-19 06:37:22] iamleeg, joining. (#ios-driver)
+[2014-11-19 06:43:32] tkriz, quitting. (Quit: Leaving.)
+[2014-11-19 06:44:30] tkriz, joining. (#ios-driver)
+[2014-11-19 06:44:30] tkriz, quitting. (Changing host)
+[2014-11-19 06:44:30] tkriz, joining. (#ios-driver)
