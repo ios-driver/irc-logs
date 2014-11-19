@@ -33,3 +33,5 @@
 [2014-11-19 06:45:55] tkriz, joining. (#ios-driver)
 [2014-11-19 06:45:56] tkriz, quitting. (Changing host)
 [2014-11-19 06:45:56] tkriz, joining. (#ios-driver)
+[2014-11-19 08:03:27] iamleeg_, joining. (#ios-driver)
+[2014-11-19 08:04:53] iamleeg, quitting. (Read error: Connection reset by peer)
