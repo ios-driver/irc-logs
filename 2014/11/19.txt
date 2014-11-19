@@ -49,3 +49,6 @@
 [2014-11-19 12:22:25] ddary, quitting. (Quit: ddary)
 [2014-11-19 13:35:24] mach6, joining. (#ios-driver)
 [2014-11-19 13:51:35] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-11-19 14:29:35] ios-driver-git, joining. (#ios-driver)
+[2014-11-19 14:29:35] ios-driver-git: [ios-driver] azaytsev opened pull request #323: ios-logging.properties installs a FileHandler on the root logger which o... (dev...azaytsev_disableLogging) http://git.io/32sRsw
+[2014-11-19 14:29:35] ios-driver-git, leaving. (#ios-driver)
