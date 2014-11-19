@@ -54,3 +54,4 @@
 [2014-11-19 14:29:35] ios-driver-git, leaving. (#ios-driver)
 [2014-11-19 15:20:55] mach6, quitting. (Read error: Connection reset by peer)
 [2014-11-19 15:21:21] mach6, joining. (#ios-driver)
+[2014-11-19 15:27:29] nirvdrum, quitting. (Ping timeout: 264 seconds)
