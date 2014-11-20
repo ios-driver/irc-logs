@@ -11,3 +11,4 @@
 [2014-11-20 01:20:17] iamleeg, quitting. (Ping timeout: 240 seconds)
 [2014-11-20 01:25:58] iamleeg, joining. (#ios-driver)
 [2014-11-20 01:48:41] iamleeg, quitting. (Ping timeout: 258 seconds)
+[2014-11-20 02:05:32] iamleeg, joining. (#ios-driver)
