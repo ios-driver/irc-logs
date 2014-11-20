@@ -19,3 +19,8 @@
 [2014-11-20 05:15:29] ios-driver-git: [ios-driver] kumaravel-jayakumar opened pull request #325: Removed the call to kill iOS Simulator (dev...erase-settings-fix) http://git.io/1YLt3A
 [2014-11-20 05:15:29] ios-driver-git, leaving. (#ios-driver)
 [2014-11-20 05:44:56] rodrigomartin, joining. (#ios-driver)
+[2014-11-20 05:56:09] ios-driver-git, joining. (#ios-driver)
+[2014-11-20 05:56:09] ios-driver-git: [ios-driver] abhijit1234 pushed 2 new commits to dev: http://git.io/DyzyAA
+[2014-11-20 05:56:09] ios-driver-git: ios-driver/dev 9620468 Kumaravel Jayakumar: Removed the call to kill iOS Simulator, while shutting down device using 'xcrun simctl shutdown' command
+[2014-11-20 05:56:09] ios-driver-git: ios-driver/dev 1cb879e abhijit1234: Merge pull request #325 from kumaravel-jayakumar/erase-settings-fix...
+[2014-11-20 05:56:10] ios-driver-git, leaving. (#ios-driver)
