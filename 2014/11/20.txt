@@ -50,3 +50,6 @@
 [2014-11-20 14:42:06] mach6___, joining. (#ios-driver)
 [2014-11-20 14:42:07] mach6__, quitting. (Read error: Connection reset by peer)
 [2014-11-20 14:43:58] mach6___, quitting. (Client Quit)
+[2014-11-20 15:17:46] ios-driver-git, joining. (#ios-driver)
+[2014-11-20 15:17:46] ios-driver-git: [ios-driver] azaytsev opened pull request #327: -Fixing an issue where a ClassCastException occurs when deviceCapability... (dev...azaytsev_classcast_exception_fix) http://git.io/zscNJA
+[2014-11-20 15:17:46] ios-driver-git, leaving. (#ios-driver)
