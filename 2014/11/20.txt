@@ -25,3 +25,4 @@
 [2014-11-20 05:56:09] ios-driver-git: ios-driver/dev 1cb879e abhijit1234: Merge pull request #325 from kumaravel-jayakumar/erase-settings-fix...
 [2014-11-20 05:56:10] ios-driver-git, leaving. (#ios-driver)
 [2014-11-20 07:47:52] smccarthy, joining. (#ios-driver)
+[2014-11-20 09:04:46] psp250, joining. (#ios-driver)
