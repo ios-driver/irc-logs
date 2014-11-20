@@ -59,3 +59,4 @@
 [2014-11-19 15:35:20] mach6, quitting. (Read error: Connection reset by peer)
 [2014-11-19 16:03:22] mach6__, joining. (#ios-driver)
 [2014-11-19 16:03:22] mach6_, quitting. (Read error: Connection reset by peer)
+[2014-11-19 16:10:19] mach6__, quitting. (Quit: Be back later ...)
