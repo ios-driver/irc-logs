@@ -1,3 +1,7 @@
 [2014-11-20 00:15:29] iamleeg, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-11-20 00:48:59] iamleeg, joining. (#ios-driver)
 [2014-11-20 01:07:58] iamleeg, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-11-20 01:11:22] iamleeg, joining. (#ios-driver)
+[2014-11-20 01:12:48] ios-driver-git, joining. (#ios-driver)
+[2014-11-20 01:12:48] ios-driver-git: [ios-driver] w00cash closed pull request #320: Fix for missing CFBundelIcons (dev...feature-CFBundleImageFix) http://git.io/gDrXvQ
+[2014-11-20 01:12:48] ios-driver-git, leaving. (#ios-driver)
