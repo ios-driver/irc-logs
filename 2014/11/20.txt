@@ -45,3 +45,4 @@
 [2014-11-20 13:58:40] jlipps, quitting. (Quit: Leaving.)
 [2014-11-20 14:00:18] mach6__, quitting. (Quit: Be back later ...)
 [2014-11-20 14:19:28] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-11-20 14:36:11] jlipps, joining. (#ios-driver)
