@@ -26,3 +26,5 @@
 [2014-11-20 05:56:10] ios-driver-git, leaving. (#ios-driver)
 [2014-11-20 07:47:52] smccarthy, joining. (#ios-driver)
 [2014-11-20 09:04:46] psp250, joining. (#ios-driver)
+[2014-11-20 09:46:01] iamleeg, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-11-20 09:49:22] tkriz, quitting. (Quit: Leaving.)
