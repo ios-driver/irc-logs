@@ -15,3 +15,6 @@
 [2014-11-20 02:35:17] iamleeg, quitting. (Ping timeout: 245 seconds)
 [2014-11-20 03:28:30] iamleeg, joining. (#ios-driver)
 [2014-11-20 04:58:48] nirvdrum, joining. (#ios-driver)
+[2014-11-20 05:15:28] ios-driver-git, joining. (#ios-driver)
+[2014-11-20 05:15:29] ios-driver-git: [ios-driver] kumaravel-jayakumar opened pull request #325: Removed the call to kill iOS Simulator (dev...erase-settings-fix) http://git.io/1YLt3A
+[2014-11-20 05:15:29] ios-driver-git, leaving. (#ios-driver)
