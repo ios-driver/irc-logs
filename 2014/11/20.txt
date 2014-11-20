@@ -18,3 +18,4 @@
 [2014-11-20 05:15:28] ios-driver-git, joining. (#ios-driver)
 [2014-11-20 05:15:29] ios-driver-git: [ios-driver] kumaravel-jayakumar opened pull request #325: Removed the call to kill iOS Simulator (dev...erase-settings-fix) http://git.io/1YLt3A
 [2014-11-20 05:15:29] ios-driver-git, leaving. (#ios-driver)
+[2014-11-20 05:44:56] rodrigomartin, joining. (#ios-driver)
