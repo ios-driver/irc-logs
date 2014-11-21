@@ -21,3 +21,7 @@
 [2014-11-21 13:38:47] ddary, leaving. (#ios-driver)
 [2014-11-21 14:04:23] rodrigomartin, quitting. (Remote host closed the connection)
 [2014-11-21 15:00:48] mach6, quitting. (Quit: Page closed)
+[2014-11-21 15:32:18] smccarthy, quitting. (Ping timeout: 255 seconds)
+[2014-11-21 15:33:40] smccarthy, joining. (#ios-driver)
+[2014-11-21 15:34:18] smccarthy, quitting. (Read error: Connection reset by peer)
+[2014-11-21 15:34:47] smccarthy, joining. (#ios-driver)
