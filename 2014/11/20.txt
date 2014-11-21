@@ -57,3 +57,4 @@
 [2014-11-20 16:58:26] psp250, quitting. (Quit: Leaving)
 [2014-11-20 17:18:40] nirvdrum, quitting. (Ping timeout: 250 seconds)
 [2014-11-20 17:28:42] jlipps, quitting. (Quit: Leaving.)
+[2014-11-20 17:54:35] smccarthy, joining. (#ios-driver)
