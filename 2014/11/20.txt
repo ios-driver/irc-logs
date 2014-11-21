@@ -55,3 +55,4 @@
 [2014-11-20 15:17:46] ios-driver-git, leaving. (#ios-driver)
 [2014-11-20 15:38:59] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-20 16:58:26] psp250, quitting. (Quit: Leaving)
+[2014-11-20 17:18:40] nirvdrum, quitting. (Ping timeout: 250 seconds)
