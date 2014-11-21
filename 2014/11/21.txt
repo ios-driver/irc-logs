@@ -4,3 +4,5 @@
 [2014-11-21 05:04:09] nirvdrum, joining. (#ios-driver)
 [2014-11-21 05:32:39] rodrigomartin, joining. (#ios-driver)
 [2014-11-21 05:48:56] smccarthy, joining. (#ios-driver)
+[2014-11-21 08:20:09] nirvdrum, quitting. (Remote host closed the connection)
+[2014-11-21 08:24:53] nirvdrum, joining. (#ios-driver)
