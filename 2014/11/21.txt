@@ -13,3 +13,6 @@
 [2014-11-21 08:57:56] jlipps, quitting. (Quit: Leaving.)
 [2014-11-21 10:20:06] tkriz, quitting. (Quit: Leaving.)
 [2014-11-21 11:15:11] mach6, joining. (#ios-driver)
+[2014-11-21 11:29:12] tkriz, joining. (#ios-driver)
+[2014-11-21 11:29:13] tkriz, quitting. (Changing host)
+[2014-11-21 11:29:13] tkriz, joining. (#ios-driver)
