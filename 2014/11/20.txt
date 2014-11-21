@@ -61,3 +61,4 @@
 [2014-11-20 18:07:55] nirvdrum, joining. (#ios-driver)
 [2014-11-20 18:26:20] mach6, joining. (#ios-driver)
 [2014-11-20 18:35:36] nirvdrum, quitting. (Ping timeout: 244 seconds)
+[2014-11-20 19:45:21] jlipps, joining. (#ios-driver)
