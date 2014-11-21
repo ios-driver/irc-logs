@@ -6,3 +6,5 @@
 [2014-11-21 05:48:56] smccarthy, joining. (#ios-driver)
 [2014-11-21 08:20:09] nirvdrum, quitting. (Remote host closed the connection)
 [2014-11-21 08:24:53] nirvdrum, joining. (#ios-driver)
+[2014-11-21 08:35:20] smccarthy, quitting. (Read error: Connection reset by peer)
+[2014-11-21 08:35:45] smccarthy, joining. (#ios-driver)
