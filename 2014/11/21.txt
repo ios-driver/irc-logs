@@ -17,3 +17,4 @@
 [2014-11-21 11:29:13] tkriz, quitting. (Changing host)
 [2014-11-21 11:29:13] tkriz, joining. (#ios-driver)
 [2014-11-21 11:33:05] tkriz, quitting. (Client Quit)
+[2014-11-21 13:09:20] ddary, joining. (#ios-driver)
