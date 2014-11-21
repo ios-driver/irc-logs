@@ -20,3 +20,4 @@
 [2014-11-21 13:09:20] ddary, joining. (#ios-driver)
 [2014-11-21 13:38:47] ddary, leaving. (#ios-driver)
 [2014-11-21 14:04:23] rodrigomartin, quitting. (Remote host closed the connection)
+[2014-11-21 15:00:48] mach6, quitting. (Quit: Page closed)
