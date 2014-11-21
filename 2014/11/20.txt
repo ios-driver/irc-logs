@@ -66,3 +66,4 @@
 [2014-11-20 19:58:09] mach6___, quitting. (Client Quit)
 [2014-11-20 20:44:36] jlipps, quitting. (Quit: Leaving.)
 [2014-11-20 21:04:46] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-20 21:19:22] rlux, joining. (#ios-driver)
