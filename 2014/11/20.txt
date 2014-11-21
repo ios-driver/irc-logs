@@ -69,3 +69,5 @@
 [2014-11-20 21:19:22] rlux, joining. (#ios-driver)
 [2014-11-20 23:06:04] rlux86, joining. (#ios-driver)
 [2014-11-20 23:09:33] rlux, quitting. (Ping timeout: 265 seconds)
+[2014-11-20 23:20:14] rlux86, quitting. (Quit: Leaving)
+[2014-11-20 23:23:51] mach6, quitting. (Quit: Page closed)
