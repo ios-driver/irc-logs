@@ -9,3 +9,4 @@
 [2014-11-22 10:59:40] smccarthy, joining. (#ios-driver)
 [2014-11-22 12:19:39] smccarthy, quitting. (Read error: Connection reset by peer)
 [2014-11-22 12:19:52] smccarthy, joining. (#ios-driver)
+[2014-11-22 12:21:34] smccarthy, quitting. (Client Quit)
