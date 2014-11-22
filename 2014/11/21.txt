@@ -28,3 +28,6 @@
 [2014-11-21 15:42:36] smccarthy, quitting. (Read error: Connection reset by peer)
 [2014-11-21 15:42:51] smccarthy2, joining. (#ios-driver)
 [2014-11-21 15:44:01] smccarthy2, quitting. (Client Quit)
+[2014-11-21 19:53:19] tkriz, joining. (#ios-driver)
+[2014-11-21 19:53:20] tkriz, quitting. (Changing host)
+[2014-11-21 19:53:20] tkriz, joining. (#ios-driver)
