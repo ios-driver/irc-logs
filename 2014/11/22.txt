@@ -14,3 +14,4 @@
 [2014-11-22 17:30:54] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-22 17:40:19] rlux, joining. (#ios-driver)
 [2014-11-22 17:40:43] rlux, quitting. (Client Quit)
+[2014-11-22 17:47:07] smccarthy, joining. (#ios-driver)
