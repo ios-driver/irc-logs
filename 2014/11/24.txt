@@ -30,3 +30,8 @@
 [2014-11-24 08:10:00] nirvdrum, quitting. (Remote host closed the connection)
 [2014-11-24 09:43:47] nirvdrum, joining. (#ios-driver)
 [2014-11-24 10:31:52] tkriz, quitting. (Ping timeout: 240 seconds)
+[2014-11-24 11:15:04] tkriz, joining. (#ios-driver)
+[2014-11-24 11:15:04] tkriz, quitting. (Changing host)
+[2014-11-24 11:15:04] tkriz, joining. (#ios-driver)
+[2014-11-24 11:15:21] tkriz, quitting. (Client Quit)
+[2014-11-24 11:17:31] rodrigomartin, quitting. (Ping timeout: 258 seconds)
