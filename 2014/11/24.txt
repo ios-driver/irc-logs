@@ -1,0 +1,4 @@
+[2014-11-24 00:14:12] ios-driver-git, joining. (#ios-driver)
+[2014-11-24 00:14:13] ios-driver-git: [ios-driver] mach6 pushed 1 new commit to dev: http://git.io/qW_2pA
+[2014-11-24 00:14:13] ios-driver-git: ios-driver/dev c44cbc4 Bijoy Vijayachandran: simulator has higher application size for mobile safari, need to find safari to trigger it
+[2014-11-24 00:14:13] ios-driver-git, leaving. (#ios-driver)
