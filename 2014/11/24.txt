@@ -6,3 +6,6 @@
 [2014-11-24 00:39:58] ios-driver-git: [ios-driver] mach6 pushed 1 new commit to dev: http://git.io/mGLzwA
 [2014-11-24 00:39:58] ios-driver-git, leaving. (#ios-driver)
 [2014-11-24 00:39:58] ios-driver-git: ios-driver/dev 5d3e7a7 Alex Zaytsev: Correct exception which can ocurr when specifying alternate SDK version via...
+[2014-11-24 00:40:38] ios-driver-git, joining. (#ios-driver)
+[2014-11-24 00:40:38] ios-driver-git: [ios-driver] mach6 closed pull request #327: -Fixing an issue where a ClassCastException occurs when deviceCapability... (dev...azaytsev_classcast_exception_fix) http://git.io/zscNJA
+[2014-11-24 00:40:38] ios-driver-git, leaving. (#ios-driver)
