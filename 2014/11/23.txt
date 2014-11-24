@@ -4,3 +4,4 @@
 [2014-11-23 10:31:08] smccarthy, joining. (#ios-driver)
 [2014-11-23 10:34:16] smccarthy2, quitting. (Ping timeout: 250 seconds)
 [2014-11-23 18:03:04] rlux, joining. (#ios-driver)
+[2014-11-23 18:54:03] rlux, quitting. (Remote host closed the connection)
