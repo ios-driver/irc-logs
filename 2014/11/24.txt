@@ -9,3 +9,6 @@
 [2014-11-24 00:40:38] ios-driver-git, joining. (#ios-driver)
 [2014-11-24 00:40:38] ios-driver-git: [ios-driver] mach6 closed pull request #327: -Fixing an issue where a ClassCastException occurs when deviceCapability... (dev...azaytsev_classcast_exception_fix) http://git.io/zscNJA
 [2014-11-24 00:40:38] ios-driver-git, leaving. (#ios-driver)
+[2014-11-24 01:29:29] tkriz, joining. (#ios-driver)
+[2014-11-24 01:29:30] tkriz, quitting. (Changing host)
+[2014-11-24 01:29:30] tkriz, joining. (#ios-driver)
