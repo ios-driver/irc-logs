@@ -1,2 +1,5 @@
 [2014-11-25 00:01:00] nirvdrum, quitting. (Read error: Connection reset by peer)
 [2014-11-25 00:01:25] nirvdrum, joining. (#ios-driver)
+[2014-11-25 00:50:06] tkriz, joining. (#ios-driver)
+[2014-11-25 00:50:06] tkriz, quitting. (Changing host)
+[2014-11-25 00:50:06] tkriz, joining. (#ios-driver)
