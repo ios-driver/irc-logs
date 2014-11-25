@@ -13,3 +13,5 @@
 [2014-11-25 08:03:59] tkriz, quitting. (Ping timeout: 272 seconds)
 [2014-11-25 08:08:04] rodrigomartin, quitting. (Ping timeout: 255 seconds)
 [2014-11-25 08:08:23] rodrigomartin, joining. (#ios-driver)
+[2014-11-25 11:31:59] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-11-25 11:32:06] rodrigomartin, joining. (#ios-driver)
