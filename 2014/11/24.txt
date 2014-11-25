@@ -48,3 +48,5 @@
 [2014-11-24 20:23:53] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-24 21:09:42] fk1, joining. (#ios-driver)
 [2014-11-24 21:09:56] fk1: does anybody know why that mach_vm_read_overwrite() is not working in iOS.
+[2014-11-24 22:36:34] AutomatedTester, quitting. (Ping timeout: 255 seconds)
+[2014-11-24 22:39:53] AutomatedTester, joining. (#ios-driver)
