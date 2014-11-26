@@ -21,3 +21,4 @@
 [2014-11-25 12:59:32] ddary, leaving. (#ios-driver)
 [2014-11-25 13:08:24] rodrigomartin1, quitting. (Ping timeout: 256 seconds)
 [2014-11-25 15:19:47] smccarthy, joining. (#ios-driver)
+[2014-11-25 21:01:18] smccarthy, quitting. (Quit: Leaving...)
