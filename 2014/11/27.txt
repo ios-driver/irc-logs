@@ -12,3 +12,6 @@
 [2014-11-27 10:19:21] ddary, quitting. (Client Quit)
 [2014-11-27 10:19:42] ddary, joining. (#ios-driver)
 [2014-11-27 10:56:36] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-27 12:02:14] ddary, leaving. (#ios-driver)
+[2014-11-27 12:04:12] rodrigomartin, quitting. (Read error: Connection reset by peer)
+[2014-11-27 12:04:27] rodrigomartin, joining. (#ios-driver)
