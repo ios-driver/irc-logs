@@ -8,3 +8,6 @@
 [2014-11-27 07:21:37] rodrigomartin, joining. (#ios-driver)
 [2014-11-27 08:15:46] smccarthy, joining. (#ios-driver)
 [2014-11-27 09:48:12] nirvdrum, quitting. (Ping timeout: 250 seconds)
+[2014-11-27 10:17:57] ddary, joining. (#ios-driver)
+[2014-11-27 10:19:21] ddary, quitting. (Client Quit)
+[2014-11-27 10:19:42] ddary, joining. (#ios-driver)
