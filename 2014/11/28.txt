@@ -6,3 +6,4 @@
 [2014-11-28 03:10:16] ios-driver-git: [ios-driver] mmmulani pushed 1 new commit to dev: http://git.io/h1crzw
 [2014-11-28 03:10:16] ios-driver-git, leaving. (#ios-driver)
 [2014-11-28 03:10:16] ios-driver-git: ios-driver/dev 97ba590 Mehdi Mulani: Wipe 'system.log' under Xcode 6 when cleaning simulator.
+[2014-11-28 05:26:54] rodrigomartin, joining. (#ios-driver)
