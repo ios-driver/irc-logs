@@ -10,3 +10,4 @@
 [2014-11-28 05:31:18] rodrigomartin, quitting. (Ping timeout: 265 seconds)
 [2014-11-28 05:31:54] rodrigomartin, joining. (#ios-driver)
 [2014-11-28 05:48:16] rodrigomartin, quitting. (Read error: Connection timed out)
+[2014-11-28 05:50:20] rodrigomartin, joining. (#ios-driver)
