@@ -20,3 +20,4 @@
 [2014-11-28 06:52:12] rodrigomartin, joining. (#ios-driver)
 [2014-11-28 06:56:51] rodrigomartin, quitting. (Ping timeout: 265 seconds)
 [2014-11-28 06:57:57] rodrigomartin, joining. (#ios-driver)
+[2014-11-28 07:08:41] rodrigomartin1, joining. (#ios-driver)
