@@ -46,3 +46,5 @@
 [2014-11-28 21:33:21] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-28 21:50:53] rlux, joining. (#ios-driver)
 [2014-11-28 21:56:08] rlux, quitting. ()
+[2014-11-28 22:37:15] nirvdrum, quitting. (*.net *.split)
+[2014-11-28 22:38:23] nirvdrum, joining. (#ios-driver)
