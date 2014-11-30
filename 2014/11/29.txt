@@ -3,3 +3,4 @@
 [2014-11-29 08:15:51] smccarthy, joining. (#ios-driver)
 [2014-11-29 10:05:35] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-29 19:01:16] smccarthy, joining. (#ios-driver)
+[2014-11-29 21:58:16] smccarthy, quitting. (Quit: Leaving...)
