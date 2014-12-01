@@ -22,3 +22,4 @@
 [2014-12-01 13:17:08] rodrigomartin, joining. (#ios-driver)
 [2014-12-01 13:28:22] nirvdrum_, joining. (#ios-driver)
 [2014-12-01 13:35:07] nirvdrum, quitting. (*.net *.split)
+[2014-12-01 13:50:52] rodrigomartin, quitting. (Remote host closed the connection)
