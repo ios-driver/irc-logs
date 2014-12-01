@@ -6,3 +6,4 @@
 [2014-11-30 05:31:44] ddary, leaving. (#ios-driver)
 [2014-11-30 09:09:42] smccarthy, joining. (#ios-driver)
 [2014-11-30 14:12:31] nirvdrum, quitting. (Ping timeout: 265 seconds)
+[2014-11-30 19:51:39] smccarthy, quitting. (Quit: Leaving...)
