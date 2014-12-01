@@ -6,3 +6,4 @@
 [2014-12-01 04:26:32] tkriz, quitting. (Changing host)
 [2014-12-01 04:26:32] tkriz, joining. (#ios-driver)
 [2014-12-01 05:06:46] rodrigomartin, joining. (#ios-driver)
+[2014-12-01 05:17:25] nirvdrum, joining. (#ios-driver)
