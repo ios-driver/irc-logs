@@ -19,3 +19,4 @@
 [2014-12-01 11:34:33] psp250, joining. (#ios-driver)
 [2014-12-01 12:45:07] psp250, quitting. (Quit: Leaving)
 [2014-12-01 13:14:28] rodrigomartin, quitting. (Read error: Connection reset by peer)
+[2014-12-01 13:17:08] rodrigomartin, joining. (#ios-driver)
