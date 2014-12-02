@@ -34,3 +34,4 @@
 [2014-12-01 17:44:12] mach6, joining. (#ios-driver)
 [2014-12-01 18:28:41] mach6, quitting. (Ping timeout: 264 seconds)
 [2014-12-01 19:04:04] rlux, quitting. (Read error: Connection reset by peer)
+[2014-12-01 19:12:55] rlux, joining. (#ios-driver)
