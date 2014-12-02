@@ -36,3 +36,4 @@
 [2014-12-01 19:04:04] rlux, quitting. (Read error: Connection reset by peer)
 [2014-12-01 19:12:55] rlux, joining. (#ios-driver)
 [2014-12-01 19:19:55] nirvdrum_, quitting. (Ping timeout: 255 seconds)
+[2014-12-01 20:10:58] rlux, quitting. (Read error: Connection reset by peer)
