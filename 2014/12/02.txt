@@ -15,3 +15,4 @@
 [2014-12-02 08:11:39] rodrigomartin, joining. (#ios-driver)
 [2014-12-02 10:42:33] mmmulani, joining. (#ios-driver)
 [2014-12-02 10:43:12] mmmulani, quitting. (Client Quit)
+[2014-12-02 12:30:02] mach6, joining. (#ios-driver)
