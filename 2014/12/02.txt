@@ -22,3 +22,5 @@
 [2014-12-02 13:37:41] psp250, quitting. (Ping timeout: 264 seconds)
 [2014-12-02 13:50:20] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-12-02 13:58:57] smccarthy, quitting. (Ping timeout: 240 seconds)
+[2014-12-02 15:46:53] iamleeg, joining. (#ios-driver)
+[2014-12-02 15:47:27] iamleeg, quitting. (Client Quit)
