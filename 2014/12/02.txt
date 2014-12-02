@@ -20,3 +20,4 @@
 [2014-12-02 12:32:52] mach6_, quitting. (Client Quit)
 [2014-12-02 12:35:55] mach6, quitting. (Ping timeout: 244 seconds)
 [2014-12-02 13:37:41] psp250, quitting. (Ping timeout: 264 seconds)
+[2014-12-02 13:50:20] rodrigomartin, quitting. (Quit: Leaving.)
