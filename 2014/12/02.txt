@@ -16,3 +16,5 @@
 [2014-12-02 10:42:33] mmmulani, joining. (#ios-driver)
 [2014-12-02 10:43:12] mmmulani, quitting. (Client Quit)
 [2014-12-02 12:30:02] mach6, joining. (#ios-driver)
+[2014-12-02 12:32:30] mach6_, joining. (#ios-driver)
+[2014-12-02 12:32:52] mach6_, quitting. (Client Quit)
