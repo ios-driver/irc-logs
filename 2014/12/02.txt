@@ -8,3 +8,4 @@
 [2014-12-02 06:12:39] tkriz, joining. (#ios-driver)
 [2014-12-02 06:12:39] tkriz, quitting. (Changing host)
 [2014-12-02 06:12:40] tkriz, joining. (#ios-driver)
+[2014-12-02 06:33:27] nirvdrum_, changing nick to nirvdrum.
