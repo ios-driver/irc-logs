@@ -10,3 +10,4 @@
 [2014-12-02 06:12:40] tkriz, joining. (#ios-driver)
 [2014-12-02 06:33:27] nirvdrum_, changing nick to nirvdrum.
 [2014-12-02 06:43:54] psp250, joining. (#ios-driver)
+[2014-12-02 07:34:53] smccarthy, joining. (#ios-driver)
