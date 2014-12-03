@@ -4,3 +4,8 @@
 [2014-12-03 06:44:25] nirvdrum, quitting. (Quit: Leaving)
 [2014-12-03 06:49:08] mmmulani, joining. (#ios-driver)
 [2014-12-03 06:49:24] mmmulani: freynaud_: hey, do you know Bijoy Vijayachandran?
+[2014-12-03 07:37:52] ios-driver-git, joining. (#ios-driver)
+[2014-12-03 07:37:52] ios-driver-git: [ios-driver] mmmulani pushed 2 new commits to dev: http://git.io/ijIFNg
+[2014-12-03 07:37:52] ios-driver-git: ios-driver/dev 3e2ccd0 Mehdi Mulani: Revert "simulator has higher application size for mobile safari, need to find safari to trigger it"...
+[2014-12-03 07:37:52] ios-driver-git: ios-driver/dev c99dbc7 Mehdi Mulani: Add longer timeout to flaky issue with changing device orientation.
+[2014-12-03 07:37:52] ios-driver-git, leaving. (#ios-driver)
