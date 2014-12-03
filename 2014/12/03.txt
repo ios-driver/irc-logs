@@ -2,3 +2,5 @@
 [2014-12-03 05:20:23] rodrigomartin, joining. (#ios-driver)
 [2014-12-03 05:30:21] psp250, joining. (#ios-driver)
 [2014-12-03 06:44:25] nirvdrum, quitting. (Quit: Leaving)
+[2014-12-03 06:49:08] mmmulani, joining. (#ios-driver)
+[2014-12-03 06:49:24] mmmulani: freynaud_: hey, do you know Bijoy Vijayachandran?
