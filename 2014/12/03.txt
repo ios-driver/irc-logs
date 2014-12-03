@@ -23,3 +23,6 @@
 [2014-12-03 13:46:31] rodrigomartin, joining. (#ios-driver)
 [2014-12-03 14:06:53] mmmulani, joining. (#ios-driver)
 [2014-12-03 14:36:00] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-12-03 14:57:55] mmmulani_, joining. (#ios-driver)
+[2014-12-03 14:59:12] mmmulani, quitting. (Ping timeout: 258 seconds)
+[2014-12-03 14:59:12] mmmulani_, changing nick to mmmulani.
