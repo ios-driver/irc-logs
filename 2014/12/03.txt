@@ -12,3 +12,4 @@
 [2014-12-03 08:10:29] smccarthy, joining. (#ios-driver)
 [2014-12-03 09:42:40] mmmulani, quitting. (Quit: mmmulani)
 [2014-12-03 11:39:33] mmmulani, joining. (#ios-driver)
+[2014-12-03 12:17:49] rodrigomartin, quitting. (Read error: Connection reset by peer)
