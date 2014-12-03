@@ -9,3 +9,4 @@
 [2014-12-03 07:37:52] ios-driver-git: ios-driver/dev 3e2ccd0 Mehdi Mulani: Revert "simulator has higher application size for mobile safari, need to find safari to trigger it"...
 [2014-12-03 07:37:52] ios-driver-git: ios-driver/dev c99dbc7 Mehdi Mulani: Add longer timeout to flaky issue with changing device orientation.
 [2014-12-03 07:37:52] ios-driver-git, leaving. (#ios-driver)
+[2014-12-03 08:10:29] smccarthy, joining. (#ios-driver)
