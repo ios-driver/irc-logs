@@ -10,3 +10,4 @@
 [2014-12-03 07:37:52] ios-driver-git: ios-driver/dev c99dbc7 Mehdi Mulani: Add longer timeout to flaky issue with changing device orientation.
 [2014-12-03 07:37:52] ios-driver-git, leaving. (#ios-driver)
 [2014-12-03 08:10:29] smccarthy, joining. (#ios-driver)
+[2014-12-03 09:42:40] mmmulani, quitting. (Quit: mmmulani)
