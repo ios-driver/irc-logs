@@ -22,3 +22,5 @@
 [2014-12-04 06:13:10] smccarthy, quitting. (Quit: Leaving...)
 [2014-12-04 07:49:42] smccarthy, joining. (#ios-driver)
 [2014-12-04 08:29:51] tkriz, quitting. (Ping timeout: 272 seconds)
+[2014-12-04 09:07:42] rodrigomartin, quitting. (Read error: Connection reset by peer)
+[2014-12-04 09:07:56] rodrigomartin, joining. (#ios-driver)
