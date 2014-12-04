@@ -28,3 +28,4 @@
 [2014-12-03 14:59:12] mmmulani_, changing nick to mmmulani.
 [2014-12-03 15:49:30] mmmulani, quitting. (Quit: mmmulani)
 [2014-12-03 16:05:07] smccarthy, quitting. (Quit: Leaving...)
+[2014-12-03 18:09:38] psp250, quitting. (Remote host closed the connection)
