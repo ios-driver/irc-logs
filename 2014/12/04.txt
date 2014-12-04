@@ -25,3 +25,5 @@
 [2014-12-04 09:07:42] rodrigomartin, quitting. (Read error: Connection reset by peer)
 [2014-12-04 09:07:56] rodrigomartin, joining. (#ios-driver)
 [2014-12-04 12:19:49] mach6, joining. (#ios-driver)
+[2014-12-04 12:24:26] mach6, quitting. (Ping timeout: 256 seconds)
+[2014-12-04 12:25:00] mach6, joining. (#ios-driver)
