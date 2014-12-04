@@ -16,3 +16,4 @@
 [2014-12-04 03:55:22] tkriz, quitting. (Changing host)
 [2014-12-04 03:55:23] tkriz, joining. (#ios-driver)
 [2014-12-04 05:09:12] smccarthy, joining. (#ios-driver)
+[2014-12-04 05:38:57] mmmulani, quitting. (Quit: mmmulani)
