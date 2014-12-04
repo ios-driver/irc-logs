@@ -18,3 +18,4 @@
 [2014-12-04 05:09:12] smccarthy, joining. (#ios-driver)
 [2014-12-04 05:38:57] mmmulani, quitting. (Quit: mmmulani)
 [2014-12-04 05:52:12] rodrigomartin, joining. (#ios-driver)
+[2014-12-04 06:03:25] nirvdrum, joining. (#ios-driver)
