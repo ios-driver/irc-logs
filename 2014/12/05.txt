@@ -5,3 +5,6 @@
 [2014-12-05 03:34:30] rodrigomartin, joining. (#ios-driver)
 [2014-12-05 03:51:01] rodrigomartin, quitting. (Read error: Connection timed out)
 [2014-12-05 03:53:26] rodrigomartin, joining. (#ios-driver)
+[2014-12-05 05:08:43] ios-driver-git, joining. (#ios-driver)
+[2014-12-05 05:08:43] ios-driver-git: [ios-driver] kumaravel-jayakumar opened pull request #329: Fixed Selenium grid console displaying null for iOS capabilities (dev...grid-console-fix) http://git.io/p5uuMw
+[2014-12-05 05:08:44] ios-driver-git, leaving. (#ios-driver)
