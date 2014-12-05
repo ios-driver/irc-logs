@@ -30,3 +30,4 @@
 [2014-12-04 12:26:54] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-12-04 13:43:23] mach6, quitting. (Ping timeout: 252 seconds)
 [2014-12-04 16:10:07] smccarthy, quitting. (Quit: Leaving...)
+[2014-12-04 21:23:37] nirvdrum, quitting. (Ping timeout: 245 seconds)
