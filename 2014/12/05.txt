@@ -24,3 +24,4 @@
 [2014-12-05 10:39:14] ddary, quitting. (Quit: ddary)
 [2014-12-05 10:46:06] ddary, joining. (#ios-driver)
 [2014-12-05 10:57:30] ddary, quitting. (Quit: ddary)
+[2014-12-05 11:43:14] tkriz, quitting. (Quit: Leaving.)
