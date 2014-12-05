@@ -10,3 +10,4 @@
 [2014-12-05 05:08:44] ios-driver-git, leaving. (#ios-driver)
 [2014-12-05 05:45:02] nirvdrum, joining. (#ios-driver)
 [2014-12-05 05:54:15] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-12-05 06:57:23] rodrigomartin, joining. (#ios-driver)
