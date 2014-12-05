@@ -8,3 +8,4 @@
 [2014-12-05 05:08:43] ios-driver-git, joining. (#ios-driver)
 [2014-12-05 05:08:43] ios-driver-git: [ios-driver] kumaravel-jayakumar opened pull request #329: Fixed Selenium grid console displaying null for iOS capabilities (dev...grid-console-fix) http://git.io/p5uuMw
 [2014-12-05 05:08:44] ios-driver-git, leaving. (#ios-driver)
+[2014-12-05 05:45:02] nirvdrum, joining. (#ios-driver)
