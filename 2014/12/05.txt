@@ -12,3 +12,5 @@
 [2014-12-05 05:54:15] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-12-05 06:57:23] rodrigomartin, joining. (#ios-driver)
 [2014-12-05 08:08:31] smccarthy, joining. (#ios-driver)
+[2014-12-05 08:51:34] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-12-05 08:51:59] rodrigomartin, joining. (#ios-driver)
