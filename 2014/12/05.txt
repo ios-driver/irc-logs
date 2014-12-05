@@ -1,1 +1,3 @@
 [2014-12-05 02:59:31] rodrigomartin, joining. (#ios-driver)
+[2014-12-05 03:15:37] rodrigomartin, quitting. (Read error: Connection timed out)
+[2014-12-05 03:16:10] rodrigomartin, joining. (#ios-driver)
