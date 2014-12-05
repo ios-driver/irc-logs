@@ -15,3 +15,8 @@
 [2014-12-05 08:51:34] rodrigomartin, quitting. (Quit: Leaving.)
 [2014-12-05 08:51:59] rodrigomartin, joining. (#ios-driver)
 [2014-12-05 09:29:59] rodrigomartin, quitting. (Quit: Leaving.)
+[2014-12-05 09:31:49] rodrigomartin, joining. (#ios-driver)
+[2014-12-05 09:32:06] rodrigomartin, quitting. (Client Quit)
+[2014-12-05 09:34:40] tkriz, joining. (#ios-driver)
+[2014-12-05 09:34:40] tkriz, quitting. (Changing host)
+[2014-12-05 09:34:40] tkriz, joining. (#ios-driver)
