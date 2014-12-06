@@ -5,3 +5,6 @@
 [2014-12-06 08:05:54] ddary, quitting. (Quit: ddary)
 [2014-12-06 08:25:30] ddary, joining. (#ios-driver)
 [2014-12-06 09:18:23] ddary, quitting. (Quit: ddary)
+[2014-12-06 10:22:38] tkriz, joining. (#ios-driver)
+[2014-12-06 10:22:38] tkriz, quitting. (Changing host)
+[2014-12-06 10:22:38] tkriz, joining. (#ios-driver)
