@@ -16,3 +16,4 @@
 [2014-12-06 17:55:47] nirvdrum, joining. (#ios-driver)
 [2014-12-06 18:19:15] psp250, quitting. (Remote host closed the connection)
 [2014-12-06 23:39:34] freynaud_, quitting. (Ping timeout: 255 seconds)
+[2014-12-06 23:40:21] nicegraham______, quitting. (Ping timeout: 272 seconds)
