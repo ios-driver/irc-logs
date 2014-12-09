@@ -9,3 +9,4 @@
 [2014-12-09 12:29:47] prontotest, joining. (#ios-driver)
 [2014-12-09 12:29:47] prontotest, leaving. (#ios-driver)
 [2014-12-09 15:07:15] mach6, joining. (#ios-driver)
+[2014-12-09 15:21:41] smccarthy, quitting. (Quit: Leaving...)
