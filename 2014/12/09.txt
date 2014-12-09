@@ -2,3 +2,4 @@
 [2014-12-09 05:01:34] nirvdrum, joining. (#ios-driver)
 [2014-12-09 06:46:25] psp250_, joining. (#ios-driver)
 [2014-12-09 06:46:43] psp250_, quitting. (Remote host closed the connection)
+[2014-12-09 07:55:31] smccarthy, joining. (#ios-driver)
