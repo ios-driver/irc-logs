@@ -6,3 +6,4 @@
 [2014-12-08 14:36:49] mach6, joining. (#ios-driver)
 [2014-12-08 15:44:08] smccarthy, quitting. (Quit: Leaving...)
 [2014-12-08 16:24:54] psp250, quitting. (Quit: Leaving)
+[2014-12-08 18:12:55] nirvdrum, quitting. (Ping timeout: 258 seconds)
