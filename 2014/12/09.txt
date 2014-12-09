@@ -6,3 +6,5 @@
 [2014-12-09 08:09:15] psp250, quitting. (Remote host closed the connection)
 [2014-12-09 08:09:26] psp250, joining. (#ios-driver)
 [2014-12-09 10:20:18] psp250, quitting. (Ping timeout: 250 seconds)
+[2014-12-09 12:29:47] prontotest, joining. (#ios-driver)
+[2014-12-09 12:29:47] prontotest, leaving. (#ios-driver)
