@@ -3,3 +3,5 @@
 [2014-12-09 06:46:25] psp250_, joining. (#ios-driver)
 [2014-12-09 06:46:43] psp250_, quitting. (Remote host closed the connection)
 [2014-12-09 07:55:31] smccarthy, joining. (#ios-driver)
+[2014-12-09 08:09:15] psp250, quitting. (Remote host closed the connection)
+[2014-12-09 08:09:26] psp250, joining. (#ios-driver)
