@@ -14,3 +14,4 @@
 [2014-12-09 16:17:53] Srikanth, joining. (#ios-driver)
 [2014-12-09 16:18:51] Srikanth, leaving. (#ios-driver)
 [2014-12-09 18:26:34] smccarthy, joining. (#ios-driver)
+[2014-12-09 20:05:57] nirvdrum, quitting. (Ping timeout: 260 seconds)
