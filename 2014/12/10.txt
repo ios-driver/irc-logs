@@ -11,3 +11,6 @@
 [2014-12-10 13:28:47] ddary, leaving. (#ios-driver)
 [2014-12-10 13:30:18] smccarthy, quitting. (Quit: Leaving...)
 [2014-12-10 14:47:59] smccarthy, joining. (#ios-driver)
+[2014-12-10 15:18:46] ios-driver-git, joining. (#ios-driver)
+[2014-12-10 15:18:46] ios-driver-git: [ios-driver] iamleeg opened pull request #331: Don't do stale element test on creating JSON response after a scroll request (dev...no-scroll-on-cache-lookup) http://git.io/IVrbAw
+[2014-12-10 15:18:46] ios-driver-git, leaving. (#ios-driver)
