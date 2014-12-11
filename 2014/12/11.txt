@@ -1,2 +1,3 @@
 [2014-12-11 05:38:13] nirvdrum, joining. (#ios-driver)
 [2014-12-11 06:41:48] psp250, joining. (#ios-driver)
+[2014-12-11 07:04:09] smccarthy, joining. (#ios-driver)
