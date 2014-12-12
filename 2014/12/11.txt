@@ -15,3 +15,9 @@
 [2014-12-11 17:44:23] pablovarela: Hey guys
 [2014-12-11 17:44:41] pablovarela: I have been using ios driver for more than 6 moths now
 [2014-12-11 17:44:50] pablovarela: but a couple of months back
+[2014-12-11 17:46:26] pablovarela: the name and capabilities of the grid nodes for ios driver are giving me a json object with a lot of fields, most of them look like the info.plist of my app
+[2014-12-11 17:46:42] pablovarela: but I am not getting a browser name anymore
+[2014-12-11 17:46:51] pablovarela: so my capability matcher is not finding
+[2014-12-11 17:47:02] pablovarela: also my nodes get the name "null"
+[2014-12-11 17:48:00] pablovarela: is this an intentional change? if it is, what are the suggested settings in order to be able to get it working again...
+[2014-12-11 17:48:02] pablovarela: ?
