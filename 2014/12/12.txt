@@ -8,3 +8,6 @@
 [2014-12-12 09:47:08] pablov, joining. (#ios-driver)
 [2014-12-12 10:23:19] pablov, quitting. (Quit: Page closed)
 [2014-12-12 10:28:19] psp250, quitting. (Quit: Leaving)
+[2014-12-12 13:59:16] pablovarela, joining. (#ios-driver)
+[2014-12-12 13:59:26] pablovarela: hello guys
+[2014-12-12 13:59:56] pablovarela: I am having issues registering ios driver as a node on the grid
