@@ -11,3 +11,7 @@
 [2014-12-11 16:54:46] renelux, joining. (#ios-driver)
 [2014-12-11 17:01:40] renelux, quitting. (Remote host closed the connection)
 [2014-12-11 17:04:01] renelux, joining. (#ios-driver)
+[2014-12-11 17:44:01] pablovarela, joining. (#ios-driver)
+[2014-12-11 17:44:23] pablovarela: Hey guys
+[2014-12-11 17:44:41] pablovarela: I have been using ios driver for more than 6 moths now
+[2014-12-11 17:44:50] pablovarela: but a couple of months back
