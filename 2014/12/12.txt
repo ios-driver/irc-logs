@@ -3,3 +3,4 @@
 [2014-12-12 03:54:26] ios-driver-git: [ios-driver] abhijit1234 closed pull request #331: Don't do stale element test on creating JSON response after a scroll request (dev...no-scroll-on-cache-lookup) http://git.io/IVrbAw
 [2014-12-12 03:54:26] ios-driver-git, leaving. (#ios-driver)
 [2014-12-12 04:41:09] nirvdrum, joining. (#ios-driver)
+[2014-12-12 06:32:08] smccarthy, joining. (#ios-driver)
