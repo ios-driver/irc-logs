@@ -9,3 +9,5 @@
 [2014-12-11 12:30:57] ddary, leaving. (#ios-driver)
 [2014-12-11 13:32:56] psp250, quitting. (Quit: Leaving)
 [2014-12-11 16:54:46] renelux, joining. (#ios-driver)
+[2014-12-11 17:01:40] renelux, quitting. (Remote host closed the connection)
+[2014-12-11 17:04:01] renelux, joining. (#ios-driver)
