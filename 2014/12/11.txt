@@ -23,3 +23,4 @@
 [2014-12-11 17:48:02] pablovarela: ?
 [2014-12-11 17:55:41] pablovarela, quitting. (Quit: Page closed)
 [2014-12-11 20:47:16] smccarthy, quitting. (Quit: Leaving...)
+[2014-12-11 22:09:36] nirvdrum, quitting. (Ping timeout: 258 seconds)
