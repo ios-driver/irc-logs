@@ -21,3 +21,4 @@
 [2014-12-11 17:47:02] pablovarela: also my nodes get the name "null"
 [2014-12-11 17:48:00] pablovarela: is this an intentional change? if it is, what are the suggested settings in order to be able to get it working again...
 [2014-12-11 17:48:02] pablovarela: ?
+[2014-12-11 17:55:41] pablovarela, quitting. (Quit: Page closed)
