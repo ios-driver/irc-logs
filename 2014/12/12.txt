@@ -14,3 +14,4 @@
 [2014-12-12 14:00:55] pablovarela: the server registers, but the browser name appears as null
 [2014-12-12 14:01:19] pablovarela: and looks like the capabilities available are the same as the info.plist of my app
 [2014-12-12 14:45:22] pablovarela, quitting. (Quit: Page closed)
+[2014-12-12 16:52:37] smccarthy, quitting. (Quit: Leaving...)
