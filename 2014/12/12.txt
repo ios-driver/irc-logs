@@ -15,3 +15,4 @@
 [2014-12-12 14:01:19] pablovarela: and looks like the capabilities available are the same as the info.plist of my app
 [2014-12-12 14:45:22] pablovarela, quitting. (Quit: Page closed)
 [2014-12-12 16:52:37] smccarthy, quitting. (Quit: Leaving...)
+[2014-12-12 19:19:21] nirvdrum, quitting. (Ping timeout: 272 seconds)
