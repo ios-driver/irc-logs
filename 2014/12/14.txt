@@ -2,3 +2,4 @@
 [2014-12-14 07:46:41] smccarthy, joining. (#ios-driver)
 [2014-12-14 07:54:09] ddary, leaving. (#ios-driver)
 [2014-12-14 08:57:39] ddary, joining. (#ios-driver)
+[2014-12-14 09:16:36] ddary, quitting. (Quit: ddary)
