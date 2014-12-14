@@ -8,3 +8,7 @@
 [2014-12-13 21:59:30] smccarthy, quitting. (*.net *.split)
 [2014-12-13 21:59:33] freynaud_, quitting. (*.net *.split)
 [2014-12-13 21:59:34] nicegraham______, quitting. (*.net *.split)
+[2014-12-13 22:00:37] smccarthy, joining. (#ios-driver)
+[2014-12-13 22:00:38] nicegraham______, joining. (#ios-driver)
+[2014-12-13 22:00:38] freynaud_, joining. (#ios-driver)
+[2014-12-13 22:00:59] smccarthy, quitting. (Quit: Leaving...)
