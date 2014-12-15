@@ -12,3 +12,4 @@
 [2014-12-15 11:07:25] psp250, joining. (#ios-driver)
 [2014-12-15 11:21:51] psp250, quitting. (Quit: Leaving)
 [2014-12-15 11:46:52] ddary, joining. (#ios-driver)
+[2014-12-15 12:21:29] ddary, quitting. (Quit: ddary)
