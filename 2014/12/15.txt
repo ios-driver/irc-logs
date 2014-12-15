@@ -23,3 +23,4 @@
 [2014-12-15 12:31:22] freynaud_, joining. (#ios-driver)
 [2014-12-15 12:31:22] AutomatedTester, joining. (#ios-driver)
 [2014-12-15 12:31:22] nicegraham______, joining. (#ios-driver)
+[2014-12-15 14:11:06] mach6, joining. (#ios-driver)
