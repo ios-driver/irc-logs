@@ -9,3 +9,4 @@
 [2014-12-15 06:07:33] smccarthy, quitting. (Quit: Leaving...)
 [2014-12-15 09:01:40] operatiay, quitting. (Remote host closed the connection)
 [2014-12-15 10:19:06] smccarthy, joining. (#ios-driver)
+[2014-12-15 11:07:25] psp250, joining. (#ios-driver)
