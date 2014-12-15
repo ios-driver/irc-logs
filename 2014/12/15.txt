@@ -1,3 +1,7 @@
 [2014-12-15 01:01:57] renelux, quitting. (Ping timeout: 240 seconds)
 [2014-12-15 01:59:49] operatiay, joining. (#ios-driver)
 [2014-12-15 04:51:50] operatiay, quitting. (Remote host closed the connection)
+[2014-12-15 05:13:06] nirvdrum, joining. (#ios-driver)
+[2014-12-15 05:14:32] operatiay, joining. (#ios-driver)
+[2014-12-15 05:14:33] operatiay, quitting. (Remote host closed the connection)
+[2014-12-15 05:14:49] operatiay, joining. (#ios-driver)
