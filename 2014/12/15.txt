@@ -1,1 +1,2 @@
 [2014-12-15 01:01:57] renelux, quitting. (Ping timeout: 240 seconds)
+[2014-12-15 01:59:49] operatiay, joining. (#ios-driver)
