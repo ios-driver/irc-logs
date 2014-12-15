@@ -8,3 +8,4 @@
 [2014-12-14 16:17:23] renelux, joining. (#ios-driver)
 [2014-12-14 18:11:50] smccarthy, quitting. (Remote host closed the connection)
 [2014-12-14 18:13:04] smccarthy, joining. (#ios-driver)
+[2014-12-14 20:12:45] smccarthy, quitting. (Quit: Leaving...)
