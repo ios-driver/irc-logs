@@ -25,3 +25,5 @@
 [2014-12-15 12:31:22] nicegraham______, joining. (#ios-driver)
 [2014-12-15 14:11:06] mach6, joining. (#ios-driver)
 [2014-12-15 15:05:54] operatiay, joining. (#ios-driver)
+[2014-12-15 15:42:09] mach6, quitting. (Read error: Connection reset by peer)
+[2014-12-15 15:42:28] mach6, joining. (#ios-driver)
