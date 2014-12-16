@@ -13,3 +13,4 @@
 [2014-12-16 05:29:44] nirvdrum_, joining. (#ios-driver)
 [2014-12-16 05:58:50] operatiay, joining. (#ios-driver)
 [2014-12-16 06:07:22] nirvdrum_, changing nick to nirvdrum.
+[2014-12-16 07:16:14] smccarthy, joining. (#ios-driver)
