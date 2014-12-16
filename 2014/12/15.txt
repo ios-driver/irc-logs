@@ -30,3 +30,10 @@
 [2014-12-15 16:07:50] renelux, joining. (#ios-driver)
 [2014-12-15 16:49:17] smccarthy, quitting. (Quit: Leaving...)
 [2014-12-15 17:20:40] operatiay, quitting. (Remote host closed the connection)
+[2014-12-15 17:34:01] ios-driver-git, joining. (#ios-driver)
+[2014-12-15 17:34:01] ios-driver-git: [ios-driver] mach6 pushed 1 new commit to dev: http://git.io/1FwSsw
+[2014-12-15 17:34:01] ios-driver-git: ios-driver/dev 124848b Alex Zaytsev: ios-logging.properties installs a FileHandler on the root logger which outputs ALL events to ios-driver.log #322...
+[2014-12-15 17:34:01] ios-driver-git, leaving. (#ios-driver)
+[2014-12-15 17:34:38] ios-driver-git, joining. (#ios-driver)
+[2014-12-15 17:34:38] ios-driver-git: [ios-driver] mach6 closed pull request #323: ios-logging.properties installs a FileHandler on the root logger which o... (dev...azaytsev_disableLogging) http://git.io/32sRsw
+[2014-12-15 17:34:38] ios-driver-git, leaving. (#ios-driver)
