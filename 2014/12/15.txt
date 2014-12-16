@@ -37,3 +37,4 @@
 [2014-12-15 17:34:38] ios-driver-git, joining. (#ios-driver)
 [2014-12-15 17:34:38] ios-driver-git: [ios-driver] mach6 closed pull request #323: ios-logging.properties installs a FileHandler on the root logger which o... (dev...azaytsev_disableLogging) http://git.io/32sRsw
 [2014-12-15 17:34:38] ios-driver-git, leaving. (#ios-driver)
+[2014-12-15 17:43:54] mach6, quitting. (Quit: Be back later ...)
