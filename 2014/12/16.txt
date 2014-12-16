@@ -4,3 +4,4 @@
 [2014-12-16 02:59:08] ios-driver-git, joining. (#ios-driver)
 [2014-12-16 02:59:08] ios-driver-git: [ios-driver] kumaravel-jayakumar opened pull request #332: Added IOSGenericCapabilityMatcher to register iOS driver as regular node... (dev...generic-capability-matcher) http://git.io/oNUhDA
 [2014-12-16 02:59:08] ios-driver-git, leaving. (#ios-driver)
+[2014-12-16 03:18:59] operatiay, joining. (#ios-driver)
