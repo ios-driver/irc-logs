@@ -28,3 +28,4 @@
 [2014-12-15 15:42:09] mach6, quitting. (Read error: Connection reset by peer)
 [2014-12-15 15:42:28] mach6, joining. (#ios-driver)
 [2014-12-15 16:07:50] renelux, joining. (#ios-driver)
+[2014-12-15 16:49:17] smccarthy, quitting. (Quit: Leaving...)
