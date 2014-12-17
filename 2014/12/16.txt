@@ -25,3 +25,4 @@
 [2014-12-16 18:40:35] ios-driver-git: [ios-driver] progressnerd pushed 1 new commit to dev: http://git.io/oxrWnQ
 [2014-12-16 18:40:36] ios-driver-git: ios-driver/dev d8d3686 Greg Dennis: minor fixes to ios-driver
 [2014-12-16 18:40:36] ios-driver-git, leaving. (#ios-driver)
+[2014-12-16 19:03:29] nirvdrum, quitting. (Ping timeout: 264 seconds)
