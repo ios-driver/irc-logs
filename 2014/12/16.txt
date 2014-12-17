@@ -18,3 +18,5 @@
 [2014-12-16 10:50:20] mach6, joining. (#ios-driver)
 [2014-12-16 11:48:37] operatiay, joining. (#ios-driver)
 [2014-12-16 16:14:51] smccarthy, quitting. (Quit: Leaving...)
+[2014-12-16 16:16:20] operatiay, quitting. (Remote host closed the connection)
+[2014-12-16 16:16:58] operatiay, joining. (#ios-driver)
