@@ -2,3 +2,4 @@
 [2014-12-17 01:51:02] mach6_, joining. (#ios-driver)
 [2014-12-17 01:53:59] mach6, quitting. (Ping timeout: 245 seconds)
 [2014-12-17 03:43:54] operatiay, quitting. (Remote host closed the connection)
+[2014-12-17 04:08:28] operatiay, joining. (#ios-driver)
