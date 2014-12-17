@@ -21,3 +21,7 @@
 [2014-12-16 16:16:20] operatiay, quitting. (Remote host closed the connection)
 [2014-12-16 16:16:58] operatiay, joining. (#ios-driver)
 [2014-12-16 16:25:31] operatiay, quitting. (Ping timeout: 258 seconds)
+[2014-12-16 18:40:35] ios-driver-git, joining. (#ios-driver)
+[2014-12-16 18:40:35] ios-driver-git: [ios-driver] progressnerd pushed 1 new commit to dev: http://git.io/oxrWnQ
+[2014-12-16 18:40:36] ios-driver-git: ios-driver/dev d8d3686 Greg Dennis: minor fixes to ios-driver
+[2014-12-16 18:40:36] ios-driver-git, leaving. (#ios-driver)
