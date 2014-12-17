@@ -1,1 +1,3 @@
 [2014-12-17 00:27:31] operatiay, joining. (#ios-driver)
+[2014-12-17 01:51:02] mach6_, joining. (#ios-driver)
+[2014-12-17 01:53:59] mach6, quitting. (Ping timeout: 245 seconds)
