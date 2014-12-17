@@ -26,3 +26,4 @@
 [2014-12-16 18:40:36] ios-driver-git: ios-driver/dev d8d3686 Greg Dennis: minor fixes to ios-driver
 [2014-12-16 18:40:36] ios-driver-git, leaving. (#ios-driver)
 [2014-12-16 19:03:29] nirvdrum, quitting. (Ping timeout: 264 seconds)
+[2014-12-16 21:29:27] mach6, quitting. (Ping timeout: 245 seconds)
