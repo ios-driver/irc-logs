@@ -10,3 +10,4 @@
 [2014-12-18 04:56:07] ddary, joining. (#ios-driver)
 [2014-12-18 05:06:15] ddary, quitting. (Quit: ddary)
 [2014-12-18 06:26:01] operatiay, quitting. (Remote host closed the connection)
+[2014-12-18 06:39:36] operatiay, joining. (#ios-driver)
