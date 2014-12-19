@@ -13,3 +13,4 @@
 [2014-12-19 03:26:10] ddary, quitting. (Client Quit)
 [2014-12-19 03:26:32] ddary, joining. (#ios-driver)
 [2014-12-19 03:26:32] ddary, quitting. (Client Quit)
+[2014-12-19 03:58:17] operatiay, quitting. (Remote host closed the connection)
