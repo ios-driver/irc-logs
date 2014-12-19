@@ -22,3 +22,4 @@
 [2014-12-18 12:43:53] mach6___, quitting. (Client Quit)
 [2014-12-18 15:42:58] nirvdrum, quitting. (Ping timeout: 244 seconds)
 [2014-12-18 15:49:50] psp250, quitting. (Quit: Leaving)
+[2014-12-18 17:21:05] operatiay, quitting. (Remote host closed the connection)
