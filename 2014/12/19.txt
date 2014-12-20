@@ -17,3 +17,4 @@
 [2014-12-19 04:19:52] operatiay, joining. (#ios-driver)
 [2014-12-19 05:27:16] operatiay, quitting. ()
 [2014-12-19 05:30:22] nirvdrum, joining. (#ios-driver)
+[2014-12-19 17:00:00] mach6___, joining. (#ios-driver)
