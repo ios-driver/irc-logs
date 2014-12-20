@@ -6,3 +6,5 @@
 [2014-12-20 08:30:42] AutomatedTester_, changing nick to AutomatedTester.
 [2014-12-20 08:30:42] AutomatedTester, quitting. (Changing host)
 [2014-12-20 08:30:42] AutomatedTester, joining. (#ios-driver)
+[2014-12-20 08:58:53] mach6___, joining. (#ios-driver)
+[2014-12-20 08:59:21] mach6___, quitting. (Client Quit)
