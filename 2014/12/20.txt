@@ -9,3 +9,4 @@
 [2014-12-20 08:58:53] mach6___, joining. (#ios-driver)
 [2014-12-20 08:59:21] mach6___, quitting. (Client Quit)
 [2014-12-20 11:11:13] nirvdrum, quitting. (Ping timeout: 255 seconds)
+[2014-12-20 23:18:14] ddary, joining. (#ios-driver)
