@@ -11,3 +11,4 @@
 [2014-12-20 11:11:13] nirvdrum, quitting. (Ping timeout: 255 seconds)
 [2014-12-20 23:18:14] ddary, joining. (#ios-driver)
 [2014-12-20 23:26:18] ddary, quitting. (Quit: ddary)
+[2014-12-20 23:45:19] ddary, joining. (#ios-driver)
