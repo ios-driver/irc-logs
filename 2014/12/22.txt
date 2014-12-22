@@ -1,1 +1,2 @@
 [2014-12-22 01:31:04] psp250, joining. (#ios-driver)
+[2014-12-22 03:24:29] psp250, quitting. (Quit: Leaving)
