@@ -5,3 +5,6 @@
 [2014-12-22 04:46:01] tkriz, joining. (#ios-driver)
 [2014-12-22 05:42:49] nirvdrum, joining. (#ios-driver)
 [2014-12-22 07:09:33] tkriz, quitting. (Quit: Leaving.)
+[2014-12-22 09:43:03] tkriz, joining. (#ios-driver)
+[2014-12-22 09:43:03] tkriz, quitting. (Changing host)
+[2014-12-22 09:43:03] tkriz, joining. (#ios-driver)
