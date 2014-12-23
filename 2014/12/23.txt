@@ -10,3 +10,4 @@
 [2014-12-23 04:26:19] nicegraham______, joining. (#ios-driver)
 [2014-12-23 04:28:54] AutomatedTester, joining. (#ios-driver)
 [2014-12-23 05:19:44] nirvdrum, joining. (#ios-driver)
+[2014-12-23 11:07:23] smccarthy, joining. (#ios-driver)
