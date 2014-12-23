@@ -3,3 +3,6 @@
 [2014-12-23 01:59:15] tkriz, quitting. (Changing host)
 [2014-12-23 01:59:15] tkriz, joining. (#ios-driver)
 [2014-12-23 04:12:51] tkriz, quitting. (Quit: Leaving.)
+[2014-12-23 04:24:30] freynaud_, quitting. (*.net *.split)
+[2014-12-23 04:24:31] nicegraham______, quitting. (*.net *.split)
+[2014-12-23 04:24:33] AutomatedTester, quitting. (*.net *.split)
