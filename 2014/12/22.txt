@@ -11,3 +11,5 @@
 [2014-12-22 10:46:42] tkriz, quitting. (Quit: Leaving.)
 [2014-12-22 12:48:24] smccarthy, joining. (#ios-driver)
 [2014-12-22 13:05:16] smccarthy, quitting. (Quit: Leaving...)
+[2014-12-22 19:24:48] nirvdrum, quitting. (Ping timeout: 256 seconds)
+[2014-12-22 19:24:56] renelux, joining. (#ios-driver)
