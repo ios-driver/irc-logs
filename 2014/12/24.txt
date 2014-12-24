@@ -1,1 +1,2 @@
 [2014-12-24 01:19:50] renelux86, quitting. (Remote host closed the connection)
+[2014-12-24 05:29:22] nirvdrum, joining. (#ios-driver)
