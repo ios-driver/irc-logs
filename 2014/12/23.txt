@@ -16,3 +16,4 @@
 [2014-12-23 13:20:13] smccarthy, quitting. (Remote host closed the connection)
 [2014-12-23 14:52:04] mach6, joining. (#ios-driver)
 [2014-12-23 16:14:51] renelux, joining. (#ios-driver)
+[2014-12-23 16:53:58] mach6, quitting. (Quit: Be back later ...)
