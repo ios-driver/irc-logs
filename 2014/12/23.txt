@@ -20,3 +20,5 @@
 [2014-12-23 18:49:33] smccarthy, joining. (#ios-driver)
 [2014-12-23 19:14:19] smccarthy, quitting. (Quit: Leaving...)
 [2014-12-23 19:55:52] nirvdrum, quitting. (Ping timeout: 240 seconds)
+[2014-12-23 20:41:10] renelux86, joining. (#ios-driver)
+[2014-12-23 20:41:14] renelux, quitting. (Read error: Connection reset by peer)
