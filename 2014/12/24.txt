@@ -2,3 +2,4 @@
 [2014-12-24 05:29:22] nirvdrum, joining. (#ios-driver)
 [2014-12-24 11:37:42] nirvdrum, quitting. (Ping timeout: 265 seconds)
 [2014-12-24 16:25:26] renelux, joining. (#ios-driver)
+[2014-12-24 23:27:52] renelux, quitting. (Ping timeout: 255 seconds)
