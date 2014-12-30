@@ -7,3 +7,5 @@
 [2014-12-30 06:05:37] smccarthy, joining. (#ios-driver)
 [2014-12-30 06:41:23] smccarthy, quitting. (Quit: Leaving...)
 [2014-12-30 07:45:42] smccarthy, joining. (#ios-driver)
+[2014-12-30 08:35:40] nirvdrum__, joining. (#ios-driver)
+[2014-12-30 08:38:38] nirvdrum__, quitting. (Remote host closed the connection)
