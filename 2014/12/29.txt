@@ -12,3 +12,4 @@
 [2014-12-29 17:56:55] renelux, joining. (#ios-driver)
 [2014-12-29 19:16:11] nirvdrum, quitting. (Ping timeout: 258 seconds)
 [2014-12-29 19:46:58] smccarthy, quitting. (Quit: Leaving...)
+[2014-12-29 23:52:14] vinayak, joining. (#ios-driver)
