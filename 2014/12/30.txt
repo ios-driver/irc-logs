@@ -4,3 +4,4 @@
 [2014-12-30 01:28:40] renelux, quitting. (Remote host closed the connection)
 [2014-12-30 04:17:37] ddary, joining. (#ios-driver)
 [2014-12-30 04:18:17] ddary, leaving. (#ios-driver)
+[2014-12-30 06:05:37] smccarthy, joining. (#ios-driver)
