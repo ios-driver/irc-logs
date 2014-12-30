@@ -1,1 +1,4 @@
 [2014-12-30 01:05:19] vinayak, quitting. (Quit: Page closed)
+[2014-12-30 01:28:23] renelux, quitting. (Ping timeout: 240 seconds)
+[2014-12-30 01:28:32] renelux, joining. (#ios-driver)
+[2014-12-30 01:28:40] renelux, quitting. (Remote host closed the connection)
