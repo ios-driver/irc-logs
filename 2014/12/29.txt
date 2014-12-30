@@ -10,3 +10,4 @@
 [2014-12-29 16:59:19] smccarthy, joining. (#ios-driver)
 [2014-12-29 17:56:37] renelux, quitting. (Read error: Connection reset by peer)
 [2014-12-29 17:56:55] renelux, joining. (#ios-driver)
+[2014-12-29 19:16:11] nirvdrum, quitting. (Ping timeout: 258 seconds)
