@@ -7,3 +7,4 @@
 [2014-12-29 07:47:09] smccarthy, joining. (#ios-driver)
 [2014-12-29 14:57:26] smccarthy, quitting. (Quit: Leaving...)
 [2014-12-29 16:11:59] renelux, joining. (#ios-driver)
+[2014-12-29 16:59:19] smccarthy, joining. (#ios-driver)
