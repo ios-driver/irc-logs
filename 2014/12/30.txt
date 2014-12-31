@@ -11,3 +11,4 @@
 [2014-12-30 08:38:38] nirvdrum__, quitting. (Remote host closed the connection)
 [2014-12-30 15:10:58] smccarthy, quitting. (Quit: Leaving...)
 [2014-12-30 16:59:14] smccarthy, joining. (#ios-driver)
+[2014-12-30 17:19:15] renelux, joining. (#ios-driver)
