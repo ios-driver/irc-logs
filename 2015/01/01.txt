@@ -1,3 +1,5 @@
 [2015-01-01 07:25:39] smccarthy, joining. (#ios-driver)
 [2015-01-01 14:00:14] ios-driverbot__, joining. (#ios-driver)
 [2015-01-01 14:05:47] ios-driverbot_, quitting. (Remote host closed the connection)
+[2015-01-01 15:12:26] smccarthy, quitting. (Read error: Connection reset by peer)
+[2015-01-01 15:12:52] smccarthy, joining. (#ios-driver)
