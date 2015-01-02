@@ -4,3 +4,4 @@
 [2015-01-01 15:12:26] smccarthy, quitting. (Read error: Connection reset by peer)
 [2015-01-01 15:12:52] smccarthy, joining. (#ios-driver)
 [2015-01-01 15:29:00] smccarthy, quitting. (Remote host closed the connection)
+[2015-01-01 16:08:43] smccarthy, joining. (#ios-driver)
