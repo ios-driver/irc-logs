@@ -2,3 +2,4 @@
 [2015-01-03 08:27:27] smccarthy, quitting. (Quit: Leaving...)
 [2015-01-03 09:22:25] smccarthy, joining. (#ios-driver)
 [2015-01-03 10:16:30] smccarthy, quitting. (Quit: Leaving...)
+[2015-01-03 14:55:32] smccarthy, joining. (#ios-driver)
