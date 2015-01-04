@@ -5,3 +5,4 @@
 [2015-01-03 14:55:32] smccarthy, joining. (#ios-driver)
 [2015-01-03 20:05:45] smccarthy, quitting. (Remote host closed the connection)
 [2015-01-03 20:54:15] smccarthy, joining. (#ios-driver)
+[2015-01-03 22:17:46] smccarthy, quitting. (Quit: Leaving...)
