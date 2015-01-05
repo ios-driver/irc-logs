@@ -35,3 +35,4 @@
 [2015-01-05 09:55:58] ddary, joining. (#ios-driver)
 [2015-01-05 10:11:57] nicegraham______, quitting. (Read error: Network is unreachable)
 [2015-01-05 10:16:42] nicegraham______, joining. (#ios-driver)
+[2015-01-05 10:30:55] ddary, quitting. (Quit: ddary)
