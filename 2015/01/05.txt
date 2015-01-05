@@ -19,3 +19,4 @@
 [2015-01-05 05:33:36] tkriz, joining. (#ios-driver)
 [2015-01-05 05:38:06] tkriz, quitting. (Ping timeout: 244 seconds)
 [2015-01-05 05:39:44] smccarthy, joining. (#ios-driver)
+[2015-01-05 05:40:42] nirvdrum, joining. (#ios-driver)
