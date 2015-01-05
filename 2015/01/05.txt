@@ -43,3 +43,7 @@
 [2015-01-05 11:55:27] tkriz, joining. (#ios-driver)
 [2015-01-05 11:55:28] tkriz, quitting. (Changing host)
 [2015-01-05 11:55:28] tkriz, joining. (#ios-driver)
+[2015-01-05 13:53:16] ios-driver-git, joining. (#ios-driver)
+[2015-01-05 13:53:16] ios-driver-git: [ios-driver] mmmulani pushed 1 new commit to dev: http://git.io/LOKL1w
+[2015-01-05 13:53:16] ios-driver-git: ios-driver/dev 49f6483 Mehdi Mulani: Update instruments-without-delay to add typing fix.
+[2015-01-05 13:53:16] ios-driver-git, leaving. (#ios-driver)
