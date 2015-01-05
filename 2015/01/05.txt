@@ -28,3 +28,5 @@
 [2015-01-05 07:28:34] tkriz, joining. (#ios-driver)
 [2015-01-05 07:28:34] tkriz, quitting. (Changing host)
 [2015-01-05 07:28:34] tkriz, joining. (#ios-driver)
+[2015-01-05 07:45:23] smccarthy, joining. (#ios-driver)
+[2015-01-05 07:49:36] smccarthy, quitting. (Client Quit)
