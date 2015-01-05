@@ -31,3 +31,4 @@
 [2015-01-05 07:45:23] smccarthy, joining. (#ios-driver)
 [2015-01-05 07:49:36] smccarthy, quitting. (Client Quit)
 [2015-01-05 08:02:12] smccarthy, joining. (#ios-driver)
+[2015-01-05 09:54:40] tkriz, quitting. (Ping timeout: 264 seconds)
