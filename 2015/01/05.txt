@@ -5,3 +5,7 @@
 [2015-01-05 02:50:18] tkriz, joining. (#ios-driver)
 [2015-01-05 02:50:18] tkriz, quitting. (Changing host)
 [2015-01-05 02:50:18] tkriz, joining. (#ios-driver)
+[2015-01-05 03:46:25] tkriz1, joining. (#ios-driver)
+[2015-01-05 03:46:25] tkriz1, quitting. (Changing host)
+[2015-01-05 03:46:25] tkriz1, joining. (#ios-driver)
+[2015-01-05 03:48:06] tkriz, quitting. (Ping timeout: 250 seconds)
