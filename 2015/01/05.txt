@@ -24,3 +24,7 @@
 [2015-01-05 05:45:28] tkriz, quitting. (Changing host)
 [2015-01-05 05:45:28] tkriz, joining. (#ios-driver)
 [2015-01-05 06:34:24] smccarthy, quitting. (Quit: Leaving...)
+[2015-01-05 07:27:50] tkriz, quitting. (Ping timeout: 244 seconds)
+[2015-01-05 07:28:34] tkriz, joining. (#ios-driver)
+[2015-01-05 07:28:34] tkriz, quitting. (Changing host)
+[2015-01-05 07:28:34] tkriz, joining. (#ios-driver)
