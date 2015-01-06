@@ -24,3 +24,4 @@
 [2015-01-06 08:02:23] ios-driver-git: ios-driver/dev 91ac17b Greg Dennis: Restore getApplicationName getter to WebkitApplication.
 [2015-01-06 08:02:23] ios-driver-git, leaving. (#ios-driver)
 [2015-01-06 08:03:12] tkriz, quitting. (Ping timeout: 245 seconds)
+[2015-01-06 10:33:38] tkriz1, quitting. (Quit: Leaving.)
