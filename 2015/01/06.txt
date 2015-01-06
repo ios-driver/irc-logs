@@ -6,3 +6,6 @@
 [2015-01-06 01:19:29] tkriz, quitting. (Changing host)
 [2015-01-06 01:19:29] tkriz, joining. (#ios-driver)
 [2015-01-06 01:19:32] tkriz, quitting. (Client Quit)
+[2015-01-06 01:21:42] tkriz, joining. (#ios-driver)
+[2015-01-06 01:21:43] tkriz, quitting. (Changing host)
+[2015-01-06 01:21:43] tkriz, joining. (#ios-driver)
