@@ -56,3 +56,4 @@
 [2015-01-05 15:44:42] smccarthy, quitting. (Quit: Leaving...)
 [2015-01-05 17:38:12] smccarthy, joining. (#ios-driver)
 [2015-01-05 18:27:35] mach6_, quitting. (Quit: Be back later ...)
+[2015-01-05 20:47:38] smccarthy, quitting. (Quit: Leaving...)
