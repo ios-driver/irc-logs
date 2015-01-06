@@ -25,3 +25,6 @@
 [2015-01-06 08:02:23] ios-driver-git, leaving. (#ios-driver)
 [2015-01-06 08:03:12] tkriz, quitting. (Ping timeout: 245 seconds)
 [2015-01-06 10:33:38] tkriz1, quitting. (Quit: Leaving.)
+[2015-01-06 11:24:51] tkriz, joining. (#ios-driver)
+[2015-01-06 11:24:52] tkriz, quitting. (Changing host)
+[2015-01-06 11:24:52] tkriz, joining. (#ios-driver)
