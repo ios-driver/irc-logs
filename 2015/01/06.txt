@@ -11,3 +11,4 @@
 [2015-01-06 01:21:43] tkriz, joining. (#ios-driver)
 [2015-01-06 04:57:30] smccarthy, joining. (#ios-driver)
 [2015-01-06 06:12:45] nirvdrum, joining. (#ios-driver)
+[2015-01-06 06:39:34] smccarthy, quitting. (Quit: Leaving...)
