@@ -16,3 +16,11 @@
 [2015-01-06 07:01:52] ios-driver-git: [ios-driver] iamleeg opened pull request #335: Distinguish between Instruments crashing and the AUT crashing (dev...detect-app-crashes) http://git.io/1W-VOQ
 [2015-01-06 07:01:52] ios-driver-git, leaving. (#ios-driver)
 [2015-01-06 07:45:06] smccarthy, joining. (#ios-driver)
+[2015-01-06 08:00:48] tkriz1, joining. (#ios-driver)
+[2015-01-06 08:00:48] tkriz1, quitting. (Changing host)
+[2015-01-06 08:00:48] tkriz1, joining. (#ios-driver)
+[2015-01-06 08:02:22] ios-driver-git, joining. (#ios-driver)
+[2015-01-06 08:02:23] ios-driver-git: [ios-driver] progressnerd pushed 1 new commit to dev: http://git.io/bRDj0w
+[2015-01-06 08:02:23] ios-driver-git: ios-driver/dev 91ac17b Greg Dennis: Restore getApplicationName getter to WebkitApplication.
+[2015-01-06 08:02:23] ios-driver-git, leaving. (#ios-driver)
+[2015-01-06 08:03:12] tkriz, quitting. (Ping timeout: 245 seconds)
